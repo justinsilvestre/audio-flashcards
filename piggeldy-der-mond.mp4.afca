@@ -1,0 +1,200 @@
+{
+  "version": "0.0.0",
+  "clips": {
+    "5bdb547c-8ad7-4412-99db-1705a0ed77be": {
+      "id": "5bdb547c-8ad7-4412-99db-1705a0ed77be",
+      "start": 315,
+      "end": 484,
+      "flashcard": {
+        "id": "5bdb547c-8ad7-4412-99db-1705a0ed77be",
+        "fields": {
+          "front": "Piggeldy wollte wissen, wie man den Mond fängt.",
+          "back": "Piggeldy wanted to know how to catch the moon."
+        }
+      }
+    },
+    "c4a94f27-fb0d-4298-9da3-37bbe65fc69c": {
+      "id": "c4a94f27-fb0d-4298-9da3-37bbe65fc69c",
+      "start": 514,
+      "end": 897,
+      "flashcard": {
+        "id": "c4a94f27-fb0d-4298-9da3-37bbe65fc69c",
+        "fields": {
+          "front": "«Frederick», fragte Piggeldy seinen großen Bruder, «zeig mir, wie man den Mond fangen kann.»",
+          "back": "Frederick, Piggeldy asked his older brother, show me how one can catch the moon."
+        }
+      }
+    },
+    "f9b7895a-7542-4d7b-a830-9a505f7131a6": {
+      "id": "f9b7895a-7542-4d7b-a830-9a505f7131a6",
+      "start": 909,
+      "end": 1084.6999999999998,
+      "flashcard": {
+        "id": "f9b7895a-7542-4d7b-a830-9a505f7131a6",
+        "fields": {
+          "front": "Nichts leichter als das! antwortete Frederick.",
+          "back": "Piece of cake (lit. nothing easier than that)! replied Frederick."
+        }
+      }
+    },
+    "d7379e66-e1fa-4714-b18e-5841d97bc3de": {
+      "id": "d7379e66-e1fa-4714-b18e-5841d97bc3de",
+      "start": 1096.6999999999998,
+      "end": 1140.6999999999998,
+      "flashcard": {
+        "id": "d7379e66-e1fa-4714-b18e-5841d97bc3de",
+        "fields": {
+          "front": "Komm mit!",
+          "back": "Come along!"
+        }
+      }
+    },
+    "8f7a6cc1-dff2-4255-9bd2-a804e046e45b": {
+      "id": "8f7a6cc1-dff2-4255-9bd2-a804e046e45b",
+      "start": 1161.6999999999998,
+      "end": 1272.6999999999998,
+      "flashcard": {
+        "id": "8f7a6cc1-dff2-4255-9bd2-a804e046e45b",
+        "fields": {
+          "front": "Piggeldy folgte Frederick.",
+          "back": "Piggeldy followed Frederick."
+        }
+      }
+    },
+    "187a3db2-ed79-46fe-bbbc-5a76f4970967": {
+      "id": "187a3db2-ed79-46fe-bbbc-5a76f4970967",
+      "start": 1306,
+      "end": 1635.6999999999998,
+      "flashcard": {
+        "id": "187a3db2-ed79-46fe-bbbc-5a76f4970967",
+        "fields": {
+          "front": "«Wenn wir lange genug warten,» sagte Frederick, «wird es irgendwann dunkel.»",
+          "back": "If we wait long enough, said Frederick, it will eventually get dark."
+        }
+      }
+    },
+    "de42e6b5-4d18-4ce2-8664-a10a9d5edb2c": {
+      "id": "de42e6b5-4d18-4ce2-8664-a10a9d5edb2c",
+      "start": 1639.6999999999998,
+      "end": 1736.6999999999998,
+      "flashcard": {
+        "id": "de42e6b5-4d18-4ce2-8664-a10a9d5edb2c",
+        "fields": {
+          "front": "Das ist jeden Tag dasselbe.",
+          "back": "That's the same every day."
+        }
+      }
+    },
+    "77b79df1-05dd-4c37-a8fe-6b146df50cb4": {
+      "id": "77b79df1-05dd-4c37-a8fe-6b146df50cb4",
+      "start": 1749,
+      "end": 1928.6999999999998,
+      "flashcard": {
+        "id": "77b79df1-05dd-4c37-a8fe-6b146df50cb4",
+        "fields": {
+          "front": "Und wenn es dunkel ist, scheint auch der Mond.",
+          "back": "And when it's dark, the Moon will be shining, too."
+        }
+      }
+    },
+    "c1361ec7-9e8f-40e3-bead-07db3e68d2af": {
+      "id": "c1361ec7-9e8f-40e3-bead-07db3e68d2af",
+      "start": 1952.1,
+      "end": 2175.7,
+      "flashcard": {
+        "id": "c1361ec7-9e8f-40e3-bead-07db3e68d2af",
+        "fields": {
+          "front": "Er ist ziemlich dick, sagte Piggeldy als der Mond endlich erschien.",
+          "back": "It's quite fat, said Piggeldy when the moon finally arrived."
+        }
+      }
+    },
+    "557226d8-165b-4022-98db-9b8ab4630c61": {
+      "id": "557226d8-165b-4022-98db-9b8ab4630c61",
+      "start": 2191,
+      "end": 2376.7,
+      "flashcard": {
+        "id": "557226d8-165b-4022-98db-9b8ab4630c61",
+        "fields": {
+          "front": "Das ist sehr ungünstig, meinte Frederick.",
+          "back": "That's very unfavorable, offered Frederick."
+        }
+      }
+    },
+    "7e9c4619-9229-4e99-b593-797af8591dc6": {
+      "id": "7e9c4619-9229-4e99-b593-797af8591dc6",
+      "start": 2389.7,
+      "end": 2600.7,
+      "flashcard": {
+        "id": "7e9c4619-9229-4e99-b593-797af8591dc6",
+        "fields": {
+          "front": "Wir mussen warten, bis er dünner geworden ist. ",
+          "back": "We must wait until it gets thinner."
+        }
+      }
+    },
+    "796cc73e-baea-43f2-b654-69775d0b83d9": {
+      "id": "796cc73e-baea-43f2-b654-69775d0b83d9",
+      "start": 2641,
+      "end": 2760,
+      "flashcard": {
+        "id": "796cc73e-baea-43f2-b654-69775d0b83d9",
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "51bccfa7-41fa-4d84-a935-b2df74536a95": {
+      "id": "51bccfa7-41fa-4d84-a935-b2df74536a95",
+      "start": 3594,
+      "end": 3797,
+      "flashcard": {
+        "id": "51bccfa7-41fa-4d84-a935-b2df74536a95",
+        "fields": {
+          "front": "Schleichen wir uns an",
+          "back": ""
+        }
+      }
+    },
+    "19cd5ce1-00aa-40b3-a164-c96b221e7c41": {
+      "id": "19cd5ce1-00aa-40b3-a164-c96b221e7c41",
+      "start": 6678,
+      "end": 6762,
+      "flashcard": {
+        "id": "19cd5ce1-00aa-40b3-a164-c96b221e7c41",
+        "fields": {
+          "front": "Jetzt haben wir ihn!",
+          "back": "Now we've got him!"
+        }
+      }
+    },
+    "ac194c7a-c0a8-4e49-9053-2b5f4edda59b": {
+      "id": "ac194c7a-c0a8-4e49-9053-2b5f4edda59b",
+      "start": 8302,
+      "end": 8549,
+      "flashcard": {
+        "id": "ac194c7a-c0a8-4e49-9053-2b5f4edda59b",
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    }
+  },
+  "noteType": {
+    "id": "default",
+    "name": "default",
+    "fields": [
+      {
+        "id": "front",
+        "name": "German"
+      },
+      {
+        "id": "back",
+        "name": "English"
+      }
+    ]
+  },
+  "audioFileName": "piggeldy-der-mond.mp4"
+}

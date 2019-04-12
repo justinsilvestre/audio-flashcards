@@ -1,0 +1,2550 @@
+{
+  "version": "2.0.0",
+  "timestamp": "2019-04-12T15:37:47Z",
+  "name": "Basic Japanese",
+  "id": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
+  "noteType": {
+    "id": "879ec327-80c2-4723-88e4-21c550f30ad6",
+    "name": "Japanese",
+    "fields": [
+      {
+        "id": "front",
+        "name": "Japanese"
+      },
+      {
+        "id": "back",
+        "name": "Romaji"
+      },
+      {
+        "id": "717524da-c2af-4196-b850-a6ab9a646798",
+        "name": "English"
+      },
+      {
+        "id": "4bb9ac55-5d96-4561-b6b2-c9827c277d16",
+        "name": "Notes"
+      }
+    ],
+    "useTagsField": true
+  },
+  "mediaFilesMetadata": [
+    {
+      "id": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "name": "Japanese Listening (N5-N4-N3) - Shadowing lets speak Japanese beginner to intermediate (N5 N4 N3).mp4",
+      "durationSeconds": 3997.500911,
+      "format": "mov,mp4,m4a,3gp,3g2,mj2",
+      "isVideo": true
+    },
+    {
+      "id": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "name": "01 onna no ko.m4a",
+      "durationSeconds": 219.312472,
+      "format": "mov,mp4,m4a,3gp,3g2,mj2",
+      "isVideo": false
+    },
+    {
+      "id": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "name": "02 hachi no hanashi.m4a",
+      "durationSeconds": 225.558639,
+      "format": "mov,mp4,m4a,3gp,3g2,mj2",
+      "isVideo": false
+    }
+  ],
+  "tags": [
+    "shad1-1",
+    "jgr1-1-1",
+    "shad1-2",
+    "shad1-3",
+    "shad1-4",
+    "shad1-5",
+    "shad1-6",
+    "shad1-7",
+    "shad1-8",
+    "shad1-9",
+    "shad1-10"
+  ],
+  "clips": {
+    "1dc6af34-54ab-4b16-9974-385df03cca82": {
+      "start": 727,
+      "end": 814,
+      "id": "1dc6af34-54ab-4b16-9974-385df03cca82",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "1dc6af34-54ab-4b16-9974-385df03cca82",
+        "tags": [
+          "shad1-1"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Sóu?\nSóu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Is that so? (casual)\nYeah. (casual)",
+          "5a8c25cd-347e-4da9-b272-44842c93c3cf": "Really?",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"so, that way, like that, thus\".\n\nAfter the accented vowel, the pitch goes down. Pitch accent isn't usually marked in Japanese transliteration.\n\n\"Ou\" is pronounced like \"oo\"' in most words. When you see two vowels in a row like this, make sure to pronounce each separately."
+        }
+      }
+    },
+    "92809685-6016-4401-b46c-cf2e4b09ac36": {
+      "start": 913,
+      "end": 1115,
+      "id": "92809685-6016-4401-b46c-cf2e4b09ac36",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "92809685-6016-4401-b46c-cf2e4b09ac36",
+        "tags": [
+          "shad1-1"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Ee, dóre? Kore?\nÚn. Sore.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Really? Which one? This one? (casual)\nYup, that one. (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Sore\" specifically means \"that one (close to you)\". There is a different word for \"that one (over there, far from us both).\n\nWhen the accent doesn't fall on the first syllable of an utterance, the first syllable has a low pitch, and all the rest are high until a word containing a downstep. Hence why the speakers' voices go up as they say \"kore\" and \"sore\".\n\nhttps://www.youtube.com/watch?v=CnBYZJ33MsY"
+        }
+      }
+    },
+    "d1dc24d2-2ea8-4b44-b871-ab033f053dd5": {
+      "start": 1219,
+      "end": 1355,
+      "id": "d1dc24d2-2ea8-4b44-b871-ab033f053dd5",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "d1dc24d2-2ea8-4b44-b871-ab033f053dd5",
+        "tags": [
+          "shad1-1"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Oishii?\nÚn. Oishii yo.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Is it tasty? (casual)\nYeah, it's good. (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "You can put \"yo\" at the end of almost any sentence to give it a kind of assertive feeling. There are lots of sentence-ending \"particles\" like this, that give different feelings. \n\nhttps://www.youtube.com/watch?v=szjfbOZmY1k"
+        }
+      }
+    },
+    "aceebc22-653d-464a-b3fd-45c626dba635": {
+      "start": 1454,
+      "end": 1542,
+      "id": "aceebc22-653d-464a-b3fd-45c626dba635",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "aceebc22-653d-464a-b3fd-45c626dba635",
+        "tags": [
+          "shad1-1"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Hai?\nHai.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Yes? (polite)\nYes. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "d691c1b7-bc19-4e66-a249-f6c7cd36f0be": {
+      "start": 1460,
+      "end": 1517,
+      "id": "d691c1b7-bc19-4e66-a249-f6c7cd36f0be",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "d691c1b7-bc19-4e66-a249-f6c7cd36f0be",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "女の子",
+          "back": "Onnanóko",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Girl",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "6d4fd738-6204-4990-b9db-4e7b6e45e6ab": {
+      "start": 1643,
+      "end": 1737,
+      "id": "6d4fd738-6204-4990-b9db-4e7b6e45e6ab",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "6d4fd738-6204-4990-b9db-4e7b6e45e6ab",
+        "tags": [
+          "shad1-1"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kírei?\nKírei.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "[Is it] pretty? (casual)\nYes, it is. (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Japanese doesn't use pronouns like English. \"It\" is understood here.\n\nThe sound combination \"ei\" is often pronounced as a long \"ee\"."
+        }
+      }
+    },
+    "cd62f0e6-67e7-4cd9-bacf-114b5aa1415a": {
+      "start": 1823,
+      "end": 1928,
+      "id": "cd62f0e6-67e7-4cd9-bacf-114b5aa1415a",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "cd62f0e6-67e7-4cd9-bacf-114b5aa1415a",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "大きい家があります。",
+          "back": "Ookíi ié-ga arimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "There is [a] big house. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Ga\" identifies the subject of a verb, especially one that's newly mentioned.\n\n\"arimásu\" in plain form = \"áru\"  ",
+          "2baab82a-a398-4349-affa-530803171e04": "áru, átta, nái, arimásu = is [there], was [there], is not [there], is [there]"
+        }
+      }
+    },
+    "527c86fe-cfee-4364-ad5f-4d93cb56359e": {
+      "start": 1854,
+      "end": 1958,
+      "id": "527c86fe-cfee-4364-ad5f-4d93cb56359e",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "527c86fe-cfee-4364-ad5f-4d93cb56359e",
+        "tags": [
+          "shad1-1"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Hontou?\nHontou.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Really? (casual)\nReally. (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "This \"n\" is the one kana that doesn't have a vowel. It's sometimes called a \"syllabic n\".\n\nThis word has four \"beats\": HO-N-TO-O. Linguists call these beats \"morae\" (singular \"mora\"), but you'll also hear people calling them syllables. What's important is that you pronounce each kana sound separately and with mostly equal duration."
+        }
+      }
+    },
+    "d7eeb865-e629-400b-834d-43aea116def4": {
+      "start": 2006,
+      "end": 2106,
+      "id": "d7eeb865-e629-400b-834d-43aea116def4",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "d7eeb865-e629-400b-834d-43aea116def4",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "とても大きい家です。",
+          "back": "Totemo ookíi ié-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "[It] is [a] very big house. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"[noun]-desu\" in plain form = \"[noun]-da\"",
+          "2baab82a-a398-4349-affa-530803171e04": ""
+        }
+      }
+    },
+    "13ffbb0b-a35d-4bd9-b338-09752d42a9d3": {
+      "start": 2069,
+      "end": 2188,
+      "id": "13ffbb0b-a35d-4bd9-b338-09752d42a9d3",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "13ffbb0b-a35d-4bd9-b338-09752d42a9d3",
+        "tags": [],
+        "fields": {
+          "front": "",
+          "back": "Tanaka-san?\nTanaka-san.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Tanaka-san? (casual)\nTanaka-san. (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"San\" is used more often that its usual translation, \"Mr./Mrs.\""
+        }
+      }
+    },
+    "f6519d97-687c-405a-92eb-fcb0476373f4": {
+      "start": 2221,
+      "end": 2491,
+      "id": "f6519d97-687c-405a-92eb-fcb0476373f4",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "f6519d97-687c-405a-92eb-fcb0476373f4",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "大きい家の大きい部屋に女の子がいます。",
+          "back": "Ookíi ié-no oókíi heyá-ni onnanóko-ga imásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "In [a] big room of [the] big house, there is [a] little girl. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"imásu\" in plain form = \"iru\"",
+          "2baab82a-a398-4349-affa-530803171e04": "iru, ita, inai, imásu = is [there], was [there], is not [there], is [there] (polite)"
+        }
+      }
+    },
+    "17388bbb-466a-4c9b-9ea1-fa0dca638659": {
+      "start": 2304,
+      "end": 2398,
+      "id": "17388bbb-466a-4c9b-9ea1-fa0dca638659",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "17388bbb-466a-4c9b-9ea1-fa0dca638659",
+        "tags": [
+          "shad1-1"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Íi?\nÍi yo.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Is that OK? (casual)\nIt's fine. (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Ii\" was originally \"yói\". Now \"yói\" is reserved for more formal contexts."
+        }
+      }
+    },
+    "bfbff850-d54d-46c6-93f8-bd94f8a65102": {
+      "start": 2520,
+      "end": 2655,
+      "id": "bfbff850-d54d-46c6-93f8-bd94f8a65102",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "bfbff850-d54d-46c6-93f8-bd94f8a65102",
+        "tags": [
+          "shad1-1"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Koko?\nÚn, soko.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Here? (casual)\nYep, there. (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Just like \"sore\", \"soko\" specifically means \"there (close to you)\", as opposed to \"there (away from the both of us).\""
+        }
+      }
+    },
+    "762a77f7-3ac7-46b1-ad2f-8ed2d08a3bb8": {
+      "start": 2571,
+      "end": 2732,
+      "id": "762a77f7-3ac7-46b1-ad2f-8ed2d08a3bb8",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "762a77f7-3ac7-46b1-ad2f-8ed2d08a3bb8",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "部屋には、物がたくさんあります。",
+          "back": "Heyá-ni-wa, monó-ga takusan arimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "In [the] room, there are many things. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Heya-ni-wa\" instead of just \"heya ni\" gives the tone that we're switching from one topic to another. In this case, we're moving from talking about the whole house, and narrowing the conversation down to the one room.\n\narimásu = áru"
+        }
+      }
+    },
+    "f2e9b436-f722-45d9-8e1a-3a3220a3f7bc": {
+      "start": 2773,
+      "end": 2930,
+      "id": "f2e9b436-f722-45d9-8e1a-3a3220a3f7bc",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "f2e9b436-f722-45d9-8e1a-3a3220a3f7bc",
+        "tags": [
+          "shad1-1"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Wakátta?\nHai, wakarimáshita.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Do you understand? (casual)\nYes, I understand. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Wakátta\" has FOUR beats, because of the doubled consonants: WA-KÁ-T-TA. Also, the vowel in \"shi\" tends to disappear--this happens sometimes with the \"i\" and \"u\" sounds in fast speech. \n\nLiterally, \"Was it understood? Yes, it was understood.\" From \"wakáru, wakarimásu\", \"to be understood\".\n\nThis exchange sounds like a teacher and a student because of the use of casual speech on the one speaker's part and formal on the other."
+        }
+      }
+    },
+    "ff6bc86d-498b-42d0-af5b-a5bb20d2bc9b": {
+      "start": 2798,
+      "end": 3011,
+      "id": "ff6bc86d-498b-42d0-af5b-a5bb20d2bc9b",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "ff6bc86d-498b-42d0-af5b-a5bb20d2bc9b",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "絵本もピアノもテレビもあります。",
+          "back": "Éhon-mo piano-mo térebi-mo arimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "There are picture-books, [a] piano, and [a] TV. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Instead of the usual topic marker \"wa\", \"mo\" is used to add the meaning of \"also, too, even\".\n\narimásu = áru"
+        }
+      }
+    },
+    "7e1698de-a991-448a-99ce-c3a2c49e2fa3": {
+      "start": 3093,
+      "end": 3177,
+      "id": "7e1698de-a991-448a-99ce-c3a2c49e2fa3",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "7e1698de-a991-448a-99ce-c3a2c49e2fa3",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "人形もあります。",
+          "back": "Ningyou-mo arimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "There's even/also [a] doll. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "arimásu = áru"
+        }
+      }
+    },
+    "388f21ad-319b-4ff1-8107-1fb8a4645d5e": {
+      "start": 3248,
+      "end": 3572,
+      "id": "388f21ad-319b-4ff1-8107-1fb8a4645d5e",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "388f21ad-319b-4ff1-8107-1fb8a4645d5e",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "でも、一つだけありません。",
+          "back": "Demo, hitotsu-dake arimasén.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "But just one [thing] isn't there. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"arimasén\" in plain form = \"nái\" "
+        }
+      }
+    },
+    "d67d10a1-b602-4972-9577-9df232fe57d3": {
+      "start": 3257,
+      "end": 3355,
+      "id": "d67d10a1-b602-4972-9577-9df232fe57d3",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "d67d10a1-b602-4972-9577-9df232fe57d3",
+        "tags": [
+          "shad1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Konnichiwa.\nKonnichiwa.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Hello. (polite)\nHello. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "In one of the few exceptions in modern Japanese kana, the \"wa\" here is written \"ha\". This \"wa\" is a particle often translated to \"as for, regarding\", but it's used much more often than its English translations. It's sometimes called the \"topic marker\".\n\nThe literal historical meaning of this phrase is \"As for today, [how are you doing?]\" But today, it's really just a polite hello."
+        }
+      }
+    },
+    "fc8b9b5e-c7e5-4ec1-bc0b-1965c859b4a2": {
+      "start": 3467,
+      "end": 3611,
+      "id": "fc8b9b5e-c7e5-4ec1-bc0b-1965c859b4a2",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "fc8b9b5e-c7e5-4ec1-bc0b-1965c859b4a2",
+        "tags": [
+          "shad1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Senséi, ohayou gozaimásu.\nOhayou.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Good morning, sensei. (polite)\nGood morning. (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Sensei could be a teacher, doctor, or someone else in a position of respect.\n\nFormal language is usually longer than casual language. The more respect the speaker is trying to show, the longer their speech tends to get."
+        }
+      }
+    },
+    "e14a2c68-6f03-439d-9553-ae00cb386fa1": {
+      "start": 3702,
+      "end": 3865,
+      "id": "e14a2c68-6f03-439d-9553-ae00cb386fa1",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "e14a2c68-6f03-439d-9553-ae00cb386fa1",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "女の子は言葉を言いません。",
+          "back": "Onnanóko-wa kotobá-o iimasén.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "[The] girl doesn't say [a] word. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"iimasén\" in plain form = \"iwanai\"\n\"iimásu\" in plain form = \"iu\""
+        }
+      }
+    },
+    "84b56b0b-e8b0-4776-8aaa-0cbcf1a6a0ea": {
+      "start": 3743,
+      "end": 3887,
+      "id": "84b56b0b-e8b0-4776-8aaa-0cbcf1a6a0ea",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "84b56b0b-e8b0-4776-8aaa-0cbcf1a6a0ea",
+        "tags": [
+          "shad1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Émi-san, jáa ne.\nÚn, matá ashitá.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "I'll see you later Emi-san. (casual)\nSee you tomorrow. (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Jáa ne\" is basically a casual \"bye\".\n\"Matá ashitá\" is literally \"again tomorrow\"."
+        }
+      }
+    },
+    "02f95f6b-7498-4ec4-a4dd-8ae687ce1ce8": {
+      "start": 3908,
+      "end": 4035,
+      "id": "02f95f6b-7498-4ec4-a4dd-8ae687ce1ce8",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "02f95f6b-7498-4ec4-a4dd-8ae687ce1ce8",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "そして笑いません。",
+          "back": "Soshite waraimasén.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Also, [she] doesn't laugh. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "waraimasén = warawanai\nwaraimásu = warau"
+        }
+      }
+    },
+    "dc648c0d-fcbb-4a1a-b8c3-5662a03025b2": {
+      "start": 4027,
+      "end": 4153,
+      "id": "dc648c0d-fcbb-4a1a-b8c3-5662a03025b2",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "dc648c0d-fcbb-4a1a-b8c3-5662a03025b2",
+        "tags": [
+          "shad1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "O-saki-ni shitsúrei shimásu.\nO-tsukare-sama.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Excuse me for leaving early. (polite)\nSee you tomorrow [thanks for your hard work]. (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"[I will] do [the] discourtesy [of leaving] first,\" and then \"[you must be] tired.\"\n\nThis sounds like an exchange between a junior coworker and senior coworker."
+        }
+      }
+    },
+    "1a39d031-7c83-46a9-b6fb-0fb6b9071a1d": {
+      "start": 4142,
+      "end": 4463,
+      "id": "1a39d031-7c83-46a9-b6fb-0fb6b9071a1d",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "1a39d031-7c83-46a9-b6fb-0fb6b9071a1d",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "女の子の家には、お父さんもいます。お母さんもいます。",
+          "back": "Onnanóko-no ié-ni-wa, o-tóu-san-mo imásu. O-káa-san-mo imásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "In [the] girl's house, there is [her] father, too. [Her] mother is there, too. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "imasu = iru"
+        }
+      }
+    },
+    "3b636c78-f9cc-4b6c-8854-82e8af9be28b": {
+      "start": 4291,
+      "end": 4420,
+      "id": "3b636c78-f9cc-4b6c-8854-82e8af9be28b",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "3b636c78-f9cc-4b6c-8854-82e8af9be28b",
+        "tags": [
+          "shad1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Áa.\nSumimasén.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Ahh (look what you've done).\nI'm sorry. (polite)"
+        }
+      }
+    },
+    "d529e042-902e-4a9e-b6a9-c680260d2064": {
+      "start": 4525,
+      "end": 4720,
+      "id": "d529e042-902e-4a9e-b6a9-c680260d2064",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "d529e042-902e-4a9e-b6a9-c680260d2064",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "でも、女んお子はいつも一人です。",
+          "back": "Démo, onnanóko-wa ítsumo hitóri-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "However, [the] girl is always alone. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "[noun]-desu = [noun]-da"
+        }
+      }
+    },
+    "b38511c8-467c-4e6a-bcef-f94c597b0ff2": {
+      "start": 4546,
+      "end": 4637,
+      "id": "b38511c8-467c-4e6a-bcef-f94c597b0ff2",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "b38511c8-467c-4e6a-bcef-f94c597b0ff2",
+        "tags": [
+          "shad1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Itte kimásu.\nItte rasshai.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "I'm off, see you later. (leaving home)\nSee you later. (staying home)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "These are set phrases for when you leave your home. Literally \"I'm going and will come back\", and \"Go and come.\""
+        }
+      }
+    },
+    "ab2b9391-55ef-4119-9597-028986f99592": {
+      "start": 4797,
+      "end": 4886,
+      "id": "ab2b9391-55ef-4119-9597-028986f99592",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "ab2b9391-55ef-4119-9597-028986f99592",
+        "tags": [
+          "shad1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Tadáima.\nO-kaerí.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "I'm home.\nWelcome home.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"[I'm arriving back] just now. Do come home.\"\n\n \"O-kaerí\" is from \"kaéru\", \"to go/come home\". The complete form \"o-kaeri-nasai\" is a polite command."
+        }
+      }
+    },
+    "b108f1e8-3537-4556-8b6e-eda5c8896a7d": {
+      "start": 4842,
+      "end": 5278,
+      "id": "b108f1e8-3537-4556-8b6e-eda5c8896a7d",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "b108f1e8-3537-4556-8b6e-eda5c8896a7d",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "隣の部屋から、お父さんの大きい声。お母さんの大きい声。",
+          "back": "Tonari-no heyá-kara, o-tóu-san-no ookíi kóe. O-káa-san-no ookíi kóe.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "From [the] next room, [her] father's loud voice. [Her] mother's loud voice.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "95c2e05e-af8c-420e-b96f-a30be9ac3b7d": {
+      "start": 5019,
+      "end": 5182,
+      "id": "95c2e05e-af8c-420e-b96f-a30be9ac3b7d",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "95c2e05e-af8c-420e-b96f-a30be9ac3b7d",
+        "tags": [
+          "shad1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Dóumo arígatou gozaimasu.\nIie, dóu itashimáshite.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Thank you very much. (polite)\nNot at all, you're welcome. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "The \"-ou gozaimasu\" ending here is the same as in \"ohayou gozaimasu\". It comes from an archaic polite sentence ending that's normally not used today, except in these set phrases."
+        }
+      }
+    },
+    "c2bdb101-0d1f-448d-a73d-027a2dd01ddf": {
+      "start": 5317,
+      "end": 5451,
+      "id": "c2bdb101-0d1f-448d-a73d-027a2dd01ddf",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "c2bdb101-0d1f-448d-a73d-027a2dd01ddf",
+        "tags": [
+          "shad1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Íi ténki-desu ne.\nÉe, sóu-desu ne.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Nice weather isn't it? (polite)\nYes, it is. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Ne\" is a sentence-ending particle like \"yo\". It marks that the speaker is seeking agreement.\n\n\"Desu\" is a polite word for \"is, are, am\".\n\n\"Ee\" is polite, but just a touch more casual than \"hai\"."
+        }
+      }
+    },
+    "6a4dbb0f-558d-43b7-9d67-8ec5fdada94c": {
+      "start": 5339,
+      "end": 5532,
+      "id": "6a4dbb0f-558d-43b7-9d67-8ec5fdada94c",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "6a4dbb0f-558d-43b7-9d67-8ec5fdada94c",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "そして、ドアの音。",
+          "back": "Soshite, dóa-no otó.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Then, [the] sound of [a] door.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "96193e79-9f2b-4282-9351-5cfd0c8b158c": {
+      "start": 5594,
+      "end": 5717,
+      "id": "96193e79-9f2b-4282-9351-5cfd0c8b158c",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "96193e79-9f2b-4282-9351-5cfd0c8b158c",
+        "tags": [
+          "shad1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "O-génki-desu ka?\nHai, génki-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "How are you? (polite)\nI'm very well, thank you. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"Are [you] lively/energetic? Yes, [I] am lively/energetic.\"\n\n\"Ka\" is a sentence-ending particle for questions. It's used more often in formal sentences than casual ones.\n\nThe \"o\" in \"o-génki\" and \"o-tsukaresama\" is a mark of politeness, sometimes translated as \"honorable, honorably.\" It shows that you're trying to show respect or deference towards the referent.\n\nWhen you're talking about yourself, you don't say \"o-genki-desu\", because why would you be polite to yourself?"
+        }
+      }
+    },
+    "46b422db-ac24-4872-9eaa-a3e034266cee": {
+      "start": 5686,
+      "end": 5790,
+      "id": "46b422db-ac24-4872-9eaa-a3e034266cee",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "46b422db-ac24-4872-9eaa-a3e034266cee",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "古いアパートがあります。",
+          "back": "Furúi apáato-ga arimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "There is [an] old apartment. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "arimásu = áru"
+        }
+      }
+    },
+    "58258432-a0a6-42e9-a1f5-ad5aee145a7c": {
+      "start": 5829.8,
+      "end": 5937.8,
+      "id": "58258432-a0a6-42e9-a1f5-ad5aee145a7c",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "58258432-a0a6-42e9-a1f5-ad5aee145a7c",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "とても古いアパートです。",
+          "back": "Totemo furúi apáato-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "[It] is [a] very old apartment. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "[noun]-desu = [noun]-da"
+        }
+      }
+    },
+    "fb1143db-98a5-4264-9916-80cf0465d395": {
+      "start": 6017.8,
+      "end": 6286,
+      "id": "fb1143db-98a5-4264-9916-80cf0465d395",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "fb1143db-98a5-4264-9916-80cf0465d395",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "お母さんと女の子は、今、このアパートにいます。",
+          "back": "O-káa-san-to onnanóko-wa, íma, kono apáato-ni imásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "[The] mother and [the] girl are now in this apartment. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "imásu = iru"
+        }
+      }
+    },
+    "6b5a40ae-5c97-4491-9cc6-6fe32d8c0d53": {
+      "start": 6068,
+      "end": 6176,
+      "id": "6b5a40ae-5c97-4491-9cc6-6fe32d8c0d53",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "6b5a40ae-5c97-4491-9cc6-6fe32d8c0d53",
+        "tags": [
+          "shad1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Nán-ji-desu ka?\nKú-ji-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What time is it? (polite)\nIt's 9 o'clock. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"What-hour is [it]?\" \"[It]'s nine-hour.\""
+        }
+      }
+    },
+    "6ec772be-a82e-480a-b4ec-6ec10fb88481": {
+      "start": 6253,
+      "end": 6384,
+      "id": "6ec772be-a82e-480a-b4ec-6ec10fb88481",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "6ec772be-a82e-480a-b4ec-6ec10fb88481",
+        "tags": [
+          "shad1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Íma, nán-ji-desu ka?\nYó-ji.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Four\" is more usually \"yón\", but it gets shortened to \"yó-\" in \"yó-ji\".",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What time is it right now? (polite)\nFour o'clock. (casual)"
+        }
+      }
+    },
+    "a44b994e-6073-4c17-b6cc-7ebc987522aa": {
+      "start": 6370.8,
+      "end": 6606.8,
+      "id": "a44b994e-6073-4c17-b6cc-7ebc987522aa",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "a44b994e-6073-4c17-b6cc-7ebc987522aa",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "お母さんと女の子の部屋には、何もありません。",
+          "back": "O-káa-san-to onnanóko-no heyá-ni-wa, nanimo arimasén.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "In [the] mother and [the] girl's room, there's nothing. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "arimasén = nai"
+        }
+      }
+    },
+    "2e20ef8e-c30a-476c-9d52-d9cb7496e319": {
+      "start": 6492,
+      "end": 6651,
+      "id": "2e20ef8e-c30a-476c-9d52-d9cb7496e319",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "2e20ef8e-c30a-476c-9d52-d9cb7496e319",
+        "tags": [
+          "shad1-3"
+        ],
+        "fields": {
+          "front": " ",
+          "back": "Nán-ji-ni nemáshita ka?\nJuu-ichi-ji-han-gúrai-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What time did [you] go to sleep? (polite)\nIt was around 11:30. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"At what hour did [you] sleep? [It] is ten-one-hour-half-about [that I went to sleep].\"\n\nNotice the placement of particle \"ni\" (\"at, to\"). Unlike English prepositions, Japanese particles go AFTER their object.\n\n\"Nemáshita\" is the formal version of \"neta\", \"slept\". From \"neru\", \"sleep\". Remember, the \"mas-\" marks politeness, and the \"ta\" marks past.\n\n(Compare \"wakarimáshita, wakátta, wakáru.\""
+        }
+      }
+    },
+    "daa61a76-2ccd-4a09-8fa4-b9ec8f1028f4": {
+      "start": 6712.8,
+      "end": 6924.8,
+      "id": "daa61a76-2ccd-4a09-8fa4-b9ec8f1028f4",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "daa61a76-2ccd-4a09-8fa4-b9ec8f1028f4",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "女の子は、毎日、窓から外を見ます。",
+          "back": "Onnanóko-wa, máinichi, mádo-kara sóto-o mimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Every day, the girl looks from [her] window.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "mimásu = míru"
+        }
+      }
+    },
+    "313d76cb-1e81-4ff2-b9e0-352d2d0fce38": {
+      "start": 6756,
+      "end": 6915,
+      "id": "313d76cb-1e81-4ff2-b9e0-352d2d0fce38",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "313d76cb-1e81-4ff2-b9e0-352d2d0fce38",
+        "tags": [
+          "shad1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Tésuto-wa nán-ji-kara-desu ka?\nJúu-ji-kara-desu yo.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for [the] test, from what-hour is [it]?\"\n\n\"Kara\" (\"from\") is another particle like \"wa\" and \"ni\". Again, it particle goes AFTER its object, even though it might translate to an English preposition, which goes before its object.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "From what time is the test? (polite)\nIt's from 10 o'clock! (polite)"
+        }
+      }
+    },
+    "fec56907-479c-4305-8c40-006a5ef357d2": {
+      "start": 7030,
+      "end": 7186,
+      "id": "fec56907-479c-4305-8c40-006a5ef357d2",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "fec56907-479c-4305-8c40-006a5ef357d2",
+        "tags": [
+          "shad1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kyóu-wa nán-nichi-desu ka?\nShi-gatsú tsuitachí-desu.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for today, what-day is [it]? [It] is four-month firstdayofthemonth.\"\n\nIn many other contexts you can also say \"yón\" to mean \"four\", but not with \"gatsú\" month--April is always \"shi-gatsú\".\n\nFor some reason, instead of saying \"first\" and \"day\" to mean \"first day of the month,\" there's this special word for that, \"tsuitachí.\"",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What's the date today? (polite)\nIt's the 1st of April. (polite)"
+        }
+      }
+    },
+    "405e7168-d342-4310-8c87-bfa94483eb95": {
+      "start": 7040.8,
+      "end": 7131.8,
+      "id": "405e7168-d342-4310-8c87-bfa94483eb95",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "405e7168-d342-4310-8c87-bfa94483eb95",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "自転車が走ります。",
+          "back": "Jiténsha-ga hashirimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "[A] bicycle runs. (polite)\nOR\nBicycles run. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "hashirimásu = hashíru"
+        }
+      }
+    },
+    "ddb66735-9709-4441-a71a-baea9a20695d": {
+      "start": 7190.8,
+      "end": 7274.8,
+      "id": "ddb66735-9709-4441-a71a-baea9a20695d",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "ddb66735-9709-4441-a71a-baea9a20695d",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "バイクも走ります。",
+          "back": "Báiku-mo hashirimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "[A] motorbike runs. (polite)\nOR\nMotorbikes run. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "hashirimásu = hashíru"
+        }
+      }
+    },
+    "d2beab98-1edc-4bd8-a746-361c8d5b9825": {
+      "start": 7292,
+      "end": 7427,
+      "id": "d2beab98-1edc-4bd8-a746-361c8d5b9825",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "d2beab98-1edc-4bd8-a746-361c8d5b9825",
+        "tags": [
+          "shad1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kyóu-wa nan-yóubi? (casual)\nSuiyóubi da yo. (casual)",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What day is it today?\nIt's Wednesday.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for today, what-weekday [is it]? [It] is Wednesday.\"\n\n\"Da\" is the casual counterpart to \"desu\", but it has a slightly assertive tone, and is often left out, especially in feminine speech."
+        }
+      }
+    },
+    "7db9504a-f5f3-4803-bc76-6e3cfb060288": {
+      "start": 7346.8,
+      "end": 7431.8,
+      "id": "7db9504a-f5f3-4803-bc76-6e3cfb060288",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "7db9504a-f5f3-4803-bc76-6e3cfb060288",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "おじいさんがいます。",
+          "back": "O-jíi-san-ga imásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "There is [an] old man. (polite)\nOR\nThere is are old men. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "imásu = iru"
+        }
+      }
+    },
+    "80d1b62e-5a1a-474b-8971-4a91d2f0bb23": {
+      "start": 7493.8,
+      "end": 7578.8,
+      "id": "80d1b62e-5a1a-474b-8971-4a91d2f0bb23",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "80d1b62e-5a1a-474b-8971-4a91d2f0bb23",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "おばあさんもいます。",
+          "back": "O-báa-san-mo imásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "There is [an] old woman. (polite)\nOR\nThere are an old woman. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "imásu = iru"
+        }
+      }
+    },
+    "c16feb7a-be9c-4068-aaa8-a28d1975ce91": {
+      "start": 7550,
+      "end": 7706,
+      "id": "c16feb7a-be9c-4068-aaa8-a28d1975ce91",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "c16feb7a-be9c-4068-aaa8-a28d1975ce91",
+        "tags": [
+          "shad1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Tanjóubi-wa ítsu-desu ka?\nHachi-gatsú hatsuka-désu.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for [your] birthday, when is [it]? [It]'s eight-month twentieth.\"\n\nTwenty is normally \"ni-juu\" (\"two-ten\"), but the twentieth day of the month is \"hatsuka\". ",
+          "717524da-c2af-4196-b850-a6ab9a646798": "When is [your] birthday? (polite)\nIt's on the 20th of August. (polite)"
+        }
+      }
+    },
+    "b6664503-6beb-4f18-a2f6-019ea8717a9b": {
+      "start": 7649.8,
+      "end": 7730.8,
+      "id": "b6664503-6beb-4f18-a2f6-019ea8717a9b",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "b6664503-6beb-4f18-a2f6-019ea8717a9b",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "子供もいます。",
+          "back": "Kodomo-mo imásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "There are children, too. (polite)\nOR\nThere is a child, too. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "imásu = iru"
+        }
+      }
+    },
+    "100e40d9-83c1-48c8-a3af-6c5829d4d01c": {
+      "start": 7814.8,
+      "end": 7882.8,
+      "id": "100e40d9-83c1-48c8-a3af-6c5829d4d01c",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "100e40d9-83c1-48c8-a3af-6c5829d4d01c",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "猫もいます。",
+          "back": "Néko-mo imásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "There is [a] cat, too. (polite)\nOR\nThere are cats, too. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "imásu = iru"
+        }
+      }
+    },
+    "db124cbc-dd6a-4460-b6a4-0f8d7fd1084a": {
+      "start": 7824,
+      "end": 8044,
+      "id": "db124cbc-dd6a-4460-b6a4-0f8d7fd1084a",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "db124cbc-dd6a-4460-b6a4-0f8d7fd1084a",
+        "tags": [
+          "shad1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Ginkou-wa nán-ji-kara nánji-made-desu ka?\nKú-ji-kara sán-ji-made-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What time is [the] bank open? (polite)\nFrom 9 till 3. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for [the] bank, from what-hour until what-hour is [it]?\""
+        }
+      }
+    },
+    "6d486692-d194-4d37-8748-83a28b61e875": {
+      "start": 7936,
+      "end": 8184,
+      "id": "6d486692-d194-4d37-8748-83a28b61e875",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "6d486692-d194-4d37-8748-83a28b61e875",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "一人の男の子が、毎日、学校に行きます。",
+          "back": "Hitóri-no otokónoko-ga, máinichi, gakkou-ni ikimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Every day, one boy goes to [her] school. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "ikimásu = iku"
+        }
+      }
+    },
+    "0cdc1eed-a7d3-4d8a-9b27-c4a142d79b6e": {
+      "start": 8151,
+      "end": 8366,
+      "id": "0cdc1eed-a7d3-4d8a-9b27-c4a142d79b6e",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "0cdc1eed-a7d3-4d8a-9b27-c4a142d79b6e",
+        "tags": [
+          "shad1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kotoshi-wa nán-nen?\nNi-sén rokú-nen. Heisei juu-hachi-nén da yo.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for this year, what year [is it]? Two-thousand six-year. It's Heisei ten-eight-year (you know)!\"\n\nThe traditional Japanese calendar is still used for some purposes, and is split into eras corresponding to the rule of different emperors. We've just entered the \"Reiwa\" era.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What year is it?\n2006. It's the 18th year of the Heisei era!"
+        }
+      }
+    },
+    "7aebcb5b-5bb3-4560-9e5a-794cb8e62740": {
+      "start": 8236,
+      "end": 8373,
+      "id": "7aebcb5b-5bb3-4560-9e5a-794cb8e62740",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "7aebcb5b-5bb3-4560-9e5a-794cb8e62740",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "とても元気な男の子です。",
+          "back": "Totemo génki na otokónoko-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "[He] is [a] very lively boy.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "[noun]-desu = [noun]-da"
+        }
+      }
+    },
+    "4daeddb7-b5ff-4ae3-8650-9c09361b65d6": {
+      "start": 8470,
+      "end": 8815,
+      "id": "4daeddb7-b5ff-4ae3-8650-9c09361b65d6",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "4daeddb7-b5ff-4ae3-8650-9c09361b65d6",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "「おはよう！」男の子は、女の子に毎日言います。",
+          "back": "\"Ohayou!\" otokóno-wa, onnanóko-ni máinichi iimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "\"Good morning\" says [the] boy everyday to [the] girl. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "iimásu = iu"
+        }
+      }
+    },
+    "27787e72-59d3-43de-9961-f518acadedb7": {
+      "start": 8485,
+      "end": 8703,
+      "id": "27787e72-59d3-43de-9961-f518acadedb7",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "27787e72-59d3-43de-9961-f518acadedb7",
+        "tags": [
+          "shad1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Nihón-ni kíte, dono-gurai-désu ka?\nIchí-nen san-ka-gétsu-desu.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"Since [you] came to Japan, how much/long is [it]? [It]'s one-year three months long.\"\n\nThis \"kíte\" is related to the \"kimásu\" in \"itte kimásu\"--from \"kúru\", \"to come\". This \"te\" form is little bit like an English present participle. I like to think of it like a built-in \"and\" into the verb. So you might translate \"Nihón-ni kíte...\"  as \"[you] come/came to Japan and...\", or \"having come to Japan\", \"since [you] came to Japan\"...",
+          "717524da-c2af-4196-b850-a6ab9a646798": "How long has it been since [you] came to Japan?\nOne year and three months."
+        }
+      }
+    },
+    "cb20f659-e6d1-49ea-8db9-ebd16e4829b5": {
+      "start": 9163,
+      "end": 9364,
+      "id": "cb20f659-e6d1-49ea-8db9-ebd16e4829b5",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "cb20f659-e6d1-49ea-8db9-ebd16e4829b5",
+        "tags": [
+          "shad1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Hajimemáshite. Watanabe-désu.\nTanaka-désu. Dóuzo yoroshiku.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Nice to meet you. I'm Watanabe. (polite)\nI'm Tanaka. Please treat me well. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Dóuzo yoroshiku\" is sometimes translated as \"Nice to meet you, I'm looking forward to working with you.\" But Japanese people say it before all sorts of exchanges, as a nice way of acknowledging future cooperation."
+        }
+      }
+    },
+    "a84aa30b-d7d0-4218-8f75-8184cc475994": {
+      "start": 9454,
+      "end": 9600,
+      "id": "a84aa30b-d7d0-4218-8f75-8184cc475994",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "a84aa30b-d7d0-4218-8f75-8184cc475994",
+        "tags": [
+          "shad1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Suzuki-san-désu ka?\nHái, sóu-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Are [you] Suzuki? (polite)\nYes, that's right. (polite)"
+        }
+      }
+    },
+    "6829a999-318d-4483-bf09-7d9939821a36": {
+      "start": 9704,
+      "end": 9865,
+      "id": "6829a999-318d-4483-bf09-7d9939821a36",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "6829a999-318d-4483-bf09-7d9939821a36",
+        "tags": [
+          "shad1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Sátou-san-desu ka?\nIie, Kátou-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Are [you] Satou?\nNo, I'm Katou."
+        }
+      }
+    },
+    "eaf1102d-4cd3-463a-8292-2cd991af2a8e": {
+      "start": 9969,
+      "end": 10214,
+      "id": "eaf1102d-4cd3-463a-8292-2cd991af2a8e",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "eaf1102d-4cd3-463a-8292-2cd991af2a8e",
+        "tags": [
+          "shad1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Are-wa nihongo-de nán-desu ka?\nAre? A, are-wa kouban-désu yo.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What is that [over there] in Japanese?\nThat [over there]? Oh, that's a police box.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "This \"de\" means \"with, by, using\""
+        }
+      }
+    },
+    "ef83e270-28aa-4972-930c-5ab08f9b23c7": {
+      "start": 10327,
+      "end": 10456,
+      "id": "ef83e270-28aa-4972-930c-5ab08f9b23c7",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "ef83e270-28aa-4972-930c-5ab08f9b23c7",
+        "tags": [
+          "shad1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Sore-wa nán-desu ka?\nDejikame-désu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What's that [by you]?\nIt's [a] digital camera."
+        }
+      }
+    },
+    "eb291060-2e19-4eae-932c-55064f2f34c4": {
+      "start": 10586,
+      "end": 10758,
+      "id": "eb291060-2e19-4eae-932c-55064f2f34c4",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "eb291060-2e19-4eae-932c-55064f2f34c4",
+        "tags": [
+          "shad1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Yamada-san-no heyá-wa nan-kai-désu ka?\nSan-gai-désu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What floor is Yamada-san's room? (polite)\nIt's the 3rd floor. (polite)"
+        }
+      }
+    },
+    "c9b7003d-59e9-430d-85ac-2cad2fc250c1": {
+      "start": 10882,
+      "end": 11099,
+      "id": "c9b7003d-59e9-430d-85ac-2cad2fc250c1",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "c9b7003d-59e9-430d-85ac-2cad2fc250c1",
+        "tags": [
+          "shad1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "O-namae-wa?\nPédoro-desu.\nO-kuni-wa?\nSupéin-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Your name, please? (polite)\nPedro. (polite)\nYour country, please? (polite)\nSpain. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for [your] honorable name? ... As for [your] honorable country?\"\n\nIt sounds like Pedro is a customer at a hotel or somewhere, and the employee is filling out some form for him. The \"o-\" is a sign of respect. "
+        }
+      }
+    },
+    "d72d61dd-a564-47bd-86cb-aec8917ecdb5": {
+      "start": 11232,
+      "end": 11434,
+      "id": "d72d61dd-a564-47bd-86cb-aec8917ecdb5",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "d72d61dd-a564-47bd-86cb-aec8917ecdb5",
+        "tags": [
+          "shad1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Nóoto, sán-satsu kudasái.\nHái, sán-satsu-desu ne.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Three notebooks, please. (polite)\nYes, Ma'am, three, right? (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"Notebooks, three(-volumes) please-give [me].\"\n\nJapanese uses measure words when counting things, where in English you would just use a number alone. There are lots of them! \"Satsu\" is used for books, magazines, etc. "
+        }
+      }
+    },
+    "d718c98b-2f76-4088-9ea4-a61e1202a22b": {
+      "start": 11556,
+      "end": 11737,
+      "id": "d718c98b-2f76-4088-9ea4-a61e1202a22b",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "d718c98b-2f76-4088-9ea4-a61e1202a22b",
+        "tags": [
+          "shad1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Éki-made dono-gurai-désu ka?\nIchi-kiro-gúrai-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "How far is it to [the] station?\nIt's about 1 kilometer."
+        }
+      }
+    },
+    "cd00fe13-a4f0-403f-b843-b771fb9b948f": {
+      "start": 11857,
+      "end": 12020,
+      "id": "cd00fe13-a4f0-403f-b843-b771fb9b948f",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "cd00fe13-a4f0-403f-b843-b771fb9b948f",
+        "tags": [
+          "shad1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Shinjuku-éki-wa dóko-desu ka?\nAsoko-désu yo.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Where is Shinjuku station?\nIt's over there.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "2ce759ea-bb4a-4319-9f41-31600bf23997": {
+      "start": 12439,
+      "end": 12584,
+      "id": "2ce759ea-bb4a-4319-9f41-31600bf23997",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "2ce759ea-bb4a-4319-9f41-31600bf23997",
+        "tags": [
+          "shad1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Nán-sai-desu ka?\nNí-juu hás-sai-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "How old are [you]?\n[I] am 28 years old.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "The two-more (two-\"syllable\") numbers often get their second syllable assimilated into measure words.\n\ne.g.\nichí + sai = íssai (one year old)\nhachí + sai = hás-sai (eight years old)\njúu + sai = jús-sai (ten years old)"
+        }
+      }
+    },
+    "2a7f49ee-e8f4-45f1-b2db-14dd3e5b387b": {
+      "start": 12679,
+      "end": 12854,
+      "id": "2a7f49ee-e8f4-45f1-b2db-14dd3e5b387b",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "2a7f49ee-e8f4-45f1-b2db-14dd3e5b387b",
+        "tags": [
+          "shad1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Dónna eiga-o mimásu ka?\nKómedii-o yóku mimásu ne.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What kind of movies do [you] watch?\n[I] watch lots of comedies, (now that I think of it).",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"[I] watch comedies well.\" The \"ne\" gives a sort of thoughtful tone here."
+        }
+      }
+    },
+    "3971b3c7-1d07-403c-bf91-443cbd6411ac": {
+      "start": 12966,
+      "end": 13182,
+      "id": "3971b3c7-1d07-403c-bf91-443cbd6411ac",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "3971b3c7-1d07-403c-bf91-443cbd6411ac",
+        "tags": [
+          "shad1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kiiro-to áka-no haná-o kudasái.\nHai, kiiro-to áka-desu ne.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "I'd like [the] yellow and red flowers, please. (polite)\nOf course, yellow and red, (right?) (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"O\" often marks the direct object of the verb."
+        }
+      }
+    },
+    "70145bf0-c9c9-4af5-92b2-c92bdf32c542": {
+      "start": 13310,
+      "end": 13478,
+      "id": "70145bf0-c9c9-4af5-92b2-c92bdf32c542",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "70145bf0-c9c9-4af5-92b2-c92bdf32c542",
+        "tags": [
+          "shad1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kyóu-wa atsui-désu ne.\nÉe, hontou-ni.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "It's hot today, isn't it? (polite)\nYes, it really is."
+        }
+      }
+    },
+    "a028a7a1-1b30-4129-b11f-9ad192a23187": {
+      "start": 13596,
+      "end": 13864,
+      "id": "a028a7a1-1b30-4129-b11f-9ad192a23187",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "a028a7a1-1b30-4129-b11f-9ad192a23187",
+        "tags": [
+          "shad1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Nihongo-no benkyou-wa dóu-desu ka?\nKanji-wa muzukashíi-desu ga, totemo omoshirói-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "How are [your] Japanese studies?\n[The] kanji are hard, but it's very interesting.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "omoshirói = interesting, funny"
+        }
+      }
+    },
+    "a9234b78-d8ff-4b1a-8796-5574d352af36": {
+      "start": 13968,
+      "end": 14096,
+      "id": "a9234b78-d8ff-4b1a-8796-5574d352af36",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "a9234b78-d8ff-4b1a-8796-5574d352af36",
+        "tags": [
+          "shad1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Íkura-desu ka?\nNi-hyaku-juu-en-désu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "How much is it? (polite)\n200 yen. (polite)"
+        }
+      }
+    },
+    "2de87c63-9241-48f7-9214-d1894ba3ad7a": {
+      "start": 14218,
+      "end": 14424,
+      "id": "2de87c63-9241-48f7-9214-d1894ba3ad7a",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "2de87c63-9241-48f7-9214-d1894ba3ad7a",
+        "tags": [
+          "shad1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Tésuto, muzukashíi-desu ka?\nIie, kantan-désu yo.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Is the test hard? (polite)\nNo, it's easy! (polite)"
+        }
+      }
+    },
+    "9ec3bc39-8b24-4892-9ee1-b99d90f3f6e2": {
+      "start": 14551,
+      "end": 14729,
+      "id": "9ec3bc39-8b24-4892-9ee1-b99d90f3f6e2",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "9ec3bc39-8b24-4892-9ee1-b99d90f3f6e2",
+        "tags": [
+          "shad1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Suzuki-san-wa dónna hitó-desu ka?\nShínsetsu-na hitó-desu yo.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What kind of person is Suzuki?\n[They] are a kind person!"
+        }
+      }
+    },
+    "468ea657-b17c-4041-87b1-70d7ea673e65": {
+      "start": 14847,
+      "end": 15084,
+      "id": "468ea657-b17c-4041-87b1-70d7ea673e65",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "468ea657-b17c-4041-87b1-70d7ea673e65",
+        "tags": [
+          "shad1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kono kutsú, chótto ookíi-desu.\nJaa, kore-wa dóu-desu ka?",
+          "717524da-c2af-4196-b850-a6ab9a646798": "These shoes are a bit big.\nAlright then, how about these?"
+        }
+      }
+    },
+    "102c403b-60a5-47cb-8d54-99af4f44ea2e": {
+      "start": 15204,
+      "end": 15412,
+      "id": "102c403b-60a5-47cb-8d54-99af4f44ea2e",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "102c403b-60a5-47cb-8d54-99af4f44ea2e",
+        "tags": [
+          "shad1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kore, kírei-desu ne.\nÉe, totemo kírei-desu ne.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "This is beautiful, don't you think? (polite)\nYes, very beautiful. (polite)"
+        }
+      }
+    },
+    "d0c2ce3d-ea22-46d3-aa35-41db2545b2b5": {
+      "start": 15801,
+      "end": 15990,
+      "id": "d0c2ce3d-ea22-46d3-aa35-41db2545b2b5",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "d0c2ce3d-ea22-46d3-aa35-41db2545b2b5",
+        "tags": [
+          "shad1-6"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Hajimemáshite.\nHajimemáshite, dóuzu yoroshiku o-negai shimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Nice to meet you. (polite)\nNice to meet you, please treat me well. (very polite)"
+        }
+      }
+    },
+    "1470f9a7-0977-425a-8cbf-c8e8e2730ba8": {
+      "start": 16082,
+      "end": 16273,
+      "id": "1470f9a7-0977-425a-8cbf-c8e8e2730ba8",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "1470f9a7-0977-425a-8cbf-c8e8e2730ba8",
+        "tags": [
+          "shad1-6"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Dóuzo.\nAa, dóumo sumimasén. Itadakimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Please (go ahead).\nOh, thank you! I humbly receive!",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Here, \"sumimasén\", usually \"excuse me\", is used as a thank you. \"Itadakimásu\" is the set phrase you say before you eat."
+        }
+      }
+    },
+    "9b26d6f1-e11a-410e-b9bc-ab0a76cce19a": {
+      "start": 16373,
+      "end": 16529,
+      "id": "9b26d6f1-e11a-410e-b9bc-ab0a76cce19a",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "9b26d6f1-e11a-410e-b9bc-ab0a76cce19a",
+        "tags": [
+          "shad1-6"
+        ],
+        "fields": {
+          "front": "",
+          "back": "O-kuni-wa dóchira-desu ka?\nKánkoku-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What country are you from? (very polite)\nKorea. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"Which is [your] honorable country?\"\n\nDóchira has the basic meaning \"which way\", but is used as an indirect, and therefore more polite, phrasing of \"what, which, where, etc\"."
+        }
+      }
+    },
+    "ce1a067d-64a3-45ad-8486-b728a91d4844": {
+      "start": 16648,
+      "end": 16867,
+      "id": "ce1a067d-64a3-45ad-8486-b728a91d4844",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "ce1a067d-64a3-45ad-8486-b728a91d4844",
+        "tags": [
+          "shad1-6"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Nihón-wa, hajímete-desu ka?\nIie, san-kai-mé-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Is it [your] first time in Japan? (polite)\nNo, it's [my] third time.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for Japan, is it [your] first time?\"\n\nsán-kai = three times\nsan-kai-mé = third time"
+        }
+      }
+    },
+    "9f3cdae0-bbc0-477b-9927-c400206cc837": {
+      "start": 16973,
+      "end": 17171,
+      "id": "9f3cdae0-bbc0-477b-9927-c400206cc837",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "9f3cdae0-bbc0-477b-9927-c400206cc837",
+        "tags": [
+          "shad1-6"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Washoku-wa daijóubu-desu ka?\nHai, daijóubu-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Is Japanese food OK?\nYes, it is.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Wa-\" commonly means \"Japanese\"."
+        }
+      }
+    },
+    "62b74a46-3004-42ea-9b34-6c0f5c5395be": {
+      "start": 17255,
+      "end": 17457,
+      "id": "62b74a46-3004-42ea-9b34-6c0f5c5395be",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "62b74a46-3004-42ea-9b34-6c0f5c5395be",
+        "tags": [
+          "shad1-6"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Sórosoro shitsúrei shimásu.\nSóu-desu ka. Já, matá.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "It's about time for me to go. (polite)\nOh, yes? (polite) See you later.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "eacb4ac2-d005-44fb-a890-2a8c87c5d1b8": {
+      "start": 17549,
+      "end": 17890,
+      "id": "eacb4ac2-d005-44fb-a890-2a8c87c5d1b8",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "eacb4ac2-d005-44fb-a890-2a8c87c5d1b8",
+        "tags": [
+          "shad1-6"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Waa, oishi-sóu. Sore nán-desu ka?\nKore? Chúugoku-no okáshi. Hitótsu dóu-desu ka?",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Ooh, [that] looks yummy! (casual) What's that? (polite)\nThis? It's Chinese candy. (casual) Would you like one? (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"One\" is usually \"ichí\", but in some common counting words it's \"hitó-\".\n\nThese two people maybe work together. They're mixing casual and polite language in a way that suggests they aren't super close but are very friendly with one another."
+        }
+      }
+    },
+    "0d76c8ce-a58d-483f-b850-754b8df2489b": {
+      "start": 18022,
+      "end": 18192,
+      "id": "0d76c8ce-a58d-483f-b850-754b8df2489b",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "0d76c8ce-a58d-483f-b850-754b8df2489b",
+        "tags": [
+          "shad1-6"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Ítsu nihón-ni kíta-n'-desu ka?\nNi-kagetsu-kúrai máe-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "When did [you] come to Japan? (polite)\nAbout two months ago. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"When is [it] that [you] came to Japan?\"\n\nNihón-ni kíta/kimáshita = [You] came to Japan\nNihón-ni kíta n(o) da/desu = [It] is that [you] came to Japan\nNihón-ni kíta no?/'n-desu ka? = Is [it] that [you] came to Japan?\nÍtsu nihón-ni kíta n(o)-desu ka?\n\nhttps://www.youtube.com/watch?v=dunBnCI1iP0\n\n\"Kúrai\" is pretty much interchangeable with \"gúrai\"."
+        }
+      }
+    },
+    "bf103e02-3c8e-413d-a2a2-a01cd660413e": {
+      "start": 18301,
+      "end": 18496,
+      "id": "bf103e02-3c8e-413d-a2a2-a01cd660413e",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "bf103e02-3c8e-413d-a2a2-a01cd660413e",
+        "tags": [
+          "shad1-6"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Íma, nánji?\nEetto, yó-ji ni-júp-pun.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Another instance of two-mora (two-\"syllable\") numbers getting their second syllable assimilated into a measure word. Plus, the measure word gets transformed as well in some cases.\n\ne.g.\nichí + fun = íp-pun (one minute)\nsán + fun = sán-pun (three minutes)\nrokú + fun = róp-pun (six minutes)\nhachí + fun = háp-ppun (eight minutes)\njúu + fun = júp-pun (ten minutes)\n",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What time is it n"
+        }
+      }
+    },
+    "2ac7b3c7-6cbe-4031-99f4-728865dbf77e": {
+      "start": 18636,
+      "end": 18835,
+      "id": "2ac7b3c7-6cbe-4031-99f4-728865dbf77e",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "2ac7b3c7-6cbe-4031-99f4-728865dbf77e",
+        "tags": [
+          "shad1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kóndo-no yasumí, dóko iku no?\nTomodachi-to úmi-ni ikimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Where will [you] go on your upcoming vacation?\n[I]'m going to the beach (sea) with [a] friend.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "tomodachi-to = with a friend/with friends\númi-ni iku = [I]'m going to the sea"
+        }
+      }
+    },
+    "f9ec1a27-9973-42b6-8272-0282ca7c9349": {
+      "start": 19221,
+      "end": 19721,
+      "id": "f9ec1a27-9973-42b6-8272-0282ca7c9349",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "f9ec1a27-9973-42b6-8272-0282ca7c9349",
+        "tags": [
+          "shad1-7"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Ano, gakkou-no denwa-bángo, wakarimásu ka?\nEetto ne, zero-sán-no san-níi-zero-goo...",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Um, do you know the school's phone numbber?\nUm, let's see. Zero three, three two zero five.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "When saying number sequences like this, the one-mora (one-\"syllable\") numbers are often stretched to two morae like this."
+        }
+      }
+    },
+    "62a5b063-b726-474a-99be-fec5ef46dfc9": {
+      "start": 19866,
+      "end": 20067,
+      "id": "62a5b063-b726-474a-99be-fec5ef46dfc9",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "62a5b063-b726-474a-99be-fec5ef46dfc9",
+        "tags": [
+          "shad1-7"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Bideo-réntaru-wa íkura-desu ka?\nIp-paku sán-byaku gojúuen-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "How much is [the] video rental?\n350 yen for 1 night/day.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"haku\" is the counter for \"overnight\" periods."
+        }
+      }
+    },
+    "a05c9fd0-04d1-4319-9294-db883aaf6495": {
+      "start": 20197,
+      "end": 20423,
+      "id": "a05c9fd0-04d1-4319-9294-db883aaf6495",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "a05c9fd0-04d1-4319-9294-db883aaf6495",
+        "tags": [
+          "shad1-7"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kinou, keitai-o kaimáshita.\nE, dóko-de kaimáshita ka?",
+          "717524da-c2af-4196-b850-a6ab9a646798": "[I] bought [a] cell phone yesterday.\nOh! Where (at) did [you] buy [it]?",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "This \"de\" (\"at\") marks the location where an action takes place."
+        }
+      }
+    },
+    "1baa23da-70ec-4ead-9ee6-b1492abf073f": {
+      "start": 20592,
+      "end": 20847,
+      "id": "1baa23da-70ec-4ead-9ee6-b1492abf073f",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "1baa23da-70ec-4ead-9ee6-b1492abf073f",
+        "tags": [
+          "shad1-7"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Tanaka-san-no uchí-wa dóko-desu ka?\nShinjuku-désu. Gakkou-ni chikái-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Where is your house, Tanaka-san? (polite)\nShinjuku. It's close to [the] school.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Chikái\" is what's known as an \"i-adjective\", one of the two kinds of Japanese adjectives (with na-adjectives, which you'll see later). All of them end in \"i\".\n\nchikái-desu = chikái"
+        }
+      }
+    },
+    "e5181282-2bd3-4ed2-89f1-3bb00bb09ae7": {
+      "start": 20981,
+      "end": 21218,
+      "id": "e5181282-2bd3-4ed2-89f1-3bb00bb09ae7",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "e5181282-2bd3-4ed2-89f1-3bb00bb09ae7",
+        "tags": [
+          "shad1-7"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Páku-san no senséi-wa dónna hitó-desu ka?\nOmoshirókute yasashii senséi-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What kind of person is your teacher, Paku-san?\n[They]'re a funny, nice/gentle teacher.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "I-adjectives have a \"te\" form just like verbs.\n\nomoshirói (interesting)\nomoshirókute (interesting, and...)\n\nyasashíi (nice)\nyasashíkute (nice, and...)"
+        }
+      }
+    },
+    "acf0f98a-b076-42a8-8d24-d38ee3f2a405": {
+      "start": 21333,
+      "end": 21649,
+      "id": "acf0f98a-b076-42a8-8d24-d38ee3f2a405",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "acf0f98a-b076-42a8-8d24-d38ee3f2a405",
+        "tags": [
+          "shad1-7"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Yamada-san, shúmi-wa nán-desu ka?\nShúmi? Uun, shashin ka na.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What are your hobbies, Yamada-san?\nHobbies? Hm, photography?",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"ka na\" gives the sentence the tone of, \"I wonder...?\""
+        }
+      }
+    },
+    "eb2d01c1-a503-4575-8582-a29c536c5558": {
+      "start": 21772,
+      "end": 21961,
+      "id": "eb2d01c1-a503-4575-8582-a29c536c5558",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "eb2d01c1-a503-4575-8582-a29c536c5558",
+        "tags": [
+          "shad1-7"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Nihongo-no júgyou-wa dóu-desu ka?\nTotemo omoshirói to omoimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "How is Japanese class?\nI find [it] really interesting.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"[I] think that [it]'s very interesting.\"\n\nomóimasu = omóu\n\nOmoshirói to omóu. = [I] think [it]'s interesting."
+        }
+      }
+    },
+    "c073cffc-a2fb-4bef-823b-f6117f3fed29": {
+      "start": 22083,
+      "end": 22378,
+      "id": "c073cffc-a2fb-4bef-823b-f6117f3fed29",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "c073cffc-a2fb-4bef-823b-f6117f3fed29",
+        "tags": [
+          "shad1-7"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kono shashin, míte kudasái. Háwai no shashin-desu.\nWaa, kírei-na úmi!",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Please look at this photo. (polite)\nWhoa, what a pretty ocean! (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Kírei\" is a na-adjective. When you put a na-adjective in front of a noun, you have to put \"-na\" in between. Other than this usage with \"-na\", they really act basically just like nouns."
+        }
+      }
+    },
+    "76bbb836-ba71-4e8c-8917-99e105263117": {
+      "start": 22517,
+      "end": 22969,
+      "id": "76bbb836-ba71-4e8c-8917-99e105263117",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "76bbb836-ba71-4e8c-8917-99e105263117",
+        "tags": [
+          "shad1-7"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kímu-san-wa nihonjín-no boifuréndo-ga imásu.\nHee, dónna hitó-desu ka?\nShínsetsu-na hitó-desu. Sore-kara, kankokugo-ga wakarimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Ms. Kim has a Japanese boyfriend. (polite)\nOh! What kind of person is he? (polite)\nHe's a kind person. Also, he knows Korean. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for Kim-san, there is a boyfriend that's Japanese.\" And, \"Korean is understood [by him].\""
+        }
+      }
+    },
+    "8505b38e-adc4-4e2c-9b41-6b557adaa515": {
+      "start": 23118,
+      "end": 23678,
+      "id": "8505b38e-adc4-4e2c-9b41-6b557adaa515",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "8505b38e-adc4-4e2c-9b41-6b557adaa515",
+        "tags": [
+          "shad1-7"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Karaoke! Karaoke! Ichi-jí-kan, sén go-hyakú-en-desu.\nUn, chótto ne. Shinjuku-no karaoke-no hóu-ga yasui-désu ne.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Karaoke! Karaoke! 1500 yen for an hour! (polite)\nHm, I don't know. The karaoke in Shinjuku is cheaper, huh? (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Chótto ne\" literally means just \"[it's] a little bit...\" As though you'd rather not say the whole truth of what you think about whatever it is.\n\nTo say something is cheaper, bigger, better, you say that its \"hóu\" (often translated \"way\") is cheap, big, good.\n\nKaraoke-ga yasui. = The karaoke is cheap.\nKaraoke-no hóu-ga yasui. = The karaoke is cheaper."
+        }
+      }
+    },
+    "96b652cb-07bd-4b16-b06a-a18d892a7154": {
+      "start": 23698,
+      "end": 24136,
+      "id": "96b652cb-07bd-4b16-b06a-a18d892a7154",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "96b652cb-07bd-4b16-b06a-a18d892a7154",
+        "tags": [
+          "shad1-7"
+        ],
+        "fields": {
+          "front": "",
+          "back": "A, sóu-desu ka. Ja, ichi-jí-kan sén san-byakúen de dóu-desu ka?\nUn, máda chótto takái-desu ne.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Oh, I see. Then, how about if [it]'s 1300 yen for an hour? (polite)\nHmm, it's still kind of expensive. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"[noun] de\" is the \"te\" form of \"[noun]-da/[noun]-desu\"."
+        }
+      }
+    },
+    "d38fb50b-1bbf-400e-8d68-2e3e8d9b3825": {
+      "start": 24512,
+      "end": 24693,
+      "id": "d38fb50b-1bbf-400e-8d68-2e3e8d9b3825",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "d38fb50b-1bbf-400e-8d68-2e3e8d9b3825",
+        "tags": [
+          "shad1-8"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kimura-san-no káre-wa dónna hitó-desu ka?\nO-kanemóchi-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What is Kimura-san's boyfriend like? (polite)\nHe's [quite] rich. (polite, respectfully towards him) ",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "703990a8-fa38-4234-81be-630d73a77780": {
+      "start": 24780,
+      "end": 25019,
+      "id": "703990a8-fa38-4234-81be-630d73a77780",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "703990a8-fa38-4234-81be-630d73a77780",
+        "tags": [
+          "shad1-8"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Yamada-san-no kázoku-wa tabako-o suimasu ka?\nIie. Daremo suimasén.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Does Yamada-san's family smoke? (polite)\nNo. None of them do. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "suimásu = suu\nsuimasén = suwanai \ntabako = tobacco\n\ndáre (who)\ndaremo (anyone)\n\nnáni (what)\nnanimo (anything)"
+        }
+      }
+    },
+    "74a3f0a9-bfae-474a-869b-81ea069ca7b2": {
+      "start": 8873,
+      "end": 9085,
+      "id": "74a3f0a9-bfae-474a-869b-81ea069ca7b2",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "74a3f0a9-bfae-474a-869b-81ea069ca7b2",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "でも、女の子は何も言いません。",
+          "back": "Démo, onnanóko-wa nanimo iimasén.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "However, [the] girl says nothing. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "iimásu = iu"
+        }
+      }
+    },
+    "c9799ab3-2e7a-48d4-b76d-a97e3aee5f09": {
+      "start": 9231,
+      "end": 9614,
+      "id": "c9799ab3-2e7a-48d4-b76d-a97e3aee5f09",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "c9799ab3-2e7a-48d4-b76d-a97e3aee5f09",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "ある日、男の子女の子に言いました。「はい、これ」",
+          "back": "Áru hí, otokónoko-wa onnanóko-ni iimáshita. \"Hai, kore.\"",
+          "717524da-c2af-4196-b850-a6ab9a646798": "One day, [the] boy said (polite) to [the] girl, \"Here, [take] this.\" ",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "iimáshita = itta\niimásu = iu"
+        }
+      }
+    },
+    "bf7758f0-0d2d-4d36-b85a-118e36e57817": {
+      "start": 9732,
+      "end": 9953,
+      "id": "bf7758f0-0d2d-4d36-b85a-118e36e57817",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "bf7758f0-0d2d-4d36-b85a-118e36e57817",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "古いアパートの部屋には、何もありません。",
+          "back": "Furúi apáato-no heyá-ni-wa, nanimo arimasén. ",
+          "717524da-c2af-4196-b850-a6ab9a646798": "In [the] room of [the] old apartment, there is nothing. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "arimasén = nai\narimásu = áru "
+        }
+      }
+    },
+    "53e95475-1044-491e-8025-d2ab7a7de302": {
+      "start": 10363,
+      "end": 10426,
+      "id": "53e95475-1044-491e-8025-d2ab7a7de302",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "53e95475-1044-491e-8025-d2ab7a7de302",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "ありがとう。",
+          "back": "Arigátou.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Thank you. (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "f9bbd843-356c-4afa-b4e0-76fc51f0d294": {
+      "start": 10506,
+      "end": 10754,
+      "id": "f9bbd843-356c-4afa-b4e0-76fc51f0d294",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "f9bbd843-356c-4afa-b4e0-76fc51f0d294",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "今、女の子は、言葉を言いました。",
+          "back": "Íma, onnanóko-wa, kotobá-o iimáshita.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Now, [the] girl said [a] word.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "iimáshita = itta\niimásu = iu"
+        }
+      }
+    },
+    "6bf24b51-b596-41bc-a272-3771289aeb00": {
+      "start": 10004,
+      "end": 10272,
+      "id": "6bf24b51-b596-41bc-a272-3771289aeb00",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "6bf24b51-b596-41bc-a272-3771289aeb00",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "でも、女の子の手には、小さい花があります。",
+          "back": "Démo, onnanóko-no té-ni-wa, chiisái haná-ga arimasu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "However, in [the] girl's hand, there is [a] small flower. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "arimásu = áru"
+        }
+      }
+    },
+    "d76d683c-49cc-4a0e-8f57-f0493a7a4b5d": {
+      "start": 25134,
+      "end": 25434,
+      "id": "d76d683c-49cc-4a0e-8f57-f0493a7a4b5d",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "d76d683c-49cc-4a0e-8f57-f0493a7a4b5d",
+        "tags": [
+          "shad1-8"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Jón-san, kyóu, dóko-de hiru-góhan-o tabemásu ka?\nGomen. Mou tábe-chatta.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Jon, where shall [we] eat lunch today? (polite)\nSorry. [I]'ve already eaten. (casual, regretfully)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"tábe-chatta\" is short for \"tábete-shimatta\", past tense of \"tábete-shimau\" (\"to eat accidentally, to eat completely\"). This \"-te-shimau\" construction is often used to express regret or mistakes. You'll sometimes even see \"Shimatta!\" in subtitles translated as \"Shit!\"\n\nhiru-góhan = noon-food\ntabemásu = tabéru = eat"
+        }
+      }
+    },
+    "fc56b8a7-c77b-4475-aa52-3f30ef751f3e": {
+      "start": 25564,
+      "end": 25862,
+      "id": "fc56b8a7-c77b-4475-aa52-3f30ef751f3e",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "fc56b8a7-c77b-4475-aa52-3f30ef751f3e",
+        "tags": [
+          "shad1-8"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Senséi, íma nánji-desu ka?\nA, jikan-désu ne. Ja, sukóshi yasumimashóu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Sensei, what time is it now? (polite)\nAh, it's time, isn't it? Alright, let's take a break for a bit. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "yasumimásu = yasúmu (to rest, take a break)"
+        }
+      }
+    },
+    "0805faea-078f-4c8e-9954-4ec48a821cde": {
+      "start": 26018,
+      "end": 26167,
+      "id": "0805faea-078f-4c8e-9954-4ec48a821cde",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "0805faea-078f-4c8e-9954-4ec48a821cde",
+        "tags": [
+          "shad1-8"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Irasshaimáse. O-futarí-desu ka?\nHai.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Welcome [to our establishment]. Is [it just the] two [of you]? (polite)\nYes. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "hitóri = one person\nfutarí = two people\n\nThe rest of the measure words for counting people follow a more regular pattern.\n\nsan-nín = three people\nyo-nín = four people\ngo-nín = five people\nroku-nín = six people\netc."
+        }
+      }
+    },
+    "9beefc6f-9389-45ea-b83a-4cd4cf94eafd": {
+      "start": 26287,
+      "end": 26521,
+      "id": "9beefc6f-9389-45ea-b83a-4cd4cf94eafd",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "9beefc6f-9389-45ea-b83a-4cd4cf94eafd",
+        "tags": [
+          "shad1-8"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kinou-no sákkaa, mimáshita ka?\nUun, amari sukí ja nái kara.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Did you see the soccer match yesterday? (polite)\nNah, I don't really like [it]. (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"Yesterday's soccer [match], did [you] see [it]? Nah, since [it]'s not excessively liked [by me].\"\n\n\"Sukí\" is a na-adjective meaning \"liked\". To say you like something, you say that it is \"sukí\".\n\nSukí da. = [I] like [it].\nSukí ja nái = [I] don't like [it].\n\n\"[noun/na-adj.]-da\" negates to \"[noun/na-adj.] ja nái\".\n"
+        }
+      }
+    },
+    "2d82f7fe-d201-4365-a443-bb69897ff04b": {
+      "start": 26649,
+      "end": 26890,
+      "id": "2d82f7fe-d201-4365-a443-bb69897ff04b",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "2d82f7fe-d201-4365-a443-bb69897ff04b",
+        "tags": [
+          "shad1-8"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Uwa, sono kutsú, kawaíi ne. (casual)\nHontou? Arígatou. (casual)",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Wow, those shoes [of yours] are [so] cute.\nReally? Thanks.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "ce886f6a-bc73-4c84-bf0b-bfaba82a6a35": {
+      "start": 27003,
+      "end": 27209,
+      "id": "ce886f6a-bc73-4c84-bf0b-bfaba82a6a35",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "ce886f6a-bc73-4c84-bf0b-bfaba82a6a35",
+        "tags": [
+          "shad1-8"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Are? Yamada-san, dóko iku no? (casual)\nChótto soko-máde. (casual)",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Huh? Yamada-san, where is it [you]'re going?\nNowhere in particular.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"A little up to there.\""
+        }
+      }
+    },
+    "c9547245-9b52-4318-9cb0-e97aa1706bb8": {
+      "start": 27353,
+      "end": 27940,
+      "id": "c9547245-9b52-4318-9cb0-e97aa1706bb8",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "c9547245-9b52-4318-9cb0-e97aa1706bb8",
+        "tags": [
+          "shad1-8"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Ano, sumimasén. Tsugí-no densha-wa nán-ji-ni kimásu ka?\nA, íma-no densha-ga suuden-désu.\nSuuden?\nÉe. Densha-wa ashitá-no ása-made kimasén.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Um, excuse me. What time does the next train come?\nAh, the train [here] now is the last train of the day.\nLast train of the day?\nYes. No trains will come until tomorrow morning.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "kimásu = kúru (irregular)\nkimasén = kónai (irregular)"
+        }
+      }
+    },
+    "63e25d68-cc33-4b43-b4a4-ecc1097da33a": {
+      "start": 28068,
+      "end": 28454,
+      "id": "63e25d68-cc33-4b43-b4a4-ecc1097da33a",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "63e25d68-cc33-4b43-b4a4-ecc1097da33a",
+        "tags": [
+          "shad1-8"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Tanaka-san-no tanjóubi-wa ítsu-desu ka?\nJuu-gatsú juu-gó-nichi-desu.\nE! Watashi-wa juu-shichí-nichi-desu. Chikái-desu ne.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "When is Tanaka-san's birthday? (polite)\nOctober 10th. (polite)\nOh! Mine is on the 17th. That's [so] close, isn't it? (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Here we finally see a Japanese personal pronoun--they're not used nearly as much as in English.\n\n\"Watashi\" is the most neutral word for \"I, me\". In casual settings, it can sound a little feminine, compared to \"bóku\"."
+        }
+      }
+    },
+    "4d40511c-99cd-49d1-80d6-d431c5792b6d": {
+      "start": 28800,
+      "end": 29053,
+      "id": "4d40511c-99cd-49d1-80d6-d431c5792b6d",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "4d40511c-99cd-49d1-80d6-d431c5792b6d",
+        "tags": [
+          "shad1-9"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kono hen-ni, éki, arimásu ka?\nÉe, súgu soko-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Is there a station in the area? (polite)\nYes, right there. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Often, \"-ni\" is contrasted with \"-de\"\nNihón-ni iku. (I go to Japan.)\nNihón-de tabéru. (I eat in Japan.)\n\nBut when the verb describes a static state, instead of a dynamic action, you just use \"ni\".\nNihón-ni iru. (I am [there] in Japan.)\nNihón-ni-wa sushí-ga áru. (There is Sushi in Japan. Japan has sushi.)\nNihón ni súnde-iru. (I am living in Japan.)"
+        }
+      }
+    },
+    "afa96212-9ead-4f51-bc9d-db9d6afd5877": {
+      "start": 29134,
+      "end": 29305,
+      "id": "afa96212-9ead-4f51-bc9d-db9d6afd5877",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "afa96212-9ead-4f51-bc9d-db9d6afd5877",
+        "tags": [
+          "shad1-9"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Sono jíten-wa íkura-desu ka?\nSan-zen-en-désu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "How much is that dictionary? (polite)\n3000 yen. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "is-sen = one thousand\nni-sen = two thousand\nsan-zen = three thousand"
+        }
+      }
+    },
+    "80731d55-07e8-4eee-a0a4-3143f379178a": {
+      "start": 29422,
+      "end": 29646,
+      "id": "80731d55-07e8-4eee-a0a4-3143f379178a",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "80731d55-07e8-4eee-a0a4-3143f379178a",
+        "tags": [
+          "shad1-9"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kono nóoto-wa dáre-no-desu ka? (polite)\nA, sore? Sára-san-no-desu. (polite)",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Whose is this notebook? (polite)\nOh, that one? It's Sara-san's.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "909f4dbc-2dd9-4799-b54b-0edf2173313c": {
+      "start": 29758,
+      "end": 30033,
+      "id": "909f4dbc-2dd9-4799-b54b-0edf2173313c",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "909f4dbc-2dd9-4799-b54b-0edf2173313c",
+        "tags": [
+          "shad1-9"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Yamada-san-no heyá-wa atarashíi-desu ka? (polite)\nIe, furúi-desu. Démo kírei-desu. (polite)",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Is Yamada-san's room new?\nNo, it's old. But it's pretty/clean.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "This \"ie\" is a bit less polite than iie."
+        }
+      }
+    },
+    "c2ec98ed-465e-416d-8c79-6ea1804b2923": {
+      "start": 30162,
+      "end": 30468,
+      "id": "c2ec98ed-465e-416d-8c79-6ea1804b2923",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "c2ec98ed-465e-416d-8c79-6ea1804b2923",
+        "tags": [
+          "shad1-9"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Tanaka-san-no heyá-wa kírei-desu ka?\nIe, kírei ja arimasén. Démo atarashíi-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Is Tanaka-san's room clean/pretty? (polite)\nNo, it's not. But it's new. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "kírei ja arimasén = kírei ja nái"
+        }
+      }
+    },
+    "878df9ac-17f0-4b2c-b666-1d6d4271fe7d": {
+      "start": 30604,
+      "end": 30966,
+      "id": "878df9ac-17f0-4b2c-b666-1d6d4271fe7d",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "878df9ac-17f0-4b2c-b666-1d6d4271fe7d",
+        "tags": [
+          "shad1-9"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Aa, kyóu-wa atsui-désu ne.\nSóu-desu ne. Kyóu-mo bíiru-ga oishii-desu ne.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Ah, it's hot today, isn't it? (polite)\nIt is, right? The beer is good today, too. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "1eb5ff21-97b0-4ea6-9dd6-8d2a6dea4b3e": {
+      "start": 31102,
+      "end": 31350,
+      "id": "1eb5ff21-97b0-4ea6-9dd6-8d2a6dea4b3e",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "1eb5ff21-97b0-4ea6-9dd6-8d2a6dea4b3e",
+        "tags": [
+          "shad1-9"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Sára-san-wa jí-ga kírei-desu ne.\nDóre? Mísete. A, hontou-dá.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Your handwriting is [very] neat, Sara-san. (polite)\nWhich bit? Show me. Oh, so it is. (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for Sara-san, [your] characters are beautiful/clean.\""
+        }
+      }
+    },
+    "98466228-8797-4f30-8d91-4e2e85f15228": {
+      "start": 31473,
+      "end": 31738,
+      "id": "98466228-8797-4f30-8d91-4e2e85f15228",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "98466228-8797-4f30-8d91-4e2e85f15228",
+        "tags": [
+          "shad1-9"
+        ],
+        "fields": {
+          "front": "",
+          "back": "E, áisu? Samúkunai-desu ka?\nÉe, oishíi-desu yo.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Huh, ice cream? Isn't it cold out? (polite)\nYes, it's good! (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Samúi. = Samúi-desu. = It's cold out.\nSamúkunai. = Samúkunai-desu. = It's not cold out."
+        }
+      }
+    },
+    "54aedb60-b609-4dc0-88bf-311acf843162": {
+      "start": 31919,
+      "end": 32111,
+      "id": "54aedb60-b609-4dc0-88bf-311acf843162",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "54aedb60-b609-4dc0-88bf-311acf843162",
+        "tags": [
+          "shad1-9"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Eiga, dóu deshita ka?\nOmoshirókatta-desu yo.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "How was the movie? (polite)\nIt was interesting! (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Omoshirói. = Omoshirói-desu. (It's interesting.)\nOmoshirókatta. = Omoshirókatta-desu. (It was interesting.)\n\nDóu? = Dóu-desu ka?  (How is it?)\nDóu datta? = Dóu deshita ka? (How was it?)\n\n[noun]-datta = [noun] deshita (was)"
+        }
+      }
+    },
+    "7c0b3b2b-252f-4a35-b50c-20eafc1e1cad": {
+      "start": 32237,
+      "end": 32725,
+      "id": "7c0b3b2b-252f-4a35-b50c-20eafc1e1cad",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "7c0b3b2b-252f-4a35-b50c-20eafc1e1cad",
+        "tags": [
+          "shad1-9"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kore-wa nán-desu ka\nKore? A, kore, okonomiyaki.\nE? Okonomi?\nUn. Okonomiyaki. Oishii yo.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "What's this? (polite)\nThis? Ah, this is okonomiyaki. (casual)\nHuh? Okonomi?\nMmhm. Okonomiyaki. It's good! (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "58fb1517-9894-4ad9-8f0a-6a3249212848": {
+      "start": 33044,
+      "end": 33236,
+      "id": "58fb1517-9894-4ad9-8f0a-6a3249212848",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "58fb1517-9894-4ad9-8f0a-6a3249212848",
+        "tags": [
+          "shad1-10"
+        ],
+        "fields": {
+          "front": "",
+          "back": "A, umakatta.\nHontou, oíshikatta ne.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Ah, that was tasty. (casual) \nFor real, that was so good! (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Umai\" is a more casual and masculine-sounding than \"oishii\"."
+        }
+      }
+    },
+    "1d7d0193-a979-4c68-9bab-c453831c8f1c": {
+      "start": 33364,
+      "end": 33519,
+      "id": "1d7d0193-a979-4c68-9bab-c453831c8f1c",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "1d7d0193-a979-4c68-9bab-c453831c8f1c",
+        "tags": [
+          "shad1-10"
+        ],
+        "fields": {
+          "front": "",
+          "back": "A, onaka ippai!\nWatashi-mo.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Ah, I'm full! (casual)\nMe too! (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"[My] stomach is full!\""
+        }
+      }
+    },
+    "b71f9027-fbb6-4ad7-b826-79f84bbc98aa": {
+      "start": 33667,
+      "end": 33910,
+      "id": "b71f9027-fbb6-4ad7-b826-79f84bbc98aa",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "b71f9027-fbb6-4ad7-b826-79f84bbc98aa",
+        "tags": [
+          "shad1-10"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Gochisou-sama déshita. Tottemo oíshikatta-desu.\nIie, dóu itashimáshite.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Thank you for the meal. It was very tasty. (polite)\nYou're quite welcome. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Gochisou-sama déshita\" or casually \"gochisousama\" is what you say after a meal."
+        }
+      }
+    },
+    "49825c3a-9bca-4d54-ad14-367106801ef3": {
+      "start": 34031,
+      "end": 34157,
+      "id": "49825c3a-9bca-4d54-ad14-367106801ef3",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "49825c3a-9bca-4d54-ad14-367106801ef3",
+        "tags": [
+          "shad1-10"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Dezáato tabemásu ka?\nÍi-desu ne.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Would you care for some dessert? (polite)\nThat would be nice. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"Will [you] eat dessert?\""
+        }
+      }
+    },
+    "36b8cd8b-ebfa-4670-aad1-54dfb24523b2": {
+      "start": 34308,
+      "end": 34487,
+      "id": "36b8cd8b-ebfa-4670-aad1-54dfb24523b2",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "36b8cd8b-ebfa-4670-aad1-54dfb24523b2",
+        "tags": [
+          "shad1-10"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Takusan tábete-kudasai ne.\nHai, itadakimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Please eat a lot, OK? (polite)\nYes, I humbly receive. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "The -te form is used with \"-kudasai\" to make polite commands/requests.\n\nKudasái on its own means \"please give [me]\"."
+        }
+      }
+    },
+    "1ceb3d32-de74-481a-8a0e-cb59896ed812": {
+      "start": 34603,
+      "end": 34878,
+      "id": "1ceb3d32-de74-481a-8a0e-cb59896ed812",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "1ceb3d32-de74-481a-8a0e-cb59896ed812",
+        "tags": [
+          "shad1-10"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kono misé, sáabisu-mo íi shi, ryóuri-mo oishii shi...\nSóu da ne. Matá ki-tái ne.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "The service at this restaurant is good, and the food is good...\nThat's right. I'd like to come again.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"This shop, since [the] service is good, and since the cooking is good...\"\n\n\"...shi, ...shi\" is used when listing multiple reasons.\n\nThis -tái form means \"want (to)\", and especially \"I want (to)\". (In Japanese, it's rare to talk directly about someone else wanting something; rather you say they \"seem to want\" something. After all, you can't really know their inner life.)\n\n\"Misé\" means both \"restaurant\" and generally \"shop\". Here we know it's a restaurant because of the context."
+        }
+      }
+    },
+    "6b9c2dc7-b6f0-43b3-b313-36d49c30de1f": {
+      "start": 35030,
+      "end": 35399,
+      "id": "6b9c2dc7-b6f0-43b3-b313-36d49c30de1f",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "6b9c2dc7-b6f0-43b3-b313-36d49c30de1f",
+        "tags": [
+          "shad1-10"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kono misé, dóu datta?\nUn, ryóuri-wa íi kedo, sáabisu-ga chótto ne...",
+          "717524da-c2af-4196-b850-a6ab9a646798": "How was this restaurant? (casual)\nHm, the food was good, but the service was kind of... you know? (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "d197f549-e0a2-4627-80ea-47cf8195d0a1": {
+      "start": 35573,
+      "end": 35825,
+      "id": "d197f549-e0a2-4627-80ea-47cf8195d0a1",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "d197f549-e0a2-4627-80ea-47cf8195d0a1",
+        "tags": [
+          "shad1-10"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kore-mo oishii yo. A', sore-kara kore-mo...\nHontou-dá. Oishi-sou!",
+          "717524da-c2af-4196-b850-a6ab9a646798": "This is yummy, too. Ah, and also, this one, too.\nFor real. It looks good!",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "The small \"tsu\" at the end of a word is a convention for representing a short sound. So 「あっ」is a really short \"a\"."
+        }
+      }
+    },
+    "614891ee-8e50-454f-ae5e-c82210f3d9e3": {
+      "start": 35981,
+      "end": 36203,
+      "id": "614891ee-8e50-454f-ae5e-c82210f3d9e3",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "614891ee-8e50-454f-ae5e-c82210f3d9e3",
+        "tags": [
+          "shad1-10"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Kore, oishii yo. Chótto tábete-miru?\nUn, arígatou.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "This is delicious. Would you like to try some? (casual)\nYeah, thank you. (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"[Will] you eat a little and see?\"\n\nThis \"te-miru\" construction is often used with this meaning of \"try\"."
+        }
+      }
+    },
+    "5564f4e0-4817-4fd5-aaff-25dbf92453f8": {
+      "start": 36366,
+      "end": 36544,
+      "id": "5564f4e0-4817-4fd5-aaff-25dbf92453f8",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "5564f4e0-4817-4fd5-aaff-25dbf92453f8",
+        "tags": [
+          "shad1-10"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Buta-niku-wa chótto...\nA, sóu-na-n' da.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "[I don't do] pork...\nAh, I see.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for pig meat, a little... Ah, that's how it is.\"\n\nSóu da. = Sóu-desu. (It is so.)\nsóu-na-n(o) = sóu-na-n(o) (that it is so)\nSóu-na-n(o) da. = Sóu-na-n(o)-desu. (It's that it is so.)"
+        }
+      }
+    },
+    "8142d631-1711-4e31-b386-d2c38e4274bc": {
+      "start": 28,
+      "end": 104,
+      "id": "8142d631-1711-4e31-b386-d2c38e4274bc",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "8142d631-1711-4e31-b386-d2c38e4274bc",
+        "tags": [],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "518a0a35-4d40-423d-874f-03ebca2c1abb": {
+      "start": 398,
+      "end": 513,
+      "id": "518a0a35-4d40-423d-874f-03ebca2c1abb",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "518a0a35-4d40-423d-874f-03ebca2c1abb",
+        "tags": [],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "4496d160-65e1-4c3c-a362-5dea9f76789a": {
+      "start": 575,
+      "end": 748,
+      "id": "4496d160-65e1-4c3c-a362-5dea9f76789a",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "4496d160-65e1-4c3c-a362-5dea9f76789a",
+        "tags": [],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "81ce654e-d69e-49a7-a63d-d95468bad256": {
+      "start": 856,
+      "end": 1006,
+      "id": "81ce654e-d69e-49a7-a63d-d95468bad256",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "81ce654e-d69e-49a7-a63d-d95468bad256",
+        "tags": [],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    }
+  }
+}

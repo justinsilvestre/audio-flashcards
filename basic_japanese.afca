@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2019-04-12T15:37:47Z",
+  "timestamp": "2019-04-14T20:06:22Z",
   "name": "Basic Japanese",
   "id": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
   "noteType": {
@@ -29,7 +29,7 @@
   "mediaFilesMetadata": [
     {
       "id": "b0cd359c-28f9-424e-a643-21cd368d4e19",
-      "name": "Japanese Listening (N5-N4-N3) - Shadowing lets speak Japanese beginner to intermediate (N5 N4 N3).mp4",
+      "name": "Shadowing Beginner to Intermediate.mp4",
       "durationSeconds": 3997.500911,
       "format": "mov,mp4,m4a,3gp,3g2,mj2",
       "isVideo": true
@@ -1315,7 +1315,7 @@
           "front": "",
           "back": "Dónna eiga-o mimásu ka?\nKómedii-o yóku mimásu ne.",
           "717524da-c2af-4196-b850-a6ab9a646798": "What kind of movies do [you] watch?\n[I] watch lots of comedies, (now that I think of it).",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"[I] watch comedies well.\" The \"ne\" gives a sort of thoughtful tone here."
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "yóku = well, often\n\n\"-O\" often marks the direct object of the verb. It's written with the hiragana \"wo\", the only modern usage of this kana."
         }
       }
     },
@@ -1333,7 +1333,7 @@
           "front": "",
           "back": "Kiiro-to áka-no haná-o kudasái.\nHai, kiiro-to áka-desu ne.",
           "717524da-c2af-4196-b850-a6ab9a646798": "I'd like [the] yellow and red flowers, please. (polite)\nOf course, yellow and red, (right?) (polite)",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"O\" often marks the direct object of the verb."
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"kudasái\" literally means \"please give [me]\"."
         }
       }
     },
@@ -2064,7 +2064,7 @@
           "front": "",
           "back": "Uwa, sono kutsú, kawaíi ne. (casual)\nHontou? Arígatou. (casual)",
           "717524da-c2af-4196-b850-a6ab9a646798": "Wow, those shoes [of yours] are [so] cute.\nReally? Thanks.",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "abcddasdjflksdjflasdfasdfalsdfjlsdfjlaksdjfl"
         }
       }
     },
@@ -2187,7 +2187,7 @@
           "shad1-9"
         ],
         "fields": {
-          "front": "",
+          "front": "asdjflaksdjf",
           "back": "Yamada-san-no heyá-wa atarashíi-desu ka? (polite)\nIe, furúi-desu. Démo kírei-desu. (polite)",
           "717524da-c2af-4196-b850-a6ab9a646798": "Is Yamada-san's room new?\nNo, it's old. But it's pretty/clean.",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "This \"ie\" is a bit less polite than iie."
@@ -2492,7 +2492,7 @@
         "tags": [],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Háchi no hanashí",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -2508,7 +2508,7 @@
         "tags": [],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Háchi-wa kodomo-no inú-desu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -2524,7 +2524,7 @@
         "tags": [],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Daigaku-no senséi-ga háchi-o moraimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -2537,6 +2537,22 @@
       "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
       "flashcard": {
         "id": "81ce654e-d69e-49a7-a63d-d95468bad256",
+        "tags": [],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "9f79aed9-a961-472b-b54b-8387bd5bcae6": {
+      "start": 150383,
+      "end": 150473,
+      "id": "9f79aed9-a961-472b-b54b-8387bd5bcae6",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "9f79aed9-a961-472b-b54b-8387bd5bcae6",
         "tags": [],
         "fields": {
           "front": "",

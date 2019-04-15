@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2019-04-15T14:16:59Z",
+  "timestamp": "2019-04-15T15:04:30Z",
   "name": "Basic Japanese",
   "id": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
   "noteType": {
@@ -543,7 +543,7 @@
           "jgr1-1-1"
         ],
         "fields": {
-          "front": "でも、女んお子はいつも一人です。",
+          "front": "でも、女の子はいつも一人です。",
           "back": "Démo, onnanóko-wa ítsumo hitóri-desu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "However, [the] girl is always alone. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "[noun]-desu = [noun]-da"

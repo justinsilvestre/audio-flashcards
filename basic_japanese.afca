@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2019-04-14T20:06:22Z",
+  "timestamp": "2019-04-15T14:16:59Z",
   "name": "Basic Japanese",
   "id": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
   "noteType": {
@@ -1365,7 +1365,7 @@
           "shad1-5"
         ],
         "fields": {
-          "front": "",
+          "front": ".",
           "back": "Nihongo-no benkyou-wa dóu-desu ka?\nKanji-wa muzukashíi-desu ga, totemo omoshirói-desu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "How are [your] Japanese studies?\n[The] kanji are hard, but it's very interesting.",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "omoshirói = interesting, funny"
@@ -2477,8 +2477,8 @@
         "fields": {
           "front": "",
           "back": "Buta-niku-wa chótto...\nA, sóu-na-n' da.",
-          "717524da-c2af-4196-b850-a6ab9a646798": "[I don't do] pork...\nAh, I see.",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for pig meat, a little... Ah, that's how it is.\"\n\nSóu da. = Sóu-desu. (It is so.)\nsóu-na-n(o) = sóu-na-n(o) (that it is so)\nSóu-na-n(o) da. = Sóu-na-n(o)-desu. (It's that it is so.)"
+          "717524da-c2af-4196-b850-a6ab9a646798": "[I] kind of [don't do] pork...\nAh, I see.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for pig meat, a little... Ah, that's how it is.\"\n\nSóu-da. = Sóu-desu. (It is so.)\nsóu-na-n(o) = sóu-na-n(o) (that it is so)\nSóu-na-n(o) da. = Sóu-na-n(o)-desu. (It's that it is so.)"
         }
       }
     },
@@ -2537,22 +2537,6 @@
       "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
       "flashcard": {
         "id": "81ce654e-d69e-49a7-a63d-d95468bad256",
-        "tags": [],
-        "fields": {
-          "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
-        }
-      }
-    },
-    "9f79aed9-a961-472b-b54b-8387bd5bcae6": {
-      "start": 150383,
-      "end": 150473,
-      "id": "9f79aed9-a961-472b-b54b-8387bd5bcae6",
-      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
-      "flashcard": {
-        "id": "9f79aed9-a961-472b-b54b-8387bd5bcae6",
         "tags": [],
         "fields": {
           "front": "",

@@ -154,7 +154,7 @@
 
 **2:25 - 2:28** _#shad1-3_
 * 
-* Kyóu-wa nan-yóubi? (casual)<br>Suiyóubi da yo. (casual)
+* Kyóu-wa nan-yóubi? (casual)<br>Suiyóubi-da yo. (casual)
 * What day is it today?<br>It's Wednesday.
 * Literally, "As for today, what-weekday [is it]? [It] is Wednesday."<br><br>"Da" is the casual counterpart to "desu", but it has a slightly assertive tone, and is often left out, especially in feminine speech.
 
@@ -172,7 +172,7 @@
 
 **2:43 - 2:47** _#shad1-3_
 * 
-* Kotoshi-wa nán-nen?<br>Ni-sén rokú-nen. Heisei juu-hachi-nén da yo.
+* Kotoshi-wa nán-nen?<br>Ni-sén rokú-nen. Heisei juu-hachi-nén-da yo.
 * What year is it?<br>2006. It's the 18th year of the Heisei era!
 * Literally, "As for this year, what year [is it]? Two-thousand six-year. It's Heisei ten-eight-year (you know)!"<br><br>The traditional Japanese calendar is still used for some purposes, and is split into eras corresponding to the rule of different emperors. We've just entered the "Reiwa" era.
 
@@ -348,7 +348,7 @@
 * 
 * Ítsu nihón-ni kíta-n'-desu ka?<br>Ni-kagetsu-kúrai máe-desu.
 * When did [you] come to Japan? (polite)<br>About two months ago. (polite)
-* Literally, "When is [it] that [you] came to Japan?"<br><br>Nihón-ni kíta/kimáshita = [You] came to Japan<br>Nihón-ni kíta n(o) da/desu = [It] is that [you] came to Japan<br>Nihón-ni kíta no?/'n-desu ka? = Is [it] that [you] came to Japan?<br>Ítsu nihón-ni kíta n(o)-desu ka?<br><br>https://www.youtube.com/watch?v=dunBnCI1iP0<br><br>"Kúrai" is pretty much interchangeable with "gúrai".
+* Literally, "When is [it] that [you] came to Japan?"<br><br>Nihón-ni kíta/kimáshita = [You] came to Japan<br>Nihón-ni kíta-n(o)-da/desu = [It] is that [you] came to Japan<br>Nihón-ni kíta no?/'n-desu ka? = Is [it] that [you] came to Japan?<br>Ítsu nihón-ni kíta n(o)-desu ka?<br><br>https://www.youtube.com/watch?v=dunBnCI1iP0<br><br>"Kúrai" is pretty much interchangeable with "gúrai".
 
 **6:06 - 6:09** _#shad1-6_
 * 
@@ -462,7 +462,7 @@
 * 
 * Kinou-no sákkaa, mimáshita ka?<br>Uun, amari sukí ja nái kara.
 * Did you see the soccer match yesterday? (polite)<br>Nah, I don't really like [it]. (casual)
-* Literally, "Yesterday's soccer [match], did [you] see [it]? Nah, since [it]'s not excessively liked [by me]."<br><br>"Sukí" is a na-adjective meaning "liked". To say you like something, you say that it is "sukí".<br><br>Sukí da. = [I] like [it].<br>Sukí ja nái = [I] don't like [it].<br><br>"[noun/na-adj.]-da" negates to "[noun/na-adj.] ja nái".<br>
+* Literally, "Yesterday's soccer [match], did [you] see [it]? Nah, since [it]'s not excessively liked [by me]."<br><br>"Sukí" is a na-adjective meaning "liked". To say you like something, you say that it is "sukí".<br><br>Sukí-da. = [I] like [it].<br>Sukí ja nái = [I] don't like [it].<br><br>"[noun/na-adj.]-da" negates to "[noun/na-adj.] ja nái".<br>
 
 **8:52 - 8:57** _#shad1-8_
 * 
@@ -580,7 +580,7 @@
 
 **11:32 - 11:37** _#shad1-10_
 * 
-* Kono misé, sáabisu-mo íi shi, ryóuri-mo oishii shi...<br>Sóu da ne. Matá ki-tái ne.
+* Kono misé, sáabisu-mo íi shi, ryóuri-mo oishii shi...<br>Sóu-da ne. Matá ki-tái ne.
 * The service at this restaurant is good, and the food is good...<br>That's right. I'd like to come again.
 * Literally, "This shop, since [the] service is good, and since the cooking is good..."<br><br>"...shi, ...shi" is used when listing multiple reasons.<br><br>This -tái form means "want (to)", and especially "I want (to)". (In Japanese, it's rare to talk directly about someone else wanting something; rather you say they "seem to want" something. After all, you can't really know their inner life.)<br><br>"Misé" means both "restaurant" and generally "shop". Here we know it's a restaurant because of the context.
 
@@ -604,9 +604,9 @@
 
 **12:07 - 12:10** _#shad1-10_
 * 
-* Buta-niku-wa chótto...<br>A, sóu-na-n' da.
+* Buta-niku-wa chótto...<br>A, sóu-na-n'-da.
 * [I] kind of [don't do] pork...<br>Ah, I see.
-* Literally, "As for pig meat, a little... Ah, that's how it is."<br><br>Sóu-da. = Sóu-desu. (It is so.)<br>sóu-na-n(o) = sóu-na-n(o) (that it is so)<br>Sóu-na-n(o) da. = Sóu-na-n(o)-desu. (It's that it is so.)
+* Literally, "As for pig meat, a little... Ah, that's how it is."<br><br>Sóu-da. = Sóu-desu. (It is so.)<br>sóu-na-n(o) = sóu-na-n(o) (that it is so)<br>Sóu-na-n(o)-da. = Sóu-na-n(o)-desu. (It's that it is so.)
 
 ## 01 onna no ko.m4a
 
@@ -768,7 +768,7 @@
 
 **2:44 - 2:47** _#jgr1-1-1_
 * とても元気な男の子です。
-* Totemo génki na otokónoko-desu.
+* Totemo génki-na otokónoko-desu.
 * [He] is [a] very lively boy.
 * [noun]-desu = [noun]-da
 

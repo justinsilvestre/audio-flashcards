@@ -904,7 +904,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "Kyóu-wa nan-yóubi? (casual)\nSuiyóubi da yo. (casual)",
+          "back": "Kyóu-wa nan-yóubi? (casual)\nSuiyóubi-da yo. (casual)",
           "717524da-c2af-4196-b850-a6ab9a646798": "What day is it today?\nIt's Wednesday.",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for today, what-weekday [is it]? [It] is Wednesday.\"\n\n\"Da\" is the casual counterpart to \"desu\", but it has a slightly assertive tone, and is often left out, especially in feminine speech."
         }
@@ -1048,7 +1048,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "Kotoshi-wa nán-nen?\nNi-sén rokú-nen. Heisei juu-hachi-nén da yo.",
+          "back": "Kotoshi-wa nán-nen?\nNi-sén rokú-nen. Heisei juu-hachi-nén-da yo.",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for this year, what year [is it]? Two-thousand six-year. It's Heisei ten-eight-year (you know)!\"\n\nThe traditional Japanese calendar is still used for some purposes, and is split into eras corresponding to the rule of different emperors. We've just entered the \"Reiwa\" era.",
           "717524da-c2af-4196-b850-a6ab9a646798": "What year is it?\n2006. It's the 18th year of the Heisei era!"
         }
@@ -1066,7 +1066,7 @@
         ],
         "fields": {
           "front": "とても元気な男の子です。",
-          "back": "Totemo génki na otokónoko-desu.",
+          "back": "Totemo génki-na otokónoko-desu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "[He] is [a] very lively boy.",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "[noun]-desu = [noun]-da"
         }
@@ -1596,7 +1596,7 @@
           "front": "",
           "back": "Ítsu nihón-ni kíta-n'-desu ka?\nNi-kagetsu-kúrai máe-desu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "When did [you] come to Japan? (polite)\nAbout two months ago. (polite)",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"When is [it] that [you] came to Japan?\"\n\nNihón-ni kíta/kimáshita = [You] came to Japan\nNihón-ni kíta n(o) da/desu = [It] is that [you] came to Japan\nNihón-ni kíta no?/'n-desu ka? = Is [it] that [you] came to Japan?\nÍtsu nihón-ni kíta n(o)-desu ka?\n\nhttps://www.youtube.com/watch?v=dunBnCI1iP0\n\n\"Kúrai\" is pretty much interchangeable with \"gúrai\"."
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"When is [it] that [you] came to Japan?\"\n\nNihón-ni kíta/kimáshita = [You] came to Japan\nNihón-ni kíta-n(o)-da/desu = [It] is that [you] came to Japan\nNihón-ni kíta no?/'n-desu ka? = Is [it] that [you] came to Japan?\nÍtsu nihón-ni kíta n(o)-desu ka?\n\nhttps://www.youtube.com/watch?v=dunBnCI1iP0\n\n\"Kúrai\" is pretty much interchangeable with \"gúrai\"."
         }
       }
     },
@@ -2046,7 +2046,7 @@
           "front": "",
           "back": "Kinou-no sákkaa, mimáshita ka?\nUun, amari sukí ja nái kara.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Did you see the soccer match yesterday? (polite)\nNah, I don't really like [it]. (casual)",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"Yesterday's soccer [match], did [you] see [it]? Nah, since [it]'s not excessively liked [by me].\"\n\n\"Sukí\" is a na-adjective meaning \"liked\". To say you like something, you say that it is \"sukí\".\n\nSukí da. = [I] like [it].\nSukí ja nái = [I] don't like [it].\n\n\"[noun/na-adj.]-da\" negates to \"[noun/na-adj.] ja nái\".\n"
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"Yesterday's soccer [match], did [you] see [it]? Nah, since [it]'s not excessively liked [by me].\"\n\n\"Sukí\" is a na-adjective meaning \"liked\". To say you like something, you say that it is \"sukí\".\n\nSukí-da. = [I] like [it].\nSukí ja nái = [I] don't like [it].\n\n\"[noun/na-adj.]-da\" negates to \"[noun/na-adj.] ja nái\".\n"
         }
       }
     },
@@ -2404,7 +2404,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "Kono misé, sáabisu-mo íi shi, ryóuri-mo oishii shi...\nSóu da ne. Matá ki-tái ne.",
+          "back": "Kono misé, sáabisu-mo íi shi, ryóuri-mo oishii shi...\nSóu-da ne. Matá ki-tái ne.",
           "717524da-c2af-4196-b850-a6ab9a646798": "The service at this restaurant is good, and the food is good...\nThat's right. I'd like to come again.",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"This shop, since [the] service is good, and since the cooking is good...\"\n\n\"...shi, ...shi\" is used when listing multiple reasons.\n\nThis -tái form means \"want (to)\", and especially \"I want (to)\". (In Japanese, it's rare to talk directly about someone else wanting something; rather you say they \"seem to want\" something. After all, you can't really know their inner life.)\n\n\"Misé\" means both \"restaurant\" and generally \"shop\". Here we know it's a restaurant because of the context."
         }
@@ -2476,9 +2476,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "Buta-niku-wa chótto...\nA, sóu-na-n' da.",
+          "back": "Buta-niku-wa chótto...\nA, sóu-na-n'-da.",
           "717524da-c2af-4196-b850-a6ab9a646798": "[I] kind of [don't do] pork...\nAh, I see.",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for pig meat, a little... Ah, that's how it is.\"\n\nSóu-da. = Sóu-desu. (It is so.)\nsóu-na-n(o) = sóu-na-n(o) (that it is so)\nSóu-na-n(o) da. = Sóu-na-n(o)-desu. (It's that it is so.)"
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for pig meat, a little... Ah, that's how it is.\"\n\nSóu-da. = Sóu-desu. (It is so.)\nsóu-na-n(o) = sóu-na-n(o) (that it is so)\nSóu-na-n(o)-da. = Sóu-na-n(o)-desu. (It's that it is so.)"
         }
       }
     },

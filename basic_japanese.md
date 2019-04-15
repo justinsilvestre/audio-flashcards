@@ -677,7 +677,7 @@
 * imasu = iru
 
 **1:30 - 1:34** _#jgr1-1-1_
-* でも、女んお子はいつも一人です。
+* でも、女の子はいつも一人です。
 * Démo, onnanóko-wa ítsumo hitóri-desu.
 * However, [the] girl is always alone. (polite)
 * [noun]-desu = [noun]-da

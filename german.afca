@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2019-04-17T20:35:38Z",
+  "timestamp": "2019-04-17T20:54:07Z",
   "name": "German",
   "id": "3bf9d637-b012-4394-b98f-5f75b1dbedb0",
   "noteType": {
@@ -324,8 +324,8 @@
         ],
         "fields": {
           "front": "„Kann Farbe denn lachen?\" fragte Piggeldy.\n\n„I wo!\" sagte Frederick. „Aber lass uns anfangen.\"",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "\"Denn\" gives a question a tone of eager curiosity."
+          "back": "\"No way!\" said Frederick. \"But let's get started.\"",
+          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "The modal particle \"denn\" gives a question a tone of eager curiosity."
         }
       }
     },
@@ -374,7 +374,7 @@
         ],
         "fields": {
           "front": "Frederick tauchte seinen rechten Vorderfuß in einen Farbeimer.",
-          "back": "",
+          "back": "Frederick dipped his front right foot into a bucket of paint.",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "der Farbeimer"
         }
       }
@@ -408,7 +408,7 @@
         ],
         "fields": {
           "front": "„Die Farbe heißt 'grün',\" sagte er. „Ich male jetzt einen grünen Wald.\n\n„Wie schön,\" bewunderte Piggeldy seinen großen Bruder.",
-          "back": "",
+          "back": "\"This color is called 'green',\" said he. \"Now I'll paint a green forest.\"",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
         }
       }
@@ -475,7 +475,7 @@
         ],
         "fields": {
           "front": "„Und was sollte ich malen?\"\n\n„Du malst die blauen Blumen, die im grünen Wald wachsen,\" sagte Frederick. \"Das ist ganz leicht für den Anfang.\"",
-          "back": "",
+          "back": "\"And what should I paint?\"\n\n\"You'll paint the blue flowers that grow in the green forest,\" said Frederick. \"That's quite easy to start with.\"",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "wachsen/wuchs/ist gewachsen\n\nsollen/sollte/hat gesollt (super irregular, one of the modal verbs)\n\n\"Sollte\" here looks the same as the past tense of \"sollen\", but it's not. Just think of it as \"should\".\n\nThe base meaning of \"sollen\" is \"shall, to be supposed to, to have to\".\n\nDu sollst das sagen. = You are to say that. You are supposed to say that.\n\nWhen you put it into the subjunctive mood, i.e. the \"would\" form, the idea is \"should\". Sometimes the subjunctive looks the same as the simple past.\n\nDu solltest das sagen. = You should say that. (OR less commonly) You were supposed to say that.\n\nThe idea here is, you would have to say that, in order to fulfill some expectation/obligation.\n\nMore on the subjunctive mood: https://coerll.utexas.edu/gg/gr/vsub_02.html\n\nschwimmen/schwamm/ist geschwommen\nmurren/murrte/gemurrt"
         }
       }
@@ -525,7 +525,7 @@
         ],
         "fields": {
           "front": "Piggeldy tauchte seinen linken Vorderfuß in den blauen Farbeimer.",
-          "back": "",
+          "back": "Piggeldy dipped his left front foot into the blue paint bucket.",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "tauchen/tauchte/hat getaucht"
         }
       }
@@ -559,7 +559,7 @@
         ],
         "fields": {
           "front": "Dann hüpfte er in dem grünen Wald hin und her.",
-          "back": "",
+          "back": "Then he hopped to and fro inside the green forest.",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "hin und her = to and fro\n\nhüpfen/hüpfte/ist? gehüpft"
         }
       }
@@ -609,8 +609,8 @@
         ],
         "fields": {
           "front": "„Ich male blauen Blumen!\" schrie er begeistert.\n\n„Sehr schön,\" sagte Frederick.",
-          "back": "begeistert = enthralled\n\nschreien, schrie, hat geschrien\nbegeistern, begeisterte, hat begeistert",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "back": "\"I'm painting blue flowers!\" he cried in excitement.\n\n\"Very nice,\" said Frederick.",
+          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "begeistert = enthralled\n\nschreien, schrie, hat geschrien\nbegeistern, begeisterte, hat begeistert"
         }
       }
     },
@@ -925,8 +925,8 @@
         ],
         "fields": {
           "front": "„Nur sollten die Blumen vielleicht ein bisschen größer sein. Sonst sieht man sie nicht.\"",
-          "back": "sonst = or else, otherwise",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "back": "\"Only the flowers should be a bit bigger, perhaps. Or else you can't see them.\"",
+          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "sonst = or else, otherwise"
         }
       }
     },
@@ -941,9 +941,9 @@
           "piggeldy-malen"
         ],
         "fields": {
-          "front": "Piggeldy rannte zum blauen Farbeimer und tauchte beide Vorderfüße hinen. Dabei verlor er das Gleichgewicht und fiel in den Eimer!",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "der Fuß, die Füße\n\nrennen/rannte/ist? gerannt\nverlieren/verlor/hat verloren\nfallen/fiel/ist gefallen/fällt"
+          "front": "Piggeldy rannte zum blauen Farbeimer und tauchte beide Vorderfüße hinein. Dabei verlor er das Gleichgewicht und fiel in den Eimer!",
+          "back": "Piggeldy ran to the blue paint bucket and dipped both front feet in. In doing so, he lost his balance and fell into the bucket!",
+          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "der Fuß, die Füße\ngleich = just, same, equal\ndas Gewicht = weight\ndas Gleichgewicht = balance\n\nrennen/rannte/ist gerannt\nverlieren/verlor/hat verloren\nfallen/fiel/ist gefallen/fällt"
         }
       }
     },
@@ -959,7 +959,7 @@
         ],
         "fields": {
           "front": "„Hilfe!\" schrie Piggeldy.\n\n„Spring schnell wieder raus!\" rief Frederick.\n\nPiggeldy sprang wieder heraus und schlotterte. „Ich bin ganz blau!\" schrie er.",
-          "back": "",
+          "back": "\"Help!\" cried Piggeldy.\n\n\"Quickly, jump back out!\" shouted Frederick.\n\nPiggeldy jumped back out and shuddered. \"I'm all blue!\" he cried.",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "\"Raus\" is the colloquial version of \"heraus\". Same as \"herein, rein\".\n\nschreien/schrie/geschrien"
         }
       }
@@ -976,7 +976,7 @@
         ],
         "fields": {
           "front": "„Spritzt nicht so, Piggeldy!\" rief Frederick. \"Sonst verdirbst du unser Bild.\"",
-          "back": "",
+          "back": "\"Don't splash like that, Piggeldy!\" shouted Frederick. Or else you'll spoil our picture!\"",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "verderben/verdarb/hat verdorben/verdirbt"
         }
       }
@@ -1010,7 +1010,7 @@
         ],
         "fields": {
           "front": "Frederick malte noch ein bisschen am Wald, dann sagte er, „Komm, das reicht.\"",
-          "back": "",
+          "back": "Frederick painted the forest a bit more, then said, \"Come, that's enough.\"",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
         }
       }
@@ -1027,7 +1027,7 @@
         ],
         "fields": {
           "front": "Piggeldy stand auf.\n\n„Frederick, guck mal! Ich habe ein... ein blaues Schwein gemalt, das im grünen Wald zwischen blauen Blumen liegt.\"",
-          "back": "",
+          "back": "Piggeldy stood up.\n\n\"Frederick, look! I've painted a... a blue pig, that's lying in the green forest among the blue flowers.",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "\"Gucken\" is usually pronounced as if it were spelled \"kucken\".\n\nAttention:\nEr legte sich IN DEN grünen Wald ZWISCHEN DIE blauen Blumen.\nvs.\nEr \n\naufstehen/stand auf/ist aufgestanden\ngucken/guckte/hat geguckt\nliegen/lag/ist geliegen"
         }
       }

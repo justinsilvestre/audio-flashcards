@@ -226,57 +226,57 @@
 
 **0:45 - 0:53** _#piggeldy-malen_
 * „Kann Farbe denn lachen?" fragte Piggeldy.<br><br>„I wo!" sagte Frederick. „Aber lass uns anfangen."
-* 
-* "Denn" gives a question a tone of eager curiosity.
+* "No way!" said Frederick. "But let's get started."
+* The modal particle "denn" gives a question a tone of eager curiosity.
 
 **0:53 - 0:59** _#piggeldy-malen_
 * Frederick tauchte seinen rechten Vorderfuß in einen Farbeimer.
-* 
+* Frederick dipped his front right foot into a bucket of paint.
 * der Farbeimer
 
 **0:59 - 1:11** _#piggeldy-malen_
 * „Die Farbe heißt 'grün'," sagte er. „Ich male jetzt einen grünen Wald.<br><br>„Wie schön," bewunderte Piggeldy seinen großen Bruder.
-* 
+* "This color is called 'green'," said he. "Now I'll paint a green forest."
 * 
 
 **1:11 - 1:22** _#piggeldy-malen_
 * „Und was sollte ich malen?"<br><br>„Du malst die blauen Blumen, die im grünen Wald wachsen," sagte Frederick. "Das ist ganz leicht für den Anfang."
-* 
+* "And what should I paint?"<br><br>"You'll paint the blue flowers that grow in the green forest," said Frederick. "That's quite easy to start with."
 * wachsen/wuchs/ist gewachsen<br><br>sollen/sollte/hat gesollt (super irregular, one of the modal verbs)<br><br>"Sollte" here looks the same as the past tense of "sollen", but it's not. Just think of it as "should".<br><br>The base meaning of "sollen" is "shall, to be supposed to, to have to".<br><br>Du sollst das sagen. = You are to say that. You are supposed to say that.<br><br>When you put it into the subjunctive mood, i.e. the "would" form, the idea is "should". Sometimes the subjunctive looks the same as the simple past.<br><br>Du solltest das sagen. = You should say that. (OR less commonly) You were supposed to say that.<br><br>The idea here is, you would have to say that, in order to fulfill some expectation/obligation.<br><br>More on the subjunctive mood: https://coerll.utexas.edu/gg/gr/vsub_02.html<br><br>schwimmen/schwamm/ist geschwommen<br>murren/murrte/gemurrt
 
 **1:22 - 1:27** _#piggeldy-malen_
 * Piggeldy tauchte seinen linken Vorderfuß in den blauen Farbeimer.
-* 
+* Piggeldy dipped his left front foot into the blue paint bucket.
 * tauchen/tauchte/hat getaucht
 
 **1:27 - 1:31** _#piggeldy-malen_
 * Dann hüpfte er in dem grünen Wald hin und her.
-* 
+* Then he hopped to and fro inside the green forest.
 * hin und her = to and fro<br><br>hüpfen/hüpfte/ist? gehüpft
 
 **1:31 - 1:37** _#piggeldy-malen_
 * „Ich male blauen Blumen!" schrie er begeistert.<br><br>„Sehr schön," sagte Frederick.
+* "I'm painting blue flowers!" he cried in excitement.<br><br>"Very nice," said Frederick.
 * begeistert = enthralled<br><br>schreien, schrie, hat geschrien<br>begeistern, begeisterte, hat begeistert
-* 
 
 **1:37 - 1:44** _#piggeldy-malen_
 * „Nur sollten die Blumen vielleicht ein bisschen größer sein. Sonst sieht man sie nicht."
+* "Only the flowers should be a bit bigger, perhaps. Or else you can't see them."
 * sonst = or else, otherwise
-* 
 
 **1:44 - 1:56** _#piggeldy-malen_
-* Piggeldy rannte zum blauen Farbeimer und tauchte beide Vorderfüße hinen. Dabei verlor er das Gleichgewicht und fiel in den Eimer!
-* 
-* der Fuß, die Füße<br><br>rennen/rannte/ist? gerannt<br>verlieren/verlor/hat verloren<br>fallen/fiel/ist gefallen/fällt
+* Piggeldy rannte zum blauen Farbeimer und tauchte beide Vorderfüße hinein. Dabei verlor er das Gleichgewicht und fiel in den Eimer!
+* Piggeldy ran to the blue paint bucket and dipped both front feet in. In doing so, he lost his balance and fell into the bucket!
+* der Fuß, die Füße<br>gleich = just, same, equal<br>das Gewicht = weight<br>das Gleichgewicht = balance<br><br>rennen/rannte/ist gerannt<br>verlieren/verlor/hat verloren<br>fallen/fiel/ist gefallen/fällt
 
 **1:56 - 2:10** _#piggeldy-malen_
 * „Hilfe!" schrie Piggeldy.<br><br>„Spring schnell wieder raus!" rief Frederick.<br><br>Piggeldy sprang wieder heraus und schlotterte. „Ich bin ganz blau!" schrie er.
-* 
+* "Help!" cried Piggeldy.<br><br>"Quickly, jump back out!" shouted Frederick.<br><br>Piggeldy jumped back out and shuddered. "I'm all blue!" he cried.
 * "Raus" is the colloquial version of "heraus". Same as "herein, rein".<br><br>schreien/schrie/geschrien
 
 **2:10 - 2:17** _#piggeldy-malen_
 * „Spritzt nicht so, Piggeldy!" rief Frederick. "Sonst verdirbst du unser Bild."
-* 
+* "Don't splash like that, Piggeldy!" shouted Frederick. Or else you'll spoil our picture!"
 * verderben/verdarb/hat verdorben/verdirbt
 
 **2:17 - 2:24** _#piggeldy-malen_
@@ -286,12 +286,12 @@
 
 **2:24 - 2:31** _#piggeldy-malen_
 * Frederick malte noch ein bisschen am Wald, dann sagte er, „Komm, das reicht."
-* 
+* Frederick painted the forest a bit more, then said, "Come, that's enough."
 * 
 
 **2:31 - 2:43** _#piggeldy-malen_
 * Piggeldy stand auf.<br><br>„Frederick, guck mal! Ich habe ein... ein blaues Schwein gemalt, das im grünen Wald zwischen blauen Blumen liegt."
-* 
+* Piggeldy stood up.<br><br>"Frederick, look! I've painted a... a blue pig, that's lying in the green forest among the blue flowers.
 * "Gucken" is usually pronounced as if it were spelled "kucken".<br><br>Attention:<br>Er legte sich IN DEN grünen Wald ZWISCHEN DIE blauen Blumen.<br>vs.<br>Er <br><br>aufstehen/stand auf/ist aufgestanden<br>gucken/guckte/hat geguckt<br>liegen/lag/ist geliegen
 
 **2:43 - 2:55** _#piggeldy-malen_

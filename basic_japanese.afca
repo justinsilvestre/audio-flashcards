@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2019-04-15T15:04:30Z",
+  "timestamp": "2019-04-19T09:45:07Z",
   "name": "Basic Japanese",
   "id": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
   "noteType": {
@@ -47,9 +47,34 @@
       "durationSeconds": 225.558639,
       "format": "mov,mp4,m4a,3gp,3g2,mj2",
       "isVideo": false
+    },
+    {
+      "id": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "name": "03 jonsan nihon e.m4a",
+      "durationSeconds": 425.923628,
+      "format": "mov,mp4,m4a,3gp,3g2,mj2",
+      "isVideo": false
+    },
+    {
+      "id": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "name": "04 urashima tarou.m4a",
+      "durationSeconds": 466.790748,
+      "format": "mov,mp4,m4a,3gp,3g2,mj2",
+      "isVideo": false
+    },
+    {
+      "id": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "name": "05 warai hanashi.m4a",
+      "durationSeconds": 646.280998,
+      "format": "mov,mp4,m4a,3gp,3g2,mj2",
+      "isVideo": false
     }
   ],
   "tags": [
+    "jgr1-1-3",
+    "jgr1-1-5",
+    "jgr1-1-2",
+    "jgr1-1-4",
     "shad1-1",
     "jgr1-1-1",
     "shad1-2",
@@ -63,6 +88,204 @@
     "shad1-10"
   ],
   "clips": {
+    "11337e7d-9a4c-484c-b47c-454e89516020": {
+      "start": 24,
+      "end": 145,
+      "id": "11337e7d-9a4c-484c-b47c-454e89516020",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "11337e7d-9a4c-484c-b47c-454e89516020",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "8c5555ae-083b-4f4e-9be7-9a146df80092": {
+      "start": 26,
+      "end": 93,
+      "id": "8c5555ae-083b-4f4e-9be7-9a146df80092",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "8c5555ae-083b-4f4e-9be7-9a146df80092",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "8142d631-1711-4e31-b386-d2c38e4274bc": {
+      "start": 28,
+      "end": 104,
+      "id": "8142d631-1711-4e31-b386-d2c38e4274bc",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "8142d631-1711-4e31-b386-d2c38e4274bc",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Háchi no hanashí",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "96646e3a-1e27-47d0-a3f0-b858a21ea237": {
+      "start": 381,
+      "end": 581,
+      "id": "96646e3a-1e27-47d0-a3f0-b858a21ea237",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "96646e3a-1e27-47d0-a3f0-b858a21ea237",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "518a0a35-4d40-423d-874f-03ebca2c1abb": {
+      "start": 398,
+      "end": 513,
+      "id": "518a0a35-4d40-423d-874f-03ebca2c1abb",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "518a0a35-4d40-423d-874f-03ebca2c1abb",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Háchi-wa kodomo-no inú-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "2481f8dc-f643-4f60-af9c-0c5042fc6b08": {
+      "start": 407,
+      "end": 465,
+      "id": "2481f8dc-f643-4f60-af9c-0c5042fc6b08",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "2481f8dc-f643-4f60-af9c-0c5042fc6b08",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "0adb6b3e-e184-4d07-81f3-4bc8097fee3c": {
+      "start": 461,
+      "end": 645,
+      "id": "0adb6b3e-e184-4d07-81f3-4bc8097fee3c",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "0adb6b3e-e184-4d07-81f3-4bc8097fee3c",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "a25e983b-15f1-40e3-b89d-554c5e7e4944": {
+      "start": 562,
+      "end": 604,
+      "id": "a25e983b-15f1-40e3-b89d-554c5e7e4944",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "a25e983b-15f1-40e3-b89d-554c5e7e4944",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "4496d160-65e1-4c3c-a362-5dea9f76789a": {
+      "start": 575,
+      "end": 748,
+      "id": "4496d160-65e1-4c3c-a362-5dea9f76789a",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "4496d160-65e1-4c3c-a362-5dea9f76789a",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Daigaku-no senséi-ga háchi-o moraimáshita.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "c911ab18-c682-4fa2-ad9e-d3d5e460dda6": {
+      "start": 676,
+      "end": 768,
+      "id": "c911ab18-c682-4fa2-ad9e-d3d5e460dda6",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "c911ab18-c682-4fa2-ad9e-d3d5e460dda6",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "a3285a07-3f23-4651-8845-0eefb73748e6": {
+      "start": 710,
+      "end": 837,
+      "id": "a3285a07-3f23-4651-8845-0eefb73748e6",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "a3285a07-3f23-4651-8845-0eefb73748e6",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "1dc6af34-54ab-4b16-9974-385df03cca82": {
       "start": 727,
       "end": 814,
@@ -79,6 +302,60 @@
           "717524da-c2af-4196-b850-a6ab9a646798": "Is that so? (casual)\nYeah. (casual)",
           "5a8c25cd-347e-4da9-b272-44842c93c3cf": "Really?",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"so, that way, like that, thus\".\n\nAfter the accented vowel, the pitch goes down. Pitch accent isn't usually marked in Japanese transliteration.\n\n\"Ou\" is pronounced like \"oo\"' in most words. When you see two vowels in a row like this, make sure to pronounce each separately."
+        }
+      }
+    },
+    "80684020-ba57-4ec0-b592-8b967415e131": {
+      "start": 740,
+      "end": 948,
+      "id": "80684020-ba57-4ec0-b592-8b967415e131",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "80684020-ba57-4ec0-b592-8b967415e131",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "5702fd08-3dfa-421d-95a0-707c39668cea": {
+      "start": 853,
+      "end": 939,
+      "id": "5702fd08-3dfa-421d-95a0-707c39668cea",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "5702fd08-3dfa-421d-95a0-707c39668cea",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "81ce654e-d69e-49a7-a63d-d95468bad256": {
+      "start": 856,
+      "end": 1006,
+      "id": "81ce654e-d69e-49a7-a63d-d95468bad256",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "81ce654e-d69e-49a7-a63d-d95468bad256",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "Háchi-to senséi-wa issho-ni asobimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "asobimásu = asobu"
         }
       }
     },
@@ -100,6 +377,114 @@
         }
       }
     },
+    "88e84e2b-62a6-4c5a-8975-c02b174b6e88": {
+      "start": 936,
+      "end": 1063,
+      "id": "88e84e2b-62a6-4c5a-8975-c02b174b6e88",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "88e84e2b-62a6-4c5a-8975-c02b174b6e88",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "8a8c0ede-0ad9-47cd-bd30-103ba059fb24": {
+      "start": 1031,
+      "end": 1107,
+      "id": "8a8c0ede-0ad9-47cd-bd30-103ba059fb24",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "8a8c0ede-0ad9-47cd-bd30-103ba059fb24",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "45f1c73a-96c8-4e18-9180-769ae919c0c0": {
+      "start": 1034,
+      "end": 1409,
+      "id": "45f1c73a-96c8-4e18-9180-769ae919c0c0",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "45f1c73a-96c8-4e18-9180-769ae919c0c0",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "a1573151-1d59-49c3-ac9a-5ec4a408df02": {
+      "start": 1072,
+      "end": 1256,
+      "id": "a1573151-1d59-49c3-ac9a-5ec4a408df02",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "a1573151-1d59-49c3-ac9a-5ec4a408df02",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "46519dff-f637-4d51-aa1b-b62c519e6223": {
+      "start": 1179,
+      "end": 1545,
+      "id": "46519dff-f637-4d51-aa1b-b62c519e6223",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "46519dff-f637-4d51-aa1b-b62c519e6223",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "43961aa2-766b-419a-964f-8857d52308c1": {
+      "start": 1192,
+      "end": 1268,
+      "id": "43961aa2-766b-419a-964f-8857d52308c1",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "43961aa2-766b-419a-964f-8857d52308c1",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "d1dc24d2-2ea8-4b44-b871-ab033f053dd5": {
       "start": 1219,
       "end": 1355,
@@ -115,6 +500,42 @@
           "back": "Oishii?\nÚn. Oishii yo.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Is it tasty? (casual)\nYeah, it's good. (casual)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "You can put \"yo\" at the end of almost any sentence to give it a kind of assertive feeling. There are lots of sentence-ending \"particles\" like this, that give different feelings. \n\nhttps://www.youtube.com/watch?v=szjfbOZmY1k"
+        }
+      }
+    },
+    "ac1cc2d8-deee-4b46-b85d-c1c9c69ad137": {
+      "start": 1341,
+      "end": 1449,
+      "id": "ac1cc2d8-deee-4b46-b85d-c1c9c69ad137",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "ac1cc2d8-deee-4b46-b85d-c1c9c69ad137",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "2611b239-585b-4e05-a16f-99beac3be93b": {
+      "start": 1376,
+      "end": 1473,
+      "id": "2611b239-585b-4e05-a16f-99beac3be93b",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "2611b239-585b-4e05-a16f-99beac3be93b",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -154,6 +575,60 @@
         }
       }
     },
+    "08448a63-e939-497b-b43c-bd60e360ce09": {
+      "start": 1528,
+      "end": 1808,
+      "id": "08448a63-e939-497b-b43c-bd60e360ce09",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "08448a63-e939-497b-b43c-bd60e360ce09",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "ecf3384b-1bc3-4156-b07e-02f5d04a5a04": {
+      "start": 1533,
+      "end": 1608,
+      "id": "ecf3384b-1bc3-4156-b07e-02f5d04a5a04",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "ecf3384b-1bc3-4156-b07e-02f5d04a5a04",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "5f6178d2-42e1-4115-806f-19ec640b91cf": {
+      "start": 1566,
+      "end": 1691,
+      "id": "5f6178d2-42e1-4115-806f-19ec640b91cf",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "5f6178d2-42e1-4115-806f-19ec640b91cf",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "6d4fd738-6204-4990-b9db-4e7b6e45e6ab": {
       "start": 1643,
       "end": 1737,
@@ -169,6 +644,42 @@
           "back": "Kírei?\nKírei.",
           "717524da-c2af-4196-b850-a6ab9a646798": "[Is it] pretty? (casual)\nYes, it is. (casual)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Japanese doesn't use pronouns like English. \"It\" is understood here.\n\nThe sound combination \"ei\" is often pronounced as a long \"ee\"."
+        }
+      }
+    },
+    "a5f69087-b571-4fe0-90f5-31182fd907b3": {
+      "start": 1704,
+      "end": 1862,
+      "id": "a5f69087-b571-4fe0-90f5-31182fd907b3",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "a5f69087-b571-4fe0-90f5-31182fd907b3",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "665ecf7f-253c-4440-8e7c-5cb14328dcdb": {
+      "start": 1771,
+      "end": 1957,
+      "id": "665ecf7f-253c-4440-8e7c-5cb14328dcdb",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "665ecf7f-253c-4440-8e7c-5cb14328dcdb",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -191,6 +702,24 @@
         }
       }
     },
+    "456a0761-3606-4244-920a-a7c3f40a0d5a": {
+      "start": 1828,
+      "end": 1929,
+      "id": "456a0761-3606-4244-920a-a7c3f40a0d5a",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "456a0761-3606-4244-920a-a7c3f40a0d5a",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "527c86fe-cfee-4364-ad5f-4d93cb56359e": {
       "start": 1854,
       "end": 1958,
@@ -206,6 +735,60 @@
           "back": "Hontou?\nHontou.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Really? (casual)\nReally. (casual)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "This \"n\" is the one kana that doesn't have a vowel. It's sometimes called a \"syllabic n\".\n\nThis word has four \"beats\": HO-N-TO-O. Linguists call these beats \"morae\" (singular \"mora\"), but you'll also hear people calling them syllables. What's important is that you pronounce each kana sound separately and with mostly equal duration."
+        }
+      }
+    },
+    "4d17fc73-9a36-4b26-8188-e7deab4c47d0": {
+      "start": 1908,
+      "end": 2226,
+      "id": "4d17fc73-9a36-4b26-8188-e7deab4c47d0",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "4d17fc73-9a36-4b26-8188-e7deab4c47d0",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "53ca21fc-efd5-4e30-a10f-cc51212024a0": {
+      "start": 1974,
+      "end": 2091,
+      "id": "53ca21fc-efd5-4e30-a10f-cc51212024a0",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "53ca21fc-efd5-4e30-a10f-cc51212024a0",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "eae39728-c61e-46d7-8bfd-2a37ba5856da": {
+      "start": 1992,
+      "end": 2068,
+      "id": "eae39728-c61e-46d7-8bfd-2a37ba5856da",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "eae39728-c61e-46d7-8bfd-2a37ba5856da",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -228,6 +811,24 @@
         }
       }
     },
+    "006370b4-f018-4bdf-a304-7614fb1dc3cb": {
+      "start": 2065,
+      "end": 2308,
+      "id": "006370b4-f018-4bdf-a304-7614fb1dc3cb",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "006370b4-f018-4bdf-a304-7614fb1dc3cb",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "13ffbb0b-a35d-4bd9-b338-09752d42a9d3": {
       "start": 2069,
       "end": 2188,
@@ -241,6 +842,42 @@
           "back": "Tanaka-san?\nTanaka-san.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Tanaka-san? (casual)\nTanaka-san. (casual)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"San\" is used more often that its usual translation, \"Mr./Mrs.\""
+        }
+      }
+    },
+    "859e39b8-98ef-4809-b8b8-bf6bc0b710d7": {
+      "start": 2150,
+      "end": 2223,
+      "id": "859e39b8-98ef-4809-b8b8-bf6bc0b710d7",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "859e39b8-98ef-4809-b8b8-bf6bc0b710d7",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "86eb75e1-9dd4-4a39-9705-bccba38ba62e": {
+      "start": 2203,
+      "end": 2381,
+      "id": "86eb75e1-9dd4-4a39-9705-bccba38ba62e",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "86eb75e1-9dd4-4a39-9705-bccba38ba62e",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -263,6 +900,24 @@
         }
       }
     },
+    "6195b20a-8bf6-4890-b9a7-81453e07b72e": {
+      "start": 2290,
+      "end": 2361,
+      "id": "6195b20a-8bf6-4890-b9a7-81453e07b72e",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "6195b20a-8bf6-4890-b9a7-81453e07b72e",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "17388bbb-466a-4c9b-9ea1-fa0dca638659": {
       "start": 2304,
       "end": 2398,
@@ -278,6 +933,78 @@
           "back": "Íi?\nÍi yo.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Is that OK? (casual)\nIt's fine. (casual)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Ii\" was originally \"yói\". Now \"yói\" is reserved for more formal contexts."
+        }
+      }
+    },
+    "84d8b599-2754-4b55-b5b5-0d390fa8f051": {
+      "start": 2335,
+      "end": 2824,
+      "id": "84d8b599-2754-4b55-b5b5-0d390fa8f051",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "84d8b599-2754-4b55-b5b5-0d390fa8f051",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "9ebd0385-741a-4596-bb7a-e7db76f913f2": {
+      "start": 2384,
+      "end": 2596,
+      "id": "9ebd0385-741a-4596-bb7a-e7db76f913f2",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "9ebd0385-741a-4596-bb7a-e7db76f913f2",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "1bb47469-2b30-472d-9903-6c8a3a7eed3e": {
+      "start": 2453,
+      "end": 2624,
+      "id": "1bb47469-2b30-472d-9903-6c8a3a7eed3e",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "1bb47469-2b30-472d-9903-6c8a3a7eed3e",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "ba94a160-7fe3-45a0-8316-ccbe0737da02": {
+      "start": 2473,
+      "end": 2793,
+      "id": "ba94a160-7fe3-45a0-8316-ccbe0737da02",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "ba94a160-7fe3-45a0-8316-ccbe0737da02",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -317,6 +1044,42 @@
         }
       }
     },
+    "2551ecf5-d616-44bb-a218-18fbdae1a48e": {
+      "start": 2647,
+      "end": 2847,
+      "id": "2551ecf5-d616-44bb-a218-18fbdae1a48e",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "2551ecf5-d616-44bb-a218-18fbdae1a48e",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "fd5a1bb9-9bec-4a2d-ad8f-cbaddc5d6d6f": {
+      "start": 2717,
+      "end": 2793,
+      "id": "fd5a1bb9-9bec-4a2d-ad8f-cbaddc5d6d6f",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "fd5a1bb9-9bec-4a2d-ad8f-cbaddc5d6d6f",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "f2e9b436-f722-45d9-8e1a-3a3220a3f7bc": {
       "start": 2773,
       "end": 2930,
@@ -347,9 +1110,81 @@
         ],
         "fields": {
           "front": "絵本もピアノもテレビもあります。",
-          "back": "Éhon-mo piano-mo térebi-mo arimásu.",
+          "back": "Ehón-mo piano-mo térebi-mo arimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "There are picture-books, [a] piano, and [a] TV. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Instead of the usual topic marker \"wa\", \"mo\" is used to add the meaning of \"also, too, even\".\n\narimásu = áru"
+        }
+      }
+    },
+    "0dd192cf-b537-46d3-97ee-933c124e065c": {
+      "start": 2855,
+      "end": 3068,
+      "id": "0dd192cf-b537-46d3-97ee-933c124e065c",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "0dd192cf-b537-46d3-97ee-933c124e065c",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "9b12b789-17ec-4071-9479-f0c8501ca218": {
+      "start": 2879,
+      "end": 3190,
+      "id": "9b12b789-17ec-4071-9479-f0c8501ca218",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "9b12b789-17ec-4071-9479-f0c8501ca218",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "117ab61f-4ca6-4615-ae81-4a8f2b0ede1e": {
+      "start": 2888,
+      "end": 3660,
+      "id": "117ab61f-4ca6-4615-ae81-4a8f2b0ede1e",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "117ab61f-4ca6-4615-ae81-4a8f2b0ede1e",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "fa64d45a-d23e-442a-a387-5fa1c8ea12cc": {
+      "start": 2942,
+      "end": 3052,
+      "id": "fa64d45a-d23e-442a-a387-5fa1c8ea12cc",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "fa64d45a-d23e-442a-a387-5fa1c8ea12cc",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -371,6 +1206,42 @@
         }
       }
     },
+    "68ee9b68-dabd-428c-b4c5-a7b4cca4c560": {
+      "start": 3119,
+      "end": 3306,
+      "id": "68ee9b68-dabd-428c-b4c5-a7b4cca4c560",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "68ee9b68-dabd-428c-b4c5-a7b4cca4c560",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "c7d2de6a-32e2-4606-809a-ec181e3c5fa5": {
+      "start": 3188,
+      "end": 3368,
+      "id": "c7d2de6a-32e2-4606-809a-ec181e3c5fa5",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "c7d2de6a-32e2-4606-809a-ec181e3c5fa5",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "388f21ad-319b-4ff1-8107-1fb8a4645d5e": {
       "start": 3248,
       "end": 3572,
@@ -386,6 +1257,24 @@
           "back": "Demo, hitotsu-dake arimasén.",
           "717524da-c2af-4196-b850-a6ab9a646798": "But just one [thing] isn't there. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"arimasén\" in plain form = \"nái\" "
+        }
+      }
+    },
+    "7e90d563-b88b-4c5c-a246-f1faf6af78c3": {
+      "start": 3249,
+      "end": 3714,
+      "id": "7e90d563-b88b-4c5c-a246-f1faf6af78c3",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "7e90d563-b88b-4c5c-a246-f1faf6af78c3",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -407,6 +1296,42 @@
         }
       }
     },
+    "0bd5f880-70e4-422f-ad48-ddb135f1c3e6": {
+      "start": 3387,
+      "end": 3475.8999999999996,
+      "id": "0bd5f880-70e4-422f-ad48-ddb135f1c3e6",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "0bd5f880-70e4-422f-ad48-ddb135f1c3e6",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "a93ff4a9-c63d-407e-82d3-92bed9c1f1ae": {
+      "start": 3430,
+      "end": 3550,
+      "id": "a93ff4a9-c63d-407e-82d3-92bed9c1f1ae",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "a93ff4a9-c63d-407e-82d3-92bed9c1f1ae",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "fc8b9b5e-c7e5-4ec1-bc0b-1965c859b4a2": {
       "start": 3467,
       "end": 3611,
@@ -422,6 +1347,60 @@
           "back": "Senséi, ohayou gozaimásu.\nOhayou.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Good morning, sensei. (polite)\nGood morning. (casual)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Sensei could be a teacher, doctor, or someone else in a position of respect.\n\nFormal language is usually longer than casual language. The more respect the speaker is trying to show, the longer their speech tends to get."
+        }
+      }
+    },
+    "a567994a-ce23-483b-abe9-f188aaf19f33": {
+      "start": 3513.9,
+      "end": 3584.9,
+      "id": "a567994a-ce23-483b-abe9-f188aaf19f33",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "a567994a-ce23-483b-abe9-f188aaf19f33",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "2a372364-0fc3-4bd7-862d-f482dc32566d": {
+      "start": 3627,
+      "end": 3966,
+      "id": "2a372364-0fc3-4bd7-862d-f482dc32566d",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "2a372364-0fc3-4bd7-862d-f482dc32566d",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "f14f7ea0-4401-4287-a30c-2af3174552b1": {
+      "start": 3635.9,
+      "end": 3697.9,
+      "id": "f14f7ea0-4401-4287-a30c-2af3174552b1",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "f14f7ea0-4401-4287-a30c-2af3174552b1",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -443,6 +1422,24 @@
         }
       }
     },
+    "edc376bf-aca0-4eff-9ae5-2ae7e0819c05": {
+      "start": 3727,
+      "end": 4300,
+      "id": "edc376bf-aca0-4eff-9ae5-2ae7e0819c05",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "edc376bf-aca0-4eff-9ae5-2ae7e0819c05",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "84b56b0b-e8b0-4776-8aaa-0cbcf1a6a0ea": {
       "start": 3743,
       "end": 3887,
@@ -458,6 +1455,42 @@
           "back": "Émi-san, jáa ne.\nÚn, matá ashitá.",
           "717524da-c2af-4196-b850-a6ab9a646798": "I'll see you later Emi-san. (casual)\nSee you tomorrow. (casual)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Jáa ne\" is basically a casual \"bye\".\n\"Matá ashitá\" is literally \"again tomorrow\"."
+        }
+      }
+    },
+    "bdd802f0-af4b-4397-bc41-62dbe3449386": {
+      "start": 3799,
+      "end": 3919,
+      "id": "bdd802f0-af4b-4397-bc41-62dbe3449386",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "bdd802f0-af4b-4397-bc41-62dbe3449386",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "530c127b-0dfa-421b-aa0c-8e19eea83926": {
+      "start": 3847,
+      "end": 3935,
+      "id": "530c127b-0dfa-421b-aa0c-8e19eea83926",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "530c127b-0dfa-421b-aa0c-8e19eea83926",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -479,6 +1512,24 @@
         }
       }
     },
+    "04ea64a3-01e9-423e-81b8-d22afa8a18a8": {
+      "start": 4017,
+      "end": 4181,
+      "id": "04ea64a3-01e9-423e-81b8-d22afa8a18a8",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "04ea64a3-01e9-423e-81b8-d22afa8a18a8",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "dc648c0d-fcbb-4a1a-b8c3-5662a03025b2": {
       "start": 4027,
       "end": 4153,
@@ -494,6 +1545,42 @@
           "back": "O-saki-ni shitsúrei shimásu.\nO-tsukare-sama.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Excuse me for leaving early. (polite)\nSee you tomorrow [thanks for your hard work]. (casual)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"[I will] do [the] discourtesy [of leaving] first,\" and then \"[you must be] tired.\"\n\nThis sounds like an exchange between a junior coworker and senior coworker."
+        }
+      }
+    },
+    "c9d04e37-2bfe-4f24-bf70-e0f35321916e": {
+      "start": 4074,
+      "end": 4286,
+      "id": "c9d04e37-2bfe-4f24-bf70-e0f35321916e",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "c9d04e37-2bfe-4f24-bf70-e0f35321916e",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "d9915a07-1a57-4ee1-99cc-a0c2156fd015": {
+      "start": 4129,
+      "end": 4210,
+      "id": "d9915a07-1a57-4ee1-99cc-a0c2156fd015",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "d9915a07-1a57-4ee1-99cc-a0c2156fd015",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -515,6 +1602,24 @@
         }
       }
     },
+    "9b6d83bd-32a6-448d-8de4-d14ef2a1e1c7": {
+      "start": 4277,
+      "end": 4566,
+      "id": "9b6d83bd-32a6-448d-8de4-d14ef2a1e1c7",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "9b6d83bd-32a6-448d-8de4-d14ef2a1e1c7",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "3b636c78-f9cc-4b6c-8854-82e8af9be28b": {
       "start": 4291,
       "end": 4420,
@@ -529,6 +1634,78 @@
           "front": "",
           "back": "Áa.\nSumimasén.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Ahh (look what you've done).\nI'm sorry. (polite)"
+        }
+      }
+    },
+    "257f2b90-027c-4343-914a-6cff5886ec07": {
+      "start": 4294,
+      "end": 4418,
+      "id": "257f2b90-027c-4343-914a-6cff5886ec07",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "257f2b90-027c-4343-914a-6cff5886ec07",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "85150390-b0a7-474d-ac08-5ac6797bee9c": {
+      "start": 4361,
+      "end": 4603,
+      "id": "85150390-b0a7-474d-ac08-5ac6797bee9c",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "85150390-b0a7-474d-ac08-5ac6797bee9c",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "651b96d9-af4d-43dc-a984-d0bc1b97d1aa": {
+      "start": 4418,
+      "end": 4729,
+      "id": "651b96d9-af4d-43dc-a984-d0bc1b97d1aa",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "651b96d9-af4d-43dc-a984-d0bc1b97d1aa",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "e405abcd-f0e4-4e86-98bc-21cd4c3161cd": {
+      "start": 4496,
+      "end": 4562,
+      "id": "e405abcd-f0e4-4e86-98bc-21cd4c3161cd",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "e405abcd-f0e4-4e86-98bc-21cd4c3161cd",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -568,6 +1745,78 @@
         }
       }
     },
+    "24f548c5-49f4-4b53-b62f-16cf32b04669": {
+      "start": 4663,
+      "end": 4892,
+      "id": "24f548c5-49f4-4b53-b62f-16cf32b04669",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "24f548c5-49f4-4b53-b62f-16cf32b04669",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "9f62f517-72c5-490a-826c-b83ca22c6efc": {
+      "start": 4664,
+      "end": 4777,
+      "id": "9f62f517-72c5-490a-826c-b83ca22c6efc",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "9f62f517-72c5-490a-826c-b83ca22c6efc",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "630c653c-f163-47ad-a7a5-35a060b9a6fb": {
+      "start": 4698,
+      "end": 5028,
+      "id": "630c653c-f163-47ad-a7a5-35a060b9a6fb",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "630c653c-f163-47ad-a7a5-35a060b9a6fb",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "c641c6e7-cb16-4c9f-b74f-5620d71ec564": {
+      "start": 4792,
+      "end": 5163,
+      "id": "c641c6e7-cb16-4c9f-b74f-5620d71ec564",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "c641c6e7-cb16-4c9f-b74f-5620d71ec564",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "ab2b9391-55ef-4119-9597-028986f99592": {
       "start": 4797,
       "end": 4886,
@@ -604,6 +1853,42 @@
         }
       }
     },
+    "d6a3a1d8-069f-4673-bc9c-d0add3ad58db": {
+      "start": 4949,
+      "end": 5067,
+      "id": "d6a3a1d8-069f-4673-bc9c-d0add3ad58db",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "d6a3a1d8-069f-4673-bc9c-d0add3ad58db",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "919bb7df-1d14-4c65-813e-c9d994fd04f4": {
+      "start": 4959,
+      "end": 5065,
+      "id": "919bb7df-1d14-4c65-813e-c9d994fd04f4",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "919bb7df-1d14-4c65-813e-c9d994fd04f4",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "95c2e05e-af8c-420e-b96f-a30be9ac3b7d": {
       "start": 5019,
       "end": 5182,
@@ -619,6 +1904,60 @@
           "back": "Dóumo arígatou gozaimasu.\nIie, dóu itashimáshite.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Thank you very much. (polite)\nNot at all, you're welcome. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "The \"-ou gozaimasu\" ending here is the same as in \"ohayou gozaimasu\". It comes from an archaic polite sentence ending that's normally not used today, except in these set phrases."
+        }
+      }
+    },
+    "2d0caf70-151f-4739-9807-d0018efcdeec": {
+      "start": 5121,
+      "end": 5871,
+      "id": "2d0caf70-151f-4739-9807-d0018efcdeec",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "2d0caf70-151f-4739-9807-d0018efcdeec",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "35593829-8212-47a6-b363-6c99626c0221": {
+      "start": 5151,
+      "end": 5338,
+      "id": "35593829-8212-47a6-b363-6c99626c0221",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "35593829-8212-47a6-b363-6c99626c0221",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "c6a212cf-7c6a-41d6-89d5-a554c3d76d37": {
+      "start": 5152,
+      "end": 5297,
+      "id": "c6a212cf-7c6a-41d6-89d5-a554c3d76d37",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "c6a212cf-7c6a-41d6-89d5-a554c3d76d37",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -640,6 +1979,24 @@
         }
       }
     },
+    "fc3a454c-353c-43f1-b14d-b69dd43fd884": {
+      "start": 5328,
+      "end": 5714,
+      "id": "fc3a454c-353c-43f1-b14d-b69dd43fd884",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "fc3a454c-353c-43f1-b14d-b69dd43fd884",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "6a4dbb0f-558d-43b7-9d67-8ec5fdada94c": {
       "start": 5339,
       "end": 5532,
@@ -654,6 +2011,60 @@
           "front": "そして、ドアの音。",
           "back": "Soshite, dóa-no otó.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Then, [the] sound of [a] door.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "b0751c0b-9c6e-4748-9e7c-34d6d6c7b288": {
+      "start": 5389,
+      "end": 5469,
+      "id": "b0751c0b-9c6e-4748-9e7c-34d6d6c7b288",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "b0751c0b-9c6e-4748-9e7c-34d6d6c7b288",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "3067453b-508a-4352-9878-89fca6dd2f2e": {
+      "start": 5436,
+      "end": 5541,
+      "id": "3067453b-508a-4352-9878-89fca6dd2f2e",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "3067453b-508a-4352-9878-89fca6dd2f2e",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "7a7c86a4-c554-4e2f-b0bf-6483c775e6e3": {
+      "start": 5549,
+      "end": 5671,
+      "id": "7a7c86a4-c554-4e2f-b0bf-6483c775e6e3",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "7a7c86a4-c554-4e2f-b0bf-6483c775e6e3",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
@@ -676,6 +2087,24 @@
         }
       }
     },
+    "0babf57e-f22c-4969-a210-f8584bd58023": {
+      "start": 5629,
+      "end": 6008,
+      "id": "0babf57e-f22c-4969-a210-f8584bd58023",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "0babf57e-f22c-4969-a210-f8584bd58023",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "46b422db-ac24-4872-9eaa-a3e034266cee": {
       "start": 5686,
       "end": 5790,
@@ -694,6 +2123,42 @@
         }
       }
     },
+    "ef3794c0-aad5-4f34-ab9b-b874ef48af07": {
+      "start": 5766,
+      "end": 5947,
+      "id": "ef3794c0-aad5-4f34-ab9b-b874ef48af07",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "ef3794c0-aad5-4f34-ab9b-b874ef48af07",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "a1aa7554-e5d9-4cc6-9a5b-ef05d2468d80": {
+      "start": 5780,
+      "end": 5877,
+      "id": "a1aa7554-e5d9-4cc6-9a5b-ef05d2468d80",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "a1aa7554-e5d9-4cc6-9a5b-ef05d2468d80",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "58258432-a0a6-42e9-a1f5-ad5aee145a7c": {
       "start": 5829.8,
       "end": 5937.8,
@@ -709,6 +2174,60 @@
           "back": "Totemo furúi apáato-desu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "[It] is [a] very old apartment. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "[noun]-desu = [noun]-da"
+        }
+      }
+    },
+    "0a84765d-7e64-485d-a5f5-c8c93730246e": {
+      "start": 5928.8,
+      "end": 6285,
+      "id": "0a84765d-7e64-485d-a5f5-c8c93730246e",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "0a84765d-7e64-485d-a5f5-c8c93730246e",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "a541dad9-0b7d-4a7d-9eb6-5f4f8d2d849a": {
+      "start": 5981,
+      "end": 6337,
+      "id": "a541dad9-0b7d-4a7d-9eb6-5f4f8d2d849a",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "a541dad9-0b7d-4a7d-9eb6-5f4f8d2d849a",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "0760769f-a0a1-4367-a0d3-f2b932f3b105": {
+      "start": 6017,
+      "end": 6187,
+      "id": "0760769f-a0a1-4367-a0d3-f2b932f3b105",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "0760769f-a0a1-4367-a0d3-f2b932f3b105",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -748,6 +2267,24 @@
         }
       }
     },
+    "eda80f39-d151-45f7-ac4c-2e803116fa50": {
+      "start": 6088,
+      "end": 6227,
+      "id": "eda80f39-d151-45f7-ac4c-2e803116fa50",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "eda80f39-d151-45f7-ac4c-2e803116fa50",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "6ec772be-a82e-480a-b4ec-6ec10fb88481": {
       "start": 6253,
       "end": 6384,
@@ -763,6 +2300,24 @@
           "back": "Íma, nán-ji-desu ka?\nYó-ji.",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Four\" is more usually \"yón\", but it gets shortened to \"yó-\" in \"yó-ji\".",
           "717524da-c2af-4196-b850-a6ab9a646798": "What time is it right now? (polite)\nFour o'clock. (casual)"
+        }
+      }
+    },
+    "9dfabdcc-4d0b-4325-92d0-e81dddb3403a": {
+      "start": 6335,
+      "end": 6745,
+      "id": "9dfabdcc-4d0b-4325-92d0-e81dddb3403a",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "9dfabdcc-4d0b-4325-92d0-e81dddb3403a",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -784,6 +2339,60 @@
         }
       }
     },
+    "45ef84d3-82d3-454e-a73f-f8f6f3b2a8a3": {
+      "start": 6372,
+      "end": 6529,
+      "id": "45ef84d3-82d3-454e-a73f-f8f6f3b2a8a3",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "45ef84d3-82d3-454e-a73f-f8f6f3b2a8a3",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "46b1598a-c48b-4129-bff5-73382d5aeae0": {
+      "start": 6372.8,
+      "end": 6527.8,
+      "id": "46b1598a-c48b-4129-bff5-73382d5aeae0",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "46b1598a-c48b-4129-bff5-73382d5aeae0",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "96efb151-7900-4626-8f59-1cde9409afcc": {
+      "start": 6403,
+      "end": 6564,
+      "id": "96efb151-7900-4626-8f59-1cde9409afcc",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "96efb151-7900-4626-8f59-1cde9409afcc",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "2e20ef8e-c30a-476c-9d52-d9cb7496e319": {
       "start": 6492,
       "end": 6651,
@@ -799,6 +2408,60 @@
           "back": "Nán-ji-ni nemáshita ka?\nJuu-ichi-ji-han-gúrai-desu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "What time did [you] go to sleep? (polite)\nIt was around 11:30. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"At what hour did [you] sleep? [It] is ten-one-hour-half-about [that I went to sleep].\"\n\nNotice the placement of particle \"ni\" (\"at, to\"). Unlike English prepositions, Japanese particles go AFTER their object.\n\n\"Nemáshita\" is the formal version of \"neta\", \"slept\". From \"neru\", \"sleep\". Remember, the \"mas-\" marks politeness, and the \"ta\" marks past.\n\n(Compare \"wakarimáshita, wakátta, wakáru.\""
+        }
+      }
+    },
+    "d1e9452f-38db-4cbf-913b-62a9d51980bc": {
+      "start": 6585.8,
+      "end": 6789.8,
+      "id": "d1e9452f-38db-4cbf-913b-62a9d51980bc",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "d1e9452f-38db-4cbf-913b-62a9d51980bc",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "2fa58b1d-dfa9-4012-a3f7-c54a855ba66c": {
+      "start": 6601,
+      "end": 6750,
+      "id": "2fa58b1d-dfa9-4012-a3f7-c54a855ba66c",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "2fa58b1d-dfa9-4012-a3f7-c54a855ba66c",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "bb3ce531-7226-4392-b988-4223ba0ab1b4": {
+      "start": 6623,
+      "end": 6740,
+      "id": "bb3ce531-7226-4392-b988-4223ba0ab1b4",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "bb3ce531-7226-4392-b988-4223ba0ab1b4",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -838,6 +2501,60 @@
         }
       }
     },
+    "56fa9d81-85a0-4ba0-b575-2e4e0f440c29": {
+      "start": 6796,
+      "end": 7114,
+      "id": "56fa9d81-85a0-4ba0-b575-2e4e0f440c29",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "56fa9d81-85a0-4ba0-b575-2e4e0f440c29",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "40f83b02-62a3-40e5-847e-526060ec0ba4": {
+      "start": 6804,
+      "end": 6995,
+      "id": "40f83b02-62a3-40e5-847e-526060ec0ba4",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "40f83b02-62a3-40e5-847e-526060ec0ba4",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "01277c45-d033-4c1f-8f00-fa48ba855c1b": {
+      "start": 6851.8,
+      "end": 7013.8,
+      "id": "01277c45-d033-4c1f-8f00-fa48ba855c1b",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "01277c45-d033-4c1f-8f00-fa48ba855c1b",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "fec56907-479c-4305-8c40-006a5ef357d2": {
       "start": 7030,
       "end": 7186,
@@ -874,6 +2591,60 @@
         }
       }
     },
+    "e539f8f9-db98-4cac-97ab-d5dbe970e902": {
+      "start": 6833,
+      "end": 7187,
+      "id": "e539f8f9-db98-4cac-97ab-d5dbe970e902",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "e539f8f9-db98-4cac-97ab-d5dbe970e902",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "40628f69-0036-4122-890a-5db27d6ccf3f": {
+      "start": 7134,
+      "end": 7275,
+      "id": "40628f69-0036-4122-890a-5db27d6ccf3f",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "40628f69-0036-4122-890a-5db27d6ccf3f",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "b1da642e-d393-4291-bd01-4b7e78f9cf73": {
+      "start": 7190,
+      "end": 7458,
+      "id": "b1da642e-d393-4291-bd01-4b7e78f9cf73",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "b1da642e-d393-4291-bd01-4b7e78f9cf73",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "ddb66735-9709-4441-a71a-baea9a20695d": {
       "start": 7190.8,
       "end": 7274.8,
@@ -889,6 +2660,24 @@
           "back": "Báiku-mo hashirimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "[A] motorbike runs. (polite)\nOR\nMotorbikes run. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "hashirimásu = hashíru"
+        }
+      }
+    },
+    "0d2a72d3-be5b-477d-b5ef-e9c72b2f6430": {
+      "start": 7212,
+      "end": 7336,
+      "id": "0d2a72d3-be5b-477d-b5ef-e9c72b2f6430",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "0d2a72d3-be5b-477d-b5ef-e9c72b2f6430",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -928,6 +2717,42 @@
         }
       }
     },
+    "df743422-dcec-4d98-8019-6c26c876be3c": {
+      "start": 7386,
+      "end": 7592,
+      "id": "df743422-dcec-4d98-8019-6c26c876be3c",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "df743422-dcec-4d98-8019-6c26c876be3c",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "a98018d7-b76f-4f97-82a4-a0d1b56a7795": {
+      "start": 7444,
+      "end": 7566,
+      "id": "a98018d7-b76f-4f97-82a4-a0d1b56a7795",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "a98018d7-b76f-4f97-82a4-a0d1b56a7795",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "80d1b62e-5a1a-474b-8971-4a91d2f0bb23": {
       "start": 7493.8,
       "end": 7578.8,
@@ -943,6 +2768,24 @@
           "back": "O-báa-san-mo imásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "There is [an] old woman. (polite)\nOR\nThere are an old woman. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "imásu = iru"
+        }
+      }
+    },
+    "996b7a03-5228-47e2-9b8a-3b84cb0b38c3": {
+      "start": 7498,
+      "end": 7639,
+      "id": "996b7a03-5228-47e2-9b8a-3b84cb0b38c3",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "996b7a03-5228-47e2-9b8a-3b84cb0b38c3",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -979,6 +2822,60 @@
           "back": "Kodomo-mo imásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "There are children, too. (polite)\nOR\nThere is a child, too. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "imásu = iru"
+        }
+      }
+    },
+    "5f2877d6-1dc3-4749-a109-91d27cfe603a": {
+      "start": 7652,
+      "end": 7935,
+      "id": "5f2877d6-1dc3-4749-a109-91d27cfe603a",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "5f2877d6-1dc3-4749-a109-91d27cfe603a",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "f2aa096c-e42d-4711-a06e-b56e52d3ac6e": {
+      "start": 7661,
+      "end": 7849,
+      "id": "f2aa096c-e42d-4711-a06e-b56e52d3ac6e",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "f2aa096c-e42d-4711-a06e-b56e52d3ac6e",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "7574170b-d1b1-45e6-b0bc-762b3fa93bbb": {
+      "start": 7767,
+      "end": 8301,
+      "id": "7574170b-d1b1-45e6-b0bc-762b3fa93bbb",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "7574170b-d1b1-45e6-b0bc-762b3fa93bbb",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1036,6 +2933,42 @@
         }
       }
     },
+    "f3775f8f-87f0-49f7-b32e-4321ada89e84": {
+      "start": 7955,
+      "end": 8152,
+      "id": "f3775f8f-87f0-49f7-b32e-4321ada89e84",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "f3775f8f-87f0-49f7-b32e-4321ada89e84",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "32647ac0-b0e1-471b-b7fa-65fe02cf74dd": {
+      "start": 8021,
+      "end": 8543,
+      "id": "32647ac0-b0e1-471b-b7fa-65fe02cf74dd",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "32647ac0-b0e1-471b-b7fa-65fe02cf74dd",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "0cdc1eed-a7d3-4d8a-9b27-c4a142d79b6e": {
       "start": 8151,
       "end": 8366,
@@ -1054,6 +2987,24 @@
         }
       }
     },
+    "471857fa-69b4-4293-ac9d-8c2a167675eb": {
+      "start": 8227,
+      "end": 8686,
+      "id": "471857fa-69b4-4293-ac9d-8c2a167675eb",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "471857fa-69b4-4293-ac9d-8c2a167675eb",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "7aebcb5b-5bb3-4560-9e5a-794cb8e62740": {
       "start": 8236,
       "end": 8373,
@@ -1069,6 +3020,24 @@
           "back": "Totemo génki-na otokónoko-desu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "[He] is [a] very lively boy.",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "[noun]-desu = [noun]-da"
+        }
+      }
+    },
+    "9bafb238-1b6a-431c-ba5e-cf470f688a69": {
+      "start": 8469,
+      "end": 8541,
+      "id": "9bafb238-1b6a-431c-ba5e-cf470f688a69",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "9bafb238-1b6a-431c-ba5e-cf470f688a69",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1108,6 +3077,186 @@
         }
       }
     },
+    "9e0aabd7-e63e-4afe-82ea-e252af3665fe": {
+      "start": 8608,
+      "end": 8676,
+      "id": "9e0aabd7-e63e-4afe-82ea-e252af3665fe",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "9e0aabd7-e63e-4afe-82ea-e252af3665fe",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "32d261c7-016e-4c4b-a905-24f95113605f": {
+      "start": 8650,
+      "end": 8830,
+      "id": "32d261c7-016e-4c4b-a905-24f95113605f",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "32d261c7-016e-4c4b-a905-24f95113605f",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "fb0847cc-8754-409f-9cb7-7786ed283941": {
+      "start": 8721,
+      "end": 8802,
+      "id": "fb0847cc-8754-409f-9cb7-7786ed283941",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "fb0847cc-8754-409f-9cb7-7786ed283941",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "5b849dae-48a1-4e6e-8aa0-57e969883b26": {
+      "start": 8783,
+      "end": 9008,
+      "id": "5b849dae-48a1-4e6e-8aa0-57e969883b26",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "5b849dae-48a1-4e6e-8aa0-57e969883b26",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "74a3f0a9-bfae-474a-869b-81ea069ca7b2": {
+      "start": 8873,
+      "end": 9085,
+      "id": "74a3f0a9-bfae-474a-869b-81ea069ca7b2",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "74a3f0a9-bfae-474a-869b-81ea069ca7b2",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "でも、女の子は何も言いません。",
+          "back": "Démo, onnanóko-wa nanimo iimasén.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "However, [the] girl says nothing. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "iimásu = iu"
+        }
+      }
+    },
+    "7e077a09-c1ef-45f8-9866-23b2f561cb07": {
+      "start": 8884,
+      "end": 8995,
+      "id": "7e077a09-c1ef-45f8-9866-23b2f561cb07",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "7e077a09-c1ef-45f8-9866-23b2f561cb07",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "ce66bed9-7960-40f0-983e-d41a82547b56": {
+      "start": 8892,
+      "end": 9104,
+      "id": "ce66bed9-7960-40f0-983e-d41a82547b56",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "ce66bed9-7960-40f0-983e-d41a82547b56",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "0f3a18e9-69f0-43b6-9afa-7a73033b421a": {
+      "start": 9097,
+      "end": 9269,
+      "id": "0f3a18e9-69f0-43b6-9afa-7a73033b421a",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "0f3a18e9-69f0-43b6-9afa-7a73033b421a",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "e6f53168-2d9b-4f04-a9d2-225ce89bcf84": {
+      "start": 9130,
+      "end": 9198,
+      "id": "e6f53168-2d9b-4f04-a9d2-225ce89bcf84",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "e6f53168-2d9b-4f04-a9d2-225ce89bcf84",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "ff7cc887-6604-4d1a-8164-dee3321804da": {
+      "start": 9137,
+      "end": 9273,
+      "id": "ff7cc887-6604-4d1a-8164-dee3321804da",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "ff7cc887-6604-4d1a-8164-dee3321804da",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "cb20f659-e6d1-49ea-8db9-ebd16e4829b5": {
       "start": 9163,
       "end": 9364,
@@ -1123,6 +3272,96 @@
           "back": "Hajimemáshite. Watanabe-désu.\nTanaka-désu. Dóuzo yoroshiku.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Nice to meet you. I'm Watanabe. (polite)\nI'm Tanaka. Please treat me well. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Dóuzo yoroshiku\" is sometimes translated as \"Nice to meet you, I'm looking forward to working with you.\" But Japanese people say it before all sorts of exchanges, as a nice way of acknowledging future cooperation."
+        }
+      }
+    },
+    "c9799ab3-2e7a-48d4-b76d-a97e3aee5f09": {
+      "start": 9231,
+      "end": 9614,
+      "id": "c9799ab3-2e7a-48d4-b76d-a97e3aee5f09",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "c9799ab3-2e7a-48d4-b76d-a97e3aee5f09",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "ある日、男の子女の子に言いました。「はい、これ」",
+          "back": "Áru hi, otokónoko-wa onnanóko-ni iimáshita. \"Hai, kore.\"",
+          "717524da-c2af-4196-b850-a6ab9a646798": "One day, [the] boy said (polite) to [the] girl, \"Here, [take] this.\" ",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "iimáshita = itta\niimásu = iu"
+        }
+      }
+    },
+    "c84b4293-73c2-46ef-ac32-5c1b488dea8f": {
+      "start": 9259,
+      "end": 9336,
+      "id": "c84b4293-73c2-46ef-ac32-5c1b488dea8f",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "c84b4293-73c2-46ef-ac32-5c1b488dea8f",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "d2537c9e-3768-45e5-87fe-326568755c09": {
+      "start": 9354,
+      "end": 9696,
+      "id": "d2537c9e-3768-45e5-87fe-326568755c09",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "d2537c9e-3768-45e5-87fe-326568755c09",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "fc2ecad6-b371-4804-8777-2d693b500e0e": {
+      "start": 9409,
+      "end": 9713,
+      "id": "fc2ecad6-b371-4804-8777-2d693b500e0e",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "fc2ecad6-b371-4804-8777-2d693b500e0e",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "305ebcad-9f3f-42fb-859e-9e70cf00095d": {
+      "start": 9414,
+      "end": 9489,
+      "id": "305ebcad-9f3f-42fb-859e-9e70cf00095d",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "305ebcad-9f3f-42fb-859e-9e70cf00095d",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1143,6 +3382,24 @@
         }
       }
     },
+    "ad6df72a-1ceb-4285-84b4-c9879f61bfc4": {
+      "start": 9656,
+      "end": 10205,
+      "id": "ad6df72a-1ceb-4285-84b4-c9879f61bfc4",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "ad6df72a-1ceb-4285-84b4-c9879f61bfc4",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "6829a999-318d-4483-bf09-7d9939821a36": {
       "start": 9704,
       "end": 9865,
@@ -1157,6 +3414,60 @@
           "front": "",
           "back": "Sátou-san-desu ka?\nIie, Kátou-desu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Are [you] Satou?\nNo, I'm Katou."
+        }
+      }
+    },
+    "bf7758f0-0d2d-4d36-b85a-118e36e57817": {
+      "start": 9732,
+      "end": 9953,
+      "id": "bf7758f0-0d2d-4d36-b85a-118e36e57817",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "bf7758f0-0d2d-4d36-b85a-118e36e57817",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "古いアパートの部屋には、何もありません。",
+          "back": "Furúi apáato-no heyá-ni-wa, nanimo arimasén. ",
+          "717524da-c2af-4196-b850-a6ab9a646798": "In [the] room of [the] old apartment, there is nothing. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "arimasén = nai\narimásu = áru "
+        }
+      }
+    },
+    "aac0eba8-0b07-4cdb-a066-25bafa3f990e": {
+      "start": 9749,
+      "end": 9967,
+      "id": "aac0eba8-0b07-4cdb-a066-25bafa3f990e",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "aac0eba8-0b07-4cdb-a066-25bafa3f990e",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "69f69f11-b8b5-43b6-a8a5-9c1ba429c40f": {
+      "start": 9806,
+      "end": 10059,
+      "id": "69f69f11-b8b5-43b6-a8a5-9c1ba429c40f",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "69f69f11-b8b5-43b6-a8a5-9c1ba429c40f",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1178,6 +3489,60 @@
         }
       }
     },
+    "6bf24b51-b596-41bc-a272-3771289aeb00": {
+      "start": 10004,
+      "end": 10272,
+      "id": "6bf24b51-b596-41bc-a272-3771289aeb00",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "6bf24b51-b596-41bc-a272-3771289aeb00",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "でも、女の子の手には、小さい花があります。",
+          "back": "Démo, onnanóko-no té-ni-wa, chiisái haná-ga arimasu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "However, in [the] girl's hand, there is [a] small flower. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "arimásu = áru"
+        }
+      }
+    },
+    "46a5c0cb-47a6-41c8-95d3-dc59d93c4c68": {
+      "start": 10084,
+      "end": 10567,
+      "id": "46a5c0cb-47a6-41c8-95d3-dc59d93c4c68",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "46a5c0cb-47a6-41c8-95d3-dc59d93c4c68",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "232a4e35-2ff9-4ee7-aa49-994ec3fb4226": {
+      "start": 10114,
+      "end": 10326,
+      "id": "232a4e35-2ff9-4ee7-aa49-994ec3fb4226",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "232a4e35-2ff9-4ee7-aa49-994ec3fb4226",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "ef83e270-28aa-4972-930c-5ab08f9b23c7": {
       "start": 10327,
       "end": 10456,
@@ -1195,6 +3560,78 @@
         }
       }
     },
+    "53e95475-1044-491e-8025-d2ab7a7de302": {
+      "start": 10363,
+      "end": 10426,
+      "id": "53e95475-1044-491e-8025-d2ab7a7de302",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "53e95475-1044-491e-8025-d2ab7a7de302",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "ありがとう。",
+          "back": "Arigátou.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Thank you. (casual)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "81caba82-0ad5-4bd7-b1c3-24e3b86fcd9f": {
+      "start": 10372,
+      "end": 10667,
+      "id": "81caba82-0ad5-4bd7-b1c3-24e3b86fcd9f",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "81caba82-0ad5-4bd7-b1c3-24e3b86fcd9f",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "8c87e59c-bf36-43e1-86e3-256158eb5e45": {
+      "start": 10380,
+      "end": 10632,
+      "id": "8c87e59c-bf36-43e1-86e3-256158eb5e45",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "8c87e59c-bf36-43e1-86e3-256158eb5e45",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "f9bbd843-356c-4afa-b4e0-76fc51f0d294": {
+      "start": 10506,
+      "end": 10754,
+      "id": "f9bbd843-356c-4afa-b4e0-76fc51f0d294",
+      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
+      "flashcard": {
+        "id": "f9bbd843-356c-4afa-b4e0-76fc51f0d294",
+        "tags": [
+          "jgr1-1-1"
+        ],
+        "fields": {
+          "front": "今、女の子は、言葉を言いました。",
+          "back": "Íma, onnanóko-wa, kotobá-o iimáshita.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Now, [the] girl said [a] word.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "iimáshita = itta\niimásu = iu"
+        }
+      }
+    },
     "eb291060-2e19-4eae-932c-55064f2f34c4": {
       "start": 10586,
       "end": 10758,
@@ -1209,6 +3646,60 @@
           "front": "",
           "back": "Yamada-san-no heyá-wa nan-kai-désu ka?\nSan-gai-désu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "What floor is Yamada-san's room? (polite)\nIt's the 3rd floor. (polite)"
+        }
+      }
+    },
+    "cfb9de67-dcda-49b9-81b6-321495ff7325": {
+      "start": 10652,
+      "end": 10914,
+      "id": "cfb9de67-dcda-49b9-81b6-321495ff7325",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "cfb9de67-dcda-49b9-81b6-321495ff7325",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "8291b490-043e-45d9-b28f-f8ab792388d0": {
+      "start": 10715,
+      "end": 10961,
+      "id": "8291b490-043e-45d9-b28f-f8ab792388d0",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "8291b490-043e-45d9-b28f-f8ab792388d0",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "896e7804-2b05-44ca-b667-06c72eee7661": {
+      "start": 10782,
+      "end": 11056,
+      "id": "896e7804-2b05-44ca-b667-06c72eee7661",
+      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+      "flashcard": {
+        "id": "896e7804-2b05-44ca-b667-06c72eee7661",
+        "tags": [
+          "jgr1-1-2"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1230,6 +3721,42 @@
         }
       }
     },
+    "a2b158b3-bf1b-42b0-a843-4be96fec8f38": {
+      "start": 10995,
+      "end": 11193,
+      "id": "a2b158b3-bf1b-42b0-a843-4be96fec8f38",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "a2b158b3-bf1b-42b0-a843-4be96fec8f38",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "373fc42a-a64d-4943-bfa7-be57ff4ae1a3": {
+      "start": 11027,
+      "end": 11176,
+      "id": "373fc42a-a64d-4943-bfa7-be57ff4ae1a3",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "373fc42a-a64d-4943-bfa7-be57ff4ae1a3",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "d72d61dd-a564-47bd-86cb-aec8917ecdb5": {
       "start": 11232,
       "end": 11434,
@@ -1245,6 +3772,60 @@
           "back": "Nóoto, sán-satsu kudasái.\nHái, sán-satsu-desu ne.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Three notebooks, please. (polite)\nYes, Ma'am, three, right? (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"Notebooks, three(-volumes) please-give [me].\"\n\nJapanese uses measure words when counting things, where in English you would just use a number alone. There are lots of them! \"Satsu\" is used for books, magazines, etc. "
+        }
+      }
+    },
+    "0723cb6f-57f3-4cde-83b0-539f9d381bdb": {
+      "start": 11250,
+      "end": 11451,
+      "id": "0723cb6f-57f3-4cde-83b0-539f9d381bdb",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "0723cb6f-57f3-4cde-83b0-539f9d381bdb",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "b2a99536-154c-4b9f-b3f8-ac021085e0cd": {
+      "start": 11253,
+      "end": 11532,
+      "id": "b2a99536-154c-4b9f-b3f8-ac021085e0cd",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "b2a99536-154c-4b9f-b3f8-ac021085e0cd",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "874007b5-2058-46d7-bd4b-c3d29bd6a151": {
+      "start": 11529,
+      "end": 11676,
+      "id": "874007b5-2058-46d7-bd4b-c3d29bd6a151",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "874007b5-2058-46d7-bd4b-c3d29bd6a151",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1265,6 +3846,42 @@
         }
       }
     },
+    "9fb06ba9-2544-4830-bacc-2f9c309ebbf3": {
+      "start": 11612,
+      "end": 11936,
+      "id": "9fb06ba9-2544-4830-bacc-2f9c309ebbf3",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "9fb06ba9-2544-4830-bacc-2f9c309ebbf3",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "e1474b93-3387-4b2c-9b93-578cd7333ce4": {
+      "start": 11752,
+      "end": 11861,
+      "id": "e1474b93-3387-4b2c-9b93-578cd7333ce4",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "e1474b93-3387-4b2c-9b93-578cd7333ce4",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "cd00fe13-a4f0-403f-b843-b771fb9b948f": {
       "start": 11857,
       "end": 12020,
@@ -1279,6 +3896,96 @@
           "front": "",
           "back": "Shinjuku-éki-wa dóko-desu ka?\nAsoko-désu yo.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Where is Shinjuku station?\nIt's over there.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "326c8dd1-a286-47a4-803d-278f3e393f7b": {
+      "start": 11951,
+      "end": 12074,
+      "id": "326c8dd1-a286-47a4-803d-278f3e393f7b",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "326c8dd1-a286-47a4-803d-278f3e393f7b",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "19ca27e0-ffa1-417d-b5c5-6b63a7e5ae40": {
+      "start": 12032,
+      "end": 12297,
+      "id": "19ca27e0-ffa1-417d-b5c5-6b63a7e5ae40",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "19ca27e0-ffa1-417d-b5c5-6b63a7e5ae40",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "b9e25f37-616f-4836-b1f5-f28f44800b97": {
+      "start": 12147,
+      "end": 12262,
+      "id": "b9e25f37-616f-4836-b1f5-f28f44800b97",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "b9e25f37-616f-4836-b1f5-f28f44800b97",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "088b3b80-ccfd-43fa-8bdb-fd370675e27b": {
+      "start": 12339,
+      "end": 12640,
+      "id": "088b3b80-ccfd-43fa-8bdb-fd370675e27b",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "088b3b80-ccfd-43fa-8bdb-fd370675e27b",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "756a3719-9a0a-4ffc-b1bb-4b1c566dd5a3": {
+      "start": 12352,
+      "end": 12450,
+      "id": "756a3719-9a0a-4ffc-b1bb-4b1c566dd5a3",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "756a3719-9a0a-4ffc-b1bb-4b1c566dd5a3",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
@@ -1301,6 +4008,24 @@
         }
       }
     },
+    "0784fca2-c624-4bfb-bfbf-985365616109": {
+      "start": 12564,
+      "end": 12709,
+      "id": "0784fca2-c624-4bfb-bfbf-985365616109",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "0784fca2-c624-4bfb-bfbf-985365616109",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "2a7f49ee-e8f4-45f1-b2db-14dd3e5b387b": {
       "start": 12679,
       "end": 12854,
@@ -1319,6 +4044,60 @@
         }
       }
     },
+    "836d603f-ea81-4aeb-9b57-db485445787f": {
+      "start": 12745,
+      "end": 13216,
+      "id": "836d603f-ea81-4aeb-9b57-db485445787f",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "836d603f-ea81-4aeb-9b57-db485445787f",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "935a94f4-1e6d-4eca-877d-75a6bfaa57a7": {
+      "start": 12774,
+      "end": 12907,
+      "id": "935a94f4-1e6d-4eca-877d-75a6bfaa57a7",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "935a94f4-1e6d-4eca-877d-75a6bfaa57a7",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "2782ac0f-2fca-43ae-894f-b935916bbb2e": {
+      "start": 12948,
+      "end": 13034,
+      "id": "2782ac0f-2fca-43ae-894f-b935916bbb2e",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "2782ac0f-2fca-43ae-894f-b935916bbb2e",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "3971b3c7-1d07-403c-bf91-443cbd6411ac": {
       "start": 12966,
       "end": 13182,
@@ -1334,6 +4113,60 @@
           "back": "Kiiro-to áka-no haná-o kudasái.\nHai, kiiro-to áka-desu ne.",
           "717524da-c2af-4196-b850-a6ab9a646798": "I'd like [the] yellow and red flowers, please. (polite)\nOf course, yellow and red, (right?) (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"kudasái\" literally means \"please give [me]\"."
+        }
+      }
+    },
+    "ebbc9a34-7d3f-4efa-a495-4a6fa6f27c0b": {
+      "start": 13078,
+      "end": 13147,
+      "id": "ebbc9a34-7d3f-4efa-a495-4a6fa6f27c0b",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "ebbc9a34-7d3f-4efa-a495-4a6fa6f27c0b",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "ccc8529c-5489-4000-9de1-c9fde9ca295d": {
+      "start": 13224,
+      "end": 13599,
+      "id": "ccc8529c-5489-4000-9de1-c9fde9ca295d",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "ccc8529c-5489-4000-9de1-c9fde9ca295d",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "8f92c122-ca67-4757-ab0f-9d559339d454": {
+      "start": 13268,
+      "end": 13475,
+      "id": "8f92c122-ca67-4757-ab0f-9d559339d454",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "8f92c122-ca67-4757-ab0f-9d559339d454",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1372,6 +4205,42 @@
         }
       }
     },
+    "8066ab63-b2b1-4cf8-9491-4623796eb6cc": {
+      "start": 13682,
+      "end": 13964,
+      "id": "8066ab63-b2b1-4cf8-9491-4623796eb6cc",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "8066ab63-b2b1-4cf8-9491-4623796eb6cc",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "3afc09ec-06a6-4440-a548-984667e1b9ce": {
+      "start": 13721,
+      "end": 13959,
+      "id": "3afc09ec-06a6-4440-a548-984667e1b9ce",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "3afc09ec-06a6-4440-a548-984667e1b9ce",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "a9234b78-d8ff-4b1a-8796-5574d352af36": {
       "start": 13968,
       "end": 14096,
@@ -1386,6 +4255,42 @@
           "front": "",
           "back": "Íkura-desu ka?\nNi-hyaku-juu-en-désu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "How much is it? (polite)\n200 yen. (polite)"
+        }
+      }
+    },
+    "22de8396-9ee6-4052-83ed-759556a06b1a": {
+      "start": 14058,
+      "end": 14561,
+      "id": "22de8396-9ee6-4052-83ed-759556a06b1a",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "22de8396-9ee6-4052-83ed-759556a06b1a",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "6053b694-657b-4c3d-a646-cb0d1f19420c": {
+      "start": 14067,
+      "end": 14300,
+      "id": "6053b694-657b-4c3d-a646-cb0d1f19420c",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "6053b694-657b-4c3d-a646-cb0d1f19420c",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1406,6 +4311,24 @@
         }
       }
     },
+    "a3089083-f982-466e-8945-1b005c1a65a9": {
+      "start": 14379,
+      "end": 14528,
+      "id": "a3089083-f982-466e-8945-1b005c1a65a9",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "a3089083-f982-466e-8945-1b005c1a65a9",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "9ec3bc39-8b24-4892-9ee1-b99d90f3f6e2": {
       "start": 14551,
       "end": 14729,
@@ -1420,6 +4343,60 @@
           "front": "",
           "back": "Suzuki-san-wa dónna hitó-desu ka?\nShínsetsu-na hitó-desu yo.",
           "717524da-c2af-4196-b850-a6ab9a646798": "What kind of person is Suzuki?\n[They] are a kind person!"
+        }
+      }
+    },
+    "00909d2f-8b9c-4959-95a5-0b651ee3d5ef": {
+      "start": 14612,
+      "end": 15096,
+      "id": "00909d2f-8b9c-4959-95a5-0b651ee3d5ef",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "00909d2f-8b9c-4959-95a5-0b651ee3d5ef",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "132593fc-3b11-4ea7-b9eb-37d959aa060d": {
+      "start": 14614,
+      "end": 14714,
+      "id": "132593fc-3b11-4ea7-b9eb-37d959aa060d",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "132593fc-3b11-4ea7-b9eb-37d959aa060d",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "849bc8e3-a789-4af5-b5f6-31b98fba9ea5": {
+      "start": 14810,
+      "end": 14971,
+      "id": "849bc8e3-a789-4af5-b5f6-31b98fba9ea5",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "849bc8e3-a789-4af5-b5f6-31b98fba9ea5",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1440,6 +4417,42 @@
         }
       }
     },
+    "64891482-1082-4700-a1f8-2ee83287f954": {
+      "start": 15022,
+      "end": 15172,
+      "id": "64891482-1082-4700-a1f8-2ee83287f954",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "64891482-1082-4700-a1f8-2ee83287f954",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "371e0c51-7ac7-497e-a668-8d7b4891e363": {
+      "start": 15155,
+      "end": 15251,
+      "id": "371e0c51-7ac7-497e-a668-8d7b4891e363",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "371e0c51-7ac7-497e-a668-8d7b4891e363",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "102c403b-60a5-47cb-8d54-99af4f44ea2e": {
       "start": 15204,
       "end": 15412,
@@ -1457,6 +4470,42 @@
         }
       }
     },
+    "dbfe73f5-73e3-4f5a-ada4-2eae6fe0102b": {
+      "start": 15258,
+      "end": 15526,
+      "id": "dbfe73f5-73e3-4f5a-ada4-2eae6fe0102b",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "dbfe73f5-73e3-4f5a-ada4-2eae6fe0102b",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "01144159-9410-413f-90e9-b4c5e8f663ff": {
+      "start": 15306,
+      "end": 15716,
+      "id": "01144159-9410-413f-90e9-b4c5e8f663ff",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "01144159-9410-413f-90e9-b4c5e8f663ff",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "d0c2ce3d-ea22-46d3-aa35-41db2545b2b5": {
       "start": 15801,
       "end": 15990,
@@ -1471,6 +4520,24 @@
           "front": "",
           "back": "Hajimemáshite.\nHajimemáshite, dóuzu yoroshiku o-negai shimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Nice to meet you. (polite)\nNice to meet you, please treat me well. (very polite)"
+        }
+      }
+    },
+    "9ae15280-7c31-43ba-acce-6f21d64e2369": {
+      "start": 15816,
+      "end": 16606,
+      "id": "9ae15280-7c31-43ba-acce-6f21d64e2369",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "9ae15280-7c31-43ba-acce-6f21d64e2369",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1492,6 +4559,24 @@
         }
       }
     },
+    "86b99129-4c5e-486e-86ea-7a8a48d2e5d1": {
+      "start": 16093,
+      "end": 16217,
+      "id": "86b99129-4c5e-486e-86ea-7a8a48d2e5d1",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "86b99129-4c5e-486e-86ea-7a8a48d2e5d1",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "9b26d6f1-e11a-410e-b9bc-ab0a76cce19a": {
       "start": 16373,
       "end": 16529,
@@ -1507,6 +4592,42 @@
           "back": "O-kuni-wa dóchira-desu ka?\nKánkoku-desu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "What country are you from? (very polite)\nKorea. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"Which is [your] honorable country?\"\n\nDóchira has the basic meaning \"which way\", but is used as an indirect, and therefore more polite, phrasing of \"what, which, where, etc\"."
+        }
+      }
+    },
+    "56678c61-c2d7-4d6f-903a-862739859dff": {
+      "start": 16393,
+      "end": 16482,
+      "id": "56678c61-c2d7-4d6f-903a-862739859dff",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "56678c61-c2d7-4d6f-903a-862739859dff",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "eace4c98-baca-45fd-9d70-2e75c3d7f9ba": {
+      "start": 16540,
+      "end": 16660,
+      "id": "eace4c98-baca-45fd-9d70-2e75c3d7f9ba",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "eace4c98-baca-45fd-9d70-2e75c3d7f9ba",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1528,6 +4649,24 @@
         }
       }
     },
+    "2d8f8f57-abdf-4f65-8e3a-93e53f49e45c": {
+      "start": 16725,
+      "end": 17116,
+      "id": "2d8f8f57-abdf-4f65-8e3a-93e53f49e45c",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "2d8f8f57-abdf-4f65-8e3a-93e53f49e45c",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "9f3cdae0-bbc0-477b-9927-c400206cc837": {
       "start": 16973,
       "end": 17171,
@@ -1546,6 +4685,24 @@
         }
       }
     },
+    "b1e30fb5-78c9-4650-af82-3e1158e8665b": {
+      "start": 17227,
+      "end": 17510,
+      "id": "b1e30fb5-78c9-4650-af82-3e1158e8665b",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "b1e30fb5-78c9-4650-af82-3e1158e8665b",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "62b74a46-3004-42ea-9b34-6c0f5c5395be": {
       "start": 17255,
       "end": 17457,
@@ -1560,6 +4717,24 @@
           "front": "",
           "back": "Sórosoro shitsúrei shimásu.\nSóu-desu ka. Já, matá.",
           "717524da-c2af-4196-b850-a6ab9a646798": "It's about time for me to go. (polite)\nOh, yes? (polite) See you later.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "37f9ef4b-40ce-4535-be04-f91f4c766720": {
+      "start": 17316,
+      "end": 17461,
+      "id": "37f9ef4b-40ce-4535-be04-f91f4c766720",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "37f9ef4b-40ce-4535-be04-f91f4c766720",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
@@ -1582,6 +4757,96 @@
         }
       }
     },
+    "683e77e8-75c2-477d-87f9-75675f630494": {
+      "start": 17582,
+      "end": 17701,
+      "id": "683e77e8-75c2-477d-87f9-75675f630494",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "683e77e8-75c2-477d-87f9-75675f630494",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "91cd4c31-b3a4-42e8-a3ac-483f527b559c": {
+      "start": 17583,
+      "end": 17786,
+      "id": "91cd4c31-b3a4-42e8-a3ac-483f527b559c",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "91cd4c31-b3a4-42e8-a3ac-483f527b559c",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "eb050bd7-932b-47d9-9854-50f99c6dcfd6": {
+      "start": 17779,
+      "end": 17870,
+      "id": "eb050bd7-932b-47d9-9854-50f99c6dcfd6",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "eb050bd7-932b-47d9-9854-50f99c6dcfd6",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "a8eadb02-e11c-434f-9d88-5a7ad20b2c5b": {
+      "start": 17937,
+      "end": 18097,
+      "id": "a8eadb02-e11c-434f-9d88-5a7ad20b2c5b",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "a8eadb02-e11c-434f-9d88-5a7ad20b2c5b",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "bc2e70ce-b303-408b-823c-e5887da0c36a": {
+      "start": 18014,
+      "end": 18186,
+      "id": "bc2e70ce-b303-408b-823c-e5887da0c36a",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "bc2e70ce-b303-408b-823c-e5887da0c36a",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "0d76c8ce-a58d-483f-b850-754b8df2489b": {
       "start": 18022,
       "end": 18192,
@@ -1597,6 +4862,42 @@
           "back": "Ítsu nihón-ni kíta-n'-desu ka?\nNi-kagetsu-kúrai máe-desu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "When did [you] come to Japan? (polite)\nAbout two months ago. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"When is [it] that [you] came to Japan?\"\n\nNihón-ni kíta/kimáshita = [You] came to Japan\nNihón-ni kíta-n(o)-da/desu = [It] is that [you] came to Japan\nNihón-ni kíta no?/'n-desu ka? = Is [it] that [you] came to Japan?\nÍtsu nihón-ni kíta n(o)-desu ka?\n\nhttps://www.youtube.com/watch?v=dunBnCI1iP0\n\n\"Kúrai\" is pretty much interchangeable with \"gúrai\"."
+        }
+      }
+    },
+    "85c34034-5ddb-4d08-9d2d-dd7be550c1a9": {
+      "start": 18158,
+      "end": 18821,
+      "id": "85c34034-5ddb-4d08-9d2d-dd7be550c1a9",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "85c34034-5ddb-4d08-9d2d-dd7be550c1a9",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "6fb84b81-831a-4f09-9ead-daba76026f99": {
+      "start": 18249,
+      "end": 18753,
+      "id": "6fb84b81-831a-4f09-9ead-daba76026f99",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "6fb84b81-831a-4f09-9ead-daba76026f99",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1636,6 +4937,60 @@
         }
       }
     },
+    "06ae324d-236f-42d5-b6b3-1920f904da3e": {
+      "start": 18852,
+      "end": 19517,
+      "id": "06ae324d-236f-42d5-b6b3-1920f904da3e",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "06ae324d-236f-42d5-b6b3-1920f904da3e",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "60887d89-4e78-42cf-abd7-258f49c0deef": {
+      "start": 18927,
+      "end": 19131,
+      "id": "60887d89-4e78-42cf-abd7-258f49c0deef",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "60887d89-4e78-42cf-abd7-258f49c0deef",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "13cf29d6-f809-4d72-9146-a858ee322c8b": {
+      "start": 19171,
+      "end": 19466,
+      "id": "13cf29d6-f809-4d72-9146-a858ee322c8b",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "13cf29d6-f809-4d72-9146-a858ee322c8b",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "f9ec1a27-9973-42b6-8272-0282ca7c9349": {
       "start": 19221,
       "end": 19721,
@@ -1651,6 +5006,60 @@
           "back": "Ano, gakkou-no denwa-bángo, wakarimásu ka?\nEetto ne, zero-sán-no san-níi-zero-goo...",
           "717524da-c2af-4196-b850-a6ab9a646798": "Um, do you know the school's phone numbber?\nUm, let's see. Zero three, three two zero five.",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "When saying number sequences like this, the one-mora (one-\"syllable\") numbers are often stretched to two morae like this."
+        }
+      }
+    },
+    "20089fac-c7c4-4cd6-a268-d3e59b8b1c51": {
+      "start": 19553,
+      "end": 19812,
+      "id": "20089fac-c7c4-4cd6-a268-d3e59b8b1c51",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "20089fac-c7c4-4cd6-a268-d3e59b8b1c51",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "83359fd4-57f3-4f9d-a094-9ec45f3de85a": {
+      "start": 19563,
+      "end": 19652,
+      "id": "83359fd4-57f3-4f9d-a094-9ec45f3de85a",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "83359fd4-57f3-4f9d-a094-9ec45f3de85a",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "46f039a5-4784-40b1-8a36-ca15ce3886bb": {
+      "start": 19692,
+      "end": 19898,
+      "id": "46f039a5-4784-40b1-8a36-ca15ce3886bb",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "46f039a5-4784-40b1-8a36-ca15ce3886bb",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1672,6 +5081,42 @@
         }
       }
     },
+    "3851655d-c857-4649-a508-3956f3ca3ae4": {
+      "start": 19903,
+      "end": 20019,
+      "id": "3851655d-c857-4649-a508-3956f3ca3ae4",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "3851655d-c857-4649-a508-3956f3ca3ae4",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "5a4d491a-3e20-49da-94b0-2596af6df68f": {
+      "start": 20112,
+      "end": 20399,
+      "id": "5a4d491a-3e20-49da-94b0-2596af6df68f",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "5a4d491a-3e20-49da-94b0-2596af6df68f",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "a05c9fd0-04d1-4319-9294-db883aaf6495": {
       "start": 20197,
       "end": 20423,
@@ -1687,6 +5132,60 @@
           "back": "Kinou, keitai-o kaimáshita.\nE, dóko-de kaimáshita ka?",
           "717524da-c2af-4196-b850-a6ab9a646798": "[I] bought [a] cell phone yesterday.\nOh! Where (at) did [you] buy [it]?",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "This \"de\" (\"at\") marks the location where an action takes place."
+        }
+      }
+    },
+    "cbcf6beb-d4ce-4f62-8039-f949303c0b50": {
+      "start": 20267,
+      "end": 20368,
+      "id": "cbcf6beb-d4ce-4f62-8039-f949303c0b50",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "cbcf6beb-d4ce-4f62-8039-f949303c0b50",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "3711c502-7e9b-44b5-a813-afa34507734e": {
+      "start": 20449,
+      "end": 20672,
+      "id": "3711c502-7e9b-44b5-a813-afa34507734e",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "3711c502-7e9b-44b5-a813-afa34507734e",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "e5c05883-b982-469b-8d41-4fd5cde35ac4": {
+      "start": 20504,
+      "end": 20645,
+      "id": "e5c05883-b982-469b-8d41-4fd5cde35ac4",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "e5c05883-b982-469b-8d41-4fd5cde35ac4",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1708,6 +5207,60 @@
         }
       }
     },
+    "d02e57e7-1e69-4f2b-8d17-4e03b4fb4218": {
+      "start": 20734,
+      "end": 21063,
+      "id": "d02e57e7-1e69-4f2b-8d17-4e03b4fb4218",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "d02e57e7-1e69-4f2b-8d17-4e03b4fb4218",
+        "tags": [
+          "jgr1-1-3"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "0c3d7099-5663-4493-b0be-d4068c10f202": {
+      "start": 20735,
+      "end": 20903,
+      "id": "0c3d7099-5663-4493-b0be-d4068c10f202",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "0c3d7099-5663-4493-b0be-d4068c10f202",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "2a3b4416-920d-4541-801d-7edf6ddbc3ca": {
+      "start": 20968,
+      "end": 21206,
+      "id": "2a3b4416-920d-4541-801d-7edf6ddbc3ca",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "2a3b4416-920d-4541-801d-7edf6ddbc3ca",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "e5181282-2bd3-4ed2-89f1-3bb00bb09ae7": {
       "start": 20981,
       "end": 21218,
@@ -1726,6 +5279,24 @@
         }
       }
     },
+    "61884b77-1b03-42e9-8e69-7fb8aeeb9143": {
+      "start": 21274,
+      "end": 21368,
+      "id": "61884b77-1b03-42e9-8e69-7fb8aeeb9143",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "61884b77-1b03-42e9-8e69-7fb8aeeb9143",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
     "acf0f98a-b076-42a8-8d24-d38ee3f2a405": {
       "start": 21333,
       "end": 21649,
@@ -1741,6 +5312,42 @@
           "back": "Yamada-san, shúmi-wa nán-desu ka?\nShúmi? Uun, shashin ka na.",
           "717524da-c2af-4196-b850-a6ab9a646798": "What are your hobbies, Yamada-san?\nHobbies? Hm, photography?",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"ka na\" gives the sentence the tone of, \"I wonder...?\""
+        }
+      }
+    },
+    "4f9f1aac-1dde-44d0-bbc3-b6d4ac3f02a6": {
+      "start": 21478,
+      "end": 21576,
+      "id": "4f9f1aac-1dde-44d0-bbc3-b6d4ac3f02a6",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "4f9f1aac-1dde-44d0-bbc3-b6d4ac3f02a6",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "79c2aecf-c3e7-43f7-93f0-0619cc3f30b9": {
+      "start": 21683,
+      "end": 22024,
+      "id": "79c2aecf-c3e7-43f7-93f0-0619cc3f30b9",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "79c2aecf-c3e7-43f7-93f0-0619cc3f30b9",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1774,9 +5381,45 @@
         ],
         "fields": {
           "front": "",
-          "back": "Kono shashin, míte kudasái. Háwai no shashin-desu.\nWaa, kírei-na úmi!",
-          "717524da-c2af-4196-b850-a6ab9a646798": "Please look at this photo. (polite)\nWhoa, what a pretty ocean! (casual)",
+          "back": "Kono shashin, míte kudasái. Háwai no shashin-désu.\nWaa, kírei-na úmi!",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Please look at this photo. It's a photo of Hawaii. (polite)\nWhoa, what a pretty ocean! (casual)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Kírei\" is a na-adjective. When you put a na-adjective in front of a noun, you have to put \"-na\" in between. Other than this usage with \"-na\", they really act basically just like nouns."
+        }
+      }
+    },
+    "e106adcb-fb47-4465-9ee7-bc082637b003": {
+      "start": 22090,
+      "end": 22201,
+      "id": "e106adcb-fb47-4465-9ee7-bc082637b003",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "e106adcb-fb47-4465-9ee7-bc082637b003",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "32209af1-6550-4308-867f-ac1f55edaa7c": {
+      "start": 22320,
+      "end": 22456,
+      "id": "32209af1-6550-4308-867f-ac1f55edaa7c",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "32209af1-6550-4308-867f-ac1f55edaa7c",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1795,6 +5438,42 @@
           "back": "Kímu-san-wa nihonjín-no boifuréndo-ga imásu.\nHee, dónna hitó-desu ka?\nShínsetsu-na hitó-desu. Sore-kara, kankokugo-ga wakarimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Ms. Kim has a Japanese boyfriend. (polite)\nOh! What kind of person is he? (polite)\nHe's a kind person. Also, he knows Korean. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "Literally, \"As for Kim-san, there is a boyfriend that's Japanese.\" And, \"Korean is understood [by him].\""
+        }
+      }
+    },
+    "31b11ebe-e251-4ab1-b967-ba68c453168d": {
+      "start": 22518,
+      "end": 22619,
+      "id": "31b11ebe-e251-4ab1-b967-ba68c453168d",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "31b11ebe-e251-4ab1-b967-ba68c453168d",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "cc59fae4-504e-4a35-a88d-7915674f5408": {
+      "start": 22763,
+      "end": 23115,
+      "id": "cc59fae4-504e-4a35-a88d-7915674f5408",
+      "fileId": "73cd9935-fea8-40e3-8cfb-179c026c87f6",
+      "flashcard": {
+        "id": "cc59fae4-504e-4a35-a88d-7915674f5408",
+        "tags": [
+          "jgr1-1-4"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
@@ -1867,114 +5546,6 @@
           "back": "Yamada-san-no kázoku-wa tabako-o suimasu ka?\nIie. Daremo suimasén.",
           "717524da-c2af-4196-b850-a6ab9a646798": "Does Yamada-san's family smoke? (polite)\nNo. None of them do. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "suimásu = suu\nsuimasén = suwanai \ntabako = tobacco\n\ndáre (who)\ndaremo (anyone)\n\nnáni (what)\nnanimo (anything)"
-        }
-      }
-    },
-    "74a3f0a9-bfae-474a-869b-81ea069ca7b2": {
-      "start": 8873,
-      "end": 9085,
-      "id": "74a3f0a9-bfae-474a-869b-81ea069ca7b2",
-      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
-      "flashcard": {
-        "id": "74a3f0a9-bfae-474a-869b-81ea069ca7b2",
-        "tags": [
-          "jgr1-1-1"
-        ],
-        "fields": {
-          "front": "でも、女の子は何も言いません。",
-          "back": "Démo, onnanóko-wa nanimo iimasén.",
-          "717524da-c2af-4196-b850-a6ab9a646798": "However, [the] girl says nothing. (polite)",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "iimásu = iu"
-        }
-      }
-    },
-    "c9799ab3-2e7a-48d4-b76d-a97e3aee5f09": {
-      "start": 9231,
-      "end": 9614,
-      "id": "c9799ab3-2e7a-48d4-b76d-a97e3aee5f09",
-      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
-      "flashcard": {
-        "id": "c9799ab3-2e7a-48d4-b76d-a97e3aee5f09",
-        "tags": [
-          "jgr1-1-1"
-        ],
-        "fields": {
-          "front": "ある日、男の子女の子に言いました。「はい、これ」",
-          "back": "Áru hí, otokónoko-wa onnanóko-ni iimáshita. \"Hai, kore.\"",
-          "717524da-c2af-4196-b850-a6ab9a646798": "One day, [the] boy said (polite) to [the] girl, \"Here, [take] this.\" ",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "iimáshita = itta\niimásu = iu"
-        }
-      }
-    },
-    "bf7758f0-0d2d-4d36-b85a-118e36e57817": {
-      "start": 9732,
-      "end": 9953,
-      "id": "bf7758f0-0d2d-4d36-b85a-118e36e57817",
-      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
-      "flashcard": {
-        "id": "bf7758f0-0d2d-4d36-b85a-118e36e57817",
-        "tags": [
-          "jgr1-1-1"
-        ],
-        "fields": {
-          "front": "古いアパートの部屋には、何もありません。",
-          "back": "Furúi apáato-no heyá-ni-wa, nanimo arimasén. ",
-          "717524da-c2af-4196-b850-a6ab9a646798": "In [the] room of [the] old apartment, there is nothing. (polite)",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "arimasén = nai\narimásu = áru "
-        }
-      }
-    },
-    "53e95475-1044-491e-8025-d2ab7a7de302": {
-      "start": 10363,
-      "end": 10426,
-      "id": "53e95475-1044-491e-8025-d2ab7a7de302",
-      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
-      "flashcard": {
-        "id": "53e95475-1044-491e-8025-d2ab7a7de302",
-        "tags": [
-          "jgr1-1-1"
-        ],
-        "fields": {
-          "front": "ありがとう。",
-          "back": "Arigátou.",
-          "717524da-c2af-4196-b850-a6ab9a646798": "Thank you. (casual)",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
-        }
-      }
-    },
-    "f9bbd843-356c-4afa-b4e0-76fc51f0d294": {
-      "start": 10506,
-      "end": 10754,
-      "id": "f9bbd843-356c-4afa-b4e0-76fc51f0d294",
-      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
-      "flashcard": {
-        "id": "f9bbd843-356c-4afa-b4e0-76fc51f0d294",
-        "tags": [
-          "jgr1-1-1"
-        ],
-        "fields": {
-          "front": "今、女の子は、言葉を言いました。",
-          "back": "Íma, onnanóko-wa, kotobá-o iimáshita.",
-          "717524da-c2af-4196-b850-a6ab9a646798": "Now, [the] girl said [a] word.",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "iimáshita = itta\niimásu = iu"
-        }
-      }
-    },
-    "6bf24b51-b596-41bc-a272-3771289aeb00": {
-      "start": 10004,
-      "end": 10272,
-      "id": "6bf24b51-b596-41bc-a272-3771289aeb00",
-      "fileId": "796090a8-c1ea-46f3-9764-e655d4e77234",
-      "flashcard": {
-        "id": "6bf24b51-b596-41bc-a272-3771289aeb00",
-        "tags": [
-          "jgr1-1-1"
-        ],
-        "fields": {
-          "front": "でも、女の子の手には、小さい花があります。",
-          "back": "Démo, onnanóko-no té-ni-wa, chiisái haná-ga arimasu.",
-          "717524da-c2af-4196-b850-a6ab9a646798": "However, in [the] girl's hand, there is [a] small flower. (polite)",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "arimásu = áru"
         }
       }
     },
@@ -2482,61 +6053,175 @@
         }
       }
     },
-    "8142d631-1711-4e31-b386-d2c38e4274bc": {
-      "start": 28,
-      "end": 104,
-      "id": "8142d631-1711-4e31-b386-d2c38e4274bc",
-      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+    "0841eb7c-4ebc-4862-a628-5e84e963aad1": {
+      "start": 7251,
+      "end": 7431,
+      "id": "0841eb7c-4ebc-4862-a628-5e84e963aad1",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
       "flashcard": {
-        "id": "8142d631-1711-4e31-b386-d2c38e4274bc",
-        "tags": [],
+        "id": "0841eb7c-4ebc-4862-a628-5e84e963aad1",
+        "tags": [
+          "jgr1-1-5"
+        ],
         "fields": {
           "front": "",
-          "back": "Háchi no hanashí",
+          "back": "",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
-    "518a0a35-4d40-423d-874f-03ebca2c1abb": {
-      "start": 398,
-      "end": 513,
-      "id": "518a0a35-4d40-423d-874f-03ebca2c1abb",
-      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+    "81bf8db3-c3f8-405c-8761-bdabbe6d81d7": {
+      "start": 7505,
+      "end": 7669,
+      "id": "81bf8db3-c3f8-405c-8761-bdabbe6d81d7",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
       "flashcard": {
-        "id": "518a0a35-4d40-423d-874f-03ebca2c1abb",
-        "tags": [],
+        "id": "81bf8db3-c3f8-405c-8761-bdabbe6d81d7",
+        "tags": [
+          "jgr1-1-5"
+        ],
         "fields": {
           "front": "",
-          "back": "Háchi-wa kodomo-no inú-desu.",
+          "back": "",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
-    "4496d160-65e1-4c3c-a362-5dea9f76789a": {
-      "start": 575,
-      "end": 748,
-      "id": "4496d160-65e1-4c3c-a362-5dea9f76789a",
-      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+    "a083d288-fefa-4677-a16a-886d5df76a20": {
+      "start": 7709,
+      "end": 7810,
+      "id": "a083d288-fefa-4677-a16a-886d5df76a20",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
       "flashcard": {
-        "id": "4496d160-65e1-4c3c-a362-5dea9f76789a",
-        "tags": [],
+        "id": "a083d288-fefa-4677-a16a-886d5df76a20",
+        "tags": [
+          "jgr1-1-5"
+        ],
         "fields": {
           "front": "",
-          "back": "Daigaku-no senséi-ga háchi-o moraimáshita.",
+          "back": "",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
     },
-    "81ce654e-d69e-49a7-a63d-d95468bad256": {
-      "start": 856,
-      "end": 1006,
-      "id": "81ce654e-d69e-49a7-a63d-d95468bad256",
-      "fileId": "a5e2a7ad-d47c-4750-8dab-2e628a98abf5",
+    "9e9b3feb-4caf-4346-9bc9-950b5b2fc6cb": {
+      "start": 7911,
+      "end": 8281,
+      "id": "9e9b3feb-4caf-4346-9bc9-950b5b2fc6cb",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
       "flashcard": {
-        "id": "81ce654e-d69e-49a7-a63d-d95468bad256",
+        "id": "9e9b3feb-4caf-4346-9bc9-950b5b2fc6cb",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "308a0d80-c283-4a69-8f5a-c79184ca3d4b": {
+      "start": 8332,
+      "end": 8643,
+      "id": "308a0d80-c283-4a69-8f5a-c79184ca3d4b",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "308a0d80-c283-4a69-8f5a-c79184ca3d4b",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "aa15b3e3-1387-4356-a82a-352ccd9331af": {
+      "start": 8745,
+      "end": 9351,
+      "id": "aa15b3e3-1387-4356-a82a-352ccd9331af",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "aa15b3e3-1387-4356-a82a-352ccd9331af",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "102585f7-dd9f-4da8-84f7-380ad5cf9ec1": {
+      "start": 9465,
+      "end": 9825,
+      "id": "102585f7-dd9f-4da8-84f7-380ad5cf9ec1",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "102585f7-dd9f-4da8-84f7-380ad5cf9ec1",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "7c4d162c-23f7-4d40-9743-cfbd26e4f74b": {
+      "start": 9874,
+      "end": 10017,
+      "id": "7c4d162c-23f7-4d40-9743-cfbd26e4f74b",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "7c4d162c-23f7-4d40-9743-cfbd26e4f74b",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "9c729946-71d7-4ebe-9417-af015fe763ee": {
+      "start": 10160,
+      "end": 10298,
+      "id": "9c729946-71d7-4ebe-9417-af015fe763ee",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "9c729946-71d7-4ebe-9417-af015fe763ee",
+        "tags": [
+          "jgr1-1-5"
+        ],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "a53de7ae-3ad7-4bfb-9320-6ca5e6227d91": {
+      "start": 10627,
+      "end": 10801,
+      "id": "a53de7ae-3ad7-4bfb-9320-6ca5e6227d91",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "a53de7ae-3ad7-4bfb-9320-6ca5e6227d91",
         "tags": [],
         "fields": {
           "front": "",

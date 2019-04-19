@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2019-04-19T09:45:07Z",
+  "timestamp": "2019-04-19T15:34:59Z",
   "name": "Basic Japanese",
   "id": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
   "noteType": {
@@ -13,7 +13,7 @@
       },
       {
         "id": "back",
-        "name": "Romaji"
+        "name": "Transliteration"
       },
       {
         "id": "717524da-c2af-4196-b850-a6ab9a646798",
@@ -136,7 +136,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "Háchi no hanashí",
+          "back": "Háchi-no hanashí",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -443,7 +443,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Háchi-to senséi-wa issho-ni góhan-o tabemásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -515,9 +515,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Issho-ni o-fúro-ni hairimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "hairimásu = háiru"
         }
       }
     },
@@ -605,9 +605,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Issho-ni nemásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "nemásu = neru"
         }
       }
     },
@@ -677,9 +677,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Senséi-wa máinichi, daigaku-e ikimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "The particle \"e\" (meaning \"to, towards\") is written as \"he\"."
         }
       }
     },
@@ -823,7 +823,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Háchi-wa, ása, senséi-to issho-ni éki-e ikimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -966,9 +966,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Senséi-wa Shibuya-éki-de densha-ni norimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "norimásu = noru"
         }
       }
     },
@@ -1056,7 +1056,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Háchi, itte kimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -1182,9 +1182,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Háchi-wa uchi-e kaerimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "kaerimásu = káeru"
         }
       }
     },
@@ -1236,7 +1236,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Háchi-wa yuugata, Shibuya-éki-e ikimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -1326,7 +1326,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Senséi-ga densha-o orimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -1380,7 +1380,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Háchi, tadáima.\n\nWan, wan.\n\nHáchi-wa ureshíi-desu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -1560,7 +1560,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Háchi-to senséi-wa, issho-ni uchi-e kaerimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -1685,7 +1685,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Sono hi-mo háchi-wa, ása, senséi-to issho-ni Shibuya-éki-e ikimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -1811,7 +1811,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Háchi, itte kimásu.\n\nWan, wan.\n\nSenséi-wa daiagaku-e ikimashita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -1991,7 +1991,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Háchi-wa yuugata, Shibuya-éki-e ikimáshita. Démo, senséi-wa kaerimasén-deshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -2135,9 +2135,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Senséi-wa sono-hi, daigaku-de taoremáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "taoremásu = taoréru"
         }
       }
     },
@@ -2225,7 +2225,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Soshite, daigaku-kara byouin-e ikimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -2351,7 +2351,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Senséi-wa móu kaerimasén.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -2441,7 +2441,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Senséi-wa móu imasén.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -2531,7 +2531,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Démo, háchi-wa sore-ga wakarimasén.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -2639,7 +2639,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Háchi-wa máinichi yuugata Shibuya-eki-e ikimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -2783,7 +2783,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Soshite, senséi-o machimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -2873,7 +2873,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Densha-ga kimásu. Senséi-wa kaerimasén.\n\nMatá densha-ga kimásu. Senséi-wa kaerimásen.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -3035,7 +3035,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Natsú-ga kimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -3089,7 +3089,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Áki-ga kimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -3125,7 +3125,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Fuyú-ga kimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -3179,7 +3179,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Soshite, háru-ga kimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -3233,7 +3233,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Áme-ga furimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -3305,7 +3305,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Yukí-ga furimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -3359,7 +3359,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Kaze-ga fukimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -3394,7 +3394,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Háchi-wa máinichi yuugata Shibuya-éki-e ikimásu. Senséi-o machimásu. Senséi-wa kaerimasén.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -3590,7 +3590,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Háchi-wa júu-nen máinichi Shibuya-éki-e ikimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -3697,7 +3697,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Íma, Shibuya-éki-no máe ni, Háchi-no zóu-ga arimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -5992,7 +5992,7 @@
           "shad1-10"
         ],
         "fields": {
-          "front": "",
+          "front": " 　",
           "back": "Kono misé, dóu datta?\nUn, ryóuri-wa íi kedo, sáabisu-ga chótto ne...",
           "717524da-c2af-4196-b850-a6ab9a646798": "How was this restaurant? (casual)\nHm, the food was good, but the service was kind of... you know? (casual)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""

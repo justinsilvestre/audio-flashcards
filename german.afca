@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2019-04-19T12:34:23Z",
+  "timestamp": "2019-04-19T12:38:15Z",
   "name": "German",
   "id": "3bf9d637-b012-4394-b98f-5f75b1dbedb0",
   "noteType": {
@@ -1733,7 +1733,7 @@
         "fields": {
           "front": "Rat mal, was wir gemacht haben!",
           "back": "Guess what we did!",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "raten/riet/geraten"
         }
       }
     },

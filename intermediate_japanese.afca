@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2019-04-20T16:31:34Z",
+  "timestamp": "2019-04-20T18:46:58Z",
   "name": "Intermediate Japanese",
   "id": "d7bf05ca-fa1b-4255-a420-47e56a70d3ea",
   "noteType": {
@@ -333,15 +333,125 @@
       "durationSeconds": 71.68,
       "format": "mp3",
       "isVideo": false
+    },
+    {
+      "id": "642f1f40-f17c-4bee-9d6f-8dda7b80825a",
+      "name": "L01-1_yomimono.mp3",
+      "durationSeconds": 280.293917,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "d2bc9310-9837-47e5-88ed-69250d02613d",
+      "name": "L01-2_kaiwabun_1.mp3",
+      "durationSeconds": 217.260417,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "30055255-9fff-4369-8cda-daa3397d707a",
+      "name": "L01-2_kaiwabun_2.mp3",
+      "durationSeconds": 114.07675,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "e181dac2-0159-4f6b-ba16-0aa8fbff9cad",
+      "name": "L01-3_kaiwa_renshuu_1.mp3",
+      "durationSeconds": 66.089833,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "f944eae3-f2d8-4e69-9191-c166d1225225",
+      "name": "L01-3_kaiwa_renshuu_2.mp3",
+      "durationSeconds": 55.510208,
+      "format": "mp3",
+      "isVideo": false
     }
   ],
   "tags": [
+    "iij08",
+    "iij10",
+    "iij13",
+    "iij07",
     "iij01",
+    "iij14",
+    "iij15",
     "iij03",
+    "iij11",
     "iij02",
-    "iij04"
+    "iij12",
+    "iij09",
+    "iij04",
+    "iij06",
+    "iij05"
   ],
   "clips": {
+    "f3f3f18f-1dd4-4403-9c89-78458b68ddc1": {
+      "start": 266,
+      "end": 453,
+      "id": "f3f3f18f-1dd4-4403-9c89-78458b68ddc1",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "f3f3f18f-1dd4-4403-9c89-78458b68ddc1",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "886829d5-5fd1-4228-9389-546864b6a629": {
+      "start": 267,
+      "end": 614,
+      "id": "886829d5-5fd1-4228-9389-546864b6a629",
+      "fileId": "e2b0ba37-464e-41c8-b176-759e3bac44b1",
+      "flashcard": {
+        "id": "886829d5-5fd1-4228-9389-546864b6a629",
+        "tags": [
+          "iij10"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "3de60897-f443-414b-84c7-4af3de50d72e": {
+      "start": 267,
+      "end": 563,
+      "id": "3de60897-f443-414b-84c7-4af3de50d72e",
+      "fileId": "5fb3e4fb-34d6-4cb2-abb5-a60326680749",
+      "flashcard": {
+        "id": "3de60897-f443-414b-84c7-4af3de50d72e",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "b8e036b8-db2f-4dba-8add-ca86aca94975": {
+      "start": 272,
+      "end": 442,
+      "id": "b8e036b8-db2f-4dba-8add-ca86aca94975",
+      "fileId": "a674f283-db52-494e-9123-908190255369",
+      "flashcard": {
+        "id": "b8e036b8-db2f-4dba-8add-ca86aca94975",
+        "tags": [
+          "iij07"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "a1d888b1-71cf-4dd4-82ce-69eab32275b9": {
       "start": 272,
       "end": 752,
@@ -351,6 +461,38 @@
         "id": "a1d888b1-71cf-4dd4-82ce-69eab32275b9",
         "tags": [
           "iij01"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "fcedda2c-f5aa-4b31-ab1f-a7f428b2c94f": {
+      "start": 282,
+      "end": 618,
+      "id": "fcedda2c-f5aa-4b31-ab1f-a7f428b2c94f",
+      "fileId": "93c4dc99-5d7d-43b7-8e6d-9998f746f0ae",
+      "flashcard": {
+        "id": "fcedda2c-f5aa-4b31-ab1f-a7f428b2c94f",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "996f274f-d340-4924-bd64-ee28b72d7225": {
+      "start": 284,
+      "end": 606,
+      "id": "996f274f-d340-4924-bd64-ee28b72d7225",
+      "fileId": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "flashcard": {
+        "id": "996f274f-d340-4924-bd64-ee28b72d7225",
+        "tags": [
+          "iij15"
         ],
         "fields": {
           "front": "",
@@ -374,6 +516,22 @@
         }
       }
     },
+    "9a48e2f2-59e3-4f4d-8ebf-ce7a3d1fe6a3": {
+      "start": 296,
+      "end": 487,
+      "id": "9a48e2f2-59e3-4f4d-8ebf-ce7a3d1fe6a3",
+      "fileId": "2438c349-06f9-4ad9-b092-26406c93f6ce",
+      "flashcard": {
+        "id": "9a48e2f2-59e3-4f4d-8ebf-ce7a3d1fe6a3",
+        "tags": [
+          "iij11"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "cf4aacab-af53-4caa-a5e9-14881f5ae69f": {
       "start": 311,
       "end": 600,
@@ -386,6 +544,102 @@
         ],
         "fields": {
           "front": "人間の手はいろいろなことをするが、足のほうはあまり働かない。",
+          "back": ""
+        }
+      }
+    },
+    "ea647df8-c1dd-4c8b-9c0b-ffa9e2804c1d": {
+      "start": 312,
+      "end": 592,
+      "id": "ea647df8-c1dd-4c8b-9c0b-ffa9e2804c1d",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "ea647df8-c1dd-4c8b-9c0b-ffa9e2804c1d",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "b634719b-0a46-4169-abac-0d97cf24a212": {
+      "start": 325,
+      "end": 759,
+      "id": "b634719b-0a46-4169-abac-0d97cf24a212",
+      "fileId": "bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d",
+      "flashcard": {
+        "id": "b634719b-0a46-4169-abac-0d97cf24a212",
+        "tags": [
+          "iij12"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "01881d9b-a273-4e4e-bd85-e098affad332": {
+      "start": 327,
+      "end": 713,
+      "id": "01881d9b-a273-4e4e-bd85-e098affad332",
+      "fileId": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "flashcard": {
+        "id": "01881d9b-a273-4e4e-bd85-e098affad332",
+        "tags": [
+          "iij09"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "048709d9-490c-4758-bd08-4bd4e0abb26f": {
+      "start": 332,
+      "end": 553,
+      "id": "048709d9-490c-4758-bd08-4bd4e0abb26f",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "048709d9-490c-4758-bd08-4bd4e0abb26f",
+        "tags": [
+          "iij04"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "196cbd6c-c0cd-4ad5-aa82-ff4cd387acde": {
+      "start": 356,
+      "end": 793,
+      "id": "196cbd6c-c0cd-4ad5-aa82-ff4cd387acde",
+      "fileId": "3a770551-efd0-4ee0-b46c-7106a50e0467",
+      "flashcard": {
+        "id": "196cbd6c-c0cd-4ad5-aa82-ff4cd387acde",
+        "tags": [
+          "iij06"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "9fe10c4b-049f-4673-a2a4-1d3b3d6f00dd": {
+      "start": 396,
+      "end": 787,
+      "id": "9fe10c4b-049f-4673-a2a4-1d3b3d6f00dd",
+      "fileId": "f021988a-b438-4dbd-8dae-20f49db70e4f",
+      "flashcard": {
+        "id": "9fe10c4b-049f-4673-a2a4-1d3b3d6f00dd",
+        "tags": [
+          "iij05"
+        ],
+        "fields": {
+          "front": "",
           "back": ""
         }
       }
@@ -406,6 +660,86 @@
         }
       }
     },
+    "2c988b32-4637-4741-82f3-8e0ad5e3effe": {
+      "start": 414,
+      "end": 927,
+      "id": "2c988b32-4637-4741-82f3-8e0ad5e3effe",
+      "fileId": "ec532673-e145-4b29-89d8-de3c1a6af4ef",
+      "flashcard": {
+        "id": "2c988b32-4637-4741-82f3-8e0ad5e3effe",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "9aa4ae09-7d98-4d0c-9ea3-4665d4c8db93": {
+      "start": 462,
+      "end": 1066,
+      "id": "9aa4ae09-7d98-4d0c-9ea3-4665d4c8db93",
+      "fileId": "a674f283-db52-494e-9123-908190255369",
+      "flashcard": {
+        "id": "9aa4ae09-7d98-4d0c-9ea3-4665d4c8db93",
+        "tags": [
+          "iij07"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "8df2416e-978f-48d5-a722-dc568861c63c": {
+      "start": 468,
+      "end": 883,
+      "id": "8df2416e-978f-48d5-a722-dc568861c63c",
+      "fileId": "e1197a41-777a-46db-9a22-a2055f3150dc",
+      "flashcard": {
+        "id": "8df2416e-978f-48d5-a722-dc568861c63c",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "d3ba3486-8984-4ab3-8987-020940e84e90": {
+      "start": 477,
+      "end": 658,
+      "id": "d3ba3486-8984-4ab3-8987-020940e84e90",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "d3ba3486-8984-4ab3-8987-020940e84e90",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "0d1ca109-f12f-4e6b-8528-ca4fec937209": {
+      "start": 519,
+      "end": 738,
+      "id": "0d1ca109-f12f-4e6b-8528-ca4fec937209",
+      "fileId": "2438c349-06f9-4ad9-b092-26406c93f6ce",
+      "flashcard": {
+        "id": "0d1ca109-f12f-4e6b-8528-ca4fec937209",
+        "tags": [
+          "iij11"
+        ],
+        "fields": {
+          "front": "　",
+          "back": ""
+        }
+      }
+    },
     "a8a9cd8d-1e74-404e-9750-e2f5bc9888f9": {
       "start": 549,
       "end": 1260,
@@ -422,15 +756,31 @@
         }
       }
     },
-    "048709d9-490c-4758-bd08-4bd4e0abb26f": {
-      "start": 332,
-      "end": 829,
-      "id": "048709d9-490c-4758-bd08-4bd4e0abb26f",
+    "828c0ee5-b786-4b35-b093-4a98f2aa876c": {
+      "start": 574,
+      "end": 828,
+      "id": "828c0ee5-b786-4b35-b093-4a98f2aa876c",
       "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
       "flashcard": {
-        "id": "048709d9-490c-4758-bd08-4bd4e0abb26f",
+        "id": "828c0ee5-b786-4b35-b093-4a98f2aa876c",
         "tags": [
           "iij04"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "e4b35773-36c9-4eca-94f8-f3d77057a544": {
+      "start": 576,
+      "end": 1220,
+      "id": "e4b35773-36c9-4eca-94f8-f3d77057a544",
+      "fileId": "5fb3e4fb-34d6-4cb2-abb5-a60326680749",
+      "flashcard": {
+        "id": "e4b35773-36c9-4eca-94f8-f3d77057a544",
+        "tags": [
+          "iij13"
         ],
         "fields": {
           "front": "",
@@ -454,6 +804,54 @@
         }
       }
     },
+    "2fcda3cb-a0a1-40c0-b589-bac7d81bb4d2": {
+      "start": 631,
+      "end": 830,
+      "id": "2fcda3cb-a0a1-40c0-b589-bac7d81bb4d2",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "2fcda3cb-a0a1-40c0-b589-bac7d81bb4d2",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "860e37de-5948-444f-a308-8146988db83a": {
+      "start": 636,
+      "end": 943,
+      "id": "860e37de-5948-444f-a308-8146988db83a",
+      "fileId": "e2b0ba37-464e-41c8-b176-759e3bac44b1",
+      "flashcard": {
+        "id": "860e37de-5948-444f-a308-8146988db83a",
+        "tags": [
+          "iij10"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "c916e4e7-08a6-410e-bef4-3ebefc055ee4": {
+      "start": 653,
+      "end": 931,
+      "id": "c916e4e7-08a6-410e-bef4-3ebefc055ee4",
+      "fileId": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "flashcard": {
+        "id": "c916e4e7-08a6-410e-bef4-3ebefc055ee4",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "617e425d-1e2a-46a9-b49f-463a7feb78c5": {
       "start": 663,
       "end": 1096,
@@ -463,6 +861,54 @@
         "id": "617e425d-1e2a-46a9-b49f-463a7feb78c5",
         "tags": [
           "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "fce92278-92e2-4fb8-ab85-a43b6dac3200": {
+      "start": 672,
+      "end": 1074,
+      "id": "fce92278-92e2-4fb8-ab85-a43b6dac3200",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "fce92278-92e2-4fb8-ab85-a43b6dac3200",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "01790f39-76e9-40b5-b973-cbd3b44977dd": {
+      "start": 674,
+      "end": 851,
+      "id": "01790f39-76e9-40b5-b973-cbd3b44977dd",
+      "fileId": "93c4dc99-5d7d-43b7-8e6d-9998f746f0ae",
+      "flashcard": {
+        "id": "01790f39-76e9-40b5-b973-cbd3b44977dd",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "ca437f9c-6a7d-48af-917b-bfd13f943c5f": {
+      "start": 726,
+      "end": 886,
+      "id": "ca437f9c-6a7d-48af-917b-bfd13f943c5f",
+      "fileId": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "flashcard": {
+        "id": "ca437f9c-6a7d-48af-917b-bfd13f943c5f",
+        "tags": [
+          "iij09"
         ],
         "fields": {
           "front": "",
@@ -502,6 +948,86 @@
         }
       }
     },
+    "854262cb-0e87-4085-8848-87eadce55e65": {
+      "start": 773,
+      "end": 1460,
+      "id": "854262cb-0e87-4085-8848-87eadce55e65",
+      "fileId": "2438c349-06f9-4ad9-b092-26406c93f6ce",
+      "flashcard": {
+        "id": "854262cb-0e87-4085-8848-87eadce55e65",
+        "tags": [
+          "iij11"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "9ce8f369-654c-4ad9-a7db-629a53789ab4": {
+      "start": 787,
+      "end": 1273,
+      "id": "9ce8f369-654c-4ad9-a7db-629a53789ab4",
+      "fileId": "bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d",
+      "flashcard": {
+        "id": "9ce8f369-654c-4ad9-a7db-629a53789ab4",
+        "tags": [
+          "iij12"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "feb41344-8c60-4909-b82a-1a117954fbf1": {
+      "start": 813,
+      "end": 1099,
+      "id": "feb41344-8c60-4909-b82a-1a117954fbf1",
+      "fileId": "3a770551-efd0-4ee0-b46c-7106a50e0467",
+      "flashcard": {
+        "id": "feb41344-8c60-4909-b82a-1a117954fbf1",
+        "tags": [
+          "iij06"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "b88f411b-2785-4971-a985-60a9552e5622": {
+      "start": 814,
+      "end": 1325,
+      "id": "b88f411b-2785-4971-a985-60a9552e5622",
+      "fileId": "f021988a-b438-4dbd-8dae-20f49db70e4f",
+      "flashcard": {
+        "id": "b88f411b-2785-4971-a985-60a9552e5622",
+        "tags": [
+          "iij05"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "bce1f5d3-353b-4d4a-9a21-b5415138be9f": {
+      "start": 846,
+      "end": 1175,
+      "id": "bce1f5d3-353b-4d4a-9a21-b5415138be9f",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "bce1f5d3-353b-4d4a-9a21-b5415138be9f",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "c4e213ba-920f-4b99-9c46-ac20883e0288": {
       "start": 859,
       "end": 1129,
@@ -514,6 +1040,118 @@
         ],
         "fields": {
           "front": "特に足のうらは何も重要な働きはしていないように見える。",
+          "back": ""
+        }
+      }
+    },
+    "3e4fdfab-c0e4-418c-ac76-5d0ae58a734f": {
+      "start": 863,
+      "end": 1107,
+      "id": "3e4fdfab-c0e4-418c-ac76-5d0ae58a734f",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "3e4fdfab-c0e4-418c-ac76-5d0ae58a734f",
+        "tags": [
+          "iij04"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "9d8aeb13-7ebe-4202-a2b6-757665023896": {
+      "start": 888,
+      "end": 1257,
+      "id": "9d8aeb13-7ebe-4202-a2b6-757665023896",
+      "fileId": "e1197a41-777a-46db-9a22-a2055f3150dc",
+      "flashcard": {
+        "id": "9d8aeb13-7ebe-4202-a2b6-757665023896",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "9b35684f-290d-400e-a3ed-c8f15c72be51": {
+      "start": 905,
+      "end": 1178,
+      "id": "9b35684f-290d-400e-a3ed-c8f15c72be51",
+      "fileId": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "flashcard": {
+        "id": "9b35684f-290d-400e-a3ed-c8f15c72be51",
+        "tags": [
+          "iij09"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "ccb6a616-ce6c-4e64-ad52-94b48a396ee8": {
+      "start": 906,
+      "end": 1237,
+      "id": "ccb6a616-ce6c-4e64-ad52-94b48a396ee8",
+      "fileId": "93c4dc99-5d7d-43b7-8e6d-9998f746f0ae",
+      "flashcard": {
+        "id": "ccb6a616-ce6c-4e64-ad52-94b48a396ee8",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "591e31f7-23e9-4955-9628-5e15de5d1358": {
+      "start": 940,
+      "end": 1349,
+      "id": "591e31f7-23e9-4955-9628-5e15de5d1358",
+      "fileId": "ec532673-e145-4b29-89d8-de3c1a6af4ef",
+      "flashcard": {
+        "id": "591e31f7-23e9-4955-9628-5e15de5d1358",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "c6e0146a-60da-4e9b-9f9b-679cf6683214": {
+      "start": 964,
+      "end": 1290,
+      "id": "c6e0146a-60da-4e9b-9f9b-679cf6683214",
+      "fileId": "e2b0ba37-464e-41c8-b176-759e3bac44b1",
+      "flashcard": {
+        "id": "c6e0146a-60da-4e9b-9f9b-679cf6683214",
+        "tags": [
+          "iij10"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "e13bc5a4-052e-458d-9db5-03b9ae08e938": {
+      "start": 994,
+      "end": 1213,
+      "id": "e13bc5a4-052e-458d-9db5-03b9ae08e938",
+      "fileId": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "flashcard": {
+        "id": "e13bc5a4-052e-458d-9db5-03b9ae08e938",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
           "back": ""
         }
       }
@@ -534,6 +1172,54 @@
         }
       }
     },
+    "61063fb0-c3fa-4847-beb7-628fe5f9fc92": {
+      "start": 1095,
+      "end": 1466,
+      "id": "61063fb0-c3fa-4847-beb7-628fe5f9fc92",
+      "fileId": "a674f283-db52-494e-9123-908190255369",
+      "flashcard": {
+        "id": "61063fb0-c3fa-4847-beb7-628fe5f9fc92",
+        "tags": [
+          "iij07"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "417d07c9-10b5-44ad-8496-bfb376810648": {
+      "start": 1102,
+      "end": 1344,
+      "id": "417d07c9-10b5-44ad-8496-bfb376810648",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "417d07c9-10b5-44ad-8496-bfb376810648",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "c9e6b4d0-57ff-4b24-9487-35f42e9ef1aa": {
+      "start": 1107,
+      "end": 1456,
+      "id": "c9e6b4d0-57ff-4b24-9487-35f42e9ef1aa",
+      "fileId": "3a770551-efd0-4ee0-b46c-7106a50e0467",
+      "flashcard": {
+        "id": "c9e6b4d0-57ff-4b24-9487-35f42e9ef1aa",
+        "tags": [
+          "iij06"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "bc802300-72be-447e-a778-09add27c5ce6": {
       "start": 1122,
       "end": 1443,
@@ -543,6 +1229,22 @@
         "id": "bc802300-72be-447e-a778-09add27c5ce6",
         "tags": [
           "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "fa2b2f19-c4cb-471c-891c-fe6c2fd8ad00": {
+      "start": 1143,
+      "end": 1434,
+      "id": "fa2b2f19-c4cb-471c-891c-fe6c2fd8ad00",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "fa2b2f19-c4cb-471c-891c-fe6c2fd8ad00",
+        "tags": [
+          "iij04"
         ],
         "fields": {
           "front": "",
@@ -566,6 +1268,22 @@
         }
       }
     },
+    "320cd06d-8003-490d-939e-7cd3d194e46b": {
+      "start": 1200,
+      "end": 1421,
+      "id": "320cd06d-8003-490d-939e-7cd3d194e46b",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "320cd06d-8003-490d-939e-7cd3d194e46b",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "e7ce4548-c744-4700-b2c5-5e8c73306ae5": {
       "start": 1207,
       "end": 1735,
@@ -575,6 +1293,38 @@
         "id": "e7ce4548-c744-4700-b2c5-5e8c73306ae5",
         "tags": [
           "iij01"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "802ea9c3-58b5-4dd3-a15a-c723ab88bb1a": {
+      "start": 1219.6,
+      "end": 1516,
+      "id": "802ea9c3-58b5-4dd3-a15a-c723ab88bb1a",
+      "fileId": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "flashcard": {
+        "id": "802ea9c3-58b5-4dd3-a15a-c723ab88bb1a",
+        "tags": [
+          "iij09"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "8125d260-9ef3-4d87-a637-7aac0f5fbfdc": {
+      "start": 1223,
+      "end": 1541,
+      "id": "8125d260-9ef3-4d87-a637-7aac0f5fbfdc",
+      "fileId": "5fb3e4fb-34d6-4cb2-abb5-a60326680749",
+      "flashcard": {
+        "id": "8125d260-9ef3-4d87-a637-7aac0f5fbfdc",
+        "tags": [
+          "iij13"
         ],
         "fields": {
           "front": "",
@@ -614,6 +1364,22 @@
         }
       }
     },
+    "c9ecf9b7-d47e-44e5-a4ec-cfe9a82a0c0b": {
+      "start": 1263,
+      "end": 1927,
+      "id": "c9ecf9b7-d47e-44e5-a4ec-cfe9a82a0c0b",
+      "fileId": "e1197a41-777a-46db-9a22-a2055f3150dc",
+      "flashcard": {
+        "id": "c9ecf9b7-d47e-44e5-a4ec-cfe9a82a0c0b",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "0ccae161-5078-42e5-914c-ac95059a7e91": {
       "start": 1285,
       "end": 1652,
@@ -630,6 +1396,166 @@
         }
       }
     },
+    "5b1b68dd-06c4-4204-8ec8-a2ac86565520": {
+      "start": 1303,
+      "end": 1713,
+      "id": "5b1b68dd-06c4-4204-8ec8-a2ac86565520",
+      "fileId": "bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d",
+      "flashcard": {
+        "id": "5b1b68dd-06c4-4204-8ec8-a2ac86565520",
+        "tags": [
+          "iij12"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "4fd78835-4864-4303-975d-19fba114f0a6": {
+      "start": 1322,
+      "end": 1947,
+      "id": "4fd78835-4864-4303-975d-19fba114f0a6",
+      "fileId": "93c4dc99-5d7d-43b7-8e6d-9998f746f0ae",
+      "flashcard": {
+        "id": "4fd78835-4864-4303-975d-19fba114f0a6",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "d80f9ce5-e603-4469-bb94-0f2d4a597f75": {
+      "start": 1333,
+      "end": 1510,
+      "id": "d80f9ce5-e603-4469-bb94-0f2d4a597f75",
+      "fileId": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "flashcard": {
+        "id": "d80f9ce5-e603-4469-bb94-0f2d4a597f75",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "f91745dd-f7a7-4dde-8699-bff69b78ead7": {
+      "start": 1341,
+      "end": 1954,
+      "id": "f91745dd-f7a7-4dde-8699-bff69b78ead7",
+      "fileId": "e2b0ba37-464e-41c8-b176-759e3bac44b1",
+      "flashcard": {
+        "id": "f91745dd-f7a7-4dde-8699-bff69b78ead7",
+        "tags": [
+          "iij10"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "871a91db-3f84-4fe2-99df-89957f10e052": {
+      "start": 1361,
+      "end": 1759,
+      "id": "871a91db-3f84-4fe2-99df-89957f10e052",
+      "fileId": "f021988a-b438-4dbd-8dae-20f49db70e4f",
+      "flashcard": {
+        "id": "871a91db-3f84-4fe2-99df-89957f10e052",
+        "tags": [
+          "iij05"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "3f42c3c4-cf70-49d4-a8ee-0314e94b76d1": {
+      "start": 1365,
+      "end": 1730,
+      "id": "3f42c3c4-cf70-49d4-a8ee-0314e94b76d1",
+      "fileId": "ec532673-e145-4b29-89d8-de3c1a6af4ef",
+      "flashcard": {
+        "id": "3f42c3c4-cf70-49d4-a8ee-0314e94b76d1",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "d6fb98b8-05c8-4f75-ac5b-2f3648582da4": {
+      "start": 1379,
+      "end": 1714,
+      "id": "d6fb98b8-05c8-4f75-ac5b-2f3648582da4",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "d6fb98b8-05c8-4f75-ac5b-2f3648582da4",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "0fbd53eb-6ef8-4306-9092-6dc3863f3894": {
+      "start": 1448,
+      "end": 2018,
+      "id": "0fbd53eb-6ef8-4306-9092-6dc3863f3894",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "0fbd53eb-6ef8-4306-9092-6dc3863f3894",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "e7b52ca6-88e2-4361-9ae6-fdc32bfbbd08": {
+      "start": 1461,
+      "end": 2029,
+      "id": "e7b52ca6-88e2-4361-9ae6-fdc32bfbbd08",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "e7b52ca6-88e2-4361-9ae6-fdc32bfbbd08",
+        "tags": [
+          "iij04"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "987c608c-04bb-4c77-8e40-c82f9800ffb1": {
+      "start": 1481,
+      "end": 1773,
+      "id": "987c608c-04bb-4c77-8e40-c82f9800ffb1",
+      "fileId": "3a770551-efd0-4ee0-b46c-7106a50e0467",
+      "flashcard": {
+        "id": "987c608c-04bb-4c77-8e40-c82f9800ffb1",
+        "tags": [
+          "iij06"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "366e8d12-2c0d-4d96-8730-4031cb4ecd8c": {
       "start": 1481,
       "end": 1932,
@@ -639,6 +1565,54 @@
         "id": "366e8d12-2c0d-4d96-8730-4031cb4ecd8c",
         "tags": [
           "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "821e42d5-3057-4628-95c3-ea2e2004b520": {
+      "start": 1491,
+      "end": 2004,
+      "id": "821e42d5-3057-4628-95c3-ea2e2004b520",
+      "fileId": "2438c349-06f9-4ad9-b092-26406c93f6ce",
+      "flashcard": {
+        "id": "821e42d5-3057-4628-95c3-ea2e2004b520",
+        "tags": [
+          "iij11"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "2eec0fc8-6104-492f-b538-1e9ad6a9df64": {
+      "start": 1500,
+      "end": 1801,
+      "id": "2eec0fc8-6104-492f-b538-1e9ad6a9df64",
+      "fileId": "a674f283-db52-494e-9123-908190255369",
+      "flashcard": {
+        "id": "2eec0fc8-6104-492f-b538-1e9ad6a9df64",
+        "tags": [
+          "iij07"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "bd448257-2a0d-4202-baaf-1fe6f1f661cf": {
+      "start": 1530.6,
+      "end": 1847.6,
+      "id": "bd448257-2a0d-4202-baaf-1fe6f1f661cf",
+      "fileId": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "flashcard": {
+        "id": "bd448257-2a0d-4202-baaf-1fe6f1f661cf",
+        "tags": [
+          "iij09"
         ],
         "fields": {
           "front": "",
@@ -678,6 +1652,38 @@
         }
       }
     },
+    "d41b102a-b3c9-4b04-935b-280ea0af7278": {
+      "start": 1556,
+      "end": 1926,
+      "id": "d41b102a-b3c9-4b04-935b-280ea0af7278",
+      "fileId": "5fb3e4fb-34d6-4cb2-abb5-a60326680749",
+      "flashcard": {
+        "id": "d41b102a-b3c9-4b04-935b-280ea0af7278",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "31572bf9-2bd9-4083-92bb-f67d85e874b2": {
+      "start": 1606,
+      "end": 2063,
+      "id": "31572bf9-2bd9-4083-92bb-f67d85e874b2",
+      "fileId": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "flashcard": {
+        "id": "31572bf9-2bd9-4083-92bb-f67d85e874b2",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "e6b4c287-907e-4e58-8e9f-4efcb15625a8": {
       "start": 1704,
       "end": 1809,
@@ -710,6 +1716,54 @@
         }
       }
     },
+    "f3500de2-3c28-4826-a66a-b59da5f620c4": {
+      "start": 1742,
+      "end": 1944,
+      "id": "f3500de2-3c28-4826-a66a-b59da5f620c4",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "f3500de2-3c28-4826-a66a-b59da5f620c4",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "4e2df3c8-e457-4386-9811-84f95e40e062": {
+      "start": 1744,
+      "end": 2243,
+      "id": "4e2df3c8-e457-4386-9811-84f95e40e062",
+      "fileId": "ec532673-e145-4b29-89d8-de3c1a6af4ef",
+      "flashcard": {
+        "id": "4e2df3c8-e457-4386-9811-84f95e40e062",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "32d25085-3565-4435-9eb1-bb5ac607f64e": {
+      "start": 1748,
+      "end": 1890,
+      "id": "32d25085-3565-4435-9eb1-bb5ac607f64e",
+      "fileId": "bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d",
+      "flashcard": {
+        "id": "32d25085-3565-4435-9eb1-bb5ac607f64e",
+        "tags": [
+          "iij12"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "afa843b9-a206-4b70-b9cf-a151a470afaa": {
       "start": 1760,
       "end": 2069,
@@ -726,6 +1780,22 @@
         }
       }
     },
+    "87702f5b-2827-488b-9361-a9fde634e7b2": {
+      "start": 1774,
+      "end": 2053,
+      "id": "87702f5b-2827-488b-9361-a9fde634e7b2",
+      "fileId": "f021988a-b438-4dbd-8dae-20f49db70e4f",
+      "flashcard": {
+        "id": "87702f5b-2827-488b-9361-a9fde634e7b2",
+        "tags": [
+          "iij05"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "b439bfc0-82a3-4f24-b28a-0eea72962c1b": {
       "start": 1778,
       "end": 2917,
@@ -735,6 +1805,38 @@
         "id": "b439bfc0-82a3-4f24-b28a-0eea72962c1b",
         "tags": [
           "iij02"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "650f1054-0bc5-48b8-b037-0a54b5605455": {
+      "start": 1800,
+      "end": 2067,
+      "id": "650f1054-0bc5-48b8-b037-0a54b5605455",
+      "fileId": "3a770551-efd0-4ee0-b46c-7106a50e0467",
+      "flashcard": {
+        "id": "650f1054-0bc5-48b8-b037-0a54b5605455",
+        "tags": [
+          "iij06"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "29c5a872-6b21-40fe-bd40-05687136c015": {
+      "start": 1836,
+      "end": 2227,
+      "id": "29c5a872-6b21-40fe-bd40-05687136c015",
+      "fileId": "a674f283-db52-494e-9123-908190255369",
+      "flashcard": {
+        "id": "29c5a872-6b21-40fe-bd40-05687136c015",
+        "tags": [
+          "iij07"
         ],
         "fields": {
           "front": "",
@@ -774,6 +1876,102 @@
         }
       }
     },
+    "8bfdee66-08a5-46d3-8ec8-33fe39954dd7": {
+      "start": 1866.6,
+      "end": 2171.6,
+      "id": "8bfdee66-08a5-46d3-8ec8-33fe39954dd7",
+      "fileId": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "flashcard": {
+        "id": "8bfdee66-08a5-46d3-8ec8-33fe39954dd7",
+        "tags": [
+          "iij09"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "a12a83a0-6575-4823-9b9a-ae510faaa588": {
+      "start": 1929,
+      "end": 2153,
+      "id": "a12a83a0-6575-4823-9b9a-ae510faaa588",
+      "fileId": "5fb3e4fb-34d6-4cb2-abb5-a60326680749",
+      "flashcard": {
+        "id": "a12a83a0-6575-4823-9b9a-ae510faaa588",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "a3709a4e-399e-45cb-a535-6b0badf21ddc": {
+      "start": 1934,
+      "end": 2162,
+      "id": "a3709a4e-399e-45cb-a535-6b0badf21ddc",
+      "fileId": "bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d",
+      "flashcard": {
+        "id": "a3709a4e-399e-45cb-a535-6b0badf21ddc",
+        "tags": [
+          "iij12"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "719719f7-416e-4ea7-8cc1-90e18c313d3a": {
+      "start": 1936,
+      "end": 2153,
+      "id": "719719f7-416e-4ea7-8cc1-90e18c313d3a",
+      "fileId": "e1197a41-777a-46db-9a22-a2055f3150dc",
+      "flashcard": {
+        "id": "719719f7-416e-4ea7-8cc1-90e18c313d3a",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "2b024afd-303b-44f4-9298-6abd05142f1c": {
+      "start": 1960,
+      "end": 2273,
+      "id": "2b024afd-303b-44f4-9298-6abd05142f1c",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "2b024afd-303b-44f4-9298-6abd05142f1c",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "39a1201a-99a8-43a4-ac0f-ac20d09a7c4c": {
+      "start": 1974,
+      "end": 2464,
+      "id": "39a1201a-99a8-43a4-ac0f-ac20d09a7c4c",
+      "fileId": "e2b0ba37-464e-41c8-b176-759e3bac44b1",
+      "flashcard": {
+        "id": "39a1201a-99a8-43a4-ac0f-ac20d09a7c4c",
+        "tags": [
+          "iij10"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "5587c571-b30f-4285-8764-7f3d11d35351": {
       "start": 1975,
       "end": 2199,
@@ -790,6 +1988,22 @@
         }
       }
     },
+    "3e19acf9-4ba5-49a0-8af0-30f7526f6589": {
+      "start": 1988,
+      "end": 2396,
+      "id": "3e19acf9-4ba5-49a0-8af0-30f7526f6589",
+      "fileId": "93c4dc99-5d7d-43b7-8e6d-9998f746f0ae",
+      "flashcard": {
+        "id": "3e19acf9-4ba5-49a0-8af0-30f7526f6589",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "852bf3d7-bdcd-452d-8ec3-7e2e8fa2f7fd": {
       "start": 1993,
       "end": 2236,
@@ -799,6 +2013,86 @@
         "id": "852bf3d7-bdcd-452d-8ec3-7e2e8fa2f7fd",
         "tags": [
           "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "4e7038cf-a74d-45c3-8eff-a1c93f6e11fd": {
+      "start": 2049,
+      "end": 2661,
+      "id": "4e7038cf-a74d-45c3-8eff-a1c93f6e11fd",
+      "fileId": "2438c349-06f9-4ad9-b092-26406c93f6ce",
+      "flashcard": {
+        "id": "4e7038cf-a74d-45c3-8eff-a1c93f6e11fd",
+        "tags": [
+          "iij11"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "ae5c52e9-8492-4966-aa55-c9bcf3233221": {
+      "start": 2056,
+      "end": 2372,
+      "id": "ae5c52e9-8492-4966-aa55-c9bcf3233221",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "ae5c52e9-8492-4966-aa55-c9bcf3233221",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "8b1c0ab3-0d08-4235-a778-e4fa8fbfa095": {
+      "start": 2068,
+      "end": 2597,
+      "id": "8b1c0ab3-0d08-4235-a778-e4fa8fbfa095",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "8b1c0ab3-0d08-4235-a778-e4fa8fbfa095",
+        "tags": [
+          "iij04"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "069b6290-6e28-4b38-8d29-6d224d32fa91": {
+      "start": 2070,
+      "end": 2325,
+      "id": "069b6290-6e28-4b38-8d29-6d224d32fa91",
+      "fileId": "f021988a-b438-4dbd-8dae-20f49db70e4f",
+      "flashcard": {
+        "id": "069b6290-6e28-4b38-8d29-6d224d32fa91",
+        "tags": [
+          "iij05"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "aef03159-2807-4cae-bb0e-1ce08077dfde": {
+      "start": 2084,
+      "end": 2479,
+      "id": "aef03159-2807-4cae-bb0e-1ce08077dfde",
+      "fileId": "3a770551-efd0-4ee0-b46c-7106a50e0467",
+      "flashcard": {
+        "id": "aef03159-2807-4cae-bb0e-1ce08077dfde",
+        "tags": [
+          "iij06"
         ],
         "fields": {
           "front": "",
@@ -838,6 +2132,86 @@
         }
       }
     },
+    "d4374571-ef67-4407-a0b6-8285f780f506": {
+      "start": 2157,
+      "end": 2603,
+      "id": "d4374571-ef67-4407-a0b6-8285f780f506",
+      "fileId": "5fb3e4fb-34d6-4cb2-abb5-a60326680749",
+      "flashcard": {
+        "id": "d4374571-ef67-4407-a0b6-8285f780f506",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "76203dc0-32b1-445e-b90a-4f53e9227eb5": {
+      "start": 2164,
+      "end": 2544,
+      "id": "76203dc0-32b1-445e-b90a-4f53e9227eb5",
+      "fileId": "e1197a41-777a-46db-9a22-a2055f3150dc",
+      "flashcard": {
+        "id": "76203dc0-32b1-445e-b90a-4f53e9227eb5",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "1172fb7d-b697-44b7-8910-4b592d515189": {
+      "start": 2181,
+      "end": 2676,
+      "id": "1172fb7d-b697-44b7-8910-4b592d515189",
+      "fileId": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "flashcard": {
+        "id": "1172fb7d-b697-44b7-8910-4b592d515189",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "5de4f3cf-c7ee-4210-afe6-dbcb87fba5b3": {
+      "start": 2184.6,
+      "end": 2371.6,
+      "id": "5de4f3cf-c7ee-4210-afe6-dbcb87fba5b3",
+      "fileId": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "flashcard": {
+        "id": "5de4f3cf-c7ee-4210-afe6-dbcb87fba5b3",
+        "tags": [
+          "iij09"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "9aafa697-76b4-40d0-91e7-efca49b0ef50": {
+      "start": 2189,
+      "end": 2710,
+      "id": "9aafa697-76b4-40d0-91e7-efca49b0ef50",
+      "fileId": "bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d",
+      "flashcard": {
+        "id": "9aafa697-76b4-40d0-91e7-efca49b0ef50",
+        "tags": [
+          "iij12"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "27f0840e-5eb9-4876-878b-801e0c04cc19": {
       "start": 2238,
       "end": 2403,
@@ -850,6 +2224,22 @@
         ],
         "fields": {
           "front": "正月の伝統的な行事が嫌いな人もある。",
+          "back": ""
+        }
+      }
+    },
+    "6f8f5eb2-6eb3-490f-b312-a496496b473b": {
+      "start": 2254,
+      "end": 2628,
+      "id": "6f8f5eb2-6eb3-490f-b312-a496496b473b",
+      "fileId": "ec532673-e145-4b29-89d8-de3c1a6af4ef",
+      "flashcard": {
+        "id": "6f8f5eb2-6eb3-490f-b312-a496496b473b",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
           "back": ""
         }
       }
@@ -870,6 +2260,38 @@
         }
       }
     },
+    "5de6eace-8a49-4316-9861-5cb00eaa4ac2": {
+      "start": 2259,
+      "end": 2836,
+      "id": "5de6eace-8a49-4316-9861-5cb00eaa4ac2",
+      "fileId": "a674f283-db52-494e-9123-908190255369",
+      "flashcard": {
+        "id": "5de6eace-8a49-4316-9861-5cb00eaa4ac2",
+        "tags": [
+          "iij07"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "7c7efa55-3ef7-4826-a191-3e8031b4f155": {
+      "start": 2278,
+      "end": 2502,
+      "id": "7c7efa55-3ef7-4826-a191-3e8031b4f155",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "7c7efa55-3ef7-4826-a191-3e8031b4f155",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "e09eef36-43aa-428e-82b2-048367c66011": {
       "start": 2333,
       "end": 2736,
@@ -879,6 +2301,54 @@
         "id": "e09eef36-43aa-428e-82b2-048367c66011",
         "tags": [
           "iij01"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "abaa83a0-8baf-4de6-953f-3ab4b8d46cae": {
+      "start": 2349,
+      "end": 3084,
+      "id": "abaa83a0-8baf-4de6-953f-3ab4b8d46cae",
+      "fileId": "f021988a-b438-4dbd-8dae-20f49db70e4f",
+      "flashcard": {
+        "id": "abaa83a0-8baf-4de6-953f-3ab4b8d46cae",
+        "tags": [
+          "iij05"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "1144d78b-9f1c-4e85-8fc6-2bec0a51453b": {
+      "start": 2391,
+      "end": 2929,
+      "id": "1144d78b-9f1c-4e85-8fc6-2bec0a51453b",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "1144d78b-9f1c-4e85-8fc6-2bec0a51453b",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "09a62149-b291-4208-8b78-5ab9e3535268": {
+      "start": 2393.6,
+      "end": 2700,
+      "id": "09a62149-b291-4208-8b78-5ab9e3535268",
+      "fileId": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "flashcard": {
+        "id": "09a62149-b291-4208-8b78-5ab9e3535268",
+        "tags": [
+          "iij09"
         ],
         "fields": {
           "front": "",
@@ -918,6 +2388,118 @@
         }
       }
     },
+    "2800efdc-21b6-467b-ba1f-514fd4757261": {
+      "start": 2468,
+      "end": 2719,
+      "id": "2800efdc-21b6-467b-ba1f-514fd4757261",
+      "fileId": "93c4dc99-5d7d-43b7-8e6d-9998f746f0ae",
+      "flashcard": {
+        "id": "2800efdc-21b6-467b-ba1f-514fd4757261",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "b778d381-8926-4656-a8c4-f1f3c34dd426": {
+      "start": 2479,
+      "end": 2743,
+      "id": "b778d381-8926-4656-a8c4-f1f3c34dd426",
+      "fileId": "e2b0ba37-464e-41c8-b176-759e3bac44b1",
+      "flashcard": {
+        "id": "b778d381-8926-4656-a8c4-f1f3c34dd426",
+        "tags": [
+          "iij10"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "9a3146a0-36c8-4e07-af78-5d021368f8ff": {
+      "start": 2490,
+      "end": 2715,
+      "id": "9a3146a0-36c8-4e07-af78-5d021368f8ff",
+      "fileId": "3a770551-efd0-4ee0-b46c-7106a50e0467",
+      "flashcard": {
+        "id": "9a3146a0-36c8-4e07-af78-5d021368f8ff",
+        "tags": [
+          "iij06"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "19782f58-e481-4c94-b15d-bc24261aad06": {
+      "start": 2513,
+      "end": 2748,
+      "id": "19782f58-e481-4c94-b15d-bc24261aad06",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "19782f58-e481-4c94-b15d-bc24261aad06",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "ff9b1659-17e1-4c99-95a9-a5bc0c3d44fa": {
+      "start": 2548,
+      "end": 2847,
+      "id": "ff9b1659-17e1-4c99-95a9-a5bc0c3d44fa",
+      "fileId": "e1197a41-777a-46db-9a22-a2055f3150dc",
+      "flashcard": {
+        "id": "ff9b1659-17e1-4c99-95a9-a5bc0c3d44fa",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "a6ce73f9-a3cf-42af-af40-e41c62e69f6a": {
+      "start": 2606,
+      "end": 2840,
+      "id": "a6ce73f9-a3cf-42af-af40-e41c62e69f6a",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "a6ce73f9-a3cf-42af-af40-e41c62e69f6a",
+        "tags": [
+          "iij04"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "f03f120a-089b-4516-b0c3-7a02080033dc": {
+      "start": 2633,
+      "end": 3022,
+      "id": "f03f120a-089b-4516-b0c3-7a02080033dc",
+      "fileId": "ec532673-e145-4b29-89d8-de3c1a6af4ef",
+      "flashcard": {
+        "id": "f03f120a-089b-4516-b0c3-7a02080033dc",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "05661bf5-d536-4418-b33a-491025caf020": {
       "start": 2637,
       "end": 3359,
@@ -927,6 +2509,118 @@
         "id": "05661bf5-d536-4418-b33a-491025caf020",
         "tags": [
           "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "8f8d830a-ae9a-4d06-867c-03383f8a1857": {
+      "start": 2696,
+      "end": 3014,
+      "id": "8f8d830a-ae9a-4d06-867c-03383f8a1857",
+      "fileId": "2438c349-06f9-4ad9-b092-26406c93f6ce",
+      "flashcard": {
+        "id": "8f8d830a-ae9a-4d06-867c-03383f8a1857",
+        "tags": [
+          "iij11"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "6f36fa3f-edfc-4199-8d97-36bfa26c5b24": {
+      "start": 2715.6,
+      "end": 2943.6,
+      "id": "6f36fa3f-edfc-4199-8d97-36bfa26c5b24",
+      "fileId": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "flashcard": {
+        "id": "6f36fa3f-edfc-4199-8d97-36bfa26c5b24",
+        "tags": [
+          "iij09"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "96bf9327-019c-4116-a21c-cb81ed82a4cc": {
+      "start": 2732,
+      "end": 3054,
+      "id": "96bf9327-019c-4116-a21c-cb81ed82a4cc",
+      "fileId": "bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d",
+      "flashcard": {
+        "id": "96bf9327-019c-4116-a21c-cb81ed82a4cc",
+        "tags": [
+          "iij12"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "64d89635-bef1-4ea3-95ad-b353d48d7203": {
+      "start": 2737,
+      "end": 3110,
+      "id": "64d89635-bef1-4ea3-95ad-b353d48d7203",
+      "fileId": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "flashcard": {
+        "id": "64d89635-bef1-4ea3-95ad-b353d48d7203",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "14e638ea-c496-4f75-a507-af929133142d": {
+      "start": 2739,
+      "end": 3050,
+      "id": "14e638ea-c496-4f75-a507-af929133142d",
+      "fileId": "3a770551-efd0-4ee0-b46c-7106a50e0467",
+      "flashcard": {
+        "id": "14e638ea-c496-4f75-a507-af929133142d",
+        "tags": [
+          "iij06"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "e2eb093e-9188-41cb-a7ac-96f6b514d48d": {
+      "start": 2753,
+      "end": 3149,
+      "id": "e2eb093e-9188-41cb-a7ac-96f6b514d48d",
+      "fileId": "93c4dc99-5d7d-43b7-8e6d-9998f746f0ae",
+      "flashcard": {
+        "id": "e2eb093e-9188-41cb-a7ac-96f6b514d48d",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "303e3a22-8340-461d-843a-2687033bb031": {
+      "start": 2755,
+      "end": 2885,
+      "id": "303e3a22-8340-461d-843a-2687033bb031",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "303e3a22-8340-461d-843a-2687033bb031",
+        "tags": [
+          "iij08"
         ],
         "fields": {
           "front": "",
@@ -966,6 +2660,118 @@
         }
       }
     },
+    "6178fc58-abcd-40c5-a25a-b8b84cdecbe0": {
+      "start": 2780,
+      "end": 3007,
+      "id": "6178fc58-abcd-40c5-a25a-b8b84cdecbe0",
+      "fileId": "e2b0ba37-464e-41c8-b176-759e3bac44b1",
+      "flashcard": {
+        "id": "6178fc58-abcd-40c5-a25a-b8b84cdecbe0",
+        "tags": [
+          "iij10"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "79da2e2d-75d0-4e81-aa87-052b7417bca5": {
+      "start": 2855.4,
+      "end": 3817,
+      "id": "79da2e2d-75d0-4e81-aa87-052b7417bca5",
+      "fileId": "e1197a41-777a-46db-9a22-a2055f3150dc",
+      "flashcard": {
+        "id": "79da2e2d-75d0-4e81-aa87-052b7417bca5",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "0bdb33a7-f988-4348-b93e-c7a1ae27e0ba": {
+      "start": 2859,
+      "end": 3184,
+      "id": "0bdb33a7-f988-4348-b93e-c7a1ae27e0ba",
+      "fileId": "a674f283-db52-494e-9123-908190255369",
+      "flashcard": {
+        "id": "0bdb33a7-f988-4348-b93e-c7a1ae27e0ba",
+        "tags": [
+          "iij07"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "25649678-fc1c-4c53-b217-0c973f80c54d": {
+      "start": 2868,
+      "end": 3071,
+      "id": "25649678-fc1c-4c53-b217-0c973f80c54d",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "25649678-fc1c-4c53-b217-0c973f80c54d",
+        "tags": [
+          "iij04"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "b28c1df0-a690-488e-ae2d-58de9c9e88fa": {
+      "start": 2902,
+      "end": 3148,
+      "id": "b28c1df0-a690-488e-ae2d-58de9c9e88fa",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "b28c1df0-a690-488e-ae2d-58de9c9e88fa",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "52bb5ce6-dc80-4916-917e-f2871d01ecb4": {
+      "start": 2962.6,
+      "end": 3574.6,
+      "id": "52bb5ce6-dc80-4916-917e-f2871d01ecb4",
+      "fileId": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "flashcard": {
+        "id": "52bb5ce6-dc80-4916-917e-f2871d01ecb4",
+        "tags": [
+          "iij09"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "87f60a48-7612-46b7-b149-f03e0571ef8d": {
+      "start": 2976,
+      "end": 3296,
+      "id": "87f60a48-7612-46b7-b149-f03e0571ef8d",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "87f60a48-7612-46b7-b149-f03e0571ef8d",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "833e3e3d-dbf8-44d5-b294-5f5eb33c9016": {
       "start": 2980,
       "end": 3455,
@@ -998,6 +2804,214 @@
         }
       }
     },
+    "b835ab71-0275-4e87-9f98-50c6839b28d3": {
+      "start": 2611,
+      "end": 3530,
+      "id": "b835ab71-0275-4e87-9f98-50c6839b28d3",
+      "fileId": "5fb3e4fb-34d6-4cb2-abb5-a60326680749",
+      "flashcard": {
+        "id": "b835ab71-0275-4e87-9f98-50c6839b28d3",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "5a1f8331-5e18-4da4-a702-bde730f8a2b9": {
+      "start": 3032,
+      "end": 3529,
+      "id": "5a1f8331-5e18-4da4-a702-bde730f8a2b9",
+      "fileId": "e2b0ba37-464e-41c8-b176-759e3bac44b1",
+      "flashcard": {
+        "id": "5a1f8331-5e18-4da4-a702-bde730f8a2b9",
+        "tags": [
+          "iij10"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "3ee40c06-4c69-43ff-aa1e-d18bb053b1f1": {
+      "start": 3047,
+      "end": 3206,
+      "id": "3ee40c06-4c69-43ff-aa1e-d18bb053b1f1",
+      "fileId": "ec532673-e145-4b29-89d8-de3c1a6af4ef",
+      "flashcard": {
+        "id": "3ee40c06-4c69-43ff-aa1e-d18bb053b1f1",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "3aab282f-ef0e-4fdc-a72c-b5d59f73e4c5": {
+      "start": 3058,
+      "end": 3423,
+      "id": "3aab282f-ef0e-4fdc-a72c-b5d59f73e4c5",
+      "fileId": "2438c349-06f9-4ad9-b092-26406c93f6ce",
+      "flashcard": {
+        "id": "3aab282f-ef0e-4fdc-a72c-b5d59f73e4c5",
+        "tags": [
+          "iij11"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "7eb6147a-b4e9-472e-b552-ddc3c82f0da5": {
+      "start": 3062,
+      "end": 3327,
+      "id": "7eb6147a-b4e9-472e-b552-ddc3c82f0da5",
+      "fileId": "3a770551-efd0-4ee0-b46c-7106a50e0467",
+      "flashcard": {
+        "id": "7eb6147a-b4e9-472e-b552-ddc3c82f0da5",
+        "tags": [
+          "iij06"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "82c4c566-85f4-40d9-b730-b482c51718b8": {
+      "start": 3084,
+      "end": 3302,
+      "id": "82c4c566-85f4-40d9-b730-b482c51718b8",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "82c4c566-85f4-40d9-b730-b482c51718b8",
+        "tags": [
+          "iij04"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "a60be966-7153-48b6-87c8-7b1c34f592b4": {
+      "start": 3085,
+      "end": 3434,
+      "id": "a60be966-7153-48b6-87c8-7b1c34f592b4",
+      "fileId": "bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d",
+      "flashcard": {
+        "id": "a60be966-7153-48b6-87c8-7b1c34f592b4",
+        "tags": [
+          "iij12"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "ccc9fbea-89d6-4934-8a0c-cf071facca1a": {
+      "start": 3120,
+      "end": 3537,
+      "id": "ccc9fbea-89d6-4934-8a0c-cf071facca1a",
+      "fileId": "f021988a-b438-4dbd-8dae-20f49db70e4f",
+      "flashcard": {
+        "id": "ccc9fbea-89d6-4934-8a0c-cf071facca1a",
+        "tags": [
+          "iij05"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "cf8eb112-980e-434f-93fc-b9a3afcfb4b0": {
+      "start": 3165,
+      "end": 3479,
+      "id": "cf8eb112-980e-434f-93fc-b9a3afcfb4b0",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "cf8eb112-980e-434f-93fc-b9a3afcfb4b0",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "a0eb6370-1675-4ca6-ad65-56bb4a48e045": {
+      "start": 3190,
+      "end": 3673,
+      "id": "a0eb6370-1675-4ca6-ad65-56bb4a48e045",
+      "fileId": "a674f283-db52-494e-9123-908190255369",
+      "flashcard": {
+        "id": "a0eb6370-1675-4ca6-ad65-56bb4a48e045",
+        "tags": [
+          "iij07"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "37d10040-89bf-493c-90d3-1d200ccfbff6": {
+      "start": 3209,
+      "end": 3712,
+      "id": "37d10040-89bf-493c-90d3-1d200ccfbff6",
+      "fileId": "ec532673-e145-4b29-89d8-de3c1a6af4ef",
+      "flashcard": {
+        "id": "37d10040-89bf-493c-90d3-1d200ccfbff6",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "8df88477-292a-4cdd-877e-62cd899c30c2": {
+      "start": 3210,
+      "end": 3434,
+      "id": "8df88477-292a-4cdd-877e-62cd899c30c2",
+      "fileId": "93c4dc99-5d7d-43b7-8e6d-9998f746f0ae",
+      "flashcard": {
+        "id": "8df88477-292a-4cdd-877e-62cd899c30c2",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "47751ac7-e79d-4acd-b345-4f365ee3fd7a": {
+      "start": 3226,
+      "end": 3679,
+      "id": "47751ac7-e79d-4acd-b345-4f365ee3fd7a",
+      "fileId": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "flashcard": {
+        "id": "47751ac7-e79d-4acd-b345-4f365ee3fd7a",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "0261d2ca-a1af-4dc2-9326-95c4ff1c7968": {
       "start": 3314.4,
       "end": 4298,
@@ -1007,6 +3021,54 @@
         "id": "0261d2ca-a1af-4dc2-9326-95c4ff1c7968",
         "tags": [
           "iij02"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "86249f2c-a2bc-452a-bf5e-47c793a34c99": {
+      "start": 3327,
+      "end": 3693,
+      "id": "86249f2c-a2bc-452a-bf5e-47c793a34c99",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "86249f2c-a2bc-452a-bf5e-47c793a34c99",
+        "tags": [
+          "iij04"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "75a576a7-589e-4a62-b339-6d915a5d7323": {
+      "start": 3329,
+      "end": 3595,
+      "id": "75a576a7-589e-4a62-b339-6d915a5d7323",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "75a576a7-589e-4a62-b339-6d915a5d7323",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "44bf5c39-f2b3-4f12-94c6-8755ef315877": {
+      "start": 3341,
+      "end": 3556,
+      "id": "44bf5c39-f2b3-4f12-94c6-8755ef315877",
+      "fileId": "3a770551-efd0-4ee0-b46c-7106a50e0467",
+      "flashcard": {
+        "id": "44bf5c39-f2b3-4f12-94c6-8755ef315877",
+        "tags": [
+          "iij06"
         ],
         "fields": {
           "front": "",
@@ -1046,6 +3108,22 @@
         }
       }
     },
+    "23195efc-3a71-477a-b2ba-2b9e4888ec0a": {
+      "start": 3443,
+      "end": 3654,
+      "id": "23195efc-3a71-477a-b2ba-2b9e4888ec0a",
+      "fileId": "2438c349-06f9-4ad9-b092-26406c93f6ce",
+      "flashcard": {
+        "id": "23195efc-3a71-477a-b2ba-2b9e4888ec0a",
+        "tags": [
+          "iij11"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "f298e99a-238e-422e-9c57-b1c68e104869": {
       "start": 3473,
       "end": 3667,
@@ -1058,6 +3136,134 @@
         ],
         "fields": {
           "front": "たとえば白い線で書いた「青」という字が出る。",
+          "back": ""
+        }
+      }
+    },
+    "0a581540-e071-4101-94f8-37dc7abb7d4e": {
+      "start": 3483,
+      "end": 3952,
+      "id": "0a581540-e071-4101-94f8-37dc7abb7d4e",
+      "fileId": "bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d",
+      "flashcard": {
+        "id": "0a581540-e071-4101-94f8-37dc7abb7d4e",
+        "tags": [
+          "iij12"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "bed8838b-b64b-447e-895e-bf66d5e662c1": {
+      "start": 3496,
+      "end": 3894,
+      "id": "bed8838b-b64b-447e-895e-bf66d5e662c1",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "bed8838b-b64b-447e-895e-bf66d5e662c1",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "20e21733-71d4-405a-8b26-6fac999fc30d": {
+      "start": 3526,
+      "end": 3993,
+      "id": "20e21733-71d4-405a-8b26-6fac999fc30d",
+      "fileId": "93c4dc99-5d7d-43b7-8e6d-9998f746f0ae",
+      "flashcard": {
+        "id": "20e21733-71d4-405a-8b26-6fac999fc30d",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "44117924-7e22-4ca4-bb22-217fa0755ae0": {
+      "start": 3550,
+      "end": 4104,
+      "id": "44117924-7e22-4ca4-bb22-217fa0755ae0",
+      "fileId": "f021988a-b438-4dbd-8dae-20f49db70e4f",
+      "flashcard": {
+        "id": "44117924-7e22-4ca4-bb22-217fa0755ae0",
+        "tags": [
+          "iij05"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "2cdade9e-430a-4aff-9c8a-212e711747a3": {
+      "start": 3561,
+      "end": 4386,
+      "id": "2cdade9e-430a-4aff-9c8a-212e711747a3",
+      "fileId": "e2b0ba37-464e-41c8-b176-759e3bac44b1",
+      "flashcard": {
+        "id": "2cdade9e-430a-4aff-9c8a-212e711747a3",
+        "tags": [
+          "iij10"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "beb24d7a-759e-47c8-9908-273dbf1bc20f": {
+      "start": 3565,
+      "end": 4019,
+      "id": "beb24d7a-759e-47c8-9908-273dbf1bc20f",
+      "fileId": "3a770551-efd0-4ee0-b46c-7106a50e0467",
+      "flashcard": {
+        "id": "beb24d7a-759e-47c8-9908-273dbf1bc20f",
+        "tags": [
+          "iij06"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "52ad117b-8c20-424b-ae6c-eda8492d2ca5": {
+      "start": 3610.6,
+      "end": 3859.6,
+      "id": "52ad117b-8c20-424b-ae6c-eda8492d2ca5",
+      "fileId": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "flashcard": {
+        "id": "52ad117b-8c20-424b-ae6c-eda8492d2ca5",
+        "tags": [
+          "iij09"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "8bb942f9-46d8-4aba-89cb-1fcf9a54bbec": {
+      "start": 3620,
+      "end": 3839,
+      "id": "8bb942f9-46d8-4aba-89cb-1fcf9a54bbec",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "8bb942f9-46d8-4aba-89cb-1fcf9a54bbec",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
           "back": ""
         }
       }
@@ -1078,6 +3284,22 @@
         }
       }
     },
+    "1594b8d3-e377-4f87-9280-7677301d2088": {
+      "start": 3675,
+      "end": 3977,
+      "id": "1594b8d3-e377-4f87-9280-7677301d2088",
+      "fileId": "2438c349-06f9-4ad9-b092-26406c93f6ce",
+      "flashcard": {
+        "id": "1594b8d3-e377-4f87-9280-7677301d2088",
+        "tags": [
+          "iij11"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "56d57479-6c2d-4fce-9192-a8fb0c0f3532": {
       "start": 3695,
       "end": 3914,
@@ -1090,6 +3312,86 @@
         ],
         "fields": {
           "front": "それを見て、いそいで「青」の札をさがして高くあげる。",
+          "back": ""
+        }
+      }
+    },
+    "6ace1bad-462e-46aa-9724-f24e10868548": {
+      "start": 3705,
+      "end": 4104,
+      "id": "6ace1bad-462e-46aa-9724-f24e10868548",
+      "fileId": "a674f283-db52-494e-9123-908190255369",
+      "flashcard": {
+        "id": "6ace1bad-462e-46aa-9724-f24e10868548",
+        "tags": [
+          "iij07"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "d3700adf-0fbc-40c8-861c-1654e9fc4222": {
+      "start": 3708,
+      "end": 3898,
+      "id": "d3700adf-0fbc-40c8-861c-1654e9fc4222",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "d3700adf-0fbc-40c8-861c-1654e9fc4222",
+        "tags": [
+          "iij04"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "c23f707f-5b1e-4a55-98a4-a1ff3bf10d0a": {
+      "start": 3748,
+      "end": 4027,
+      "id": "c23f707f-5b1e-4a55-98a4-a1ff3bf10d0a",
+      "fileId": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "flashcard": {
+        "id": "c23f707f-5b1e-4a55-98a4-a1ff3bf10d0a",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "d432d4da-af81-48da-8aaa-4d525c9c769c": {
+      "start": 3864,
+      "end": 4166,
+      "id": "d432d4da-af81-48da-8aaa-4d525c9c769c",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "d432d4da-af81-48da-8aaa-4d525c9c769c",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "25738df7-d07a-434e-b6d5-00a468f2542f": {
+      "start": 3871.6,
+      "end": 4015.6,
+      "id": "25738df7-d07a-434e-b6d5-00a468f2542f",
+      "fileId": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "flashcard": {
+        "id": "25738df7-d07a-434e-b6d5-00a468f2542f",
+        "tags": [
+          "iij09"
+        ],
+        "fields": {
+          "front": "",
           "back": ""
         }
       }
@@ -1126,6 +3428,38 @@
         }
       }
     },
+    "efe6d7c8-ab62-4f48-9d70-eb982ef4b4b5": {
+      "start": 3933,
+      "end": 4253,
+      "id": "efe6d7c8-ab62-4f48-9d70-eb982ef4b4b5",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "efe6d7c8-ab62-4f48-9d70-eb982ef4b4b5",
+        "tags": [
+          "iij04"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "37a6f86d-58d8-4f60-93ba-5df716f030fc": {
+      "start": 3937,
+      "end": 4106,
+      "id": "37a6f86d-58d8-4f60-93ba-5df716f030fc",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "37a6f86d-58d8-4f60-93ba-5df716f030fc",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "53df8e93-daaf-424e-a654-4f31abe161c9": {
       "start": 3939,
       "end": 4424,
@@ -1138,6 +3472,134 @@
         ],
         "fields": {
           "front": "何回も続けると、疲れて間違いが多くなるが、二つの組のうち、竹をふんだ人達のほうが成績がよかった。",
+          "back": ""
+        }
+      }
+    },
+    "d481b65f-912d-4d56-ba88-8cca7b6b7844": {
+      "start": 3981,
+      "end": 4278,
+      "id": "d481b65f-912d-4d56-ba88-8cca7b6b7844",
+      "fileId": "bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d",
+      "flashcard": {
+        "id": "d481b65f-912d-4d56-ba88-8cca7b6b7844",
+        "tags": [
+          "iij12"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "62c2c392-069b-40bb-a899-5ec9e8e57c3d": {
+      "start": 4010,
+      "end": 4416,
+      "id": "62c2c392-069b-40bb-a899-5ec9e8e57c3d",
+      "fileId": "2438c349-06f9-4ad9-b092-26406c93f6ce",
+      "flashcard": {
+        "id": "62c2c392-069b-40bb-a899-5ec9e8e57c3d",
+        "tags": [
+          "iij11"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "ae0bd1f1-85f5-44ae-b04b-878e7586506d": {
+      "start": 4032.6,
+      "end": 4191.6,
+      "id": "ae0bd1f1-85f5-44ae-b04b-878e7586506d",
+      "fileId": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "flashcard": {
+        "id": "ae0bd1f1-85f5-44ae-b04b-878e7586506d",
+        "tags": [
+          "iij09"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "5ebd4f76-a0f2-4845-8c1a-e0a5f72b3376": {
+      "start": 4049,
+      "end": 4560,
+      "id": "5ebd4f76-a0f2-4845-8c1a-e0a5f72b3376",
+      "fileId": "3a770551-efd0-4ee0-b46c-7106a50e0467",
+      "flashcard": {
+        "id": "5ebd4f76-a0f2-4845-8c1a-e0a5f72b3376",
+        "tags": [
+          "iij06"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "294a066d-e8d4-4377-8ecb-0225bbc44a4d": {
+      "start": 4051,
+      "end": 4650,
+      "id": "294a066d-e8d4-4377-8ecb-0225bbc44a4d",
+      "fileId": "93c4dc99-5d7d-43b7-8e6d-9998f746f0ae",
+      "flashcard": {
+        "id": "294a066d-e8d4-4377-8ecb-0225bbc44a4d",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "4a3bef11-9322-4c45-8414-b69f1389f0aa": {
+      "start": 4103,
+      "end": 4388,
+      "id": "4a3bef11-9322-4c45-8414-b69f1389f0aa",
+      "fileId": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "flashcard": {
+        "id": "4a3bef11-9322-4c45-8414-b69f1389f0aa",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "965e2e00-e4d4-4f29-a4bd-0e0bc148453e": {
+      "start": 4111,
+      "end": 4479,
+      "id": "965e2e00-e4d4-4f29-a4bd-0e0bc148453e",
+      "fileId": "a674f283-db52-494e-9123-908190255369",
+      "flashcard": {
+        "id": "965e2e00-e4d4-4f29-a4bd-0e0bc148453e",
+        "tags": [
+          "iij07"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "e5a3c23d-126f-4625-b39f-ac55a5b2809b": {
+      "start": 4115,
+      "end": 4371,
+      "id": "e5a3c23d-126f-4625-b39f-ac55a5b2809b",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "e5a3c23d-126f-4625-b39f-ac55a5b2809b",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
           "back": ""
         }
       }
@@ -1158,6 +3620,70 @@
         }
       }
     },
+    "d36388c1-8dd1-4a8c-a478-9328f0f9f9f3": {
+      "start": 4146,
+      "end": 4703,
+      "id": "d36388c1-8dd1-4a8c-a478-9328f0f9f9f3",
+      "fileId": "f021988a-b438-4dbd-8dae-20f49db70e4f",
+      "flashcard": {
+        "id": "d36388c1-8dd1-4a8c-a478-9328f0f9f9f3",
+        "tags": [
+          "iij05"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "7581e4de-3e49-484f-b9bc-ecbec306a62e": {
+      "start": 4197,
+      "end": 4529,
+      "id": "7581e4de-3e49-484f-b9bc-ecbec306a62e",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "7581e4de-3e49-484f-b9bc-ecbec306a62e",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "046fd13d-bcea-42f6-ad3f-2a1fe11f1fbb": {
+      "start": 4216.6,
+      "end": 4564.6,
+      "id": "046fd13d-bcea-42f6-ad3f-2a1fe11f1fbb",
+      "fileId": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "flashcard": {
+        "id": "046fd13d-bcea-42f6-ad3f-2a1fe11f1fbb",
+        "tags": [
+          "iij09"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "2f8ad975-4bdc-460d-b5cf-426ce119f9df": {
+      "start": 4285,
+      "end": 4633,
+      "id": "2f8ad975-4bdc-460d-b5cf-426ce119f9df",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "2f8ad975-4bdc-460d-b5cf-426ce119f9df",
+        "tags": [
+          "iij04"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "c2374f00-ea3a-4f69-9175-ed8dbf6a2147": {
       "start": 4297,
       "end": 4530,
@@ -1170,6 +3696,86 @@
         ],
         "fields": {
           "front": "家を大切にしたのは、家が生活の場所だったからである。",
+          "back": ""
+        }
+      }
+    },
+    "b9829d3c-907a-4022-be35-4b410d2a0d1c": {
+      "start": 4306,
+      "end": 4632,
+      "id": "b9829d3c-907a-4022-be35-4b410d2a0d1c",
+      "fileId": "bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d",
+      "flashcard": {
+        "id": "b9829d3c-907a-4022-be35-4b410d2a0d1c",
+        "tags": [
+          "iij12"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "d8cc348a-2825-49c1-b326-a9d10984b62d": {
+      "start": 4379,
+      "end": 4767,
+      "id": "d8cc348a-2825-49c1-b326-a9d10984b62d",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "d8cc348a-2825-49c1-b326-a9d10984b62d",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "115f29cb-5a0d-4083-acf0-e545bda166eb": {
+      "start": 4419,
+      "end": 4850,
+      "id": "115f29cb-5a0d-4083-acf0-e545bda166eb",
+      "fileId": "e2b0ba37-464e-41c8-b176-759e3bac44b1",
+      "flashcard": {
+        "id": "115f29cb-5a0d-4083-acf0-e545bda166eb",
+        "tags": [
+          "iij10"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "6ba86344-e977-4878-8a51-4c1df5ccd413": {
+      "start": 4425,
+      "end": 4660,
+      "id": "6ba86344-e977-4878-8a51-4c1df5ccd413",
+      "fileId": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "flashcard": {
+        "id": "6ba86344-e977-4878-8a51-4c1df5ccd413",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "36a28c30-9c67-45c1-b73c-be47cf0a76a4": {
+      "start": 4440,
+      "end": 4825,
+      "id": "36a28c30-9c67-45c1-b73c-be47cf0a76a4",
+      "fileId": "2438c349-06f9-4ad9-b092-26406c93f6ce",
+      "flashcard": {
+        "id": "36a28c30-9c67-45c1-b73c-be47cf0a76a4",
+        "tags": [
+          "iij11"
+        ],
+        "fields": {
+          "front": "",
           "back": ""
         }
       }
@@ -1206,6 +3812,54 @@
         }
       }
     },
+    "3e7214a5-231b-4fd8-85a6-9e89580cf741": {
+      "start": 4513,
+      "end": 4946,
+      "id": "3e7214a5-231b-4fd8-85a6-9e89580cf741",
+      "fileId": "a674f283-db52-494e-9123-908190255369",
+      "flashcard": {
+        "id": "3e7214a5-231b-4fd8-85a6-9e89580cf741",
+        "tags": [
+          "iij07"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "ad2028ea-b3fb-4476-bafb-11607890e22d": {
+      "start": 4562,
+      "end": 4987,
+      "id": "ad2028ea-b3fb-4476-bafb-11607890e22d",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "ad2028ea-b3fb-4476-bafb-11607890e22d",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "16030c1c-748a-4f4f-8e20-c6439db7d7e7": {
+      "start": 4572,
+      "end": 4804,
+      "id": "16030c1c-748a-4f4f-8e20-c6439db7d7e7",
+      "fileId": "3a770551-efd0-4ee0-b46c-7106a50e0467",
+      "flashcard": {
+        "id": "16030c1c-748a-4f4f-8e20-c6439db7d7e7",
+        "tags": [
+          "iij06"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "40fe680e-f519-4ca3-884c-84eeafcc2981": {
       "start": 4575,
       "end": 4737,
@@ -1218,6 +3872,102 @@
         ],
         "fields": {
           "front": "今は住宅の利用法が変わった。",
+          "back": ""
+        }
+      }
+    },
+    "5b108bf5-fa27-417c-aad3-803bd788583b": {
+      "start": 4591.6,
+      "end": 5104,
+      "id": "5b108bf5-fa27-417c-aad3-803bd788583b",
+      "fileId": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "flashcard": {
+        "id": "5b108bf5-fa27-417c-aad3-803bd788583b",
+        "tags": [
+          "iij09"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "4afdb0dc-e831-41c8-9694-9ada9d51d59a": {
+      "start": 4645,
+      "end": 5110,
+      "id": "4afdb0dc-e831-41c8-9694-9ada9d51d59a",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "4afdb0dc-e831-41c8-9694-9ada9d51d59a",
+        "tags": [
+          "iij04"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "e2d56ce9-e584-4f82-a42a-352537a699d2": {
+      "start": 4680,
+      "end": 4971,
+      "id": "e2d56ce9-e584-4f82-a42a-352537a699d2",
+      "fileId": "93c4dc99-5d7d-43b7-8e6d-9998f746f0ae",
+      "flashcard": {
+        "id": "e2d56ce9-e584-4f82-a42a-352537a699d2",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "7ccda4fd-7d9a-4671-8c8e-1a30bd58fae3": {
+      "start": 4680,
+      "end": 5108,
+      "id": "7ccda4fd-7d9a-4671-8c8e-1a30bd58fae3",
+      "fileId": "bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d",
+      "flashcard": {
+        "id": "7ccda4fd-7d9a-4671-8c8e-1a30bd58fae3",
+        "tags": [
+          "iij12"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "437893f5-e0c4-450e-9fc8-7450fb05a632": {
+      "start": 4708,
+      "end": 4904,
+      "id": "437893f5-e0c4-450e-9fc8-7450fb05a632",
+      "fileId": "f021988a-b438-4dbd-8dae-20f49db70e4f",
+      "flashcard": {
+        "id": "437893f5-e0c4-450e-9fc8-7450fb05a632",
+        "tags": [
+          "iij05"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "47ace6c3-87fd-41ec-80a6-b16fbb4374ac": {
+      "start": 4726,
+      "end": 5155,
+      "id": "47ace6c3-87fd-41ec-80a6-b16fbb4374ac",
+      "fileId": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "flashcard": {
+        "id": "47ace6c3-87fd-41ec-80a6-b16fbb4374ac",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
           "back": ""
         }
       }
@@ -1254,6 +4004,22 @@
         }
       }
     },
+    "854c5bcb-3d77-4912-836c-af5591e5e284": {
+      "start": 4793,
+      "end": 5255,
+      "id": "854c5bcb-3d77-4912-836c-af5591e5e284",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "854c5bcb-3d77-4912-836c-af5591e5e284",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "bea710d1-472b-4faf-aa60-ec3685db945b": {
       "start": 4808,
       "end": 5295,
@@ -1266,6 +4032,198 @@
         ],
         "fields": {
           "front": "むかしのある有名な人は、子供のころ家がびんぼうで、一日中働いていたので、勉強するひまがなかった。",
+          "back": ""
+        }
+      }
+    },
+    "3fcc644f-7d59-47db-9aa7-6c4fecd49873": {
+      "start": 4817,
+      "end": 5253,
+      "id": "3fcc644f-7d59-47db-9aa7-6c4fecd49873",
+      "fileId": "3a770551-efd0-4ee0-b46c-7106a50e0467",
+      "flashcard": {
+        "id": "3fcc644f-7d59-47db-9aa7-6c4fecd49873",
+        "tags": [
+          "iij06"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "edf2b5cc-6bcd-4bad-91a2-dd6c4da46870": {
+      "start": 4851,
+      "end": 5064,
+      "id": "edf2b5cc-6bcd-4bad-91a2-dd6c4da46870",
+      "fileId": "2438c349-06f9-4ad9-b092-26406c93f6ce",
+      "flashcard": {
+        "id": "edf2b5cc-6bcd-4bad-91a2-dd6c4da46870",
+        "tags": [
+          "iij11"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "d67626c2-69d8-4dbb-be77-54a8fc622458": {
+      "start": 4869,
+      "end": 5132,
+      "id": "d67626c2-69d8-4dbb-be77-54a8fc622458",
+      "fileId": "e2b0ba37-464e-41c8-b176-759e3bac44b1",
+      "flashcard": {
+        "id": "d67626c2-69d8-4dbb-be77-54a8fc622458",
+        "tags": [
+          "iij10"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "2b497a74-1cd5-4908-97f9-29a630a06efd": {
+      "start": 4911,
+      "end": 5339,
+      "id": "2b497a74-1cd5-4908-97f9-29a630a06efd",
+      "fileId": "f021988a-b438-4dbd-8dae-20f49db70e4f",
+      "flashcard": {
+        "id": "2b497a74-1cd5-4908-97f9-29a630a06efd",
+        "tags": [
+          "iij05"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "2198528a-02e8-4a94-81e6-9ea879f87377": {
+      "start": 4953,
+      "end": 5241,
+      "id": "2198528a-02e8-4a94-81e6-9ea879f87377",
+      "fileId": "a674f283-db52-494e-9123-908190255369",
+      "flashcard": {
+        "id": "2198528a-02e8-4a94-81e6-9ea879f87377",
+        "tags": [
+          "iij07"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "5f3b16fc-8bfa-4e7c-b3e8-9b32e0a0b1e3": {
+      "start": 4994,
+      "end": 5189,
+      "id": "5f3b16fc-8bfa-4e7c-b3e8-9b32e0a0b1e3",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "5f3b16fc-8bfa-4e7c-b3e8-9b32e0a0b1e3",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "7830af54-57ac-4046-afd4-8311e6b68f48": {
+      "start": 5047,
+      "end": 5313,
+      "id": "7830af54-57ac-4046-afd4-8311e6b68f48",
+      "fileId": "93c4dc99-5d7d-43b7-8e6d-9998f746f0ae",
+      "flashcard": {
+        "id": "7830af54-57ac-4046-afd4-8311e6b68f48",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "6ef3970d-eb82-4e58-9360-0219444b133e": {
+      "start": 5089,
+      "end": 5593,
+      "id": "6ef3970d-eb82-4e58-9360-0219444b133e",
+      "fileId": "2438c349-06f9-4ad9-b092-26406c93f6ce",
+      "flashcard": {
+        "id": "6ef3970d-eb82-4e58-9360-0219444b133e",
+        "tags": [
+          "iij11"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "3bddc73e-c7d5-44bb-a962-bda2e4767814": {
+      "start": 5113.6,
+      "end": 5640.6,
+      "id": "3bddc73e-c7d5-44bb-a962-bda2e4767814",
+      "fileId": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "flashcard": {
+        "id": "3bddc73e-c7d5-44bb-a962-bda2e4767814",
+        "tags": [
+          "iij09"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "491e5c3a-a3f8-4e32-bbeb-5220dd00dc9a": {
+      "start": 5116,
+      "end": 5494,
+      "id": "491e5c3a-a3f8-4e32-bbeb-5220dd00dc9a",
+      "fileId": "bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d",
+      "flashcard": {
+        "id": "491e5c3a-a3f8-4e32-bbeb-5220dd00dc9a",
+        "tags": [
+          "iij12"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "603ff94f-c6d6-4011-b368-5600951cab62": {
+      "start": 5137,
+      "end": 5523,
+      "id": "603ff94f-c6d6-4011-b368-5600951cab62",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "603ff94f-c6d6-4011-b368-5600951cab62",
+        "tags": [
+          "iij04"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "1b992de2-c478-4db9-98c3-affeefc7cc95": {
+      "start": 5152,
+      "end": 5423.02,
+      "id": "1b992de2-c478-4db9-98c3-affeefc7cc95",
+      "fileId": "e2b0ba37-464e-41c8-b176-759e3bac44b1",
+      "flashcard": {
+        "id": "1b992de2-c478-4db9-98c3-affeefc7cc95",
+        "tags": [
+          "iij10"
+        ],
+        "fields": {
+          "front": "",
           "back": ""
         }
       }
@@ -1286,6 +4244,38 @@
         }
       }
     },
+    "310e5419-75fc-4367-be81-88648e8f9484": {
+      "start": 5204,
+      "end": 5451,
+      "id": "310e5419-75fc-4367-be81-88648e8f9484",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "310e5419-75fc-4367-be81-88648e8f9484",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "fd85a15c-162b-4537-83e4-d0597f5692d3": {
+      "start": 5223,
+      "end": 5642,
+      "id": "fd85a15c-162b-4537-83e4-d0597f5692d3",
+      "fileId": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "flashcard": {
+        "id": "fd85a15c-162b-4537-83e4-d0597f5692d3",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "2cb15b95-42c0-4bfb-bf7c-eaceb44c6d35": {
       "start": 5226,
       "end": 5483,
@@ -1295,6 +4285,54 @@
         "id": "2cb15b95-42c0-4bfb-bf7c-eaceb44c6d35",
         "tags": [
           "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "3ad03a03-7d4a-4fbe-8384-c92eeaace3e6": {
+      "start": 5254,
+      "end": 5594,
+      "id": "3ad03a03-7d4a-4fbe-8384-c92eeaace3e6",
+      "fileId": "a674f283-db52-494e-9123-908190255369",
+      "flashcard": {
+        "id": "3ad03a03-7d4a-4fbe-8384-c92eeaace3e6",
+        "tags": [
+          "iij07"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "ade9907c-dd35-4f9e-8cd9-a35b24c45ea9": {
+      "start": 5266,
+      "end": 5740,
+      "id": "ade9907c-dd35-4f9e-8cd9-a35b24c45ea9",
+      "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "flashcard": {
+        "id": "ade9907c-dd35-4f9e-8cd9-a35b24c45ea9",
+        "tags": [
+          "iij08"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "cc903c41-aa8a-47a8-a251-dbb7d13357a9": {
+      "start": 5272,
+      "end": 5820,
+      "id": "cc903c41-aa8a-47a8-a251-dbb7d13357a9",
+      "fileId": "3a770551-efd0-4ee0-b46c-7106a50e0467",
+      "flashcard": {
+        "id": "cc903c41-aa8a-47a8-a251-dbb7d13357a9",
+        "tags": [
+          "iij06"
         ],
         "fields": {
           "front": "",
@@ -1318,6 +4356,38 @@
         }
       }
     },
+    "f0d8da67-726d-4c60-b6c7-fd64a88b7195": {
+      "start": 5348,
+      "end": 5783,
+      "id": "f0d8da67-726d-4c60-b6c7-fd64a88b7195",
+      "fileId": "f021988a-b438-4dbd-8dae-20f49db70e4f",
+      "flashcard": {
+        "id": "f0d8da67-726d-4c60-b6c7-fd64a88b7195",
+        "tags": [
+          "iij05"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "e7fc1b27-a8c2-4c77-b0d2-0a4e29366f89": {
+      "start": 5369,
+      "end": 5678,
+      "id": "e7fc1b27-a8c2-4c77-b0d2-0a4e29366f89",
+      "fileId": "93c4dc99-5d7d-43b7-8e6d-9998f746f0ae",
+      "flashcard": {
+        "id": "e7fc1b27-a8c2-4c77-b0d2-0a4e29366f89",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "714e67bd-99de-496d-9f6f-7fae6937a648": {
       "start": 5384,
       "end": 5554,
@@ -1334,6 +4404,22 @@
         }
       }
     },
+    "a7e924c1-5b74-40e4-8c87-fba6de0afa58": {
+      "start": 5480,
+      "end": 5849,
+      "id": "a7e924c1-5b74-40e4-8c87-fba6de0afa58",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "a7e924c1-5b74-40e4-8c87-fba6de0afa58",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "df49690f-ec0a-4d94-ad6c-850f3813f634": {
       "start": 5491,
       "end": 6019,
@@ -1343,6 +4429,38 @@
         "id": "df49690f-ec0a-4d94-ad6c-850f3813f634",
         "tags": [
           "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "35b9bc63-3277-432a-802e-783eee814e19": {
+      "start": 5532,
+      "end": 5784,
+      "id": "35b9bc63-3277-432a-802e-783eee814e19",
+      "fileId": "bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d",
+      "flashcard": {
+        "id": "35b9bc63-3277-432a-802e-783eee814e19",
+        "tags": [
+          "iij12"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "7bb4cf93-b207-4c52-b5fd-59243eb81eb6": {
+      "start": 5555,
+      "end": 5873,
+      "id": "7bb4cf93-b207-4c52-b5fd-59243eb81eb6",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "7bb4cf93-b207-4c52-b5fd-59243eb81eb6",
+        "tags": [
+          "iij04"
         ],
         "fields": {
           "front": "",
@@ -1382,6 +4500,54 @@
         }
       }
     },
+    "b07e6178-a9c4-4f56-9a75-7bdbf323278e": {
+      "start": 5613,
+      "end": 5888,
+      "id": "b07e6178-a9c4-4f56-9a75-7bdbf323278e",
+      "fileId": "2438c349-06f9-4ad9-b092-26406c93f6ce",
+      "flashcard": {
+        "id": "b07e6178-a9c4-4f56-9a75-7bdbf323278e",
+        "tags": [
+          "iij11"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "11b1d1c1-9c1d-4903-82ad-d6e78f501d63": {
+      "start": 5698,
+      "end": 5897,
+      "id": "11b1d1c1-9c1d-4903-82ad-d6e78f501d63",
+      "fileId": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "flashcard": {
+        "id": "11b1d1c1-9c1d-4903-82ad-d6e78f501d63",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "d3089781-1366-46cd-9001-abd83be5ec1c": {
+      "start": 5759,
+      "end": 6194,
+      "id": "d3089781-1366-46cd-9001-abd83be5ec1c",
+      "fileId": "93c4dc99-5d7d-43b7-8e6d-9998f746f0ae",
+      "flashcard": {
+        "id": "d3089781-1366-46cd-9001-abd83be5ec1c",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
     "2bfa92ec-5ae1-4dba-ae3d-2123d7190b18": {
       "start": 5822,
       "end": 6044,
@@ -1394,6 +4560,54 @@
         ],
         "fields": {
           "front": "今の大都会の住宅は、何をするところであろう。",
+          "back": ""
+        }
+      }
+    },
+    "98d623c2-54d1-4f49-9932-bbac4ad010ea": {
+      "start": 5872,
+      "end": 6111,
+      "id": "98d623c2-54d1-4f49-9932-bbac4ad010ea",
+      "fileId": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "flashcard": {
+        "id": "98d623c2-54d1-4f49-9932-bbac4ad010ea",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "834963c3-873d-4e14-8823-8ef39c3ee8db": {
+      "start": 5925,
+      "end": 6107,
+      "id": "834963c3-873d-4e14-8823-8ef39c3ee8db",
+      "fileId": "2438c349-06f9-4ad9-b092-26406c93f6ce",
+      "flashcard": {
+        "id": "834963c3-873d-4e14-8823-8ef39c3ee8db",
+        "tags": [
+          "iij11"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "d4f4e6d4-5141-4532-9187-1d8eba858887": {
+      "start": 5934,
+      "end": 6463,
+      "id": "d4f4e6d4-5141-4532-9187-1d8eba858887",
+      "fileId": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "flashcard": {
+        "id": "d4f4e6d4-5141-4532-9187-1d8eba858887",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
           "back": ""
         }
       }
@@ -1414,15 +4628,207 @@
         }
       }
     },
-    "3e4fdfab-c0e4-418c-ac76-5d0ae58a734f": {
-      "start": 863,
-      "end": 1107,
-      "id": "3e4fdfab-c0e4-418c-ac76-5d0ae58a734f",
-      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+    "b32f52c9-6a82-4988-8d7a-97ea4d507a0d": {
+      "start": 6137,
+      "end": 6480,
+      "id": "b32f52c9-6a82-4988-8d7a-97ea4d507a0d",
+      "fileId": "2438c349-06f9-4ad9-b092-26406c93f6ce",
       "flashcard": {
-        "id": "3e4fdfab-c0e4-418c-ac76-5d0ae58a734f",
+        "id": "b32f52c9-6a82-4988-8d7a-97ea4d507a0d",
         "tags": [
-          "iij04"
+          "iij11"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "b2c8bc5a-b992-41fd-901b-32473a5f62f3": {
+      "start": 6247,
+      "end": 6697,
+      "id": "b2c8bc5a-b992-41fd-901b-32473a5f62f3",
+      "fileId": "93c4dc99-5d7d-43b7-8e6d-9998f746f0ae",
+      "flashcard": {
+        "id": "b2c8bc5a-b992-41fd-901b-32473a5f62f3",
+        "tags": [
+          "iij14"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "4293e611-4362-4ed8-beb6-966e6bc84df1": {
+      "start": 6541,
+      "end": 6771,
+      "id": "4293e611-4362-4ed8-beb6-966e6bc84df1",
+      "fileId": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "flashcard": {
+        "id": "4293e611-4362-4ed8-beb6-966e6bc84df1",
+        "tags": [
+          "iij15"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "f973e7e7-e20d-4269-92f3-adc99af88376": {
+      "start": 484,
+      "end": 718,
+      "id": "f973e7e7-e20d-4269-92f3-adc99af88376",
+      "fileId": "41023815-b90c-48f4-8746-c936b910d966",
+      "flashcard": {
+        "id": "f973e7e7-e20d-4269-92f3-adc99af88376",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "b437580c-bbdf-410b-9174-209636c5ecee": {
+      "start": 726,
+      "end": 1022,
+      "id": "b437580c-bbdf-410b-9174-209636c5ecee",
+      "fileId": "41023815-b90c-48f4-8746-c936b910d966",
+      "flashcard": {
+        "id": "b437580c-bbdf-410b-9174-209636c5ecee",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "8494b78d-f5d3-4df7-b8c7-4761d212d03e": {
+      "start": 1025,
+      "end": 1352,
+      "id": "8494b78d-f5d3-4df7-b8c7-4761d212d03e",
+      "fileId": "41023815-b90c-48f4-8746-c936b910d966",
+      "flashcard": {
+        "id": "8494b78d-f5d3-4df7-b8c7-4761d212d03e",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "8f0a68f9-594d-4932-8961-b3226fea083e": {
+      "start": 1356,
+      "end": 1660,
+      "id": "8f0a68f9-594d-4932-8961-b3226fea083e",
+      "fileId": "41023815-b90c-48f4-8746-c936b910d966",
+      "flashcard": {
+        "id": "8f0a68f9-594d-4932-8961-b3226fea083e",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "d62c3b92-d662-4310-83aa-b2076044ec5b": {
+      "start": 1664,
+      "end": 2003,
+      "id": "d62c3b92-d662-4310-83aa-b2076044ec5b",
+      "fileId": "41023815-b90c-48f4-8746-c936b910d966",
+      "flashcard": {
+        "id": "d62c3b92-d662-4310-83aa-b2076044ec5b",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "9a58d171-249a-4bc6-95a2-5d23ab3279c9": {
+      "start": 2010,
+      "end": 2274,
+      "id": "9a58d171-249a-4bc6-95a2-5d23ab3279c9",
+      "fileId": "41023815-b90c-48f4-8746-c936b910d966",
+      "flashcard": {
+        "id": "9a58d171-249a-4bc6-95a2-5d23ab3279c9",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "276a3c9d-30f1-43c5-99f2-2bdbb48af347": {
+      "start": 2288,
+      "end": 2717,
+      "id": "276a3c9d-30f1-43c5-99f2-2bdbb48af347",
+      "fileId": "41023815-b90c-48f4-8746-c936b910d966",
+      "flashcard": {
+        "id": "276a3c9d-30f1-43c5-99f2-2bdbb48af347",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "2158bd69-4dc3-4ff7-ba48-901c6d4b745d": {
+      "start": 2723,
+      "end": 3279,
+      "id": "2158bd69-4dc3-4ff7-ba48-901c6d4b745d",
+      "fileId": "41023815-b90c-48f4-8746-c936b910d966",
+      "flashcard": {
+        "id": "2158bd69-4dc3-4ff7-ba48-901c6d4b745d",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "5e4d4428-a4be-4183-bafa-06fb9b57e900": {
+      "start": 3284,
+      "end": 3564,
+      "id": "5e4d4428-a4be-4183-bafa-06fb9b57e900",
+      "fileId": "41023815-b90c-48f4-8746-c936b910d966",
+      "flashcard": {
+        "id": "5e4d4428-a4be-4183-bafa-06fb9b57e900",
+        "tags": [
+          "iij13"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "dea5c056-4539-4954-aa22-a4c8407c0de3": {
+      "start": 3568,
+      "end": 3725,
+      "id": "dea5c056-4539-4954-aa22-a4c8407c0de3",
+      "fileId": "41023815-b90c-48f4-8746-c936b910d966",
+      "flashcard": {
+        "id": "dea5c056-4539-4954-aa22-a4c8407c0de3",
+        "tags": [
+          "iij13"
         ],
         "fields": {
           "front": "",

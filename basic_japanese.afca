@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2019-04-19T15:34:59Z",
+  "timestamp": "2019-04-20T13:06:05Z",
   "name": "Basic Japanese",
   "id": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
   "noteType": {
@@ -100,8 +100,8 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "back": "Jon-san Nihón-e",
+          "717524da-c2af-4196-b850-a6ab9a646798": "John goes to Japan.",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
@@ -208,8 +208,8 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "back": "Ichi: kore-wa dáre-no hón?",
+          "717524da-c2af-4196-b850-a6ab9a646798": "One: whose is this book?",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
@@ -317,8 +317,8 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "back": "Íma, Jón-san-wa hikóuki-no náka-desu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Right now, John is in a plane. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
@@ -425,9 +425,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "back": "Jón-san-wa, kotoshi-no shi-gatsú-kara Nihón-no gakkou-de benkyou shimasu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "John will be studying Japanese starting this April. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "kotoshi = this year\n\nshimásu = suru (irregular)\n\nbenkyou = studies\nbenkyou suru = to study"
         }
       }
     },
@@ -587,9 +587,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "back": "Jón-san-wa kaban-kara manga-no hón-o dashimáshita.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "John took out a comic book from [his] bag. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "dashimásu = dásu"
         }
       }
     },
@@ -750,8 +750,8 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "back": "Tonari-no onnanohitó-no kaban-kara manga-no hón-o dashimáshita.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "The woman [sitting] next [to him] takes out a comic book from [her] bag. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
@@ -948,8 +948,8 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "back": "Jón-san-to onnanohitó-wa iimashita.\n\n\"A, onaji hón!\"",
+          "717524da-c2af-4196-b850-a6ab9a646798": "John and the woman said (polite), \"Oh, the same book!\"",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
@@ -1164,9 +1164,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "back": "Jón-san-ga iimáshita. \"Kore, omoshirói-desu ne.\"\n\n\"Ée, omoshirói-desu ne. Watashi-mo dáisuki-desu.\"",
+          "717524da-c2af-4196-b850-a6ab9a646798": "John said, \"This is funny, isn't it?\" (polite)\n\n\"Yes, it is, isn't it? [It]'s one my favorites, too.\" (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "To say you like/love something, you say it's \"sukí\" to you. \"Dáisuki\" is more intense.\n\nSukí-da = [I] like [it].\nDáisuki-da. [I] really like [it].\n\nCareful, since \"I love you\" is often translated as  \"sukí-da\"!"
         }
       }
     },
@@ -1424,7 +1424,7 @@
     },
     "edc376bf-aca0-4eff-9ae5-2ae7e0819c05": {
       "start": 3727,
-      "end": 4300,
+      "end": 3977,
       "id": "edc376bf-aca0-4eff-9ae5-2ae7e0819c05",
       "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
       "flashcard": {
@@ -1434,9 +1434,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "back": "Onnanohitó-ga kikimashita. \"Shigoto-désu ka?\"",
+          "717524da-c2af-4196-b850-a6ab9a646798": "The woman asked, \"Is [it for your] work?\" (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "kikimáshita = kiita\nkikimásu = kiku"
         }
       }
     },
@@ -1667,8 +1667,8 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "back": "Toukyou-désu ka? Watsahi-no ié-mo Toukyou-désu yo.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Tokyo? My home is Tokyo, too. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
@@ -1793,8 +1793,8 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "back": "Dáreka-ga iimáshita.  \"A, Fúji-san-da.\"\n\n\"Wa, kírei.\"",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Someone said (polite), \"Oh, Mt. Fuji!\"\n\n\"Whoa, it's beautiful!\"",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
@@ -1919,9 +1919,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "back": "Onnanohitó-wa mádo-kara sóto-o mimáshita. Soshite, Jon-san-ni iimáshita.\n\n\"Fúji-san-desu-yo. Kochira-no séki-e dóuzo.\"\n\n\"Arígatou gozaimásu.\"",
+          "717524da-c2af-4196-b850-a6ab9a646798": "The woman looked outside from [her] window. Then, she said to John: (polite)\n\n\"It's Mt. Fuji. Please, take this seat.\" (polite)\n\n\"Thank you very much.\" (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "kochira-no = kono"
         }
       }
     },
@@ -2189,8 +2189,8 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "back": "Jón-san-wa mádo-kara sóto-o mimáshita.\n\n\"Wa, kírei-desu ne.\"",
+          "717524da-c2af-4196-b850-a6ab9a646798": "John looked out from his window.\n\n\"Wow, it's beautiful, isn't it?\"",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
@@ -2369,9 +2369,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "back": "Hikóuki-wa Nihón-ni tsukimáshita.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "The plane arrived to Japan.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "tsukimásu = tsúku"
         }
       }
     },
@@ -2423,8 +2423,8 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "back": "Futarí-wa manga-no hón-o kaban-ni iremáshita.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "The two [of them] put [their] comic books in [their] bags.",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
@@ -2549,9 +2549,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "back": "Soshite, hikóuki-o orimáshita.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Then, [they] got off the plane.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "orimásu = oríru"
         }
       }
     },
@@ -2621,9 +2621,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "back": "Sayounara.\n\nSayounara.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Goodbye. (polite)\n\nGoodbye. (polite)",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Sayounara\" is formal, kind of like \"farewell.\""
         }
       }
     },
@@ -2729,7 +2729,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Onnanohitó-wa densha-de ié-ni kaerimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -2837,7 +2837,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Densha-no náka-de kaban-kara manga-no hón-o dashimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -2963,8 +2963,8 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "back": "Are? Tegami? A, kore, ano hitó-no. Kore-wa ano hitó-no manga-da!",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Huh? A letter? Oh, this is his! This is his comic!",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
@@ -3107,9 +3107,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "back": "Jón-san-wa denwa-no tokoró-ni ikimáshita.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "John went to the phone place.",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "ikimásu = iku"
         }
       }
     },
@@ -3197,8 +3197,8 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "back": "Soshite, kaban-kara manga-no hón-o dashimáshita.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Then, he took the comic book out from his bag.",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
@@ -3251,8 +3251,8 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "back": "Are? Tegami-ga nái!",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Huh? There's no letter!",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
@@ -3341,8 +3341,8 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
-          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "back": "Ni: kyóu-wa nán-gatsu nán-nichi nan-yóubi?",
+          "717524da-c2af-4196-b850-a6ab9a646798": "Two: What's the date and day of the week today?",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }
@@ -3465,7 +3465,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Kyóu-wa juu-gatsú juu-ichi-nichí mokuyóubi désu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -3537,7 +3537,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Jón-san-wa Yúki-san kabuki-o mimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -3608,9 +3608,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Futarí-wa rok-ka-getsu-máe hikóuki-no náka-de aimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "aimásu = au"
         }
       }
     },
@@ -3679,7 +3679,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Jón-san-wa Ginza-éki-de Yúki-san-to aimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -3751,9 +3751,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Futarí-wa kabukiza-ni tsukimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "tsukimásu = tsuki"
         }
       }
     },
@@ -3805,9 +3805,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Jón-san-wa iriguchi-de chikétto-o ní-mai dashimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "\"Mai\" count flat things.\nichí-mai = one sheet\nní-mai = two sheets"
         }
       }
     },
@@ -3858,7 +3858,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Yúki-san-ga kikimáshita. \"Watashítachi-no séki-wa dóko-desu ka.\"",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -3930,7 +3930,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Jón-san-ga iimáshita. \"Kyuu-no júu-go juu-rokú.\"",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -3966,9 +3966,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "\"A, koko-désu yo.\"\n\nFutarí-wa séki-ni suwarimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "suwarimásu = suwaru"
         }
       }
     },
@@ -4056,9 +4056,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Kabuki-wa yó-ji-kara-desu.\n\nJón-san-ga iimáshita. \"Íma máda san-ji-hán-desu kara, koohíi-o nomimashóu ka.\" ",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "nomimásu = nómu"
         }
       }
     },
@@ -4164,7 +4164,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Futarí-wa róbii-de koohíi-o nomimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -4235,7 +4235,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Yóji go-fun-máe-desu. Yúki-san, séki-ni ikimashóu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -4270,7 +4270,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "\"Kyúu-no júu-go juu-rokú. Are?\"\n\nFutarí-no séki-ni o-jíi-san-to o-báa-san-ga imásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -4358,7 +4358,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Jón-san-wa o-jíi-san-ni iimáshita. \"Ano, koko-wa kyúu-no júu-go juu-rokú-desu ne.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -4447,7 +4447,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Watashítachi-no séki-desu kedo.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -4500,7 +4500,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "O-jíi-san-wa iimashita. \"Kyúu-no júu-go juu-rokú-wa, watashítachi-no séki-desu yo.\"",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -4535,7 +4535,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Jón-san-wa chikétto-o mimáshita. Soshite iimáshita. \"Eh? Watashítachi-mo kyúu-no júu-go juu-rokú-desu.\"",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -4661,9 +4661,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Kabukiza-no hitó-ga kimáshita. Sono hitó-wa yo-nín-no chikétto-o mimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "kimáshita = kíta (irregular)\nkimásu = kúru (irregular)\n\nmimáshita = míta\nmimásu = míru"
         }
       }
     },
@@ -4697,7 +4697,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Kyúu-no júu-go juu-rokú. Onaji-désu ne.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -4787,7 +4787,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Kabukiza-no hitó-wa matá chikétto-o mimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -4841,7 +4841,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Kabukiza-no hitó-wa sukóshi waraimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -4895,7 +4895,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Soshite Jón-san-ni kikimáshita. \"Kyóu-wa nán-gatsu nán-nichi nan-yóubi-desu ka?\"",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -4949,7 +4949,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "\"Juu-gatsú juu-ichi-nichí mokuyóubi-desu.\"\n\n\"Sóu-desu ne. Kono chikétto-wa?\"\n\n\"Juu-gatsú juu-shichi-nichi suiyóubi-desu.\"",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -5039,7 +5039,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "A, gomen nasai!",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -5057,9 +5057,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Yúki-san-wa chíisa-na kóe-de waraimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "waraimásu = warau\n\n\"Chiisái\" and \"ookíi\" are exceptional among i-adjectives because they can turn into \"chíisa-na\" and \"ooki-na\" in front of a noun."
         }
       }
     },
@@ -5147,9 +5147,9 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Kabuki-ga hajimarimásu.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
-          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": "hajimarimásu = hajimaru"
         }
       }
     },
@@ -5165,7 +5165,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Jón-san-to Yúki-san-wa kabukiza-o demáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -5219,7 +5219,7 @@
         ],
         "fields": {
           "front": "",
-          "back": "",
+          "back": "Futarí-wa kabukiza-no máe-de ooki-na kóe-de waraimáshita.",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
@@ -6227,6 +6227,38 @@
           "front": "",
           "back": "",
           "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "20457707-928e-4827-a760-9b0904abe8a0": {
+      "start": 10478,
+      "end": 10567,
+      "id": "20457707-928e-4827-a760-9b0904abe8a0",
+      "fileId": "7060cc64-72c1-419d-bc2c-996a4a519dbf",
+      "flashcard": {
+        "id": "20457707-928e-4827-a760-9b0904abe8a0",
+        "tags": [],
+        "fields": {
+          "front": "",
+          "back": "",
+          "717524da-c2af-4196-b850-a6ab9a646798": "",
+          "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
+        }
+      }
+    },
+    "b63e3bce-6bb2-4bd4-9433-5172ee5da25e": {
+      "start": 4026,
+      "end": 4302,
+      "id": "b63e3bce-6bb2-4bd4-9433-5172ee5da25e",
+      "fileId": "052e4cc5-3f48-4230-be5e-cd093c64e0e0",
+      "flashcard": {
+        "id": "b63e3bce-6bb2-4bd4-9433-5172ee5da25e",
+        "tags": [],
+        "fields": {
+          "front": "",
+          "back": "Iie. Shi-gatsú-kara Toukyou-de nihongo-o benkyou shimásu.",
+          "717524da-c2af-4196-b850-a6ab9a646798": "No, I'll be studying Japanese from April. (polite)",
           "4bb9ac55-5d96-4561-b6b2-c9827c277d16": ""
         }
       }

@@ -1,0 +1,1434 @@
+{
+  "version": "2.0.0",
+  "timestamp": "2019-04-20T16:31:34Z",
+  "name": "Intermediate Japanese",
+  "id": "d7bf05ca-fa1b-4255-a420-47e56a70d3ea",
+  "noteType": {
+    "id": "ee4d68b0-e72e-4697-b584-7fcb9140a6c6",
+    "name": "default",
+    "fields": [
+      {
+        "id": "front",
+        "name": "Front"
+      },
+      {
+        "id": "back",
+        "name": "Back"
+      }
+    ],
+    "useTagsField": true
+  },
+  "mediaFilesMetadata": [
+    {
+      "id": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "name": "01 - Lesson 1 - Main Text.mp3",
+      "durationSeconds": 129.541224,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "2219a749-424d-42a5-92d9-2a75d54085ac",
+      "name": "02 - Lesson 1 - KaiwaBun 1.mp3",
+      "durationSeconds": 56.737959,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "73a92b23-b0f5-41ed-bfa4-ec42a1bc589a",
+      "name": "03 - Lesson 1 - KaiwaBun 2.mp3",
+      "durationSeconds": 54.857143,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "name": "08 - Lesson 2 - Main Text.mp3",
+      "durationSeconds": 120.52898,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "57475dfe-772b-4c7d-9a73-05d4c90aca53",
+      "name": "09 - Lesson 2 - KaiwaBun 1.mp3",
+      "durationSeconds": 90.618776,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "75349e22-351c-4cc9-b014-40188d9e13ed",
+      "name": "10 - Lesson 2 - KaiwaBun 2.mp3",
+      "durationSeconds": 83.722449,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "9b3fc3ac-aeec-46ea-8ec7-b55c39add913",
+      "name": "15 - Lesson 3 - Main Text.mp3",
+      "durationSeconds": 120.920816,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "1bbbd4e5-bc33-4fa3-b6f5-d099bb36b30a",
+      "name": "16 - Lesson 3 - KaiwaBun 1.mp3",
+      "durationSeconds": 86.778776,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "name": "17 - Lesson 3 - KaiwaBun 2.mp3",
+      "durationSeconds": 73.351837,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "name": "01 - Lesson 4 - Main Text.mp3",
+      "durationSeconds": 117.65551,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "e9f8fec0-018c-4188-bcc8-d653db2a171c",
+      "name": "02 - Lesson 4 - KaiwaBun 1.mp3",
+      "durationSeconds": 63.085714,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "6ff577d4-1228-4956-895e-7fbe529d2b5d",
+      "name": "03 - Lesson 4 - KaiwaBun 2.mp3",
+      "durationSeconds": 70.661224,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "f021988a-b438-4dbd-8dae-20f49db70e4f",
+      "name": "08 - Lesson 5 - Main Text.mp3",
+      "durationSeconds": 116.68898,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "31260426-17f0-4573-b8a6-735ecaae3054",
+      "name": "09 - Lesson 5 - KaiwaBun 1.mp3",
+      "durationSeconds": 67.317551,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "a7f2f866-c933-40a6-94d8-d1a80dc0818c",
+      "name": "10 - Lesson 5 - KaiwaBun 2.mp3",
+      "durationSeconds": 71.836735,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "3a770551-efd0-4ee0-b46c-7106a50e0467",
+      "name": "14 - Lesson 6 - Main Text.mp3",
+      "durationSeconds": 117.185306,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "d4eef236-a092-48c6-98b9-21d280478790",
+      "name": "15 - Lesson 6 - KaiwaBun 1.mp3",
+      "durationSeconds": 83.748571,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "c51f1d2e-f0bb-46a6-990a-6ccef65f3d32",
+      "name": "16 - Lesson 6 - KaiwaBun 2.mp3",
+      "durationSeconds": 78.210612,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "a674f283-db52-494e-9123-908190255369",
+      "name": "20 - Lesson 7 - Main Text.mp3",
+      "durationSeconds": 112.091429,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "906ea9f0-4221-4062-ae37-e9699a1a2bdd",
+      "name": "21 - Lesson 7 - KaiwaBun 1.mp3",
+      "durationSeconds": 73.16898,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "e091a88a-100e-4f47-85f9-d08c35e00c54",
+      "name": "22 - Lesson 7 - KaiwaBun 2.mp3",
+      "durationSeconds": 73.952653,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
+      "name": "01 - Lesson 8 - Main Text.mp3",
+      "durationSeconds": 115.147755,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "5914bb62-aea9-46c3-bce7-5051b7dec2cf",
+      "name": "02 - Lesson 8 - KaiwaBun 1.mp3",
+      "durationSeconds": 76.329796,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "d3150029-dfe6-42ab-846b-4b0fa89b1da2",
+      "name": "03 - Lesson 8 - KaiwaBun 2.mp3",
+      "durationSeconds": 70.661224,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "7b500308-c3d3-4516-a2b8-7c4a7a068384",
+      "name": "07 - Lesson 9 - Main Text.mp3",
+      "durationSeconds": 113.554286,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "25728061-f628-45e3-8426-f7ab54e5683a",
+      "name": "08 - Lesson 9 - KaiwaBun 1.mp3",
+      "durationSeconds": 71.262041,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "f4afc8c0-bac3-4ce6-a47a-25f2b01b40a8",
+      "name": "09 - Lesson 9 - KaiwaBun 2.mp3",
+      "durationSeconds": 73.06449,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "e2b0ba37-464e-41c8-b176-759e3bac44b1",
+      "name": "13 - Lesson 10 - Main Text.mp3",
+      "durationSeconds": 108.460408,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "6e2cfdfc-f7fa-424d-8e96-7f9a814c694e",
+      "name": "14 - Lesson 10 - KaiwaBun 1.mp3",
+      "durationSeconds": 72.306939,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "7c0b549c-19f9-42d2-8207-600731a86e3b",
+      "name": "15 - Lesson 10 - KaiwaBun 2.mp3",
+      "durationSeconds": 66.977959,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "2438c349-06f9-4ad9-b092-26406c93f6ce",
+      "name": "19 - Lesson 11 - Main Text.mp3",
+      "durationSeconds": 129.985306,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "09b769bf-9c2b-4187-b638-6eb0f5e9b5a5",
+      "name": "20 - Lesson 11 - KaiwaBun 1.mp3",
+      "durationSeconds": 82.808163,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "90e3947a-1a19-4095-903a-7a7f6e4c0b2f",
+      "name": "21 - Lesson 11 - KaiwaBun 2.mp3",
+      "durationSeconds": 72.829388,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d",
+      "name": "01 - Lesson 12 - Main Text.mp3",
+      "durationSeconds": 116.453878,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "37a03e10-ef66-4967-aeb0-c5844dd350cf",
+      "name": "02 - Lesson 12 - KaiwaBun 1.mp3",
+      "durationSeconds": 84.715102,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "7194021e-76de-4d73-be0a-a8a4ddec3be2",
+      "name": "03 - Lesson 12 - KaiwaBun 2.mp3",
+      "durationSeconds": 62.82449,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "38bbdaf4-d6b8-40b0-88fd-909d9e2acb04",
+      "name": "07 - Lesson 13 - Main Text.mp3",
+      "durationSeconds": 122.697143,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "41023815-b90c-48f4-8746-c936b910d966",
+      "name": "08 - Lesson 13 - KaiwaBun 1.mp3",
+      "durationSeconds": 74.971429,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "5fb3e4fb-34d6-4cb2-abb5-a60326680749",
+      "name": "09 - Lesson 13 - KaiwaBun 2.mp3",
+      "durationSeconds": 71.444898,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "93c4dc99-5d7d-43b7-8e6d-9998f746f0ae",
+      "name": "13 - Lesson 14 - Main Text.mp3",
+      "durationSeconds": 134.739592,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "e1197a41-777a-46db-9a22-a2055f3150dc",
+      "name": "14 - Lesson 14 - KaiwaBun 1.mp3",
+      "durationSeconds": 77.087347,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "2554f050-9bdc-4e7d-8d0f-13ee75d6fadc",
+      "name": "15 - Lesson 14 - KaiwaBun 2.mp3",
+      "durationSeconds": 70.269388,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "c5cbece6-de91-443b-bec6-a8dc619b9ccb",
+      "name": "19 - Lesson 15 - Main Text.mp3",
+      "durationSeconds": 135.57551,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "ec532673-e145-4b29-89d8-de3c1a6af4ef",
+      "name": "20 - Lesson 15 - KaiwaBun 1.mp3",
+      "durationSeconds": 74.527347,
+      "format": "mp3",
+      "isVideo": false
+    },
+    {
+      "id": "a7648515-0cca-4448-810c-6278e000be63",
+      "name": "21 - Lesson 15 - KaiwaBun 2.mp3",
+      "durationSeconds": 71.68,
+      "format": "mp3",
+      "isVideo": false
+    }
+  ],
+  "tags": [
+    "iij01",
+    "iij03",
+    "iij02",
+    "iij04"
+  ],
+  "clips": {
+    "a1d888b1-71cf-4dd4-82ce-69eab32275b9": {
+      "start": 272,
+      "end": 752,
+      "id": "a1d888b1-71cf-4dd4-82ce-69eab32275b9",
+      "fileId": "73a92b23-b0f5-41ed-bfa4-ec42a1bc589a",
+      "flashcard": {
+        "id": "a1d888b1-71cf-4dd4-82ce-69eab32275b9",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "2a79c166-cae6-4dd7-9302-c57100c1071c": {
+      "start": 293,
+      "end": 646,
+      "id": "2a79c166-cae6-4dd7-9302-c57100c1071c",
+      "fileId": "9b3fc3ac-aeec-46ea-8ec7-b55c39add913",
+      "flashcard": {
+        "id": "2a79c166-cae6-4dd7-9302-c57100c1071c",
+        "tags": [
+          "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "cf4aacab-af53-4caa-a5e9-14881f5ae69f": {
+      "start": 311,
+      "end": 600,
+      "id": "cf4aacab-af53-4caa-a5e9-14881f5ae69f",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "cf4aacab-af53-4caa-a5e9-14881f5ae69f",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "人間の手はいろいろなことをするが、足のほうはあまり働かない。",
+          "back": ""
+        }
+      }
+    },
+    "e2726df2-5370-488f-894e-cfbd8232d0ba": {
+      "start": 401,
+      "end": 1201,
+      "id": "e2726df2-5370-488f-894e-cfbd8232d0ba",
+      "fileId": "2219a749-424d-42a5-92d9-2a75d54085ac",
+      "flashcard": {
+        "id": "e2726df2-5370-488f-894e-cfbd8232d0ba",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "a8a9cd8d-1e74-404e-9750-e2f5bc9888f9": {
+      "start": 549,
+      "end": 1260,
+      "id": "a8a9cd8d-1e74-404e-9750-e2f5bc9888f9",
+      "fileId": "1bbbd4e5-bc33-4fa3-b6f5-d099bb36b30a",
+      "flashcard": {
+        "id": "a8a9cd8d-1e74-404e-9750-e2f5bc9888f9",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "048709d9-490c-4758-bd08-4bd4e0abb26f": {
+      "start": 332,
+      "end": 829,
+      "id": "048709d9-490c-4758-bd08-4bd4e0abb26f",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "048709d9-490c-4758-bd08-4bd4e0abb26f",
+        "tags": [
+          "iij04"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "cdb0f1aa-ba95-4dbc-8528-049ef264ad58": {
+      "start": 622,
+      "end": 831,
+      "id": "cdb0f1aa-ba95-4dbc-8528-049ef264ad58",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "cdb0f1aa-ba95-4dbc-8528-049ef264ad58",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "歩くことと走ること走ることのほかは大した仕事をしない。",
+          "back": ""
+        }
+      }
+    },
+    "617e425d-1e2a-46a9-b49f-463a7feb78c5": {
+      "start": 663,
+      "end": 1096,
+      "id": "617e425d-1e2a-46a9-b49f-463a7feb78c5",
+      "fileId": "9b3fc3ac-aeec-46ea-8ec7-b55c39add913",
+      "flashcard": {
+        "id": "617e425d-1e2a-46a9-b49f-463a7feb78c5",
+        "tags": [
+          "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "601edd9a-927a-47eb-bd04-c80def2b6381": {
+      "start": 754,
+      "end": 1255,
+      "id": "601edd9a-927a-47eb-bd04-c80def2b6381",
+      "fileId": "73a92b23-b0f5-41ed-bfa4-ec42a1bc589a",
+      "flashcard": {
+        "id": "601edd9a-927a-47eb-bd04-c80def2b6381",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": ",",
+          "back": ""
+        }
+      }
+    },
+    "09016a75-793a-433f-8136-197b9b4d2f72": {
+      "start": 759,
+      "end": 959,
+      "id": "09016a75-793a-433f-8136-197b9b4d2f72",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "09016a75-793a-433f-8136-197b9b4d2f72",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "最近、ホテルで正月をすごす人が増えたそうである。",
+          "back": ""
+        }
+      }
+    },
+    "c4e213ba-920f-4b99-9c46-ac20883e0288": {
+      "start": 859,
+      "end": 1129,
+      "id": "c4e213ba-920f-4b99-9c46-ac20883e0288",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "c4e213ba-920f-4b99-9c46-ac20883e0288",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "特に足のうらは何も重要な働きはしていないように見える。",
+          "back": ""
+        }
+      }
+    },
+    "60651b29-af30-41eb-b50d-2e8d085cf6b9": {
+      "start": 1002,
+      "end": 1211,
+      "id": "60651b29-af30-41eb-b50d-2e8d085cf6b9",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "60651b29-af30-41eb-b50d-2e8d085cf6b9",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "年末に家をしめて、家族全員でホテルにうつる。",
+          "back": ""
+        }
+      }
+    },
+    "bc802300-72be-447e-a778-09add27c5ce6": {
+      "start": 1122,
+      "end": 1443,
+      "id": "bc802300-72be-447e-a778-09add27c5ce6",
+      "fileId": "9b3fc3ac-aeec-46ea-8ec7-b55c39add913",
+      "flashcard": {
+        "id": "bc802300-72be-447e-a778-09add27c5ce6",
+        "tags": [
+          "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "108e31d1-fae5-4955-a906-e0b194e1f337": {
+      "start": 1156,
+      "end": 1485,
+      "id": "108e31d1-fae5-4955-a906-e0b194e1f337",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "108e31d1-fae5-4955-a906-e0b194e1f337",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "ところが、足のうらの働きについて実験した結果、面白いことがわかったそうだ。",
+          "back": ""
+        }
+      }
+    },
+    "e7ce4548-c744-4700-b2c5-5e8c73306ae5": {
+      "start": 1207,
+      "end": 1735,
+      "id": "e7ce4548-c744-4700-b2c5-5e8c73306ae5",
+      "fileId": "2219a749-424d-42a5-92d9-2a75d54085ac",
+      "flashcard": {
+        "id": "e7ce4548-c744-4700-b2c5-5e8c73306ae5",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "7f12ddfb-f63e-4aab-bea5-552b1250a229": {
+      "start": 1261,
+      "end": 1840,
+      "id": "7f12ddfb-f63e-4aab-bea5-552b1250a229",
+      "fileId": "73a92b23-b0f5-41ed-bfa4-ec42a1bc589a",
+      "flashcard": {
+        "id": "7f12ddfb-f63e-4aab-bea5-552b1250a229",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "3aa7541a-f3b3-4827-bcb9-2e7e6cc7c31e": {
+      "start": 1262,
+      "end": 1519,
+      "id": "3aa7541a-f3b3-4827-bcb9-2e7e6cc7c31e",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "3aa7541a-f3b3-4827-bcb9-2e7e6cc7c31e",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "ホテルでは正月特別の飾りをつけ、正月の料理を出す。",
+          "back": ""
+        }
+      }
+    },
+    "0ccae161-5078-42e5-914c-ac95059a7e91": {
+      "start": 1285,
+      "end": 1652,
+      "id": "0ccae161-5078-42e5-914c-ac95059a7e91",
+      "fileId": "1bbbd4e5-bc33-4fa3-b6f5-d099bb36b30a",
+      "flashcard": {
+        "id": "0ccae161-5078-42e5-914c-ac95059a7e91",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "366e8d12-2c0d-4d96-8730-4031cb4ecd8c": {
+      "start": 1481,
+      "end": 1932,
+      "id": "366e8d12-2c0d-4d96-8730-4031cb4ecd8c",
+      "fileId": "9b3fc3ac-aeec-46ea-8ec7-b55c39add913",
+      "flashcard": {
+        "id": "366e8d12-2c0d-4d96-8730-4031cb4ecd8c",
+        "tags": [
+          "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "a22d94ee-8959-4248-807b-5e9f497624ba": {
+      "start": 1540,
+      "end": 1733,
+      "id": "a22d94ee-8959-4248-807b-5e9f497624ba",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "a22d94ee-8959-4248-807b-5e9f497624ba",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "十二人の若い男女を二つの組にわける。",
+          "back": ""
+        }
+      }
+    },
+    "89442181-5ee1-4dcd-822d-ddcb236dce6f": {
+      "start": 1545,
+      "end": 1664,
+      "id": "89442181-5ee1-4dcd-822d-ddcb236dce6f",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "89442181-5ee1-4dcd-822d-ddcb236dce6f",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "主婦も家事をする必要がない。",
+          "back": ""
+        }
+      }
+    },
+    "e6b4c287-907e-4e58-8e9f-4efcb15625a8": {
+      "start": 1704,
+      "end": 1809,
+      "id": "e6b4c287-907e-4e58-8e9f-4efcb15625a8",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "e6b4c287-907e-4e58-8e9f-4efcb15625a8",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "家族そろってゆっくりすごす。",
+          "back": ""
+        }
+      }
+    },
+    "15d5f663-c687-4ffc-af16-5c95d92c5959": {
+      "start": 1741,
+      "end": 2104,
+      "id": "15d5f663-c687-4ffc-af16-5c95d92c5959",
+      "fileId": "2219a749-424d-42a5-92d9-2a75d54085ac",
+      "flashcard": {
+        "id": "15d5f663-c687-4ffc-af16-5c95d92c5959",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "afa843b9-a206-4b70-b9cf-a151a470afaa": {
+      "start": 1760,
+      "end": 2069,
+      "id": "afa843b9-a206-4b70-b9cf-a151a470afaa",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "afa843b9-a206-4b70-b9cf-a151a470afaa",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "一定の時間、いっぽう組の人たちは、はだしになって竹をふみ続ける。",
+          "back": ""
+        }
+      }
+    },
+    "b439bfc0-82a3-4f24-b28a-0eea72962c1b": {
+      "start": 1778,
+      "end": 2917,
+      "id": "b439bfc0-82a3-4f24-b28a-0eea72962c1b",
+      "fileId": "1bbbd4e5-bc33-4fa3-b6f5-d099bb36b30a",
+      "flashcard": {
+        "id": "b439bfc0-82a3-4f24-b28a-0eea72962c1b",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "ae56eb7b-e84f-4d4a-99aa-ac015b6a4c83": {
+      "start": 1845.3999999999999,
+      "end": 1943,
+      "id": "ae56eb7b-e84f-4d4a-99aa-ac015b6a4c83",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "ae56eb7b-e84f-4d4a-99aa-ac015b6a4c83",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "その理由はいくつかある。",
+          "back": ""
+        }
+      }
+    },
+    "4e98ffc6-3668-4a7f-8b6a-1580878a6dc7": {
+      "start": 1849,
+      "end": 2327,
+      "id": "4e98ffc6-3668-4a7f-8b6a-1580878a6dc7",
+      "fileId": "73a92b23-b0f5-41ed-bfa4-ec42a1bc589a",
+      "flashcard": {
+        "id": "4e98ffc6-3668-4a7f-8b6a-1580878a6dc7",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "5587c571-b30f-4285-8764-7f3d11d35351": {
+      "start": 1975,
+      "end": 2199,
+      "id": "5587c571-b30f-4285-8764-7f3d11d35351",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "5587c571-b30f-4285-8764-7f3d11d35351",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "主人も主婦も忙しくて、正月の準備ができない場合もある。",
+          "back": ""
+        }
+      }
+    },
+    "852bf3d7-bdcd-452d-8ec3-7e2e8fa2f7fd": {
+      "start": 1993,
+      "end": 2236,
+      "id": "852bf3d7-bdcd-452d-8ec3-7e2e8fa2f7fd",
+      "fileId": "9b3fc3ac-aeec-46ea-8ec7-b55c39add913",
+      "flashcard": {
+        "id": "852bf3d7-bdcd-452d-8ec3-7e2e8fa2f7fd",
+        "tags": [
+          "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "fac39827-01e9-4ad8-b0ca-59924f624206": {
+      "start": 2086,
+      "end": 2355,
+      "id": "fac39827-01e9-4ad8-b0ca-59924f624206",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "fac39827-01e9-4ad8-b0ca-59924f624206",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "もういっぽうの組は、高いいすにこしかけて、何もしないでいる",
+          "back": ""
+        }
+      }
+    },
+    "7851a76a-6a5b-49f2-bf18-be768900cdcc": {
+      "start": 2111,
+      "end": 2786,
+      "id": "7851a76a-6a5b-49f2-bf18-be768900cdcc",
+      "fileId": "2219a749-424d-42a5-92d9-2a75d54085ac",
+      "flashcard": {
+        "id": "7851a76a-6a5b-49f2-bf18-be768900cdcc",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "27f0840e-5eb9-4876-878b-801e0c04cc19": {
+      "start": 2238,
+      "end": 2403,
+      "id": "27f0840e-5eb9-4876-878b-801e0c04cc19",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "27f0840e-5eb9-4876-878b-801e0c04cc19",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "正月の伝統的な行事が嫌いな人もある。",
+          "back": ""
+        }
+      }
+    },
+    "a36bb160-1591-47b3-b571-eb5fcc22c080": {
+      "start": 2255,
+      "end": 2601,
+      "id": "a36bb160-1591-47b3-b571-eb5fcc22c080",
+      "fileId": "9b3fc3ac-aeec-46ea-8ec7-b55c39add913",
+      "flashcard": {
+        "id": "a36bb160-1591-47b3-b571-eb5fcc22c080",
+        "tags": [
+          "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "e09eef36-43aa-428e-82b2-048367c66011": {
+      "start": 2333,
+      "end": 2736,
+      "id": "e09eef36-43aa-428e-82b2-048367c66011",
+      "fileId": "73a92b23-b0f5-41ed-bfa4-ec42a1bc589a",
+      "flashcard": {
+        "id": "e09eef36-43aa-428e-82b2-048367c66011",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "feecb4b5-2987-43b3-94c5-103cd32cffce": {
+      "start": 2395,
+      "end": 2732,
+      "id": "feecb4b5-2987-43b3-94c5-103cd32cffce",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "feecb4b5-2987-43b3-94c5-103cd32cffce",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "いすが高いので、足はゆかにつかないから、足のうらには何の刺激もない。",
+          "back": ""
+        }
+      }
+    },
+    "7a80031d-8c81-458c-a218-cc93f0ec3b0b": {
+      "start": 2434,
+      "end": 2690,
+      "id": "7a80031d-8c81-458c-a218-cc93f0ec3b0b",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "7a80031d-8c81-458c-a218-cc93f0ec3b0b",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "正月に大ぜいの客が来るので、会うのがめんどうだと思う人もある。",
+          "back": ""
+        }
+      }
+    },
+    "05661bf5-d536-4418-b33a-491025caf020": {
+      "start": 2637,
+      "end": 3359,
+      "id": "05661bf5-d536-4418-b33a-491025caf020",
+      "fileId": "9b3fc3ac-aeec-46ea-8ec7-b55c39add913",
+      "flashcard": {
+        "id": "05661bf5-d536-4418-b33a-491025caf020",
+        "tags": [
+          "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "aef7846d-958b-4929-a404-9d214f1857c5": {
+      "start": 2756,
+      "end": 3305,
+      "id": "aef7846d-958b-4929-a404-9d214f1857c5",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "aef7846d-958b-4929-a404-9d214f1857c5",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "むかしは、正月はいつもよりきれいなものを着て、いつもよりぜいたくな料理を食べ、遠くから親せきの人が集まって、にぎやかに話し合った。",
+          "back": ""
+        }
+      }
+    },
+    "708aafbb-234f-4236-9a2c-fb197574fc36": {
+      "start": 2763,
+      "end": 2956,
+      "id": "708aafbb-234f-4236-9a2c-fb197574fc36",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "708aafbb-234f-4236-9a2c-fb197574fc36",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "そのあと両方の組が同じゲームをする。",
+          "back": ""
+        }
+      }
+    },
+    "833e3e3d-dbf8-44d5-b294-5f5eb33c9016": {
+      "start": 2980,
+      "end": 3455,
+      "id": "833e3e3d-dbf8-44d5-b294-5f5eb33c9016",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "833e3e3d-dbf8-44d5-b294-5f5eb33c9016",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "テレビの画面に色の名前を表す漢字が出るが、その漢字の表す色と、漢字そのものの色はちがっている。",
+          "back": ""
+        }
+      }
+    },
+    "9fb54781-99bd-44d6-8b46-0ec9fb964a46": {
+      "start": 2982.4,
+      "end": 3265.4,
+      "id": "9fb54781-99bd-44d6-8b46-0ec9fb964a46",
+      "fileId": "1bbbd4e5-bc33-4fa3-b6f5-d099bb36b30a",
+      "flashcard": {
+        "id": "9fb54781-99bd-44d6-8b46-0ec9fb964a46",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "0261d2ca-a1af-4dc2-9326-95c4ff1c7968": {
+      "start": 3314.4,
+      "end": 4298,
+      "id": "0261d2ca-a1af-4dc2-9326-95c4ff1c7968",
+      "fileId": "1bbbd4e5-bc33-4fa3-b6f5-d099bb36b30a",
+      "flashcard": {
+        "id": "0261d2ca-a1af-4dc2-9326-95c4ff1c7968",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "4b689ce2-16a6-4eae-bbbf-81706e288997": {
+      "start": 3345,
+      "end": 3638,
+      "id": "4b689ce2-16a6-4eae-bbbf-81706e288997",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "4b689ce2-16a6-4eae-bbbf-81706e288997",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "子供達も、正月には特別にお金をもらって、好きな物を買うことができた。",
+          "back": ""
+        }
+      }
+    },
+    "ce61275d-909b-436f-9c73-65d241f4b4b9": {
+      "start": 3400,
+      "end": 3888,
+      "id": "ce61275d-909b-436f-9c73-65d241f4b4b9",
+      "fileId": "9b3fc3ac-aeec-46ea-8ec7-b55c39add913",
+      "flashcard": {
+        "id": "ce61275d-909b-436f-9c73-65d241f4b4b9",
+        "tags": [
+          "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "f298e99a-238e-422e-9c57-b1c68e104869": {
+      "start": 3473,
+      "end": 3667,
+      "id": "f298e99a-238e-422e-9c57-b1c68e104869",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "f298e99a-238e-422e-9c57-b1c68e104869",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "たとえば白い線で書いた「青」という字が出る。",
+          "back": ""
+        }
+      }
+    },
+    "045b6428-5dc4-4ea3-bde6-ae37f0822db7": {
+      "start": 3670,
+      "end": 3878,
+      "id": "045b6428-5dc4-4ea3-bde6-ae37f0822db7",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "045b6428-5dc4-4ea3-bde6-ae37f0822db7",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "正月は、「いつもと違う」ぜいたくをするときであった。",
+          "back": ""
+        }
+      }
+    },
+    "56d57479-6c2d-4fce-9192-a8fb0c0f3532": {
+      "start": 3695,
+      "end": 3914,
+      "id": "56d57479-6c2d-4fce-9192-a8fb0c0f3532",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "56d57479-6c2d-4fce-9192-a8fb0c0f3532",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "それを見て、いそいで「青」の札をさがして高くあげる。",
+          "back": ""
+        }
+      }
+    },
+    "35be6ac4-7913-4675-80ac-7534eebaf251": {
+      "start": 3911,
+      "end": 4124,
+      "id": "35be6ac4-7913-4675-80ac-7534eebaf251",
+      "fileId": "9b3fc3ac-aeec-46ea-8ec7-b55c39add913",
+      "flashcard": {
+        "id": "35be6ac4-7913-4675-80ac-7534eebaf251",
+        "tags": [
+          "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "2a818cf0-8c4d-4b3d-b2f6-ec86e9130bb6": {
+      "start": 3923,
+      "end": 4259,
+      "id": "2a818cf0-8c4d-4b3d-b2f6-ec86e9130bb6",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "2a818cf0-8c4d-4b3d-b2f6-ec86e9130bb6",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "そのためには家中をよく掃除し、正月のための特別のかざりをつけた。",
+          "back": ""
+        }
+      }
+    },
+    "53df8e93-daaf-424e-a654-4f31abe161c9": {
+      "start": 3939,
+      "end": 4424,
+      "id": "53df8e93-daaf-424e-a654-4f31abe161c9",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "53df8e93-daaf-424e-a654-4f31abe161c9",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "何回も続けると、疲れて間違いが多くなるが、二つの組のうち、竹をふんだ人達のほうが成績がよかった。",
+          "back": ""
+        }
+      }
+    },
+    "61457ee0-70ba-42ea-bd17-7f2e762382f9": {
+      "start": 4143,
+      "end": 4454,
+      "id": "61457ee0-70ba-42ea-bd17-7f2e762382f9",
+      "fileId": "9b3fc3ac-aeec-46ea-8ec7-b55c39add913",
+      "flashcard": {
+        "id": "61457ee0-70ba-42ea-bd17-7f2e762382f9",
+        "tags": [
+          "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "c2374f00-ea3a-4f69-9175-ed8dbf6a2147": {
+      "start": 4297,
+      "end": 4530,
+      "id": "c2374f00-ea3a-4f69-9175-ed8dbf6a2147",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "c2374f00-ea3a-4f69-9175-ed8dbf6a2147",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "家を大切にしたのは、家が生活の場所だったからである。",
+          "back": ""
+        }
+      }
+    },
+    "a6941968-0cde-4337-80a3-e40535a19fa2": {
+      "start": 4441,
+      "end": 4761,
+      "id": "a6941968-0cde-4337-80a3-e40535a19fa2",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "a6941968-0cde-4337-80a3-e40535a19fa2",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "つまり足のうらを刺激すると、頭の働きがよくなることがわかったのである。",
+          "back": ""
+        }
+      }
+    },
+    "8350aa7c-cbae-4720-ba28-b83f4ec84b25": {
+      "start": 4464,
+      "end": 4733,
+      "id": "8350aa7c-cbae-4720-ba28-b83f4ec84b25",
+      "fileId": "9b3fc3ac-aeec-46ea-8ec7-b55c39add913",
+      "flashcard": {
+        "id": "8350aa7c-cbae-4720-ba28-b83f4ec84b25",
+        "tags": [
+          "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "40fe680e-f519-4ca3-884c-84eeafcc2981": {
+      "start": 4575,
+      "end": 4737,
+      "id": "40fe680e-f519-4ca3-884c-84eeafcc2981",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "40fe680e-f519-4ca3-884c-84eeafcc2981",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "今は住宅の利用法が変わった。",
+          "back": ""
+        }
+      }
+    },
+    "c6123f52-e629-481d-bf38-b11595fe1f07": {
+      "start": 4773,
+      "end": 5213,
+      "id": "c6123f52-e629-481d-bf38-b11595fe1f07",
+      "fileId": "9b3fc3ac-aeec-46ea-8ec7-b55c39add913",
+      "flashcard": {
+        "id": "c6123f52-e629-481d-bf38-b11595fe1f07",
+        "tags": [
+          "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "ab6137a6-f3d2-45b3-a4ae-3e7c6d23084c": {
+      "start": 4775,
+      "end": 5171,
+      "id": "ab6137a6-f3d2-45b3-a4ae-3e7c6d23084c",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "ab6137a6-f3d2-45b3-a4ae-3e7c6d23084c",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "自分の家で結婚式や祝いの宴会をする人は少ない。たいていの人がホテルを使う。",
+          "back": ""
+        }
+      }
+    },
+    "bea710d1-472b-4faf-aa60-ec3685db945b": {
+      "start": 4808,
+      "end": 5295,
+      "id": "bea710d1-472b-4faf-aa60-ec3685db945b",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "bea710d1-472b-4faf-aa60-ec3685db945b",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "むかしのある有名な人は、子供のころ家がびんぼうで、一日中働いていたので、勉強するひまがなかった。",
+          "back": ""
+        }
+      }
+    },
+    "d8898763-97ae-4069-937d-0d39b003c04e": {
+      "start": 5189,
+      "end": 5364,
+      "id": "d8898763-97ae-4069-937d-0d39b003c04e",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "d8898763-97ae-4069-937d-0d39b003c04e",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "人にごちそうするときにはレストランに行く。",
+          "back": ""
+        }
+      }
+    },
+    "2cb15b95-42c0-4bfb-bf7c-eaceb44c6d35": {
+      "start": 5226,
+      "end": 5483,
+      "id": "2cb15b95-42c0-4bfb-bf7c-eaceb44c6d35",
+      "fileId": "9b3fc3ac-aeec-46ea-8ec7-b55c39add913",
+      "flashcard": {
+        "id": "2cb15b95-42c0-4bfb-bf7c-eaceb44c6d35",
+        "tags": [
+          "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "b5f4c8a5-e933-4972-a2af-04b1e71357f8": {
+      "start": 5309,
+      "end": 5586,
+      "id": "b5f4c8a5-e933-4972-a2af-04b1e71357f8",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "b5f4c8a5-e933-4972-a2af-04b1e71357f8",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "そこで、せなかに薪をせおって歩きながら、本を読んだそうである。",
+          "back": ""
+        }
+      }
+    },
+    "714e67bd-99de-496d-9f6f-7fae6937a648": {
+      "start": 5384,
+      "end": 5554,
+      "id": "714e67bd-99de-496d-9f6f-7fae6937a648",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "714e67bd-99de-496d-9f6f-7fae6937a648",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "人と話をするときは喫茶店で会う。",
+          "back": ""
+        }
+      }
+    },
+    "df49690f-ec0a-4d94-ad6c-850f3813f634": {
+      "start": 5491,
+      "end": 6019,
+      "id": "df49690f-ec0a-4d94-ad6c-850f3813f634",
+      "fileId": "9b3fc3ac-aeec-46ea-8ec7-b55c39add913",
+      "flashcard": {
+        "id": "df49690f-ec0a-4d94-ad6c-850f3813f634",
+        "tags": [
+          "iij03"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    },
+    "92e59754-9251-4f42-88c2-ba59706796f3": {
+      "start": 5570,
+      "end": 5775,
+      "id": "92e59754-9251-4f42-88c2-ba59706796f3",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "92e59754-9251-4f42-88c2-ba59706796f3",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "その上正月まで、ホテルですごす人が増えた。",
+          "back": ""
+        }
+      }
+    },
+    "091a8350-b944-4e64-8818-e4dd3fe0c523": {
+      "start": 5610,
+      "end": 6000,
+      "id": "091a8350-b944-4e64-8818-e4dd3fe0c523",
+      "fileId": "35ede59c-a247-4264-87a9-48fd686d75b6",
+      "flashcard": {
+        "id": "091a8350-b944-4e64-8818-e4dd3fe0c523",
+        "tags": [
+          "iij02"
+        ],
+        "fields": {
+          "front": "目のためには悪かったかもしれないが、頭の働きのためには、よい勉強法だったわけである。",
+          "back": ""
+        }
+      }
+    },
+    "2bfa92ec-5ae1-4dba-ae3d-2123d7190b18": {
+      "start": 5822,
+      "end": 6044,
+      "id": "2bfa92ec-5ae1-4dba-ae3d-2123d7190b18",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "2bfa92ec-5ae1-4dba-ae3d-2123d7190b18",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "今の大都会の住宅は、何をするところであろう。",
+          "back": ""
+        }
+      }
+    },
+    "24886d69-6e4b-4507-86eb-2d20cc25989b": {
+      "start": 6051,
+      "end": 6456,
+      "id": "24886d69-6e4b-4507-86eb-2d20cc25989b",
+      "fileId": "c272e50e-46be-42cd-beb8-6db89296dd46",
+      "flashcard": {
+        "id": "24886d69-6e4b-4507-86eb-2d20cc25989b",
+        "tags": [
+          "iij01"
+        ],
+        "fields": {
+          "front": "テレビを見て、寝るところか。 住宅というより、個室か寝室になったのであろうか。",
+          "back": ""
+        }
+      }
+    },
+    "3e4fdfab-c0e4-418c-ac76-5d0ae58a734f": {
+      "start": 863,
+      "end": 1107,
+      "id": "3e4fdfab-c0e4-418c-ac76-5d0ae58a734f",
+      "fileId": "27f9cec3-1b12-4fb4-a15e-49a43a3e3db7",
+      "flashcard": {
+        "id": "3e4fdfab-c0e4-418c-ac76-5d0ae58a734f",
+        "tags": [
+          "iij04"
+        ],
+        "fields": {
+          "front": "",
+          "back": ""
+        }
+      }
+    }
+  }
+}

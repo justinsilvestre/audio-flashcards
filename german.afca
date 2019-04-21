@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "timestamp": "2019-04-20T09:43:07Z",
+  "timestamp": "2019-04-21T21:26:55Z",
   "name": "German",
   "id": "3bf9d637-b012-4394-b98f-5f75b1dbedb0",
   "noteType": {
@@ -50,6 +50,13 @@
       "durationSeconds": 185.851667,
       "format": "mov,mp4,m4a,3gp,3g2,mj2",
       "isVideo": true
+    },
+    {
+      "id": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "name": "Peppa Wutz  Zusammenschnitt - 30 Minuten  Peppa Pig Deutsch Neue Folgen  Cartoons für Kinder.mp4",
+      "durationSeconds": 1732.626542,
+      "format": "mov,mp4,m4a,3gp,3g2,mj2",
+      "isVideo": true
     }
   ],
   "tags": [
@@ -89,14 +96,14 @@
         ],
         "fields": {
           "front": "Piggeldy wollte wissen, wie ein Vogel singt.\n\n„Frederick,\" fragte Piggeldy seinen großen Bruder, „Frederick, sag mir, wie ein Vogel singt.\"\"\r\n\n„Nichts leichter als das!\" antwortete Frederick. „Komm mit!\"\n\nPiggelyd folgte Frederick.",
-          "back": "",
+          "back": "Piggeldy wanted to know how a Bird sings.\n\n\"Frederick\" asked Piggeldy to his older brother Frederick, \"tell me why the birds sing.\"\n\n\"Nothing easier than that!\" Answered Frederick. \"Come with!\"\n\nPiddeldy followed Frederick. ",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
         }
       }
     },
     "2016edc3-de5b-4252-ba3f-826bad2ef92c": {
       "start": 320,
-      "end": 916,
+      "end": 920,
       "id": "2016edc3-de5b-4252-ba3f-826bad2ef92c",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
       "flashcard": {
@@ -240,8 +247,8 @@
           "peppa-pig-1"
         ],
         "fields": {
-          "front": "",
-          "back": "",
+          "front": "Es regnet. Peppa und George mussen in Haus Bleiben.",
+          "back": "It's raining. Peppa and George must stay in the House.",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
         }
       }
@@ -342,7 +349,7 @@
         ],
         "fields": {
           "front": "Papa! Die Sonne scheint wieder. Können wir jetzt nach draußen?",
-          "back": "",
+          "back": "Papa! The sun is shining again. Can we go outside now? ",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
         }
       }
@@ -383,7 +390,7 @@
     },
     "9b1d2b72-2824-4034-ac25-ac71dbc56dd1": {
       "start": 1883,
-      "end": 2022,
+      "end": 2038,
       "id": "9b1d2b72-2824-4034-ac25-ac71dbc56dd1",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
       "flashcard": {
@@ -393,7 +400,7 @@
         ],
         "fields": {
           "front": "Haha, ja gut. Dann los, ihr zwei!",
-          "back": "",
+          "back": "Haha, yes goot. Then go you two!",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
         }
       }
@@ -467,7 +474,7 @@
       "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
     },
     "cb44a67e-8c2c-4377-9184-d90d5cde3cdd": {
-      "start": 2272,
+      "start": 2271,
       "end": 2676,
       "id": "cb44a67e-8c2c-4377-9184-d90d5cde3cdd",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
@@ -478,7 +485,7 @@
         ],
         "fields": {
           "front": "„Kann Farbe denn lachen?\" fragte Piggeldy.\n\n„I wo!\" sagte Frederick. „Aber lass uns anfangen.\"",
-          "back": "\"Can Color Laugh?\" asked Piggeldy.\n\n\"No way!\" said Frederick. \"But let's get started.\"",
+          "back": "\"No way!\" said Frederick. \"But let's get started.\"",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "The modal particle \"denn\" gives a question a tone of eager curiosity."
         }
       }
@@ -630,7 +637,7 @@
         ],
         "fields": {
           "front": "„Die Farbe heißt 'grün',\" sagte er. „Ich male jetzt einen grünen Wald.\n\n„Wie schön,\" bewunderte Piggeldy seinen großen Bruder.",
-          "back": "\"This color is called 'green',\" said he. \"Now I'll paint a green forest.\"\n\n\"How beautiful,\" Piggeldy admired his big Brother.\n",
+          "back": "\"This color is called 'green',\" said he. \"Now I'll paint a green forest.\"",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
         }
       }
@@ -748,7 +755,7 @@
         ],
         "fields": {
           "front": "„Ich glaube,\" sagte Frederick nachdenklich, \"man muss auf einem Ast sitzen. Dann kann man richtig wie ein Vogel singen.\"",
-          "back": "",
+          "back": "\"I think,\" Frederick said thoughtfully, \"you have to sit on a Branch. Then you can really sing like a Bird. \"",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
         }
       }
@@ -1075,7 +1082,7 @@
       "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
     },
     "227e03ae-cfaf-49a4-b625-b808ad05c6a2": {
-      "start": 5231,
+      "start": 5225,
       "end": 5832,
       "id": "227e03ae-cfaf-49a4-b625-b808ad05c6a2",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
@@ -1574,8 +1581,8 @@
           "peppa-pig-1"
         ],
         "fields": {
-          "front": "",
-          "back": "",
+          "front": "George, es is nur Schlamm",
+          "back": "George, it is only mud. ",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "der Schlamm = mud"
         }
       }
@@ -1681,7 +1688,7 @@
     },
     "16235485-6f69-4710-b5e7-d3ed3b0a5098": {
       "start": 8865,
-      "end": 9018,
+      "end": 9035,
       "id": "16235485-6f69-4710-b5e7-d3ed3b0a5098",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
       "flashcard": {
@@ -1691,7 +1698,7 @@
         ],
         "fields": {
           "front": "Komm mit, George! Wir zeigen Papa wie wir aussehen.",
-          "back": "",
+          "back": "Come along, George! We show Dad how we look.",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "aussehen/sah aus/hat ausgesehen/sieht aus"
         }
       }
@@ -1726,7 +1733,7 @@
         "fields": {
           "front": "Rat mal, was wir gemacht haben!",
           "back": "Guess what we did!",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "raten/riet/geraten"
         }
       }
     },
@@ -1741,8 +1748,8 @@
           "peppa-pig-1"
         ],
         "fields": {
-          "front": "",
-          "back": "",
+          "front": "Las mich überlegen..",
+          "back": "Let me think..",
           "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "überlegen/überlegte/hat überlegt = consider, think about, ponder"
         }
       }

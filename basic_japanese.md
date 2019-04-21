@@ -90,7 +90,7 @@
 * 
 * Áa.<br>Sumimasén.
 * Ahh (look what you've done).<br>I'm sorry. (polite)
-* undefined
+* 
 
 **1:30 - 1:32** _#shad1-2_
 * 
@@ -102,7 +102,7 @@
 * 
 * Tadáima.<br>O-kaerí.
 * I'm home.<br>Welcome home.
-* Literally, "[I'm arriving back] just now. Do come home."<br><br> "O-kaerí" is from "kaéru", "to go/come home". The complete form "o-kaeri-nasai" is a polite command.
+* Literally, "[I'm arriving back] just now. Do come home."<br><br> "O-kaerí" is from "káeru", "to go/come home". The complete form "o-kaeri-nasai" is a polite command.
 
 **1:40 - 1:43** _#shad1-2_
 * 
@@ -192,13 +192,13 @@
 * 
 * Suzuki-san-désu ka?<br>Hái, sóu-desu.
 * Are [you] Suzuki? (polite)<br>Yes, that's right. (polite)
-* undefined
+* 
 
 **3:14 - 3:17** _#shad1-4_
 * 
 * Sátou-san-desu ka?<br>Iie, Kátou-desu.
 * Are [you] Satou?<br>No, I'm Katou.
-* undefined
+* 
 
 **3:19 - 3:24** _#shad1-4_
 * 
@@ -210,13 +210,13 @@
 * 
 * Sore-wa nán-desu ka?<br>Dejikame-désu.
 * What's that [by you]?<br>It's [a] digital camera.
-* undefined
+* 
 
 **3:31 - 3:35** _#shad1-4_
 * 
 * Yamada-san-no heyá-wa nan-kai-désu ka?<br>San-gai-désu.
 * What floor is Yamada-san's room? (polite)<br>It's the 3rd floor. (polite)
-* undefined
+* 
 
 **3:37 - 3:41** _#shad1-4_
 * 
@@ -234,7 +234,7 @@
 * 
 * Éki-made dono-gurai-désu ka?<br>Ichi-kiro-gúrai-desu.
 * How far is it to [the] station?<br>It's about 1 kilometer.
-* undefined
+* 
 
 **3:57 - 4:00** _#shad1-4_
 * 
@@ -264,7 +264,7 @@
 * 
 * Kyóu-wa atsui-désu ne.<br>Ée, hontou-ni.
 * It's hot today, isn't it? (polite)<br>Yes, it really is.
-* undefined
+* 
 
 **4:31 - 4:37** _#shad1-5_
 * .
@@ -276,37 +276,37 @@
 * 
 * Íkura-desu ka?<br>Ni-hyaku-juu-en-désu.
 * How much is it? (polite)<br>200 yen. (polite)
-* undefined
+* 
 
 **4:44 - 4:48** _#shad1-5_
 * 
 * Tésuto, muzukashíi-desu ka?<br>Iie, kantan-désu yo.
 * Is the test hard? (polite)<br>No, it's easy! (polite)
-* undefined
+* 
 
 **4:51 - 4:54** _#shad1-5_
 * 
 * Suzuki-san-wa dónna hitó-desu ka?<br>Shínsetsu-na hitó-desu yo.
 * What kind of person is Suzuki?<br>[They] are a kind person!
-* undefined
+* 
 
 **4:56 - 5:01** _#shad1-5_
 * 
 * Kono kutsú, chótto ookíi-desu.<br>Jaa, kore-wa dóu-desu ka?
 * These shoes are a bit big.<br>Alright then, how about these?
-* undefined
+* 
 
 **5:04 - 5:08** _#shad1-5_
 * 
 * Kore, kírei-desu ne.<br>Ée, totemo kírei-desu ne.
 * This is beautiful, don't you think? (polite)<br>Yes, very beautiful. (polite)
-* undefined
+* 
 
 **5:16 - 5:19** _#shad1-6_
 * 
 * Hajimemáshite.<br>Hajimemáshite, dóuzu yoroshiku o-negai shimásu.
 * Nice to meet you. (polite)<br>Nice to meet you, please treat me well. (very polite)
-* undefined
+* 
 
 **5:21 - 5:25** _#shad1-6_
 * 
@@ -406,8 +406,8 @@
 
 **7:21 - 7:27** _#shad1-7_
 * 
-* Kono shashin, míte kudasái. Háwai no shashin-desu.<br>Waa, kírei-na úmi!
-* Please look at this photo. (polite)<br>Whoa, what a pretty ocean! (casual)
+* Kono shashin, míte kudasái. Háwai no shashin-désu.<br>Waa, kírei-na úmi!
+* Please look at this photo. It's a photo of Hawaii. (polite)<br>Whoa, what a pretty ocean! (casual)
 * "Kírei" is a na-adjective. When you put a na-adjective in front of a noun, you have to put "-na" in between. Other than this usage with "-na", they really act basically just like nouns.
 
 **7:30 - 7:39** _#shad1-7_
@@ -585,7 +585,7 @@
 * Literally, "This shop, since [the] service is good, and since the cooking is good..."<br><br>"...shi, ...shi" is used when listing multiple reasons.<br><br>This -tái form means "want (to)", and especially "I want (to)". (In Japanese, it's rare to talk directly about someone else wanting something; rather you say they "seem to want" something. After all, you can't really know their inner life.)<br><br>"Misé" means both "restaurant" and generally "shop". Here we know it's a restaurant because of the context.
 
 **11:40 - 11:47** _#shad1-10_
-* 
+*  　
 * Kono misé, dóu datta?<br>Un, ryóuri-wa íi kedo, sáabisu-ga chótto ne...
 * How was this restaurant? (casual)<br>Hm, the food was good, but the service was kind of... you know? (casual)
 * 
@@ -642,7 +642,7 @@
 
 **0:55 - 1:00** _#jgr1-1-1_
 * 絵本もピアノもテレビもあります。
-* Éhon-mo piano-mo térebi-mo arimásu.
+* Ehón-mo piano-mo térebi-mo arimásu.
 * There are picture-books, [a] piano, and [a] TV. (polite)
 * Instead of the usual topic marker "wa", "mo" is used to add the meaning of "also, too, even".<br><br>arimásu = áru
 
@@ -786,7 +786,7 @@
 
 **3:04 - 3:12** _#jgr1-1-1_
 * ある日、男の子女の子に言いました。「はい、これ」
-* Áru hí, otokónoko-wa onnanóko-ni iimáshita. "Hai, kore."
+* Áru hi, otokónoko-wa onnanóko-ni iimáshita. "Hai, kore."
 * One day, [the] boy said (polite) to [the] girl, "Here, [take] this." 
 * iimáshita = itta<br>iimásu = iu
 
@@ -816,25 +816,1273 @@
 
 ## 02 hachi no hanashi.m4a
 
-**0:00 - 0:02** 
+**0:00 - 0:02** _#jgr1-1-2_
 * 
-* Háchi no hanashí
+* Háchi-no hanashí
 * 
 * 
 
-**0:07 - 0:10** 
+**0:07 - 0:10** _#jgr1-1-2_
 * 
 * Háchi-wa kodomo-no inú-desu.
 * 
 * 
 
-**0:11 - 0:14** 
+**0:11 - 0:14** _#jgr1-1-2_
 * 
 * Daigaku-no senséi-ga háchi-o moraimáshita.
 * 
 * 
 
-**0:17 - 0:20** 
+**0:17 - 0:20** _#jgr1-1-2_
+* 
+* Háchi-to senséi-wa issho-ni asobimásu.
+* 
+* asobimásu = asobu
+
+**0:21 - 0:25** _#jgr1-1-2_
+* 
+* Háchi-to senséi-wa issho-ni góhan-o tabemásu.
+* 
+* 
+
+**0:26 - 0:28** _#jgr1-1-2_
+* 
+* Issho-ni o-fúro-ni hairimásu.
+* 
+* hairimásu = háiru
+
+**0:30 - 0:32** _#jgr1-1-2_
+* 
+* Issho-ni nemásu.
+* 
+* nemásu = neru
+
+**0:35 - 0:39** _#jgr1-1-2_
+* 
+* Senséi-wa máinichi, daigaku-e ikimásu.
+* 
+* The particle "e" (meaning "to, towards") is written as "he".
+
+**0:41 - 0:46** _#jgr1-1-2_
+* 
+* Háchi-wa, ása, senséi-to issho-ni éki-e ikimásu.
+* 
+* 
+
+**0:47 - 0:51** _#jgr1-1-2_
+* 
+* Senséi-wa Shibuya-éki-de densha-ni norimásu.
+* 
+* norimásu = noru
+
+**0:52 - 0:56** _#jgr1-1-2_
+* 
+* Háchi, itte kimásu.
+* 
+* 
+
+**0:58 - 1:01** _#jgr1-1-2_
+* 
+* Háchi-wa uchi-e kaerimásu.
+* 
+* kaerimásu = káeru
+
+**1:03 - 1:07** _#jgr1-1-2_
+* 
+* Háchi-wa yuugata, Shibuya-éki-e ikimásu.
+* 
+* 
+
+**1:08 - 1:11** _#jgr1-1-2_
+* 
+* Senséi-ga densha-o orimásu.
+* 
+* 
+
+**1:12 - 1:19** _#jgr1-1-2_
+* 
+* Háchi, tadáima.<br><br>Wan, wan.<br><br>Háchi-wa ureshíi-desu.
+* 
+* 
+
+**1:21 - 1:25** _#jgr1-1-2_
+* 
+* Háchi-to senséi-wa, issho-ni uchi-e kaerimásu.
+* 
+* 
+
+**1:28 - 1:34** _#jgr1-1-2_
+* 
+* Sono hi-mo háchi-wa, ása, senséi-to issho-ni Shibuya-éki-e ikimáshita.
+* 
+* 
+
+**1:35 - 1:43** _#jgr1-1-2_
+* 
+* Háchi, itte kimásu.<br><br>Wan, wan.<br><br>Senséi-wa daiagaku-e ikimashita.
+* 
+* 
+
+**1:46 - 1:54** _#jgr1-1-2_
+* 
+* Háchi-wa yuugata, Shibuya-éki-e ikimáshita. Démo, senséi-wa kaerimasén-deshita.
+* 
+* 
+
+**1:55 - 1:58** _#jgr1-1-2_
+* 
+* Senséi-wa sono-hi, daigaku-de taoremáshita.
+* 
+* taoremásu = taoréru
+
+**2:00 - 2:03** _#jgr1-1-2_
+* 
+* Soshite, daigaku-kara byouin-e ikimáshita.
+* 
+* 
+
+**2:07 - 2:10** _#jgr1-1-2_
+* 
+* Senséi-wa móu kaerimasén.
+* 
+* 
+
+**2:12 - 2:15** _#jgr1-1-2_
+* 
+* Senséi-wa móu imasén.
+* 
+* 
+
+**2:16 - 2:19** _#jgr1-1-2_
+* 
+* Démo, háchi-wa sore-ga wakarimasén.
+* 
+* 
+
+**2:23 - 2:29** _#jgr1-1-2_
+* 
+* Háchi-wa máinichi yuugata Shibuya-eki-e ikimáshita.
+* 
+* 
+
+**2:29 - 2:32** _#jgr1-1-2_
+* 
+* Soshite, senséi-o machimáshita.
+* 
+* 
+
+**2:35 - 2:46** _#jgr1-1-2_
+* 
+* Densha-ga kimásu. Senséi-wa kaerimasén.<br><br>Matá densha-ga kimásu. Senséi-wa kaerimásen.
+* 
+* 
+
+**2:49 - 2:50** _#jgr1-1-2_
+* 
+* Natsú-ga kimásu.
+* 
+* 
+
+**2:52 - 2:53** _#jgr1-1-2_
+* 
+* Áki-ga kimásu.
+* 
+* 
+
+**2:54 - 2:56** _#jgr1-1-2_
+* 
+* Fuyú-ga kimásu.
+* 
+* 
+
+**2:57 - 2:59** _#jgr1-1-2_
+* 
+* Soshite, háru-ga kimásu.
+* 
+* 
+
+**3:02 - 3:03** _#jgr1-1-2_
+* 
+* Áme-ga furimásu.
+* 
+* 
+
+**3:05 - 3:06** _#jgr1-1-2_
+* 
+* Yukí-ga furimásu.
+* 
+* 
+
+**3:08 - 3:09** _#jgr1-1-2_
+* 
+* Kaze-ga fukimásu.
+* 
+* 
+
+**3:13 - 3:24** _#jgr1-1-2_
+* 
+* Háchi-wa máinichi yuugata Shibuya-éki-e ikimásu. Senséi-o machimásu. Senséi-wa kaerimasén.
+* 
+* 
+
+**3:27 - 3:33** _#jgr1-1-2_
+* 
+* Háchi-wa júu-nen máinichi Shibuya-éki-e ikimáshita.
+* 
+* 
+
+**3:35 - 3:41** _#jgr1-1-2_
+* 
+* Íma, Shibuya-éki-no máe ni, Háchi-no zóu-ga arimásu.
+* 
+* 
+
+## 03 jonsan nihon e.m4a
+
+**0:00 - 0:02** _#jgr1-1-3_
+* 
+* Jon-san Nihón-e
+* John goes to Japan.
+* 
+
+**0:09 - 0:12** _#jgr1-1-3_
+* 
+* Ichi: kore-wa dáre-no hón?
+* One: whose is this book?
+* 
+
+**0:14 - 0:18** _#jgr1-1-3_
+* 
+* Íma, Jón-san-wa hikóuki-no náka-desu.
+* Right now, John is in a plane. (polite)
+* 
+
+**0:20 - 0:28** _#jgr1-1-3_
+* 
+* Jón-san-wa, kotoshi-no shi-gatsú-kara Nihón-no gakkou-de benkyou shimasu.
+* John will be studying Japanese starting this April. (polite)
+* kotoshi = this year<br><br>shimásu = suru (irregular)<br><br>benkyou = studies<br>benkyou suru = to study
+
+**0:30 - 0:36** _#jgr1-1-3_
+* 
+* Jón-san-wa kaban-kara manga-no hón-o dashimáshita.
+* John took out a comic book from [his] bag. (polite)
+* dashimásu = dásu
+
+**0:38 - 0:44** _#jgr1-1-3_
+* 
+* Tonari-no onnanohitó-no kaban-kara manga-no hón-o dashimáshita.
+* The woman [sitting] next [to him] takes out a comic book from [her] bag. (polite)
+* 
+
+**0:46 - 0:56** _#jgr1-1-3_
+* 
+* Jón-san-to onnanohitó-wa iimashita.<br><br>"A, onaji hón!"
+* John and the woman said (polite), "Oh, the same book!"
+* 
+
+**0:57 - 1:13** _#jgr1-1-3_
+* 
+* Jón-san-ga iimáshita. "Kore, omoshirói-desu ne."<br><br>"Ée, omoshirói-desu ne. Watashi-mo dáisuki-desu."
+* John said, "This is funny, isn't it?" (polite)<br><br>"Yes, it is, isn't it? [It]'s one my favorites, too." (polite)
+* To say you like/love something, you say it's "sukí" to you. "Dáisuki" is more intense.<br><br>Sukí-da = [I] like [it].<br>Dáisuki-da. [I] really like [it].<br><br>Careful, since "I love you" is often translated as  "sukí-da"!
+
+**1:14 - 1:19** _#jgr1-1-3_
+* 
+* Onnanohitó-ga kikimashita. "Shigoto-désu ka?"
+* The woman asked, "Is [it for your] work?" (polite)
+* kikimáshita = kiita<br>kikimásu = kiku
+
+**1:20 - 1:26** 
+* 
+* Iie. Shi-gatsú-kara Toukyou-de nihongo-o benkyou shimásu.
+* No, I'll be studying Japanese from April. (polite)
+* 
+
+**1:27 - 1:32** _#jgr1-1-3_
+* 
+* Toukyou-désu ka? Watsahi-no ié-mo Toukyou-désu yo.
+* Tokyo? My home is Tokyo, too. (polite)
+* 
+
+**1:33 - 1:40** _#jgr1-1-3_
+* 
+* Dáreka-ga iimáshita.  "A, Fúji-san-da."<br><br>"Wa, kírei."
+* Someone said (polite), "Oh, Mt. Fuji!"<br><br>"Whoa, it's beautiful!"
+* 
+
+**1:42 - 1:57** _#jgr1-1-3_
+* 
+* Onnanohitó-wa mádo-kara sóto-o mimáshita. Soshite, Jon-san-ni iimáshita.<br><br>"Fúji-san-desu-yo. Kochira-no séki-e dóuzo."<br><br>"Arígatou gozaimásu."
+* The woman looked outside from [her] window. Then, she said to John: (polite)<br><br>"It's Mt. Fuji. Please, take this seat." (polite)<br><br>"Thank you very much." (polite)
+* kochira-no = kono
+
+**1:58 - 2:05** _#jgr1-1-3_
+* 
+* Jón-san-wa mádo-kara sóto-o mimáshita.<br><br>"Wa, kírei-desu ne."
+* John looked out from his window. (polite)<br><br>"Wow, it's beautiful, isn't it?" (polite)
+* 
+
+**2:07 - 2:10** _#jgr1-1-3_
+* 
+* Hikóuki-wa Nihón-ni tsukimáshita.
+* The plane arrived to Japan. (polite)
+* tsukimásu = tsúku
+
+**2:11 - 2:15** _#jgr1-1-3_
+* 
+* Futarí-wa manga-no hón-o kaban-ni iremáshita.
+* The two [of them] put [their] comic books in [their] bags. (polite)
+* 
+
+**2:17 - 2:20** _#jgr1-1-3_
+* 
+* Soshite, hikóuki-o orimáshita.
+* Then, [they] got off the plane. (polite)
+* orimásu = oríru
+
+**2:22 - 2:25** _#jgr1-1-3_
+* 
+* Sayounara.<br><br>Sayounara.
+* Goodbye. (polite)<br><br>Goodbye. (polite)
+* "Sayounara" is formal, kind of like "farewell."
+
+**2:27 - 2:31** _#jgr1-1-3_
+* 
+* Onnanohitó-wa densha-de ié-ni kaerimásu.
+* The woman went home by train. (polite)
+* 
+
+**2:33 - 2:38** _#jgr1-1-3_
+* 
+* Densha-no náka-de kaban-kara manga-no hón-o dashimáshita.
+* Inside the train, [she] took out [her] comic book from [her] bag. (polite)
+* 
+
+**2:40 - 2:50** _#jgr1-1-3_
+* 
+* Are? Tegami? A, kore, ano hitó-no. Kore-wa ano hitó-no manga-da!
+* Huh? A letter? Oh, this is his! This is his comic! (polite)
+* 
+
+**2:53 - 2:56** _#jgr1-1-3_
+* 
+* Jón-san-wa denwa-no tokoró-ni ikimáshita.
+* John went to the phone place. (polite)
+* ikimásu = iku
+
+**2:57 - 3:02** _#jgr1-1-3_
+* 
+* Soshite, kaban-kara manga-no hón-o dashimáshita.
+* Then, he took the comic book out from his bag. (polite)
+* 
+
+**3:02 - 3:05** _#jgr1-1-3_
+* 
+* Are? Tegami-ga nái!
+* Huh? There's no letter!
+* 
+
+**3:08 - 3:14** _#jgr1-1-3_
+* 
+* Ni: kyóu-wa nán-gatsu nán-nichi nan-yóubi?
+* Two: What's the date and day of the week today?
+* 
+
+**3:16 - 3:21** _#jgr1-1-3_
+* 
+* Kyóu-wa juu-gatsú juu-ichi-nichí mokuyóubi désu.
+* It's Thursday, October 11th. (polite)
+* 
+
+**3:22 - 3:26** _#jgr1-1-3_
+* 
+* Jón-san-wa Yúki-san-to kabuki-o mimásu.
+* John will see Kabuki with Yuki. (polite)
+* 
+
+**3:27 - 3:32** _#jgr1-1-3_
+* 
+* Futarí-wa rok-ka-getsu-máe hikóuki-no náka-de aimáshita.
+* The two of them met six months ago inside a plane. (polite)
+* aimásu = áu
+
+**3:34 - 3:39** _#jgr1-1-3_
+* 
+* Jón-san-wa Ginza-éki-de Yúki-san-to aimáshita.
+* John met with Yuki at Ginza station. (polite)
+* 
+
+**3:40 - 3:43** _#jgr1-1-3_
+* 
+* Futarí-wa Kabukiza-ni tsukimáshita.
+* The two of them went to the Kabukiza. (polite)
+* tsukimásu = tsuki
+
+**3:45 - 3:50** _#jgr1-1-3_
+* 
+* Jón-san-wa iriguchi-de chikétto-o ní-mai dashimáshita.
+* John got out two tickets at the entrance. (polite)
+* "Mai" count flat things.<br>ichí-mai = one sheet<br>ní-mai = two sheets
+
+**3:52 - 3:58** _#jgr1-1-3_
+* 
+* Yúki-san-ga kikimáshita. "Watashítachi-no séki-wa dóko-desu ka."
+* Yuki asked, "Where are our seats?" (polite)
+* 
+
+**4:00 - 4:05** _#jgr1-1-3_
+* 
+* Jón-san-ga iimáshita. "Kyuu-no júu-go, juu-rokú."
+* John said (polite), "9-15 and 16".
+* 
+
+**4:06 - 4:12** _#jgr1-1-3_
+* 
+* "A, koko-désu yo."<br><br>Futarí-wa séki-ni suwarimáshita.
+* Oh, it's here.<br><br>The two of them sat in [their] seats.
+* suwarimásu = suwaru
+
+**4:14 - 4:24** _#jgr1-1-3_
+* 
+* Kabuki-wa yó-ji-kara-desu.<br><br>Jón-san-ga iimáshita. "Íma máda san-ji-hán-desu kara, koohíi-o nomimashóu ka." 
+* The kabuki starts at 4.<br><br>John said, "Since it's still 3:30, let's have some coffee."
+* nomimásu = nómu
+
+**4:25 - 4:29** _#jgr1-1-3_
+* 
+* Futarí-wa róbii-de koohíi-o nomimáshita.
+* The two of them drank coffee in the lobby.
+* 
+
+**4:34 - 4:39** _#jgr1-1-3_
+* 
+* Yó-ji go-fun-máe-desu. Yúki-san, séki-ni ikimashóu.
+* It's 5 minutes before 4. Yuki, let's go to [our] seats. (polite)
+* 
+
+**4:41 - 4:51** _#jgr1-1-3_
+* 
+* "Kyúu-no júu-go juu-rokú. Are?"<br><br>Futarí-no séki-ni o-jíi-san-to o-báa-san-ga imásu.
+* "9-15 and -16. Huh?"<br><br>There are an old man and an old woman in both of their seats. (polite)
+* 
+
+**4:52 - 5:01** _#jgr1-1-3_
+* 
+* Jón-san-wa o-jíi-san-ni iimáshita. "Ano, koko-wa kyúu-no júu-go juu-rokú-desu ne.
+* John said to the old man, "Um, this is 9-15 and -16, isn't it?" (polite)
+* 
+
+**5:03 - 5:05** _#jgr1-1-3_
+* 
+* Watashítachi-no séki-desu kedo.
+* These are our seets, you see... (polite)
+* kedo = but
+
+**5:06 - 5:14** _#jgr1-1-3_
+* 
+* O-jíi-san-wa iimashita. "Kyúu-no júu-go juu-rokú-wa, watashítachi-no séki-desu yo."
+* The old man said, "9-15 and 16 are our seats!" (polite)
+* 
+
+**5:16 - 5:32** _#jgr1-1-3_
+* 
+* Jón-san-wa chikétto-o mimáshita. Soshite iimáshita. "Eh? Watashítachi-mo kyúu-no júu-go juu-rokú-desu."
+* John looked at [his] ticket. Then, he said: "Huh? Our tickets are also 9-15 and -16. (polite)
+* 
+
+**5:34 - 5:42** _#jgr1-1-3_
+* 
+* Kabukiza-no hitó-ga kimáshita. Sono hitó-wa yo-nín-no chikétto-o mimáshita.
+* Someone from the Kabukiza came. They looked at all four of their tickets. (polite)
+* kimáshita = kíta (irregular)<br>kimásu = kúru (irregular)<br><br>mimáshita = míta<br>mimásu = míru
+
+**5:44 - 5:50** _#jgr1-1-3_
+* 
+* Kyúu-no júu-go juu-rokú. Onaji-désu ne.
+* 9-15 and -16. They're the same, aren't they? (polite)
+* 
+
+**5:51 - 5:55** _#jgr1-1-3_
+* 
+* Kabukiza-no hitó-wa matá chikétto-o mimáshita.
+* The person from Kabukiza looked again at the tickets.
+* 
+
+**6:00 - 6:03** _#jgr1-1-3_
+* 
+* Kabukiza-no hitó-wa sukóshi waraimáshita.
+* The person from Kabukiza laughed a bit.
+* 
+
+**6:04 - 6:15** _#jgr1-1-3_
+* 
+* Soshite Jón-san-ni kikimáshita. "Kyóu-wa nán-gatsu nán-nichi nan-yóubi-desu ka?"
+* Then [they] asked John. "What date and day of the week is it today?" (polite)
+* 
+
+**6:17 - 6:30** _#jgr1-1-3_
+* 
+* "Juu-gatsú juu-ichi-nichí mokuyóubi-desu."<br><br>"Sóu-desu ne. Kono chikétto-wa?"<br><br>"Juu-gatsú juu-shichi-nichi suiyóubi-desu."
+* "It's Thursday October 11th." (polite)<br><br>"That's right. And this ticket?" (polite)<br><br>"It's Wednesday October 17th..."
+* 
+
+**6:31 - 6:33** _#jgr1-1-3_
+* 
+* A, gomen nasai!
+* Oh, I'm so sorry! (polite)
+* 
+
+**6:33 - 6:37** _#jgr1-1-3_
+* 
+* Yúki-san-wa chíisa-na kóe-de waraimáshita.
+* Yuki laughed quietly. (polite)
+* waraimásu = warau<br><br>"Chiisái" and "ookíi" are exceptional among i-adjectives because they can turn into "chíisa-na" and "ooki-na" in front of a noun.
+
+**6:45 - 6:47** _#jgr1-1-3_
+* 
+* Kabuki-ga hajimarimásu.
+* The kabuki starts. (polite)
+* hajimarimásu = hajimaru
+
+**6:48 - 6:53** _#jgr1-1-3_
+* 
+* Jón-san-to Yúki-san-wa Kabukiza-o demáshita.
+* John and Yuki exited the Kabukiza. (polite)
+* 
+
+**6:54 - 7:01** _#jgr1-1-3_
+* 
+* Futarí-wa kabukiza-no máe-de ooki-na kóe-de waraimáshita.
+* The two of them laughed loudly in front of the Kabukiza. (polite)
+* waraimáshita = waratta<br>waraimásu = warau
+
+## 04 urashima tarou.m4a
+
+**0:07 - 0:11** _#jgr1-1-4_
+* 
+* Urashima Tarou-wa Nihón-no furúi hanashí-desu.
+* 
+* 
+
+**0:14 - 0:16** _#jgr1-1-4_
+* 
+* Koko-wa úmi-no chíkaku-desu.
+* 
+* 
+
+**0:18 - 0:21** _#jgr1-1-4_
+* 
+* Tárou-to o-káa-san-no uchi-ga arimásu.
+* 
+* 
+
+**0:23 - 0:26** _#jgr1-1-4_
+* 
+* Tárou-wa máinichi úmi-e ikimásu.
+* 
+* 
+
+**0:28 - 0:30** _#jgr1-1-4_
+* 
+* Soshite, sakana-o torimásu.
+* 
+* torimásu = tóru
+
+**0:34 - 0:37** _#jgr1-1-4_
+* 
+* Kyóu-mo Tárou-wa úmi-e ikimáshita.
+* 
+* 
+
+**0:39 - 0:41** _#jgr1-1-4_
+* 
+* Úmi-ni kodomo-ga takusan imásu.
+* 
+* 
+
+**0:44 - 0:47** _#jgr1-1-4_
+* 
+* Kodomó-tachi-ga, bou-de nánika-o tatakimáshita.
+* 
+* tatakimásu = tatáku
+
+**0:49 - 0:55** _#jgr1-1-4_
+* 
+* Káme-desu. Kodomó-tachi-wa bou-de káme-o tatakimásu.
+* 
+* 
+
+**0:57 - 1:03** _#jgr1-1-4_
+* 
+* "Itái! Itái!" Káme-wa nakimáshita.
+* 
+* nakimásu = naku
+
+**1:04 - 1:14** _#jgr1-1-4_
+* 
+* Tárou-wa kodomó-tachi-ni iimashita. "Okane-o agemashóu. Watashi-ni kono káme-o kudasái."
+* 
+* agemashóu = ageyou<br>agemásu = ageru
+
+**1:15 - 1:18** _#jgr1-1-4_
+* 
+* Hontou? Íi yo.
+* 
+* 
+
+**1:20 - 1:23** _#jgr1-1-4_
+* 
+* Kodomó-tachi-wa káme-o Tárou-ni agemáshita.
+* 
+* agemáshita = ageta<br>agemásu = ageru
+
+**1:25 - 1:31** _#jgr1-1-4_
+* 
+* "Dóumo arígatou gozaimáshita." Káme-wa iimáshita.
+* 
+* 
+
+**1:33 - 1:35** _#jgr1-1-4_
+* 
+* Soshite, úmi-ni kaerimáshita.
+* 
+* kaerimásu = káeru<br>kaerimáshita = káetta
+
+**1:39 - 1:41** _#jgr1-1-4_
+* 
+* Sore-kara is-shúu-kan.
+* 
+* 
+
+**1:43 - 1:45** _#jgr1-1-4_
+* 
+* Tárou-wa kyóu-mo úmi-e ikimásu.
+* 
+* 
+
+**1:47 - 1:49** _#jgr1-1-4_
+* 
+* Íi ténki-desu.
+* 
+* 
+
+**1:50 - 1:53** _#jgr1-1-4_
+* 
+* Tárou-wa kyóu-mo sakana-o torimásu.
+* 
+* 
+
+**1:55 - 1:57** _#jgr1-1-4_
+* 
+* Soko-ni káme-ga kimáshita.
+* 
+* 
+
+**1:59 - 2:06** _#jgr1-1-4_
+* 
+* Káme-ga iimáshita. "Ano tokí-wa dóumo arígatou gozaimáshita."
+* 
+* 
+
+**2:08 - 2:11** _#jgr1-1-4_
+* 
+* Úmi-no náka-ni tanoshíi kotó-ga arimásu.
+* 
+* 
+
+**2:12 - 2:14** _#jgr1-1-4_
+* 
+* Watashi-to issho-ni ikimashóu.
+* 
+* ikimashóu = ikou<br>ikimásu = iku
+
+**2:15 - 2:22** _#jgr1-1-4_
+* 
+* "Sáa, dóuzo."<br><br>Tárou-wa káme-ni norimáshita.
+* 
+* 
+
+**2:24 - 2:26** _#jgr1-1-4_
+* 
+* Káme-wa úmi-no náka-ni hairmáshita.
+* 
+* hairimásu = háiru
+
+**2:28 - 2:31** _#jgr1-1-4_
+* 
+* Kírei-na sakana-ga takusan imásu.
+* 
+* 
+
+**2:33 - 2:36** _#jgr1-1-4_
+* 
+* Uwaa, úmi-no náka-wa kírei-da naa.
+* 
+* 
+
+**2:39 - 2:43** _#jgr1-1-4_
+* 
+* Káme-to Tárou-wa ookíi shiro-no máe-ni kimáshita.
+* 
+* kimáshita = kíta<br>kimásu = kúru
+
+**2:44 - 2:53** _#jgr1-1-4_
+* 
+* "Koko-wa ryuuguujou-désu yo." Káme-ga iimáshita. Ryuuguujou-wa totemo kírei-desu.
+* 
+* 
+
+**2:55 - 3:00** _#jgr1-1-4_
+* 
+* Tárou-wa káme-to issho-ni ryuuguujou-no náka-e hairimáshita.
+* 
+* harimáshita = háitta<br>hairimásu = háiru
+
+**3:01 - 3:05** _#jgr1-1-4_
+* 
+* Soko-ní-wa totemo kírei-na onna-no-hitó-ga imáshita.
+* 
+* 
+
+**3:07 - 3:13** _#jgr1-1-4_
+* 
+* Tárou-wa káme-ni kikimashita. "Ano kírei-na onnanohitó-wa dáre-desu ka?
+* 
+* 
+
+**3:14 - 3:19** _#jgr1-1-4_
+* 
+* "Otóhime-sama-desu yo." Káme-wa kotaemáshita.
+* 
+* kotaemáshita = kotáeta<br>kotaemásu = kotáeru
+
+**3:21 - 3:31** _#jgr1-1-4_
+* 
+* "Anáta-ga Tárou-san-desu ne. Sáa, kochira-e dóuzo." Otóhime-sama-wa Tárou-ni iimáshita.
+* 
+* 
+
+**3:33 - 3:38** _#jgr1-1-4_
+* Ryuuguujou-ní-wa oishii tabémono-ya o-sake-ga takusan arimásu.
+* 
+* 
+* 
+
+**3:39 - 3:43** _#jgr1-1-4_
+* 
+* Tárou-wa máinichi Otóhime-sama-to asobimáshita.
+* 
+* asobimáshita = asonda<br>asobimásu = asobu
+
+**3:45 - 3:49** _#jgr1-1-4_
+* 
+* Soshite, oishii tabémono-o takusan tabemáshita.
+* 
+* tabemáshita = tábeta<br>tabemásu = tabéru
+
+**3:50 - 3:53** _#jgr1-1-4_
+* 
+* Oishii o-sake-mo takusan nomimáshita.
+* 
+* nomimáshita = nónda<br>nomimásu = nómu
+
+**3:55 - 3:57** _#jgr1-1-4_
+* 
+* Máinichi totemo tanoshíi-desu.
+* 
+* 
+
+**3:59 - 4:01** _#jgr1-1-4_
+* 
+* Is-shúu-kan, ni-shúu-kan...
+* 
+* 
+
+**4:02 - 4:05** _#jgr1-1-4_
+* 
+* Ik-ká-getsu, ni-ká-getsu...
+* 
+* 
+
+**4:07 - 4:09** _#jgr1-1-4_
+* 
+* Ichí-nen, ní-nen...
+* 
+* 
+
+**4:11 - 4:14** _#jgr1-1-4_
+* 
+* Áru hi, otóhime-sama-ga iimáshita.
+* 
+* 
+
+**4:15 - 4:18** _#jgr1-1-4_
+* 
+* Tárou-san, génki-ga arimasén ne.
+* 
+* 
+
+**4:18 - 4:20** _#jgr1-1-4_
+* 
+* Amari tabemasén ne.
+* 
+* tabemasén = tabénai<br>tabemásu = tabéru
+
+**4:21 - 4:22** _#jgr1-1-4_
+* 
+* Dóu shimáshita ka?
+* 
+* shimáshita = shita<br>shimásu = suru
+
+**4:24 - 4:31** _#jgr1-1-4_
+* 
+* Tárou-wa iimáshita. "Otóhime-sama, watashi-wa, móu, uchi-e kaerimásu."
+* 
+* 
+
+**4:33 - 4:39** _#jgr1-1-4_
+* 
+* "E? Dóu shite désu ka?"
+* 
+* 
+
+**4:41 - 4:46** _#jgr1-1-4_
+* 
+* "Uchi-ni háha-ga hitóri de imásu kara.
+* 
+* 
+
+**4:47 - 4:50** _#jgr1-1-4_
+* 
+* Sóu-desu ka. Wakarimáshita.
+* 
+* 
+
+**4:52 - 4:54** _#jgr1-1-4_
+* 
+* Jáa, kore-o dóuzo.
+* 
+* 
+
+**4:56 - 4:59** _#jgr1-1-4_
+* 
+* Otóhime-sama-wa Tárou-ni hako-o agemáshita.
+* 
+* 
+
+**5:00 - 5:03** _#jgr1-1-4_
+* 
+* Sore-wa totemo kírei-na hako-déshita.
+* 
+* hako-déshita = hako-dátta
+
+**5:05 - 5:10** _#jgr1-1-4_
+* 
+* "Arígatou gozaimásu." Tárou-wa hako-o moraimáshita.
+* 
+* moraimáshita = moratta<br>moraimásu = morau
+
+**5:21 - 5:24** _#jgr1-1-4_
+* 
+* Tárou-wa káme-ni norimáshita
+* 
+* norimásu = noru
+
+**5:27 - 5:29** _#jgr1-1-4_
+* 
+* Tárou-no uchi-no chíkaku-desu.
+* 
+* 
+
+**5:30 - 5:33** _#jgr1-1-4_
+* 
+* Tárou-wa káme-kara orimáshita.
+* 
+* 
+
+**5:46 - 5:49** _#jgr1-1-4_
+* 
+* Káme-wa ryuuguujou-ni kaerimáshita.
+* 
+* kaerimáshita = káetta<br>kaerimásu = káeru
+
+**5:51 - 5:54** _#jgr1-1-4_
+* 
+* Tárou-wa uchi-no hóu-e ikimáshita.
+* 
+* 
+
+**5:55 - 5:57** _#jgr1-1-4_
+* 
+* Démo, uchi-ga arimasén.
+* 
+* arimasén = nái
+
+**5:58 - 6:01** _#jgr1-1-4_
+* 
+* Are? Watashi-no uchi-ga arimasén.
+* 
+* arimasén = nái
+
+**6:03 - 6:16** _#jgr1-1-4_
+* 
+* Tárou-wa chíkaku-no hitó-ni kikimashita.<br><br>"Watashi-no uchi-ga arimasén. Watashi-no háha-mo imasén. Watashi-no uchi-wa dóko-desu ka. Háha-wa dóko-desu ka."
+* 
+* 
+
+**6:18 - 6:22** _#jgr1-1-4_
+* 
+* Sono hitó-wa iimáshita. "Wakarimasén."
+* 
+* wakarimasén = wakáranai<br>wakarimásu = wakáru
+
+**6:23 - 6:29** _#jgr1-1-4_
+* 
+* Hyaku-nen-máe, koko-ni uchi-ga arimáshita. Démo, íma-wa arimasén.
+* 
+* arimáshita = átta<br>arimásu = áru
+
+**6:31 - 6:36** _#jgr1-1-4_
+* 
+* Tárou-wa iimáshita. "E', hyaku-nen-máe?"
+* 
+* 
+
+**6:38 - 6:40** _#jgr1-1-4_
+* 
+* Watashi-wa hyakú-nen-mo ryuuguujou-ni...?
+* 
+* 
+
+**6:42 - 6:47** _#jgr1-1-4_
+* 
+* Tárou-ni-wa móu uchi-ga arimasén. O-káa-san-mo imasén.
+* 
+* 
+
+**6:50 - 6:52** _#jgr1-1-4_
+* 
+* Tárou-ni-wa móu nanimo arimasén.
+* 
+* 
+
+**6:54 - 6:58** _#jgr1-1-4_
+* 
+* A', arimásu. Hitótsu-dake arimásu.
+* 
+* 
+
+**6:59 - 7:04** _#jgr1-1-4_
+* 
+* Hako-ga arimásu. Ano kírei-na hako-désu.
+* 
+* 
+
+**7:05 - 7:07** _#jgr1-1-4_
+* 
+* Otóhime-sama-kara moraimáshita.
+* 
+* moraimáshita = moratta<br>moraimásu = morau
+
+**7:09 - 7:11** _#jgr1-1-4_
+* 
+* Hako-no-naka-wa nán-deshou?
+* 
+* 
+
+**7:13 - 7:15** _#jgr1-1-4_
+* 
+* Tárou-wa hako-o akemáshita.
+* 
+* 
+
+**7:17 - 7:24** _#jgr1-1-4_
+* 
+*  "Waa" Kemuri-désu. Náka-kara shirói kemuri-ga demáshita.
+* 
+* 
+
+**7:26 - 7:29** _#jgr1-1-4_
+* 
+* Tárou-wa móu wákaku arimasén.
+* 
+* wákaku arimasén = wákaku-nai<br>wakái-desu = wakái
+
+**7:30 - 7:32** _#jgr1-1-4_
+* 
+* Shirói kami-no o-jíi-san-desu.
+* 
+* 
+
+**7:35 - 7:38** _#jgr1-1-4_
+* 
+* Sore-kara Tárou-wa dóko-e ikimáshita ka?
+* 
+* 
+
+**7:39 - 7:42** _#jgr1-1-4_
+* 
+* Sore-wa dare-mo wakarimasén.
+* 
+* 
+
+## 05 warai hanashi.m4a
+
+**0:00 - 0:01** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**0:08 - 0:09** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**0:11 - 0:12** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**0:13 - 0:15** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**0:17 - 0:18** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**0:20 - 0:22** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**0:23 - 0:25** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**0:27 - 0:29** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**0:31 - 0:33** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**0:36 - 0:38** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**0:39 - 0:41** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**0:43 - 0:44** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**0:45 - 0:47** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**0:49 - 0:52** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**0:54 - 0:55** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**0:57 - 1:01** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**1:02 - 1:06** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**1:07 - 1:09** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**1:10 - 1:11** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**1:12 - 1:13** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**1:16 - 1:18** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**1:22 - 1:24** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**1:25 - 1:28** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**1:29 - 1:31** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**1:33 - 1:37** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**1:38 - 1:41** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**1:43 - 1:46** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**1:48 - 1:50** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**1:52 - 2:00** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**2:01 - 2:04** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**2:06 - 2:14** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**2:16 - 2:23** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**2:25 - 2:28** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**2:30 - 2:33** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**2:34 - 2:36** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**2:38 - 2:45** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**2:46 - 2:52** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**2:54 - 3:07** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**3:09 - 3:16** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**3:17 - 3:20** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**3:23 - 3:25** _#jgr1-1-5_
+* 
+* 
+* 
+* 
+
+**3:29 - 3:31** 
+* 
+* 
+* 
+* 
+
+**3:32 - 3:36** 
 * 
 * 
 * 

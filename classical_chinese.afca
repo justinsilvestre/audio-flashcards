@@ -1,0 +1,1845 @@
+{
+  "version": "3.0.0",
+  "timestamp": "2019-04-27T22:59:48Z",
+  "name": "Classical Chinese",
+  "id": "e659c9a0-ab1f-4b59-b67a-028beaace2d2",
+  "noteType": "Transliteration",
+  "mediaFilesMetadata": [
+    {
+      "id": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "name": "三字经.mp3",
+      "durationSeconds": 818.05775,
+      "format": "mp3",
+      "isVideo": false
+    }
+  ],
+  "tags": [
+    "sanzijing"
+  ],
+  "clips": {
+    "9ccaeb66-d093-4bef-ad50-6a84f2cfd36e": {
+      "start": 310.36,
+      "end": 647.45,
+      "id": "9ccaeb66-d093-4bef-ad50-6a84f2cfd36e",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "9ccaeb66-d093-4bef-ad50-6a84f2cfd36e",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "人之初，性本善。\n性相近，習相遠。",
+          "pronunciation": "",
+          "meaning": "At a person's beginning, their nature is fundamentally good. Our natures are close to each other, but our practices are distant from each other.",
+          "notes": ""
+        }
+      }
+    },
+    "75ff1917-c320-4351-8942-733530b8bf26": {
+      "start": 702.45,
+      "end": 1022.53,
+      "id": "75ff1917-c320-4351-8942-733530b8bf26",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "75ff1917-c320-4351-8942-733530b8bf26",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "苟不教，性乃遷。\n教之道，貴以專。",
+          "pronunciation": "goou bù jiào, xìng naai qian. jiào zhi dào, guì yii zhuan. ",
+          "meaning": "If someone is not teaching, their natures accordingly shift. As for the way of teaching, hold thoroughness as what is valuable.",
+          "notes": ""
+        }
+      }
+    },
+    "aa7079c6-a573-4e93-b5c5-f5212f213dc5": {
+      "start": 1105.2,
+      "end": 1401.57,
+      "id": "aa7079c6-a573-4e93-b5c5-f5212f213dc5",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "aa7079c6-a573-4e93-b5c5-f5212f213dc5",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "昔孟母，擇鄰處。\n子不學，斷機杼。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "9c80b49a-acc8-4cde-8cde-6395b58cc331": {
+      "start": 1466.67,
+      "end": 1776.32,
+      "id": "9c80b49a-acc8-4cde-8cde-6395b58cc331",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "9c80b49a-acc8-4cde-8cde-6395b58cc331",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "竇燕山，有義方。\n教五子，名俱揚。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e2e64381-8a6f-4cb4-8009-e27be1b44850": {
+      "start": 1858.96,
+      "end": 2148.89,
+      "id": "e2e64381-8a6f-4cb4-8009-e27be1b44850",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "e2e64381-8a6f-4cb4-8009-e27be1b44850",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "養不教，父之過。\n教不嚴，師之惰。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "a88a46e5-01fc-45c3-b6bb-2b687d34f403": {
+      "start": 2207.51,
+      "end": 2510.03,
+      "id": "a88a46e5-01fc-45c3-b6bb-2b687d34f403",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "a88a46e5-01fc-45c3-b6bb-2b687d34f403",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "子不學，非所宜。\n幼不學，老何為。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "80c38924-4ea7-4139-8086-f432c7d337c6": {
+      "start": 2596.34,
+      "end": 2880.92,
+      "id": "80c38924-4ea7-4139-8086-f432c7d337c6",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "80c38924-4ea7-4139-8086-f432c7d337c6",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "玉不琢，不成器。\n人不學，不知義。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "5379cd23-358f-4028-8978-417ec222d130": {
+      "start": 2947.68,
+      "end": 3251.38,
+      "id": "5379cd23-358f-4028-8978-417ec222d130",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "5379cd23-358f-4028-8978-417ec222d130",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "為人子，方少時。\n親師友，習禮儀。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": "15"
+        }
+      }
+    },
+    "6658ef6f-d3f7-4f6c-8731-bc11d7e53e4c": {
+      "start": 3329.62,
+      "end": 3672.13,
+      "id": "6658ef6f-d3f7-4f6c-8731-bc11d7e53e4c",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "6658ef6f-d3f7-4f6c-8731-bc11d7e53e4c",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "香九齡，能溫席。\n孝於親，所當執。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "403d81da-4234-4155-955a-cc4a680722cc": {
+      "start": 3731.78,
+      "end": 4071.54,
+      "id": "403d81da-4234-4155-955a-cc4a680722cc",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "403d81da-4234-4155-955a-cc4a680722cc",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "融四歲，能讓梨。\n弟於長，宜先知。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "51ab4691-427d-4e7b-918d-ce5e2b62fe48": {
+      "start": 4143.57,
+      "end": 4483.2,
+      "id": "51ab4691-427d-4e7b-918d-ce5e2b62fe48",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "51ab4691-427d-4e7b-918d-ce5e2b62fe48",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "首孝弟，次見聞。\n知某數，識某文。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "5107812a-621e-452a-bad2-f5ee2b8ab073": {
+      "start": 4561.18,
+      "end": 4866.53,
+      "id": "5107812a-621e-452a-bad2-f5ee2b8ab073",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "5107812a-621e-452a-bad2-f5ee2b8ab073",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "一而十，十而百。\n百而千，千而萬。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "66e39721-6560-49e2-b2cf-c0497ab00cfd": {
+      "start": 4934.65,
+      "end": 5275.8,
+      "id": "66e39721-6560-49e2-b2cf-c0497ab00cfd",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "66e39721-6560-49e2-b2cf-c0497ab00cfd",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "三才者，天地人。\n三光者，日月星。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "764afd46-3839-4868-a2f9-5e0f63587d9e": {
+      "start": 5329,
+      "end": 5685.2,
+      "id": "764afd46-3839-4868-a2f9-5e0f63587d9e",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "764afd46-3839-4868-a2f9-5e0f63587d9e",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "三綱者，君臣義。\n父子親，夫婦順。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "24f14bb4-99ea-4536-a973-844b04af18ab": {
+      "start": 5776.75,
+      "end": 6124.25,
+      "id": "24f14bb4-99ea-4536-a973-844b04af18ab",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "24f14bb4-99ea-4536-a973-844b04af18ab",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "曰春夏，曰秋冬。\n此四時，運不窮。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "dd28d60e-a5a2-437e-bae8-1cb6f3982a4f": {
+      "start": 6185.1,
+      "end": 6517,
+      "id": "dd28d60e-a5a2-437e-bae8-1cb6f3982a4f",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "dd28d60e-a5a2-437e-bae8-1cb6f3982a4f",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "曰南北，曰西東。\n此四方，應乎中。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e6f9448f-54cc-4f9a-96ad-b21e8c03ce65": {
+      "start": 6616.15,
+      "end": 6946.7,
+      "id": "e6f9448f-54cc-4f9a-96ad-b21e8c03ce65",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "e6f9448f-54cc-4f9a-96ad-b21e8c03ce65",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "曰水火，木金土。\n此五行，本乎數。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "33110a1a-d388-4743-ab20-df63b74cebf8": {
+      "start": 7015,
+      "end": 7342.95,
+      "id": "33110a1a-d388-4743-ab20-df63b74cebf8",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "33110a1a-d388-4743-ab20-df63b74cebf8",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "曰仁義，禮智信。\n此五常，不容紊。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "f64963a8-856b-4dae-a0d4-1da0c32622b7": {
+      "start": 7440.65,
+      "end": 7775.75,
+      "id": "f64963a8-856b-4dae-a0d4-1da0c32622b7",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "f64963a8-856b-4dae-a0d4-1da0c32622b7",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "稻粱菽，麥黍稷。\n此六穀，人所食。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "fe6e3b23-c610-454b-806c-d4e382f22536": {
+      "start": 7838.5,
+      "end": 8200.7,
+      "id": "fe6e3b23-c610-454b-806c-d4e382f22536",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "fe6e3b23-c610-454b-806c-d4e382f22536",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "馬牛羊，雞犬豕。\n此六畜，人所飼。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b6ed0d2e-0a18-469e-8922-3532fb959d2e": {
+      "start": 8304.7,
+      "end": 8645.85,
+      "id": "b6ed0d2e-0a18-469e-8922-3532fb959d2e",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "b6ed0d2e-0a18-469e-8922-3532fb959d2e",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "曰喜怒，曰哀懼。\n愛惡欲，七情具。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "5a156f70-8f08-46c6-baa6-73b7019c80cd": {
+      "start": 8705.85,
+      "end": 9061.4,
+      "id": "5a156f70-8f08-46c6-baa6-73b7019c80cd",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "5a156f70-8f08-46c6-baa6-73b7019c80cd",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "匏土革，木石金。\n與絲竹，乃八音。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d61d66e1-1e8d-4ea0-a81e-d6de0bfb4cb3": {
+      "start": 9177.75,
+      "end": 9512.9,
+      "id": "d61d66e1-1e8d-4ea0-a81e-d6de0bfb4cb3",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "d61d66e1-1e8d-4ea0-a81e-d6de0bfb4cb3",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "高曾祖，父而身。\n身而子，子而孫。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e6fc7e60-37ca-41bb-82e9-1ef591c2dc64": {
+      "start": 9559.9,
+      "end": 9936.9,
+      "id": "e6fc7e60-37ca-41bb-82e9-1ef591c2dc64",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "e6fc7e60-37ca-41bb-82e9-1ef591c2dc64",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "自子孫，至玄曾。\n乃九族，人之倫。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "7951aec9-dea4-4f60-8741-572ec0d8b8de": {
+      "start": 10011.9,
+      "end": 10349.65,
+      "id": "7951aec9-dea4-4f60-8741-572ec0d8b8de",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "7951aec9-dea4-4f60-8741-572ec0d8b8de",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "父子恩，夫婦從。\n兄則友，弟則恭。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "91c305e5-e169-4f5e-94b4-62e22e48a45a": {
+      "start": 10401,
+      "end": 10739.15,
+      "id": "91c305e5-e169-4f5e-94b4-62e22e48a45a",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "91c305e5-e169-4f5e-94b4-62e22e48a45a",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "長幼序，友與朋。\n君則敬，臣則忠。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "54065ca5-f641-4a88-b66c-b5c454421c38": {
+      "start": 10792.5,
+      "end": 10959.15,
+      "id": "54065ca5-f641-4a88-b66c-b5c454421c38",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "54065ca5-f641-4a88-b66c-b5c454421c38",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "此十義，人所同。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "0c964e83-a117-4de1-9304-a4654cca3ec7": {
+      "start": 11029.7,
+      "end": 11375.5,
+      "id": "0c964e83-a117-4de1-9304-a4654cca3ec7",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "0c964e83-a117-4de1-9304-a4654cca3ec7",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "凡訓蒙，須講究。\n詳訓詁，名句讀。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "8ac59e99-ff48-4844-8fc2-36e9cbb9f326": {
+      "start": 11442.4,
+      "end": 11800,
+      "id": "8ac59e99-ff48-4844-8fc2-36e9cbb9f326",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "8ac59e99-ff48-4844-8fc2-36e9cbb9f326",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "為學者，必有初。\n小學終，至四書。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d51de26d-cb12-41c1-8fbd-cbca328f90b5": {
+      "start": 11870.85,
+      "end": 12207.55,
+      "id": "d51de26d-cb12-41c1-8fbd-cbca328f90b5",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "d51de26d-cb12-41c1-8fbd-cbca328f90b5",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "論語者，二十篇。\n群弟子，記善言。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": "58"
+        }
+      }
+    },
+    "b8d8f999-5383-4d85-856d-e0c3e2557b10": {
+      "start": 12288.3,
+      "end": 12620.7,
+      "id": "b8d8f999-5383-4d85-856d-e0c3e2557b10",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "b8d8f999-5383-4d85-856d-e0c3e2557b10",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "孟子者，七篇止。\n講道德，說仁義。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "79274e7a-cd2b-4302-945d-4c71b72ebe24": {
+      "start": 12689.05,
+      "end": 13038.15,
+      "id": "79274e7a-cd2b-4302-945d-4c71b72ebe24",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "79274e7a-cd2b-4302-945d-4c71b72ebe24",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "作中庸，子思筆。\n中不偏，庸不易。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "cb2b5d5f-5f25-4b02-b1fd-1ffc44cc7b9d": {
+      "start": 13104.75,
+      "end": 13479.6,
+      "id": "cb2b5d5f-5f25-4b02-b1fd-1ffc44cc7b9d",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "cb2b5d5f-5f25-4b02-b1fd-1ffc44cc7b9d",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "作大學，乃曾子。\n自修齊，至平治。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "8af98908-5a6e-4ab0-90d5-07bdd983e01d": {
+      "start": 13560.05,
+      "end": 13922.95,
+      "id": "8af98908-5a6e-4ab0-90d5-07bdd983e01d",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "8af98908-5a6e-4ab0-90d5-07bdd983e01d",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "孝經通，四書熟。\n如六經，始可讀。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "50c9ea4d-9194-4589-b621-49fdaaff01ef": {
+      "start": 14004.5,
+      "end": 14359.15,
+      "id": "50c9ea4d-9194-4589-b621-49fdaaff01ef",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "50c9ea4d-9194-4589-b621-49fdaaff01ef",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "詩書易，禮春秋。\n號六經，當講求。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "19b481c6-2657-4051-8b3d-43b62b185898": {
+      "start": 14428.75,
+      "end": 14782.2,
+      "id": "19b481c6-2657-4051-8b3d-43b62b185898",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "19b481c6-2657-4051-8b3d-43b62b185898",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "有連山，有歸藏。\n有周易，三易詳。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e953327d-8bc4-4f05-afd5-7b44ba01ac67": {
+      "start": 14846.85,
+      "end": 15204.45,
+      "id": "e953327d-8bc4-4f05-afd5-7b44ba01ac67",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "e953327d-8bc4-4f05-afd5-7b44ba01ac67",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "有典謨，有訓誥。\n有誓命，書之奧。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b8c1c036-9bd7-441d-a69b-10cc08fafb34": {
+      "start": 15282,
+      "end": 15653.3,
+      "id": "b8c1c036-9bd7-441d-a69b-10cc08fafb34",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "b8c1c036-9bd7-441d-a69b-10cc08fafb34",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "我周公，作周禮。\n著六官，存治體。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "cbe5b9f8-78e5-4e1d-b10e-2cad6840035a": {
+      "start": 15731.3,
+      "end": 16090.65,
+      "id": "cbe5b9f8-78e5-4e1d-b10e-2cad6840035a",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "cbe5b9f8-78e5-4e1d-b10e-2cad6840035a",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "大小戴，注禮記。\n述聖言，禮樂備。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "9dcee917-a9af-488a-9b5e-2e98d1142b1a": {
+      "start": 16167.6,
+      "end": 16528.25,
+      "id": "9dcee917-a9af-488a-9b5e-2e98d1142b1a",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "9dcee917-a9af-488a-9b5e-2e98d1142b1a",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "曰國風，曰雅頌。\n號四詩，當諷詠。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "4b72fc61-02ea-4626-ad0b-675601a3c7e3": {
+      "start": 16586.05,
+      "end": 16957.75,
+      "id": "4b72fc61-02ea-4626-ad0b-675601a3c7e3",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "4b72fc61-02ea-4626-ad0b-675601a3c7e3",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "詩既亡，春秋作。\n寓褒貶，別善惡。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "5af4e0d3-d715-434b-8171-5d29042374ec": {
+      "start": 17038.8,
+      "end": 17389.95,
+      "id": "5af4e0d3-d715-434b-8171-5d29042374ec",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "5af4e0d3-d715-434b-8171-5d29042374ec",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "三傳者，有公羊。\n有左氏，有穀梁。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "6acfab87-cef7-413d-988e-ba7e67be0e35": {
+      "start": 17457,
+      "end": 17795.6,
+      "id": "6acfab87-cef7-413d-988e-ba7e67be0e35",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "6acfab87-cef7-413d-988e-ba7e67be0e35",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "經既明，方讀子。\n撮其要，記其事。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "77330f8c-effb-46d0-a9a7-5c326eeeb94f": {
+      "start": 17871.15,
+      "end": 18226.5,
+      "id": "77330f8c-effb-46d0-a9a7-5c326eeeb94f",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "77330f8c-effb-46d0-a9a7-5c326eeeb94f",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "五子者，有荀楊。\n文中子，及老莊。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "da76366a-b2e7-45bc-94a5-69493e270aa8": {
+      "start": 18312.55,
+      "end": 18685.65,
+      "id": "da76366a-b2e7-45bc-94a5-69493e270aa8",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "da76366a-b2e7-45bc-94a5-69493e270aa8",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "經子通，讀諸史。\n考世系，知終始。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "8ff4f2b2-fc10-4ea7-955a-8138ee0361a9": {
+      "start": 18741.5,
+      "end": 19103.55,
+      "id": "8ff4f2b2-fc10-4ea7-955a-8138ee0361a9",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "8ff4f2b2-fc10-4ea7-955a-8138ee0361a9",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "自羲農，至黃帝。\n號三皇，居上世。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d5e942b2-ed1f-47ca-bee0-36b0fd2b97ab": {
+      "start": 19174,
+      "end": 19542.05,
+      "id": "d5e942b2-ed1f-47ca-bee0-36b0fd2b97ab",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "d5e942b2-ed1f-47ca-bee0-36b0fd2b97ab",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "唐有虞，號二帝。\n相揖遜，稱盛世。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "3439bae6-7287-43f6-9807-1d87bda3e5d7": {
+      "start": 19602.85,
+      "end": 19948.7,
+      "id": "3439bae6-7287-43f6-9807-1d87bda3e5d7",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "3439bae6-7287-43f6-9807-1d87bda3e5d7",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "夏有禹，商有湯。\n周文武，稱三王。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c463b6e8-61e3-4fab-858d-cb8cf25ab260": {
+      "start": 20013.7,
+      "end": 20367.8,
+      "id": "c463b6e8-61e3-4fab-858d-cb8cf25ab260",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "c463b6e8-61e3-4fab-858d-cb8cf25ab260",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "夏傳子，家天下。\n四百載，遷夏社。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "bef05939-2891-492e-8797-014b99d96286": {
+      "start": 20433,
+      "end": 20774.75,
+      "id": "bef05939-2891-492e-8797-014b99d96286",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "bef05939-2891-492e-8797-014b99d96286",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "湯伐夏，國號商。\n六百載，至紂亡。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "bdb2157e-471f-4c50-bfd9-8fbda0bb89d2": {
+      "start": 20848.2,
+      "end": 21192.5,
+      "id": "bdb2157e-471f-4c50-bfd9-8fbda0bb89d2",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "bdb2157e-471f-4c50-bfd9-8fbda0bb89d2",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "周武王，始誅紂。\n八百載，最長久。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b585a4ae-0f26-4581-b824-fddb782ea3a9": {
+      "start": 21265.85,
+      "end": 21643.9,
+      "id": "b585a4ae-0f26-4581-b824-fddb782ea3a9",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "b585a4ae-0f26-4581-b824-fddb782ea3a9",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "周轍東，王綱墮。\n逞干戈，尚遊說。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "35f67750-cecf-4691-9b02-68980e586d64": {
+      "start": 21727.9,
+      "end": 22098.95,
+      "id": "35f67750-cecf-4691-9b02-68980e586d64",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "35f67750-cecf-4691-9b02-68980e586d64",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "始春秋，終戰國。\n五霸強，七雄出。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e6ce771e-711f-4dc9-83cd-818c089ae5f1": {
+      "start": 22169.15,
+      "end": 22542.75,
+      "id": "e6ce771e-711f-4dc9-83cd-818c089ae5f1",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "e6ce771e-711f-4dc9-83cd-818c089ae5f1",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "嬴秦氏，始兼并。\n傳二世，楚漢爭。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "9c9ff5db-966e-4fd6-b09f-c363c2a4de9a": {
+      "start": 22635.3,
+      "end": 22982.35,
+      "id": "9c9ff5db-966e-4fd6-b09f-c363c2a4de9a",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "9c9ff5db-966e-4fd6-b09f-c363c2a4de9a",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "高祖興，漢業建。\n至孝平，王莽篡。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e6eb2f25-e8b3-4f95-b895-9d5a48acae02": {
+      "start": 23054.5,
+      "end": 23401.75,
+      "id": "e6eb2f25-e8b3-4f95-b895-9d5a48acae02",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "e6eb2f25-e8b3-4f95-b895-9d5a48acae02",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "光武興，為東漢。\n四百年，終於獻。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "f986ea13-cd07-41b3-a500-efe75513c6b9": {
+      "start": 23477,
+      "end": 23826.75,
+      "id": "f986ea13-cd07-41b3-a500-efe75513c6b9",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "f986ea13-cd07-41b3-a500-efe75513c6b9",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "蜀魏吳，爭漢鼎。\n號三國，迄兩晉。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b2adeb7a-eb39-4d01-8be7-6318516a975b": {
+      "start": 23896.2,
+      "end": 24255.95,
+      "id": "b2adeb7a-eb39-4d01-8be7-6318516a975b",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "b2adeb7a-eb39-4d01-8be7-6318516a975b",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "宋齊繼，梁陳承。\n為南朝，都金陵。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "4260da48-1482-4f0d-b2a6-7bccea904843": {
+      "start": 24345.4,
+      "end": 24713.75,
+      "id": "4260da48-1482-4f0d-b2a6-7bccea904843",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "4260da48-1482-4f0d-b2a6-7bccea904843",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "北元魏，分東西。\n宇文周，與高齊。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "9ef48f57-7f82-427e-a326-00ae5304c04f": {
+      "start": 24781.45,
+      "end": 25162.8,
+      "id": "9ef48f57-7f82-427e-a326-00ae5304c04f",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "9ef48f57-7f82-427e-a326-00ae5304c04f",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "迨至隋，一土宇。\n不再傳，失統緒。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "786fae51-9481-4985-8f10-cff92d944b6e": {
+      "start": 25285.6,
+      "end": 25648.65,
+      "id": "786fae51-9481-4985-8f10-cff92d944b6e",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "786fae51-9481-4985-8f10-cff92d944b6e",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "唐高祖，起義師。\n除隋亂，創國基。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "af11abab-e47a-4c99-9d9b-c379b4b33007": {
+      "start": 25718.95,
+      "end": 26083.25,
+      "id": "af11abab-e47a-4c99-9d9b-c379b4b33007",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "af11abab-e47a-4c99-9d9b-c379b4b33007",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "二十傳，三百載。\n梁滅之，國乃改。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "efec5599-e007-460a-aa86-0b82e41b90e7": {
+      "start": 26158.8,
+      "end": 26514.05,
+      "id": "efec5599-e007-460a-aa86-0b82e41b90e7",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "efec5599-e007-460a-aa86-0b82e41b90e7",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "梁唐晉，及漢周。\n稱五代，皆有由。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e2a303ff-16fb-4a18-9a55-54aaa6869df8": {
+      "start": 26579.9,
+      "end": 26975.6,
+      "id": "e2a303ff-16fb-4a18-9a55-54aaa6869df8",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "e2a303ff-16fb-4a18-9a55-54aaa6869df8",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "炎宋興，受周禪。\n十八傳，南北混。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c8dc50e0-4557-4e61-a573-77454996651f": {
+      "start": 27056.4,
+      "end": 27395.5,
+      "id": "c8dc50e0-4557-4e61-a573-77454996651f",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "c8dc50e0-4557-4e61-a573-77454996651f",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "遼與金，皆稱帝。\n元滅金，絕宋世。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "65063b31-59a6-433a-86d3-64b441d4ed62": {
+      "start": 27475.7,
+      "end": 27828.95,
+      "id": "65063b31-59a6-433a-86d3-64b441d4ed62",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "65063b31-59a6-433a-86d3-64b441d4ed62",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "蒞中國，兼戎狄。\n九十年，國祚廢。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "1362ff21-3199-434a-9a81-766fec9bec46": {
+      "start": 27900.8,
+      "end": 28280.9,
+      "id": "1362ff21-3199-434a-9a81-766fec9bec46",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "1362ff21-3199-434a-9a81-766fec9bec46",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "太祖興，國大明。\n號洪武，都金陵。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "7afb47e4-009c-457e-8e46-8d75cfb7d5d7": {
+      "start": 28360.05,
+      "end": 28710.45,
+      "id": "7afb47e4-009c-457e-8e46-8d75cfb7d5d7",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "7afb47e4-009c-457e-8e46-8d75cfb7d5d7",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "迨成祖，遷燕京。\n十七世，至崇禎。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "37c11c7f-167b-402e-a9fe-45f692d9949a": {
+      "start": 28795.3,
+      "end": 29139.8,
+      "id": "37c11c7f-167b-402e-a9fe-45f692d9949a",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "37c11c7f-167b-402e-a9fe-45f692d9949a",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "權閹肆，寇如林。\n至李闖，神器焚。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "eda29be5-6dea-4027-8df1-d8243e56b54e": {
+      "start": 29205.55,
+      "end": 29568.25,
+      "id": "eda29be5-6dea-4027-8df1-d8243e56b54e",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "eda29be5-6dea-4027-8df1-d8243e56b54e",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "清太祖，膺景命。\n靖四方，克大定。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "98a50b84-65ed-441b-bcf2-dcfaea9f19af": {
+      "start": 29645.95,
+      "end": 30025.75,
+      "id": "98a50b84-65ed-441b-bcf2-dcfaea9f19af",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "98a50b84-65ed-441b-bcf2-dcfaea9f19af",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "廿一史，全在茲。\n載治亂，知興衰。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b57dcbd9-cbe8-4b20-97e9-0361548f0519": {
+      "start": 30086.75,
+      "end": 30411.15,
+      "id": "b57dcbd9-cbe8-4b20-97e9-0361548f0519",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "b57dcbd9-cbe8-4b20-97e9-0361548f0519",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "讀史書，考實錄。\n通古今，若親目。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "dc39bbc7-7a45-47ff-9a32-3f2e42e1d04f": {
+      "start": 30494.45,
+      "end": 30810.75,
+      "id": "dc39bbc7-7a45-47ff-9a32-3f2e42e1d04f",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "dc39bbc7-7a45-47ff-9a32-3f2e42e1d04f",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "口而誦，心而維。\n朝於斯，夕於斯。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "2eb1f0cd-85e4-4d93-a12e-e1d8d2a0b39e": {
+      "start": 30875.7,
+      "end": 31265.05,
+      "id": "2eb1f0cd-85e4-4d93-a12e-e1d8d2a0b39e",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "2eb1f0cd-85e4-4d93-a12e-e1d8d2a0b39e",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "昔仲尼，師項橐。\n古聖賢，尚勤學。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "8d4199b8-8135-472d-ad2f-5041b3df79a7": {
+      "start": 31333.35,
+      "end": 31711.5,
+      "id": "8d4199b8-8135-472d-ad2f-5041b3df79a7",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "8d4199b8-8135-472d-ad2f-5041b3df79a7",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "趙中令，讀魯論。\n彼既仕，學且勤。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "4c48866c-2f79-4a31-855c-22fa2dfdd4eb": {
+      "start": 31788.25,
+      "end": 32169.1,
+      "id": "4c48866c-2f79-4a31-855c-22fa2dfdd4eb",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "4c48866c-2f79-4a31-855c-22fa2dfdd4eb",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "披蒲編，削竹簡。\n彼無書，且知勉。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c2951404-d609-43f9-8ea3-e95d80c94486": {
+      "start": 32234.25,
+      "end": 32624.2,
+      "id": "c2951404-d609-43f9-8ea3-e95d80c94486",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "c2951404-d609-43f9-8ea3-e95d80c94486",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "頭懸梁，錐刺股。\n彼不教，自勤苦。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "f68b94fb-3a14-4fd2-b433-b860ed277c6a": {
+      "start": 32705.8,
+      "end": 33066.15,
+      "id": "f68b94fb-3a14-4fd2-b433-b860ed277c6a",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "f68b94fb-3a14-4fd2-b433-b860ed277c6a",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "如囊螢，如映雪。\n家雖貧，學不輟。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "ebf8c5f9-3cf6-49fd-b423-ef313047b6d3": {
+      "start": 33142.55,
+      "end": 33515.95,
+      "id": "ebf8c5f9-3cf6-49fd-b423-ef313047b6d3",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "ebf8c5f9-3cf6-49fd-b423-ef313047b6d3",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "如負薪，如掛角。\n身雖勞，猶苦卓。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "936d5e92-9090-4f6a-879e-8596474ad9dd": {
+      "start": 33609.8,
+      "end": 33968.9,
+      "id": "936d5e92-9090-4f6a-879e-8596474ad9dd",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "936d5e92-9090-4f6a-879e-8596474ad9dd",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "蘇老泉，二十七。\n始發憤，讀書籍。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "6cc43495-a0cc-4118-81cc-832789bca7a6": {
+      "start": 34041.4,
+      "end": 34427.5,
+      "id": "6cc43495-a0cc-4118-81cc-832789bca7a6",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "6cc43495-a0cc-4118-81cc-832789bca7a6",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "彼既老，猶悔遲。\n爾小生，宜早思。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "986bc769-ac3b-4af3-ae03-8c2ed835d726": {
+      "start": 34513.1,
+      "end": 34846.95,
+      "id": "986bc769-ac3b-4af3-ae03-8c2ed835d726",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "986bc769-ac3b-4af3-ae03-8c2ed835d726",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "若梁灝，八十二。\n對大廷，魁多士。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e0f4f129-2e04-40e2-8668-c10617cba767": {
+      "start": 34908.8,
+      "end": 35278.9,
+      "id": "e0f4f129-2e04-40e2-8668-c10617cba767",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "e0f4f129-2e04-40e2-8668-c10617cba767",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "彼既成，眾稱異。\n爾小生，宜立志。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "15450f75-7df1-4d05-a5d3-255be4e78893": {
+      "start": 35357.1,
+      "end": 35711,
+      "id": "15450f75-7df1-4d05-a5d3-255be4e78893",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "15450f75-7df1-4d05-a5d3-255be4e78893",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "瑩八歲，能詠詩。\n泌七歲，能賦棋。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "56f2f16d-2397-4e37-854c-d469b1b5df54": {
+      "start": 35785.45,
+      "end": 36138.7,
+      "id": "56f2f16d-2397-4e37-854c-d469b1b5df54",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "56f2f16d-2397-4e37-854c-d469b1b5df54",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "彼穎悟，人稱奇。\n爾幼學，當效之。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "7b6c8df2-c8a8-488d-8bf0-7ea0f91a0284": {
+      "start": 36219.6,
+      "end": 36566.35,
+      "id": "7b6c8df2-c8a8-488d-8bf0-7ea0f91a0284",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "7b6c8df2-c8a8-488d-8bf0-7ea0f91a0284",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "蔡文姬，能辨琴。\n謝道韞，能詠吟。",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "bfb66fd3-b17c-4832-a28e-cdc328c183a6": {
+      "start": 36623.4,
+      "end": 36995.25,
+      "id": "bfb66fd3-b17c-4832-a28e-cdc328c183a6",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "bfb66fd3-b17c-4832-a28e-cdc328c183a6",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "pronunciation": "",
+          "meaning": "",
+          "notes": "",
+          "transcription": "彼女子，且聰敏。\n爾男子，當自警。"
+        }
+      }
+    },
+    "c30e4074-f847-4ffd-8736-6972ab602f58": {
+      "start": 37070.95,
+      "end": 37406.75,
+      "id": "c30e4074-f847-4ffd-8736-6972ab602f58",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "c30e4074-f847-4ffd-8736-6972ab602f58",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "pronunciation": "",
+          "meaning": "",
+          "notes": "",
+          "transcription": "唐劉晏，方七歲。\n舉神童，作正字。"
+        }
+      }
+    },
+    "560ee9fc-dc56-4d2f-a1e0-de53ad5c263c": {
+      "start": 37477.05,
+      "end": 37839.1,
+      "id": "560ee9fc-dc56-4d2f-a1e0-de53ad5c263c",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "560ee9fc-dc56-4d2f-a1e0-de53ad5c263c",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "pronunciation": "",
+          "meaning": "",
+          "notes": "",
+          "transcription": "彼雖幼，身己仕。\n爾幼學，勉而致。"
+        }
+      }
+    },
+    "f07e428f-c559-4abf-9dfb-2fc6b247682d": {
+      "start": 37913.4,
+      "end": 38077.5,
+      "id": "f07e428f-c559-4abf-9dfb-2fc6b247682d",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "f07e428f-c559-4abf-9dfb-2fc6b247682d",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "pronunciation": "",
+          "meaning": "",
+          "notes": "",
+          "transcription": "有為者，亦若是。"
+        }
+      }
+    },
+    "5669c192-a256-40da-bb07-53eb081674b9": {
+      "start": 38225,
+      "end": 38593.95,
+      "id": "5669c192-a256-40da-bb07-53eb081674b9",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "5669c192-a256-40da-bb07-53eb081674b9",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "pronunciation": "",
+          "meaning": "",
+          "notes": "",
+          "transcription": "犬守夜，雞司晨。\n苟不學，曷為人。"
+        }
+      }
+    },
+    "f1d10689-fbd5-4733-8a65-f55c8c759f42": {
+      "start": 38658.15,
+      "end": 38995.85,
+      "id": "f1d10689-fbd5-4733-8a65-f55c8c759f42",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "f1d10689-fbd5-4733-8a65-f55c8c759f42",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "pronunciation": "",
+          "meaning": "",
+          "notes": "",
+          "transcription": "蠶吐絲，蜂釀蜜。\n人不學，不如物。"
+        }
+      }
+    },
+    "ea0c61c2-6c01-44f1-a509-417e3775d8f9": {
+      "start": 39068.1,
+      "end": 39410.25,
+      "id": "ea0c61c2-6c01-44f1-a509-417e3775d8f9",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "ea0c61c2-6c01-44f1-a509-417e3775d8f9",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "pronunciation": "",
+          "meaning": "",
+          "notes": "",
+          "transcription": "幼而學，壯而行。\n上致君，下澤民。"
+        }
+      }
+    },
+    "4220676e-8384-4aa4-bf46-eaed4b5493cc": {
+      "start": 39462.75,
+      "end": 39819.75,
+      "id": "4220676e-8384-4aa4-bf46-eaed4b5493cc",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "4220676e-8384-4aa4-bf46-eaed4b5493cc",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "pronunciation": "",
+          "meaning": "",
+          "notes": "",
+          "transcription": "揚名聲，顯父母。\n光於前，裕於後。"
+        }
+      }
+    },
+    "a9b1a9fb-3852-4630-81cb-8a2fc47b467b": {
+      "start": 39897.8,
+      "end": 40267.05,
+      "id": "a9b1a9fb-3852-4630-81cb-8a2fc47b467b",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "a9b1a9fb-3852-4630-81cb-8a2fc47b467b",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "pronunciation": "",
+          "meaning": "",
+          "notes": "",
+          "transcription": "人遺子，金滿籯。\n我教子，惟一經。"
+        }
+      }
+    },
+    "83beeb31-091e-448b-bdd9-0d374b53078f": {
+      "start": 40364.85,
+      "end": 40772.2,
+      "id": "83beeb31-091e-448b-bdd9-0d374b53078f",
+      "fileId": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "flashcard": {
+        "id": "83beeb31-091e-448b-bdd9-0d374b53078f",
+        "tags": [
+          "sanzijing"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "pronunciation": "",
+          "meaning": "",
+          "notes": "",
+          "transcription": "勤有功，戲無益。\n戒之哉，宜勉力。"
+        }
+      }
+    }
+  }
+}

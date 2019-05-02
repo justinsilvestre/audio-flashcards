@@ -1,13 +1,13 @@
 {
   "version": "3.0.0",
-  "timestamp": "2019-04-22T21:26:43Z",
+  "timestamp": "2019-05-02T09:23:01Z",
   "name": "Basic Japanese",
   "id": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
   "noteType": "Transliteration",
   "mediaFilesMetadata": [
     {
       "id": "b0cd359c-28f9-424e-a643-21cd368d4e19",
-      "name": "Shadowing Beginner to Intermediate.mp4",
+      "name": "Japanese Listening (N5-N4-N3) - Shadowing lets speak Japanese beginner to intermediate (N5 N4 N3).mp4",
       "durationSeconds": 3997.500911,
       "format": "mov,mp4,m4a,3gp,3g2,mj2",
       "isVideo": true
@@ -46,6 +46,13 @@
       "durationSeconds": 646.280998,
       "format": "mov,mp4,m4a,3gp,3g2,mj2",
       "isVideo": false
+    },
+    {
+      "id": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
+      "name": "piggeldy-der-mond.mp4",
+      "durationSeconds": 187.385,
+      "format": "mov,mp4,m4a,3gp,3g2,mj2",
+      "isVideo": true
     }
   ],
   "tags": [
@@ -136,7 +143,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "",
-          "pronunciation": "Urashima Tarou-wa Nihón-no furúi hanashí-desu.",
+          "pronunciation": "Urashima Tarou-wa Nihon-no furúi hanashí-desu.",
           "meaning": "",
           "notes": ""
         }
@@ -287,7 +294,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "そう？\nそう。",
           "pronunciation": "Sóu?\nSóu.",
           "meaning": "Is that so? (casual)\nYeah. (casual)",
           "notes": "Literally, \"so, that way, like that, thus\".\n\nAfter the accented vowel, the pitch goes down. Pitch accent isn't usually marked in Japanese transliteration.\n\n\"Ou\" is pronounced like \"oo\"' in most words. When you see two vowels in a row like this, make sure to pronounce each separately."
@@ -363,7 +370,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "え〜、どれ？これ？\nうん。それ。",
           "pronunciation": "Ee, dóre? Kore?\nÚn. Sore.",
           "meaning": "Really? Which one? This one? (casual)\nYup, that one. (casual)",
           "notes": "\"Sore\" specifically means \"that one (close to you)\". There is a different word for \"that one (over there, far from us both).\n\nWhen the accent doesn't fall on the first syllable of an utterance, the first syllable has a low pitch, and all the rest are high until a word containing a downstep. Hence why the speakers' voices go up as they say \"kore\" and \"sore\".\n\nhttps://www.youtube.com/watch?v=CnBYZJ33MsY"
@@ -421,7 +428,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "",
-          "pronunciation": "Jón-san-wa, kotoshi-no shi-gatsú-kara Nihón-no gakkou-de benkyou shimasu.",
+          "pronunciation": "Jón-san-wa, kotoshi-no shi-gatsú-kara Nihon-no gakkou-de benkyou shimasu.",
           "meaning": "John will be studying Japanese starting this April. (polite)",
           "notes": "kotoshi = this year\n\nshimásu = suru (irregular)\n\nbenkyou = studies\nbenkyou suru = to study"
         }
@@ -496,7 +503,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "おいしい？\nうん。おいしいよ。",
           "pronunciation": "Oishii?\nÚn. Oishii yo.",
           "meaning": "Is it tasty? (casual)\nYeah, it's good. (casual)",
           "notes": "You can put \"yo\" at the end of almost any sentence to give it a kind of assertive feeling. There are lots of sentence-ending \"particles\" like this, that give different feelings. \n\nhttps://www.youtube.com/watch?v=szjfbOZmY1k"
@@ -553,7 +560,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "はい？\nはい。",
           "pronunciation": "Hai?\nHai.",
           "meaning": "Yes? (polite)\nYes. (polite)",
           "notes": ""
@@ -648,7 +655,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "きれい？\nきれい。",
           "pronunciation": "Kírei?\nKírei.",
           "meaning": "[Is it] pretty? (casual)\nYes, it is. (casual)",
           "notes": "Japanese doesn't use pronouns like English. \"It\" is understood here.\n\nThe sound combination \"ei\" is often pronounced as a long \"ee\"."
@@ -743,7 +750,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "本当？\n本当。",
           "pronunciation": "Hontou?\nHontou.",
           "meaning": "Really? (casual)\nReally. (casual)",
           "notes": "This \"n\" is the one kana that doesn't have a vowel. It's sometimes called a \"syllabic n\".\n\nThis word has four \"beats\": HO-N-TO-O. Linguists call these beats \"morae\" (singular \"mora\"), but you'll also hear people calling them syllables. What's important is that you pronounce each kana sound separately and with mostly equal duration."
@@ -855,7 +862,7 @@
         "tags": [],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "田中さん？\n田中さん。",
           "pronunciation": "Tanaka-san?\nTanaka-san.",
           "meaning": "Tanaka-san? (casual)\nTanaka-san. (casual)",
           "notes": "\"San\" is used more often that its usual translation, \"Mr./Mrs.\""
@@ -950,7 +957,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "いい？\nいいよ。",
           "pronunciation": "Íi?\nÍi yo.",
           "meaning": "Is that OK? (casual)\nIt's fine. (casual)",
           "notes": "\"Ii\" was originally \"yói\". Now \"yói\" is reserved for more formal contexts."
@@ -1045,7 +1052,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "ここ？\nうん。そこ。",
           "pronunciation": "Koko?\nÚn, soko.",
           "meaning": "Here? (casual)\nYep, there. (casual)",
           "notes": "Just like \"sore\", \"soko\" specifically means \"there (close to you)\", as opposed to \"there (away from the both of us).\""
@@ -1121,7 +1128,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "わかった？\nはい。わかりました。",
           "pronunciation": "Wakátta?\nHai, wakarimáshita.",
           "meaning": "Do you understand? (casual)\nYes, I understand. (polite)",
           "notes": "\"Wakátta\" has FOUR beats, because of the doubled consonants: WA-KÁ-T-TA. Also, the vowel in \"shi\" tends to disappear--this happens sometimes with the \"i\" and \"u\" sounds in fast speech. \n\nLiterally, \"Was it understood? Yes, it was understood.\" From \"wakáru, wakarimásu\", \"to be understood\".\n\nThis exchange sounds like a teacher and a student because of the use of casual speech on the one speaker's part and formal on the other."
@@ -1330,7 +1337,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "こんにちは。\nこんにちは。",
           "pronunciation": "Konnichiwa.\nKonnichiwa.",
           "meaning": "Hello. (polite)\nHello. (polite)",
           "notes": "In one of the few exceptions in modern Japanese kana, the \"wa\" here is written \"ha\". This \"wa\" is a particle often translated to \"as for, regarding\", but it's used much more often than its English translations. It's sometimes called the \"topic marker\".\n\nThe literal historical meaning of this phrase is \"As for today, [how are you doing?]\" But today, it's really just a polite hello."
@@ -1387,7 +1394,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "先生、おはようございます。\nおはよう。",
           "pronunciation": "Senséi, ohayou gozaimásu.\nOhayou.",
           "meaning": "Good morning, sensei. (polite)\nGood morning. (casual)",
           "notes": "Sensei could be a teacher, doctor, or someone else in a position of respect.\n\nFormal language is usually longer than casual language. The more respect the speaker is trying to show, the longer their speech tends to get."
@@ -1501,7 +1508,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "えみさん、じゃーね。\nうん。また明日。",
           "pronunciation": "Émi-san, jáa ne.\nÚn, matá ashitá.",
           "meaning": "I'll see you later Emi-san. (casual)\nSee you tomorrow. (casual)",
           "notes": "\"Jáa ne\" is basically a casual \"bye\".\n\"Matá ashitá\" is literally \"again tomorrow\"."
@@ -1596,7 +1603,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "お先に失礼します。\nおつかれさまー。",
           "pronunciation": "O-saki-ni shitsúrei shimásu.\nO-tsukare-sama.",
           "meaning": "Excuse me for leaving early. (polite)\nSee you tomorrow [thanks for your hard work]. (casual)",
           "notes": "Literally, \"[I will] do [the] discourtesy [of leaving] first,\" and then \"[you must be] tired.\"\n\nThis sounds like an exchange between a junior coworker and senior coworker."
@@ -1691,7 +1698,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "あ〜あ。\nすみません。",
           "pronunciation": "Áa.\nSumimasén.",
           "meaning": "Ahh (look what you've done).\nI'm sorry. (polite)",
           "notes": ""
@@ -1805,7 +1812,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "いってきます。\nいってらっしゃい。",
           "pronunciation": "Itte kimásu.\nItte rasshai.",
           "meaning": "I'm off, see you later. (leaving home)\nSee you later. (staying home)",
           "notes": "These are set phrases for when you leave your home. Literally \"I'm going and will come back\", and \"Go and come.\""
@@ -1900,7 +1907,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "ただいまー。\nおかえりー。",
           "pronunciation": "Tadáima.\nO-kaerí.",
           "meaning": "I'm home.\nWelcome home.",
           "notes": "Literally, \"[I'm arriving back] just now. Do come home.\"\n\n \"O-kaerí\" is from \"káeru\", \"to go/come home\". The complete form \"o-kaeri-nasai\" is a polite command."
@@ -1976,7 +1983,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "どうもありがとうおざいます。\nいいえ、どういたしまして。",
           "pronunciation": "Dóumo arígatou gozaimasu.\nIie, dóu itashimáshite.",
           "meaning": "Thank you very much. (polite)\nNot at all, you're welcome. (polite)",
           "notes": "The \"-ou gozaimasu\" ending here is the same as in \"ohayou gozaimasu\". It comes from an archaic polite sentence ending that's normally not used today, except in these set phrases."
@@ -2052,7 +2059,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "いい天気ですね。\nええ、そうですね。",
           "pronunciation": "Íi ténki-desu ne.\nÉe, sóu-desu ne.",
           "meaning": "Nice weather isn't it? (polite)\nYes, it is. (polite)",
           "notes": "\"Ne\" is a sentence-ending particle like \"yo\". It marks that the speaker is seeking agreement.\n\n\"Desu\" is a polite word for \"is, are, am\".\n\n\"Ee\" is polite, but just a touch more casual than \"hai\"."
@@ -2166,7 +2173,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "お元気ですか？\nはい、元気です。",
           "pronunciation": "O-génki-desu ka?\nHai, génki-desu.",
           "meaning": "How are you? (polite)\nI'm very well, thank you. (polite)",
           "notes": "Literally, \"Are [you] lively/energetic? Yes, [I] am lively/energetic.\"\n\n\"Ka\" is a sentence-ending particle for questions. It's used more often in formal sentences than casual ones.\n\nThe \"o\" in \"o-génki\" and \"o-tsukaresama\" is a mark of politeness, sometimes translated as \"honorable, honorably.\" It shows that you're trying to show respect or deference towards the referent.\n\nWhen you're talking about yourself, you don't say \"o-genki-desu\", because why would you be polite to yourself?"
@@ -2356,7 +2363,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "何時ですか。\n９時です。",
           "pronunciation": "Nán-ji-desu ka?\nKú-ji-desu.",
           "meaning": "What time is it? (polite)\nIt's 9 o'clock. (polite)",
           "notes": "Literally, \"What-hour is [it]?\" \"[It]'s nine-hour.\""
@@ -2394,7 +2401,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "今、何時ですか？\n４時。",
           "pronunciation": "Íma, nán-ji-desu ka?\nYó-ji.",
           "meaning": "What time is it right now? (polite)\nFour o'clock. (casual)",
           "notes": "\"Four\" is more usually \"yón\", but it gets shortened to \"yó-\" in \"yó-ji\"."
@@ -2508,7 +2515,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": " ",
+          "transcription": " 何時にねましたか？\n１１時半ぐらいです。",
           "pronunciation": "Nán-ji-ni nemáshita ka?\nJuu-ichi-ji-han-gúrai-desu.",
           "meaning": "What time did [you] go to sleep? (polite)\nIt was around 11:30. (polite)",
           "notes": "Literally, \"At what hour did [you] sleep? [It] is ten-one-hour-half-about [that I went to sleep].\"\n\nNotice the placement of particle \"ni\" (\"at, to\"). Unlike English prepositions, Japanese particles go AFTER their object.\n\n\"Nemáshita\" is the formal version of \"neta\", \"slept\". From \"neru\", \"sleep\". Remember, the \"mas-\" marks politeness, and the \"ta\" marks past.\n\n(Compare \"wakarimáshita, wakátta, wakáru.\""
@@ -2603,7 +2610,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "テストは何時からですか？\n１０時からですよ。",
           "pronunciation": "Tésuto-wa nán-ji-kara-desu ka?\nJúu-ji-kara-desu yo.",
           "meaning": "From what time is the test? (polite)\nIt's from 10 o'clock! (polite)",
           "notes": "Literally, \"As for [the] test, from what-hour is [it]?\"\n\n\"Kara\" (\"from\") is another particle like \"wa\" and \"ni\". Again, it particle goes AFTER its object, even though it might translate to an English preposition, which goes before its object."
@@ -2679,7 +2686,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "今日は何日ですか？\n４月1日です。",
           "pronunciation": "Kyóu-wa nán-nichi-desu ka?\nShi-gatsú tsuitachí-desu.",
           "meaning": "What's the date today? (polite)\nIt's the 1st of April. (polite)",
           "notes": "Literally, \"As for today, what-day is [it]? [It] is four-month firstdayofthemonth.\"\n\nIn many other contexts you can also say \"yón\" to mean \"four\", but not with \"gatsú\" month--April is always \"shi-gatsú\".\n\nFor some reason, instead of saying \"first\" and \"day\" to mean \"first day of the month,\" there's this special word for that, \"tsuitachí.\""
@@ -2812,7 +2819,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "今日は何曜日？\n水曜日だよ。",
           "pronunciation": "Kyóu-wa nan-yóubi? (casual)\nSuiyóubi-da yo. (casual)",
           "meaning": "What day is it today?\nIt's Wednesday.",
           "notes": "Literally, \"As for today, what-weekday [is it]? [It] is Wednesday.\"\n\n\"Da\" is the casual counterpart to \"desu\", but it has a slightly assertive tone, and is often left out, especially in feminine speech."
@@ -2926,7 +2933,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "誕生日はいつですか？\n８月２０です。",
           "pronunciation": "Tanjóubi-wa ítsu-desu ka?\nHachi-gatsú hatsuka-désu.",
           "meaning": "When is [your] birthday? (polite)\nIt's on the 20th of August. (polite)",
           "notes": "Literally, \"As for [your] birthday, when is [it]? [It]'s eight-month twentieth.\"\n\nTwenty is normally \"ni-juu\" (\"two-ten\"), but the twentieth day of the month is \"hatsuka\". "
@@ -3040,7 +3047,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "銀行は何時から何時までですか？\n９時から３時までです。",
           "pronunciation": "Ginkou-wa nán-ji-kara nánji-made-desu ka?\nKú-ji-kara sán-ji-made-desu.",
           "meaning": "What time is [the] bank open? (polite)\nFrom 9 till 3. (polite)",
           "notes": "Literally, \"As for [the] bank, from what-hour until what-hour is [it]?\""
@@ -3116,8 +3123,8 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
-          "pronunciation": "Kotoshi-wa nán-nen?\nNi-sén rokú-nen. Heisei juu-hachi-nén-da yo.",
+          "transcription": "今年は何年？\n２００６年。平成１８年だよ。",
+          "pronunciation": "Kotoshi-wa nán-nen?\nNi-sén roku-nén. Heisei juu-hachi-nén-da yo.",
           "meaning": "What year is it?\n2006. It's the 18th year of the Heisei era!",
           "notes": "Literally, \"As for this year, what year [is it]? Two-thousand six-year. It's Heisei ten-eight-year (you know)!\"\n\nThe traditional Japanese calendar is still used for some purposes, and is split into eras corresponding to the rule of different emperors. We've just entered the \"Reiwa\" era."
         }
@@ -3211,7 +3218,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "日本に来て、どのぐらいですか？\n1年三ヶ月です。",
           "pronunciation": "Nihón-ni kíte, dono-gurai-désu ka?\nIchí-nen san-ka-gétsu-desu.",
           "meaning": "How long has it been since [you] came to Japan?\nOne year and three months.",
           "notes": "Literally, \"Since [you] came to Japan, how much/long is [it]? [It]'s one-year three months long.\"\n\nThis \"kíte\" is related to the \"kimásu\" in \"itte kimásu\"--from \"kúru\", \"to come\". This \"te\" form is little bit like an English present participle. I like to think of it like a built-in \"and\" into the verb. So you might translate \"Nihón-ni kíte...\"  as \"[you] come/came to Japan and...\", or \"having come to Japan\", \"since [you] came to Japan\"..."
@@ -3420,7 +3427,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "はじめまして。渡辺です。\n田中です。どうぞよろしく。",
           "pronunciation": "Hajimemáshite. Watanabe-désu.\nTanaka-désu. Dóuzo yoroshiku.",
           "meaning": "Nice to meet you. I'm Watanabe. (polite)\nI'm Tanaka. Please treat me well. (polite)",
           "notes": "\"Dóuzo yoroshiku\" is sometimes translated as \"Nice to meet you, I'm looking forward to working with you.\" But Japanese people say it before all sorts of exchanges, as a nice way of acknowledging future cooperation."
@@ -3534,7 +3541,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "鈴木さんですか？\nはい、そうです。",
           "pronunciation": "Suzuki-san-désu ka?\nHái, sóu-desu.",
           "meaning": "Are [you] Suzuki? (polite)\nYes, that's right. (polite)",
           "notes": ""
@@ -3572,7 +3579,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "佐藤さんですか？\nいいえ、加藤です。",
           "pronunciation": "Sátou-san-desu ka?\nIie, Kátou-desu.",
           "meaning": "Are [you] Satou?\nNo, I'm Katou.",
           "notes": ""
@@ -3648,7 +3655,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "あれは日本語で何ですか？\nあれ？あ、あれは交番ですよ。",
           "pronunciation": "Are-wa nihongo-de nán-desu ka?\nAre? A, are-wa kouban-désu yo.",
           "meaning": "What is that [over there] in Japanese?\nThat [over there]? Oh, that's a police box.",
           "notes": "This \"de\" means \"with, by, using\""
@@ -3724,7 +3731,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "それは何ですか？\nデジカメです。",
           "pronunciation": "Sore-wa nán-desu ka?\nDejikame-désu.",
           "meaning": "What's that [by you]?\nIt's [a] digital camera.",
           "notes": ""
@@ -3819,7 +3826,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "山田さんの部屋は何階ですか？\n３階です。",
           "pronunciation": "Yamada-san-no heyá-wa nan-kai-désu ka?\nSan-gai-désu.",
           "meaning": "What floor is Yamada-san's room? (polite)\nIt's the 3rd floor. (polite)",
           "notes": ""
@@ -3895,7 +3902,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "お名前は？\nペドロです。\nお国は？\nスペインです。",
           "pronunciation": "O-namae-wa?\nPédoro-desu.\nO-kuni-wa?\nSupéin-desu.",
           "meaning": "Your name, please? (polite)\nPedro. (polite)\nYour country, please? (polite)\nSpain. (polite)",
           "notes": "Literally, \"As for [your] honorable name? ... As for [your] honorable country?\"\n\nIt sounds like Pedro is a customer at a hotel or somewhere, and the employee is filling out some form for him. The \"o-\" is a sign of respect. "
@@ -3952,7 +3959,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "ノート、3冊ください。\nはい、3冊ですね。",
           "pronunciation": "Nóoto, sán-satsu kudasái.\nHái, sán-satsu-desu ne.",
           "meaning": "Three notebooks, please. (polite)\nYes, Ma'am, three, right? (polite)",
           "notes": "Literally, \"Notebooks, three(-volumes) please-give [me].\"\n\nJapanese uses measure words when counting things, where in English you would just use a number alone. There are lots of them! \"Satsu\" is used for books, magazines, etc. "
@@ -4028,7 +4035,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "駅までどのぐらいですか？\n１キロぐらいです。",
           "pronunciation": "Éki-made dono-gurai-désu ka?\nIchi-kiro-gúrai-desu.",
           "meaning": "How far is it to [the] station?\nIt's about 1 kilometer.",
           "notes": ""
@@ -4085,7 +4092,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "新宿駅はどこですか？\nあそこですよ。",
           "pronunciation": "Shinjuku-éki-wa dóko-desu ka?\nAsoko-désu yo.",
           "meaning": "Where is Shinjuku station?\nIt's over there.",
           "notes": ""
@@ -4199,7 +4206,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "何才ですか？\n２８才です。",
           "pronunciation": "Nán-sai-desu ka?\nNí-juu hás-sai-desu.",
           "meaning": "How old are [you]?\n[I] am 28 years old.",
           "notes": "The two-more (two-\"syllable\") numbers often get their second syllable assimilated into measure words.\n\ne.g.\nichí + sai = íssai (one year old)\nhachí + sai = hás-sai (eight years old)\njúu + sai = jús-sai (ten years old)"
@@ -4237,7 +4244,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "どんな映画を見ますか？\nコメぢーをよく見ますね。",
           "pronunciation": "Dónna eiga-o mimásu ka?\nKómedii-o yóku mimásu ne.",
           "meaning": "What kind of movies do [you] watch?\n[I] watch lots of comedies, (now that I think of it).",
           "notes": "yóku = well, often\n\n\"-O\" often marks the direct object of the verb. It's written with the hiragana \"wo\", the only modern usage of this kana."
@@ -4313,7 +4320,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "黄色と赤の花をください。\nはい、黄色と赤ですね。",
           "pronunciation": "Kiiro-to áka-no haná-o kudasái.\nHai, kiiro-to áka-desu ne.",
           "meaning": "I'd like [the] yellow and red flowers, please. (polite)\nOf course, yellow and red, (right?) (polite)",
           "notes": "\"kudasái\" literally means \"please give [me]\"."
@@ -4389,7 +4396,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "今日は暑いですね。\nええ、本当に。",
           "pronunciation": "Kyóu-wa atsui-désu ne.\nÉe, hontou-ni.",
           "meaning": "It's hot today, isn't it? (polite)\nYes, it really is.",
           "notes": ""
@@ -4408,7 +4415,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": ".",
+          "transcription": "日本語の勉強はどうですか？\n漢字はむずかしいでが、とても面白いです。",
           "pronunciation": "Nihongo-no benkyou-wa dóu-desu ka?\nKanji-wa muzukashíi-desu ga, totemo omoshirói-desu.",
           "meaning": "How are [your] Japanese studies?\n[The] kanji are hard, but it's very interesting.",
           "notes": "omoshirói = interesting, funny"
@@ -4465,7 +4472,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "いくらですか？\n２１０です。",
           "pronunciation": "Íkura-desu ka?\nNi-hyaku-juu-en-désu.",
           "meaning": "How much is it? (polite)\n200 yen. (polite)",
           "notes": ""
@@ -4522,7 +4529,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "テスト、むずかしいですか？\nいいえ、かんたんですよ。",
           "pronunciation": "Tésuto, muzukashíi-desu ka?\nIie, kantan-désu yo.",
           "meaning": "Is the test hard? (polite)\nNo, it's easy! (polite)",
           "notes": ""
@@ -4560,7 +4567,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "鈴木さんはどんな人ですか？\n親切な人ですよ。",
           "pronunciation": "Suzuki-san-wa dónna hitó-desu ka?\nShínsetsu-na hitó-desu yo.",
           "meaning": "What kind of person is Suzuki?\n[They] are a kind person!",
           "notes": ""
@@ -4636,7 +4643,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "この靴、ちょっと大きいです。\nじゃー、これはどうですか？",
           "pronunciation": "Kono kutsú, chótto ookíi-desu.\nJaa, kore-wa dóu-desu ka?",
           "meaning": "These shoes are a bit big.\nAlright then, how about these?",
           "notes": ""
@@ -4693,7 +4700,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "これ、きれいですね。\nええ、とてもきれいですね。",
           "pronunciation": "Kore, kírei-desu ne.\nÉe, totemo kírei-desu ne.",
           "meaning": "This is beautiful, don't you think? (polite)\nYes, very beautiful. (polite)",
           "notes": ""
@@ -4750,7 +4757,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "はじめまして。\nはじめまして、どうぞよろしくおねがいます",
           "pronunciation": "Hajimemáshite.\nHajimemáshite, dóuzu yoroshiku o-negai shimásu.",
           "meaning": "Nice to meet you. (polite)\nNice to meet you, please treat me well. (very polite)",
           "notes": ""
@@ -4788,7 +4795,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "どうぞ。\nあー、どうもすみません。いただきます。",
           "pronunciation": "Dóuzo.\nAa, dóumo sumimasén. Itadakimásu.",
           "meaning": "Please (go ahead).\nOh, thank you! I humbly receive!",
           "notes": "Here, \"sumimasén\", usually \"excuse me\", is used as a thank you. \"Itadakimásu\" is the set phrase you say before you eat."
@@ -4826,7 +4833,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "お国はどちらですか？\n韓国です。",
           "pronunciation": "O-kuni-wa dóchira-desu ka?\nKánkoku-desu.",
           "meaning": "What country are you from? (very polite)\nKorea. (polite)",
           "notes": "Literally, \"Which is [your] honorable country?\"\n\nDóchira has the basic meaning \"which way\", but is used as an indirect, and therefore more polite, phrasing of \"what, which, where, etc\"."
@@ -4883,7 +4890,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "日本は、はじめてですか？\nいいえ、３回目です。",
           "pronunciation": "Nihón-wa, hajímete-desu ka?\nIie, san-kai-mé-desu.",
           "meaning": "Is it [your] first time in Japan? (polite)\nNo, it's [my] third time.",
           "notes": "Literally, \"As for Japan, is it [your] first time?\"\n\nsán-kai = three times\nsan-kai-mé = third time"
@@ -4921,7 +4928,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "和食は大丈夫ですか？\nはい、大丈夫です。",
           "pronunciation": "Washoku-wa daijóubu-desu ka?\nHai, daijóubu-desu.",
           "meaning": "Is Japanese food OK?\nYes, it is.",
           "notes": "\"Wa-\" commonly means \"Japanese\"."
@@ -4959,7 +4966,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "そろそろ失礼します。\nそうですか。じゃ、また。",
           "pronunciation": "Sórosoro shitsúrei shimásu.\nSóu-desu ka. Já, matá.",
           "meaning": "It's about time for me to go. (polite)\nOh, yes? (polite) See you later.",
           "notes": ""
@@ -4997,7 +5004,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "わあ、おいしそう。それなんですか？\nこれ？中国のお菓子。１つどうですか？",
           "pronunciation": "Waa, oishi-sóu. Sore nán-desu ka?\nKore? Chúugoku-no okáshi. Hitótsu dóu-desu ka?",
           "meaning": "Ooh, [that] looks yummy! (casual) What's that? (polite)\nThis? It's Chinese candy. (casual) Would you like one? (polite)",
           "notes": "\"One\" is usually \"ichí\", but in some common counting words it's \"hitó-\".\n\nThese two people maybe work together. They're mixing casual and polite language in a way that suggests they aren't super close but are very friendly with one another."
@@ -5111,7 +5118,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "いつ日本に来たんですか？\n二ヶ月くらい前です。",
           "pronunciation": "Ítsu nihón-ni kíta-n'-desu ka?\nNi-kagetsu-kúrai máe-desu.",
           "meaning": "When did [you] come to Japan? (polite)\nAbout two months ago. (polite)",
           "notes": "Literally, \"When is [it] that [you] came to Japan?\"\n\nNihón-ni kíta/kimáshita = [You] came to Japan\nNihón-ni kíta-n(o)-da/desu = [It] is that [you] came to Japan\nNihón-ni kíta no?/'n-desu ka? = Is [it] that [you] came to Japan?\nÍtsu nihón-ni kíta n(o)-desu ka?\n\nhttps://www.youtube.com/watch?v=dunBnCI1iP0\n\n\"Kúrai\" is pretty much interchangeable with \"gúrai\"."
@@ -5168,7 +5175,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "今、何時？\nえーっと、４時２０分。",
           "pronunciation": "Íma, nánji?\nEetto, yó-ji ni-júp-pun.",
           "meaning": "What time is it n",
           "notes": "Another instance of two-mora (two-\"syllable\") numbers getting their second syllable assimilated into a measure word. Plus, the measure word gets transformed as well in some cases.\n\ne.g.\nichí + fun = íp-pun (one minute)\nsán + fun = sán-pun (three minutes)\nrokú + fun = róp-pun (six minutes)\nhachí + fun = háp-ppun (eight minutes)\njúu + fun = júp-pun (ten minutes)\n"
@@ -5187,7 +5194,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "今度の休み、どこ行くの？\n友だちと海に行きます。",
           "pronunciation": "Kóndo-no yasumí, dóko iku no?\nTomodachi-to úmi-ni ikimásu.",
           "meaning": "Where will [you] go on your upcoming vacation?\n[I]'m going to the beach (sea) with [a] friend.",
           "notes": "tomodachi-to = with a friend/with friends\númi-ni iku = [I]'m going to the sea"
@@ -5263,7 +5270,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "あの、学校の電話番後、わかりますか？\nえーっとねー、０３ー３２０５ー＊＊＊＊",
           "pronunciation": "Ano, gakkou-no denwa-bángo, wakarimásu ka?\nEetto ne, zero-sán-no san-níi-zero-goo...",
           "meaning": "Um, do you know the school's phone numbber?\nUm, let's see. Zero three, three two zero five.",
           "notes": "When saying number sequences like this, the one-mora (one-\"syllable\") numbers are often stretched to two morae like this."
@@ -5339,7 +5346,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "ビデオレンタルはいくらですか？\n１泊３５０円です。",
           "pronunciation": "Bideo-réntaru-wa íkura-desu ka?\nIp-paku sán-byaku gojúuen-desu.",
           "meaning": "How much is [the] video rental?\n350 yen for 1 night/day.",
           "notes": "\"haku\" is the counter for \"overnight\" periods."
@@ -5396,7 +5403,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "昨日、携帯を買いました。\nへー、どこで買いましたか？",
           "pronunciation": "Kinou, keitai-o kaimáshita.\nE, dóko-de kaimáshita ka?",
           "meaning": "[I] bought [a] cell phone yesterday.\nOh! Where (at) did [you] buy [it]?",
           "notes": "This \"de\" (\"at\") marks the location where an action takes place."
@@ -5472,7 +5479,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "田中さんのうちはどこですか？\n新宿です。学校に近いです。",
           "pronunciation": "Tanaka-san-no uchí-wa dóko-desu ka?\nShinjuku-désu. Gakkou-ni chikái-desu.",
           "meaning": "Where is your house, Tanaka-san? (polite)\nShinjuku. It's close to [the] school.",
           "notes": "\"Chikái\" is what's known as an \"i-adjective\", one of the two kinds of Japanese adjectives (with na-adjectives, which you'll see later). All of them end in \"i\".\n\nchikái-desu = chikái"
@@ -5548,8 +5555,8 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
-          "pronunciation": "Páku-san no senséi-wa dónna hitó-desu ka?\nOmoshirókute yasashii senséi-desu.",
+          "transcription": "パクさんの先生はどんな人ですか？\n面白くてやさしい先生です。",
+          "pronunciation": "Páku-san-no senséi-wa dónna hitó-desu ka?\nOmoshirókute yasashii senséi-desu.",
           "meaning": "What kind of person is your teacher, Paku-san?\n[They]'re a funny, nice/gentle teacher.",
           "notes": "I-adjectives have a \"te\" form just like verbs.\n\nomoshirói (interesting)\nomoshirókute (interesting, and...)\n\nyasashíi (nice)\nyasashíkute (nice, and...)"
         }
@@ -5586,7 +5593,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "山田さん、しゅみは何ですか？\nしゅみ？う〜ん、写真かな。",
           "pronunciation": "Yamada-san, shúmi-wa nán-desu ka?\nShúmi? Uun, shashin ka na.",
           "meaning": "What are your hobbies, Yamada-san?\nHobbies? Hm, photography?",
           "notes": "\"ka na\" gives the sentence the tone of, \"I wonder...?\""
@@ -5643,7 +5650,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "日本語の授業はどうですか？\nとてもおもしろいと思います",
           "pronunciation": "Nihongo-no júgyou-wa dóu-desu ka?\nTotemo omoshirói to omoimásu.",
           "meaning": "How is Japanese class?\nI find [it] really interesting.",
           "notes": "Literally, \"[I] think that [it]'s very interesting.\"\n\nomóimasu = omóu\n\nOmoshirói to omóu. = [I] think [it]'s interesting."
@@ -5662,8 +5669,8 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
-          "pronunciation": "Kono shashin, míte kudasái. Háwai no shashin-désu.\nWaa, kírei-na úmi!",
+          "transcription": "この写真、見てください。ハワイの写真です。\nわー、きれいな海。",
+          "pronunciation": "Kono shashin, míte kudasái. Háwai-no shashin-désu.\nWaa, kírei-na úmi!",
           "meaning": "Please look at this photo. It's a photo of Hawaii. (polite)\nWhoa, what a pretty ocean! (casual)",
           "notes": "\"Kírei\" is a na-adjective. When you put a na-adjective in front of a noun, you have to put \"-na\" in between. Other than this usage with \"-na\", they really act basically just like nouns."
         }
@@ -5719,7 +5726,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "キムさんは日本人のボイフレンドがいます。\nへー、どんな人ですか？\n親切な人です。それから、韓国語がわかります。",
           "pronunciation": "Kímu-san-wa nihonjín-no boifuréndo-ga imásu.\nHee, dónna hitó-desu ka?\nShínsetsu-na hitó-desu. Sore-kara, kankokugo-ga wakarimásu.",
           "meaning": "Ms. Kim has a Japanese boyfriend. (polite)\nOh! What kind of person is he? (polite)\nHe's a kind person. Also, he knows Korean. (polite)",
           "notes": "Literally, \"As for Kim-san, there is a boyfriend that's Japanese.\" And, \"Korean is understood [by him].\""
@@ -5776,7 +5783,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "カラオケ！カラオケ！どうですか？一時間１５００円です。\nう〜ん。ちょっとね〜。新宿のカラオケの方が安いですね。",
           "pronunciation": "Karaoke! Karaoke! Ichi-jí-kan, sén go-hyakú-en-desu.\nUn, chótto ne. Shinjuku-no karaoke-no hóu-ga yasui-désu ne.",
           "meaning": "Karaoke! Karaoke! 1500 yen for an hour! (polite)\nHm, I don't know. The karaoke in Shinjuku is cheaper, huh? (polite)",
           "notes": "\"Chótto ne\" literally means just \"[it's] a little bit...\" As though you'd rather not say the whole truth of what you think about whatever it is.\n\nTo say something is cheaper, bigger, better, you say that its \"hóu\" (often translated \"way\") is cheap, big, good.\n\nKaraoke-ga yasui. = The karaoke is cheap.\nKaraoke-no hóu-ga yasui. = The karaoke is cheaper."
@@ -5795,7 +5802,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "あ、そうですか。じゃ、一時間１３００円でどうですか？\nう〜ん。まだちょっと高いですね。",
           "pronunciation": "A, sóu-desu ka. Ja, ichi-jí-kan sén san-byakúen de dóu-desu ka?\nUn, máda chótto takái-desu ne.",
           "meaning": "Oh, I see. Then, how about if [it]'s 1300 yen for an hour? (polite)\nHmm, it's still kind of expensive. (polite)",
           "notes": "\"[noun] de\" is the \"te\" form of \"[noun]-da/[noun]-desu\"."
@@ -5814,7 +5821,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "木村さんの彼はどんな人ですか？\nお金持ちです。",
           "pronunciation": "Kimura-san-no káre-wa dónna hitó-desu ka?\nO-kanemóchi-desu.",
           "meaning": "What is Kimura-san's boyfriend like? (polite)\nHe's [quite] rich. (polite, respectfully towards him) ",
           "notes": ""
@@ -5833,7 +5840,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "山田さんの家族はタバコを吸いますか？\nいいえ。誰も吸いません。",
           "pronunciation": "Yamada-san-no kázoku-wa tabako-o suimasu ka?\nIie. Daremo suimasén.",
           "meaning": "Does Yamada-san's family smoke? (polite)\nNo. None of them do. (polite)",
           "notes": "suimásu = suu\nsuimasén = suwanai \ntabako = tobacco\n\ndáre (who)\ndaremo (anyone)\n\nnáni (what)\nnanimo (anything)"
@@ -5852,7 +5859,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "ジョンさん、今日、どこで昼ごはんを食べますか？\nごめーん。もう食べちゃった。",
           "pronunciation": "Jón-san, kyóu, dóko-de hiru-góhan-o tabemásu ka?\nGomen. Mou tábe-chatta.",
           "meaning": "Jon, where shall [we] eat lunch today? (polite)\nSorry. [I]'ve already eaten. (casual, regretfully)",
           "notes": "\"tábe-chatta\" is short for \"tábete-shimatta\", past tense of \"tábete-shimau\" (\"to eat accidentally, to eat completely\"). This \"-te-shimau\" construction is often used to express regret or mistakes. You'll sometimes even see \"Shimatta!\" in subtitles translated as \"Shit!\"\n\nhiru-góhan = noon-food\ntabemásu = tabéru = eat"
@@ -5871,7 +5878,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "先生、何時ですか？\nあ、時間ですね。じゃ、すこし休みましょう。",
           "pronunciation": "Senséi, íma nánji-desu ka?\nA, jikan-désu ne. Ja, sukóshi yasumimashóu.",
           "meaning": "Sensei, what time is it now? (polite)\nAh, it's time, isn't it? Alright, let's take a break for a bit. (polite)",
           "notes": "yasumimásu = yasúmu (to rest, take a break)"
@@ -5890,7 +5897,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "いらっしゃいませ。お２人ですか？\nはい。",
           "pronunciation": "Irasshaimáse. O-futarí-desu ka?\nHai.",
           "meaning": "Welcome [to our establishment]. Is [it just the] two [of you]? (polite)\nYes. (polite)",
           "notes": "hitóri = one person\nfutarí = two people\n\nThe rest of the measure words for counting people follow a more regular pattern.\n\nsan-nín = three people\nyo-nín = four people\ngo-nín = five people\nroku-nín = six people\netc."
@@ -5909,7 +5916,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "昨日のサッカー、見ましたか？\nううん、あまり好きじゃないから。",
           "pronunciation": "Kinou-no sákkaa, mimáshita ka?\nUun, amari sukí ja nái kara.",
           "meaning": "Did you see the soccer match yesterday? (polite)\nNah, I don't really like [it]. (casual)",
           "notes": "Literally, \"Yesterday's soccer [match], did [you] see [it]? Nah, since [it]'s not excessively liked [by me].\"\n\n\"Sukí\" is a na-adjective meaning \"liked\". To say you like something, you say that it is \"sukí\".\n\nSukí-da. = [I] like [it].\nSukí ja nái = [I] don't like [it].\n\n\"[noun/na-adj.]-da\" negates to \"[noun/na-adj.] ja nái\".\n"
@@ -5928,7 +5935,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "うわー。そのくつ、かわいいね。\n本当？ありがとう。",
           "pronunciation": "Uwa, sono kutsú, kawaíi ne. (casual)\nHontou? Arígatou. (casual)",
           "meaning": "Wow, those shoes [of yours] are [so] cute.\nReally? Thanks.",
           "notes": "abcddasdjflksdjflasdfasdfalsdfjlsdfjlaksdjfl"
@@ -5947,7 +5954,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "あれ？山田さん、どこ行くの。\nちょっとそこまで。",
           "pronunciation": "Are? Yamada-san, dóko iku no? (casual)\nChótto soko-máde. (casual)",
           "meaning": "Huh? Yamada-san, where is it [you]'re going?\nNowhere in particular.",
           "notes": "Literally, \"A little up to there.\""
@@ -5966,8 +5973,8 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
-          "pronunciation": "Ano, sumimasén. Tsugí-no densha-wa nán-ji-ni kimásu ka?\nA, íma-no densha-ga suuden-désu.\nSuuden?\nÉe. Densha-wa ashitá-no ása-made kimasén.",
+          "transcription": "あの、すみません。次の電車は何時に来ますか？\nあ、今の電車が終電です。\n終電？\nええ。電車は明日の朝まで来ません。",
+          "pronunciation": "Ano, sumimasén. Tsugí-no densha-wa nán-ji-ni kimásu ka?\nA, íma-no densha-ga shuuden-désu.\nShuuden?\nÉe. Densha-wa ashitá-no ása-made kimasén.",
           "meaning": "Um, excuse me. What time does the next train come?\nAh, the train [here] now is the last train of the day.\nLast train of the day?\nYes. No trains will come until tomorrow morning.",
           "notes": "kimásu = kúru (irregular)\nkimasén = kónai (irregular)"
         }
@@ -5985,7 +5992,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "田中さんの誕生日はいつですか？\n１０月１５です。\nえー！私は１７日です。近いですね。",
           "pronunciation": "Tanaka-san-no tanjóubi-wa ítsu-desu ka?\nJuu-gatsú juu-gó-nichi-desu.\nE! Watashi-wa juu-shichí-nichi-desu. Chikái-desu ne.",
           "meaning": "When is Tanaka-san's birthday? (polite)\nOctober 10th. (polite)\nOh! Mine is on the 17th. That's [so] close, isn't it? (polite)",
           "notes": "Here we finally see a Japanese personal pronoun--they're not used nearly as much as in English.\n\n\"Watashi\" is the most neutral word for \"I, me\". In casual settings, it can sound a little feminine, compared to \"bóku\"."
@@ -6004,7 +6011,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "このへんに、駅、ありますか？\nええ、すぐそこです。",
           "pronunciation": "Kono hen-ni, éki, arimásu ka?\nÉe, súgu soko-desu.",
           "meaning": "Is there a station in the area? (polite)\nYes, right there. (polite)",
           "notes": "Often, \"-ni\" is contrasted with \"-de\"\nNihón-ni iku. (I go to Japan.)\nNihón-de tabéru. (I eat in Japan.)\n\nBut when the verb describes a static state, instead of a dynamic action, you just use \"ni\".\nNihón-ni iru. (I am [there] in Japan.)\nNihón-ni-wa sushí-ga áru. (There is Sushi in Japan. Japan has sushi.)\nNihón ni súnde-iru. (I am living in Japan.)"
@@ -6023,8 +6030,8 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
-          "pronunciation": "Sono jíten-wa íkura-desu ka?\nSan-zen-en-désu.",
+          "transcription": "その辞書はいくらですか？\n３０００円です。",
+          "pronunciation": "Sono jísho-wa íkura-desu ka?\nSan-zen-en-désu.",
           "meaning": "How much is that dictionary? (polite)\n3000 yen. (polite)",
           "notes": "is-sen = one thousand\nni-sen = two thousand\nsan-zen = three thousand"
         }
@@ -6042,7 +6049,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "このノートは誰のですか？\nあ、それ？サラさんのです。",
           "pronunciation": "Kono nóoto-wa dáre-no-desu ka? (polite)\nA, sore? Sára-san-no-desu. (polite)",
           "meaning": "Whose is this notebook? (polite)\nOh, that one? It's Sara-san's.",
           "notes": ""
@@ -6061,7 +6068,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "asdjflaksdjf",
+          "transcription": "山田さんの部屋は新しいですか？\nいえ、古いです。でもきれいです。",
           "pronunciation": "Yamada-san-no heyá-wa atarashíi-desu ka? (polite)\nIe, furúi-desu. Démo kírei-desu. (polite)",
           "meaning": "Is Yamada-san's room new?\nNo, it's old. But it's pretty/clean.",
           "notes": "This \"ie\" is a bit less polite than iie."
@@ -6080,7 +6087,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "田中さんの部屋はきれいですか？\nいえ、きれいじゃありません。でも新しいです。",
           "pronunciation": "Tanaka-san-no heyá-wa kírei-desu ka?\nIe, kírei ja arimasén. Démo atarashíi-desu.",
           "meaning": "Is Tanaka-san's room clean/pretty? (polite)\nNo, it's not. But it's new. (polite)",
           "notes": "kírei ja arimasén = kírei ja nái"
@@ -6099,7 +6106,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "あ〜あ、今日は暑いですね。\nそうですね〜。今日もビールがおいしいですね。",
           "pronunciation": "Aa, kyóu-wa atsui-désu ne.\nSóu-desu ne. Kyóu-mo bíiru-ga oishii-desu ne.",
           "meaning": "Ah, it's hot today, isn't it? (polite)\nIt is, right? The beer is good today, too. (polite)",
           "notes": ""
@@ -6118,7 +6125,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "サラさんは字がきれいですね。\nどれ？見せて。あ、本当だ。",
           "pronunciation": "Sára-san-wa jí-ga kírei-desu ne.\nDóre? Mísete. A, hontou-dá.",
           "meaning": "Your handwriting is [very] neat, Sara-san. (polite)\nWhich bit? Show me. Oh, so it is. (casual)",
           "notes": "Literally, \"As for Sara-san, [your] characters are beautiful/clean.\""
@@ -6137,7 +6144,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "え、アイス〜？寒くないですか？\nええ、おいしいですよ。",
           "pronunciation": "E, áisu? Samúkunai-desu ka?\nÉe, oishíi-desu yo.",
           "meaning": "Huh, ice cream? Isn't it cold out? (polite)\nYes, it's good! (polite)",
           "notes": "Samúi. = Samúi-desu. = It's cold out.\nSamúkunai. = Samúkunai-desu. = It's not cold out."
@@ -6156,7 +6163,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "映画、どうでしたか？\nおもしろかったですよ。",
           "pronunciation": "Eiga, dóu deshita ka?\nOmoshirókatta-desu yo.",
           "meaning": "How was the movie? (polite)\nIt was interesting! (polite)",
           "notes": "Omoshirói. = Omoshirói-desu. (It's interesting.)\nOmoshirókatta. = Omoshirókatta-desu. (It was interesting.)\n\nDóu? = Dóu-desu ka?  (How is it?)\nDóu datta? = Dóu deshita ka? (How was it?)\n\n[noun]-datta = [noun] deshita (was)"
@@ -6175,7 +6182,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "これは何ですか？\nこれ？あー、これ、お好み焼き。\nえ？お好み？\nうん、お好み焼き。おいしいよ。",
           "pronunciation": "Kore-wa nán-desu ka\nKore? A, kore, okonomiyaki.\nE? Okonomi?\nUn. Okonomiyaki. Oishii yo.",
           "meaning": "What's this? (polite)\nThis? Ah, this is okonomiyaki. (casual)\nHuh? Okonomi?\nMmhm. Okonomiyaki. It's good! (casual)",
           "notes": ""
@@ -6194,7 +6201,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "あー、うまかった。\n本当、おいしかったね。",
           "pronunciation": "A, umakatta.\nHontou, oíshikatta ne.",
           "meaning": "Ah, that was tasty. (casual) \nFor real, that was so good! (casual)",
           "notes": "\"Umai\" is a more casual and masculine-sounding than \"oishii\"."
@@ -6213,7 +6220,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "あー、おなかいっぱい。\n私も。",
           "pronunciation": "A, onaka ippai!\nWatashi-mo.",
           "meaning": "Ah, I'm full! (casual)\nMe too! (casual)",
           "notes": "Literally, \"[My] stomach is full!\""
@@ -6232,7 +6239,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "ごちそうさまでした。とってもおいしかったです。\nいいえ、どういたしまして。",
           "pronunciation": "Gochisou-sama déshita. Tottemo oíshikatta-desu.\nIie, dóu itashimáshite.",
           "meaning": "Thank you for the meal. It was very tasty. (polite)\nYou're quite welcome. (polite)",
           "notes": "\"Gochisou-sama déshita\" or casually \"gochisousama\" is what you say after a meal."
@@ -6251,7 +6258,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "デザート食べますか？\nいいですね。",
           "pronunciation": "Dezáato tabemásu ka?\nÍi-desu ne.",
           "meaning": "Would you care for some dessert? (polite)\nThat would be nice. (polite)",
           "notes": "Literally, \"Will [you] eat dessert?\""
@@ -6270,7 +6277,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "たくさん食べてくださいね。\nはい、いただきまーす。",
           "pronunciation": "Takusan tábete-kudasai ne.\nHai, itadakimásu.",
           "meaning": "Please eat a lot, OK? (polite)\nYes, I humbly receive. (polite)",
           "notes": "The -te form is used with \"-kudasai\" to make polite commands/requests.\n\nKudasái on its own means \"please give [me]\"."
@@ -6289,7 +6296,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "この店、サービスもいいし、料理もおいしいし…。\nそうだね。また来たいね。",
           "pronunciation": "Kono misé, sáabisu-mo íi shi, ryóuri-mo oishii shi...\nSóu-da ne. Matá ki-tái ne.",
           "meaning": "The service at this restaurant is good, and the food is good...\nThat's right. I'd like to come again.",
           "notes": "Literally, \"This shop, since [the] service is good, and since the cooking is good...\"\n\n\"...shi, ...shi\" is used when listing multiple reasons.\n\nThis -tái form means \"want (to)\", and especially \"I want (to)\". (In Japanese, it's rare to talk directly about someone else wanting something; rather you say they \"seem to want\" something. After all, you can't really know their inner life.)\n\n\"Misé\" means both \"restaurant\" and generally \"shop\". Here we know it's a restaurant because of the context."
@@ -6308,7 +6315,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": " 　",
+          "transcription": "この店、どうだった？\nう〜ん、料理はいいけど、サービスがちょっとね…。",
           "pronunciation": "Kono misé, dóu datta?\nUn, ryóuri-wa íi kedo, sáabisu-ga chótto ne...",
           "meaning": "How was this restaurant? (casual)\nHm, the food was good, but the service was kind of... you know? (casual)",
           "notes": ""
@@ -6327,7 +6334,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "これもおいしいよ。あっ、それからこれも…。\n本当だ。おいしそう！",
           "pronunciation": "Kore-mo oishii yo. A', sore-kara kore-mo...\nHontou-dá. Oishi-sou!",
           "meaning": "This is yummy, too. Ah, and also, this one, too.\nFor real. It looks good!",
           "notes": "The small \"tsu\" at the end of a word is a convention for representing a short sound. So 「あっ」is a really short \"a\"."
@@ -6346,7 +6353,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "これ、おいしいよ。ちょっと食べてみる？\nうん、ありがとう。",
           "pronunciation": "Kore, oishii yo. Chótto tábete-miru?\nUn, arígatou.",
           "meaning": "This is delicious. Would you like to try some? (casual)\nYeah, thank you. (casual)",
           "notes": "Literally, \"[Will] you eat a little and see?\"\n\nThis \"te-miru\" construction is often used with this meaning of \"try\"."
@@ -6365,7 +6372,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "豚肉はちょっと…。\nあ、そうなんだ。ｌ",
           "pronunciation": "Buta-niku-wa chótto...\nA, sóu-na-n'-da.",
           "meaning": "[I] kind of [don't do] pork...\nAh, I see.",
           "notes": "Literally, \"As for pig meat, a little... Ah, that's how it is.\"\n\nSóu-da. = Sóu-desu. (It is so.)\nsóu-na-n(o) = sóu-na-n(o) (that it is so)\nSóu-na-n(o)-da. = Sóu-na-n(o)-desu. (It's that it is so.)"
@@ -6627,6 +6634,227 @@
         "fields": {
           "transcription": "",
           "pronunciation": "Sore-wa dare-mo wakarimasén.",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "09eb03ce-9c49-4e96-b7da-88ad1f8666fd": {
+      "start": 37248,
+      "end": 37354,
+      "id": "09eb03ce-9c49-4e96-b7da-88ad1f8666fd",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "09eb03ce-9c49-4e96-b7da-88ad1f8666fd",
+        "tags": [],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "7e29f2dc-6bf5-4d8e-b677-bc87959040df": {
+      "start": 37485,
+      "end": 37663,
+      "id": "7e29f2dc-6bf5-4d8e-b677-bc87959040df",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "7e29f2dc-6bf5-4d8e-b677-bc87959040df",
+        "tags": [],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "a1059913-a654-40f7-b830-770bd6c774ae": {
+      "start": 37793,
+      "end": 37982,
+      "id": "a1059913-a654-40f7-b830-770bd6c774ae",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "a1059913-a654-40f7-b830-770bd6c774ae",
+        "tags": [],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c1563af9-2d3d-40d4-bd6c-1f54a0202f9b": {
+      "start": 38148,
+      "end": 38349,
+      "id": "c1563af9-2d3d-40d4-bd6c-1f54a0202f9b",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "c1563af9-2d3d-40d4-bd6c-1f54a0202f9b",
+        "tags": [],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "456a0291-4140-4363-95de-59e3684b3afb": {
+      "start": 38475,
+      "end": 38788,
+      "id": "456a0291-4140-4363-95de-59e3684b3afb",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "456a0291-4140-4363-95de-59e3684b3afb",
+        "tags": [],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "fb89883c-7f3a-4016-8b56-4310bfcf8913": {
+      "start": 38961,
+      "end": 39211,
+      "id": "fb89883c-7f3a-4016-8b56-4310bfcf8913",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "fb89883c-7f3a-4016-8b56-4310bfcf8913",
+        "tags": [],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "8834cc87-bbc1-4036-9171-a29a6f2c5fec": {
+      "start": 39355,
+      "end": 39700,
+      "id": "8834cc87-bbc1-4036-9171-a29a6f2c5fec",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "8834cc87-bbc1-4036-9171-a29a6f2c5fec",
+        "tags": [],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "35200c28-ad40-4c2e-a9e9-84bb5f900243": {
+      "start": 39859,
+      "end": 40082,
+      "id": "35200c28-ad40-4c2e-a9e9-84bb5f900243",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "35200c28-ad40-4c2e-a9e9-84bb5f900243",
+        "tags": [],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "bdaa0d0c-dfd3-4c4e-a202-40d193e51695": {
+      "start": 40226,
+      "end": 40606,
+      "id": "bdaa0d0c-dfd3-4c4e-a202-40d193e51695",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "bdaa0d0c-dfd3-4c4e-a202-40d193e51695",
+        "tags": [],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "09161014-d3df-44bb-afa8-3ce27e7792ba": {
+      "start": 40739,
+      "end": 40945,
+      "id": "09161014-d3df-44bb-afa8-3ce27e7792ba",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "09161014-d3df-44bb-afa8-3ce27e7792ba",
+        "tags": [],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "3138d8ba-451b-46f4-ab32-029ca31d0fb1": {
+      "start": 41440,
+      "end": 41736,
+      "id": "3138d8ba-451b-46f4-ab32-029ca31d0fb1",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "3138d8ba-451b-46f4-ab32-029ca31d0fb1",
+        "tags": [],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "2928b1f7-c5d3-4f09-9b24-a5c1951f6730": {
+      "start": 41886,
+      "end": 42113,
+      "id": "2928b1f7-c5d3-4f09-9b24-a5c1951f6730",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "2928b1f7-c5d3-4f09-9b24-a5c1951f6730",
+        "tags": [],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "50955c96-9e6a-4065-97b5-2731a247f538": {
+      "start": 42270,
+      "end": 42433,
+      "id": "50955c96-9e6a-4065-97b5-2731a247f538",
+      "fileId": "b0cd359c-28f9-424e-a643-21cd368d4e19",
+      "flashcard": {
+        "id": "50955c96-9e6a-4065-97b5-2731a247f538",
+        "tags": [],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
           "meaning": "",
           "notes": ""
         }

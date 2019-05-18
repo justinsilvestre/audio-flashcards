@@ -106,7 +106,7 @@
 
 **1:40 - 1:43** _#shad1-2_
 * どうもありがとうおざいます。<br>いいえ、どういたしまして。
-* Dóumo arígatou gozaimasu.<br>Iie, dóu itashimáshite.
+* Dóumo arígatou gozaimásu.<br>Iie, dóu itashimáshite.
 * Thank you very much. (polite)<br>Not at all, you're welcome. (polite)
 * The "-ou gozaimasu" ending here is the same as in "ohayou gozaimasu". It comes from an archaic polite sentence ending that's normally not used today, except in these set phrases.
 
@@ -1359,25 +1359,25 @@
 * 
 
 **31:34 - 31:37** _#shad3-5_
-* 携帯でメール書いてるの？<br>ううん。漢字お調べてるの。
+* 携帯でメール書いてるの？<br>ううん。漢字を調べてるの。
 * Keitai-de meeru káite ru no?<br>Úun, kanji-o shirabete ru no.
 * Are you writing an e-mail on your phone? (casual)<br>Nope, I'm checking a kanji. (casual)
 * 
 
 **31:41 - 31:49** _#shad3-5_
-* あれ？髪の毛、ずいぶん短く来ちゃったんだね。長くてきれいだったのに。
-* Are? Kaminóke, zúibun mijikáku kíchatta-n-da ne. Nágakute kírei-datta-no-ni.<br>Sóu? Démo mijikái-to sugóku rakú.
+* あれ？髪の毛、ずいぶん短く切っちゃったんだね。長くてきれいだったのに。<br>そう？でも短いとすごく楽。
+* Are? Kaminóke, zúibun mijikáku kítchatta-n-da ne. Nágakute kírei-datta-no-ni.<br>Sóu? Démo mijikái-to sugóku rakú.
 * Huh, you've gone and cut your hair quite short, haven't you? But it was so pretty long. (casual)<br>Really? But it's super comfortable when it's short. (casual)
 * 
 
 **31:52 - 31:59** _#shad3-5_
-* ね、今日、バイト始めての日なんだけど、早めに行った方がいいと思う？
-* Ne, kyóu, baito hajímete-no hi-ná-n-da kedo, hayame-ni itta hóu-ga íi to omóu?
+* ね、今日、バイト始めての日なんだけど、早めに行った方がいいと思う？<br>うん、できればね。
+* Ne, kyóu, baito hajímete-no hi-ná-n-da kedo, hayame-ni itta hóu-ga íi to omóu?<br>Ún, dekíreba ne.
 * Hey, today's my first day at my part-time job; do you think it would be a good idea to go early? (casual)<br>Yeah, if you can. (casual)
 * 
 
 **32:02 - 32:06** _#shad3-5_
-* もしよろしければ、こちらのパンフレットもお読みください。
+* もしよろしければ、こちらのパンフレットもお読みください。<br>はい、どうも。
 * Móshi yoróshikereba, kochira-no pánfuretto-mo o-yomí kudasái.<br>Hai, dóumo.
 * If it's not too much trouble, please read this pamphlet, as well. (honorific)<br>Yes, thank you.
 * 
@@ -2049,423 +2049,423 @@
 * 
 
 **50:07 - 50:17** _#shad5-1_
-* 今年の目標は？<br>そうですね。英会話を始めようと思っているので、それを続けることです。
-* Kotoshi-no mokuhyou-wa?<br>Sóu-desu ne. Eikáiwa-o hajimeyóu-to omótte irú-no-de, sore-o tsuzukeru-kotó-desu.
-* 
+* 今年の目標は？<br>そうですね。英会話を始めようと思っているので、それを続けることです。<br>「継続は力なり」ですね。
+* Kotoshi-no mokuhyou-wa?<br>Sóu-desu ne. Eikáiwa-o hajimeyóu-to omótte irú-no-de, sore-o tsuzukeru-kotó-desu.<br>"Keizoku-wa chikará-nari"-desu ne.
+* Any goals for this year? (polite)<br>Let's see. I was thinking about starting English classes, so one would be to continue with that. (polite)<br>"Persistence pays", right? (polite)
 * 
 
 **50:20 - 50:26** _#shad5-1_
-* 
+* 明日の約束忘れないでね。<br>大丈夫だよ。たぶん…。<br>え、たぶん？
 * Ashita-no yakusoku wasurenái-de ne.<br>Daijóubu-da yo. Tábun...<br>E, tábun?
-* 
+* Don't forget our appointment tomorrow. (casual)<br>It's fine, I'm telling you. Probably... (casual)<br>Huh, probably? (casual)
 * 
 
 **50:29 - 50:39** _#shad5-1_
-* 
-* Sumimasén. Shusseki-rítsu-o shirábete itadaki-tái-n-desu ga.<br>A, hai. Tsugí-no yasumi-jíkan-made-ni shirábete ikimasu.<br>Ja, yoroshiku o-negai shimásu.
-* 
+* すみません、出席率を調べていただきたいんですが。<br>あ、はい。次の休み時間までに調べておきます。<br>じゃ、よろしくお願いします。
+* Sumimasén. Shusseki-rítsu-o shirábete itadaki-tái-n-desu ga.<br>A, hai. Tsugí-no yasumi-jíkan-made-ni shirábete okimasu.<br>Ja, yoroshiku o-negai shimásu.
+* Excuse me. Would you look into the attendance figures for me? (polite)<br>Oh, yes. I'll look into it by the next break. (polite)<br>OK then, I'm counting on you. (polite)
 * 
 
 **50:42 - 50:48** _#shad5-1_
-* 
+* 小林さん、何見てるの？<br>このあいだの旅行の写真。え、どこ行ったの？
 * Kobayashi-san, náni míte rú-no?<br>Kono aida-no ryokóu-no shashin.<br>E, dóko ittá-no?
-* 
+* Kobayashi-san, what are you looking at? (casual)<br>A photo from my recent trip. (casual)<br>Oh, where is it you went? (casual)
 * 
 
 **50:52 - 50:59** _#shad5-1_
-* 
+* すみません、コピーをさせていただいてもよろしいですか？<br>あ、はい。どうぞ。<br>ありがとうございます。
 * Sumimasén, kópii-o sasete itadaité-mo yoroshíi-desu ka?<br>A, hai. Dóuzo.<br>Arígatou gozaimásu.
-* 
+* Excuse me, would it be alright if you let me make a copy? (formal)<br>Oh, yes. Go ahead. (polite)<br>Thank you. (polite)
 * 
 
 **51:02 - 51:08** _#shad5-1_
-* 
+* ハクション！ハクション！<br>あれ？花粉症？<br>ハクション！
 * Hakushon! Hakushon!<br>Are? Kafunshou?<br>Hakushon!
-* 
+* Achoo! Achoo!<br>Huh? Hay fever?<br>Achoo!
 * 
 
 **51:12 - 51:19** _#shad5-1_
-* 
+* 卒業したらどうするんですか？<br>外資系の会社に就職することが決まったんです。
 * Sotsugyou shitára dóu surú-n-desu ka?<br>Gaishikei-no kaisha-ni shuushoku suru-kóto-ga kimattá-n-desu.<br>A, sore-wa yókatta-desu ne.
-* 
-* 
+* What will you do after you graduate? (polite)<br>I've decided to look for a job at a foreign company. (polite)<br>Oh, that's great. pp
+* Lit. It was decided...
 
 **51:22 - 51:29** _#shad5-1_
-* 
+* そういえば、昨日田中さんにあったよ。<br>へー、元気だった？<br>うん、全然変わらないよ。
 * Sou iéba, kinou Tanaka-san-ni átta yo.<br>He, génki-datta?<br>Ún. Zenzen kawaranai yo.
-* 
-* 
+* Speaking of which, I saw Tanaka-san yesterday.<br>Really! Was he doing all right?<br>Yeah, he hasn't changed at all.
+* Literally, "[He] isn't different at all."
 
 **51:33 - 51:39** _#shad5-1_
-* 
+* キリがよかったらこっちでコーヒー飲まない？<br>うん。もうちょっと待ってて。<br>じゃ、入れとくね。
 * Kirí-ga yókattara kotchi-de koohíi nománai?<br>Ún. Mou-chótto mátte te.<br>Ja, íretoku ne.
-* 
-* 
+* Whenever you're ready, would you like to have a cofee here? (casual)<br>Yeah. In just a bit, ok? cc<br>All right, I'll make some.
+* koohíi-o ireru = make coffee<br>iretoku = irete óku
 
 **51:42 - 51:52** _#shad5-1_
-* 
+* このコンピューター、誰か使ってるの？<br>あ、それ落としておいて。<br>あれ、このワード、どうしよう。<br>あ、上書きしといて。
 * Kono konpyúutaa, dáreka tsukatte rú-no?<br>A, sore otóshite óite.<br>Are, kono wáado, dóu shiyóu.<br>A, uwagaki shitóite.
-* 
+* Is someone using this computer? (casual)<br>Oh, turn that off, will you? (casual)<br>Huh, what should I do with this document? (casual)<br>Oh, save it, will you? (casual)
 * 
 
 **52:03 - 52:10** _#shad5-2_
-* 
+* 先生、ご無沙汰してます。<br>あ、山田くん、最近どうですか？<br>ええ、なんとかやってます。
 * Senséi, go-busata shite másu.<br>A, Yamada-kún. Saikin dóu-desu ka?<br>Ee, nán-to-ka yatte másu.
-* 
+* It's been a while, teacher. (polite)<br>Ah, Yamada-kun, how have things been recently? (polite)<br>Good, I'm getting by. (polite)
 * 
 
 **52:13 - 52:21** _#shad5-2_
-* 
+* 田中さん、風邪をこじらせて入院したそうですよ。<br>えっ、じゃ、お見舞いに行かなくちゃ。<br>行くなら一緒に行きませんか？
 * Tanaka-san, kaze-o kojirásete nyuuin-shita-sóu-desu yo.<br>E', ja, o-mimai-ni ikanákucha.<br>Ikú-nara issho-ni ikimasén ka?
-* 
+* It seems Tanaka-san's cold has gotten worse, and he went to the hospital. pp<br>Oh, then, we've got to go visit him. (polite)<br>If you're going, shall we go together? (polite)
 * 
 
 **52:24 - 52:38** _#shad5-2_
-* 
+* どう？今日、焼肉に行かない？<br>焼肉か〜、おととい、食べ放題で、いやっていうほど肉を食べたんですよ。<br>へー、いいなー。じゃ、今日もそこ行かない？<br>だから！
 * Dóu? Kyóu, yakiniku-ni ikanai?<br>Yakiniku-ka, ototói, tabe-hóudai-de, iyá-tte iuu hodo nikú-o tábeta-n-desu yo.<br>He, ii na. Ja, kyóu-mo soko ikanai?<br>Dá-kara!
-* 
+* How about it? Want to go for yakiniku today? (casual)<br>Yakiniku, huh? The day before yesterday, it was all-you-can-eat, and I ate so much I almost got sick. (casual)<br>Oh, nice. So, wanna go there again today? (casual)<br>I just told you! (casual)
 * 
 
 **52:40 - 52:48** _#shad5-2_
-* 
+* なんだか最近寝ても疲れが取れないんだよねー。<br>あ、本当？肩揉んであげようか。<br>本当？いいの？
 * Nándaka saikin netémo tsukaré-ga torénai-n-da yo ne.<br>A, hontou? Káta monde ageyóu ka.<br>Hontou? Íi-no?
-* 
+* Lately, now much I sleep, I just can't shake off this fatigue. (casual)<br>Oh, really? Shall I massage your shoulder? (casual)<br>Really? You don't mind? (casual)
 * 
 
 **52:52 - 53:02** _#shad5-2_
-* 
+* お見舞いに行く時、何を持って行きましょうか？<br>そうですね、普通だけど、花にしようか？<br>ええ、切り花でしたよね。
 * O-mimai-ni iku-tóki, náni-o motte-ikimashóu ka.<br>Sóu-desu ne, futsuu-dá-kedo, haná-ni shiyóu ka.<br>Ee, kiríbana-deshita yo ne.
-* 
+* When we go to visit [him] in the hospital, what shall we take along? (polite)<br>Hm, it's kind of ordinary, but why not go with flowers? (polite)<br>Yes, cut flowers! Right? (polite)
 * 
 
 **53:06 - 53:15** _#shad5-2_
-* 
+* ねー、今度またディズニーランドに行こうよ。<br>え〜。また〜。そのうちね。<br>そのうちっていつ？
 * Ne, kóndo matá dizuniirándo-ni ikóu yo.<br>E. Matá. Sono uchi ne.<br>Sono uchi-tte ítsu?
-* 
+* Hey, let's go to Disneyland this time.<br>Huh, again? Not for a while.<br>How long is "a while"?
 * 
 
 **53:19 - 53:25** _#shad5-2_
-* 
+* どこの病院に入院したんですか？<br>西新宿の大学病院みたいですよ。<br>あ、そうですか。
 * Dóko-no byouin-ni nyuuin shitá-n-desu ka?<br>Nishi-shínjuku-no daigaku-byóuin-mitai-desu yo.<br>A, sóu-desu ka.
-* 
+* What hospital did he go to? (polite)<br>It looks like the University Hospital at Nishi-Shinjuku. (polite)<br>Ah, I see. (polite)
 * 
 
 **53:28 - 53:43** _#shad5-2_
-* 
+* ねーねー、あのまるい眼鏡をかけてマフラーしている男の人…。<br>あー、あの人ね。隣のコンビニの店長でしょう。<br>あ、そうだね。制服じゃないとわかんないね。
 * Ne ne, ano marui mégane-o kákete máfuraa shite iru otokonohitó... Dókka-de míta-koto nái?<br>A, anó-hito ne. Tonari-no konbini-no ténchou-deshou.<br>A, sóu-da ne. Seifuku-ja nái-to wakánnai-ne.
-* 
+* Hey, hey, that person with the glasses on wearing a scarf... Haven't I seen them somewhere? (casual)<br>Ah, them. They're the manager of the convenience store next door, right? (casual)<br>Ah, that's right. You can't tell without the uniform. (casual)
 * 
 
 **53:47 - 53:59** _#shad5-2_
-* 
+* このへんに１００円ショップはありますか？<br>はい。この道を真っ直ぐ行くと、コンビニがあります。その隣です。<br>まだ、開いていますかね。<br>ええ、２４時間営業だから大丈夫ですよ。
 * Kono hen-ni hyaku-en-shóppu-wa arimásu ka?<br>Hai. Kono michi-o massúgu ikú-to, konbini-ga arimásu. Sono tonari-désu.<br>Máda, aite imásu ka ne.<br>Ée, ní-juu yoji-kan-éigyou-da-kara daijóubu-desu yo.
-* 
+* Is there a 100-yen shop in the area? (polite)<br>Yes. If you go straight through this street, there will be a convenience store. It's next door. (polite)<br>Is it still open, I wonder? (polite)<br>Yes, it's a 24-hour operation, so it's no problem. (polite)
 * 
 
 **54:02 - 54:09** _#shad5-2_
-* 
+* 最近、出会いがないよね。<br>うん。合コンしてみる？<br>まー、駄目元でしてみるか。
 * Saikin, de-ai-ga nái yo ne.<br>Ún. Gou-kon shite míru?<br>Ma, damemoto-de shite míru ka.
-* 
+* I haven't met anyone recently, you know? (casual)<br>Hm. Try a group date? (casual)<br>Well, I guess I'll try; I've got nothing to lose. (casual)
 * 
 
 **54:21 - 54:29** _#shad5-3_
-* 明日の今頃は、北海道にいるんです。<br>えー、いいなー。なにしに行くの？<br>うん、ただの出張だよ。
+* 明日の今頃は、北海道にいるんです。<br>えー、いいなー。何しに行くの？<br>うん、ただの出張だよ。
 * Ashita-nó ima-goro-wa, Hokkáidou-ni irú-n-desu.<br>E, íi na. Náni-shi-ni ikú-no?<br>Ún, táda-no shucchou-dá yo.
-* 
+* About this time tomorrow, I'll be in Hokkaido. (polite)<br>Oh, nice. What are you going there for? (polite)<br>Yeah, it's just a business trip. (polite)
 * 
 
 **54:32 - 54:39** _#shad5-3_
-* 
+* ねー、歯に海苔ついてない？<br>うん、大丈夫。私は？<br>あ、なんか、右のほうについてるよ。
 * Ne, há-ni norí tsúite nai?<br>Ún, daijóubu. Watashi-wa?<br>A, nánka, migi-no hóu-ni tsúite ru yo.
-* 
+* Hey, I don't have nori in my teeth, do I? (casual)<br>No, you're fine. What about me? (casual)<br>Oh, like, there's some on the right side. (casual)
 * 
 
 **54:42 - 54:48** _#shad5-3_
-* 
+* 俺の味噌汁を作ってくれ！<br>え、そ、それってプロポーズ？<br>あー。
 * Ore-no miso-shíru-o tsukútte kure!<br>E, so, sore-tte puropóozu?<br>A.
-* 
+* Make my miso soup for me! (casual)<br>Huh, i-is that a proposal? (casual)<br>Yes. (casual)
 * 
 
 **54:51 - 55:06** _#shad5-3_
-* 
-* Kinou itta misé, tabe-hóudai, nomi-hóudai-de nisén kyúu-haku hachi-júu-en-datta yo.<br>Sore-tte kékkou yasúi ne. Sono misé dóko-ni áru-n-desu ka?<br>Éki no mukou-gawa. Chótto setsumei muzukashíi na.<br>Ja, kyóu, kaerí-ni oshiete yo.
-* 
+* 昨日行った店、食べ放題、飲み放題で２９８０円だったよ。<br>それって、けっこう安いね。その店どこにあるんですか？<br>駅の向こう側。ちょっと説明難しいな。<br>じゃ、今日、帰りに教えてよ。
+* Kinou itta misé, tabe-hóudai, nomi-hóudai-de nisén kyúu-haku hachi-júu-en-datta yo.<br>Sore-tte kékkou yasúi ne. Sono misé dóko-ni áru-n-desu ka?<br>Éki no mukou-gawa. Chótto setsumei muzukashíi na.<br>Ja, kyóu, kaerí-ni oshieté-yo.
+* At the place we went to yesterday, it was 2980 yen for all-you-can-eat and all-you-can-drink! (casual)<br>That's pretty cheap! Where is it you went?<br>On the other side of the station. It's a bit hard to explain. (casual)<br>Show me when we go home, then. (casual)
 * 
 
 **55:10 - 55:19** _#shad5-3_
-* 
+* 田中さんの結婚パーティーっていつでしたっけ？<br>えー、確か１０日の３時からです。<br>え、１０日でしたっけ？
 * Tanaka-san-no kekkon-páatii-tte ítsu-deshita kke?<br>E, táshika too-ka-no sánji-kara-desu.<br>E, tooka-déshita kke?
-* 
+* When was Tanaka-san's wedding party again? (polite)<br>Uh, I'm pretty sure it's on the 10th, starting at 3. (polite) <br>Huh, was it the 10th? (polite)
 * 
 
 **55:22 - 55:31** _#shad5-3_
-* 
+* 今日寝過ごしてびっくりしたよ。起きたらもう８時なんだもん。<br>へー。でもよく間に合ったね。<br>うん。でも焦ったよ。
 * Kyóu ne-sugóshite bikkúri shita yo. Ókitara móu hachí-ji-ná-n-da mon.<br>He. Démo yóku ma-ni átta ne.<br>Ún. Démo asétta yo.
-* 
+* Today I overslept and really startled myself. When I woke up it was already 8, can you imagine! (casual)<br>Whoa, but you made it right on time. (casual)<br>Yeah. But I really rushed. (casual)
 * 
 
 **55:35 - 55:50** _#shad5-3_
-* 
+* すごい肩だね。こってるね。どう？<br>あ〜、すごく気持ちいい。あ、もういいよ。どうもありがとう。<br>いえいえ。<br>あー、本当気持ちよかった。軽くなった。
 * Sugói káta-da ne. Kótte ru ne. Dóu?<br>A, sugóku kimochi íi. A, móu íi yo. Dóumo arigatou.<br>Ie ie.<br>A, hontou kimochi yókatta. Karuku nátta.
-* 
+* Wow, that shoulder! It's really stiff. How's that? (casual)<br>Ah, it feels amazing! Oh, that's enough. Thanks. (casual)<br>No problem. (casual)<br>Ah, that felt really good. It's so much lighter. (casual)
 * 
 
 **55:52 - 56:07** _#shad5-3_
-* 
-* Ne, shátsu míte. Kore-to kore, kyóu dótchi-no hóu-ga íi to omóu?<br>Dochira-ká-tte iéba, kotchi ka na.<br>Sóu? Démo, kotchi-no hóu-ga yóku nái?<br>Nán-da! Hito-ni kiitóite, móu kimatte rú-n-da.
-* 
+* ねー、シャツ見て。これとこれ、今日どっちの方がいいと思う？<br>どちらかって言えば、こっちかな。<br>そう？でも、こっちの方が良くない？<br>なーんだ！人に聞いといて、もう決まってるんだ。
+* Ne, shátsu míte. Kore-to kore, kyóu dótchi-no hóu-ga íi to omóu?<br>Dochira-ká-tte iéba, kotchi ka na.<br>Sóu? Démo, kotchi-no hóu-ga yókunai?<br>Nán-da! Hito-ni kiitóite, móu kimatte rú-n-da.
+* Hey, look at these shirts. Between this one and this one, which one is better? (casual)<br>If you ask me... this one, I guess! (casual)<br>Really? But, isn't this one better? (casual)<br>Jeez! Asking people, meanwhile you've already decided. (casual)
 * 
 
 **56:11 - 56:17** _#shad5-3_
-* 
+* あ、もう帰んなくちゃ。<br>え、早いね。<br>うん、こんばん、きになる番組があるから。
 * A, móu kaénnakucha.<br>E, hayái ne.<br>Ún, kónban, ki-ni náru bangumi-ga áru-kara.
-* 
+* Ah, I've got to go back. (casual)<br>Huh, how early. (casual)<br>Yeah, there's a show that's caught my interest tonight. (casual)
 * 
 
 **56:20 - 56:27** _#shad5-3_
-* 
+* うわー、日焼けしたね。どこ行ったの？<br>うん、ちょっとハワイにね。<br>ちょっとハワイ？
 * Uwa, hiyake shita ne. Dóko ittá-no?<br>Ún, chótto Háwai-ni ne.<br>Chótto háwai?
-* 
+* Whoa, you got sunburnt, eh? Where did you go? (casual)<br>Yeah, just Hawaii. cc<br>Just Hawaii? (casual)
 * 
 
 **56:36 - 56:45** _#shad5-4_
-* 
+* いらっしゃいませ。<br>すみません、これクリーニングお願いします。<br>はい。えーと、ワイシャツ３枚とズボン１本ですね。 
 * Irasshaimáse.<br>Sumimasén, kore kuríiningu onegai shimásu.<br>Hai. Eeto, waishatsu sán-mai-to zúbon-o íp-pon-desu ne.
-* 
+* Welcome. (polite)<br>Excuse me, I'd like to have this cleaned, please. (polite)<br>All right. So, 3 shirts and 1 pair of pants, right? (polite)
 * 
 
 **56:48 - 56:56** _#shad5-4_
-* 
+* 今日は、どうなさいますか？<br>カットをお願いします。<br>かしこまりました。<br>あのー、この写真の髪型みたいにできますか？
 * Kyóu-wa, dóu nasaimásu ka?<br>Kátto-o onegai shimásu.<br>Kashikomarimáshita.<br>Ano, kono sashin-no kamigata-mítai-ni dekimásu ka?
-* 
+* What will you go for today? (polite)<br>I'd like a haircut, please. (polite)<br>Yes, ma'am. (polite)<br>Um, can you make it like the hair style in this photo? (polite)
 * 
 
 **56:59 - 57:11** _#shad5-4_
-* 
+* これ、エアメールでお願いしたいんですけど。<br>はい。えーと、イタリアですから１１０円ですね。<br>どのくらいで着きますか？<br>一週間くらいでしょうかねー。
 * Kore, eaméeru-de onegai shi-tái-n-desu kedo.<br>Hai. Eeto, Itaria-désu-kara hyaku-juu-en désu ne.<br>Dono-kurai-de tsukimásu ka?<br>Is-shuu-kan-kúrai-deshou ka ne.
-* 
+* I'd like [to send] this by airmail. (polite)<br>Sure. All right, since it's Italy, it will be 100 yen. (polite)<br>How long will it take to arrive? (polite)<br>About a week, I would say. (polite)
 * 
 
 **57:14 - 57:25** _#shad5-4_
-* 
+* この靴、治りますか？<br>ええ、大丈夫ですよ。明日まででいいですか？<br>できれば、今日がいいんですけど。<br>わかりました。じゃ、夕方５時ごろまでにやっておきます。
 * Kono kutsú, naorimásu ka?<br>Ee, daijóubu-desu yo. Ashitá-made-de íi-desu ka?<br>Dekíreba, kyóu-ga íi-n-desu kedo.<br>Wakarimáshita. Ja, yuugata go-ji-góro-made-ni yatte okimásu.
-* 
-* 
+* Are these shoes the kind of thing you can fix? (polite)<br>Yes, no problem at all. I can get them done by tomorrow, is that all right? (polite)<br>Today would be better, if at all possible. (polite)<br>I understand. In that case, I'll have them done by 5 tomorrow evening. (polite)
+* Literally, "Do these shoes get fixed?"
 
 **57:29 - 57:44** _#shad5-4_
-* 
+* あのー、初めてなんですけど。<br>はい。では、こちらの問診票にご記入ください。<br>あのー、漢字が難しくて読めないんですけど…。<br>じゃー、質問を読みますから、それに答えてくださいね。
 * Ano, hajímete-na-n-desu kedo.<br>Hai. Dé-wa, kochira-no monshinhyou-ni go-kinyuu kudasái.<br>Ano, kanji-ga muzukáshikute yoménai-n-desu kedo...<br>Ja, shitsumon-o yomimásu-kara, sore-ni kotáete kudasái ne.
-* 
-* 
+* Um, it's my first time here. (polite)<br>All right. Then please fill out this form. pp<br>Um, the kanji are hard, so I can't read it. (polite)<br>Then I'll read the questions, and then you answer, all right? (polite)
+* It's implied that they're in a hospital.
 
 **57:47 - 57:55** _#shad5-4_
-* 
+* おリボンは何色になさいますか？<br>ピンクでお願いします。<br>包装紙はどちらにいたしましょうか。<br>じゃー、この無地のにしてください。
 * O-ríbon-wa nani-iró-ni nasaimásu ka?<br>Pínku-de onegai shimásu.<br>Housóushi-wa dóchira-ni itashimashóu ka.<br>Ja, kono múji-no-ni shite kudasái.
-* 
+* Which ribbon will you go with? (honorific)<br>The pink one, please. (polite)<br>Which wrapping paper should I use? (humble)<br>Yes, use the plain one, please. (polite)
 * 
 
 **57:59 - 58:09** _#shad5-4_
-* 
+* あのー、定期、落としちゃったみたいなんですけど…。<br>いつですか？<br>昨日の午後３時頃です。届いてますか？<br>ちょっと待ってください。今調べますから。
 * Ano, téiki, otóshichatta-mitai-na-n-desu kedo...<br>Ítsu-desu ka?<br>Kinou-no gógo san-ji-góro-desu. Todóite másu ka?<br>Chótto mátte kudasái. Íma shirabemásu kara.
-* 
+* Um, I seem to have dropped my ticket... (polite)<br>When was that? (polite)<br>Around 3 p.m. yesterday. Has it been turned in? (polite)<br>Please wait a moment. I'll go check. (polite)
 * 
 
 **58:13 - 58:22** _#shad5-4_
-* 
+* これ、払えますか？<br>こちらは郵便局の払込み用紙になってますので…。<br>あー、そうですか。じゃー、これは大丈夫ですか？
 * Kore, haraemásu ka?<br>Kochira-wa yuubínkyoku senyou-no haraikomi-yóushi-ni nátte másu-no-de...<br>A, sóu-desu ka. Ja, kore-wa daijóubu-desu ka?
-* 
+* Can I pay for this [here]? (polite)<br>This is a payment form especially for use at the post office... (polite)<br>Oh, I see. So, is this okay? (polite)
 * 
 
 **58:26 - 58:32** _#shad5-4_
-* 
+* カードでいいですか？<br>はい。お支払いは…。<br>１回で。<br>では、こちらにご署名お願いします。
 * Káado-de íi-desu ka?<br>Hai. O-shiharai-wa...<br>Ik-kái-de.<br>Dé-wa, kochira-ni go-shomei onegai shimásu.
-* 
+* Is card okay? (polite)<br>Yes. And you'll be paying... (polite)<br>In one installment.<br>Then please sign here. (polite)
 * 
 
 **58:35 - 58:48** _#shad5-4_
-* 
+* はい、佐藤です。<br>あ、もしもし、エミリーです。太郎さん、いらっしゃいますか。<br>あー、エミリーさん。太郎は、今日出かけてますよ。<br>あ、そうなんですか。じゃ、また後でかけます。
 * Hai, Sátou-desu.<br>A, móshimoshi, Émirii-desu. Tárou-san, irasshaimásu ka.<br>A, Émirii-san. Tárou-wa, íma de-kakete másu yo.<br>A, sóu-na-n-desu ka. Ja, matá áto-de kakemásu.
-* 
+* Hello, this is Satou. (polite)<br>Ah, hello, this is Emily. Is Tarou-san there? (honorific)<br>Ah, Emily-san. Tarou is out right now. (polite)<br>Oh, is he? Then I'll call back later. (polite)
 * 
 
 **58:57 - 59:11** _#shad5-5_
-* 
+* 先生、ビザを延長するところは、なんというんですか？<br>あー、それは入国管理局ですよ。<br>にゅうこく…。<br>にゅう、こく、かん、り、きょく。短く言うと、にゅうかん。
 * Senséi, bíza-o enchou-suru-tokoró-wa, nán-to iu-n-desu ka?<br>A, sore-wa nyuukoku-kanríkyoku-desu yo.<br>Nyuukoku...<br>Nyuu, koku, kan, rí, kyoku. Mijíkaku iu to, nyuukan.
-* 
+* Sensei, what do you call the place where you extend your visa? (polite)<br>Ah, that's the immigration office.<br>Immigration...<br>Immigration office. Or "nyuukan" for short.
 * 
 
 **59:14 - 59:25** _#shad5-5_
 * お伺いしておりますか？<br>えっ？あー、あの、口座を作りたいんですが。<br>ご新規ですね。では、こちらの番号札をお取りになってお待ちください。
 * O-ukagai shite orimásu ka?<br>E'? A, ano, kouza-o tsukuri-tái-n-desu ga.<br>Go-shínki-desu ne. Déwa, kochira-no bangóu-fuda-o o-torí-ni nátte o-máchi kudasái.
-* 
+* Can I help you? (humble)<br>Huh? Oh, um, I'd like to open an account. ppp<br>You're a new client, correct? So, please take this number, and wait. (honorific)
 * 
 
 **59:28 - 59:37** _#shad5-5_
-* 
+* 風の音がビュービューすごいね。<br>うん、こんな日にハイキングなんて最悪！<br>雨でも降ってくれれば、中止になるのにね。
 * Kaze-no otó-ga byúubyuu sugói ne.<br>Ún, konna-hí-ni háikingu-nante saiaku!<br>Áme-de-mo fútte kureréba, chuushi-ni náru-no-ni ne.
-* 
+* The wind is howling like crazy, huh? ccc<br>Yeah, hiking on a day like this is the worst! ccc<br>If only we'd get some rain, then it would get canceled. ccc
 * 
 
 **59:40 - 59:51** _#shad5-5_
 * あ、奥歯が虫歯になってますね。痛みますか？<br>いえ、特には…。<br>じゃ、悪いところを削っていきます。痛かったら手を上げてください。
 * A, ókuba-ga mushiba-ni nátte másu ne. Itamimásu ka?<br>Ie, tóku-ni-wa...<br>Ja, warúi-tokoró-o kezutte ikimásu. Itákattara té-o agete kudasái.
-* 
+* Ooh, you've got a cavity in your back tooth. Does it hurt? ppp<br>No, not especially. ppp<br>Okay then, I'll go ahead and remove the bad part. Please raise your hand if it hurts. ppp
 * 
 
 **59:54 - 60:02** _#shad5-5_
 * 先生、合格しました！<br>わーおめでとう。よく頑張りましたね。<br>先生のおかげです。本当にありがとうございました。
-* Senséi, goukakku shimáshita!<br>Wa, omedetou. Yóku ganbarimáshita ne.<br>Senséi-no okage-désu. Hontou-ni arígatou gozaimáshita.
-* 
+* Senséi, goukaku shimáshita!<br>Wa, omedetou. Yóku ganbarimáshita ne.<br>Senséi-no okage-désu. Hontou-ni arígatou gozaimáshita.
+* Sensei, I passed! ppp<br>Whoa, congratulations! You really did your best, didn't you? ppp<br>Thanks to you. Thank you so much. ppp
 * 
 
 **60:05 - 60:18** _#shad5-5_
 * いろいろお世話になりました。明日、国に帰ります。<br>そうですかー。寂しくなりますねー。<br>是非、遊びに来てください。ご案内しますから。<br>うん、行くときは必ず連絡しますね。
 * Iroiro o-séwa-ni narimáshita. Ashitá, kuni-ni kaerimásu.<br>Sóu-desu ka. Sabíshiku narimásu ne.<br>Zéhi, asobi-ni kíte kudasái. Go-annai shimásu-kara.<br>Ún, iku-tóki-wa kanarazu renraku shimásu ne.
-* 
+* You've helped me out a lot. I'm going back to my country tomorrow. ppp<br>I see. It won't be the same [without you]! ppp<br>Make sure to come visit. I'll show you around. ppp<br>Yeah, when I go I'll definitely contact you. ppp
 * 
 
 **60:22 - 60:32** _#shad5-5_
 * 今、ピンポーンって言わなかった？<br>え〜、気のせいじゃない？<br>ちょっと、見てきてくれない？<br>も〜、気になる人が自分で見てくれば〜？
 * Íma, píinpoon-tte iwanákatta?<br>E, ki-no séi-ja nái?<br>Chótto, míte kíte kurenai?<br>Mo, ki-ni náru hitó-ga jibun-de míte kuréba?
-* 
+* Did the bell not just ring? ccc<br>Huh, it's got to be your imagination, right? ccc<br>Won't you go and check? ccc<br>Jeez, how about you go look yourself, if you're so worried? ccc
 * 
 
 **60:36 - 60:49** _#shad5-5_
-* 
+* あれ？音が出ないなー。壊れてんのかな？<br>コンセント、入ってますか？<br>うん、入ってるのに、変だなー。<br>ＣDの向きは大丈夫ですか？
 * Are? Otó-ga dénai na. Kowárete-n-no ka na?<br>Kónsento, háitte másu ka?<br>Ún, háitte rú-no-ni hén-da na.<br>Shiidíi-no múki-wa daijóubu-desu ka?
-* 
+* Huh? There's no sound coming out. I wonder if it's broken. ccc<br>Is it plugged into the outlet? ccc<br>Yeah, it is. It's really weird. ccc<br>Is the CD facing the right way? ccc
 * 
 
 **60:52 - 61:05** _#shad5-5_
 * もしもし、それでですねー。電車がいつ動くかわからないそうなんで…。<br>わかりました。じゃ、会議先に始めてますね。<br>すみません。よろしくお願いします。<br>慌てなくていいから、気をつけて来てくださいね。
 * Móshimoshi, sore-dé-desu ne. Densha-ga ítsu ugóku-ka wakaránai sóu-na-n-de...<br>Wakarimáshita. Ja, káigi saki-ni hajimete másu ne.<br>Awatenákute íi kara, ki-o tsúkete kíte kudasái ne.
-* 
+* Hello, yes, well, they don't know when the train will be moving, so... ppp<br>I understand. We'll start the meeting ahead of you, then. ppp<br>Sorry, thanks.<br>No need to rush, you take your time. ppp
 * 
 
 **61:08 - 61:19** _#shad5-5_
 * あー、電池が終わりそう。どうしよう。<br>近くに公衆電話ない？見つけて、かけなおしてよ。<br>わかった。探してみるね。ちょっと待ってて。
-* A, dénchi-ga owari-sóu. Dóu shiyóu.<br>Chíkaku-ni koushuu-dénwa nái? Mitsukete, kake-náoshite yo.
-* 
+* A, dénchi-ga owari-sóu. Dóu shiyóu.<br>Chíkaku-ni koushuu-dénwa nái? Mitsukete, kake-náoshite yo.<br>Wakátta. Sagashite míru ne. Chótto mátte te.
+* Ah, the batteries are about to run out. What should I do? ccc<br>Isn't there a public phone nearby? Find one and call me back! ccc<br>Got it. I'll try looking for one. Hang on, okay? ccc
 * 
 
 **61:29 - 61:40** _#shad5-6_
-* 
+* あのー、定期券売り場はどこでしょうか？<br>あ、みどりの窓口の隣です。<br>そうですか、ありがとうございます。<br>急ぐなら、自動販売機でも買えますよ。
 * Ano, teikiken-úriba-wa dóko deshou ka?<br>A, mídori-no madóguchi-no tonari-désu.<br>Sóu-desu ka, arígatou gozaimásu.<br>Isógu-nara, jidouhanbáiki-de-mo kaemásu yo.
-* 
-* 
+* Um, where is the counter for fixed-term [commuter] passes? ppp<br>Ah, next to the green ticket window. ppp<br>If you hurry, you can buy one at the vending machine, too. pp
+* This "úriba" isn't necessarily a counter. It's any place where stuff is sold.
 
 **61:43 - 61:53** _#shad5-6_
-* 
+* 警察は１１０番ですよね。<br>そうですよ。<br>じゃー、急に病気になった時は？<br>火事の時と同じ１１９番です。
 * Keisatsu-wa hyaku-tóu-ban-desu yo ne.<br>Sóu-desu yo.<br>Ja, kyuu-ni byouki-ni nátta-toki-wa?<br>Káji-no tokí-to onaji ichi-íchi kyúu-ban-desu. 
-* 
+* The police are at 110, right? ppp<br>So, what if you suddenly get ill? ppp<br>The same as in case of a fire, 119. ppp
 * 
 
 **61:56 - 62:11** _#shad5-6_
-* 
+* すみません、宅急便、お願いしたいんですけど。<br>はい、じゃ、このふと枠の中に必要事項を書いてください。<br>あの、ガラスが入っているんですが。<br>それでは壊れ物のところに丸をつけてください。
 * Sumimasén, takkyuubin, onegai shi-taí-n-desu kedo.<br>Hai, ja, kono futowaku-no náka-ni hitsuyou-jíkou-o káite kudasái.<br>Ano, garasu-ga háitte irú-n-desu ga.<br>Sore-dé-wa koware-mono-no tokoró-ni maru-o tsúkete kudasái.
-* 
+* Excuse me, I'd like an express delivery, please. ppp<br>All right, then please write all the necessary information in this box. ppp<br>But, um, there's glass inside. ppp<br>In that case, put a circle in the spot for fragile items. ppp
 * 
 
 **62:15 - 62:30** _#shad5-6_
-* 
+* はい、１０４の田中です。<br>すみません、新宿区役所の電話番号が知りたいんですが。<br>はい、新宿区役所ですね。それではテープでご案内させていただきます。
 * Hai, ichi-réi-yon-no Tanaka-désu.<br>Sumimasén, Shinjuku-ku-yákusho-no denwa-bángou-ga shiri-tái-n-desu ga.<br>Hai, Shinjuku-ku-yákusho-desu ne. Sore-dé-wa téepu-de go-annai sasete itadakimásu. Go-riyou arígatou gozaimáshita.
-* 
+* Hello, this is Tanaka with 104. ppp<br>Excuse me, I'm looking for the number for the Shinjuku-ku public office. ppp<br>Yes sir, the Shinjuku-ku public office. Now, if you would be so kind as to listen to the information on tape. Thank you for using our service. ppp
 * 
 
 **62:35 - 62:46** _#shad5-6_
-* 
+* すみません、今日シャンプーとカットしたいんですが…。<br>はい、何時ごろの予約がよろしいでしょうか。<br>そうですね、じゃ、３時でお願いします。
 * Sumimasén, kyóu, shánpuu-to kátto shi-tái-n-desu ga...<br>Hai, nan-ji-góro-no yoyaku-ga yoroshíi-deshou ka.<br>Sóu-desu ne. Ja, sán-ji-de onegai shimásu.
-* 
+* Excuse me, I'd like a shampoo and a cut today. ppp<br>All right, what time would you like your reservation? ppp<br>Hmmm, three o'clock, please. ppp
 * 
 
 **62:49 - 62:58** _#shad5-6_
-* 
-* Yakiniku-béntou, hitótsu kudasái.<br>Hai, yakiniku-désu ne. Yón-hyaku go-juu-én-desu.
-* 
+* 焼き肉弁当、１つください。<br>はい、焼き肉ですね、４５０円です。<br>あの、ご飯少なめでお願いします。
+* Yakiniku-béntou, hitótsu kudasái.<br>Hai, yakiniku-désu ne. Yón-hyaku go-júu-en-desu.<br>Ano, góhan sukuname-de onegai shimásu.
+* One yakiniku lunch box, please. ppp<br>All right, yakiniku, coming right up. 450 yen, please.<br>Um, can I have slightly less right, please?
 * 
 
 **63:01 - 63:13** _#shad5-6_
-* 
+* 日替わり弁当、ご飯大盛りでお願いします。<br>はい、ありがとうございます。みそ汁はつけますか？<br>うーん、どうしようかな、あ、今日はやめときます。
 * Higawari-béntou, góhan oomori-de onegai shimásu.<br>Hai, arígatou gozaimásu. Miso-shíru-wa tsukemásu ka?<br>Un, dóu shiyóu ka na, a, kyóu-wa yametokimásu.
-* 
+* I'd like the daily special lunch box, with a large serving of rice, please. ppp<br>Thank you very much. Would you like some miso soup with that? ppp<br>Hm, what to do... Oh, I think I'll hold off [on that]. ppp
 * 
 
 **63:15 - 63:25** _#shad5-6_
-* 
+* このバスデーケーキをください。<br>はい、ありがとうございます。ろうそくをつけますか？<br>はい、じゃ、大きいのを４本と小さいのを３本で。
 * Kono baasudee-kéeki-o kudasái.<br>Hai, arígatou gozaimásu. Rousóku-o tsukemásu ka?<br>Hai, ja, ookíi-no-o yón-hon-to chiisái-no-o sán-bon-de.
-* 
+* I'd like this birthday cake, please. ppp<br>Thank you very much. Would you like candles with that? ppp<br>Yes, right, four of the big ones, and three of the small ones.
 * 
 
 **63:29 - 63:42** _#shad5-6_
-* 
-* Ip-paku futsu-ka-de ikeru íi onsen arimásu ka?<br>Go-yósan-wa dore-gurai-o o-kangae-déshou.<br>Un, ichi-mán go-sen-en-gúrai ka na, koutsúu-hi komí-de.<br>Sore-dé-wa, kochira-nádo ikága deshou.
-* 
+* 一泊二日で行けるいい温泉ありますか？<br>ご予算は、どれぐらいをお考えでしょう。<br>う〜ん、１万５０００円くらいかな、交通費込みで。<br>それでは、こちらなどいかがでしょう。
+* Ip-paku futsu-ka-de ikeru íi onsen arimásu ka?<br>Go-yósan-wa dore-gurai-o o-kangae-déshou.<br>Un, ichi-mán go-sen-en-kúrai ka na, koutsúu-hi kómi-de.<br>Sore-dé-wa, kochira-nádo ikága deshou.
+* Is there a hot spring we could go for one night (and two days)? ppp<br>What kind of budget are you thinking? ppp<br>Hm, about 15,000 yen, I guess, including transportation costs. ppp<br>In that case, how about something like this? ppp
 * 
 
 **63:45 - 63:54** _#shad5-6_
-* 
+* すみません、キップを落としちゃったんですが。<br>どちらから乗りましたか？<br>東京駅からです。<br>じゃ、３６０円ですね。
 * Sumimasén, kippu-o otóshichatta-n-desu ga.<br>Dóchira-kara norimáshita ka?<br>Toukyou-éki-kara desu.<br>Ja, sán-byaku roku-juu-én-desu ne.
-* 
+* Excuse me, I dropped my ticket. ppp<br>Where did you get on? ppp<br>Tokyo station. ppp<br>That will be 360 yen, then. ppp
 * 
 
 **64:04 - 64:12** _#shad5-7_
-* 
-* Sumimasén, kochira-dé-wa o-komé, haitatsu shite moraemásu ka?<br>Haim go-kíro-kara haitatsu shimásu.<br>Ja, onegai shimásu.
-* 
+* すみません、こちらでシャお米、配達してもらえますか？<br>はい、５キロから配達します。<br>じゃ、お願いします。
+* Sumimasén, kochira-dé-wa o-komé, haitatsu shite moraemásu ka?<br>Hai, go-kíro-kara haitatsu shimásu.<br>Ja, onegai shimásu.
+* Excuse me, can you get rice delivered here? ppp<br>Yes, we deliver starting from 5 kilos. ppp<br>All right then, I'll do that, please. ppp
 * 
 
 **64:16 - 64:30** _#shad5-7_
 * 低カロリーで健康にいい食べ物って何でしょうか？<br>そうですね〜、こんにゃくとか豆腐とか…。<br>何だか、値段の安いものばかりですね。<br>そうそう、贅沢しなくても健康になれるんだよね。
-* Tei-károrii-de kenkou-ni íi tabemóno-tte nán-deshou ka?<br>Sóu-desu ne, konnyáku-to-ka toufu-tó-ka...<br>Nándaka, nedan-no yasúi-mono bákari-désu ne.<br>Sóu óu, zeitáku shinákute-mo kenkou-ni naréru-n-da yo ne.
-* 
+* Tei-károrii-de kenkou-ni íi tabemóno-tte nán-deshou ka?<br>Sóu-desu ne, konnyáku-to-ka toufu-tó-ka...<br>Nándaka, nedan-no yasúi-mono bákari-desu ne.<br>Sóu sóu, zeitáku shinakuté-mo kenkou-ni naréru-n-da yo ne.
+* What would be a low-calorie, healthy food? ppp<br>Let's see, something like konnyaku or tofu. ppp<br>Somehow it's nothing but cheap stuff, huh? ppp<br>That's true, you don't have to go all out to get healthy, right ppp
 * 
 
 **64:33 - 64:46** _#shad5-7_
-* 
+* 引っ越しする時は、郵便局に新しい住所を届けると便利ですよ。<br>え、そうなんですか？<br>前の住所に来た手紙も、ちゃんと新しいところまで届けてくれるんですよ。
 * Hikkoshi suru-tóki-wa, yuubínkyoku-ni atarashíi júusho-o todokéru-to bénri-desu yo.<br>E, sóu-na-n-desu ka?<br>Máe-no júusho-ni kíta tegami-mo, chanto atarashíi tokoró-made todókete kurerú-n-desu yo.
-* 
+* It's really convenient if you report your new address to the post office when you move. ppp<br>Huh, is it? ppp<br>They even deliver any letters that arrived at your old address to your new address for you! ppp
 * 
 
 **64:50 - 64:58** _#shad5-7_
-* 
-* Burando-hin-wa yappári afutaakéaa-ga íi yo ne.<br>Kono máe, kaban-no totte-ga kowáreta-toki, súgu-ni náoshite kuretá-shi ne.
-* 
+* ブランド品はやっぱりアフターケアがいいよね。<br>そうそう！<br>この前、かばんの取っ手が壊れた時、すぐに直してくれたしね。
+* Burando-hin-wa yappári afutaakéa-ga íi yo ne.<br>Kono máe, kaban-no totte-ga kowáreta-toki, súgu-ni naóshite kuretá-shi ne.
+* Brand-name goods really do have good after-sales service. ccc<br>Yeah, they really do! ccc<br>Earlier, when the handle on my bag broke,  they fixed it for me right way. ccc
 * 
 
 **65:01 - 65:10** _#shad5-7_
-* 
+* 最近、テレビの映りが悪いね。<br>マンションの前に高いビルが建ったからかな〜。<br>あー、そうかも！
 * Saikin, térebi-no utsurí-ga warúi ne.<br>Mánshon-no máe-ni takái bíru-ga tátta-kara ka na.<br>A, sóu kamo!
-* 
+* The TV image quality has been really bad recently, hasn't it? ccc<br>I wonder if it's since they built the tall building in front of the apartment building. ccc<br>Oh, maybe that's it! ccc.
 * 
 
 **65:14 - 65:23** _#shad5-7_
-* 
-* Dejikame-de tótta shashin, purinto shi-tái-n-da kedo.<br>Shashin-ya-san-ni dejikame-o motte-ikéba shite kuremásu yo.
-* 
+* デジカメで撮った写真、プリントしたいんだけど。<br>写真屋さんにデジカメを持っていけばしてくれますよ。<br>へ〜、そうなんだ。
+* Dejikame-de tótta shashin, purinto shi-tái-n-da kedo.<br>Shashin-ya-san-ni dejikame-o motte-ikéba shite kuremásu yo.<br>He, sóu-na-n-da.
+* I'd like to print a photo I took with my digital camera. ppp<br>If you take it to the camera shop, they'll do it for you, you know. ppp<br>Whoa, really? ppp
 * 
 
 **65:27 - 65:36** _#shad5-7_
-* 
-* Ano, maegami-o mijikákku shi-tái-n-desu ga.<br>Dono-kurai-máde kirimásu ka<br>Máyuge-ga kakuréru-gurai-made, kítte kudasái.
-* 
+* あのー、前髪を短くしたいんですが。<br>どのくらいまで切りますか？<br>眉毛が隠れるぐらいまで、切ってください。
+* Ano, mae-gami-o mijikáku shi-tái-n-desu ga.<br>Dono-kurai-máde kirimásu ka<br>Máyuge-ga kakuréru gúrai-made, kítte kudasái.
+* So um, I'd like my bangs a little shorter. ppp<br>How much shorter should I cut it? ppp<br>Would you cut it so that my eyebrows are hidden? ppp
 * 
 
 **65:41 - 65:53** _#shad5-7_
-* 
+* 髪に緩めのカールをつけたいんですが。<br>はい、わかりました。<br>あのー、できればこの写真みたいにしてください。<br>はい、わかりました！
 * Kamí-ni yurume-no káaru-o tsuke-tái-n-desu ga.<br>Hai, wakarimáshita.<br>Ano, dekiréba kono shashin-mítai-ni shite kudasái.<br>Hai, wakarimáshita.
-* 
+* I'd like to put loose curls in my hair. ppp<br>Yes, ma'am. ppp<br>Um, 
 * 
 
 **65:56 - 66:08** _#shad5-7_
-* 
-* Keeki-kyóushi-ni moushi-komi-tái-n-desu.<br>E, sugoi! Démo, dóu shite.<br>Nihongo-mo oboeraréru shi, keeki-tsúkuri-mo jouzú-ni náru-kara-desu.<br>Sore-wa, is-seki-ní-chou-tte kotó-desu ne.
-* 
+* ケーキ教室に申し込みたいんです。<br>え〜、すごい！でも、どうして。<br>日本語も覚えられるし、ケーキ作りも上手になるからです。<br>それは、一石二鳥ってことですね。
+* Keeki-kyóushitsu-ni moushi-komi-tái-n-desu.<br>E, sugoi! Démo, dóu shite.<br>Nihongo-mo oboeraréru shi, keeki-tsúkuri-mo jouzú-ni náru-kara-desu.<br>Sore-wa, is-seki-ní-chou-tte kotó-desu ne.
+* I've been wanting to apply for a cake class. ppp<br>Whoa, awesome! But why?<br>Because I'll be able to learn some Japanese, and I'lll be able to get good at making cakes. ppp<br>That's what you call two birds, one stone. ppp
 * 
 
 **66:11 - 66:27** _#shad5-7_
-* 
+* 一石二鳥、それはどういう意味ですか？<br>一つのことをしたら、二つ何かいいことがあるってことですよ。<br>じゃ、一石三鳥ですよ。そこでボーイフレンドも見つけるつもりですから。<br>す、すごい！
 * Is-seki-ní-chou, sore-wa dóu iuu ími-desu ka?<br>Hitótsu-no kotó-o shitára, futatsú nánika íi kotó-ga áru-tte kotó-desu yo.<br>Ja, is-seki-sán-chou-desu yo. Soko-de booifuréndo-mo mitsukeru-tsumori-désu-kara.<br>Su, sugói!
-* 
+* What does that mean, two birds, one stone? ppp<br>It's when you get two good things after doing one thing. ppp<br>Then, it's three birds, one stone! I plan on finding a boyfriend there, too! ppp<br>Wh-whoa! ppp
 * 
 
 ## 01 onna no ko.m4a
@@ -2664,7 +2664,7 @@
 
 **3:27 - 3:28** _#jgr1-1-1_
 * ありがとう。
-* Arigátou.
+* Arígatou.
 * Thank you. (casual)
 * 
 
@@ -3705,37 +3705,37 @@
 **0:11 - 0:11** _#jgr1-1-5_
 * 
 * Yóru-desu.
-* It's night. ppp
+* It's night. (polite)
 * 
 
 **0:13 - 0:15** _#jgr1-1-5_
 * 
 * Niwa-ni kodomo-ga imásu.
-* There is a child in the garden. ppp
+* There is a child in the garden. (polite)
 * 
 
 **0:17 - 0:18** _#jgr1-1-5_
 * 
 * Sóra-ni hoshi-ga arimásu.
-* There are stars in the sky. ppp
+* There are stars in the sky. (polite)
 * 
 
 **0:20 - 0:22** _#jgr1-1-5_
 * 
 * Takusan arimásu.
-* There are many [of them]. ppp
+* There are many [of them]. (polite)
 * 
 
 **0:23 - 0:25** _#jgr1-1-5_
 * 
 * Totemo kírei-desu.
-* [They] are very beautiful. ppp
+* [They] are very beautiful. (polite)
 * 
 
 **0:27 - 0:29** _#jgr1-1-5_
 * 
 * Kodomo-wa sóra-o mimásu.
-* The child looks at the sky. ppp
+* The child looks at the sky. (polite)
 * 
 
 **0:31 - 0:33** _#jgr1-1-5_
@@ -3753,7 +3753,7 @@
 **0:40 - 0:41** _#jgr1-1-5_
 * 
 * Hoshi-ga tori-tái-desu.
-* [He] wants to catch the stars. ppp
+* [He] wants to catch the stars. (polite)
 * hoshi-o tóru = to catch star(s)<br>Hoshi-ga tori-tái. = [I] want to catch the stars.<br><br>Normally one only talks directly about one's own wants in Japanese. When talking about other's wants, it's more common to say someone "appears to want" something. Here, it's okay for the narrator to say "he wants to catch the stars" like this because the narrator is omniscient.
 
 **0:43 - 0:44** _#jgr1-1-5_
@@ -3765,7 +3765,7 @@
 **0:45 - 0:47** _#jgr1-1-5_
 * 
 * Nagái bou-désu.
-* It's a long stick. ppp
+* It's a long stick. (polite)
 * 
 
 **0:49 - 0:52** _#jgr1-1-5_
@@ -3777,7 +3777,7 @@
 **0:54 - 1:01** _#jgr1-1-5_
 * 
 * O-tóu-san-ga kimásu. Soshite, iimásu.<br><br>"Damé, damé!"
-* [His] father comes. Then, [he] says, ppp<br><br>"That won't do!"
+* [His] father comes. Then, [he] says, (polite)<br><br>"That won't do!"
 * 
 
 **1:02 - 1:06** _#jgr1-1-5_
@@ -3789,7 +3789,7 @@
 **1:07 - 1:11** _#jgr1-1-5_
 * 
 * Hoshi-wa tooi yo. Dá-kara, damé damé. 
-* The stars are far away! So that won't do. ppp
+* The stars are far away! So that won't do. (polite)
 * 
 
 **1:12 - 1:18** _#jgr1-1-5_
@@ -3807,67 +3807,67 @@
 **1:26 - 1:28** _#jgr1-1-5_
 * 
 * Ugúisu-wa háru-no tori-désu.
-* The nightingale is a spring bird. ppp
+* The nightingale is a spring bird. (polite)
 * 
 
 **1:30 - 1:31** _#jgr1-1-5_
 * 
 * Háru-ni nakimásu.
-* [The bird] sings during the spring. ppp
+* [The bird] sings during the spring. (polite)
 * 
 
 **1:33 - 1:40** _#jgr1-1-5_
 * 
 * Ugúisu-no kóe-wa, "Hoo-hokékkyo"-desu. Totemo kírei-na kóe-desu.
-* The nightingale's call goes, "Hoo-hokekkyo." It's a very beautiful call. ppp
+* The nightingale's call goes, "Hoo-hokekkyo." It's a very beautiful call. (polite)
 * 
 
 **1:43 - 1:46** _#jgr1-1-5_
 * 
 * Minna, háyaku ugúisu-no kóe-ga kikitái-desu.
-* Everyone wants to hear the nightingale's call early. ppp
+* Everyone wants to hear the nightingale's call early. (polite)
 * 
 
 **1:48 - 1:50** _#jgr1-1-5_
 * 
 * Kotoshi-mo háru-ga kimáshita.
-* Spring came again this year. ppp
+* Spring came again this year. (polite)
 * 
 
 **1:52 - 1:59** _#jgr1-1-5_
 * 
 * Ichirou-no ié-ni, Jírou, Saburou, Shírou, Górou-ga kimáshita.
-* Jirou, Saburou, Shirou, and Girou came to Ichirou's house. ppp
+* Jirou, Saburou, Shirou, and Girou came to Ichirou's house. (polite)
 * 
 
 **2:01 - 2:04** _#jgr1-1-5_
 * 
 * Gonín-wa issho-ni osake-wo nomimásu.
-* The five of them drink sake together. ppp
+* The five of them drink sake together. (polite)
 * 
 
 **2:06 - 2:14** _#jgr1-1-5_
 * 
 * Ichirou-ga iimáshita. Watashi-wa késa, ugúisu-no kóe-o kikimáshita yo.
-* Ichirou said, "This morning, I heard the nightingale's call." ppp
+* Ichirou said, "This morning, I heard the nightingale's call." (polite)
 * kikimáshita = kiita<br>kikimásu = kiku
 
 **2:16 - 2:19** _#jgr1-1-5_
 * 
 * Kotoshi-wa, watashi-ga ichi-ban-hayái.
-* This year, I'm the earliest. ppp
+* This year, I'm the earliest. (polite)
 * 
 
 **2:22 - 2:28** _#jgr1-1-5_
 * 
 * Jírou-ga iimáshita. "Iie. Sore-wa háyaku nái-desu yo."
-* Jirou said, "No, that's not early." ppp
+* Jirou said, "No, that's not early." (polite)
 * 
 
 **2:30 - 2:32** _#jgr1-1-5_
 * 
 * Watashi-wa kinou-no ása kikimáshita yo.
-* I heard [it] yesterday morning. ppp
+* I heard [it] yesterday morning. (polite)
 * 
 
 **2:34 - 2:36** _#jgr1-1-5_
@@ -3897,7 +3897,7 @@
 **3:00 - 3:03** _#jgr1-1-5_
 * 
 * Watashi-wa ik-ka-getsu-máe-ni kikimáshita.
-* I heard [it] a month ago. ppp
+* I heard [it] a month ago. (polite)
 * 
 
 **3:09 - 3:16** _#jgr1-1-5_
@@ -3909,535 +3909,475 @@
 **3:17 - 3:20** _#jgr1-1-5_
 * 
 * Watashi-wa kyónen-no háru-ni kikimáshita yo.
-* I heard [it] last spring.
+* I heard [it] last spring! (polite)
 * 
 
 **3:24 - 3:25** _#jgr1-1-5_
 * 
 * Okane-ga arimasén.
-* [I] have no money. ppp
+* [I] have no money. (polite)
 * 
 
 **3:28 - 3:30** _#jgr1-1-5_
 * 
 * Kore-wa Akio-to Háruko-no uchi-désu.
-* 
+* This is Akio and Haruko's house. (polite)
 * 
 
 **3:32 - 3:34** _#jgr1-1-5_
 * 
 * Uchi-no chíkaku-ni kawá-ga arimásu.
-* 
-* 
-
-**3:36 - 3:38** _#jgr1-1-5_
-* 
-* Soko-ni fúne-ga arimásu.
-* 
+* There is a river near the house. (polite)
 * 
 
-**3:40 - 3:41** _#jgr1-1-5_
+**3:36 - 3:41** _#jgr1-1-5_
 * 
-* Akio-no fúne-desu.
-* 
-* 
-
-**3:43 - 3:47** _#jgr1-1-5_
-* 
-* Máinichi, takusan-no hitó-ga Akio-no fúne-ni norimásu.
-* 
+* Soko-ni fúne-ga arimásu. Akio-no fúne-desu.
+* There, there's a boat. It's Akio's boat. (polite)
 * 
 
-**3:49 - 3:52** _#jgr1-1-5_
+**3:43 - 3:52** _#jgr1-1-5_
 * 
-* Soshite, Akio-wa okane-o moraimásu.
-* 
-* moraimásu = morau
+* Máinichi, takusan-no hitó-ga Akio-no fúne-ni norimásu. Soshite, Akio-wa okane-o moraimásu.
+* Every day, lots of people get in Akio's boat. Then, Akio gets money. (polite)
+* norimásu = nóru<br>moraimásu = morau
 
-**3:55 - 3:57** _#jgr1-1-5_
+**3:55 - 4:02** _#jgr1-1-5_
 * 
-* Kore-ga Akio-no shigoto-désu.
-* 
-* 
-
-**4:00 - 4:02** _#jgr1-1-5_
-* 
-* Háruko-wa uchi-no shigoto-o shimásu.
-* 
+* Kore-ga Akio-no shigoto-désu. Háruko-wa uchi-no shigoto-o shimásu.
+* This Akio's job. (polite)
 * shimásu = suru
 
 **4:03 - 4:05** _#jgr1-1-5_
 * 
 * Máinichi souji-o shimásu.
-* 
+* [She] cleans every day. (polite)
 * 
 
 **4:06 - 4:07** _#jgr1-1-5_
 * 
 * Sentaku-o shimásu.
-* 
+* [She] does the laundry. (polite)
 * 
 
 **4:08 - 4:10** _#jgr1-1-5_
 * 
 * Góhan-o tsukurimásu.
-* 
+* She makes food. (polite)
 * tsukurimásu = tsukúru
 
 **4:12 - 4:16** _#jgr1-1-5_
 * 
 * Akio-to Háruko-wa ni-juu-nen-máe-ni kekkon shimáshita.
-* 
-* 
+* Ankio and Haruko got married twenty years ago. (polite)
+* kekkon shimásu = kekkon suru
 
 **4:18 - 4:21** _#jgr1-1-5_
 * 
 * Háruko-wa ni-juu-nen-máe kírei-deshita.
-* 
+* Haruko was beautiful twenty years ago. (polite)
 * 
 
 **4:22 - 4:25** _#jgr1-1-5_
 * 
 * Démo, íma-wa wákaku nái-desu.
-* 
+* However, now, she's not young. (polite)
 * 
 
 **4:26 - 4:28** _#jgr1-1-5_
 * 
 * Mou kírei-ja arimasén.
-* 
+* [She] is no longer beautiful. (polite)
 * 
 
 **4:31 - 4:34** _#jgr1-1-5_
 * 
 * Akio-wa móu, Háruko-ga sukí-ja arimasén.
-* 
+* Akio no longer loves Haruko. (polite)
 * sukí-ja arimasén = sukí-ja nái
 
-**4:37 - 4:40** _#jgr1-1-5_
+**4:37 - 4:50** _#jgr1-1-5_
 * 
-* Áru-hi, Akio-wa Háruko-ni iimashita.
-* 
-* 
-
-**4:42 - 4:45** _#jgr1-1-5_
-* 
-* Anáta-wa móu, kírei-ja arimasén.
-* 
-* 
-
-**4:46 - 4:50** _#jgr1-1-5_
-* 
-* Watashi-wa móu, anáta-ga sukí-ja arimasén.
-* 
+* Áru-hi, Akio-wa Háruko-ni iimashita. "Anáta-wa móu, kírei-ja arimasén. Watashi-wa móu, anáta-ga sukí-ja arimasén."
+* One day, Akio said to Haruko, "You aren't beautiful anymore. I don't love you anymore."
 * 
 
 **4:52 - 4:59** _#jgr1-1-5_
 * 
 * Háruko-wa iimáshita. "Wakarimáshita. Dé-wa, watashi-wa kono uchi-o demásu.
-* 
+* Haruko said, "I understand. Then I will leave this house." (polite)
 * demásu = déru
 
-**5:01 - 5:03** _#jgr1-1-5_
+**5:01 - 5:07** _#jgr1-1-5_
 * 
 * Watashi-no háha-wa máda génki-desu.
-* 
-* 
-
-**5:04 - 5:07** _#jgr1-1-5_
-* 
-* Watashi-wa háha-no uchi-e ikimásu.
-* 
+* My mother is still well. I'll go to my mother's house. (polite)
 * 
 
 **5:10 - 5:13** _#jgr1-1-5_
 * 
 * Háruko-wa kírei-na kimono-o kimáshita.
-* 
-* 
-
-**5:14 - 5:15** _#jgr1-1-5_
-* 
-* Keshóu-mo shimáshita.
-* 
+* Haruko put on a beautiful kimono. (polite)
 * 
 
-**5:17 - 5:19** _#jgr1-1-5_
+**5:14 - 5:19** _#jgr1-1-5_
 * 
-* Íma-wa totemo kírei-desu.
-* 
+* Keshóu-mo shimáshita. Íma-wa totemo kírei-desu.
+* [She] put on make-up, too. Now, she's very beautiful. (polite)
 * 
 
 **5:21 - 5:26** _#jgr1-1-5_
 * 
 * Háruko-wa iimáshita. "Ja, sayounara."
-* 
+* Haruko said, "Well then, farewell."
 * 
 
 **5:28 - 5:30** _#jgr1-1-5_
 * 
 * Akio-wa Háruko-o mimáshita.
-* 
+* Akio looked at Haruko.
 * 
 
 **5:31 - 5:37** _#jgr1-1-5_
 * 
 * Soshite, chiisái kóe-de iimáshita. "Háruko-wa totemo kírei-da."
-* 
+* Then, [he] said quietly, "Haruko is very beautiful."
 * 
 
 **5:39 - 5:43** _#jgr1-1-5_
 * 
 * Démo, Háruko-wa íma-kara o-káa-san-no uchi-e ikimásu.
-* 
+* But Haruko is going to her mother's house now. (polite)
 * 
 
 **5:45 - 5:47** _#jgr1-1-5_
 * 
 * Móu, kono uchi-ní-wa kaerimasén.
-* 
+* She won't come back to this house anymore. (polite)
 * kaerimasén = kaeránai<br>kaerimásu = káeru
 
-**5:50 - 5:51** _#jgr1-1-5_
+**5:50 - 5:54** _#jgr1-1-5_
 * 
-* Watashi-ga wárukatta.
-* 
-* 
-
-**5:53 - 5:54** _#jgr1-1-5_
-* 
-* Akio-wa iimáshita.
-* 
+* Watashi-ga wárukatta. Akio-wa iimáshita.
+* "I was bad," said Akio. (polite)
 * 
 
 **5:56 - 5:59** _#jgr1-1-5_
 * 
 * Watashi-mo kawa-máde issho-ni ikimásu.
-* 
+* I'll go along [with her] until the river. (polite)
 * 
 
 **6:01 - 6:02** _#jgr1-1-5_
 * 
 * Futarí-wa kawa-máde ikimáshita.
-* 
+* The two of them got to the river. (polite)
 * 
 
 **6:05 - 6:09** _#jgr1-1-5_
 * 
 * Ítsumo Akio-no fúne-de Háruko-no o-káa-san-no uchi-e ikimásu.
-* 
+* [They] would always go to Haruko's mothers house in Akio's boat. (polite) 
 * 
 
 **6:11 - 6:14** _#jgr1-1-5_
 * 
 * Háruko-wa Akio-no fúne-ni norimáshita.
-* 
+* Haruko got on Akio's boat. (polite)
 * norimáshita = notta<br>norimásu = noru
 
 **6:17 - 6:22** _#jgr1-1-5_
 * 
-* Akio-wa Háruko-io iimáshita. "Okane-o kudasái."
-* 
+* Akio-wa Háruko-ni iimáshita. "Okane-o kudasái."
+* Akio said to Haruko, "My money, please." (polite)
 * 
 
 **6:23 - 6:29** _#jgr1-1-5_
 * 
 * Háruko-ga iimáshita. "E? Watashi-wa, okane-ga arimasén."
-* 
+* Haruko said, "Huh? I don't have any money." (polite)
 * 
 
 **6:31 - 6:37** _#jgr1-1-5_
 * 
 * Akio-ga iimáshita. "Okane-ga arimasén? Sóu-desu ka."
-* 
+* Akio said, "You don't have any money? I see." (polite)
 * 
 
 **6:39 - 6:42** _#jgr1-1-5_
 * 
 * Sore-dé-wa damé-desu. Kaerimásu yo.
-* 
+* Then, that won't do. [We]'re going back. (polite)
 * 
 
 **6:44 - 6:48** _#jgr1-1-5_
 * 
 * Akio-wa Háruko-to issho-ni uchi-e kaerimáshita.
-* 
+* Akio went back home with Haruko. (polite)
 * 
 
 **6:50 - 6:52** _#jgr1-1-5_
 * 
 * Akio-wa totemo ureshíi-desu.
-* 
+* Akio is very happy. (polite)
 * 
 
 **6:57 - 6:58** _#jgr1-1-5_
 * 
 * Misé-wa taihen?
-* 
+* A rough time at the shop?
 * 
 
 **7:00 - 7:02** _#jgr1-1-5_
 * 
 * Ookíi misé-ga arimásu.
-* 
+* There is a big shop. ppp
 * 
 
 **7:03 - 7:06** _#jgr1-1-5_
 * 
 * Takusán-no hitó-ga misé-de hatarakimásu.
-* 
+* Lots of people work at the shop. ppp
 * hatarakimásu = hataraku
 
 **7:08 - 7:09** _#jgr1-1-5_
 * 
 * Tárou-mo misé-de hatarakimásu.
-* 
+* Tarou works at the shop, too. ppp
 * 
 
 **7:11 - 7:13** _#jgr1-1-5_
 * 
 * Misé-wa totemo isogashíi-desu.
-* 
+* The shop is very busy. ppp
 * 
 
 **7:15 - 7:19** _#jgr1-1-5_
 * 
 * Tárou-wa máinichi máinichi takusan hatarakimásu.
-* 
+* Tarou works hard every single day. ppp
 * 
 
 **7:22 - 7:24** _#jgr1-1-5_
 * 
 * Ása-kara yóru-made hatarakimásu.
-* 
+* [He] works from morning till night. ppp
 * 
 
 **7:25 - 7:27** _#jgr1-1-5_
 * 
 * Totemo tsukaremásu.
-* 
+* [He] gets very tired. ppp
 * tsukaremásu = tsukaréru
 
 **7:29 - 7:31** _#jgr1-1-5_
 * 
 * Démo, o-kane-wa amari moraimasén.
-* 
+* However, [he] doesn't get much money. ppp
 * moraimásu = morau
 
 **7:33 - 7:34** _#jgr1-1-5_
 * 
 * Sukoshi-dake-désu.
-* 
-* 
-
-**7:36 - 7:38** _#jgr1-1-5_
-* 
-* Tárou-wa chiisái kóe-de iimáshita.
-* 
+* It's only a little bit. ppp
 * 
 
-**7:40 - 7:42** _#jgr1-1-5_
+**7:36 - 7:42** _#jgr1-1-5_
 * 
-* Tanóshiku nai na.
-* 
+* Tárou-wa chiisái kóe-de iimáshita. "Tanóshiku nai na."
+* Tarou said in a quiet voice ppp, "This sure isn't fun."
 * 
 
 **7:43 - 7:45** _#jgr1-1-5_
 * 
-* Móu hatarakitáku nai naa.
-* 
+* Móu hataraki-táku nai naa.
+* I don't want to work anymore. 
 * 
 
 **7:47 - 7:49** _#jgr1-1-5_
 * 
 * Tárou-wa yóru, misé-de nemásu.
-* 
+* Tarou sleeps in the shop at night. ppp 
 * nemásu = néru
 
 **7:51 - 7:53** _#jgr1-1-5_
 * 
-* Hoka-no hito-tachí-to is-sho-ni nemásu.
-* 
+* Hoka-no hito-tachí-to issho-ni nemásu.
+* [He] sleeps together with the other people. ppp
 * 
 
 **7:55 - 7:59** _#jgr1-1-5_
 * 
 * Tárou-wa, uchi-de, hitóri-de yasumi-tái-desu.
-* 
-* 
+* Tarou wants to rest at home by himself. ppp
+* yasúmu
 
 **8:01 - 8:02** _#jgr1-1-5_
 * 
 * Hitóri-de ne-tái-desu.
-* 
-* 
+* He wants to sleep by himself.
+* neru
 
-**8:04 - 8:08** _#jgr1-1-5_
+**8:04 - 8:14** _#jgr1-1-5_
 * 
-* Tsugí-no hi, Tárou-wa mise-nó hitó-ni iimáshita.
-* 
-* 
-
-**8:10 - 8:14** _#jgr1-1-5_
-* 
-* Watashi-wa byouki-désu. Uchi-ni kaerimásu.
-* 
+* Tsugí-no hi, Tárou-wa mise-nó hitó-ni iimáshita. "Watashi-wa byouki-désu. Uchi-ni kaerimásu."
+* The next day, Tarou said to the people at the shop,   "I'm very ill. I'm going home." ppp
 * 
 
 **8:18 - 8:24** _#jgr1-1-5_
 * 
 * Íma, Tárou-wa uchi-ni imásu. Uchi-wa yama-nó chíkaku-ni arimásu.
-* 
+* Now, Tarou is at [his] house. [His] house is near the mountains. ppp
 * 
 
 **8:25 - 8:26** _#jgr1-1-5_
 * 
 * Totemo shízuka-desu.
-* 
+* It's very quiet. ppp
 * 
 
 **8:29 - 8:31** _#jgr1-1-5_
 * 
 * Tárou-wa, yóru, hitóri-de nemáshita.
-* 
+* Tarou slept alone at night. ppp
 * nemáshita = neta<br>nemásu = neru
 
 **8:33 - 8:34** _#jgr1-1-5_
 * 
 * Tsugí-no hi.
-* 
+* The next day.
 * 
 
 **8:37 - 8:38** _#jgr1-1-5_
 * 
 * Tárou-wa okimáshita.
-* 
+* Tarou got up. ppp
 * 
 
 **8:40 - 8:41** _#jgr1-1-5_
 * 
 * Móu, hirú-desu.
-* 
+* It's already noon. ppp
 * 
 
 **8:43 - 8:51** _#jgr1-1-5_
 * 
-* Tárou-wa iimáshita. "Ocha-ga nomi-tái naa" Démo, ocha-ga arimasén.
-* 
+* Tárou-wa iimáshita. "Ocha-ga nomi-tái naa." Démo, ocha-ga arimasén.
+* Tarou said, "I sure would like to drink some tea." However, he has no tea. ppp
 * 
 
 **8:53 - 8:59** _#jgr1-1-5_
 * 
 * "Góhan-mo tabe-tái naa." Démo, góhan-ga arimasén.
-* 
+* "I'd really like to to eat some food, too." However, he has no food. ppp
 * 
 
 **9:00 - 9:02** _#jgr1-1-5_
 * 
 * Nanimo arimasén.
-* 
+* He doesn't have any of it. ppp
 * 
 
 **9:05 - 9:09** _#jgr1-1-5_
 * 
 * Tárou-wa kawá-e ikimásu. Sakana-o torimásu.
-* 
+* Tarou goes to the river. He catches fish. ppp
 * 
 
 **9:11 - 9:13** _#jgr1-1-5_
 * 
 * Tárou-wa yamá-e ikimásu.
-* 
+* Tarou goes to the mountains. ppp
 * 
 
 **9:14 - 9:15** _#jgr1-1-5_
 * 
 * Kudámono-o torimásu.
-* 
-* 
+* He picks fruit. ppp
+* torimásu = tóru
 
 **9:17 - 9:19** _#jgr1-1-5_
 * 
 * Soshite, uchi-e kaerimásu.
-* 
+* Then, he goes back home. ppp
 * kaerimásu = kaéru
 
 **9:20 - 9:21** _#jgr1-1-5_
 * 
 * Ryóuri-o shimásu.
-* 
+* He cooks. ppp
 * 
 
 **9:23 - 9:25** _#jgr1-1-5_
 * 
 * Ryóuri-wa taihen-désu.
-* 
+* Cooking is hard. ppp
 * 
 
 **9:26 - 9:29** _#jgr1-1-5_
 * 
 * Ichi-jí-kan... Ni-jí-kan...
-* 
+* 1 hour... 2 hours...
 * 
 
 **9:33 - 9:34** _#jgr1-1-5_
 * 
 * Itadakimásu.
-* 
+* I humbly receive.
 * 
 
 **9:37 - 9:43** _#jgr1-1-5_
 * 
-* Tsugi-no hi-kara, Tárou-wa máinichi kawá-e ikimásu.
-* 
+* Tsugi-no hi-kara, Tárou-wa máinichi kawá-e ikimásu. Yamá-e ikimásu.
+* From the next day on, Tarou goes to the river every day. He goes to the mountains. ppp
 * 
 
 **9:45 - 9:48** _#jgr1-1-5_
 * 
 * Ryóuri-o shimásu. Souji-mo shimásu.
-* 
+* He cooks. He cleans, as well. ppp
 * 
 
 **9:50 - 9:51** _#jgr1-1-5_
 * 
 * Sentaku-mo shimásu.
-* 
+* He does the laundry, too. ppp
 * 
 
 **9:53 - 9:57** _#jgr1-1-5_
 * 
 * Totemo taihen-désu. Tanóshiku nái-desu.
-* 
+* It's a really rough time. It's not fun. ppp
 * 
 
 **10:00 - 10:11** _#jgr1-1-5_
 * 
 * Tárou-wa iimásu. "Misé-ni-wa, ítsumo mizu-ga arimásu. Ocha-mo arimásu. Góhan-mo arimásu."
-* 
+* Tarou says, "There's always water at the shop. There's tea, too. There's food, too." ppp
 * 
 
 **10:13 - 10:15** _#jgr1-1-5_
 * 
 * Dá-kara watashi-wa kawá-e ikimasén.
-* 
+* So I will not go to the river. ppp
 * 
 
 **10:16 - 10:17** _#jgr1-1-5_
 * 
 * Yamá-e-mo ikimasén.
-* 
+* [I] won't go to the mountains, either. ppp
 * 
 
 **10:18 - 10:22** _#jgr1-1-5_
 * 
 * Ryóuri-mo shimasén. Souji-mo shimasén.
-* 
+* [I] won't cook, either. [I] won't clean, either. ppp
 * 
 
 **10:24 - 10:30** _#jgr1-1-5_
 * 
 * Watashi-wa, misé-ga íi-desu. Watashi-wa, mata misé-de hataraki-tái!
-* 
+* I'm fine with the shop. I want to work at the shop again! ppp
 * 
 
 ## JGR 1-3-1 basu.m4v

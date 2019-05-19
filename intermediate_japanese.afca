@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "timestamp": "2019-04-22T13:25:35Z",
+  "timestamp": "2019-05-19T12:33:12Z",
   "name": "Intermediate Japanese",
   "id": "d7bf05ca-fa1b-4255-a420-47e56a70d3ea",
   "noteType": "Simple",
@@ -386,7 +386,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "子供の登校拒否がよく問題になる。",
           "meaning": "",
           "notes": ""
         }
@@ -440,7 +440,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "最近色々な新しい野菜が出ている。",
           "meaning": "",
           "notes": ""
         }
@@ -458,7 +458,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "お正月、どうするの。\n田舎へ帰るよ。\nいいわね、田舎があって。\nあまり帰りたくないけど、親が待っているけど、親が待っているから、しかたがないんだ。",
           "meaning": "",
           "notes": ""
         }
@@ -514,7 +514,7 @@
         "fields": {
           "transcription": "留守番電話を利用する人が多くなった。留守番電話は確かに便利である。",
           "meaning": "",
-          "notes": ""
+          "notes": "bénri"
         }
       }
     },
@@ -674,7 +674,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "今年のお正月は、どんな予定ですか。\nまだはっきりきまっていないんですが。\nええ。\n市内のホテルにしようかと思っています。\nあ、そうですか。海外じゃなくて。\nええ。海外へ行くほどの金はないんですよ。\nそんなことないでしょうけど。",
           "meaning": "",
           "notes": ""
         }
@@ -710,7 +710,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "戦後、日本人の食生活が洋風になり、肉食が多くなったので、野菜も肉に合うものが必要になり、新しい野菜が次々に開発されているそうである。",
           "meaning": "",
           "notes": ""
         }
@@ -746,7 +746,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "普通の子供でも学校に行きたくない日はある。",
           "meaning": "",
           "notes": ""
         }
@@ -802,7 +802,7 @@
         "fields": {
           "transcription": "一つの原因は、週休二日の会社や役所が増えたことである。",
           "meaning": "",
-          "notes": ""
+          "notes": "yakushó-ga"
         }
       }
     },
@@ -836,7 +836,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "歩くことと走ること走ることのほかは大した仕事をしない。",
+          "transcription": "歩くことと走ることのほかは大した仕事をしない。",
           "meaning": "",
           "notes": ""
         }
@@ -926,8 +926,8 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
-          "meaning": "",
+          "transcription": "しかし登校拒否の場合は、ただ感情的に行きたくないのではなくて、病気に近い状態なのである。",
+          "meaning": "But in the case of schoolphobia, they don't simply lack the desire to go to school from an emotional sense, but they have symptoms similar to an illness.",
           "notes": ""
         }
       }
@@ -980,7 +980,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": ",",
+          "transcription": "どうして帰りたくないの。\n田舎は退屈だもの。\nでも、お友達がいるでしょ。\nうん。友達に会うのは楽しいけど、親戚は面倒くさいよ。",
           "meaning": "",
           "notes": ""
         }
@@ -1126,7 +1126,7 @@
         "fields": {
           "transcription": "このため、土曜日に店を開けても商売ができなくなってしまった。",
           "meaning": "",
-          "notes": ""
+          "notes": "shóubai"
         }
       }
     },
@@ -1268,8 +1268,8 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
-          "meaning": "",
+          "transcription": "例えば、サニーレタスと言う野菜は、十数年前に、肉料理に合うものとして開発された。",
+          "meaning": "For example, over ten years ago, a vegetable called \"sunny lettuce\" was developed as something to go with meat dishes.",
           "notes": ""
         }
       }
@@ -1286,7 +1286,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "カウンセリングが必要であるし、時には入院することもある。",
           "meaning": "",
           "notes": ""
         }
@@ -1322,9 +1322,9 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "家にいる時でも、風呂に入っていたりして、電話に出ることができないこともある。",
+          "transcription": "家にいる時でも、風呂に入っていたりして、電話に出ることができないこともある。 ",
           "meaning": "",
-          "notes": ""
+          "notes": "Ié-ni iru tokí-de-mo, furó-ni háitte itári shite, denwa-ni déru-koto-ga dekínai-koto-mo áru."
         }
       }
     },
@@ -1394,7 +1394,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "お宅はどちらへ？\nうちは毎日昔のとおりにお正月をやります。\nそうですか。\n大掃除をして、お餅をついて、お料理を作って。",
           "meaning": "",
           "notes": ""
         }
@@ -1448,7 +1448,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "でも、お酒飲んだり、ごちそう食べたりするんでしょ。\nうん。でも僕、正月の料理はあんまり好きじゃないんだ。\n私は好き。いつもと違うお料理だから、楽しいわ。",
           "meaning": "",
           "notes": ""
         }
@@ -1628,7 +1628,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "このようの子供のカウンセリングをしてきたある心理学者、新聞に次のようなことを書いていた。",
           "meaning": "",
           "notes": ""
         }
@@ -1666,7 +1666,7 @@
         "fields": {
           "transcription": "これまでのようにお客が一杯のコーヒーでゆっくり休んでいると、お客の数が限られるので、高い地代を払うことができなくなってしまうそうである。",
           "meaning": "",
-          "notes": ""
+          "notes": "íppai\nkagiraréru"
         }
       }
     },
@@ -1700,7 +1700,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "例えば、食事中やテレビで面白いドラマを見ている時など、電話にでなく済むのはありがたいことである。",
+          "transcription": "例えば、食事中やテレビで面白いドラマを見ている時など、電話にでなくて済むのはありがたいことである。",
           "meaning": "",
           "notes": ""
         }
@@ -1736,8 +1736,8 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
-          "meaning": "",
+          "transcription": "カブと掛け合わせた新しい白菜は、柔らかくて、生で食べることができる。",
+          "meaning": "A new kind of chinese cabbage crossed with turnips is so soft that it can be eaten raw.",
           "notes": ""
         }
       }
@@ -1792,7 +1792,7 @@
         "fields": {
           "transcription": "主婦も家事をする必要がない。",
           "meaning": "",
-          "notes": ""
+          "notes": "káji-o suru"
         }
       }
     },
@@ -1862,7 +1862,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "大変ですね。\nええ。でも、主人の母が家でお正月をやりたいと言うので。\nそうですか。",
           "meaning": "",
           "notes": ""
         }
@@ -1880,9 +1880,9 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "登校拒否は低血糖症と関係が深い。",
           "meaning": "",
-          "notes": ""
+          "notes": "teikettoushou"
         }
       }
     },
@@ -2006,8 +2006,8 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
-          "meaning": "",
+          "transcription": "また、ナバナと言う、菜の花の葉の部分だけを使う新しい野菜も最近話題になっている。",
+          "meaning": "Also, a new vegetable called \"nabana\" which puts just the leafy part of the rape blossom has excited a lot of interest lately.",
           "notes": ""
         }
       }
@@ -2042,8 +2042,8 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
-          "meaning": "",
+          "transcription": "元日は朝早く起きて、近所の神社に行くんだ。これが辛いよ。\nあら、そう。私、初詣は好き。気持ちがいいわ。",
+          "meaning": "What about getting up early on New Year's day--and going to the neighborhood shrine? THAT's a trying experience.\nDo you think so? I personally like visiting shrines early in the morning. I find it... refreshing.",
           "notes": ""
         }
       }
@@ -2132,7 +2132,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "低血糖症の人は、疲れやすく、気力がなく、集中することができない。",
           "meaning": "",
           "notes": ""
         }
@@ -2260,7 +2260,7 @@
         "fields": {
           "transcription": "そこで最近多くなったのは、今までの喫茶店よりずっと安いコーヒーを出し、お客は立って飲むという形の店である。",
           "meaning": "",
-          "notes": ""
+          "notes": "ima-máde-no"
         }
       }
     },
@@ -2330,7 +2330,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "うちはアパートで門も床の間もないから、正月の飾りも十分できないんですよ。\n都会の住宅はみんなそうですね。\nですから、広いホテルに泊まってゆっくりするつもりです。",
           "meaning": "",
           "notes": ""
         }
@@ -2440,7 +2440,7 @@
         "fields": {
           "transcription": "正月の伝統的な行事が嫌いな人もある。",
           "meaning": "",
-          "notes": ""
+          "notes": "shougatsu-no dentouteki-na gyóuji-ga kirai-na hitó-mo áru"
         }
       }
     },
@@ -2492,8 +2492,8 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
-          "meaning": "",
+          "transcription": "新しい野菜の開発には、野菜を作る農家の人たちと、それを買って市場に出す人たちとの協力が必要となるが、その協力は容易ではない。",
+          "meaning": "When developing new vegetables, the farmers growing the vegetables and the buyers who put them on the market will need to cooperate. This cooperation isn't easy.",
           "notes": ""
         }
       }
@@ -2510,9 +2510,9 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "頭痛がする、夜よく眠れない。朝起きられない。",
           "meaning": "",
-          "notes": ""
+          "notes": "zutsuu\nnemuru"
         }
       }
     },
@@ -2618,7 +2618,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "正月に大ぜいの客が来るので、会うのがめんどうだと思う人もある。",
+          "transcription": "正月に大ぜいの客が来るので、会うのがめんどうだと思う人もある。 ",
           "meaning": "",
           "notes": ""
         }
@@ -2690,7 +2690,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "感情を抑える力がないので、すぐごわがったり怒ったりする。",
           "meaning": "",
           "notes": ""
         }
@@ -2888,9 +2888,9 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "人に対して暴力を用いる。",
           "meaning": "",
-          "notes": ""
+          "notes": "bóuryoku-o mochiíru"
         }
       }
     },
@@ -2978,7 +2978,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "市場に出す人は、「味が良いだけでなく、外観も綺麗でなければいけない」と言う。",
           "meaning": "",
           "notes": ""
         }
@@ -3014,8 +3014,8 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
-          "meaning": "",
+          "transcription": "このような症状は、登校拒否の子供の様子と同じである。",
+          "meaning": "These symptoms have the same appearance as schoolphobic children.",
           "notes": ""
         }
       }
@@ -3248,7 +3248,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "実際に検査してみても、登校拒否はほとんどが低血糖症だった。",
           "meaning": "",
           "notes": ""
         }
@@ -3266,8 +3266,8 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
-          "meaning": "",
+          "transcription": "同じ大きさの袋に入れるために、例えばナバナは長さが二十センチ、それより長いものや短いものは商品にならない。",
+          "meaning": "To fit bags of the same saze, nabanas, for example, must be 20 centimeters in length. Those that are longer or shorter won't get to be merchandise.",
           "notes": ""
         }
       }
@@ -3466,7 +3466,7 @@
         "fields": {
           "transcription": "たとえば白い線で書いた「青」という字が出る。",
           "meaning": "",
-          "notes": ""
+          "notes": "jí-ga déru"
         }
       }
     },
@@ -3500,9 +3500,9 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "登校拒否の問題は、このような医学的な立場から考えることも必要であろう、と言う意見であった。",
           "meaning": "",
-          "notes": ""
+          "notes": "táchiba\níken"
         }
       }
     },
@@ -3680,7 +3680,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "農家の人たちは、市場に出すことが出来なければ収入にならないので、あきらめて長さの合わないものを捨てる。",
           "meaning": "",
           "notes": ""
         }
@@ -3699,7 +3699,7 @@
         "type": "Simple",
         "fields": {
           "transcription": "コーヒーはいわば味噌汁のかわりである。",
-          "meaning": "",
+          "meaning": "Coffee, as it were, has taken the place of miso soup.",
           "notes": ""
         }
       }
@@ -3807,7 +3807,7 @@
         "type": "Simple",
         "fields": {
           "transcription": "今の中年以上の人たちは、コーヒーが贅沢品であった時代の記憶をもっている。",
-          "meaning": "",
+          "meaning": "People who are now middle-aged and older have memories of an era when coffee was a luxury item.",
           "notes": ""
         }
       }
@@ -3824,7 +3824,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "疲れた時甘いものを食べると元気になる。",
           "meaning": "",
           "notes": ""
         }
@@ -3968,8 +3968,8 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
-          "meaning": "",
+          "transcription": "しかし、「味に変わりはないのに、なぜ捨てなければいけないのか」と言う疑問を感じるようである。",
+          "meaning": "But some of them seem to wonder, \"If there's no difference in taste, why throw them away?\"",
           "notes": ""
         }
       }
@@ -3986,7 +3986,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "お茶の時間に親しい人と一緒に甘い物を食べるのは楽しい。",
           "meaning": "",
           "notes": ""
         }
@@ -4077,8 +4077,8 @@
         "type": "Simple",
         "fields": {
           "transcription": "その人たちの少年時代には、コーヒーは欧米の文化の香りを伝えるものであった。",
-          "meaning": "",
-          "notes": ""
+          "meaning": "In their youth, coffee imparted the fragrance of American and European culture.",
+          "notes": "búnka"
         }
       }
     },
@@ -4130,7 +4130,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "ところがその甘い物を食事を十分にとらないで食べ過ぎると、低血糖症になりやすいそうである。",
           "meaning": "",
           "notes": ""
         }
@@ -4238,9 +4238,9 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "農家の人たちは、先祖代々の土地で作った野菜に対して、生き物に対するような愛情を持っているに違いない。",
           "meaning": "",
-          "notes": ""
+          "notes": "sénzo\ndáidai\naijou"
         }
       }
     },
@@ -4329,7 +4329,7 @@
         "type": "Simple",
         "fields": {
           "transcription": "コーヒーを飲むことは、単に喉のかわきをとめることでなく、日常離れた文化の世界に遊ぶことであった。",
-          "meaning": "",
+          "meaning": "Drinking coffee was more than just quenching thirst. It was a chance to enjoy the world of a culture far removed from everyday life.",
           "notes": ""
         }
       }
@@ -4446,7 +4446,7 @@
       "id": "854c5bcb-3d77-4912-836c-af5591e5e284",
       "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
       "start": 4793,
-      "end": 5255,
+      "end": 5241,
       "flashcard": {
         "id": "854c5bcb-3d77-4912-836c-af5591e5e284",
         "tags": [
@@ -4454,7 +4454,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
+          "transcription": "しかし、スーパーに行けば綺麗なお菓子が並んでいる。テレビでは、人気スターが美味しそうにお菓子を食べてみせる。",
           "meaning": "",
           "notes": ""
         }
@@ -4562,9 +4562,9 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
-          "meaning": "",
-          "notes": ""
+          "transcription": "しかし、現代の農作物は、工業品であり商品なのである。",
+          "meaning": "Still, the agricultural produce of today is a product of industry, and a type of merchandise.",
+          "notes": "nousákubutsu"
         }
       }
     },
@@ -4671,7 +4671,7 @@
         "type": "Simple",
         "fields": {
           "transcription": "最近のコーヒーは、朝の味噌汁のかわりとなり、コーラに似た立ち飲みの飲み物になった。",
-          "meaning": "",
+          "meaning": "Lately, coffee is simply a substitute for miso soup; it's become a beverage to drink while standing, like cola.",
           "notes": ""
         }
       }
@@ -4762,14 +4762,14 @@
         "fields": {
           "transcription": "手紙を受け取って読んで、返事を書いて送るのと似ている。",
           "meaning": "[Using an answering machine] is somewhat like receiving a letter, reading its contents, then writing and mailing a reply.",
-          "notes": ""
+          "notes": "uketotte yónde"
         }
       }
     },
     "3ad03a03-7d4a-4fbe-8384-c92eeaace3e6": {
       "id": "3ad03a03-7d4a-4fbe-8384-c92eeaace3e6",
       "fileId": "a674f283-db52-494e-9123-908190255369",
-      "start": 5254,
+      "start": 5248,
       "end": 5594,
       "flashcard": {
         "id": "3ad03a03-7d4a-4fbe-8384-c92eeaace3e6",
@@ -4778,8 +4778,8 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
-          "meaning": "",
+          "transcription": "こうした変化は、時代の流れではあっても、農家の人にとっては寂しいことかもしれない。",
+          "meaning": "Changes like these are a part of changing times, but for farmers, they are probably sad indeed.",
           "notes": ""
         }
       }
@@ -4787,7 +4787,7 @@
     "ade9907c-dd35-4f9e-8cd9-a35b24c45ea9": {
       "id": "ade9907c-dd35-4f9e-8cd9-a35b24c45ea9",
       "fileId": "792cf78e-1964-48aa-ad62-2cf6b27e7a77",
-      "start": 5266,
+      "start": 5256,
       "end": 5740,
       "flashcard": {
         "id": "ade9907c-dd35-4f9e-8cd9-a35b24c45ea9",
@@ -4796,9 +4796,9 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "",
-          "meaning": "",
-          "notes": ""
+          "transcription": "現代の子供たちは、甘い物の洪水の中で生活している。この洪水に対する強力な対策が必要である。",
+          "meaning": "Today's children live in the midst of a torrent of sweet foods. To counter this torrent, powerful measures must be taken.",
+          "notes": "kouzui\nkyouryoku-na taisaku"
         }
       }
     },
@@ -4888,7 +4888,7 @@
         "fields": {
           "transcription": "人と話をするときは喫茶店で会う。",
           "meaning": "",
-          "notes": ""
+          "notes": "hito-to hanashí-o suru-tóki-wa"
         }
       }
     },
@@ -4959,7 +4959,7 @@
         "type": "Simple",
         "fields": {
           "transcription": "味そのものは変わっていないが、コーヒーに対する人々の気持ちが変わってきたと言えよう。",
-          "meaning": "",
+          "meaning": "The taste may not have changed, but people's feelings towards coffee have changed.",
           "notes": "と言えよう (expository)＝と言えるでしょ (casual)"
         }
       }
@@ -5429,6 +5429,22 @@
           "transcription": "え？\nだから、女性は男性に親切にするべきなんですよ。\nはあ？\nそうしないと、男性も親切にならない。その番組は、そう言ってるんですよ、きっと。",
           "meaning": "",
           "notes": "はあ is more formal than え.\nべき used in conversations sounds \"a little overblown.\""
+        }
+      }
+    },
+    "7a594c6b-6702-4b2d-8ae9-40074ecdd24a": {
+      "start": 102,
+      "end": 180,
+      "id": "7a594c6b-6702-4b2d-8ae9-40074ecdd24a",
+      "fileId": "d3150029-dfe6-42ab-846b-4b0fa89b1da2",
+      "flashcard": {
+        "id": "7a594c6b-6702-4b2d-8ae9-40074ecdd24a",
+        "tags": [],
+        "type": "Simple",
+        "fields": {
+          "transcription": "",
+          "meaning": "",
+          "notes": ""
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "timestamp": "2019-08-10T19:59:08Z",
+  "timestamp": "2019-08-10T21:21:46Z",
   "name": "Classical Chinese",
   "id": "e659c9a0-ab1f-4b59-b67a-028beaace2d2",
   "noteType": "Transliteration",
@@ -906,7 +906,7 @@
           "transcription": "唐有虞，號二帝。\n相揖遜，稱盛世。",
           "pronunciation": "táng yoou yú, hào èr dì.\nxiang yi xùn, cheng shèng shì.",
           "meaning": "Tang and You Yu are called the Two Emperors.\nIn succession, they yielded [their rank] and withdrew [from office], and it was dubbed a prosperous age.",
-          "notes": "[Tang] here stands for tbe famous Emperor, better known from his canonisation as 堯 Yao, who reigned B.C. 2357—2258 and had previously been Marquis of T'ang. (Giles)\n\n[Yu stands for] the place of birth of the famous Emperor, better known from his canonisation as 舜 Shun, who reigned B.C. 2255—2205. (Giles)"
+          "notes": "[Tang] here stands for the famous Emperor, better known from his canonisation as 堯 Yao, who reigned B.C. 2357—2258 and had previously been Marquis of T'ang. (Giles)\n\n[Yu stands for] the place of birth of the famous Emperor, better known from his canonisation as 舜 Shun, who reigned B.C. 2255—2205. (Giles)"
         }
       }
     },
@@ -1020,7 +1020,7 @@
           "transcription": "始春秋，終戰國。\n五霸強，七雄出。",
           "pronunciation": "shii chun qiu, zhong zhàn guó.\nwuu bà qiáng, qi xióng chu.",
           "meaning": "It began with the Spring and Autumn epoch, and ended with the Warring States.\nThen the Five Chieftains domineered, and the Seven Martial States emerged.",
-          "notes": ""
+          "notes": "The Five Chieftains were Dukes 桓 Huan, 文 Wên, 襄 Hsiang, 穆 Mu, and Prince 莊 Chuang. They were the rulers of various States under the Spring and Autumn period. (Giles)"
         }
       }
     },
@@ -1038,8 +1038,8 @@
         "fields": {
           "transcription": "嬴秦氏，始兼并。\n傳二世，楚漢爭。",
           "pronunciation": "yíng qín shì, shii jian bìng.\nchuán èr shì, chuu hàn zheng.",
-          "meaning": "Then from the Ying clan, the house of Chin, was first to bring them together,\n[The throne] was transmitted to Er Shi, and then Chu and Han contended for it.",
-          "notes": ""
+          "meaning": "Then from the Ying clan, the house of Qin, was first to bring them [the States] together,\n[The throne] was transmitted to Er Shi, and then Chu and Han contended for it.",
+          "notes": " Ying was the name of an old family or clan, one member of which received the fief of Ch'in for services rendered to a sovereign of the Chou dynasty; 是爲秦氏 hence the House of Ch'in and the First Emperor. (Giles)\n\nThe above union was accomplished in B.C. 221 by the then ruler of the Ch'in State. After vanquishing and absorbing the other States, he succeeded in proclaiming himself 始皇帝 Shih Huang Ti the First Emperor of a united China. He died B.C. 210. (Giles)"
         }
       }
     },
@@ -1057,8 +1057,8 @@
         "fields": {
           "transcription": "高祖興，漢業建。\n至孝平，王莽篡。",
           "pronunciation": "gao zuu xing, hàn yè jiàn.\nzhì xiào píng, wáng maang cuàn.",
-          "meaning": "Then Gao Zi arose, and the House of Han was established.\nWhen we arrive at Xiao Ping, Wang Mang usurped the throne.",
-          "notes": ""
+          "meaning": "Then Gao Zu arose, and the House of Han was established.\nWhen we arrive at Xiao Ping, Wang Mang usurped the throne.",
+          "notes": "Kao tsu is a \"temple name,\" often bestowed after death upon the first Emperor of a dynasty (line 239). The Emperor here in question was 劉邦 Liu Pang, a quondam beadle, who in B.C. 202, after a successful revolution, mounted the throne as first Emperor of the Han dynasty. (Giles)\n\nHsiao P'ing is here the dynastic title of the Emperor who came to the throne in A.D. 1. (Giles)"
         }
       }
     },
@@ -1077,7 +1077,7 @@
           "transcription": "光武興，為東漢。\n四百年，終於獻。",
           "pronunciation": "guang wuu xing, wéi dong hàn.\nsì baai nián, zhong yú xiàn.",
           "meaning": "Then Guang Wu arose, and founded the Eastern Han dynasty.\nIt lasted four hundred years, and ended with Emperor Xian.",
-          "notes": ""
+          "notes": "Kuang Wu is the dynastic title of a descendant of Kao Tsu (line 215) in the ninth degree, who destroyed Wang Mang the Usurper and placed himself upon the throne in A.D. 25. (Giles)\n\nUnder the former dynasty, now known as 西漢 hsi han the Western Han or as the 前漢 ch'ien han Earlier Han, the capital was at 長安 Ch'ang-an in Shensi. It was moved eastward to 洛陽 Lo-yang in Honan by Kuang Wu; hence the term Eastern. This dynasty is also known as 後漢 hou han the Later Han, a name subsequently bestowed upon one of the Five Dynasties. (Giles)\n\n[Xian] is the dynastic title of the last Emperor of the Eastern Han dynasty, whose reign ended A.D. 221. (Giles)"
         }
       }
     },
@@ -1096,7 +1096,7 @@
           "transcription": "蜀魏吳，爭漢鼎。\n號三國，迄兩晉。",
           "pronunciation": "shuu wèi wú, zheng hàn diing.\nhào san guó, qì liaang jìn.",
           "meaning": "Shu, Wei, and Wu fought for the Hans' three-legged incense pot.\nThey were called the Three Kingdoms, and were there until the Two Qin dynasties.",
-          "notes": "The incense-pot is a symbol for sovereignty, like a throne."
+          "notes": "[蜀 shu] is here a name for modern Ssŭch'uan, over which 劉備 Liu Pei, a quondam artisan, ruled as first Emperor. (Giles)\n\n[魏 wei] stands for portions of modern Shansi and Honan, over which a son of the great 曹操 Ts'ao Ts'ao ruled as first Emperor. (Giles)\n\n[鼎 ding represents] a bronze vessel with three legs and two handles, used for burning incense. It is here figuratively employed, just as throne is often used in English. (Giles)\n\nThe period covered by these rival Kingdoms was only about 45 years in all, yet it is one of the most famous in Chinese history and is the subject of a widely-known historical romance, based upon the tragedies enacted while the empire was thus torn by civil war. (Giles)\n\n[晉 jin] here stands for the Western Chin dynasty, A.D. 265—317, and the Eastern Chin, A.D. 317—420, so called because their capitals were at 洛陽 Lo-yang in Honan and 南京 Nanking in Kiangsu, respectively. (Giles)"
         }
       }
     },
@@ -1115,7 +1115,7 @@
           "transcription": "宋齊繼，梁陳承。\n為南朝，都金陵。",
           "pronunciation": "sòng qí jì, liáng chén chéng.\nwèi nán cháo, du jin líng.",
           "meaning": "Then the Song and Qi followed, and Liang and Chen received it. These are the southern dynasties, the capital at Nanjing.",
-          "notes": ""
+          "notes": "[Song] here stands for a dynasty, A.D. 420—479, generally known as the 劉宋 Liu Sung, from the surname of its founder, to distinguish it from the great Sung dynasty. (Giles)\n\n[Qi] is here the name of a dynasty, A.D. 479—502. (Giles)\n\n[Liang] is here the name of a dynasty, A.D. 502—557. (Giles)\n\n[Cheng] is here the name of a dynasty, A.D. 557—589. (Giles)\n\n[Jinling] is here an old name for Nanking, the southern capital, which had also been the capital under the Eastern Chin dynasty. Giles)"
         }
       }
     },
@@ -1134,7 +1134,7 @@
           "transcription": "北元魏，分東西。\n宇文周，與高齊。",
           "pronunciation": "beei yuán wèi, fen dong xi.\nyuu wén zhou, yuu gao qí.",
           "meaning": "The northern dynasties are: from the Yuan family, Wei, which split into Eastern and Western Wei,\nthe Yu Wen family's Zhou dynasty, with the Gao family's Qi dynasty.",
-          "notes": ""
+          "notes": "The Northern Wei dynasty was founded in A.D. 386 by a Tartar of the 拓跋 Toba family, which name was changed by a later Emperor to 元 Yüan. (Giles)\n\nIn A.D. 534 the Northern Wei came to an end, and from its ruins arose the short-lived Eastern and Western branches which were displaced by the Ch'i and Chou dynasties, respectively. (Giles)\n\n[Gao] is the surname of the founder of the Northern Ch'i dynasty, A.D. 550—589. (Giles)"
         }
       }
     },
@@ -1153,7 +1153,7 @@
           "transcription": "迨至隋，一土宇。\n不再傳，失統緒。",
           "pronunciation": "dài zhì suí, yi tuu yuu.\nbù zài chuán, shi toong xù.",
           "meaning": "Finally, under the Sui dynasty, there was unity of Earth and Heaven,\nNot twice was [the throne] transmitted, as they lost power's succession.",
-          "notes": ""
+          "notes": "[Sui] is the name of a dynasty founded A.D. 589. (Giles)\n\nThe line [不再傳] means that the dynasty ended with its second Emperor. (Giles)"
         }
       }
     },
@@ -1172,7 +1172,7 @@
           "transcription": "唐高祖，起義師。\n除隋亂，創國基。",
           "pronunciation": "táng gao zuu, qii yì shi.\nchú suí luàn, chuàng guó ji.",
           "meaning": "The Tang dynasty's founder raised righteous troops.\nHe dispelled with the Sui's disorder, and established the foundations of his state.",
-          "notes": ""
+          "notes": "This dynasty flourished A.D. 618—907, and formed a brilliant epoch in Chinese history. (Giles)"
         }
       }
     },
@@ -1191,7 +1191,7 @@
           "transcription": "二十傳，三百載。\n梁滅之，國乃改。",
           "pronunciation": "èr shí chuán, san baai zaai.\nliáng miè zhi, guó naai gaai.",
           "meaning": "Twenty times the throne was transmitted in a period of three hundred years.\nThe Liang State destroyed it, and the country was changed.",
-          "notes": ""
+          "notes": "That is, there were twenty-one Emperors, the Empress who usurped the throne between A.D. 684—705 being excluded. (Giles)\n\nThe T'ang dynasty lasted [about three hundred years] from A.D. 618 to 907. (Giles)\n\n[Liang] It here stands for the name of a State, the Prince of which, by name 朱温 Chu Wên, assassinated the last Emperor of the T'ang dynasty, and placed himself upon the throne, A.D. 907. (Giles)\n\nThe name of the new dynasty was Liang, so called after the State of the founder, as above. (Giles)"
         }
       }
     },
@@ -1210,7 +1210,7 @@
           "transcription": "梁唐晉，及漢周。\n稱五代，皆有由。",
           "pronunciation": "liáng táng jìn, jí hàn zhou.\ncheng wuu dài, jie yoou yóu.",
           "meaning": "Liang, Tang, Jin, on to Han and Zhou.\nThese are called the Five Dynasties, and each had a reason for being.",
-          "notes": ""
+          "notes": "Liang: A.D. 907—923. \nTang: A.D. 923—936.\nQin: A.D. 937—947.\nHan: A.D. 947—951.\nZhou: A.D. 951—960.\n\nAll the above are distinguished from earlier dynasties of the same name by the prefix of 後 hou = Later (Giles)"
         }
       }
     },
@@ -1229,7 +1229,7 @@
           "transcription": "炎宋興，受周禪。\n十八傳，南北混。",
           "pronunciation": "yán sòng xìng, shòu zhou chán.\nshí ba chuán, nán beei hùn.",
           "meaning": "The Fire's Song arose and received Zhou's resignation.\nEighteen times [the throne] was transmitted, and the North and the South were reunited.",
-          "notes": ""
+          "notes": "The meaning is that the Sung dynasty ruled under the guiding influence of fire as its own especial element. (Giles)\n\nThe [resignation] reference is to the six-year-old son of the last Emperor of the Later Chou dynasty, who resigned in A.D. 960 in favour of the founder of the Sung dynasty. (Giles)\n\nThe Sung dynasty was interrupted in A.D. 1127 by the 金 Chin Tartars, who had been called in to exterminate the 遼 Liao Tartars, carrying off the Emperor and his heir and occupying the northern portion of the empire. Another son of the unfortunate monarch succeeded in re-establishing the line, and for greater security transferred his capital southwards to modern Hangchow. Hence the first period was called the Northern, the latter the Southern, Sung; and it is to the final reunion of the two under the Mongol Emperor Kublai Khan in A.D. 1260 that this line refers, although the last representative of the Sungs lived on until 1279. (Giles)"
         }
       }
     },
@@ -1324,7 +1324,7 @@
           "transcription": "權閹肆，寇如林。\n至李闖，神器焚。",
           "pronunciation": "quán yan sì, kòu rú lín.\nzhì lii chuaang, shén qì fén.",
           "meaning": "The hold of the people was relaxed, and rebels were [thick] as forests.\nThen came Li Chuang, and the Imperial regalia were destroyed.",
-          "notes": ""
+          "notes": "[Chuang] is here a name taken by the rebel 李自成 Li Tzŭ-ch'eng, to whose sedition the fall of the Ming dynasty was mostly due. (Giles)\n\nThis [last] line refers to the looting of the palace when Li Ch'uang captured and temporarily held Peking. (Giles)"
         }
       }
     },
@@ -1343,7 +1343,7 @@
           "transcription": "清太祖，膺景命。\n靖四方，克大定。",
           "pronunciation": "qing tài zuu, ying jiing mìng.\njìng sì fang, kè dà dìng.",
           "meaning": "The founder of the Qing dynasty responded to the glorious summons.\nHe quieted the four corners and achieved the great settlement.",
-          "notes": ""
+          "notes": "The T'ai Tsu in this line is the Manchu chieftain Nurhachu, A.D. 1559–1626, who was the real founder of the present dynasty, though he never mounted the throne. (Giles)"
         }
       }
     },
@@ -1360,7 +1360,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "廿一史，全在茲。\n載治亂，知興衰。",
-          "pronunciation": "niàn yi shii, quán zài zi.\nzài zhì luàn, zhi xìng shuai.",
+          "pronunciation": "niàn yi shii, quán zài zi.\nzài zhì luàn, zhi xing shuai.",
           "meaning": "The twenty one Dynastic Histories are all here.\nThey tell of [good] government and disorder, and teach of rises and falls.",
           "notes": ""
         }
@@ -1438,7 +1438,7 @@
           "transcription": "趙中令，讀魯論。\n彼既仕，學且勤。",
           "pronunciation": "zhào zhong lìng, dú luu lún.\nbii jì shì, xué qiee qín.",
           "meaning": "Zhao, the president of the council, studied the Lu's Lun Yu.\nHe, when already an official, studied, and moreover with dilligence.",
-          "notes": "By [Lu text] is meant that particular copy of the Lun Yü which was recovered under the Han dynasty from the Lu State and became finally the standard text, as distinguished from the 齊 Ch'i copy, recovered from the State of that name. (Giles)"
+          "notes": "[Zhao] is here a surname standing for 趙普 Chao P'u, A.D. 916—992, a famous statesman who aided in founding the Sung dynasty.\n\nBy [Lu text] is meant that particular copy of the Lun Yü which was recovered under the Han dynasty from the Lu State and became finally the standard text, as distinguished from the 齊 Ch'i copy, recovered from the State of that name. (Giles)"
         }
       }
     },
@@ -1457,7 +1457,7 @@
           "transcription": "披蒲編，削竹簡。\n彼無書，且知勉。",
           "pronunciation": "pi pú bian, xiao zhú jiaan.\nbii wú shu, qiee zhi miaan.",
           "meaning": "They opened out rushes and plaited them, they scraped bamboo writing strips.\nThey had no books, but they knew how to make an effort.",
-          "notes": ""
+          "notes": "This [first] line refers to 路温舒 Lu Wên-shu, a shepherd under the Han dynasty (line 214), who copied out on a sheet of plaited reeds, being too poor to buy the costly books of the period, portions of the Book of History. (Giles)\n\nThis [first] line refers to 公孫弘 Kung-sun Hung, died B.C. 121, a swineherd who at the age of fifty borrowed the Spring and Autumn Annals and copied it out on bamboo tablets, subsequently rising to high office. (Giles)"
         }
       }
     },
@@ -1495,7 +1495,7 @@
           "transcription": "如囊螢，如映雪。\n家雖貧，學不輟。",
           "pronunciation": "rú náng yíng, rú yìng xuee.\njia sui pín, xué bù chuò.",
           "meaning": "Then one bagged fireflies, and another illuminated by snow.\nWith their families, however poor, they studied unceasingly.",
-          "notes": "The reference is to 車引 Ch'ê Yin of the 4th cent. A.D., who was too poor to pay for a candle and adopted the above expedient. (Giles)"
+          "notes": "The [first] reference is to 車引 Ch'ê Yin of the 4th cent. A.D., who was too poor to pay for a candle and adopted the above expedient. (Giles)\n\nThe [second] reference is to 孫康 Sun K'ang of the 4th cent. A.D., who used to study in winter by the light reflected from snow."
         }
       }
     },
@@ -1646,8 +1646,8 @@
         "fields": {
           "transcription": "蔡文姬，能彈琴。\n謝道韞，能詠吟。",
           "pronunciation": "cài wén ji, néng tán qín.\nxiè dào yùn, néng yoong yín.",
-          "meaning": "Cai Wenji could judge from the lute.\nXie Daoyun could compose verses.",
-          "notes": "Wên-chi is the personal name of 蔡琰 Ts'ai Yen, daughter of a famous statesman, 2nd and 3rd cent. A.D. (Giles)\n\nShould probably be 能辨琴 \"néng biàn qín\".\n\nThis young lady, who was a skilled musician, was listening to her father playing, when a cat in the room caught a mouse. Instantly she detected a timbre of slaughter in the tones of the instrument, and foretold disaster to her father, which shortly came to pass. (Giles)\n\nYung yin, like yung shih, comes to mean \"compose poetry\" from the habit which Chinese students have of humming over their efforts at verse in a sing-song voice during the process of composition. (Giles)"
+          "meaning": "Cai Wenji could play the lute.\nXie Daoyun could compose verses.",
+          "notes": "Wên-chi is the personal name of 蔡琰 Ts'ai Yen, daughter of a famous statesman, 2nd and 3rd cent. A.D. (Giles)\n\nShould probably be 能辨琴 \"néng biàn qín\", meaning \"judge by [the sound of] the lute\".\n\nThis young lady, who was a skilled musician, was listening to her father playing, when a cat in the room caught a mouse. Instantly she detected a timbre of slaughter in the tones of the instrument, and foretold disaster to her father, which shortly came to pass. (Giles)\n\nYung yin, like yung shih, comes to mean \"compose poetry\" from the habit which Chinese students have of humming over their efforts at verse in a sing-song voice during the process of composition. (Giles)"
         }
       }
     },

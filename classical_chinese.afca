@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "timestamp": "2019-08-10T21:21:46Z",
+  "timestamp": "2019-08-10T21:45:40Z",
   "name": "Classical Chinese",
   "id": "e659c9a0-ab1f-4b59-b67a-028beaace2d2",
   "noteType": "Transliteration",
@@ -125,7 +125,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "子不學，非所宜。\n幼不學，老何為。",
-          "pronunciation": "zii bù xué, fei suoo yí.\nyòu bù xué, laao hé wèi.",
+          "pronunciation": "zii bù xué, fei suoo yí.\nyòu bù xué, laao hé wéi.",
           "meaning": "If the child does not learn, this is not as it should be.\nWhen young, if he does not learn, then when old, what will become of him?",
           "notes": ""
         }
@@ -277,7 +277,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "三綱者，君臣義。\n父子親，夫婦順。",
-          "pronunciation": "san gang zhee, jun chén yì.\nfù zi qin, fu fù shùn.",
+          "pronunciation": "san gang zhee, jun chén yì.\nfù zii qin, fu fù shùn.",
           "meaning": "The Three Bonds are sovereign-subject duty,\nFather-child closeness, and husband-wife order.",
           "notes": ""
         }
@@ -486,7 +486,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "父子恩，夫婦從。\n兄則友，弟則恭。",
-          "pronunciation": "fù zi en, fu fù cóng.\nxiong zé yoou, dì zé gong.",
+          "pronunciation": "fù zii en, fu fù cóng.\nxiong zé yoou, dì zé gong.",
           "meaning": "Father-child favor, husband-wife order.\nWhen it comes to elder brothers, then friendliness.\nWhen it comes to younger brothers, then respect.",
           "notes": ""
         }
@@ -600,7 +600,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "孟子者，七篇止。\n講道德，說仁義。",
-          "pronunciation": "mèng zi zhee, qi pian zhii.\njiaang dào dé, shuo rén yì.",
+          "pronunciation": "mèng zii zhee, qi pian zhii.\njiaang dào dé, shuo rén yì.",
           "meaning": "As for that of Mengzi's, his stops at seven sections.\nThey lay out the way and virtue, and expound humanity and justice.",
           "notes": ""
         }
@@ -638,7 +638,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "作大學，乃曾子。\n自修齊，至平治。",
-          "pronunciation": "zuò dà xué, naai céng zi.\nzì xiu qí, zhì píng zhì.",
+          "pronunciation": "zuò dà xué, naai zeng zii .\nzì xiu qí, zhì píng zhì.",
           "meaning": "As for the one who wrote The Great Learning, that was Cengzi.\nFrom cultivation and order, to balance and pacification.",
           "notes": "The Great Learning is Legge's translation of the title of a short treatise which teaches us \"to illustrate virtue, to renovate the people, and to rest in the highest excellence.\" It is now the recognised rendering (Père Zottoli \"magna scientia,\" Eitel “Great Learning”), although the term really means “Learning for Adults,” in which sense it was understood by the author of The Little Learning. (Giles)"
         }
@@ -828,7 +828,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "經既明，方讀子。\n撮其要，記其事。",
-          "pronunciation": "jing jì míng, fang dú zi.\ncuo qí yào, jì qí shì.",
+          "pronunciation": "jing jì míng, fang dú zii.\ncuo qí yào, jì qí shì.",
           "meaning": "The classics having now been understood, then one is to read the philosophers.\nTake their essential parts, and take note of all their facts.",
           "notes": ""
         }
@@ -847,7 +847,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "五子者，有荀楊。\n文中子，及老莊。",
-          "pronunciation": "wuu zi zhee, yoou xún yáng.\nwén zhong zi, jí laao zhuang.",
+          "pronunciation": "wuu zii zhee, yoou xún yáng.\nwén zhong zii, jí laao zhuang.",
           "meaning": "Among the five [chief] philosophers, there are Xun Kuang, Yang Xiong,\nWen Zhongzi, as well as Laozi and Zhuangzi.",
           "notes": "Wen Zhongzi is the posthumous title of 王通."
         }
@@ -866,7 +866,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "經子通，讀諸史。\n考世系，知終始。",
-          "pronunciation": "jing zi tong, dú zhu shii.\nkaao shì xì, zhi zhong shii.",
+          "pronunciation": "jing zii tong, dú zhu shii.\nkaao shì xì, zhi zhong shii.",
           "meaning": "When the classics and the philosophers are gotten through, one is to read the various histories,\none is to examine the generational lineages, and one is to know the ends and beginnings.",
           "notes": "\"Ends and beginnings\" of dynasties is implied."
         }
@@ -1113,7 +1113,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "宋齊繼，梁陳承。\n為南朝，都金陵。",
-          "pronunciation": "sòng qí jì, liáng chén chéng.\nwèi nán cháo, du jin líng.",
+          "pronunciation": "sòng qí jì, liáng chén chéng.\nwéi nán cháo, du jin líng.",
           "meaning": "Then the Song and Qi followed, and Liang and Chen received it. These are the southern dynasties, the capital at Nanjing.",
           "notes": "[Song] here stands for a dynasty, A.D. 420—479, generally known as the 劉宋 Liu Sung, from the surname of its founder, to distinguish it from the great Sung dynasty. (Giles)\n\n[Qi] is here the name of a dynasty, A.D. 479—502. (Giles)\n\n[Liang] is here the name of a dynasty, A.D. 502—557. (Giles)\n\n[Cheng] is here the name of a dynasty, A.D. 557—589. (Giles)\n\n[Jinling] is here an old name for Nanking, the southern capital, which had also been the capital under the Eastern Chin dynasty. Giles)"
         }
@@ -1663,7 +1663,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "pronunciation": "bii nyuu zi, qiee cong miin.\neer nán zi, dang zì jiing.",
+          "pronunciation": "bii nyuu zii, qiee cong miin.\neer nán zii, dang zì jiing.",
           "meaning": "They were girls, yet they were quick and clever.\nYou boys ought to rebuke yourselves.",
           "notes": "",
           "transcription": "彼女子，且聰敏。\n爾男子，當自警。"
@@ -1815,7 +1815,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "pronunciation": "rén yí zi, jin maan yíng.\nwoo jiao zi, wéi yi jing.",
+          "pronunciation": "rén yí zii, jin maan yíng.\nwoo jiao zii, wéi yi jing.",
           "meaning": "Men bequeath their children gold-filled coffers.\nI teach you children only this one book.",
           "notes": "",
           "transcription": "人遺子，金滿籯。\n我教子，惟一經。"

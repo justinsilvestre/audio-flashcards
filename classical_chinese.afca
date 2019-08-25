@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "timestamp": "2019-08-10T21:45:40Z",
+  "timestamp": "2019-08-25T18:52:27Z",
   "name": "Classical Chinese",
   "id": "e659c9a0-ab1f-4b59-b67a-028beaace2d2",
   "noteType": "Transliteration",
@@ -50,7 +50,7 @@
         "fields": {
           "transcription": "苟不教，性乃遷。\n教之道，貴以專。",
           "pronunciation": "goou bù jiào, xìng naai qian.\njiào zhi dào, guì yii zhuan.",
-          "meaning": "If someone does not teach them, their natures accordingly shift.\nAs for the way of teaching, value holding onto thoroughness.",
+          "meaning": "If someone does not teach them, their natures accordingly shift.\nAs for the way of teaching, value holding to thoroughness.",
           "notes": ""
         }
       }
@@ -410,7 +410,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "曰喜怒，曰哀懼。\n愛惡欲，七情具。",
-          "pronunciation": "yue xii nù, yue ai jù.\nài è yù, qi qíng jù.",
+          "pronunciation": "yue xii nù, yue ai jù.\nài wù yù, qi qíng jù.",
           "meaning": "We speak of joy, of anger; we speak of pity, of fear,\nLove, hate, and desire. These are the seven passions which we are endowed with.",
           "notes": ""
         }

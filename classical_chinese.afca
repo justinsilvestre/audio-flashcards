@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "timestamp": "2019-08-25T18:52:27Z",
+  "timestamp": "2019-08-30T16:40:41Z",
   "name": "Classical Chinese",
   "id": "e659c9a0-ab1f-4b59-b67a-028beaace2d2",
   "noteType": "Transliteration",
@@ -14,7 +14,11 @@
     }
   ],
   "tags": [
-    "sanzijing"
+    "sanzijing",
+    "sanzijing-1-basics",
+    "sanzijing-2-confucian-classics",
+    "sanzijing-3-dynasties",
+    "sanzijing-4-exemplary-behaviors"
   ],
   "clips": {
     "9ccaeb66-d093-4bef-ad50-6a84f2cfd36e": {
@@ -25,7 +29,8 @@
       "flashcard": {
         "id": "9ccaeb66-d093-4bef-ad50-6a84f2cfd36e",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -44,7 +49,8 @@
       "flashcard": {
         "id": "75ff1917-c320-4351-8942-733530b8bf26",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -63,7 +69,8 @@
       "flashcard": {
         "id": "aa7079c6-a573-4e93-b5c5-f5212f213dc5",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -82,12 +89,13 @@
       "flashcard": {
         "id": "9c80b49a-acc8-4cde-8cde-6395b58cc331",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
           "transcription": "竇燕山，有義方。\n教五子，名俱揚。",
-          "pronunciation": "dòu yàn shan, yoou yì fang.\njiào wuu zii, míng jù yáng.",
+          "pronunciation": "dòu yan shan, yoou yì fang.\njiào wuu zii, míng jù yáng.",
           "meaning": "Dou of the Swallow Hills had the right method.\nHe taught five sons; as for his name, they all raised it.",
           "notes": ""
         }
@@ -101,7 +109,8 @@
       "flashcard": {
         "id": "e2e64381-8a6f-4cb4-8009-e27be1b44850",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -120,7 +129,8 @@
       "flashcard": {
         "id": "a88a46e5-01fc-45c3-b6bb-2b687d34f403",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -139,7 +149,8 @@
       "flashcard": {
         "id": "80c38924-4ea7-4139-8086-f432c7d337c6",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -158,7 +169,8 @@
       "flashcard": {
         "id": "5379cd23-358f-4028-8978-417ec222d130",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -177,7 +189,8 @@
       "flashcard": {
         "id": "6658ef6f-d3f7-4f6c-8731-bc11d7e53e4c",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -196,7 +209,8 @@
       "flashcard": {
         "id": "403d81da-4234-4155-955a-cc4a680722cc",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -215,11 +229,12 @@
       "flashcard": {
         "id": "51ab4691-427d-4e7b-918d-ce5e2b62fe48",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "首孝悌，次見聞。\n知某數，識某文。",
+          "transcription": "首孝悌，次見聞。\n知某數，識某文。,",
           "pronunciation": "shoou xiào tì, cì jiàn wén.\nzhi moou shù, shí moou wén.",
           "meaning": "At the head, filial piety and fraternal love; next, see and hear.\nKnow all the numbers, and know all the writings.",
           "notes": "Most sources seem to start with \"首孝弟...\" (shoou xiào dì...)"
@@ -234,7 +249,8 @@
       "flashcard": {
         "id": "5107812a-621e-452a-bad2-f5ee2b8ab073",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -253,7 +269,8 @@
       "flashcard": {
         "id": "66e39721-6560-49e2-b2cf-c0497ab00cfd",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -272,7 +289,8 @@
       "flashcard": {
         "id": "764afd46-3839-4868-a2f9-5e0f63587d9e",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -291,7 +309,8 @@
       "flashcard": {
         "id": "24f14bb4-99ea-4536-a973-844b04af18ab",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -310,7 +329,8 @@
       "flashcard": {
         "id": "dd28d60e-a5a2-437e-bae8-1cb6f3982a4f",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -329,7 +349,8 @@
       "flashcard": {
         "id": "e6f9448f-54cc-4f9a-96ad-b21e8c03ce65",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -348,7 +369,8 @@
       "flashcard": {
         "id": "33110a1a-d388-4743-ab20-df63b74cebf8",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -367,7 +389,8 @@
       "flashcard": {
         "id": "f64963a8-856b-4dae-a0d4-1da0c32622b7",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -386,7 +409,8 @@
       "flashcard": {
         "id": "fe6e3b23-c610-454b-806c-d4e382f22536",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -405,7 +429,8 @@
       "flashcard": {
         "id": "b6ed0d2e-0a18-469e-8922-3532fb959d2e",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -424,7 +449,8 @@
       "flashcard": {
         "id": "5a156f70-8f08-46c6-baa6-73b7019c80cd",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -443,7 +469,8 @@
       "flashcard": {
         "id": "d61d66e1-1e8d-4ea0-a81e-d6de0bfb4cb3",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -462,7 +489,8 @@
       "flashcard": {
         "id": "e6fc7e60-37ca-41bb-82e9-1ef591c2dc64",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -481,7 +509,8 @@
       "flashcard": {
         "id": "7951aec9-dea4-4f60-8741-572ec0d8b8de",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -500,11 +529,12 @@
       "flashcard": {
         "id": "91c305e5-e169-4f5e-94b4-62e22e48a45a",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "長幼序，友與朋。\n君則敬，臣則忠。   ",
+          "transcription": "長幼序，友與朋。\n君則敬，臣則忠。",
           "pronunciation": "zhaang yòu xù, yoou yuu péng.\njun zé jìng, chén zé zhong.",
           "meaning": "Elder-younger precedence, as with friend and friend.\nWhen it comes to sovereign, then respect. When it comes to the subject, then loyalty.",
           "notes": ""
@@ -519,7 +549,8 @@
       "flashcard": {
         "id": "54065ca5-f641-4a88-b66c-b5c454421c38",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-1-basics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -538,7 +569,8 @@
       "flashcard": {
         "id": "0c964e83-a117-4de1-9304-a4654cca3ec7",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -557,7 +589,8 @@
       "flashcard": {
         "id": "8ac59e99-ff48-4844-8fc2-36e9cbb9f326",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -576,7 +609,8 @@
       "flashcard": {
         "id": "d51de26d-cb12-41c1-8fbd-cbca328f90b5",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -595,7 +629,8 @@
       "flashcard": {
         "id": "b8d8f999-5383-4d85-856d-e0c3e2557b10",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -614,14 +649,15 @@
       "flashcard": {
         "id": "79274e7a-cd2b-4302-945d-4c71b72ebe24",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
           "transcription": "作中庸，子思筆。\n中不偏，庸不易。",
           "pronunciation": "zuò zhong yong, zii si bii.\nzhong bù pian, yong bù yì.",
           "meaning": "What made the Doctrine of the Mean was Zisi's brush.\nThe Mean does not lean towards any side; the course does not change.",
-          "notes": ""
+          "notes": "The Chung Yung is a short philosophical treatise in one section of thirty-three chapters. (Giles)"
         }
       }
     },
@@ -633,13 +669,14 @@
       "flashcard": {
         "id": "cb2b5d5f-5f25-4b02-b1fd-1ffc44cc7b9d",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
           "transcription": "作大學，乃曾子。\n自修齊，至平治。",
-          "pronunciation": "zuò dà xué, naai zeng zii .\nzì xiu qí, zhì píng zhì.",
-          "meaning": "As for the one who wrote The Great Learning, that was Cengzi.\nFrom cultivation and order, to balance and pacification.",
+          "pronunciation": "zuò dà xué, naai zeng zii .\nzì xiu qí, zhì píng zhì.",
+          "meaning": "As for the one who wrote The Great Learning, that was Zengzi.\nFrom cultivation and order, to balance and pacification.",
           "notes": "The Great Learning is Legge's translation of the title of a short treatise which teaches us \"to illustrate virtue, to renovate the people, and to rest in the highest excellence.\" It is now the recognised rendering (Père Zottoli \"magna scientia,\" Eitel “Great Learning”), although the term really means “Learning for Adults,” in which sense it was understood by the author of The Little Learning. (Giles)"
         }
       }
@@ -652,14 +689,15 @@
       "flashcard": {
         "id": "8af98908-5a6e-4ab0-90d5-07bdd983e01d",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
           "transcription": "孝經通，四書熟。\n如六經，始可讀。",
           "pronunciation": "xiào jing tong, sì shu shú.\nrú liù jing, shii kee dú.",
           "meaning": "When the Classic of Filial Piety is through, and the Four Books are well-practiced,\nAs for the Six Classics, for the first time they can be read.",
-          "notes": ""
+          "notes": "The commentary puts the study of the Four Books before that of the Filial Piety Classic, an order which is still observed. (Giles)"
         }
       }
     },
@@ -671,7 +709,8 @@
       "flashcard": {
         "id": "50c9ea4d-9194-4589-b621-49fdaaff01ef",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -690,7 +729,8 @@
       "flashcard": {
         "id": "19b481c6-2657-4051-8b3d-43b62b185898",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -709,7 +749,8 @@
       "flashcard": {
         "id": "e953327d-8bc4-4f05-afd5-7b44ba01ac67",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -728,12 +769,13 @@
       "flashcard": {
         "id": "b8c1c036-9bd7-441d-a69b-10cc08fafb34",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
           "transcription": "我周公，作周禮。\n著六官，存治體。",
-          "pronunciation": "woo zhou gong, zuò zhou lii.\nzhe liù guan, cún zhì tii.",
+          "pronunciation": "woo zhou gong, zuò zhou lii.\nzhù liù guan, cún zhì tii.",
           "meaning": "Our Zhou duke made the Zhou Ritual.\nHe wrote of the six officials, and established the government's form.",
           "notes": "The six divisions under which the Duke of Chou ranged all officials were 天官 t'ien kuan State Counsellors, 地官 ti kuan Ministers of Finance, 春官 ch'un kuan Ministers of Sacrificial Worship, 夏官 hsia kuan Ministers of War, 秋官 ch'iu kuan Ministers of Justice, 冬官 tung kuan Ministers of Public Works. These were to some extent prototypes of the modern Six Boards. (Giles)"
         }
@@ -747,7 +789,8 @@
       "flashcard": {
         "id": "cbe5b9f8-78e5-4e1d-b10e-2cad6840035a",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -766,14 +809,15 @@
       "flashcard": {
         "id": "9dcee917-a9af-488a-9b5e-2e98d1142b1a",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
           "transcription": "曰國風，曰雅頌。\n號四詩，當諷詠。",
           "pronunciation": "yue guó feng, yue yaa sòng.\nhào sì shi, dang feeng yoong.",
           "meaning": "We speak of the Guo Feng, we speak of the Ya and of the Sung.\nThese are called the Four Poetries; one ought to recite them.",
-          "notes": "Kuo fêng, the manners and customs of the States, is the title of the first section of the Book of Poetry. It is so called because it was customary for the various rulers of the Feudal States to forward to their suzerain, 天子 t'ien tzŭ the Son of Heaven, such ballads as were commonly sung by the people under their jurisdiction. These were then submitted to the Imperial Musicians, who were able to judge from their nature of the manners and customs prevailing in the various States, and the suzerain was thus enlightened as to the administration of his vassal Princes. (Giles)\n\n[Ya] is here the title of a section of the Book of Poetry, subdivided into Lesser Ya and Greater Ya, the former being sung at ordinary entertainments given by the suzerain, and the latter on grand occasions when the feudal princes were gathered together. (Giles)\n\nFour poetries = four sections of the Book of Poetry."
+          "notes": "[Ya] is here the title of a section of the Book of Poetry, subdivided into Lesser Ya and Greater Ya, the former being sung at ordinary entertainments given by the suzerain, and the latter on grand occasions when the feudal princes were gathered together. (Giles)\n\nKuo fêng, the manners and customs of the States, is the title of the first section of the Book of Poetry. It is so called because it was customary for the various rulers of the Feudal States to forward to their suzerain, 天子 t'ien tzŭ the Son of Heaven, such ballads as were commonly sung by the people under their jurisdiction. These were then submitted to the Imperial Musicians, who were able to judge from their nature of the manners and customs prevailing in the various States, and the suzerain was thus enlightened as to the administration of his vassal Princes. (Giles)\n\n[Ya] is here the title of a section of the Book of Poetry, subdivided into Lesser Ya and Greater Ya, the former being sung at ordinary entertainments given by the suzerain, and the latter on grand occasions when the feudal princes were gathered together. (Giles)\n\nFour poetries = four sections of the Book of Poetry."
         }
       }
     },
@@ -785,14 +829,15 @@
       "flashcard": {
         "id": "4b72fc61-02ea-4626-ad0b-675601a3c7e3",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
           "transcription": "詩既亡，春秋作。\n寓褒貶，別善惡。",
           "pronunciation": "shi jì wáng, chun qiu zuò.\nyù bao biaan, bié shàn è.",
           "meaning": "When poems were finally gone, the Spring and Autumn Annals were made.\nThere dwell praise and blame, and distinguish good from bad.",
-          "notes": ""
+          "notes": "This is the famous \"praise-and-blame\" theory, based upon the following words of Mencius, \"Confucius completed the Spring and Autumn Annals, and rebellious Ministers and bad sons stood aghast.\" Hence it came to be said that \"one word of such praise was more honourable than an embroidered robe, and one word of such censure sharper than an axe.\" (Giles)"
         }
       }
     },
@@ -804,14 +849,15 @@
       "flashcard": {
         "id": "5af4e0d3-d715-434b-8171-5d29042374ec",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
           "transcription": "三傳者，有公羊。\n有左氏，有穀梁。",
           "pronunciation": "san zhuàn zhee, yoou gong yáng.\nyoou zuoo shì, yoou guu liáng.",
           "meaning": "Among the three which chronicle them, there is Gongyang,\nThere is Zuo (by surname), and there is Guliang.",
-          "notes": "them = the classics"
+          "notes": "them = the classics\n\nKung-yang is here a double surname, being that of the author of one of the three commentaries on the Spring and Autumn Annals, who flourished in the 5th cent. B.C. Like that of Ku-liang it is much inferior to the great work of Tso; indeed, from striking similarities in the two former, it has been suspected either that one is a copy of the other or that both may be from the same hand. (Giles)\n\n[Zuo] stands for the surname of 左邱明 Tso-ch'iu Ming, the most important of the three commentators and a reputed disciple of Confucius. His commentary is of infinitely more value, from every point of view, than the original text, and is popularly known as the Tso Chuan. Giles)\n\nThe last two characters are the double surname of the third commentator, who lived in the 5th cent. B.C. (Giles)"
         }
       }
     },
@@ -823,7 +869,8 @@
       "flashcard": {
         "id": "6acfab87-cef7-413d-988e-ba7e67be0e35",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
@@ -842,14 +889,15 @@
       "flashcard": {
         "id": "77330f8c-effb-46d0-a9a7-5c326eeeb94f",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-2-confucian-classics"
         ],
         "type": "Transliteration",
         "fields": {
           "transcription": "五子者，有荀楊。\n文中子，及老莊。",
           "pronunciation": "wuu zii zhee, yoou xún yáng.\nwén zhong zii, jí laao zhuang.",
           "meaning": "Among the five [chief] philosophers, there are Xun Kuang, Yang Xiong,\nWen Zhongzi, as well as Laozi and Zhuangzi.",
-          "notes": "Wen Zhongzi is the posthumous title of 王通."
+          "notes": "[Xun] is the surname of 荀況 Hsün K'uang, who held that human nature was evil. [Yang] is here the surname of 楊雄 Yang Hsiung, who held that human nature was a mixture of good and evil (Giles).\n\nWen Zhongzi is the posthumous title of 王通. (Giles)"
         }
       }
     },
@@ -861,7 +909,8 @@
       "flashcard": {
         "id": "da76366a-b2e7-45bc-94a5-69493e270aa8",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -880,7 +929,8 @@
       "flashcard": {
         "id": "8ff4f2b2-fc10-4ea7-955a-8138ee0361a9",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -899,7 +949,8 @@
       "flashcard": {
         "id": "d5e942b2-ed1f-47ca-bee0-36b0fd2b97ab",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -918,7 +969,8 @@
       "flashcard": {
         "id": "3439bae6-7287-43f6-9807-1d87bda3e5d7",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -937,7 +989,8 @@
       "flashcard": {
         "id": "c463b6e8-61e3-4fab-858d-cb8cf25ab260",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -956,7 +1009,8 @@
       "flashcard": {
         "id": "bef05939-2891-492e-8797-014b99d96286",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -975,7 +1029,8 @@
       "flashcard": {
         "id": "bdb2157e-471f-4c50-bfd9-8fbda0bb89d2",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -994,7 +1049,8 @@
       "flashcard": {
         "id": "b585a4ae-0f26-4581-b824-fddb782ea3a9",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1013,7 +1069,8 @@
       "flashcard": {
         "id": "35f67750-cecf-4691-9b02-68980e586d64",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1032,7 +1089,8 @@
       "flashcard": {
         "id": "e6ce771e-711f-4dc9-83cd-818c089ae5f1",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1051,7 +1109,8 @@
       "flashcard": {
         "id": "9c9ff5db-966e-4fd6-b09f-c363c2a4de9a",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1070,7 +1129,8 @@
       "flashcard": {
         "id": "e6eb2f25-e8b3-4f95-b895-9d5a48acae02",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1089,7 +1149,8 @@
       "flashcard": {
         "id": "f986ea13-cd07-41b3-a500-efe75513c6b9",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1108,7 +1169,8 @@
       "flashcard": {
         "id": "b2adeb7a-eb39-4d01-8be7-6318516a975b",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1127,7 +1189,8 @@
       "flashcard": {
         "id": "4260da48-1482-4f0d-b2a6-7bccea904843",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1146,7 +1209,8 @@
       "flashcard": {
         "id": "9ef48f57-7f82-427e-a326-00ae5304c04f",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1165,7 +1229,8 @@
       "flashcard": {
         "id": "786fae51-9481-4985-8f10-cff92d944b6e",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1184,7 +1249,8 @@
       "flashcard": {
         "id": "af11abab-e47a-4c99-9d9b-c379b4b33007",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1203,7 +1269,8 @@
       "flashcard": {
         "id": "efec5599-e007-460a-aa86-0b82e41b90e7",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1222,7 +1289,8 @@
       "flashcard": {
         "id": "e2a303ff-16fb-4a18-9a55-54aaa6869df8",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1241,7 +1309,8 @@
       "flashcard": {
         "id": "c8dc50e0-4557-4e61-a573-77454996651f",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1260,7 +1329,8 @@
       "flashcard": {
         "id": "65063b31-59a6-433a-86d3-64b441d4ed62",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1279,7 +1349,8 @@
       "flashcard": {
         "id": "1362ff21-3199-434a-9a81-766fec9bec46",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1298,7 +1369,8 @@
       "flashcard": {
         "id": "7afb47e4-009c-457e-8e46-8d75cfb7d5d7",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1317,7 +1389,8 @@
       "flashcard": {
         "id": "37c11c7f-167b-402e-a9fe-45f692d9949a",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1336,7 +1409,8 @@
       "flashcard": {
         "id": "eda29be5-6dea-4027-8df1-d8243e56b54e",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1355,7 +1429,8 @@
       "flashcard": {
         "id": "98a50b84-65ed-441b-bcf2-dcfaea9f19af",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-3-dynasties"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1374,7 +1449,8 @@
       "flashcard": {
         "id": "b57dcbd9-cbe8-4b20-97e9-0361548f0519",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1393,7 +1469,8 @@
       "flashcard": {
         "id": "dc39bbc7-7a45-47ff-9a32-3f2e42e1d04f",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1412,7 +1489,8 @@
       "flashcard": {
         "id": "2eb1f0cd-85e4-4d93-a12e-e1d8d2a0b39e",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1431,7 +1509,8 @@
       "flashcard": {
         "id": "8d4199b8-8135-472d-ad2f-5041b3df79a7",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1450,7 +1529,8 @@
       "flashcard": {
         "id": "4c48866c-2f79-4a31-855c-22fa2dfdd4eb",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1469,7 +1549,8 @@
       "flashcard": {
         "id": "c2951404-d609-43f9-8ea3-e95d80c94486",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1488,7 +1569,8 @@
       "flashcard": {
         "id": "f68b94fb-3a14-4fd2-b433-b860ed277c6a",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1507,7 +1589,8 @@
       "flashcard": {
         "id": "ebf8c5f9-3cf6-49fd-b423-ef313047b6d3",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1526,7 +1609,8 @@
       "flashcard": {
         "id": "936d5e92-9090-4f6a-879e-8596474ad9dd",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1545,7 +1629,8 @@
       "flashcard": {
         "id": "6cc43495-a0cc-4118-81cc-832789bca7a6",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1564,7 +1649,8 @@
       "flashcard": {
         "id": "986bc769-ac3b-4af3-ae03-8c2ed835d726",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1583,7 +1669,8 @@
       "flashcard": {
         "id": "e0f4f129-2e04-40e2-8668-c10617cba767",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1602,7 +1689,8 @@
       "flashcard": {
         "id": "15450f75-7df1-4d05-a5d3-255be4e78893",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1621,7 +1709,8 @@
       "flashcard": {
         "id": "56f2f16d-2397-4e37-854c-d469b1b5df54",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1640,7 +1729,8 @@
       "flashcard": {
         "id": "7b6c8df2-c8a8-488d-8bf0-7ea0f91a0284",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1659,7 +1749,8 @@
       "flashcard": {
         "id": "bfb66fd3-b17c-4832-a28e-cdc328c183a6",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1678,7 +1769,8 @@
       "flashcard": {
         "id": "c30e4074-f847-4ffd-8736-6972ab602f58",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1697,7 +1789,8 @@
       "flashcard": {
         "id": "560ee9fc-dc56-4d2f-a1e0-de53ad5c263c",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1716,7 +1809,8 @@
       "flashcard": {
         "id": "f07e428f-c559-4abf-9dfb-2fc6b247682d",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1735,7 +1829,8 @@
       "flashcard": {
         "id": "5669c192-a256-40da-bb07-53eb081674b9",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1754,7 +1849,8 @@
       "flashcard": {
         "id": "f1d10689-fbd5-4733-8a65-f55c8c759f42",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1773,7 +1869,8 @@
       "flashcard": {
         "id": "ea0c61c2-6c01-44f1-a509-417e3775d8f9",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1792,7 +1889,8 @@
       "flashcard": {
         "id": "4220676e-8384-4aa4-bf46-eaed4b5493cc",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1811,7 +1909,8 @@
       "flashcard": {
         "id": "a9b1a9fb-3852-4630-81cb-8a2fc47b467b",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {
@@ -1830,7 +1929,8 @@
       "flashcard": {
         "id": "83beeb31-091e-448b-bdd9-0d374b53078f",
         "tags": [
-          "sanzijing"
+          "sanzijing",
+          "sanzijing-4-exemplary-behaviors"
         ],
         "type": "Transliteration",
         "fields": {

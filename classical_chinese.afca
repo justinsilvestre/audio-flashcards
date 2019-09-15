@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "timestamp": "2019-09-15T12:57:07Z",
+  "timestamp": "2019-09-15T14:04:30Z",
   "name": "Classical Chinese",
   "id": "e659c9a0-ab1f-4b59-b67a-028beaace2d2",
   "noteType": "Transliteration",
@@ -3108,25 +3108,6 @@
         }
       }
     },
-    "1ba087f5-431f-413b-9154-daf1e0a46ac3": {
-      "start": 36263.1,
-      "end": 36318.45,
-      "id": "1ba087f5-431f-413b-9154-daf1e0a46ac3",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "1ba087f5-431f-413b-9154-daf1e0a46ac3",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "6ec3dcc9-491c-46e2-a484-3904121a341b": {
       "start": 36388.85,
       "end": 38278.6,
@@ -3134,25 +3115,6 @@
       "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
       "flashcard": {
         "id": "6ec3dcc9-491c-46e2-a484-3904121a341b",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
-    "b6b71bcf-4801-40f6-9d4f-7575bdde49ab": {
-      "start": 38395.55,
-      "end": 38456.05,
-      "id": "b6b71bcf-4801-40f6-9d4f-7575bdde49ab",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "b6b71bcf-4801-40f6-9d4f-7575bdde49ab",
         "tags": [
           "ddj"
         ],
@@ -3260,25 +3222,6 @@
         }
       }
     },
-    "a0da97c6-2dd6-483d-8809-7fe4cc71b51f": {
-      "start": 40676.3,
-      "end": 40738,
-      "id": "a0da97c6-2dd6-483d-8809-7fe4cc71b51f",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "a0da97c6-2dd6-483d-8809-7fe4cc71b51f",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "21946ce8-6520-4066-b5ac-1580f2a37bfb": {
       "start": 40795.65,
       "end": 41351.4,
@@ -3374,25 +3317,6 @@
         }
       }
     },
-    "71458641-fbdc-4385-92a9-d63cd956618c": {
-      "start": 43220.2,
-      "end": 43279.7,
-      "id": "71458641-fbdc-4385-92a9-d63cd956618c",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "71458641-fbdc-4385-92a9-d63cd956618c",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "6244d29f-c567-41ac-a2ca-0f5f39787ea3": {
       "start": 43338.3,
       "end": 43982.35,
@@ -3438,25 +3362,6 @@
       "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
       "flashcard": {
         "id": "70b9a73b-f017-484b-a440-42670bb9367c",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
-    "39ddb6a6-96c5-4804-9975-e4a1c5f0d51b": {
-      "start": 44621.5,
-      "end": 44677.7,
-      "id": "39ddb6a6-96c5-4804-9975-e4a1c5f0d51b",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "39ddb6a6-96c5-4804-9975-e4a1c5f0d51b",
         "tags": [
           "ddj"
         ],
@@ -3602,25 +3507,6 @@
         }
       }
     },
-    "2e27f758-af18-400a-bafa-275818e5fa10": {
-      "start": 47136.75,
-      "end": 47206.75,
-      "id": "2e27f758-af18-400a-bafa-275818e5fa10",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "2e27f758-af18-400a-bafa-275818e5fa10",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "b413fff5-1acb-49b6-8b81-63a3742df3e0": {
       "start": 47259.75,
       "end": 47920.3,
@@ -3647,25 +3533,6 @@
       "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
       "flashcard": {
         "id": "eae8f6ef-94dd-46d8-9cf9-158c05af3ae1",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
-    "8e690931-9bbe-42af-becc-ed66e34e731f": {
-      "start": 48528.6,
-      "end": 48586.5,
-      "id": "8e690931-9bbe-42af-becc-ed66e34e731f",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "8e690931-9bbe-42af-becc-ed66e34e731f",
         "tags": [
           "ddj"
         ],
@@ -3742,25 +3609,6 @@
       "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
       "flashcard": {
         "id": "ddcc0d07-6763-4c1f-9224-f20220126ef3",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
-    "a4a9b8b3-56c2-48d1-ba8d-367627b2e9eb": {
-      "start": 51154,
-      "end": 51207,
-      "id": "a4a9b8b3-56c2-48d1-ba8d-367627b2e9eb",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "a4a9b8b3-56c2-48d1-ba8d-367627b2e9eb",
         "tags": [
           "ddj"
         ],
@@ -3868,25 +3716,6 @@
         }
       }
     },
-    "81515856-ac9b-42af-92b5-1077cecd9902": {
-      "start": 53711,
-      "end": 53769,
-      "id": "81515856-ac9b-42af-92b5-1077cecd9902",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "81515856-ac9b-42af-92b5-1077cecd9902",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "2c33c706-cb4e-4f71-b50f-31645105f491": {
       "start": 53852.5,
       "end": 54549,
@@ -3944,25 +3773,6 @@
         }
       }
     },
-    "59f74d6e-5b21-40a6-92e2-5b8332c604d3": {
-      "start": 55505.5,
-      "end": 55552.5,
-      "id": "59f74d6e-5b21-40a6-92e2-5b8332c604d3",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "59f74d6e-5b21-40a6-92e2-5b8332c604d3",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "c79f774e-6e8e-470d-978e-0279dcd72998": {
       "start": 55620.5,
       "end": 55993,
@@ -4008,25 +3818,6 @@
       "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
       "flashcard": {
         "id": "8b56a75e-24ad-47d0-91d1-2c63767455d7",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
-    "6dd2ad87-f09c-4139-9ab4-9914c41e39a8": {
-      "start": 57655,
-      "end": 57716,
-      "id": "6dd2ad87-f09c-4139-9ab4-9914c41e39a8",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "6dd2ad87-f09c-4139-9ab4-9914c41e39a8",
         "tags": [
           "ddj"
         ],
@@ -4153,25 +3944,6 @@
         }
       }
     },
-    "c61ad50b-b662-43a5-97c4-8dd89fba000b": {
-      "start": 60875,
-      "end": 60938,
-      "id": "c61ad50b-b662-43a5-97c4-8dd89fba000b",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "c61ad50b-b662-43a5-97c4-8dd89fba000b",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "61691b2a-853e-4ea4-8d7f-e77f649ecfcb": {
       "start": 60993,
       "end": 61565,
@@ -4248,25 +4020,6 @@
         }
       }
     },
-    "246424ad-1668-4071-b9be-505171b7c55e": {
-      "start": 62886,
-      "end": 62949,
-      "id": "246424ad-1668-4071-b9be-505171b7c55e",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "246424ad-1668-4071-b9be-505171b7c55e",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "58fbb264-4a51-4fb0-8471-ad2e31bf9e3a": {
       "start": 63007.5,
       "end": 63906,
@@ -4274,25 +4027,6 @@
       "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
       "flashcard": {
         "id": "58fbb264-4a51-4fb0-8471-ad2e31bf9e3a",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
-    "2c0444b9-acf5-4830-a617-c17f3a298faa": {
-      "start": 64018.5,
-      "end": 64083,
-      "id": "2c0444b9-acf5-4830-a617-c17f3a298faa",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "2c0444b9-acf5-4830-a617-c17f3a298faa",
         "tags": [
           "ddj"
         ],
@@ -4317,7 +4051,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "34",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -4381,25 +4115,6 @@
         }
       }
     },
-    "fd2a1d6c-5d0c-4d60-bb49-dfb322dd3680": {
-      "start": 65782,
-      "end": 65841.5,
-      "id": "fd2a1d6c-5d0c-4d60-bb49-dfb322dd3680",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "fd2a1d6c-5d0c-4d60-bb49-dfb322dd3680",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "f6848887-1b41-4cb3-a3a4-d7b5e8985ad4": {
       "start": 65911.5,
       "end": 66243.5,
@@ -4412,7 +4127,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "35",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -4438,25 +4153,6 @@
         }
       }
     },
-    "d5979b4e-f1af-48c4-9b32-25eaa9bd9812": {
-      "start": 67111,
-      "end": 67180.5,
-      "id": "d5979b4e-f1af-48c4-9b32-25eaa9bd9812",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "d5979b4e-f1af-48c4-9b32-25eaa9bd9812",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "f85393d9-e3d6-457b-88fe-3a050c021948": {
       "start": 67244.5,
       "end": 68158,
@@ -4469,7 +4165,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "36",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -4496,7 +4192,7 @@
       }
     },
     "aa5d86f5-6b2a-453e-8aff-2cf9cdbd08e5": {
-      "start": 68796,
+      "start": 68911.5,
       "end": 69692.5,
       "id": "aa5d86f5-6b2a-453e-8aff-2cf9cdbd08e5",
       "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
@@ -4507,7 +4203,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "37",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -4552,25 +4248,6 @@
         }
       }
     },
-    "5a60d8de-18a1-4b32-96e9-42a09c84a73e": {
-      "start": 70329,
-      "end": 70389,
-      "id": "5a60d8de-18a1-4b32-96e9-42a09c84a73e",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "5a60d8de-18a1-4b32-96e9-42a09c84a73e",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "44fb6eed-befd-4cda-88f2-920a0a49bb80": {
       "start": 70445.5,
       "end": 70842,
@@ -4583,7 +4260,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "38",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -4666,25 +4343,6 @@
         }
       }
     },
-    "b44d3cc2-b82a-4f05-b6f9-caf0755cc375": {
-      "start": 73786.5,
-      "end": 73855.5,
-      "id": "b44d3cc2-b82a-4f05-b6f9-caf0755cc375",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "b44d3cc2-b82a-4f05-b6f9-caf0755cc375",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "6e15bb42-3113-4c3e-9233-e2b4af01d1fb": {
       "start": 73924,
       "end": 74945.5,
@@ -4697,7 +4355,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "39",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -4780,25 +4438,6 @@
         }
       }
     },
-    "c73dde2f-a313-4cbf-94fb-ed57dd268e09": {
-      "start": 77496,
-      "end": 77542.5,
-      "id": "c73dde2f-a313-4cbf-94fb-ed57dd268e09",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "c73dde2f-a313-4cbf-94fb-ed57dd268e09",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "eeb964a4-823c-406d-b4b8-5baf497ffc3a": {
       "start": 77617,
       "end": 78142.5,
@@ -4811,26 +4450,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
-    "ef893a81-d263-4b95-b47e-773ae6e2e4d7": {
-      "start": 78245.5,
-      "end": 78306,
-      "id": "ef893a81-d263-4b95-b47e-773ae6e2e4d7",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "ef893a81-d263-4b95-b47e-773ae6e2e4d7",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
+          "transcription": "40",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -4849,7 +4469,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "41",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -4894,25 +4514,6 @@
         }
       }
     },
-    "bfa22eb1-6f0f-47cc-8822-91a186038881": {
-      "start": 81064,
-      "end": 81127,
-      "id": "bfa22eb1-6f0f-47cc-8822-91a186038881",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "bfa22eb1-6f0f-47cc-8822-91a186038881",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "ad1fbcbc-b212-428f-82c7-503c7640c6b7": {
       "start": 81186,
       "end": 81490.5,
@@ -4925,7 +4526,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "41",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -4989,25 +4590,6 @@
         }
       }
     },
-    "482ba191-f4bc-4368-ae71-ce845ce2343d": {
-      "start": 83239,
-      "end": 83302.5,
-      "id": "482ba191-f4bc-4368-ae71-ce845ce2343d",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "482ba191-f4bc-4368-ae71-ce845ce2343d",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "25af5200-8eb3-4c9e-8ce5-2f1d736945f6": {
       "start": 83377.5,
       "end": 83982,
@@ -5020,7 +4602,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "43",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -5046,25 +4628,6 @@
         }
       }
     },
-    "15533da1-ad91-44ea-8482-a47479717a41": {
-      "start": 84430,
-      "end": 84492,
-      "id": "15533da1-ad91-44ea-8482-a47479717a41",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "15533da1-ad91-44ea-8482-a47479717a41",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "bc52a769-8006-40af-b2b1-7b43120b5a86": {
       "start": 84571.5,
       "end": 85588,
@@ -5077,26 +4640,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
-    "ddbef643-5318-427f-b58b-3a333b822268": {
-      "start": 85706,
-      "end": 85768,
-      "id": "ddbef643-5318-427f-b58b-3a333b822268",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "ddbef643-5318-427f-b58b-3a333b822268",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
+          "transcription": "44",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -5115,7 +4659,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "45",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -5161,7 +4705,7 @@
       }
     },
     "5b97f8fe-dd5c-4c5d-8b12-09adec5d3aa0": {
-      "start": 87108,
+      "start": 87218.5,
       "end": 87637.5,
       "id": "5b97f8fe-dd5c-4c5d-8b12-09adec5d3aa0",
       "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
@@ -5172,7 +4716,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "46",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -5198,25 +4742,6 @@
         }
       }
     },
-    "3a1775dc-a1eb-4a4c-bd8b-a1101cacaefa": {
-      "start": 88272,
-      "end": 88339,
-      "id": "3a1775dc-a1eb-4a4c-bd8b-a1101cacaefa",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "3a1775dc-a1eb-4a4c-bd8b-a1101cacaefa",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "fc3a7906-016e-4892-939a-4bb1523b7ff0": {
       "start": 88403.5,
       "end": 88932.5,
@@ -5229,7 +4754,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "47",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -5256,7 +4781,7 @@
       }
     },
     "bd396ea7-cd5e-469d-a58b-4034370dc9b1": {
-      "start": 89463.5,
+      "start": 89582.5,
       "end": 90210.5,
       "id": "bd396ea7-cd5e-469d-a58b-4034370dc9b1",
       "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
@@ -5267,7 +4792,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "48",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -5293,25 +4818,6 @@
         }
       }
     },
-    "adee0c3e-caab-4388-9404-85bb5c110faf": {
-      "start": 90747.5,
-      "end": 90811,
-      "id": "adee0c3e-caab-4388-9404-85bb5c110faf",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "adee0c3e-caab-4388-9404-85bb5c110faf",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "98bd4acb-fc5a-4b9f-9bb8-59ae51b56e9f": {
       "start": 90888.5,
       "end": 91136.5,
@@ -5324,7 +4830,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "49",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -5389,7 +4895,7 @@
       }
     },
     "541f0257-709f-41b0-b586-dacaca36895b": {
-      "start": 92781.5,
+      "start": 92893.5,
       "end": 92989.5,
       "id": "541f0257-709f-41b0-b586-dacaca36895b",
       "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
@@ -5400,7 +4906,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "50",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -5464,25 +4970,6 @@
         }
       }
     },
-    "93786e2b-0c1b-4bf5-9108-aae2b901d601": {
-      "start": 95135,
-      "end": 95193,
-      "id": "93786e2b-0c1b-4bf5-9108-aae2b901d601",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "93786e2b-0c1b-4bf5-9108-aae2b901d601",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "d19aa34d-6c7d-4b05-a53e-fc9d865081fb": {
       "start": 95260.5,
       "end": 95591.5,
@@ -5495,7 +4982,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "51",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -5540,25 +5027,6 @@
         }
       }
     },
-    "2d3f7cdc-720c-40c2-9fd3-8c443da968a8": {
-      "start": 97344,
-      "end": 97405,
-      "id": "2d3f7cdc-720c-40c2-9fd3-8c443da968a8",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "2d3f7cdc-720c-40c2-9fd3-8c443da968a8",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "79747130-f8ec-435b-b5b3-cff903959785": {
       "start": 97467,
       "end": 98204.5,
@@ -5571,7 +5039,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "52",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -5617,7 +5085,7 @@
       }
     },
     "c63ba6ec-696e-4cd4-9a77-741df7372e51": {
-      "start": 99507.5,
+      "start": 99625,
       "end": 99930,
       "id": "c63ba6ec-696e-4cd4-9a77-741df7372e51",
       "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
@@ -5628,7 +5096,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "53",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -5674,7 +5142,7 @@
       }
     },
     "3e879f33-1f54-4afc-84ec-04441bc14d4e": {
-      "start": 101090.5,
+      "start": 101194.5,
       "end": 101593.5,
       "id": "3e879f33-1f54-4afc-84ec-04441bc14d4e",
       "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
@@ -5685,7 +5153,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "53",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -5749,25 +5217,6 @@
         }
       }
     },
-    "7e91843d-55a0-478d-9efd-5bfe798b56b0": {
-      "start": 103772,
-      "end": 103829,
-      "id": "7e91843d-55a0-478d-9efd-5bfe798b56b0",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "7e91843d-55a0-478d-9efd-5bfe798b56b0",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "7337f9dc-dda5-4e30-9d83-c860be27b7df": {
       "start": 103897.5,
       "end": 104387.5,
@@ -5780,7 +5229,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "55",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -5863,25 +5312,6 @@
         }
       }
     },
-    "79f6eecd-ee67-49e0-9d15-23b506c5b648": {
-      "start": 106096,
-      "end": 106158.5,
-      "id": "79f6eecd-ee67-49e0-9d15-23b506c5b648",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "79f6eecd-ee67-49e0-9d15-23b506c5b648",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "c36a8f05-9def-4c2f-8923-b3c13a765f54": {
       "start": 106234,
       "end": 106963.5,
@@ -5894,7 +5324,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "56",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -5939,25 +5369,6 @@
         }
       }
     },
-    "c6179d66-9d43-4388-b793-832f5ee95e61": {
-      "start": 107924,
-      "end": 107980,
-      "id": "c6179d66-9d43-4388-b793-832f5ee95e61",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "c6179d66-9d43-4388-b793-832f5ee95e61",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "c50e3bb1-b814-42de-a51f-68b27d561622": {
       "start": 108059.5,
       "end": 108391,
@@ -5970,7 +5381,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "57",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -6072,25 +5483,6 @@
         }
       }
     },
-    "168391e7-faa5-4764-8543-57a190a5eef3": {
-      "start": 110585,
-      "end": 110641.5,
-      "id": "168391e7-faa5-4764-8543-57a190a5eef3",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "168391e7-faa5-4764-8543-57a190a5eef3",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "b733d865-3424-48f5-9a8c-5b430acb03d6": {
       "start": 110712.5,
       "end": 111124.5,
@@ -6103,7 +5495,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "58",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -6148,25 +5540,6 @@
         }
       }
     },
-    "2416ce32-b074-4ff5-ba1d-23c8baec0013": {
-      "start": 112687.5,
-      "end": 112751,
-      "id": "2416ce32-b074-4ff5-ba1d-23c8baec0013",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "2416ce32-b074-4ff5-ba1d-23c8baec0013",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "537d674d-17ff-42f2-9265-7fb09a8e8d19": {
       "start": 112821.5,
       "end": 113313,
@@ -6179,7 +5552,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "59",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -6224,25 +5597,6 @@
         }
       }
     },
-    "190123d1-354e-44ab-b800-3e9fd1e75b90": {
-      "start": 114546,
-      "end": 114591.5,
-      "id": "190123d1-354e-44ab-b800-3e9fd1e75b90",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "190123d1-354e-44ab-b800-3e9fd1e75b90",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "8697b713-5a3d-4143-9cd2-2fe893925d0b": {
       "start": 114658,
       "end": 115301,
@@ -6255,7 +5609,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "60",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -6300,25 +5654,6 @@
         }
       }
     },
-    "82056e74-8cb3-4888-bac3-77a470d8d1a7": {
-      "start": 116012,
-      "end": 116070,
-      "id": "82056e74-8cb3-4888-bac3-77a470d8d1a7",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "82056e74-8cb3-4888-bac3-77a470d8d1a7",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "2e68a22e-b3fa-428d-875e-4fed74592e9e": {
       "start": 116143,
       "end": 116451,
@@ -6331,7 +5666,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "61",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -6414,25 +5749,6 @@
         }
       }
     },
-    "b7912f3c-f2a1-42ac-a5fc-72107b8b8b2f": {
-      "start": 118372,
-      "end": 118426,
-      "id": "b7912f3c-f2a1-42ac-a5fc-72107b8b8b2f",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "b7912f3c-f2a1-42ac-a5fc-72107b8b8b2f",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "73f42559-3881-4f8c-ad3d-407218f8438d": {
       "start": 118510.5,
       "end": 118863,
@@ -6445,7 +5761,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "62",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -6528,25 +5844,6 @@
         }
       }
     },
-    "4ede3c43-c116-4da5-a6d8-8927360e3d72": {
-      "start": 120676,
-      "end": 120735.5,
-      "id": "4ede3c43-c116-4da5-a6d8-8927360e3d72",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "4ede3c43-c116-4da5-a6d8-8927360e3d72",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "7e9c3364-94e6-49e7-a18e-8823ee778019": {
       "start": 120801.5,
       "end": 121003,
@@ -6559,7 +5856,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "63",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -6642,25 +5939,6 @@
         }
       }
     },
-    "640d01a0-bf25-4958-a460-a73b7ba6ae40": {
-      "start": 122933,
-      "end": 122992,
-      "id": "640d01a0-bf25-4958-a460-a73b7ba6ae40",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "640d01a0-bf25-4958-a460-a73b7ba6ae40",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "91c4059e-78b8-4201-83c0-7306b192bf39": {
       "start": 123060,
       "end": 123700,
@@ -6673,7 +5951,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "64",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -6756,25 +6034,6 @@
         }
       }
     },
-    "181e5bf3-13f3-4459-a388-a2917e2311de": {
-      "start": 126303.5,
-      "end": 126361.5,
-      "id": "181e5bf3-13f3-4459-a388-a2917e2311de",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "181e5bf3-13f3-4459-a388-a2917e2311de",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "b345dfcf-aa65-4b1b-8303-109dae7e6913": {
       "start": 126429.5,
       "end": 126708.5,
@@ -6787,7 +6046,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "65",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -6870,25 +6129,6 @@
         }
       }
     },
-    "3c5ebbcb-09f9-473a-88c4-c6dbfb9f24a9": {
-      "start": 128370,
-      "end": 128427.5,
-      "id": "3c5ebbcb-09f9-473a-88c4-c6dbfb9f24a9",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "3c5ebbcb-09f9-473a-88c4-c6dbfb9f24a9",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "2c2f6f0f-9e07-498f-a0a8-f2b5e1362040": {
       "start": 128499.5,
       "end": 128930,
@@ -6901,7 +6141,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "66",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -6946,25 +6186,6 @@
         }
       }
     },
-    "a0fb9459-aa12-405b-8f61-1a9445e13689": {
-      "start": 130369.5,
-      "end": 130428.5,
-      "id": "a0fb9459-aa12-405b-8f61-1a9445e13689",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "a0fb9459-aa12-405b-8f61-1a9445e13689",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "d198d1ee-7fce-4800-b096-bb3aab5a1b67": {
       "start": 130495.5,
       "end": 130903.5,
@@ -6977,7 +6198,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "67",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -7060,25 +6281,6 @@
         }
       }
     },
-    "00922cf4-5984-4e6e-9529-28ba2bf50998": {
-      "start": 133354,
-      "end": 133409.5,
-      "id": "00922cf4-5984-4e6e-9529-28ba2bf50998",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "00922cf4-5984-4e6e-9529-28ba2bf50998",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "0752e84c-12bc-406d-bce5-0ccc0c11ee84": {
       "start": 133474.5,
       "end": 134023.5,
@@ -7091,7 +6293,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "68",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -7117,25 +6319,6 @@
         }
       }
     },
-    "4969f42e-cfe3-4174-88a4-826f65d27c5b": {
-      "start": 134622.5,
-      "end": 134682.5,
-      "id": "4969f42e-cfe3-4174-88a4-826f65d27c5b",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "4969f42e-cfe3-4174-88a4-826f65d27c5b",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "28f56b43-5e44-4e77-a650-3452fe4206c3": {
       "start": 134754.5,
       "end": 135543,
@@ -7148,7 +6331,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "69",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -7193,25 +6376,6 @@
         }
       }
     },
-    "36c53be5-0ace-49a1-9b74-e4599ff112e7": {
-      "start": 136244,
-      "end": 136290,
-      "id": "36c53be5-0ace-49a1-9b74-e4599ff112e7",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "36c53be5-0ace-49a1-9b74-e4599ff112e7",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "c73d4511-604b-4a5f-8dfd-f75c2d1e8ab0": {
       "start": 136367,
       "end": 136759.5,
@@ -7224,7 +6388,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "70",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -7269,25 +6433,6 @@
         }
       }
     },
-    "6e04858d-f45a-4712-afda-7741d27635bb": {
-      "start": 137706.5,
-      "end": 137765.5,
-      "id": "6e04858d-f45a-4712-afda-7741d27635bb",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "6e04858d-f45a-4712-afda-7741d27635bb",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "391aad82-997e-49af-8ca9-ce539a8a28f9": {
       "start": 137834,
       "end": 138589.5,
@@ -7300,26 +6445,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
-    "6a28d21c-5748-4dbc-b7cd-9c33ceb4d69c": {
-      "start": 138702,
-      "end": 138761.5,
-      "id": "6a28d21c-5748-4dbc-b7cd-9c33ceb4d69c",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "6a28d21c-5748-4dbc-b7cd-9c33ceb4d69c",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
+          "transcription": "71",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -7338,7 +6464,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "72",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -7364,25 +6490,6 @@
         }
       }
     },
-    "6923c109-ff0c-48d9-9125-fca7d366a504": {
-      "start": 140078.5,
-      "end": 140139,
-      "id": "6923c109-ff0c-48d9-9125-fca7d366a504",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "6923c109-ff0c-48d9-9125-fca7d366a504",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "a481ed94-c552-40b7-8eb4-96efd48503ec": {
       "start": 140211,
       "end": 140652,
@@ -7395,7 +6502,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "73",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -7440,25 +6547,6 @@
         }
       }
     },
-    "27bf7255-ce3c-4e1d-8c7d-2e8c1ab01383": {
-      "start": 141996.5,
-      "end": 142062,
-      "id": "27bf7255-ce3c-4e1d-8c7d-2e8c1ab01383",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "27bf7255-ce3c-4e1d-8c7d-2e8c1ab01383",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "8965bca2-485c-4016-adee-282830b87bbc": {
       "start": 142115.5,
       "end": 142798.5,
@@ -7471,7 +6559,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "74",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -7516,25 +6604,6 @@
         }
       }
     },
-    "e2931b68-5682-4a5d-9b55-ac454c69c4d4": {
-      "start": 143672.5,
-      "end": 143732,
-      "id": "e2931b68-5682-4a5d-9b55-ac454c69c4d4",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "e2931b68-5682-4a5d-9b55-ac454c69c4d4",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "b8e80d97-fe81-48fb-a856-74934df988f3": {
       "start": 143794,
       "end": 144075,
@@ -7547,7 +6616,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "75",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -7611,25 +6680,6 @@
         }
       }
     },
-    "94a9c9d6-6e00-43b0-bd12-b07cf4287027": {
-      "start": 145222,
-      "end": 145281,
-      "id": "94a9c9d6-6e00-43b0-bd12-b07cf4287027",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "94a9c9d6-6e00-43b0-bd12-b07cf4287027",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "0491fb5b-e6b6-4df6-af78-a637088f490f": {
       "start": 145373.5,
       "end": 145607.5,
@@ -7642,7 +6692,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "76",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -7706,25 +6756,6 @@
         }
       }
     },
-    "4e153029-d0f7-457c-8f27-86f4ea3b2a62": {
-      "start": 146956.5,
-      "end": 147018,
-      "id": "4e153029-d0f7-457c-8f27-86f4ea3b2a62",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "4e153029-d0f7-457c-8f27-86f4ea3b2a62",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "96105d32-bb5d-462f-8b96-2ea942f2cdef": {
       "start": 147101,
       "end": 147739.5,
@@ -7737,7 +6768,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "77",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -7801,25 +6832,6 @@
         }
       }
     },
-    "fbde4219-626f-4566-a5e1-14bdb06b1371": {
-      "start": 149305.5,
-      "end": 149364,
-      "id": "fbde4219-626f-4566-a5e1-14bdb06b1371",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "fbde4219-626f-4566-a5e1-14bdb06b1371",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "5ab97efa-a2d4-48a7-a9e3-9b368f39fc95": {
       "start": 149434,
       "end": 149919,
@@ -7832,7 +6844,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "78",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -7896,25 +6908,6 @@
         }
       }
     },
-    "00f937ab-c065-4bad-a622-715ff7621ab3": {
-      "start": 151226,
-      "end": 151289.5,
-      "id": "00f937ab-c065-4bad-a622-715ff7621ab3",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "00f937ab-c065-4bad-a622-715ff7621ab3",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "fe489138-05f0-461d-a791-607ecb8bb016": {
       "start": 151353.5,
       "end": 151623.5,
@@ -7927,7 +6920,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "79",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -7972,25 +6965,6 @@
         }
       }
     },
-    "86d3d906-b579-4ffb-aa3a-e3f32475679b": {
-      "start": 152518.5,
-      "end": 152560,
-      "id": "86d3d906-b579-4ffb-aa3a-e3f32475679b",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "86d3d906-b579-4ffb-aa3a-e3f32475679b",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "1789b08b-5c84-4e39-9971-175465ff0f4e": {
       "start": 152646.5,
       "end": 153158.5,
@@ -8003,7 +6977,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "80",
           "pronunciation": "",
           "meaning": "",
           "notes": ""
@@ -8029,25 +7003,6 @@
         }
       }
     },
-    "564eb6c7-e519-4382-8af2-a2b0181f44bc": {
-      "start": 154727.5,
-      "end": 154780,
-      "id": "564eb6c7-e519-4382-8af2-a2b0181f44bc",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "564eb6c7-e519-4382-8af2-a2b0181f44bc",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "",
-          "pronunciation": "",
-          "meaning": "",
-          "notes": ""
-        }
-      }
-    },
     "cba9bc54-569b-47d0-8960-e8a3807cebe7": {
       "start": 154879.5,
       "end": 155996.5,
@@ -8060,7 +7015,7 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "",
+          "transcription": "81",
           "pronunciation": "",
           "meaning": "",
           "notes": ""

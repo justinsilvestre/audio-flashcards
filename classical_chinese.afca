@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "timestamp": "2019-08-30T16:40:41Z",
+  "timestamp": "2019-09-15T12:57:07Z",
   "name": "Classical Chinese",
   "id": "e659c9a0-ab1f-4b59-b67a-028beaace2d2",
   "noteType": "Transliteration",
@@ -11,6 +11,13 @@
       "durationSeconds": 818.05775,
       "format": "mp3",
       "isVideo": false
+    },
+    {
+      "id": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "name": "daodejing_wangbi.m4a",
+      "durationSeconds": 3129.689,
+      "format": "mov,mp4,m4a,3gp,3g2,mj2",
+      "isVideo": false
     }
   ],
   "tags": [
@@ -18,7 +25,8 @@
     "sanzijing-1-basics",
     "sanzijing-2-confucian-classics",
     "sanzijing-3-dynasties",
-    "sanzijing-4-exemplary-behaviors"
+    "sanzijing-4-exemplary-behaviors",
+    "ddj"
   ],
   "clips": {
     "9ccaeb66-d093-4bef-ad50-6a84f2cfd36e": {
@@ -976,7 +984,7 @@
         "fields": {
           "transcription": "夏有禹，商有湯。\n周武王，稱三王。",
           "pronunciation": "xià yoou yuu, shang yoou tang.\nzhou wuu wáng, cheng san wáng.",
-          "meaning": "The Xia dynasty had Yu, the Shang dynasty had Tang.\nThe Zhou dynasty had king Wu, ",
+          "meaning": "The Xia dynasty had Yu, the Shang dynasty had Tang.\nThe Zhou dynasty had king Wu, these are called the Three Kings.",
           "notes": "[Yu]  stands for the wise Minister, afterwards first Emperor of the Hsia dynasty, popularly known as 大禹 ta yü the Great Yü, who reigned B.C. 2205—2197. He is chiefly famous for having drained the empire of a vast body of water, which some have tried to identify with Noah's flood. (Giles)\n\nIt seems the second line should probably be \"周文武\" (zhou wén wuu, Zhou and Wu)."
         }
       }
@@ -1156,8 +1164,8 @@
         "fields": {
           "transcription": "蜀魏吳，爭漢鼎。\n號三國，迄兩晉。",
           "pronunciation": "shuu wèi wú, zheng hàn diing.\nhào san guó, qì liaang jìn.",
-          "meaning": "Shu, Wei, and Wu fought for the Hans' three-legged incense pot.\nThey were called the Three Kingdoms, and were there until the Two Qin dynasties.",
-          "notes": "[蜀 shu] is here a name for modern Ssŭch'uan, over which 劉備 Liu Pei, a quondam artisan, ruled as first Emperor. (Giles)\n\n[魏 wei] stands for portions of modern Shansi and Honan, over which a son of the great 曹操 Ts'ao Ts'ao ruled as first Emperor. (Giles)\n\n[鼎 ding represents] a bronze vessel with three legs and two handles, used for burning incense. It is here figuratively employed, just as throne is often used in English. (Giles)\n\nThe period covered by these rival Kingdoms was only about 45 years in all, yet it is one of the most famous in Chinese history and is the subject of a widely-known historical romance, based upon the tragedies enacted while the empire was thus torn by civil war. (Giles)\n\n[晉 jin] here stands for the Western Chin dynasty, A.D. 265—317, and the Eastern Chin, A.D. 317—420, so called because their capitals were at 洛陽 Lo-yang in Honan and 南京 Nanking in Kiangsu, respectively. (Giles)"
+          "meaning": "Shu, Wei, and Wu fought for the Hans' three-legged incense pot.\nThey were called the Three Kingdoms, and were there until the Two Jin dynasties.",
+          "notes": "[蜀 shu] is here a name for modern Ssŭch'uan, over which 劉備 Liu Pei, a quondam artisan, ruled as first Emperor. (Giles)\n\n[魏 wei] stands for portions of modern Shansi and Honan, over which a son of the great 曹操 Ts'ao Ts'ao ruled as first Emperor. (Giles)\n\n[吳 wu] stands for that part of the empire known as modern Kiangsu, over which 孫權 Sun Ch'üan ruled as first Emperor. \n\n[鼎 ding represents] a bronze vessel with three legs and two handles, used for burning incense. It is here figuratively employed, just as throne is often used in English. (Giles)\n\nThe period covered by these rival Kingdoms was only about 45 years in all, yet it is one of the most famous in Chinese history and is the subject of a widely-known historical romance, based upon the tragedies enacted while the empire was thus torn by civil war. (Giles)\n\n[晉 jin] here stands for the Western Chin dynasty, A.D. 265—317, and the Eastern Chin, A.D. 317—420, so called because their capitals were at 洛陽 Lo-yang in Honan and 南京 Nanking in Kiangsu, respectively. (Giles)"
         }
       }
     },
@@ -1295,7 +1303,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "炎宋興，受周禪。\n十八傳，南北混。",
-          "pronunciation": "yán sòng xìng, shòu zhou chán.\nshí ba chuán, nán beei hùn.",
+          "pronunciation": "yán sòng xing, shòu zhou chán.\nshí ba chuán, nán beei hùn.",
           "meaning": "The Fire's Song arose and received Zhou's resignation.\nEighteen times [the throne] was transmitted, and the North and the South were reunited.",
           "notes": "The meaning is that the Sung dynasty ruled under the guiding influence of fire as its own especial element. (Giles)\n\nThe [resignation] reference is to the six-year-old son of the last Emperor of the Later Chou dynasty, who resigned in A.D. 960 in favour of the founder of the Sung dynasty. (Giles)\n\nThe Sung dynasty was interrupted in A.D. 1127 by the 金 Chin Tartars, who had been called in to exterminate the 遼 Liao Tartars, carrying off the Emperor and his heir and occupying the northern portion of the empire. Another son of the unfortunate monarch succeeded in re-establishing the line, and for greater security transferred his capital southwards to modern Hangchow. Hence the first period was called the Northern, the latter the Southern, Sung; and it is to the final reunion of the two under the Mongol Emperor Kublai Khan in A.D. 1260 that this line refers, although the last representative of the Sungs lived on until 1279. (Giles)"
         }
@@ -1355,7 +1363,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "太祖興，國大明。\n號洪武，都金陵。",
-          "pronunciation": "tài zuu xìng, guó dà míng.\nhào hóng wuu, du jin líng.",
+          "pronunciation": "tài zuu xing, guó dà míng.\nhào hóng wuu, du jin líng.",
           "meaning": "Then Tai Zu arose, his dynasty being Da Ming\nHe styled himself Hong Wu, his capital at Nanjing.",
           "notes": ""
         }
@@ -1396,7 +1404,7 @@
         "fields": {
           "transcription": "權閹肆，寇如林。\n至李闖，神器焚。",
           "pronunciation": "quán yan sì, kòu rú lín.\nzhì lii chuaang, shén qì fén.",
-          "meaning": "The hold of the people was relaxed, and rebels were [thick] as forests.\nThen came Li Chuang, and the Imperial regalia were destroyed.",
+          "meaning": "The eunuchs' power was unrestrained, and rebels were [thick] as forests.\nThen came Li Chuang, and the Imperial regalia were destroyed.",
           "notes": "[Chuang] is here a name taken by the rebel 李自成 Li Tzŭ-ch'eng, to whose sedition the fall of the Ming dynasty was mostly due. (Giles)\n\nThis [last] line refers to the looting of the palace when Li Ch'uang captured and temporarily held Peking. (Giles)"
         }
       }
@@ -1455,7 +1463,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "讀史者，考實錄。\n通古今，若親目。",
-          "pronunciation": "dú shii shu, kaao shí lù.\ntong guu jin, ruò qin mù.",
+          "pronunciation": "dú shii zhee, kaao shí lù.\ntong guu jin, ruò qin mù.",
           "meaning": "Those who read history must study the State Annals.\nThey take you through the ancient and the modern, as though up close with your own eyes.",
           "notes": "The shih lu are the official annals of each monarch, which he is not allowed to see and which are published only after the close of the dynasty. Orders are occasionally given for the life of some eminent statesman to be included in these annals. (Giles)"
         }
@@ -1695,7 +1703,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "瑩八歲，能詠詩。\n泌七歲，能賦棋。",
-          "pronunciation": "yíng ba suì, néng yoong shi.\nmì qi suì, néng fù qí.",
+          "pronunciation": "yíng ba suì, néng yoong shi.\nbì qi suì, néng fù qí.",
           "meaning": "Ying, at eight years of age, could compose poetry.\nBi, at seven years of age, could make an epigram on wei qi.",
           "notes": "[Ying] was the personal name of 祖瑩 Tsu Jung, 6th cent. A.D., a precocious youth who at the age of eight 能通詩書 nêng t'ung shih shu had mastered not only the Odes but also the Book of History. (Giles)\n\n[Fu] refers to a short epigram composed impromptu, at the command of the Emperor, on the characteristics of the game of 圍碁 wei-ch'i in which his Majesty was indulging. (Giles)\n\n[Qi] stands for wei ch'i or the game of war. (Giles)"
         }
@@ -1938,6 +1946,6162 @@
           "meaning": "Diligence has its reward; play has no advantages.\nBe on your guard; oh, you had better put forth your effort.",
           "notes": "",
           "transcription": "勤有功，戲無益。\n戒之哉，宜勉力。"
+        }
+      }
+    },
+    "f501adb8-cd3c-4e5a-84cf-3a476b169606": {
+      "start": 336.87,
+      "end": 646.08,
+      "id": "f501adb8-cd3c-4e5a-84cf-3a476b169606",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "f501adb8-cd3c-4e5a-84cf-3a476b169606",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "bd91673d-2bee-4964-a62d-3fdca411d0aa": {
+      "start": 696.87,
+      "end": 964.22,
+      "id": "bd91673d-2bee-4964-a62d-3fdca411d0aa",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "bd91673d-2bee-4964-a62d-3fdca411d0aa",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "48c11697-5ec8-48a9-a7aa-a2a09147aebd": {
+      "start": 1023.18,
+      "end": 1900.95,
+      "id": "48c11697-5ec8-48a9-a7aa-a2a09147aebd",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "48c11697-5ec8-48a9-a7aa-a2a09147aebd",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "ec816131-f906-47c8-8d7a-80485aa56ad8": {
+      "start": 2088.39,
+      "end": 2590.94,
+      "id": "ec816131-f906-47c8-8d7a-80485aa56ad8",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "ec816131-f906-47c8-8d7a-80485aa56ad8",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e6eda817-0ed5-42c8-88ca-3c8562531f20": {
+      "start": 2645.69,
+      "end": 3313.81,
+      "id": "e6eda817-0ed5-42c8-88ca-3c8562531f20",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "e6eda817-0ed5-42c8-88ca-3c8562531f20",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "548b23ad-c6a6-4c8a-958b-b71b28685f1c": {
+      "start": 3377.57,
+      "end": 3644.57,
+      "id": "548b23ad-c6a6-4c8a-958b-b71b28685f1c",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "548b23ad-c6a6-4c8a-958b-b71b28685f1c",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e9385d0c-c52b-499a-88cb-a7d3338c6fb8": {
+      "start": 3694.85,
+      "end": 4169.14,
+      "id": "e9385d0c-c52b-499a-88cb-a7d3338c6fb8",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "e9385d0c-c52b-499a-88cb-a7d3338c6fb8",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "912dc7bd-ff93-4ab1-ab18-25d99d0c81be": {
+      "start": 4223.88,
+      "end": 4392.53,
+      "id": "912dc7bd-ff93-4ab1-ab18-25d99d0c81be",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "912dc7bd-ff93-4ab1-ab18-25d99d0c81be",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "234064b9-0e2b-4c8c-84e3-36bbeabb05a3": {
+      "start": 4623.21,
+      "end": 5269.85,
+      "id": "234064b9-0e2b-4c8c-84e3-36bbeabb05a3",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "234064b9-0e2b-4c8c-84e3-36bbeabb05a3",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b2c2986f-261b-442d-b72d-c0173a73c84e": {
+      "start": 5341.05,
+      "end": 5738.6,
+      "id": "b2c2986f-261b-442d-b72d-c0173a73c84e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "b2c2986f-261b-442d-b72d-c0173a73c84e",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "04b9d715-a4ae-49e8-b1f0-c80a91f24cf8": {
+      "start": 5790.15,
+      "end": 6123.35,
+      "id": "04b9d715-a4ae-49e8-b1f0-c80a91f24cf8",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "04b9d715-a4ae-49e8-b1f0-c80a91f24cf8",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "2bebf5f3-e874-47a3-99fe-431cfa24e648": {
+      "start": 6186.3,
+      "end": 6346.95,
+      "id": "2bebf5f3-e874-47a3-99fe-431cfa24e648",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "2bebf5f3-e874-47a3-99fe-431cfa24e648",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "09082185-5e55-4492-8ada-10c36b8da5b4": {
+      "start": 6563.2,
+      "end": 6930.55,
+      "id": "09082185-5e55-4492-8ada-10c36b8da5b4",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "09082185-5e55-4492-8ada-10c36b8da5b4",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "32a1b1ee-5a9c-49b6-a9af-8954ec8af331": {
+      "start": 6982.85,
+      "end": 7408.7,
+      "id": "32a1b1ee-5a9c-49b6-a9af-8954ec8af331",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "32a1b1ee-5a9c-49b6-a9af-8954ec8af331",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "f9974c90-71ff-4674-98a0-4166556181af": {
+      "start": 7466,
+      "end": 7688.85,
+      "id": "f9974c90-71ff-4674-98a0-4166556181af",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "f9974c90-71ff-4674-98a0-4166556181af",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "3c7493ee-9145-4ff6-bbe4-450a787bedb8": {
+      "start": 7922.4,
+      "end": 8839.3,
+      "id": "3c7493ee-9145-4ff6-bbe4-450a787bedb8",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "3c7493ee-9145-4ff6-bbe4-450a787bedb8",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "ae8cfd42-868f-4fb3-b1d4-f9bbcb3b55a7": {
+      "start": 8897.1,
+      "end": 9081.5,
+      "id": "ae8cfd42-868f-4fb3-b1d4-f9bbcb3b55a7",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "ae8cfd42-868f-4fb3-b1d4-f9bbcb3b55a7",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e2d53f1f-0731-4f99-9083-023246b1bef7": {
+      "start": 9305.5,
+      "end": 9712.85,
+      "id": "e2d53f1f-0731-4f99-9083-023246b1bef7",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "e2d53f1f-0731-4f99-9083-023246b1bef7",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "5e1569ad-dcd7-4be0-be81-0934eb264e35": {
+      "start": 9767.4,
+      "end": 9961.95,
+      "id": "5e1569ad-dcd7-4be0-be81-0934eb264e35",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "5e1569ad-dcd7-4be0-be81-0934eb264e35",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "a5025648-aa7b-4cf5-abf3-c37729fa9672": {
+      "start": 10162.5,
+      "end": 10255,
+      "id": "a5025648-aa7b-4cf5-abf3-c37729fa9672",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "a5025648-aa7b-4cf5-abf3-c37729fa9672",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "7eb7e009-0628-48d6-ac16-5ae354d0fc74": {
+      "start": 10308.9,
+      "end": 10700.3,
+      "id": "7eb7e009-0628-48d6-ac16-5ae354d0fc74",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "7eb7e009-0628-48d6-ac16-5ae354d0fc74",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e8467f2d-2820-45d9-a121-1ffecd5a5b73": {
+      "start": 10769.8,
+      "end": 11398.5,
+      "id": "e8467f2d-2820-45d9-a121-1ffecd5a5b73",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "e8467f2d-2820-45d9-a121-1ffecd5a5b73",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "61b830dd-473a-4ead-a14e-c791b5f4ccef": {
+      "start": 11586.1,
+      "end": 12149.5,
+      "id": "61b830dd-473a-4ead-a14e-c791b5f4ccef",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "61b830dd-473a-4ead-a14e-c791b5f4ccef",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "a9a54a03-ed0c-4030-8b66-cffcd2fe36b2": {
+      "start": 12209.7,
+      "end": 12746.45,
+      "id": "a9a54a03-ed0c-4030-8b66-cffcd2fe36b2",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "a9a54a03-ed0c-4030-8b66-cffcd2fe36b2",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "9ffc3be7-7f1f-4901-9b0f-20925352ce8e": {
+      "start": 12797.15,
+      "end": 12944.7,
+      "id": "9ffc3be7-7f1f-4901-9b0f-20925352ce8e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "9ffc3be7-7f1f-4901-9b0f-20925352ce8e",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "5bec7ac8-e986-4bf6-8e44-2e2d6499d622": {
+      "start": 13112,
+      "end": 14062.5,
+      "id": "5bec7ac8-e986-4bf6-8e44-2e2d6499d622",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "5bec7ac8-e986-4bf6-8e44-2e2d6499d622",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d55b781c-fc68-4fb8-8fec-832de75ab0eb": {
+      "start": 14274.85,
+      "end": 14903.45,
+      "id": "d55b781c-fc68-4fb8-8fec-832de75ab0eb",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "d55b781c-fc68-4fb8-8fec-832de75ab0eb",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "6cc5cda2-1f8b-498c-8164-cb4c38ee9982": {
+      "start": 14956.4,
+      "end": 15565.5,
+      "id": "6cc5cda2-1f8b-498c-8164-cb4c38ee9982",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "6cc5cda2-1f8b-498c-8164-cb4c38ee9982",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "4340ff19-95bc-4c7b-8b0c-6c4f2c938614": {
+      "start": 15620.65,
+      "end": 16121.35,
+      "id": "4340ff19-95bc-4c7b-8b0c-6c4f2c938614",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "4340ff19-95bc-4c7b-8b0c-6c4f2c938614",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "aa2f16b2-9c48-4fe9-a80b-c33352d6bbf9": {
+      "start": 16307.8,
+      "end": 16599.25,
+      "id": "aa2f16b2-9c48-4fe9-a80b-c33352d6bbf9",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "aa2f16b2-9c48-4fe9-a80b-c33352d6bbf9",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "a255b40f-181c-4e40-bba5-03027579edec": {
+      "start": 16655.3,
+      "end": 16909.95,
+      "id": "a255b40f-181c-4e40-bba5-03027579edec",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "a255b40f-181c-4e40-bba5-03027579edec",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c04f8ffd-c705-4243-b864-ddf1ff57e6c1": {
+      "start": 16965.8,
+      "end": 17232.1,
+      "id": "c04f8ffd-c705-4243-b864-ddf1ff57e6c1",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "c04f8ffd-c705-4243-b864-ddf1ff57e6c1",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "6d092ff2-cfe1-4fa8-990e-2f668d679b0f": {
+      "start": 17301.5,
+      "end": 17522.2,
+      "id": "6d092ff2-cfe1-4fa8-990e-2f668d679b0f",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "6d092ff2-cfe1-4fa8-990e-2f668d679b0f",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "74dc6653-6e07-4f49-89a1-14647093af86": {
+      "start": 17718.5,
+      "end": 18558.95,
+      "id": "74dc6653-6e07-4f49-89a1-14647093af86",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "74dc6653-6e07-4f49-89a1-14647093af86",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "84e5af5a-1620-4468-8a2c-8e5f62b7ef70": {
+      "start": 18617.75,
+      "end": 18962.5,
+      "id": "84e5af5a-1620-4468-8a2c-8e5f62b7ef70",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "84e5af5a-1620-4468-8a2c-8e5f62b7ef70",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "0c3f9552-9570-47a2-a0e3-0f3b52414fdc": {
+      "start": 19160.47852783203,
+      "end": 19369.8,
+      "id": "0c3f9552-9570-47a2-a0e3-0f3b52414fdc",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "0c3f9552-9570-47a2-a0e3-0f3b52414fdc",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "76b6b9a8-c6f3-454e-830a-b0c49ab4e2f7": {
+      "start": 19426.25,
+      "end": 19540.65,
+      "id": "76b6b9a8-c6f3-454e-830a-b0c49ab4e2f7",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "76b6b9a8-c6f3-454e-830a-b0c49ab4e2f7",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "6c4043e7-2954-47b3-a5d4-8f7f379afb00": {
+      "start": 19598.55,
+      "end": 20022.55,
+      "id": "6c4043e7-2954-47b3-a5d4-8f7f379afb00",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "6c4043e7-2954-47b3-a5d4-8f7f379afb00",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "9637966d-f55d-49f9-9e71-f9355299b173": {
+      "start": 20086.5,
+      "end": 20224.3,
+      "id": "9637966d-f55d-49f9-9e71-f9355299b173",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "9637966d-f55d-49f9-9e71-f9355299b173",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "1bdcf8f9-639b-42c7-85c8-7fcbcaa12deb": {
+      "start": 20283.2,
+      "end": 21280.2,
+      "id": "1bdcf8f9-639b-42c7-85c8-7fcbcaa12deb",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "1bdcf8f9-639b-42c7-85c8-7fcbcaa12deb",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "5db87977-f00c-4c4f-ac67-a8fc96e37031": {
+      "start": 21471,
+      "end": 22244.75,
+      "id": "5db87977-f00c-4c4f-ac67-a8fc96e37031",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "5db87977-f00c-4c4f-ac67-a8fc96e37031",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "495d3229-8d19-4005-baf0-a27e6419e8a8": {
+      "start": 22303.2,
+      "end": 23057.45,
+      "id": "495d3229-8d19-4005-baf0-a27e6419e8a8",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "495d3229-8d19-4005-baf0-a27e6419e8a8",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "11c98714-b59e-46d1-a054-0f7923b01f5d": {
+      "start": 23115.1,
+      "end": 23799.05,
+      "id": "11c98714-b59e-46d1-a054-0f7923b01f5d",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "11c98714-b59e-46d1-a054-0f7923b01f5d",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e87b4d2a-38f7-4617-bd9a-78e2c83bc113": {
+      "start": 23987.95,
+      "end": 24537.55,
+      "id": "e87b4d2a-38f7-4617-bd9a-78e2c83bc113",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "e87b4d2a-38f7-4617-bd9a-78e2c83bc113",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "15",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "cd084e26-cffc-4375-b1e7-231aab91d40f": {
+      "start": 24588.85,
+      "end": 25620.2,
+      "id": "cd084e26-cffc-4375-b1e7-231aab91d40f",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "cd084e26-cffc-4375-b1e7-231aab91d40f",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "a62419d3-e6e4-4d32-be28-4fc4492ef37e": {
+      "start": 25688.75,
+      "end": 26051.75,
+      "id": "a62419d3-e6e4-4d32-be28-4fc4492ef37e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "a62419d3-e6e4-4d32-be28-4fc4492ef37e",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "957543ef-0922-47fa-ad2c-e9942cf7dddc": {
+      "start": 26103.75,
+      "end": 26234.05,
+      "id": "957543ef-0922-47fa-ad2c-e9942cf7dddc",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "957543ef-0922-47fa-ad2c-e9942cf7dddc",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "a2dd0d0e-0258-46f1-b903-abeffc752eba": {
+      "start": 26284.35,
+      "end": 26494.2,
+      "id": "a2dd0d0e-0258-46f1-b903-abeffc752eba",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "a2dd0d0e-0258-46f1-b903-abeffc752eba",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "2ba0b6be-b3fc-4279-beae-1b7cea06f755": {
+      "start": 26728.4,
+      "end": 27953.25,
+      "id": "2ba0b6be-b3fc-4279-beae-1b7cea06f755",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "2ba0b6be-b3fc-4279-beae-1b7cea06f755",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "7f1dedec-98da-426f-bfb2-d5d6ee3e6de2": {
+      "start": 28023.15,
+      "end": 28598.8,
+      "id": "7f1dedec-98da-426f-bfb2-d5d6ee3e6de2",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "7f1dedec-98da-426f-bfb2-d5d6ee3e6de2",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "111e2e00-86fb-4fdc-a9b9-c3a2bb267d53": {
+      "start": 28813.6,
+      "end": 29106.9,
+      "id": "111e2e00-86fb-4fdc-a9b9-c3a2bb267d53",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "111e2e00-86fb-4fdc-a9b9-c3a2bb267d53",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "17",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "48c95f36-5a12-4004-b84a-a93ad787de2d": {
+      "start": 29161.05,
+      "end": 30025.5,
+      "id": "48c95f36-5a12-4004-b84a-a93ad787de2d",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "48c95f36-5a12-4004-b84a-a93ad787de2d",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "5a9b5903-d12c-47d1-854d-774b31bce62a": {
+      "start": 30230.5,
+      "end": 30932.45,
+      "id": "5a9b5903-d12c-47d1-854d-774b31bce62a",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "5a9b5903-d12c-47d1-854d-774b31bce62a",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "0f6f1487-6fbc-43ce-af98-8bc146fd8c1e": {
+      "start": 31152.8,
+      "end": 31771.25,
+      "id": "0f6f1487-6fbc-43ce-af98-8bc146fd8c1e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "0f6f1487-6fbc-43ce-af98-8bc146fd8c1e",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "19",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "bfcd1c28-aeb2-425d-810a-a012616f6173": {
+      "start": 31826.25,
+      "end": 32351.45,
+      "id": "bfcd1c28-aeb2-425d-810a-a012616f6173",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "bfcd1c28-aeb2-425d-810a-a012616f6173",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e6671357-5ef8-411d-8dae-48fa5d1e5167": {
+      "start": 32542.05,
+      "end": 33060.9,
+      "id": "e6671357-5ef8-411d-8dae-48fa5d1e5167",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "e6671357-5ef8-411d-8dae-48fa5d1e5167",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "20",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "f56858de-5e76-4157-a501-65ea5a687f02": {
+      "start": 33115.85,
+      "end": 33460.45,
+      "id": "f56858de-5e76-4157-a501-65ea5a687f02",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "f56858de-5e76-4157-a501-65ea5a687f02",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "076bb783-d27d-4e6d-8814-80b566b8c5c5": {
+      "start": 33526.75,
+      "end": 34148,
+      "id": "076bb783-d27d-4e6d-8814-80b566b8c5c5",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "076bb783-d27d-4e6d-8814-80b566b8c5c5",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "48a28a25-ac3b-4bf0-bcb4-6e2c69e9d41f": {
+      "start": 34201.55,
+      "end": 34345.45,
+      "id": "48a28a25-ac3b-4bf0-bcb4-6e2c69e9d41f",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "48a28a25-ac3b-4bf0-bcb4-6e2c69e9d41f",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "bc5baf08-4da4-44a0-857f-f1c0ab181d03": {
+      "start": 34399.5,
+      "end": 34888.35,
+      "id": "bc5baf08-4da4-44a0-857f-f1c0ab181d03",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "bc5baf08-4da4-44a0-857f-f1c0ab181d03",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "4e2701e7-5902-4d84-987c-650694f8756f": {
+      "start": 34938.85,
+      "end": 36167.2,
+      "id": "4e2701e7-5902-4d84-987c-650694f8756f",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "4e2701e7-5902-4d84-987c-650694f8756f",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "1ba087f5-431f-413b-9154-daf1e0a46ac3": {
+      "start": 36263.1,
+      "end": 36318.45,
+      "id": "1ba087f5-431f-413b-9154-daf1e0a46ac3",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "1ba087f5-431f-413b-9154-daf1e0a46ac3",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "6ec3dcc9-491c-46e2-a484-3904121a341b": {
+      "start": 36388.85,
+      "end": 38278.6,
+      "id": "6ec3dcc9-491c-46e2-a484-3904121a341b",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "6ec3dcc9-491c-46e2-a484-3904121a341b",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b6b71bcf-4801-40f6-9d4f-7575bdde49ab": {
+      "start": 38395.55,
+      "end": 38456.05,
+      "id": "b6b71bcf-4801-40f6-9d4f-7575bdde49ab",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "b6b71bcf-4801-40f6-9d4f-7575bdde49ab",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "2d55555f-62ef-4b21-9690-ad69e165792e": {
+      "start": 38517.45,
+      "end": 38977.75,
+      "id": "2d55555f-62ef-4b21-9690-ad69e165792e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "2d55555f-62ef-4b21-9690-ad69e165792e",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "7e887109-531e-43e9-b8bb-36466e11a996": {
+      "start": 39046.35,
+      "end": 39243.85,
+      "id": "7e887109-531e-43e9-b8bb-36466e11a996",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "7e887109-531e-43e9-b8bb-36466e11a996",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d71239af-35bc-4f99-b200-617a0ae48954": {
+      "start": 39299.7,
+      "end": 39804.95,
+      "id": "d71239af-35bc-4f99-b200-617a0ae48954",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "d71239af-35bc-4f99-b200-617a0ae48954",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "90aa583b-8b23-41ed-9bc2-cc9fdf364933": {
+      "start": 39866.35,
+      "end": 40099.55,
+      "id": "90aa583b-8b23-41ed-9bc2-cc9fdf364933",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "90aa583b-8b23-41ed-9bc2-cc9fdf364933",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "eb8bb793-d3ad-4c87-8768-04bc0a565796": {
+      "start": 40151.95,
+      "end": 40558.2,
+      "id": "eb8bb793-d3ad-4c87-8768-04bc0a565796",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "eb8bb793-d3ad-4c87-8768-04bc0a565796",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "a0da97c6-2dd6-483d-8809-7fe4cc71b51f": {
+      "start": 40676.3,
+      "end": 40738,
+      "id": "a0da97c6-2dd6-483d-8809-7fe4cc71b51f",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "a0da97c6-2dd6-483d-8809-7fe4cc71b51f",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "21946ce8-6520-4066-b5ac-1580f2a37bfb": {
+      "start": 40795.65,
+      "end": 41351.4,
+      "id": "21946ce8-6520-4066-b5ac-1580f2a37bfb",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "21946ce8-6520-4066-b5ac-1580f2a37bfb",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "16cdfcb2-2d04-489f-9324-b13f232586c6": {
+      "start": 41405.1,
+      "end": 41637.4,
+      "id": "16cdfcb2-2d04-489f-9324-b13f232586c6",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "16cdfcb2-2d04-489f-9324-b13f232586c6",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "326e673c-de49-4497-9d7b-36d0cdc0cb67": {
+      "start": 41701.3,
+      "end": 42183.2,
+      "id": "326e673c-de49-4497-9d7b-36d0cdc0cb67",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "326e673c-de49-4497-9d7b-36d0cdc0cb67",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d761e3f0-1e3b-40ad-ac01-ef75782c2fa1": {
+      "start": 42243.3,
+      "end": 42869.7,
+      "id": "d761e3f0-1e3b-40ad-ac01-ef75782c2fa1",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "d761e3f0-1e3b-40ad-ac01-ef75782c2fa1",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "18c65f96-2bd2-4e79-91ec-36377ad6a1cb": {
+      "start": 42932.35,
+      "end": 43128.1,
+      "id": "18c65f96-2bd2-4e79-91ec-36377ad6a1cb",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "18c65f96-2bd2-4e79-91ec-36377ad6a1cb",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "71458641-fbdc-4385-92a9-d63cd956618c": {
+      "start": 43220.2,
+      "end": 43279.7,
+      "id": "71458641-fbdc-4385-92a9-d63cd956618c",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "71458641-fbdc-4385-92a9-d63cd956618c",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "6244d29f-c567-41ac-a2ca-0f5f39787ea3": {
+      "start": 43338.3,
+      "end": 43982.35,
+      "id": "6244d29f-c567-41ac-a2ca-0f5f39787ea3",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "6244d29f-c567-41ac-a2ca-0f5f39787ea3",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "468da6c7-4dd8-49db-b13b-3e9b42def5a9": {
+      "start": 44038.45,
+      "end": 44242.8,
+      "id": "468da6c7-4dd8-49db-b13b-3e9b42def5a9",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "468da6c7-4dd8-49db-b13b-3e9b42def5a9",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "70b9a73b-f017-484b-a440-42670bb9367c": {
+      "start": 44301.5,
+      "end": 44523.3,
+      "id": "70b9a73b-f017-484b-a440-42670bb9367c",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "70b9a73b-f017-484b-a440-42670bb9367c",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "39ddb6a6-96c5-4804-9975-e4a1c5f0d51b": {
+      "start": 44621.5,
+      "end": 44677.7,
+      "id": "39ddb6a6-96c5-4804-9975-e4a1c5f0d51b",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "39ddb6a6-96c5-4804-9975-e4a1c5f0d51b",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d39a0fb3-888c-4f05-8c2e-843bd2665f1e": {
+      "start": 44752.85,
+      "end": 44941.2,
+      "id": "d39a0fb3-888c-4f05-8c2e-843bd2665f1e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "d39a0fb3-888c-4f05-8c2e-843bd2665f1e",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "62bbe9b4-f941-4edb-bc68-430cbca45554": {
+      "start": 44991.25,
+      "end": 45452.05,
+      "id": "62bbe9b4-f941-4edb-bc68-430cbca45554",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "62bbe9b4-f941-4edb-bc68-430cbca45554",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d312a80b-41e5-4e15-b6f0-aef23b9069cc": {
+      "start": 45503.5,
+      "end": 45829,
+      "id": "d312a80b-41e5-4e15-b6f0-aef23b9069cc",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "d312a80b-41e5-4e15-b6f0-aef23b9069cc",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "716a6f27-86ac-4fc2-bbee-fc3de5018ff2": {
+      "start": 45883.35,
+      "end": 46109.1,
+      "id": "716a6f27-86ac-4fc2-bbee-fc3de5018ff2",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "716a6f27-86ac-4fc2-bbee-fc3de5018ff2",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "6db612d4-4656-41c4-a39a-7636471870c3": {
+      "start": 46171.6,
+      "end": 46410.9,
+      "id": "6db612d4-4656-41c4-a39a-7636471870c3",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "6db612d4-4656-41c4-a39a-7636471870c3",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d7f06547-8514-408d-a74f-3bb8657656d2": {
+      "start": 46472.2,
+      "end": 46690.5,
+      "id": "d7f06547-8514-408d-a74f-3bb8657656d2",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "d7f06547-8514-408d-a74f-3bb8657656d2",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "cf5947f8-4f0b-422b-94be-196145ca05fa": {
+      "start": 46754.05,
+      "end": 47071.15,
+      "id": "cf5947f8-4f0b-422b-94be-196145ca05fa",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "cf5947f8-4f0b-422b-94be-196145ca05fa",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "2e27f758-af18-400a-bafa-275818e5fa10": {
+      "start": 47136.75,
+      "end": 47206.75,
+      "id": "2e27f758-af18-400a-bafa-275818e5fa10",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "2e27f758-af18-400a-bafa-275818e5fa10",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b413fff5-1acb-49b6-8b81-63a3742df3e0": {
+      "start": 47259.75,
+      "end": 47920.3,
+      "id": "b413fff5-1acb-49b6-8b81-63a3742df3e0",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "b413fff5-1acb-49b6-8b81-63a3742df3e0",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "eae8f6ef-94dd-46d8-9cf9-158c05af3ae1": {
+      "start": 47971.8,
+      "end": 48443.8,
+      "id": "eae8f6ef-94dd-46d8-9cf9-158c05af3ae1",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "eae8f6ef-94dd-46d8-9cf9-158c05af3ae1",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "8e690931-9bbe-42af-becc-ed66e34e731f": {
+      "start": 48528.6,
+      "end": 48586.5,
+      "id": "8e690931-9bbe-42af-becc-ed66e34e731f",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "8e690931-9bbe-42af-becc-ed66e34e731f",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e5c29259-bf5a-4177-a96f-c42b71b479b4": {
+      "start": 48642.7,
+      "end": 49461.1,
+      "id": "e5c29259-bf5a-4177-a96f-c42b71b479b4",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "e5c29259-bf5a-4177-a96f-c42b71b479b4",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "17793266-8f61-4639-b9af-0e8c8d489402": {
+      "start": 49516.25,
+      "end": 50128,
+      "id": "17793266-8f61-4639-b9af-0e8c8d489402",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "17793266-8f61-4639-b9af-0e8c8d489402",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "3883b34d-acc7-487b-858a-7ead2f146b2f": {
+      "start": 50182.5,
+      "end": 50567.5,
+      "id": "3883b34d-acc7-487b-858a-7ead2f146b2f",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "3883b34d-acc7-487b-858a-7ead2f146b2f",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "ddcc0d07-6763-4c1f-9224-f20220126ef3": {
+      "start": 50621,
+      "end": 51038.5,
+      "id": "ddcc0d07-6763-4c1f-9224-f20220126ef3",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "ddcc0d07-6763-4c1f-9224-f20220126ef3",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "a4a9b8b3-56c2-48d1-ba8d-367627b2e9eb": {
+      "start": 51154,
+      "end": 51207,
+      "id": "a4a9b8b3-56c2-48d1-ba8d-367627b2e9eb",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "a4a9b8b3-56c2-48d1-ba8d-367627b2e9eb",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "aa79d36c-38e0-419e-88c5-88182e9fdb88": {
+      "start": 51281,
+      "end": 51850,
+      "id": "aa79d36c-38e0-419e-88c5-88182e9fdb88",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "aa79d36c-38e0-419e-88c5-88182e9fdb88",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c6e23caa-f4f8-44c0-b13b-fa7238f1b633": {
+      "start": 51931.5,
+      "end": 52481.5,
+      "id": "c6e23caa-f4f8-44c0-b13b-fa7238f1b633",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "c6e23caa-f4f8-44c0-b13b-fa7238f1b633",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "3649eca4-0bbf-4646-a30f-3d6306cd40df": {
+      "start": 52555,
+      "end": 53099.5,
+      "id": "3649eca4-0bbf-4646-a30f-3d6306cd40df",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "3649eca4-0bbf-4646-a30f-3d6306cd40df",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "3424fa99-1de9-4eab-87cc-04849f738c69": {
+      "start": 53153,
+      "end": 53441.5,
+      "id": "3424fa99-1de9-4eab-87cc-04849f738c69",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "3424fa99-1de9-4eab-87cc-04849f738c69",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "cd685b2b-8074-4e3c-8715-0362470e7fdf": {
+      "start": 53501.5,
+      "end": 53611.5,
+      "id": "cd685b2b-8074-4e3c-8715-0362470e7fdf",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "cd685b2b-8074-4e3c-8715-0362470e7fdf",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "81515856-ac9b-42af-92b5-1077cecd9902": {
+      "start": 53711,
+      "end": 53769,
+      "id": "81515856-ac9b-42af-92b5-1077cecd9902",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "81515856-ac9b-42af-92b5-1077cecd9902",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "2c33c706-cb4e-4f71-b50f-31645105f491": {
+      "start": 53852.5,
+      "end": 54549,
+      "id": "2c33c706-cb4e-4f71-b50f-31645105f491",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "2c33c706-cb4e-4f71-b50f-31645105f491",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "58380a63-2bd5-41ce-b711-4bd789e16784": {
+      "start": 54602,
+      "end": 54875.5,
+      "id": "58380a63-2bd5-41ce-b711-4bd789e16784",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "58380a63-2bd5-41ce-b711-4bd789e16784",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b3144980-48bd-4f40-a936-bef02326db49": {
+      "start": 54927.5,
+      "end": 55402.5,
+      "id": "b3144980-48bd-4f40-a936-bef02326db49",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "b3144980-48bd-4f40-a936-bef02326db49",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "59f74d6e-5b21-40a6-92e2-5b8332c604d3": {
+      "start": 55505.5,
+      "end": 55552.5,
+      "id": "59f74d6e-5b21-40a6-92e2-5b8332c604d3",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "59f74d6e-5b21-40a6-92e2-5b8332c604d3",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c79f774e-6e8e-470d-978e-0279dcd72998": {
+      "start": 55620.5,
+      "end": 55993,
+      "id": "c79f774e-6e8e-470d-978e-0279dcd72998",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "c79f774e-6e8e-470d-978e-0279dcd72998",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "5d5fce66-4df9-4b9e-8fa1-9524a30aa7a8": {
+      "start": 56064.5,
+      "end": 57197.5,
+      "id": "5d5fce66-4df9-4b9e-8fa1-9524a30aa7a8",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "5d5fce66-4df9-4b9e-8fa1-9524a30aa7a8",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "8b56a75e-24ad-47d0-91d1-2c63767455d7": {
+      "start": 57262.5,
+      "end": 57557,
+      "id": "8b56a75e-24ad-47d0-91d1-2c63767455d7",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "8b56a75e-24ad-47d0-91d1-2c63767455d7",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "6dd2ad87-f09c-4139-9ab4-9914c41e39a8": {
+      "start": 57655,
+      "end": 57716,
+      "id": "6dd2ad87-f09c-4139-9ab4-9914c41e39a8",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "6dd2ad87-f09c-4139-9ab4-9914c41e39a8",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "f0f371c5-d7eb-4f70-8580-4aaa4518b0e3": {
+      "start": 57773,
+      "end": 58054,
+      "id": "f0f371c5-d7eb-4f70-8580-4aaa4518b0e3",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "f0f371c5-d7eb-4f70-8580-4aaa4518b0e3",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "67c77e41-70d2-4948-9883-77115acbd93c": {
+      "start": 58105.5,
+      "end": 58229,
+      "id": "67c77e41-70d2-4948-9883-77115acbd93c",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "67c77e41-70d2-4948-9883-77115acbd93c",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "198485ce-fac1-41aa-b5e9-7259d1c94b3b": {
+      "start": 58286.5,
+      "end": 58518,
+      "id": "198485ce-fac1-41aa-b5e9-7259d1c94b3b",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "198485ce-fac1-41aa-b5e9-7259d1c94b3b",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "2a9102d6-c42d-44a6-886f-8ecbc0dbd137": {
+      "start": 58572,
+      "end": 58929,
+      "id": "2a9102d6-c42d-44a6-886f-8ecbc0dbd137",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "2a9102d6-c42d-44a6-886f-8ecbc0dbd137",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "40da30e8-2719-4d1b-806f-c61c9d7f2f15": {
+      "start": 58979,
+      "end": 59719.5,
+      "id": "40da30e8-2719-4d1b-806f-c61c9d7f2f15",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "40da30e8-2719-4d1b-806f-c61c9d7f2f15",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "ad9aba56-3e6a-44e7-b72f-7ce249b7c0c2": {
+      "start": 59783.5,
+      "end": 60777,
+      "id": "ad9aba56-3e6a-44e7-b72f-7ce249b7c0c2",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "ad9aba56-3e6a-44e7-b72f-7ce249b7c0c2",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c61ad50b-b662-43a5-97c4-8dd89fba000b": {
+      "start": 60875,
+      "end": 60938,
+      "id": "c61ad50b-b662-43a5-97c4-8dd89fba000b",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "c61ad50b-b662-43a5-97c4-8dd89fba000b",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "61691b2a-853e-4ea4-8d7f-e77f649ecfcb": {
+      "start": 60993,
+      "end": 61565,
+      "id": "61691b2a-853e-4ea4-8d7f-e77f649ecfcb",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "61691b2a-853e-4ea4-8d7f-e77f649ecfcb",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "4db14708-23f0-4825-8202-7f7df0c18020": {
+      "start": 61624.5,
+      "end": 61948.5,
+      "id": "4db14708-23f0-4825-8202-7f7df0c18020",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "4db14708-23f0-4825-8202-7f7df0c18020",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "23f971e4-ba37-4327-89a4-39c64e57e914": {
+      "start": 61998.5,
+      "end": 62462.5,
+      "id": "23f971e4-ba37-4327-89a4-39c64e57e914",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "23f971e4-ba37-4327-89a4-39c64e57e914",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "2237fc71-ae6f-4852-8e55-6655ab0dd310": {
+      "start": 62526,
+      "end": 62801,
+      "id": "2237fc71-ae6f-4852-8e55-6655ab0dd310",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "2237fc71-ae6f-4852-8e55-6655ab0dd310",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "246424ad-1668-4071-b9be-505171b7c55e": {
+      "start": 62886,
+      "end": 62949,
+      "id": "246424ad-1668-4071-b9be-505171b7c55e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "246424ad-1668-4071-b9be-505171b7c55e",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "58fbb264-4a51-4fb0-8471-ad2e31bf9e3a": {
+      "start": 63007.5,
+      "end": 63906,
+      "id": "58fbb264-4a51-4fb0-8471-ad2e31bf9e3a",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "58fbb264-4a51-4fb0-8471-ad2e31bf9e3a",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "2c0444b9-acf5-4830-a617-c17f3a298faa": {
+      "start": 64018.5,
+      "end": 64083,
+      "id": "2c0444b9-acf5-4830-a617-c17f3a298faa",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "2c0444b9-acf5-4830-a617-c17f3a298faa",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "cea7f18a-4249-4745-882b-d3d035d39563": {
+      "start": 64149.5,
+      "end": 64683.5,
+      "id": "cea7f18a-4249-4745-882b-d3d035d39563",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "cea7f18a-4249-4745-882b-d3d035d39563",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "dfda1b8f-6e8a-4798-949b-e9ec1fb309ab": {
+      "start": 64736.5,
+      "end": 65080.5,
+      "id": "dfda1b8f-6e8a-4798-949b-e9ec1fb309ab",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "dfda1b8f-6e8a-4798-949b-e9ec1fb309ab",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "341be4ee-e8ca-4dee-bfae-aefe7cebd5bf": {
+      "start": 65140,
+      "end": 65382.5,
+      "id": "341be4ee-e8ca-4dee-bfae-aefe7cebd5bf",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "341be4ee-e8ca-4dee-bfae-aefe7cebd5bf",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "10814752-ca8e-4249-8a6b-2299c4e54123": {
+      "start": 65440,
+      "end": 65674,
+      "id": "10814752-ca8e-4249-8a6b-2299c4e54123",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "10814752-ca8e-4249-8a6b-2299c4e54123",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "fd2a1d6c-5d0c-4d60-bb49-dfb322dd3680": {
+      "start": 65782,
+      "end": 65841.5,
+      "id": "fd2a1d6c-5d0c-4d60-bb49-dfb322dd3680",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "fd2a1d6c-5d0c-4d60-bb49-dfb322dd3680",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "f6848887-1b41-4cb3-a3a4-d7b5e8985ad4": {
+      "start": 65911.5,
+      "end": 66243.5,
+      "id": "f6848887-1b41-4cb3-a3a4-d7b5e8985ad4",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "f6848887-1b41-4cb3-a3a4-d7b5e8985ad4",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "fb4684bf-06e7-48d9-9ec1-8ecad70ecfec": {
+      "start": 66317,
+      "end": 67051.5,
+      "id": "fb4684bf-06e7-48d9-9ec1-8ecad70ecfec",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "fb4684bf-06e7-48d9-9ec1-8ecad70ecfec",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d5979b4e-f1af-48c4-9b32-25eaa9bd9812": {
+      "start": 67111,
+      "end": 67180.5,
+      "id": "d5979b4e-f1af-48c4-9b32-25eaa9bd9812",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "d5979b4e-f1af-48c4-9b32-25eaa9bd9812",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "f85393d9-e3d6-457b-88fe-3a050c021948": {
+      "start": 67244.5,
+      "end": 68158,
+      "id": "f85393d9-e3d6-457b-88fe-3a050c021948",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "f85393d9-e3d6-457b-88fe-3a050c021948",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "23932004-f1ac-4c49-a115-fa2edf6f57a5": {
+      "start": 68221,
+      "end": 68687.5,
+      "id": "23932004-f1ac-4c49-a115-fa2edf6f57a5",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "23932004-f1ac-4c49-a115-fa2edf6f57a5",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "aa5d86f5-6b2a-453e-8aff-2cf9cdbd08e5": {
+      "start": 68796,
+      "end": 69692.5,
+      "id": "aa5d86f5-6b2a-453e-8aff-2cf9cdbd08e5",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "aa5d86f5-6b2a-453e-8aff-2cf9cdbd08e5",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "3d4035f3-e1da-4e4f-963f-f7117d7c431a": {
+      "start": 69751.5,
+      "end": 69928,
+      "id": "3d4035f3-e1da-4e4f-963f-f7117d7c431a",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "3d4035f3-e1da-4e4f-963f-f7117d7c431a",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "1174e837-69f1-4a43-bd24-0a2c5fc0a8c4": {
+      "start": 69979,
+      "end": 70196,
+      "id": "1174e837-69f1-4a43-bd24-0a2c5fc0a8c4",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "1174e837-69f1-4a43-bd24-0a2c5fc0a8c4",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "5a60d8de-18a1-4b32-96e9-42a09c84a73e": {
+      "start": 70329,
+      "end": 70389,
+      "id": "5a60d8de-18a1-4b32-96e9-42a09c84a73e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "5a60d8de-18a1-4b32-96e9-42a09c84a73e",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "44fb6eed-befd-4cda-88f2-920a0a49bb80": {
+      "start": 70445.5,
+      "end": 70842,
+      "id": "44fb6eed-befd-4cda-88f2-920a0a49bb80",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "44fb6eed-befd-4cda-88f2-920a0a49bb80",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "903071c0-1ffb-4eac-a33c-6f3171787291": {
+      "start": 70897,
+      "end": 71242.5,
+      "id": "903071c0-1ffb-4eac-a33c-6f3171787291",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "903071c0-1ffb-4eac-a33c-6f3171787291",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "aa22c62e-04e1-4c18-9790-7c2a6f1329f4": {
+      "start": 71297,
+      "end": 71979.5,
+      "id": "aa22c62e-04e1-4c18-9790-7c2a6f1329f4",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "aa22c62e-04e1-4c18-9790-7c2a6f1329f4",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "61036857-b9e6-4a5f-888d-51e377e41304": {
+      "start": 72039.5,
+      "end": 72529,
+      "id": "61036857-b9e6-4a5f-888d-51e377e41304",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "61036857-b9e6-4a5f-888d-51e377e41304",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c2e3514e-9f11-4319-b61c-6d4943e26029": {
+      "start": 72590,
+      "end": 73708.5,
+      "id": "c2e3514e-9f11-4319-b61c-6d4943e26029",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "c2e3514e-9f11-4319-b61c-6d4943e26029",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b44d3cc2-b82a-4f05-b6f9-caf0755cc375": {
+      "start": 73786.5,
+      "end": 73855.5,
+      "id": "b44d3cc2-b82a-4f05-b6f9-caf0755cc375",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "b44d3cc2-b82a-4f05-b6f9-caf0755cc375",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "6e15bb42-3113-4c3e-9233-e2b4af01d1fb": {
+      "start": 73924,
+      "end": 74945.5,
+      "id": "6e15bb42-3113-4c3e-9233-e2b4af01d1fb",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "6e15bb42-3113-4c3e-9233-e2b4af01d1fb",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "53b30796-045b-4e11-be07-3f9d57397c9e": {
+      "start": 74996.5,
+      "end": 75866,
+      "id": "53b30796-045b-4e11-be07-3f9d57397c9e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "53b30796-045b-4e11-be07-3f9d57397c9e",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "13748c71-ea4f-49a8-ae4e-e0ca88283cd3": {
+      "start": 75916.5,
+      "end": 76098,
+      "id": "13748c71-ea4f-49a8-ae4e-e0ca88283cd3",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "13748c71-ea4f-49a8-ae4e-e0ca88283cd3",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "39b7c277-e004-430c-98fc-776fa77f015a": {
+      "start": 76176,
+      "end": 76939.5,
+      "id": "39b7c277-e004-430c-98fc-776fa77f015a",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "39b7c277-e004-430c-98fc-776fa77f015a",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "da700438-fc06-4af0-a789-b0ec6c267531": {
+      "start": 77002,
+      "end": 77379,
+      "id": "da700438-fc06-4af0-a789-b0ec6c267531",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "da700438-fc06-4af0-a789-b0ec6c267531",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c73dde2f-a313-4cbf-94fb-ed57dd268e09": {
+      "start": 77496,
+      "end": 77542.5,
+      "id": "c73dde2f-a313-4cbf-94fb-ed57dd268e09",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "c73dde2f-a313-4cbf-94fb-ed57dd268e09",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "eeb964a4-823c-406d-b4b8-5baf497ffc3a": {
+      "start": 77617,
+      "end": 78142.5,
+      "id": "eeb964a4-823c-406d-b4b8-5baf497ffc3a",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "eeb964a4-823c-406d-b4b8-5baf497ffc3a",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "ef893a81-d263-4b95-b47e-773ae6e2e4d7": {
+      "start": 78245.5,
+      "end": 78306,
+      "id": "ef893a81-d263-4b95-b47e-773ae6e2e4d7",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "ef893a81-d263-4b95-b47e-773ae6e2e4d7",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "df82f385-dd5b-43cd-b0b3-fa52c450398e": {
+      "start": 78388,
+      "end": 79112.5,
+      "id": "df82f385-dd5b-43cd-b0b3-fa52c450398e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "df82f385-dd5b-43cd-b0b3-fa52c450398e",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d3e604ed-e80a-4a79-b9a1-8a7396e6c9ed": {
+      "start": 79170.5,
+      "end": 80630.5,
+      "id": "d3e604ed-e80a-4a79-b9a1-8a7396e6c9ed",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "d3e604ed-e80a-4a79-b9a1-8a7396e6c9ed",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "6462fb5f-d365-464f-98a4-469adcf15676": {
+      "start": 80690,
+      "end": 80979.5,
+      "id": "6462fb5f-d365-464f-98a4-469adcf15676",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "6462fb5f-d365-464f-98a4-469adcf15676",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "bfa22eb1-6f0f-47cc-8822-91a186038881": {
+      "start": 81064,
+      "end": 81127,
+      "id": "bfa22eb1-6f0f-47cc-8822-91a186038881",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "bfa22eb1-6f0f-47cc-8822-91a186038881",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "ad1fbcbc-b212-428f-82c7-503c7640c6b7": {
+      "start": 81186,
+      "end": 81490.5,
+      "id": "ad1fbcbc-b212-428f-82c7-503c7640c6b7",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "ad1fbcbc-b212-428f-82c7-503c7640c6b7",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "24a123c1-2cf1-43cc-9546-aca0a125f016": {
+      "start": 81550.5,
+      "end": 81804,
+      "id": "24a123c1-2cf1-43cc-9546-aca0a125f016",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "24a123c1-2cf1-43cc-9546-aca0a125f016",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "f73ac7fb-6900-4f53-9037-623abb6c6b6f": {
+      "start": 81860,
+      "end": 82541.5,
+      "id": "f73ac7fb-6900-4f53-9037-623abb6c6b6f",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "f73ac7fb-6900-4f53-9037-623abb6c6b6f",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "9302c6b5-7da4-4d95-85ff-7c0258e697c4": {
+      "start": 82623,
+      "end": 83148,
+      "id": "9302c6b5-7da4-4d95-85ff-7c0258e697c4",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "9302c6b5-7da4-4d95-85ff-7c0258e697c4",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "482ba191-f4bc-4368-ae71-ce845ce2343d": {
+      "start": 83239,
+      "end": 83302.5,
+      "id": "482ba191-f4bc-4368-ae71-ce845ce2343d",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "482ba191-f4bc-4368-ae71-ce845ce2343d",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "25af5200-8eb3-4c9e-8ce5-2f1d736945f6": {
+      "start": 83377.5,
+      "end": 83982,
+      "id": "25af5200-8eb3-4c9e-8ce5-2f1d736945f6",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "25af5200-8eb3-4c9e-8ce5-2f1d736945f6",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "dd5f0a9f-5035-4e51-b9f0-a1c985516c24": {
+      "start": 84036,
+      "end": 84331.5,
+      "id": "dd5f0a9f-5035-4e51-b9f0-a1c985516c24",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "dd5f0a9f-5035-4e51-b9f0-a1c985516c24",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "15533da1-ad91-44ea-8482-a47479717a41": {
+      "start": 84430,
+      "end": 84492,
+      "id": "15533da1-ad91-44ea-8482-a47479717a41",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "15533da1-ad91-44ea-8482-a47479717a41",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "bc52a769-8006-40af-b2b1-7b43120b5a86": {
+      "start": 84571.5,
+      "end": 85588,
+      "id": "bc52a769-8006-40af-b2b1-7b43120b5a86",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "bc52a769-8006-40af-b2b1-7b43120b5a86",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "ddbef643-5318-427f-b58b-3a333b822268": {
+      "start": 85706,
+      "end": 85768,
+      "id": "ddbef643-5318-427f-b58b-3a333b822268",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "ddbef643-5318-427f-b58b-3a333b822268",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "98f1db42-e13d-4220-84ec-a24654d59d3f": {
+      "start": 85844,
+      "end": 86270.5,
+      "id": "98f1db42-e13d-4220-84ec-a24654d59d3f",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "98f1db42-e13d-4220-84ec-a24654d59d3f",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c4f92ff2-a1e2-45a7-bb82-6454eec15215": {
+      "start": 86325,
+      "end": 86649.5,
+      "id": "c4f92ff2-a1e2-45a7-bb82-6454eec15215",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "c4f92ff2-a1e2-45a7-bb82-6454eec15215",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "67afcfd7-0fdf-4b8b-865c-f0b307c338f3": {
+      "start": 86707.5,
+      "end": 87021,
+      "id": "67afcfd7-0fdf-4b8b-865c-f0b307c338f3",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "67afcfd7-0fdf-4b8b-865c-f0b307c338f3",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "5b97f8fe-dd5c-4c5d-8b12-09adec5d3aa0": {
+      "start": 87108,
+      "end": 87637.5,
+      "id": "5b97f8fe-dd5c-4c5d-8b12-09adec5d3aa0",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "5b97f8fe-dd5c-4c5d-8b12-09adec5d3aa0",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b7a98f0f-49c7-4c52-85e6-95313acb6e6a": {
+      "start": 87688.5,
+      "end": 88177.5,
+      "id": "b7a98f0f-49c7-4c52-85e6-95313acb6e6a",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "b7a98f0f-49c7-4c52-85e6-95313acb6e6a",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "3a1775dc-a1eb-4a4c-bd8b-a1101cacaefa": {
+      "start": 88272,
+      "end": 88339,
+      "id": "3a1775dc-a1eb-4a4c-bd8b-a1101cacaefa",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "3a1775dc-a1eb-4a4c-bd8b-a1101cacaefa",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "fc3a7906-016e-4892-939a-4bb1523b7ff0": {
+      "start": 88403.5,
+      "end": 88932.5,
+      "id": "fc3a7906-016e-4892-939a-4bb1523b7ff0",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "fc3a7906-016e-4892-939a-4bb1523b7ff0",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "4e35b1ff-64ac-4de2-93eb-03c03975ae80": {
+      "start": 88992.5,
+      "end": 89372.5,
+      "id": "4e35b1ff-64ac-4de2-93eb-03c03975ae80",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "4e35b1ff-64ac-4de2-93eb-03c03975ae80",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "bd396ea7-cd5e-469d-a58b-4034370dc9b1": {
+      "start": 89463.5,
+      "end": 90210.5,
+      "id": "bd396ea7-cd5e-469d-a58b-4034370dc9b1",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "bd396ea7-cd5e-469d-a58b-4034370dc9b1",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "91cc22d6-4a26-450a-bf4b-2329c7d7ae30": {
+      "start": 90263,
+      "end": 90644,
+      "id": "91cc22d6-4a26-450a-bf4b-2329c7d7ae30",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "91cc22d6-4a26-450a-bf4b-2329c7d7ae30",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "adee0c3e-caab-4388-9404-85bb5c110faf": {
+      "start": 90747.5,
+      "end": 90811,
+      "id": "adee0c3e-caab-4388-9404-85bb5c110faf",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "adee0c3e-caab-4388-9404-85bb5c110faf",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "98bd4acb-fc5a-4b9f-9bb8-59ae51b56e9f": {
+      "start": 90888.5,
+      "end": 91136.5,
+      "id": "98bd4acb-fc5a-4b9f-9bb8-59ae51b56e9f",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "98bd4acb-fc5a-4b9f-9bb8-59ae51b56e9f",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "cca7202e-db9b-4e60-a5b6-9ad9feb0759b": {
+      "start": 91192.5,
+      "end": 91554,
+      "id": "cca7202e-db9b-4e60-a5b6-9ad9feb0759b",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "cca7202e-db9b-4e60-a5b6-9ad9feb0759b",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "a0841947-a6ad-40df-bf5b-234b1266e506": {
+      "start": 91611.5,
+      "end": 91952.5,
+      "id": "a0841947-a6ad-40df-bf5b-234b1266e506",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "a0841947-a6ad-40df-bf5b-234b1266e506",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "a89588d2-4f2a-4446-8769-a45bb8480bc4": {
+      "start": 92003.5,
+      "end": 92701,
+      "id": "a89588d2-4f2a-4446-8769-a45bb8480bc4",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "a89588d2-4f2a-4446-8769-a45bb8480bc4",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "541f0257-709f-41b0-b586-dacaca36895b": {
+      "start": 92781.5,
+      "end": 92989.5,
+      "id": "541f0257-709f-41b0-b586-dacaca36895b",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "541f0257-709f-41b0-b586-dacaca36895b",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "901b844a-1d70-47af-ba25-f5c3e2e7d17a": {
+      "start": 93048.5,
+      "end": 93328,
+      "id": "901b844a-1d70-47af-ba25-f5c3e2e7d17a",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "901b844a-1d70-47af-ba25-f5c3e2e7d17a",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "caa5d5fe-a65d-4f1a-aa40-a3c16434c76d": {
+      "start": 93391.5,
+      "end": 93881.5,
+      "id": "caa5d5fe-a65d-4f1a-aa40-a3c16434c76d",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "caa5d5fe-a65d-4f1a-aa40-a3c16434c76d",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "59891216-72c0-4174-8578-6699698e35ef": {
+      "start": 93948,
+      "end": 95025.5,
+      "id": "59891216-72c0-4174-8578-6699698e35ef",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "59891216-72c0-4174-8578-6699698e35ef",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "93786e2b-0c1b-4bf5-9108-aae2b901d601": {
+      "start": 95135,
+      "end": 95193,
+      "id": "93786e2b-0c1b-4bf5-9108-aae2b901d601",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "93786e2b-0c1b-4bf5-9108-aae2b901d601",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d19aa34d-6c7d-4b05-a53e-fc9d865081fb": {
+      "start": 95260.5,
+      "end": 95591.5,
+      "id": "d19aa34d-6c7d-4b05-a53e-fc9d865081fb",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "d19aa34d-6c7d-4b05-a53e-fc9d865081fb",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "92c0518e-2072-4480-b013-a4406439fac6": {
+      "start": 95654,
+      "end": 96225.5,
+      "id": "92c0518e-2072-4480-b013-a4406439fac6",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "92c0518e-2072-4480-b013-a4406439fac6",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d1b950f9-5778-45ac-9eeb-d28d62e03c39": {
+      "start": 96286.5,
+      "end": 97271.5,
+      "id": "d1b950f9-5778-45ac-9eeb-d28d62e03c39",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "d1b950f9-5778-45ac-9eeb-d28d62e03c39",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "2d3f7cdc-720c-40c2-9fd3-8c443da968a8": {
+      "start": 97344,
+      "end": 97405,
+      "id": "2d3f7cdc-720c-40c2-9fd3-8c443da968a8",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "2d3f7cdc-720c-40c2-9fd3-8c443da968a8",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "79747130-f8ec-435b-b5b3-cff903959785": {
+      "start": 97467,
+      "end": 98204.5,
+      "id": "79747130-f8ec-435b-b5b3-cff903959785",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "79747130-f8ec-435b-b5b3-cff903959785",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "4943590f-6869-4a93-b5be-d9530e852954": {
+      "start": 98276.5,
+      "end": 98754.5,
+      "id": "4943590f-6869-4a93-b5be-d9530e852954",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "4943590f-6869-4a93-b5be-d9530e852954",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "2c71cecf-7d44-4e99-b39b-c48ce4aa7a7d": {
+      "start": 98815,
+      "end": 99422.5,
+      "id": "2c71cecf-7d44-4e99-b39b-c48ce4aa7a7d",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "2c71cecf-7d44-4e99-b39b-c48ce4aa7a7d",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c63ba6ec-696e-4cd4-9a77-741df7372e51": {
+      "start": 99507.5,
+      "end": 99930,
+      "id": "c63ba6ec-696e-4cd4-9a77-741df7372e51",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "c63ba6ec-696e-4cd4-9a77-741df7372e51",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "ac241776-d74f-4649-9105-200644911b98": {
+      "start": 99980.5,
+      "end": 100423,
+      "id": "ac241776-d74f-4649-9105-200644911b98",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "ac241776-d74f-4649-9105-200644911b98",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d10ba8a6-d846-4050-a4f4-4569e0d19da9": {
+      "start": 100485,
+      "end": 101012.5,
+      "id": "d10ba8a6-d846-4050-a4f4-4569e0d19da9",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "d10ba8a6-d846-4050-a4f4-4569e0d19da9",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "3e879f33-1f54-4afc-84ec-04441bc14d4e": {
+      "start": 101090.5,
+      "end": 101593.5,
+      "id": "3e879f33-1f54-4afc-84ec-04441bc14d4e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "3e879f33-1f54-4afc-84ec-04441bc14d4e",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "0dfc462e-160c-4e07-a51b-77675c9a8eb9": {
+      "start": 101645.5,
+      "end": 102662,
+      "id": "0dfc462e-160c-4e07-a51b-77675c9a8eb9",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "0dfc462e-160c-4e07-a51b-77675c9a8eb9",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "37d71557-79eb-46d0-8031-804d1ce8d50f": {
+      "start": 102717.5,
+      "end": 103374,
+      "id": "37d71557-79eb-46d0-8031-804d1ce8d50f",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "37d71557-79eb-46d0-8031-804d1ce8d50f",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c0a2f7fc-15d9-4ea4-b33a-cd9f360d1b96": {
+      "start": 103439.5,
+      "end": 103662.5,
+      "id": "c0a2f7fc-15d9-4ea4-b33a-cd9f360d1b96",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "c0a2f7fc-15d9-4ea4-b33a-cd9f360d1b96",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "7e91843d-55a0-478d-9efd-5bfe798b56b0": {
+      "start": 103772,
+      "end": 103829,
+      "id": "7e91843d-55a0-478d-9efd-5bfe798b56b0",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "7e91843d-55a0-478d-9efd-5bfe798b56b0",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "7337f9dc-dda5-4e30-9d83-c860be27b7df": {
+      "start": 103897.5,
+      "end": 104387.5,
+      "id": "7337f9dc-dda5-4e30-9d83-c860be27b7df",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "7337f9dc-dda5-4e30-9d83-c860be27b7df",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "fce117f8-fc5b-4fac-9a7f-39f1d043b192": {
+      "start": 104447,
+      "end": 104888.5,
+      "id": "fce117f8-fc5b-4fac-9a7f-39f1d043b192",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "fce117f8-fc5b-4fac-9a7f-39f1d043b192",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "258c6725-74ec-4fff-a6c2-2f1b333b43d8": {
+      "start": 104958,
+      "end": 105147.5,
+      "id": "258c6725-74ec-4fff-a6c2-2f1b333b43d8",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "258c6725-74ec-4fff-a6c2-2f1b333b43d8",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c791cd01-a567-4dc3-838f-b70e99e76615": {
+      "start": 105205.5,
+      "end": 105677.5,
+      "id": "c791cd01-a567-4dc3-838f-b70e99e76615",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "c791cd01-a567-4dc3-838f-b70e99e76615",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e7cfbb26-59d6-4617-807d-f42e7b5b56a8": {
+      "start": 105737.5,
+      "end": 106018.5,
+      "id": "e7cfbb26-59d6-4617-807d-f42e7b5b56a8",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "e7cfbb26-59d6-4617-807d-f42e7b5b56a8",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "79f6eecd-ee67-49e0-9d15-23b506c5b648": {
+      "start": 106096,
+      "end": 106158.5,
+      "id": "79f6eecd-ee67-49e0-9d15-23b506c5b648",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "79f6eecd-ee67-49e0-9d15-23b506c5b648",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c36a8f05-9def-4c2f-8923-b3c13a765f54": {
+      "start": 106234,
+      "end": 106963.5,
+      "id": "c36a8f05-9def-4c2f-8923-b3c13a765f54",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "c36a8f05-9def-4c2f-8923-b3c13a765f54",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e68ccab0-905d-48d9-95be-0b798ffea52b": {
+      "start": 107032.5,
+      "end": 107663,
+      "id": "e68ccab0-905d-48d9-95be-0b798ffea52b",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "e68ccab0-905d-48d9-95be-0b798ffea52b",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "bb2463c0-ddf5-46de-b7ee-8a2289911c0e": {
+      "start": 107721.5,
+      "end": 107822,
+      "id": "bb2463c0-ddf5-46de-b7ee-8a2289911c0e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "bb2463c0-ddf5-46de-b7ee-8a2289911c0e",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c6179d66-9d43-4388-b793-832f5ee95e61": {
+      "start": 107924,
+      "end": 107980,
+      "id": "c6179d66-9d43-4388-b793-832f5ee95e61",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "c6179d66-9d43-4388-b793-832f5ee95e61",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c50e3bb1-b814-42de-a51f-68b27d561622": {
+      "start": 108059.5,
+      "end": 108391,
+      "id": "c50e3bb1-b814-42de-a51f-68b27d561622",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "c50e3bb1-b814-42de-a51f-68b27d561622",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "3baa1f3f-0e41-41a9-b849-24b4d8eb4735": {
+      "start": 108471,
+      "end": 108656,
+      "id": "3baa1f3f-0e41-41a9-b849-24b4d8eb4735",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "3baa1f3f-0e41-41a9-b849-24b4d8eb4735",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b3d89f39-c1c7-4283-8e8d-060a779cf817": {
+      "start": 108740,
+      "end": 109388,
+      "id": "b3d89f39-c1c7-4283-8e8d-060a779cf817",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "b3d89f39-c1c7-4283-8e8d-060a779cf817",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "11ca7a4e-b1be-4420-bf04-945e0841e32c": {
+      "start": 109446,
+      "end": 109624.5,
+      "id": "11ca7a4e-b1be-4420-bf04-945e0841e32c",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "11ca7a4e-b1be-4420-bf04-945e0841e32c",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "2d021cd3-c5f5-49ea-9924-252b25015ac3": {
+      "start": 109677.5,
+      "end": 109751.5,
+      "id": "2d021cd3-c5f5-49ea-9924-252b25015ac3",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "2d021cd3-c5f5-49ea-9924-252b25015ac3",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "9b0dab33-6e1d-4dc2-b8c2-e0b82cd4a6c9": {
+      "start": 109801.5,
+      "end": 110469.5,
+      "id": "9b0dab33-6e1d-4dc2-b8c2-e0b82cd4a6c9",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "9b0dab33-6e1d-4dc2-b8c2-e0b82cd4a6c9",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "168391e7-faa5-4764-8543-57a190a5eef3": {
+      "start": 110585,
+      "end": 110641.5,
+      "id": "168391e7-faa5-4764-8543-57a190a5eef3",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "168391e7-faa5-4764-8543-57a190a5eef3",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b733d865-3424-48f5-9a8c-5b430acb03d6": {
+      "start": 110712.5,
+      "end": 111124.5,
+      "id": "b733d865-3424-48f5-9a8c-5b430acb03d6",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "b733d865-3424-48f5-9a8c-5b430acb03d6",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b4d0ff05-eecb-4fd5-be6c-a552941bb616": {
+      "start": 111187,
+      "end": 111674,
+      "id": "b4d0ff05-eecb-4fd5-be6c-a552941bb616",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "b4d0ff05-eecb-4fd5-be6c-a552941bb616",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "0b3cf51d-aa84-444a-bcea-51afc054676d": {
+      "start": 111729,
+      "end": 112601,
+      "id": "0b3cf51d-aa84-444a-bcea-51afc054676d",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "0b3cf51d-aa84-444a-bcea-51afc054676d",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "2416ce32-b074-4ff5-ba1d-23c8baec0013": {
+      "start": 112687.5,
+      "end": 112751,
+      "id": "2416ce32-b074-4ff5-ba1d-23c8baec0013",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "2416ce32-b074-4ff5-ba1d-23c8baec0013",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "537d674d-17ff-42f2-9265-7fb09a8e8d19": {
+      "start": 112821.5,
+      "end": 113313,
+      "id": "537d674d-17ff-42f2-9265-7fb09a8e8d19",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "537d674d-17ff-42f2-9265-7fb09a8e8d19",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "6ed542eb-8485-4b02-acaf-944c8a678bcc": {
+      "start": 113364.5,
+      "end": 114084,
+      "id": "6ed542eb-8485-4b02-acaf-944c8a678bcc",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "6ed542eb-8485-4b02-acaf-944c8a678bcc",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "3645a796-9892-4894-821c-751da3ac749f": {
+      "start": 114145.5,
+      "end": 114419.5,
+      "id": "3645a796-9892-4894-821c-751da3ac749f",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "3645a796-9892-4894-821c-751da3ac749f",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "190123d1-354e-44ab-b800-3e9fd1e75b90": {
+      "start": 114546,
+      "end": 114591.5,
+      "id": "190123d1-354e-44ab-b800-3e9fd1e75b90",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "190123d1-354e-44ab-b800-3e9fd1e75b90",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "8697b713-5a3d-4143-9cd2-2fe893925d0b": {
+      "start": 114658,
+      "end": 115301,
+      "id": "8697b713-5a3d-4143-9cd2-2fe893925d0b",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "8697b713-5a3d-4143-9cd2-2fe893925d0b",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "94a0bc81-b2fa-475b-babd-99ecb40426a0": {
+      "start": 115359,
+      "end": 115617.5,
+      "id": "94a0bc81-b2fa-475b-babd-99ecb40426a0",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "94a0bc81-b2fa-475b-babd-99ecb40426a0",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "96677d0a-90c2-4026-bfe1-f929676ef108": {
+      "start": 115673.5,
+      "end": 115911,
+      "id": "96677d0a-90c2-4026-bfe1-f929676ef108",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "96677d0a-90c2-4026-bfe1-f929676ef108",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "82056e74-8cb3-4888-bac3-77a470d8d1a7": {
+      "start": 116012,
+      "end": 116070,
+      "id": "82056e74-8cb3-4888-bac3-77a470d8d1a7",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "82056e74-8cb3-4888-bac3-77a470d8d1a7",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "2e68a22e-b3fa-428d-875e-4fed74592e9e": {
+      "start": 116143,
+      "end": 116451,
+      "id": "2e68a22e-b3fa-428d-875e-4fed74592e9e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "2e68a22e-b3fa-428d-875e-4fed74592e9e",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "05b55729-1b9a-4405-9b8d-88eb8f75a8df": {
+      "start": 116508,
+      "end": 116746.5,
+      "id": "05b55729-1b9a-4405-9b8d-88eb8f75a8df",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "05b55729-1b9a-4405-9b8d-88eb8f75a8df",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "39b03ee8-23fd-400d-b80b-7f19a3faf400": {
+      "start": 116798,
+      "end": 117286,
+      "id": "39b03ee8-23fd-400d-b80b-7f19a3faf400",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "39b03ee8-23fd-400d-b80b-7f19a3faf400",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "35662068-1ccc-4d8d-a436-0fb65f6b3792": {
+      "start": 117345.5,
+      "end": 117550,
+      "id": "35662068-1ccc-4d8d-a436-0fb65f6b3792",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "35662068-1ccc-4d8d-a436-0fb65f6b3792",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b1be254a-de3a-4a4c-8d62-b21e7955b33b": {
+      "start": 117604,
+      "end": 118248.5,
+      "id": "b1be254a-de3a-4a4c-8d62-b21e7955b33b",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "b1be254a-de3a-4a4c-8d62-b21e7955b33b",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b7912f3c-f2a1-42ac-a5fc-72107b8b8b2f": {
+      "start": 118372,
+      "end": 118426,
+      "id": "b7912f3c-f2a1-42ac-a5fc-72107b8b8b2f",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "b7912f3c-f2a1-42ac-a5fc-72107b8b8b2f",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "73f42559-3881-4f8c-ad3d-407218f8438d": {
+      "start": 118510.5,
+      "end": 118863,
+      "id": "73f42559-3881-4f8c-ad3d-407218f8438d",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "73f42559-3881-4f8c-ad3d-407218f8438d",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "33744d86-f32f-4a2c-abb4-1a34bf2bb35d": {
+      "start": 118927.5,
+      "end": 119169,
+      "id": "33744d86-f32f-4a2c-abb4-1a34bf2bb35d",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "33744d86-f32f-4a2c-abb4-1a34bf2bb35d",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "cf06e512-8c59-4084-ab05-ec07d2cfd84c": {
+      "start": 119222.5,
+      "end": 119382.5,
+      "id": "cf06e512-8c59-4084-ab05-ec07d2cfd84c",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "cf06e512-8c59-4084-ab05-ec07d2cfd84c",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "1b94cf7b-02b2-4b05-a8d9-00454704c9f0": {
+      "start": 119440.5,
+      "end": 119923,
+      "id": "1b94cf7b-02b2-4b05-a8d9-00454704c9f0",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "1b94cf7b-02b2-4b05-a8d9-00454704c9f0",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "47d5b97b-ddad-4a89-84db-8f5deab3cbdc": {
+      "start": 119978,
+      "end": 120566.5,
+      "id": "47d5b97b-ddad-4a89-84db-8f5deab3cbdc",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "47d5b97b-ddad-4a89-84db-8f5deab3cbdc",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "4ede3c43-c116-4da5-a6d8-8927360e3d72": {
+      "start": 120676,
+      "end": 120735.5,
+      "id": "4ede3c43-c116-4da5-a6d8-8927360e3d72",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "4ede3c43-c116-4da5-a6d8-8927360e3d72",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "7e9c3364-94e6-49e7-a18e-8823ee778019": {
+      "start": 120801.5,
+      "end": 121003,
+      "id": "7e9c3364-94e6-49e7-a18e-8823ee778019",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "7e9c3364-94e6-49e7-a18e-8823ee778019",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d8d0c9e5-9878-4eff-91bd-8ddf6ee31ef5": {
+      "start": 121053.5,
+      "end": 121236,
+      "id": "d8d0c9e5-9878-4eff-91bd-8ddf6ee31ef5",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "d8d0c9e5-9878-4eff-91bd-8ddf6ee31ef5",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e548856b-7cc6-41cc-8a14-51d5f2608248": {
+      "start": 121298.5,
+      "end": 121495.5,
+      "id": "e548856b-7cc6-41cc-8a14-51d5f2608248",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "e548856b-7cc6-41cc-8a14-51d5f2608248",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "45c423cb-2f1e-44d4-b40c-7bec5804ffc7": {
+      "start": 121549.5,
+      "end": 122195,
+      "id": "45c423cb-2f1e-44d4-b40c-7bec5804ffc7",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "45c423cb-2f1e-44d4-b40c-7bec5804ffc7",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "f2eb55c2-4667-4406-af53-e4e72a4bb41e": {
+      "start": 122276,
+      "end": 122810.5,
+      "id": "f2eb55c2-4667-4406-af53-e4e72a4bb41e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "f2eb55c2-4667-4406-af53-e4e72a4bb41e",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "640d01a0-bf25-4958-a460-a73b7ba6ae40": {
+      "start": 122933,
+      "end": 122992,
+      "id": "640d01a0-bf25-4958-a460-a73b7ba6ae40",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "640d01a0-bf25-4958-a460-a73b7ba6ae40",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "91c4059e-78b8-4201-83c0-7306b192bf39": {
+      "start": 123060,
+      "end": 123700,
+      "id": "91c4059e-78b8-4201-83c0-7306b192bf39",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "91c4059e-78b8-4201-83c0-7306b192bf39",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d1d700cf-6c81-453c-8630-57d6d2026c2f": {
+      "start": 123751.5,
+      "end": 124273,
+      "id": "d1d700cf-6c81-453c-8630-57d6d2026c2f",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "d1d700cf-6c81-453c-8630-57d6d2026c2f",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "8d98b35f-7633-4ebf-af17-d91694afd4ff": {
+      "start": 124330.5,
+      "end": 124512.5,
+      "id": "8d98b35f-7633-4ebf-af17-d91694afd4ff",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "8d98b35f-7633-4ebf-af17-d91694afd4ff",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "91fab473-e358-49bb-a399-ad26b77c8cea": {
+      "start": 124584,
+      "end": 125160.5,
+      "id": "91fab473-e358-49bb-a399-ad26b77c8cea",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "91fab473-e358-49bb-a399-ad26b77c8cea",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "69601500-3ae7-4a95-8aef-6a26208ff2fe": {
+      "start": 125220.5,
+      "end": 126193.5,
+      "id": "69601500-3ae7-4a95-8aef-6a26208ff2fe",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "69601500-3ae7-4a95-8aef-6a26208ff2fe",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "181e5bf3-13f3-4459-a388-a2917e2311de": {
+      "start": 126303.5,
+      "end": 126361.5,
+      "id": "181e5bf3-13f3-4459-a388-a2917e2311de",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "181e5bf3-13f3-4459-a388-a2917e2311de",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b345dfcf-aa65-4b1b-8303-109dae7e6913": {
+      "start": 126429.5,
+      "end": 126708.5,
+      "id": "b345dfcf-aa65-4b1b-8303-109dae7e6913",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "b345dfcf-aa65-4b1b-8303-109dae7e6913",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "9a982475-49f5-4daa-97a4-29d82921d040": {
+      "start": 126766,
+      "end": 126923,
+      "id": "9a982475-49f5-4daa-97a4-29d82921d040",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "9a982475-49f5-4daa-97a4-29d82921d040",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e1161f01-7525-47ab-8ef0-568b9ee441e3": {
+      "start": 127005,
+      "end": 127376,
+      "id": "e1161f01-7525-47ab-8ef0-568b9ee441e3",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "e1161f01-7525-47ab-8ef0-568b9ee441e3",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "1d53f2c1-dd31-43f7-8f4c-26217bf52388": {
+      "start": 127432,
+      "end": 127762.5,
+      "id": "1d53f2c1-dd31-43f7-8f4c-26217bf52388",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "1d53f2c1-dd31-43f7-8f4c-26217bf52388",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "50fa9c2e-8d2d-448b-a0b5-68d474e01adb": {
+      "start": 127815,
+      "end": 128263.5,
+      "id": "50fa9c2e-8d2d-448b-a0b5-68d474e01adb",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "50fa9c2e-8d2d-448b-a0b5-68d474e01adb",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "3c5ebbcb-09f9-473a-88c4-c6dbfb9f24a9": {
+      "start": 128370,
+      "end": 128427.5,
+      "id": "3c5ebbcb-09f9-473a-88c4-c6dbfb9f24a9",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "3c5ebbcb-09f9-473a-88c4-c6dbfb9f24a9",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "2c2f6f0f-9e07-498f-a0a8-f2b5e1362040": {
+      "start": 128499.5,
+      "end": 128930,
+      "id": "2c2f6f0f-9e07-498f-a0a8-f2b5e1362040",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "2c2f6f0f-9e07-498f-a0a8-f2b5e1362040",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "def945af-0782-494f-a6e6-5183884fa1b5": {
+      "start": 128985,
+      "end": 129404,
+      "id": "def945af-0782-494f-a6e6-5183884fa1b5",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "def945af-0782-494f-a6e6-5183884fa1b5",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "bf9d7172-9046-4cec-bcc1-36cad825507c": {
+      "start": 129459,
+      "end": 130289,
+      "id": "bf9d7172-9046-4cec-bcc1-36cad825507c",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "bf9d7172-9046-4cec-bcc1-36cad825507c",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "a0fb9459-aa12-405b-8f61-1a9445e13689": {
+      "start": 130369.5,
+      "end": 130428.5,
+      "id": "a0fb9459-aa12-405b-8f61-1a9445e13689",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "a0fb9459-aa12-405b-8f61-1a9445e13689",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d198d1ee-7fce-4800-b096-bb3aab5a1b67": {
+      "start": 130495.5,
+      "end": 130903.5,
+      "id": "d198d1ee-7fce-4800-b096-bb3aab5a1b67",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "d198d1ee-7fce-4800-b096-bb3aab5a1b67",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "93b36701-25c7-4a96-9ef6-11b00b19c8d7": {
+      "start": 130954.5,
+      "end": 131141.5,
+      "id": "93b36701-25c7-4a96-9ef6-11b00b19c8d7",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "93b36701-25c7-4a96-9ef6-11b00b19c8d7",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "a5b8edfa-5288-44d1-a448-8c1d4d0e8781": {
+      "start": 131213,
+      "end": 132283.5,
+      "id": "a5b8edfa-5288-44d1-a448-8c1d4d0e8781",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "a5b8edfa-5288-44d1-a448-8c1d4d0e8781",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "7c97b4b8-5240-43a1-bd6e-47d0d3d8b6de": {
+      "start": 132339.5,
+      "end": 132737,
+      "id": "7c97b4b8-5240-43a1-bd6e-47d0d3d8b6de",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "7c97b4b8-5240-43a1-bd6e-47d0d3d8b6de",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "8efb1381-a687-4cc9-975e-788d8684f0aa": {
+      "start": 132787.5,
+      "end": 133261,
+      "id": "8efb1381-a687-4cc9-975e-788d8684f0aa",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "8efb1381-a687-4cc9-975e-788d8684f0aa",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "00922cf4-5984-4e6e-9529-28ba2bf50998": {
+      "start": 133354,
+      "end": 133409.5,
+      "id": "00922cf4-5984-4e6e-9529-28ba2bf50998",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "00922cf4-5984-4e6e-9529-28ba2bf50998",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "0752e84c-12bc-406d-bce5-0ccc0c11ee84": {
+      "start": 133474.5,
+      "end": 134023.5,
+      "id": "0752e84c-12bc-406d-bce5-0ccc0c11ee84",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "0752e84c-12bc-406d-bce5-0ccc0c11ee84",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "d73a2da9-2ac1-4c05-8421-2308ef39b6b5": {
+      "start": 134084.5,
+      "end": 134516.5,
+      "id": "d73a2da9-2ac1-4c05-8421-2308ef39b6b5",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "d73a2da9-2ac1-4c05-8421-2308ef39b6b5",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "4969f42e-cfe3-4174-88a4-826f65d27c5b": {
+      "start": 134622.5,
+      "end": 134682.5,
+      "id": "4969f42e-cfe3-4174-88a4-826f65d27c5b",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "4969f42e-cfe3-4174-88a4-826f65d27c5b",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "28f56b43-5e44-4e77-a650-3452fe4206c3": {
+      "start": 134754.5,
+      "end": 135543,
+      "id": "28f56b43-5e44-4e77-a650-3452fe4206c3",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "28f56b43-5e44-4e77-a650-3452fe4206c3",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "813e75f4-43db-4852-937a-2300e39f0885": {
+      "start": 135602.5,
+      "end": 135867,
+      "id": "813e75f4-43db-4852-937a-2300e39f0885",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "813e75f4-43db-4852-937a-2300e39f0885",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "68e872c5-6764-4c60-8ef4-23d341491593": {
+      "start": 135929,
+      "end": 136139,
+      "id": "68e872c5-6764-4c60-8ef4-23d341491593",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "68e872c5-6764-4c60-8ef4-23d341491593",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "36c53be5-0ace-49a1-9b74-e4599ff112e7": {
+      "start": 136244,
+      "end": 136290,
+      "id": "36c53be5-0ace-49a1-9b74-e4599ff112e7",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "36c53be5-0ace-49a1-9b74-e4599ff112e7",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c73d4511-604b-4a5f-8dfd-f75c2d1e8ab0": {
+      "start": 136367,
+      "end": 136759.5,
+      "id": "c73d4511-604b-4a5f-8dfd-f75c2d1e8ab0",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "c73d4511-604b-4a5f-8dfd-f75c2d1e8ab0",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "469341ea-35db-4a66-b573-f1d49e863959": {
+      "start": 136833.5,
+      "end": 137179.5,
+      "id": "469341ea-35db-4a66-b573-f1d49e863959",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "469341ea-35db-4a66-b573-f1d49e863959",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "611fc380-a2da-4205-ade3-293916072ff4": {
+      "start": 137239.5,
+      "end": 137610.5,
+      "id": "611fc380-a2da-4205-ade3-293916072ff4",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "611fc380-a2da-4205-ade3-293916072ff4",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "6e04858d-f45a-4712-afda-7741d27635bb": {
+      "start": 137706.5,
+      "end": 137765.5,
+      "id": "6e04858d-f45a-4712-afda-7741d27635bb",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "6e04858d-f45a-4712-afda-7741d27635bb",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "391aad82-997e-49af-8ca9-ce539a8a28f9": {
+      "start": 137834,
+      "end": 138589.5,
+      "id": "391aad82-997e-49af-8ca9-ce539a8a28f9",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "391aad82-997e-49af-8ca9-ce539a8a28f9",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "6a28d21c-5748-4dbc-b7cd-9c33ceb4d69c": {
+      "start": 138702,
+      "end": 138761.5,
+      "id": "6a28d21c-5748-4dbc-b7cd-9c33ceb4d69c",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "6a28d21c-5748-4dbc-b7cd-9c33ceb4d69c",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c07b29ea-96ca-4d16-96b5-be7fc7cb2d08": {
+      "start": 138833.5,
+      "end": 139257,
+      "id": "c07b29ea-96ca-4d16-96b5-be7fc7cb2d08",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "c07b29ea-96ca-4d16-96b5-be7fc7cb2d08",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "3a3b307b-19f0-44d2-8c70-aaf804681aa0": {
+      "start": 139311,
+      "end": 139978,
+      "id": "3a3b307b-19f0-44d2-8c70-aaf804681aa0",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "3a3b307b-19f0-44d2-8c70-aaf804681aa0",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "6923c109-ff0c-48d9-9125-fca7d366a504": {
+      "start": 140078.5,
+      "end": 140139,
+      "id": "6923c109-ff0c-48d9-9125-fca7d366a504",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "6923c109-ff0c-48d9-9125-fca7d366a504",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "a481ed94-c552-40b7-8eb4-96efd48503ec": {
+      "start": 140211,
+      "end": 140652,
+      "id": "a481ed94-c552-40b7-8eb4-96efd48503ec",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "a481ed94-c552-40b7-8eb4-96efd48503ec",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "5579d0a1-7ec1-46d8-bec9-704f39b0f13d": {
+      "start": 140715.5,
+      "end": 141063,
+      "id": "5579d0a1-7ec1-46d8-bec9-704f39b0f13d",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "5579d0a1-7ec1-46d8-bec9-704f39b0f13d",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "f12f400f-d300-4a38-85e7-98b1dd67814c": {
+      "start": 141126,
+      "end": 141921,
+      "id": "f12f400f-d300-4a38-85e7-98b1dd67814c",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "f12f400f-d300-4a38-85e7-98b1dd67814c",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "27bf7255-ce3c-4e1d-8c7d-2e8c1ab01383": {
+      "start": 141996.5,
+      "end": 142062,
+      "id": "27bf7255-ce3c-4e1d-8c7d-2e8c1ab01383",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "27bf7255-ce3c-4e1d-8c7d-2e8c1ab01383",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "8965bca2-485c-4016-adee-282830b87bbc": {
+      "start": 142115.5,
+      "end": 142798.5,
+      "id": "8965bca2-485c-4016-adee-282830b87bbc",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "8965bca2-485c-4016-adee-282830b87bbc",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "24a16676-f7e1-48ca-93cb-dae7b12c9a86": {
+      "start": 142855.5,
+      "end": 143275.5,
+      "id": "24a16676-f7e1-48ca-93cb-dae7b12c9a86",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "24a16676-f7e1-48ca-93cb-dae7b12c9a86",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "386fa9a6-9168-42bd-b90c-5f82b2bc8171": {
+      "start": 143326,
+      "end": 143583.5,
+      "id": "386fa9a6-9168-42bd-b90c-5f82b2bc8171",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "386fa9a6-9168-42bd-b90c-5f82b2bc8171",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "e2931b68-5682-4a5d-9b55-ac454c69c4d4": {
+      "start": 143672.5,
+      "end": 143732,
+      "id": "e2931b68-5682-4a5d-9b55-ac454c69c4d4",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "e2931b68-5682-4a5d-9b55-ac454c69c4d4",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "b8e80d97-fe81-48fb-a856-74934df988f3": {
+      "start": 143794,
+      "end": 144075,
+      "id": "b8e80d97-fe81-48fb-a856-74934df988f3",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "b8e80d97-fe81-48fb-a856-74934df988f3",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "da8b66b6-2548-48f9-8c3f-597f17b48c8c": {
+      "start": 144135,
+      "end": 144406,
+      "id": "da8b66b6-2548-48f9-8c3f-597f17b48c8c",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "da8b66b6-2548-48f9-8c3f-597f17b48c8c",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "02e04ef1-0ec4-45f3-86d9-4f0cc15a4f25": {
+      "start": 144465.5,
+      "end": 144767.5,
+      "id": "02e04ef1-0ec4-45f3-86d9-4f0cc15a4f25",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "02e04ef1-0ec4-45f3-86d9-4f0cc15a4f25",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "242d8d90-615f-451d-8728-8858daa2563c": {
+      "start": 144844.5,
+      "end": 145114.5,
+      "id": "242d8d90-615f-451d-8728-8858daa2563c",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "242d8d90-615f-451d-8728-8858daa2563c",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "94a9c9d6-6e00-43b0-bd12-b07cf4287027": {
+      "start": 145222,
+      "end": 145281,
+      "id": "94a9c9d6-6e00-43b0-bd12-b07cf4287027",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "94a9c9d6-6e00-43b0-bd12-b07cf4287027",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "0491fb5b-e6b6-4df6-af78-a637088f490f": {
+      "start": 145373.5,
+      "end": 145607.5,
+      "id": "0491fb5b-e6b6-4df6-af78-a637088f490f",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "0491fb5b-e6b6-4df6-af78-a637088f490f",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "ef4df307-b4a1-4cb7-b2ce-9df70ade54d4": {
+      "start": 145669,
+      "end": 145963.5,
+      "id": "ef4df307-b4a1-4cb7-b2ce-9df70ade54d4",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "ef4df307-b4a1-4cb7-b2ce-9df70ade54d4",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "7fe1140a-6d98-47f6-8883-d084dbacfebb": {
+      "start": 146021.5,
+      "end": 146320.5,
+      "id": "7fe1140a-6d98-47f6-8883-d084dbacfebb",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "7fe1140a-6d98-47f6-8883-d084dbacfebb",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "f7868107-e753-4949-9242-904cf3adb23b": {
+      "start": 146386.5,
+      "end": 146853,
+      "id": "f7868107-e753-4949-9242-904cf3adb23b",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "f7868107-e753-4949-9242-904cf3adb23b",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "4e153029-d0f7-457c-8f27-86f4ea3b2a62": {
+      "start": 146956.5,
+      "end": 147018,
+      "id": "4e153029-d0f7-457c-8f27-86f4ea3b2a62",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "4e153029-d0f7-457c-8f27-86f4ea3b2a62",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "96105d32-bb5d-462f-8b96-2ea942f2cdef": {
+      "start": 147101,
+      "end": 147739.5,
+      "id": "96105d32-bb5d-462f-8b96-2ea942f2cdef",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "96105d32-bb5d-462f-8b96-2ea942f2cdef",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "a7b3cf09-a8f4-4d1c-9e0c-a1383ea9f90d": {
+      "start": 147790.5,
+      "end": 148344,
+      "id": "a7b3cf09-a8f4-4d1c-9e0c-a1383ea9f90d",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "a7b3cf09-a8f4-4d1c-9e0c-a1383ea9f90d",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "ed9b71c9-6346-4ad3-89d4-8628a14e2dfd": {
+      "start": 148410.5,
+      "end": 148688,
+      "id": "ed9b71c9-6346-4ad3-89d4-8628a14e2dfd",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "ed9b71c9-6346-4ad3-89d4-8628a14e2dfd",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "c033699d-1b60-4363-85b9-45de8b7d4ea8": {
+      "start": 148746,
+      "end": 149188.5,
+      "id": "c033699d-1b60-4363-85b9-45de8b7d4ea8",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "c033699d-1b60-4363-85b9-45de8b7d4ea8",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "fbde4219-626f-4566-a5e1-14bdb06b1371": {
+      "start": 149305.5,
+      "end": 149364,
+      "id": "fbde4219-626f-4566-a5e1-14bdb06b1371",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "fbde4219-626f-4566-a5e1-14bdb06b1371",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "5ab97efa-a2d4-48a7-a9e3-9b368f39fc95": {
+      "start": 149434,
+      "end": 149919,
+      "id": "5ab97efa-a2d4-48a7-a9e3-9b368f39fc95",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "5ab97efa-a2d4-48a7-a9e3-9b368f39fc95",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "1c5481f6-7eac-4f16-b11c-63b36ff72c72": {
+      "start": 149996,
+      "end": 150374.5,
+      "id": "1c5481f6-7eac-4f16-b11c-63b36ff72c72",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "1c5481f6-7eac-4f16-b11c-63b36ff72c72",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "058babf9-4481-47fc-be87-c61385018fe2": {
+      "start": 150436.5,
+      "end": 150969,
+      "id": "058babf9-4481-47fc-be87-c61385018fe2",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "058babf9-4481-47fc-be87-c61385018fe2",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "1b01faf6-a7e2-4f20-9a0b-78add9ccbb16": {
+      "start": 151020.5,
+      "end": 151115.5,
+      "id": "1b01faf6-a7e2-4f20-9a0b-78add9ccbb16",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "1b01faf6-a7e2-4f20-9a0b-78add9ccbb16",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "00f937ab-c065-4bad-a622-715ff7621ab3": {
+      "start": 151226,
+      "end": 151289.5,
+      "id": "00f937ab-c065-4bad-a622-715ff7621ab3",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "00f937ab-c065-4bad-a622-715ff7621ab3",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "fe489138-05f0-461d-a791-607ecb8bb016": {
+      "start": 151353.5,
+      "end": 151623.5,
+      "id": "fe489138-05f0-461d-a791-607ecb8bb016",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "fe489138-05f0-461d-a791-607ecb8bb016",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "0eef68c1-db02-4164-8115-7542f849b8af": {
+      "start": 151681.5,
+      "end": 151920,
+      "id": "0eef68c1-db02-4164-8115-7542f849b8af",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "0eef68c1-db02-4164-8115-7542f849b8af",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "9900ed7c-cbac-4f44-824d-808730dfcf62": {
+      "start": 151977.5,
+      "end": 152408.5,
+      "id": "9900ed7c-cbac-4f44-824d-808730dfcf62",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "9900ed7c-cbac-4f44-824d-808730dfcf62",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "86d3d906-b579-4ffb-aa3a-e3f32475679b": {
+      "start": 152518.5,
+      "end": 152560,
+      "id": "86d3d906-b579-4ffb-aa3a-e3f32475679b",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "86d3d906-b579-4ffb-aa3a-e3f32475679b",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "1789b08b-5c84-4e39-9971-175465ff0f4e": {
+      "start": 152646.5,
+      "end": 153158.5,
+      "id": "1789b08b-5c84-4e39-9971-175465ff0f4e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "1789b08b-5c84-4e39-9971-175465ff0f4e",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "5bb8f70c-ca46-4455-99e0-5fbd35626bee": {
+      "start": 153209.5,
+      "end": 154590,
+      "id": "5bb8f70c-ca46-4455-99e0-5fbd35626bee",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "5bb8f70c-ca46-4455-99e0-5fbd35626bee",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "564eb6c7-e519-4382-8af2-a2b0181f44bc": {
+      "start": 154727.5,
+      "end": 154780,
+      "id": "564eb6c7-e519-4382-8af2-a2b0181f44bc",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "564eb6c7-e519-4382-8af2-a2b0181f44bc",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "cba9bc54-569b-47d0-8960-e8a3807cebe7": {
+      "start": 154879.5,
+      "end": 155996.5,
+      "id": "cba9bc54-569b-47d0-8960-e8a3807cebe7",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "cba9bc54-569b-47d0-8960-e8a3807cebe7",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "02f673fe-487d-44e9-9a9b-3dda7295d23d": {
+      "start": 156049.5,
+      "end": 156411,
+      "id": "02f673fe-487d-44e9-9a9b-3dda7295d23d",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "02f673fe-487d-44e9-9a9b-3dda7295d23d",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        }
+      }
+    },
+    "eb2d7150-3f5d-4bef-bfc1-bbd97d79c4f6": {
+      "start": 156480.5,
+      "end": 156484.45,
+      "id": "eb2d7150-3f5d-4bef-bfc1-bbd97d79c4f6",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "eb2d7150-3f5d-4bef-bfc1-bbd97d79c4f6",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "timestamp": "2019-09-15T14:25:46Z",
+  "timestamp": "2019-10-10T21:06:14Z",
   "name": "Classical Chinese",
   "id": "e659c9a0-ab1f-4b59-b67a-028beaace2d2",
   "noteType": "Transliteration",
@@ -21,7 +21,7 @@
     }
   ],
   "tags": [
-    "sanzijing", 
+    "sanzijing",
     "sanzijing-1-basics",
     "ddj",
     "sanzijing-2-confucian-classics",
@@ -2044,7 +2044,7 @@
         "fields": {
           "transcription": "若梁灝，八十二。\n對大廷，魁多士。",
           "pronunciation": "ruò liáng hào, ba shí èr.\nduì dà tíng, kuí duo shì.",
-          "meaning": "Then Liang Hao, at the age of eighty-two, faced the great hall, and became first among many scholars.",
+          "meaning": "Then Liang Hao, at the age of eighty-two,\nFaced the great hall, and became first among many scholars.",
           "notes": "[Liang Hao is] the personal name of a scholar who was born A.D. 913 but only succeeded in gaining the highest degree in 985 when already seventy-two, after which he lived for twenty years. The author of the San Tzŭ Ching has added the extra ten years. (Giles)"
         }
       }

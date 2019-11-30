@@ -1,35 +1,45 @@
 {
-  "version": "3.0.0",
-  "timestamp": "2019-10-10T21:06:14Z",
+  "version": "4.1.0",
+  "timestamp": "2019-11-30T19:41:03Z",
   "name": "Classical Chinese",
   "id": "e659c9a0-ab1f-4b59-b67a-028beaace2d2",
   "noteType": "Transliteration",
-  "mediaFilesMetadata": [
+  "mediaFiles": [
     {
       "id": "cda5f85f-b125-4a45-947e-eea1feb3f818",
+      "type": "MediaFile",
+      "parentId": "e659c9a0-ab1f-4b59-b67a-028beaace2d2",
       "name": "三字经.mp3",
       "durationSeconds": 818.05775,
+      "isVideo": false,
       "format": "mp3",
-      "isVideo": false
+      "flashcardFieldsToSubtitlesTracks": {},
+      "subtitles": [],
+      "subtitlesTracksStreamIndexes": []
     },
     {
       "id": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "type": "MediaFile",
+      "parentId": "e659c9a0-ab1f-4b59-b67a-028beaace2d2",
       "name": "daodejing_wangbi.m4a",
       "durationSeconds": 3129.689,
+      "isVideo": false,
       "format": "mov,mp4,m4a,3gp,3g2,mj2",
-      "isVideo": false
+      "flashcardFieldsToSubtitlesTracks": {},
+      "subtitles": [],
+      "subtitlesTracksStreamIndexes": []
     }
   ],
   "tags": [
     "sanzijing",
     "sanzijing-1-basics",
-    "ddj",
     "sanzijing-2-confucian-classics",
     "sanzijing-3-dynasties",
-    "sanzijing-4-exemplary-behaviors"
+    "sanzijing-4-exemplary-behaviors",
+    "ddj"
   ],
-  "clips": {
-    "9ccaeb66-d093-4bef-ad50-6a84f2cfd36e": {
+  "clips": [
+    {
       "start": 310.36,
       "end": 647.45,
       "id": "9ccaeb66-d093-4bef-ad50-6a84f2cfd36e",
@@ -49,26 +59,7 @@
         }
       }
     },
-    "f501adb8-cd3c-4e5a-84cf-3a476b169606": {
-      "start": 336.87,
-      "end": 1900.95,
-      "id": "f501adb8-cd3c-4e5a-84cf-3a476b169606",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "f501adb8-cd3c-4e5a-84cf-3a476b169606",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "道可道\n非常道\n名可名\n非常名\n無名天地之始\n有名萬物之母\n故常無欲\n以觀其妙\n常有欲以觀其徼\n此兩者同出而異名  \n  \n同謂之玄\n玄之又玄\n衆妙之門",
-          "pronunciation": "dào kee dào\nfei cháng dào\nmíng kee míng\nfei cháng míng\nwú míng tian dì zhi shii\nyoou míng wàn wù zhi muu\ngù cháng wú yù\nyii guan qí miào\ncháng yoou yù yii guan qí jiào\ncii liaang zhee tóng chu ér yì míng  \n  \ntóng wèi zhi xuán\nxuán zhi yòu xuán\nzhòng miào zhi mén",
-          "meaning": "The way that can be spoken of \nIs not the constant way; \nThe name that can be named \nIs not the constant name.  \n  \nThe nameless was the beginning of heaven and earth; \nThe named was the mother of the myriad creatures.  \n  \nHence always rid yourself of desires in order to observe its secrets; \nBut always allow yourself to have desires in order to observe its manifestations.  \n  \nThese two are the same \nBut diverge in name as they issue forth. \nBeing the same they are called mysteries, \nMystery upon mystery - \nThe gateway of the manifold secrets.",
-          "notes": "第1章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "75ff1917-c320-4351-8942-733530b8bf26": {
+    {
       "start": 702.45,
       "end": 1022.53,
       "id": "75ff1917-c320-4351-8942-733530b8bf26",
@@ -88,7 +79,7 @@
         }
       }
     },
-    "aa7079c6-a573-4e93-b5c5-f5212f213dc5": {
+    {
       "start": 1105.2,
       "end": 1401.57,
       "id": "aa7079c6-a573-4e93-b5c5-f5212f213dc5",
@@ -108,7 +99,7 @@
         }
       }
     },
-    "9c80b49a-acc8-4cde-8cde-6395b58cc331": {
+    {
       "start": 1466.67,
       "end": 1776.32,
       "id": "9c80b49a-acc8-4cde-8cde-6395b58cc331",
@@ -128,7 +119,7 @@
         }
       }
     },
-    "e2e64381-8a6f-4cb4-8009-e27be1b44850": {
+    {
       "start": 1858.96,
       "end": 2148.89,
       "id": "e2e64381-8a6f-4cb4-8009-e27be1b44850",
@@ -148,26 +139,7 @@
         }
       }
     },
-    "548b23ad-c6a6-4c8a-958b-b71b28685f1c": {
-      "start": 2088.39,
-      "end": 4392.53,
-      "id": "548b23ad-c6a6-4c8a-958b-b71b28685f1c",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "548b23ad-c6a6-4c8a-958b-b71b28685f1c",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "天下皆知美之爲美\n斯惡已\n皆知善之爲善\n斯不善已\n故有無相生\n難易相成\n長短相較\n高下相傾\n音聲相和\n前後相隨\n是以聖人處無爲之事\n行不言之教\n萬物作焉而不辭\n生而不有\n爲而不恃\n功成而弗居\n夫唯弗居\n是以不去",
-          "pronunciation": "tian xià jie zhi meei zhi wéi meei\nsi è yii\njie zhi shàn zhi wéi shàn\nsi bú shàn yii\ngù yoou wú xiang sheng\nnán yì xiang chéng\ncháng duaan xiang jiào\ngao xià xiang qing\nyin sheng xiang hé\nqián hòu xiang suí\nshì yii shèng rén chuu wú wéi zhi shì\nxíng bù yán zhi jiào\nwàn wù zuò yan ér bù cí\nsheng ér bù yoou\nwéi ér bú shì\ngong chéng ér fú ju\nfú wéi fú ju\nshì yii bú qù",
-          "meaning": "The whole world recognizes the beautiful as the beautiful, yet this is only the ugly; \nthe whole world recognizes the good as the good, yet this is only the bad.  \n  \nThus Something and Nothing produce each other; \nThe difficult and the easy complement each other; \nThe long and the short off-set each other; \nThe high and the low incline towards each other; \nNote and sound harmonize with each other; \nBefore and after follow each other.  \n  \nTherefore the sage keeps to the deed that consists in taking no action and practises the teaching that uses no words.  \n  \nThe myriad creatures rise from it yet it claims no authority; \nIt gives them life yet claims no possession; \nIt benefits them yet exacts no gratitude; \nIt accomplishes its task yet lays claim to no merit.  \n  \nIt is because it lays claim to no merit \nThat its merit never deserts it.",
-          "notes": "第2章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "a88a46e5-01fc-45c3-b6bb-2b687d34f403": {
+    {
       "start": 2207.51,
       "end": 2510.03,
       "id": "a88a46e5-01fc-45c3-b6bb-2b687d34f403",
@@ -187,7 +159,7 @@
         }
       }
     },
-    "80c38924-4ea7-4139-8086-f432c7d337c6": {
+    {
       "start": 2596.34,
       "end": 2880.92,
       "id": "80c38924-4ea7-4139-8086-f432c7d337c6",
@@ -207,7 +179,7 @@
         }
       }
     },
-    "5379cd23-358f-4028-8978-417ec222d130": {
+    {
       "start": 2947.68,
       "end": 3251.38,
       "id": "5379cd23-358f-4028-8978-417ec222d130",
@@ -227,7 +199,7 @@
         }
       }
     },
-    "6658ef6f-d3f7-4f6c-8731-bc11d7e53e4c": {
+    {
       "start": 3329.62,
       "end": 3672.13,
       "id": "6658ef6f-d3f7-4f6c-8731-bc11d7e53e4c",
@@ -247,7 +219,7 @@
         }
       }
     },
-    "403d81da-4234-4155-955a-cc4a680722cc": {
+    {
       "start": 3731.78,
       "end": 4071.54,
       "id": "403d81da-4234-4155-955a-cc4a680722cc",
@@ -267,7 +239,7 @@
         }
       }
     },
-    "51ab4691-427d-4e7b-918d-ce5e2b62fe48": {
+    {
       "start": 4143.57,
       "end": 4483.2,
       "id": "51ab4691-427d-4e7b-918d-ce5e2b62fe48",
@@ -287,7 +259,7 @@
         }
       }
     },
-    "5107812a-621e-452a-bad2-f5ee2b8ab073": {
+    {
       "start": 4561.18,
       "end": 4866.53,
       "id": "5107812a-621e-452a-bad2-f5ee2b8ab073",
@@ -307,26 +279,7 @@
         }
       }
     },
-    "234064b9-0e2b-4c8c-84e3-36bbeabb05a3": {
-      "start": 4623.21,
-      "end": 6346.95,
-      "id": "234064b9-0e2b-4c8c-84e3-36bbeabb05a3",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "234064b9-0e2b-4c8c-84e3-36bbeabb05a3",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "不尚賢\n使民不爭\n不貴難得之貨\n使民不爲盜  \n  \n不見可欲\n使民心不亂\n是以聖人之治\n虛其心\n實其腹\n弱其志\n強其骨\n常使民無知無欲\n使夫智者不敢爲也\n爲無爲\n則無不治",
-          "pronunciation": "bú shàng xián\nshii mín bù zheng\nbú guì nán dé zhi huò\nshii mín bù wéi dào  \n  \nbú jiàn/xiàn kee yù\nshii mín xin bú luàn\nshì yii shèng rén zhi zhì\nxu qí xin\nshí qí fù\nruò qí zhì\nqiáng qí guu\ncháng shii mín wú zhi wú yù\nshii fú zhì zhee bù gaan wéi yee\nwéi wú wéi\nzé wú bú zhì",
-          "meaning": "Not to honor men of worth will keep the people from contention; \nnot to value goods which are hard to come by will keep them from theft; \nnot to display what is desirable will keep them from being unsettled of mind.  \n  \nTherefore in governing the people, the sage empties their minds but fills their bellies, weakens their wills but strengthens their bones. \nHe always keeps them innocent of knowledge and free from desire, and ensures that the clever never dare to act.  \n  \nDo that which consists in taking no action, and order will prevail.",
-          "notes": "第3章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "66e39721-6560-49e2-b2cf-c0497ab00cfd": {
+    {
       "start": 4934.65,
       "end": 5275.8,
       "id": "66e39721-6560-49e2-b2cf-c0497ab00cfd",
@@ -346,7 +299,7 @@
         }
       }
     },
-    "764afd46-3839-4868-a2f9-5e0f63587d9e": {
+    {
       "start": 5329,
       "end": 5685.2,
       "id": "764afd46-3839-4868-a2f9-5e0f63587d9e",
@@ -366,7 +319,7 @@
         }
       }
     },
-    "24f14bb4-99ea-4536-a973-844b04af18ab": {
+    {
       "start": 5776.75,
       "end": 6124.25,
       "id": "24f14bb4-99ea-4536-a973-844b04af18ab",
@@ -386,7 +339,7 @@
         }
       }
     },
-    "dd28d60e-a5a2-437e-bae8-1cb6f3982a4f": {
+    {
       "start": 6185.1,
       "end": 6517,
       "id": "dd28d60e-a5a2-437e-bae8-1cb6f3982a4f",
@@ -406,26 +359,7 @@
         }
       }
     },
-    "09082185-5e55-4492-8ada-10c36b8da5b4": {
-      "start": 6563.2,
-      "end": 7688.85,
-      "id": "09082185-5e55-4492-8ada-10c36b8da5b4",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "09082185-5e55-4492-8ada-10c36b8da5b4",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "道沖而用之或不盈\n淵兮似萬物之宗\n挫其銳\n解其紛\n和其光\n同其塵\n湛兮似或存\n吾不知誰之子\n象帝之先",
-          "pronunciation": "dào chong ér yòng zhi huò bù yíng\nyuan xi sì wàn wù zhi zong\ncuò qí ruì\njiee qí fen\nhé qí guang\ntóng qí chén\nzhàn xi sì huò cún\nwú bù zhi shuí zhi zii\nxiàng dì zhi xian",
-          "meaning": "The way is empty, yet use will not drain it. \nDeep, it is like the ancestor of the myriad creatures.  \n  \nBlunt the sharpness; \nUntangle the knots; \nSoften the glare; \nLet your wheels move only along old ruts.  \n  \nDarkly visible, it only seems as if it were there. \nI know not whose son it is. \nIt images the forefather of God.",
-          "notes": "第4章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "e6f9448f-54cc-4f9a-96ad-b21e8c03ce65": {
+    {
       "start": 6616.15,
       "end": 6946.7,
       "id": "e6f9448f-54cc-4f9a-96ad-b21e8c03ce65",
@@ -445,7 +379,7 @@
         }
       }
     },
-    "33110a1a-d388-4743-ab20-df63b74cebf8": {
+    {
       "start": 7015,
       "end": 7342.95,
       "id": "33110a1a-d388-4743-ab20-df63b74cebf8",
@@ -465,7 +399,7 @@
         }
       }
     },
-    "f64963a8-856b-4dae-a0d4-1da0c32622b7": {
+    {
       "start": 7440.65,
       "end": 7775.75,
       "id": "f64963a8-856b-4dae-a0d4-1da0c32622b7",
@@ -485,7 +419,7 @@
         }
       }
     },
-    "fe6e3b23-c610-454b-806c-d4e382f22536": {
+    {
       "start": 7838.5,
       "end": 8200.7,
       "id": "fe6e3b23-c610-454b-806c-d4e382f22536",
@@ -505,26 +439,7 @@
         }
       }
     },
-    "ae8cfd42-868f-4fb3-b1d4-f9bbcb3b55a7": {
-      "start": 7922.4,
-      "end": 9081.5,
-      "id": "ae8cfd42-868f-4fb3-b1d4-f9bbcb3b55a7",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "ae8cfd42-868f-4fb3-b1d4-f9bbcb3b55a7",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "天地不仁\n以萬物爲芻狗\n聖人不仁\n以百姓爲芻狗\n天地之間\n其猶橐籥乎\n虛而不屈\n動而愈出\n多言數窮\n不如守中",
-          "pronunciation": "tian dì bù rén\nyii wàn wù wéi chú goou\nshèng rén bù rén\nyii baai xìng wéi chú goou\ntian dì zhi jian\nqí yóu tuó yuè hu\nxu ér bù qu\ndòng ér yù chu\nduo yán shù qióng\nbù rú shoou zhong",
-          "meaning": "Heaven and earth are ruthless, and treat the myriad creatures as straw dogs; \nthe sage is ruthless, and treats the people as straw dogs.  \n  \nIs not the space between heaven and earth like a bellows? \nIt is empty without being exhausted: \nThe more it works the more comes out.  \n  \nMuch speech leads inevitably to silence. \nBetter to hold fast to the void.",
-          "notes": "第5章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "b6ed0d2e-0a18-469e-8922-3532fb959d2e": {
+    {
       "start": 8304.7,
       "end": 8645.85,
       "id": "b6ed0d2e-0a18-469e-8922-3532fb959d2e",
@@ -544,7 +459,7 @@
         }
       }
     },
-    "5a156f70-8f08-46c6-baa6-73b7019c80cd": {
+    {
       "start": 8705.85,
       "end": 9061.4,
       "id": "5a156f70-8f08-46c6-baa6-73b7019c80cd",
@@ -564,7 +479,7 @@
         }
       }
     },
-    "d61d66e1-1e8d-4ea0-a81e-d6de0bfb4cb3": {
+    {
       "start": 9177.75,
       "end": 9512.9,
       "id": "d61d66e1-1e8d-4ea0-a81e-d6de0bfb4cb3",
@@ -584,26 +499,7 @@
         }
       }
     },
-    "5e1569ad-dcd7-4be0-be81-0934eb264e35": {
-      "start": 9305.5,
-      "end": 9961.95,
-      "id": "5e1569ad-dcd7-4be0-be81-0934eb264e35",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "5e1569ad-dcd7-4be0-be81-0934eb264e35",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "谷神不死\n是謂玄牝\n玄牝之門\n是謂天地根\n綿綿若存\n用之不勤",
-          "pronunciation": "guu shén bù sii\nshì wèi xuán pìn\nxuán pìn zhi mén\nshì wèi tian dì gen\nmián mián ruò cún\nyòng zhi bù qín",
-          "meaning": "The spirit of the valley never dies. \nThis is called the mysterious female. \nThe gateway of the mysterious female \nIs called the root of heaven and earth. \nDimly visible, it seems as if it were there, \nYet use will never drain it.",
-          "notes": "第6章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "e6fc7e60-37ca-41bb-82e9-1ef591c2dc64": {
+    {
       "start": 9559.9,
       "end": 9936.9,
       "id": "e6fc7e60-37ca-41bb-82e9-1ef591c2dc64",
@@ -623,7 +519,7 @@
         }
       }
     },
-    "7951aec9-dea4-4f60-8741-572ec0d8b8de": {
+    {
       "start": 10011.9,
       "end": 10349.65,
       "id": "7951aec9-dea4-4f60-8741-572ec0d8b8de",
@@ -643,26 +539,7 @@
         }
       }
     },
-    "e8467f2d-2820-45d9-a121-1ffecd5a5b73": {
-      "start": 10162.5,
-      "end": 11398.5,
-      "id": "e8467f2d-2820-45d9-a121-1ffecd5a5b73",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "e8467f2d-2820-45d9-a121-1ffecd5a5b73",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "天長地久\n天地所以能長且久者\n以其不自生\n故能長生\n是以聖人後其身而身先\n外其身而身存\n非以其無私邪\n故能成其私",
-          "pronunciation": "tian cháng dì jiuu\ntian dì suoo yii néng cháng qiee jiuu zhee\nyii qí bú zì sheng\ngù néng cháng sheng\nshì yii shèng rén hòu qí shen ér shen xian\nwài qí shen ér shen cún\nfei yii qí wú si yé\ngù néng chéng qí si",
-          "meaning": "Heaven and earth are enduring. \nThe reason why heaven and earth can be enduring is that they do not give themselves life. \nHence they are able to be long-lived.  \n  \nTherefore the sage puts his person last and it comes first, \nTreats it as extraneous to himself and it is preserved.  \n  \nIs it not because he is without thought of self that he is able to accomplish his private ends?",
-          "notes": "第7章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "91c305e5-e169-4f5e-94b4-62e22e48a45a": {
+    {
       "start": 10401,
       "end": 10739.15,
       "id": "91c305e5-e169-4f5e-94b4-62e22e48a45a",
@@ -682,7 +559,7 @@
         }
       }
     },
-    "54065ca5-f641-4a88-b66c-b5c454421c38": {
+    {
       "start": 10792.5,
       "end": 10959.15,
       "id": "54065ca5-f641-4a88-b66c-b5c454421c38",
@@ -702,7 +579,7 @@
         }
       }
     },
-    "0c964e83-a117-4de1-9304-a4654cca3ec7": {
+    {
       "start": 11029.7,
       "end": 11375.5,
       "id": "0c964e83-a117-4de1-9304-a4654cca3ec7",
@@ -722,7 +599,7 @@
         }
       }
     },
-    "8ac59e99-ff48-4844-8fc2-36e9cbb9f326": {
+    {
       "start": 11442.4,
       "end": 11800,
       "id": "8ac59e99-ff48-4844-8fc2-36e9cbb9f326",
@@ -742,26 +619,7 @@
         }
       }
     },
-    "9ffc3be7-7f1f-4901-9b0f-20925352ce8e": {
-      "start": 11586.1,
-      "end": 12944.7,
-      "id": "9ffc3be7-7f1f-4901-9b0f-20925352ce8e",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "9ffc3be7-7f1f-4901-9b0f-20925352ce8e",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "上善若水\n水善利萬物而不爭\n處衆人之所惡\n故幾於道\n居善地\n心善淵\n與善仁\n言善信\n正善治\n事善能\n動善時\n夫唯不爭\n故無尤",
-          "pronunciation": "shàng shàn ruò shuii\nshuii shàn lì wàn wù ér bù zheng\nchuu zhòng rén zhi suoo wù\ngù ji yú dào\nju shàn dì\nxin shàn yuan\nyuu shàn rén\nyán shàn xìn\nzhèng shàn zhì\nshì shàn néng\ndòng shàn shí\nfú wéi bù zheng\ngù wú yóu",
-          "meaning": "Highest good is like water. \nBecause water excels in benefiting the myriad creatures without contending with them and settles where none would like to be, it comes close to the way.  \n  \nIn a home it is the site that matters; \nIn quality of mind it is depth that matters; \nIn an ally it is benevolence that matters; \nIn speech it is good faith that matters; \nIn government it is order that matters; \nIn affairs it is ability that matters; \nIn action it is timeliness that matters.  \n  \nIt is because it does not contend that it is never at fault.",
-          "notes": "第8章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "d51de26d-cb12-41c1-8fbd-cbca328f90b5": {
+    {
       "start": 11870.85,
       "end": 12207.55,
       "id": "d51de26d-cb12-41c1-8fbd-cbca328f90b5",
@@ -781,7 +639,7 @@
         }
       }
     },
-    "b8d8f999-5383-4d85-856d-e0c3e2557b10": {
+    {
       "start": 12288.3,
       "end": 12620.7,
       "id": "b8d8f999-5383-4d85-856d-e0c3e2557b10",
@@ -801,7 +659,7 @@
         }
       }
     },
-    "79274e7a-cd2b-4302-945d-4c71b72ebe24": {
+    {
       "start": 12689.05,
       "end": 13038.15,
       "id": "79274e7a-cd2b-4302-945d-4c71b72ebe24",
@@ -821,7 +679,7 @@
         }
       }
     },
-    "cb2b5d5f-5f25-4b02-b1fd-1ffc44cc7b9d": {
+    {
       "start": 13104.75,
       "end": 13479.6,
       "id": "cb2b5d5f-5f25-4b02-b1fd-1ffc44cc7b9d",
@@ -841,26 +699,7 @@
         }
       }
     },
-    "5bec7ac8-e986-4bf6-8e44-2e2d6499d622": {
-      "start": 13112,
-      "end": 14062.5,
-      "id": "5bec7ac8-e986-4bf6-8e44-2e2d6499d622",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "5bec7ac8-e986-4bf6-8e44-2e2d6499d622",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "持而盈之\n不如其已\n揣而梲之\n不可長保\n金玉滿堂\n莫之能守\n富貴而驕\n自遺其咎\n功遂身退\n天之道",
-          "pronunciation": "chí ér yíng zhi\nbù rú qí yii\nchuaai ér zhuo zhi\nbù kee cháng baao\njin yù maan táng\nmò zhi néng shoou\nfù guì ér jiao\nzì yí qí jiù\ngong suì shen tuì\ntian zhi dào",
-          "meaning": "Rather than fill it to the brim by keeping it upright \nBetter to have stopped in time; \nHammer it to a point \nAnd the sharpness cannot be preserved for ever; \nThere may be gold and jade to fill a hall \nBut there is none who can keep them. \nTo be overbearing when one has wealth and position \nIs to bring calamity upon oneself. \nTo retire when the task is accomplished \nIs the way of heaven.",
-          "notes": "第9章"
-        }
-      }
-    },
-    "8af98908-5a6e-4ab0-90d5-07bdd983e01d": {
+    {
       "start": 13560.05,
       "end": 13922.95,
       "id": "8af98908-5a6e-4ab0-90d5-07bdd983e01d",
@@ -880,7 +719,7 @@
         }
       }
     },
-    "50c9ea4d-9194-4589-b621-49fdaaff01ef": {
+    {
       "start": 14004.5,
       "end": 14359.15,
       "id": "50c9ea4d-9194-4589-b621-49fdaaff01ef",
@@ -900,26 +739,7 @@
         }
       }
     },
-    "4340ff19-95bc-4c7b-8b0c-6c4f2c938614": {
-      "start": 14274.85,
-      "end": 16121.35,
-      "id": "4340ff19-95bc-4c7b-8b0c-6c4f2c938614",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "4340ff19-95bc-4c7b-8b0c-6c4f2c938614",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "載營魄抱一\n能無離乎\n專氣致柔\n能嬰兒乎\n滌除玄覽\n能無疵乎\n愛民治國\n能無知乎\n天門開闔\n能無雌乎\n明白四達\n能無爲乎\n生之畜之\n生而不有\n爲而不恃\n長而不宰\n是謂玄德",
-          "pronunciation": "zài yiing pò bào yi\nnéng wú lí hu\nzhuan qì zhì róu\nnéng ying ér hu\ndí chú xuán laan\nnéng wú ci hu\nài mín zhì guó\nnéng wú zhi hu\ntian mén kai hé\nnéng wú cí hu\nmíng bái sì dá\nnéng wú wéi hu\nsheng zhi xù zhi\nsheng ér bù yoou\nwéi ér bú shì\nzhaang ér bù zaai\nshì wèi xuán dé",
-          "meaning": "When carrying on your head your perplexed bodily soul \nCan you embrace in your arms the One and not let go? \nIn concentrating your breath can you become as supple \nAs a babe? \nCan you polish your mysterious mirror \nAnd leave no blemish? \nCan you love the people and govern the state \nWithout resorting to action? \nWhen the gates of heaven open and shut \nAre you capable of keeping to the role of the female? \nWhen your discernment penetrates the four quarters \nAre you capable of not knowing anything?  \n  \nIt gives them life and rears them.  \n  \nIt gives them life yet claims no possession; \nIt benefits them yet exacts no gratitude; \nIt is the steward yet exercises no authority. \nSuch is called the mysterious virtue.",
-          "notes": "第10章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "19b481c6-2657-4051-8b3d-43b62b185898": {
+    {
       "start": 14428.75,
       "end": 14782.2,
       "id": "19b481c6-2657-4051-8b3d-43b62b185898",
@@ -939,7 +759,7 @@
         }
       }
     },
-    "e953327d-8bc4-4f05-afd5-7b44ba01ac67": {
+    {
       "start": 14846.85,
       "end": 15204.45,
       "id": "e953327d-8bc4-4f05-afd5-7b44ba01ac67",
@@ -959,7 +779,7 @@
         }
       }
     },
-    "b8c1c036-9bd7-441d-a69b-10cc08fafb34": {
+    {
       "start": 15282,
       "end": 15653.3,
       "id": "b8c1c036-9bd7-441d-a69b-10cc08fafb34",
@@ -979,7 +799,7 @@
         }
       }
     },
-    "cbe5b9f8-78e5-4e1d-b10e-2cad6840035a": {
+    {
       "start": 15731.3,
       "end": 16090.65,
       "id": "cbe5b9f8-78e5-4e1d-b10e-2cad6840035a",
@@ -999,7 +819,7 @@
         }
       }
     },
-    "9dcee917-a9af-488a-9b5e-2e98d1142b1a": {
+    {
       "start": 16167.6,
       "end": 16528.25,
       "id": "9dcee917-a9af-488a-9b5e-2e98d1142b1a",
@@ -1019,26 +839,7 @@
         }
       }
     },
-    "aa2f16b2-9c48-4fe9-a80b-c33352d6bbf9": {
-      "start": 16307.8,
-      "end": 17522.2,
-      "id": "aa2f16b2-9c48-4fe9-a80b-c33352d6bbf9",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "aa2f16b2-9c48-4fe9-a80b-c33352d6bbf9",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "三十輻共一轂\n當其無\n有車之用\n埏埴以爲器\n當其無\n有器之用\n鑿戶牖以爲室\n當其無\n有室之用\n故有之以爲利\n無之以爲用",
-          "pronunciation": "san shí fú gòng yi guu\ndàng qí wú\nyoou che zhi yòng\nyán zhí yii wéi qì\ndàng qí wú\nyoou qì zhi yòng\nzáo hù yoou yii wéi shì\ndàng qí wú\nyoou shì zhi yòng\ngù yoou zhi yii wéi lì\nwú zhi yii wéi yòng",
-          "meaning": "Thirty spokes share one hub. \nAdapt the nothing therein to the purpose in hand, and you will have the use of the cart. \nKnead clay in order to make a vessel. \nAdapt the nothing therein to the purpose in hand, and you will have the use of the vessel. \nCut out doors and windows in order to make a room. \nAdapt the nothing therein to the purpose in hand, and you will have the use of the room.  \n  \nThus what we gain is Something, yet it is by virtue of Nothing that this can be put to use.",
-          "notes": "第11章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "4b72fc61-02ea-4626-ad0b-675601a3c7e3": {
+    {
       "start": 16586.05,
       "end": 16957.75,
       "id": "4b72fc61-02ea-4626-ad0b-675601a3c7e3",
@@ -1058,7 +859,7 @@
         }
       }
     },
-    "5af4e0d3-d715-434b-8171-5d29042374ec": {
+    {
       "start": 17038.8,
       "end": 17389.95,
       "id": "5af4e0d3-d715-434b-8171-5d29042374ec",
@@ -1078,7 +879,7 @@
         }
       }
     },
-    "6acfab87-cef7-413d-988e-ba7e67be0e35": {
+    {
       "start": 17457,
       "end": 17795.6,
       "id": "6acfab87-cef7-413d-988e-ba7e67be0e35",
@@ -1098,26 +899,7 @@
         }
       }
     },
-    "84e5af5a-1620-4468-8a2c-8e5f62b7ef70": {
-      "start": 17718.5,
-      "end": 18962.5,
-      "id": "84e5af5a-1620-4468-8a2c-8e5f62b7ef70",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "84e5af5a-1620-4468-8a2c-8e5f62b7ef70",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "五色令人目盲\n五音令人耳聾\n五味令人口爽\n馳騁畋獵\n令人心發狂\n難得之貨\n令人行妨\n是以聖人爲腹不爲目\n故去彼取此",
-          "pronunciation": "wuu sè lìng rén mù máng\nwuu yin lìng rén eer lóng\nwuu wèi lìng rén koou shuaang\nchí cheeng tián liè\nlìng rén xin fa kuáng\nnán dé zhi huò\nlìng rén xíng fáng\nshì yii shèng rén wéi fù bù wéi mù\ngù qù bii quu cii",
-          "meaning": "The five colors make man's eyes blind; \nThe five notes make his ears deaf; \nThe five tastes injure his palate; \nRiding and hunting \nMake his mind go wild with excitement; \nGoods hard to come by \nServe to hinder his progress.  \n  \nHence the sage is \nFor the belly \nNot for the eye.  \n  \nTherefore he discards the one and takes the other.",
-          "notes": "第12章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "77330f8c-effb-46d0-a9a7-5c326eeeb94f": {
+    {
       "start": 17871.15,
       "end": 18226.5,
       "id": "77330f8c-effb-46d0-a9a7-5c326eeeb94f",
@@ -1137,7 +919,7 @@
         }
       }
     },
-    "da76366a-b2e7-45bc-94a5-69493e270aa8": {
+    {
       "start": 18312.55,
       "end": 18685.65,
       "id": "da76366a-b2e7-45bc-94a5-69493e270aa8",
@@ -1157,7 +939,7 @@
         }
       }
     },
-    "8ff4f2b2-fc10-4ea7-955a-8138ee0361a9": {
+    {
       "start": 18741.5,
       "end": 19103.55,
       "id": "8ff4f2b2-fc10-4ea7-955a-8138ee0361a9",
@@ -1177,26 +959,7 @@
         }
       }
     },
-    "1bdcf8f9-639b-42c7-85c8-7fcbcaa12deb": {
-      "start": 19160.47852783203,
-      "end": 21280.2,
-      "id": "1bdcf8f9-639b-42c7-85c8-7fcbcaa12deb",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "1bdcf8f9-639b-42c7-85c8-7fcbcaa12deb",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "寵辱若驚\n貴大患若身\n何謂寵辱若驚\n寵爲下\n得之若驚\n失之若驚\n是謂寵辱若驚\n何謂貴大患若身\n吾所以有大患者\n爲吾有身\n及吾無身\n吾有何患\n故貴以身爲天下\n若可寄天下\n愛以身爲天下\n若可託天下",
-          "pronunciation": "choong ruu ruò jing\nguì dà huàn ruò shen\nhé wèi choong ruu ruò jing\nchoong wéi xià\ndé zhi ruò jing\nshi zhi ruò jing\nshì wèi choong ruu ruò jing\nhé wèi guì dà huàn ruò shen\nwú suoo yii yoou dà huàn zhee\nwéi wú yoou shen\njí wú wú shen\nwú yoou hé huàn\ngù guì yii shen wéi tian xià\nruò kee jì tian xià\nài yii shen wéi tian xià\nruò kee tuo tian xià",
-          "meaning": "Favor and disgrace are things that startle; \nHigh rank is, like one's body, a source of great trouble.  \n  \nWhat is meant by saying favor and disgrace are things that startle? \nFavor when it is bestowed on a subject serves to startle as much as when it is withdrawn. \nThis is what is meant by saying that favor and disgrace are things that startle. \nWhat is meant by saying that high rank is, like one's body, a source of great trouble? \nThe reason I have great trouble is that I have a body. \nWhen I no longer have a body, what trouble have I?  \n  \nHence he who values his body more than dominion over the empire can be entrusted with the empire. \nHe who loves his body more than dominion over the empire can be given the custody of the empire.",
-          "notes": "第13章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "d5e942b2-ed1f-47ca-bee0-36b0fd2b97ab": {
+    {
       "start": 19174,
       "end": 19542.05,
       "id": "d5e942b2-ed1f-47ca-bee0-36b0fd2b97ab",
@@ -1216,7 +979,7 @@
         }
       }
     },
-    "3439bae6-7287-43f6-9807-1d87bda3e5d7": {
+    {
       "start": 19602.85,
       "end": 19948.7,
       "id": "3439bae6-7287-43f6-9807-1d87bda3e5d7",
@@ -1236,7 +999,7 @@
         }
       }
     },
-    "c463b6e8-61e3-4fab-858d-cb8cf25ab260": {
+    {
       "start": 20013.7,
       "end": 20367.8,
       "id": "c463b6e8-61e3-4fab-858d-cb8cf25ab260",
@@ -1256,7 +1019,7 @@
         }
       }
     },
-    "bef05939-2891-492e-8797-014b99d96286": {
+    {
       "start": 20433,
       "end": 20774.75,
       "id": "bef05939-2891-492e-8797-014b99d96286",
@@ -1276,7 +1039,7 @@
         }
       }
     },
-    "bdb2157e-471f-4c50-bfd9-8fbda0bb89d2": {
+    {
       "start": 20848.2,
       "end": 21192.5,
       "id": "bdb2157e-471f-4c50-bfd9-8fbda0bb89d2",
@@ -1296,7 +1059,7 @@
         }
       }
     },
-    "b585a4ae-0f26-4581-b824-fddb782ea3a9": {
+    {
       "start": 21265.85,
       "end": 21643.9,
       "id": "b585a4ae-0f26-4581-b824-fddb782ea3a9",
@@ -1316,26 +1079,7 @@
         }
       }
     },
-    "11c98714-b59e-46d1-a054-0f7923b01f5d": {
-      "start": 21471,
-      "end": 23799.05,
-      "id": "11c98714-b59e-46d1-a054-0f7923b01f5d",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "11c98714-b59e-46d1-a054-0f7923b01f5d",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "視之不見名曰夷\n聽之不聞名曰希\n搏之不得名曰微\n此三者不可致詰\n故混而爲一\n其上不皦\n其下不昧\n繩繩不可名\n復歸於無物\n是謂無狀之狀\n無物之象\n是謂惚恍\n迎之不見其首\n隨之不見其後\n執古之道\n以御今之有\n能知古始\n是謂道紀",
-          "pronunciation": "shì zhi bú jiàn míng yue yí\nting zhi bù wén míng yue xi\nbó zhi bù dé míng yue wei\ncii san zhee bù kee zhì jié\ngù hùn ér wéi yi\nqí shàng bù jiaao\nqí xià bú mèi\nshéng shéng bù kee míng\nfù gui yú wú wù\nshì wèi wú zhuàng zhi zhuàng\nwú wù zhi xiàng\nshì wèi hu huaang\nyíng zhi bú jiàn qí shoou\nsuí zhi bú jiàn qí hòu\nzhí guu zhi dào\nyii yù jin zhi yoou\nnéng zhi guu shii\nshì wèi dào jì",
-          "meaning": "What cannot be seen is called evanescent; \nWhat cannot be heard is called rarefied; \nWhat cannot be touched is called minute.  \n  \nThese three cannot be fathomed \nAnd so they are confused and looked upon as one.  \n  \nIts upper part is not dazzling; \nIts lower part is not obscure. \nDimly visible, it cannot be named \nAnd returns to that which is without substance. \nThis is called the shape that has no shape, \nThe image that is without substance. \nThis is called indistinct and shadowy. \nGo up to it and you will not see its head; \nFollow behind it and you will not see its rear.  \n  \nHold fast to the way of antiquity \nIn order to keep in control the realm of today. \nThe ability to know the beginning of antiquity \nIs called the thread running through the way.",
-          "notes": "第14章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "35f67750-cecf-4691-9b02-68980e586d64": {
+    {
       "start": 21727.9,
       "end": 22098.95,
       "id": "35f67750-cecf-4691-9b02-68980e586d64",
@@ -1355,7 +1099,7 @@
         }
       }
     },
-    "e6ce771e-711f-4dc9-83cd-818c089ae5f1": {
+    {
       "start": 22169.15,
       "end": 22542.75,
       "id": "e6ce771e-711f-4dc9-83cd-818c089ae5f1",
@@ -1375,7 +1119,7 @@
         }
       }
     },
-    "9c9ff5db-966e-4fd6-b09f-c363c2a4de9a": {
+    {
       "start": 22635.3,
       "end": 22982.35,
       "id": "9c9ff5db-966e-4fd6-b09f-c363c2a4de9a",
@@ -1395,7 +1139,7 @@
         }
       }
     },
-    "e6eb2f25-e8b3-4f95-b895-9d5a48acae02": {
+    {
       "start": 23054.5,
       "end": 23401.75,
       "id": "e6eb2f25-e8b3-4f95-b895-9d5a48acae02",
@@ -1415,7 +1159,7 @@
         }
       }
     },
-    "f986ea13-cd07-41b3-a500-efe75513c6b9": {
+    {
       "start": 23477,
       "end": 23826.75,
       "id": "f986ea13-cd07-41b3-a500-efe75513c6b9",
@@ -1435,7 +1179,7 @@
         }
       }
     },
-    "b2adeb7a-eb39-4d01-8be7-6318516a975b": {
+    {
       "start": 23896.2,
       "end": 24255.95,
       "id": "b2adeb7a-eb39-4d01-8be7-6318516a975b",
@@ -1455,26 +1199,7 @@
         }
       }
     },
-    "957543ef-0922-47fa-ad2c-e9942cf7dddc": {
-      "start": 23987.95,
-      "end": 26494.2,
-      "id": "957543ef-0922-47fa-ad2c-e9942cf7dddc",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "957543ef-0922-47fa-ad2c-e9942cf7dddc",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "古之善爲士者\n微妙玄通\n深不可識\n夫唯不可識\n故強爲之容  \n  \n豫焉若冬涉川\n猶兮若畏四鄰\n儼兮其若容\n渙兮若冰之將釋\n敦兮其若樸\n曠兮其若谷\n混兮其若濁\n孰能濁以靜之徐清\n孰能安以久動之徐生\n保此道者不欲盈\n夫唯不盈\n故能蔽不新成",
-          "pronunciation": "guu zhi shàn wéi shì zhee\nwei miào xuán tong\nshen bù kee shí\nfú wéi bù kee shí\ngù qiaang wéi zhi róng  \n  \nyù yan ruò dong shè chuan\nyóu xi ruò wèi sì lín\nyaan xi qí ruò róng\nhuàn xi ruò bing zhi jiang shì\ndun xi qí ruò puu\nkuàng xi qí ruò guu\nhùn xi qí ruò zhuó\nshú néng zhuó yii jìng zhi xú qing\nshú néng an yii jiuu dòng zhi xú sheng\nbaao cii dào zhee bú yù yíng\nfú wéi bù yíng\ngù néng bì bù xin chéng",
-          "meaning": "Of old he who was well versed in the way \nWas minutely subtle, mysteriously comprehending, \nAnd too profound to be known. \nIt is because he could not be known \nThat he can only be given a makeshift description:  \n  \nTentative, as if fording a river in winter, \nHesitant, as if in fear of his neighbors; \nFormal like a guest; \nFalling apart like the thawing ice; \nThick like the uncarved block; \nVacant like a valley; \nMurky like muddy water.  \n  \nWho can be muddy and yet, settling, slowly become limpid? \nWho can be at rest and yet, stirring, slowly come to life? \nHe who holds fast to this way \nDesires not to be full. \nIt is because he is not full \nThat he can be worn and yet newly made.",
-          "notes": "第15章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "4260da48-1482-4f0d-b2a6-7bccea904843": {
+    {
       "start": 24345.4,
       "end": 24713.75,
       "id": "4260da48-1482-4f0d-b2a6-7bccea904843",
@@ -1494,7 +1219,7 @@
         }
       }
     },
-    "9ef48f57-7f82-427e-a326-00ae5304c04f": {
+    {
       "start": 24781.45,
       "end": 25162.8,
       "id": "9ef48f57-7f82-427e-a326-00ae5304c04f",
@@ -1514,7 +1239,7 @@
         }
       }
     },
-    "786fae51-9481-4985-8f10-cff92d944b6e": {
+    {
       "start": 25285.6,
       "end": 25648.65,
       "id": "786fae51-9481-4985-8f10-cff92d944b6e",
@@ -1534,7 +1259,7 @@
         }
       }
     },
-    "af11abab-e47a-4c99-9d9b-c379b4b33007": {
+    {
       "start": 25718.95,
       "end": 26083.25,
       "id": "af11abab-e47a-4c99-9d9b-c379b4b33007",
@@ -1554,7 +1279,7 @@
         }
       }
     },
-    "efec5599-e007-460a-aa86-0b82e41b90e7": {
+    {
       "start": 26158.8,
       "end": 26514.05,
       "id": "efec5599-e007-460a-aa86-0b82e41b90e7",
@@ -1574,7 +1299,7 @@
         }
       }
     },
-    "e2a303ff-16fb-4a18-9a55-54aaa6869df8": {
+    {
       "start": 26579.9,
       "end": 26975.6,
       "id": "e2a303ff-16fb-4a18-9a55-54aaa6869df8",
@@ -1594,26 +1319,7 @@
         }
       }
     },
-    "7f1dedec-98da-426f-bfb2-d5d6ee3e6de2": {
-      "start": 26728.4,
-      "end": 28598.8,
-      "id": "7f1dedec-98da-426f-bfb2-d5d6ee3e6de2",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "7f1dedec-98da-426f-bfb2-d5d6ee3e6de2",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "致虛極\n守靜篤\n萬物並作\n吾以觀復\n夫物芸芸\n各復歸其根\n歸根曰靜\n是謂復命\n復命曰常\n知常曰明\n不知常\n妄作凶\n知常容\n容乃公\n公乃王\n王乃天\n天乃道\n道乃久\n没身不殆",
-          "pronunciation": "zhì xu jí\nshoou jìng duu\nwàn wù bìng zuò\nwú yii guan fù\nfú wù yún yún\ngè fù gui qí gen\ngui gen yue jìng\nshì wèi fù mìng\nfù mìng yue cháng\nzhi cháng yue míng\nbù zhi cháng\nwàng zuò xiong\nzhi cháng róng\nróng naai gong\ngong naai wáng\nwáng naai tian\ntian naai dào\ndào naai jiuu\nmò shen bú dài",
-          "meaning": "I do my utmost to attain emptiness; \nI hold firmly to stillness. \nThe myriad creatures all rise together \nAnd I watch their return. \nThe teaming creatures \nAll return to their separate roots. \nReturning to one's roots is known as stillness. \nThis is what is meant by returning to one's destiny. \nReturning to one's destiny is known as the constant. \nKnowledge of the constant is known as discernment.  \n  \nWoe to him who wilfully innovates \nWhile ignorant of the constant, \nBut should one act from knowledge of the constant \nOne's action will lead to impartiality, \nImpartiality to kingliness, \nKingliness to heaven, \nHeaven to the way, \nThe way to perpetuity, \nAnd to the end of one's days one will meet with no danger.",
-          "notes": "第16章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "c8dc50e0-4557-4e61-a573-77454996651f": {
+    {
       "start": 27056.4,
       "end": 27395.5,
       "id": "c8dc50e0-4557-4e61-a573-77454996651f",
@@ -1633,7 +1339,7 @@
         }
       }
     },
-    "65063b31-59a6-433a-86d3-64b441d4ed62": {
+    {
       "start": 27475.7,
       "end": 27828.95,
       "id": "65063b31-59a6-433a-86d3-64b441d4ed62",
@@ -1653,7 +1359,7 @@
         }
       }
     },
-    "1362ff21-3199-434a-9a81-766fec9bec46": {
+    {
       "start": 27900.8,
       "end": 28280.9,
       "id": "1362ff21-3199-434a-9a81-766fec9bec46",
@@ -1673,7 +1379,7 @@
         }
       }
     },
-    "7afb47e4-009c-457e-8e46-8d75cfb7d5d7": {
+    {
       "start": 28360.05,
       "end": 28710.45,
       "id": "7afb47e4-009c-457e-8e46-8d75cfb7d5d7",
@@ -1693,7 +1399,7 @@
         }
       }
     },
-    "37c11c7f-167b-402e-a9fe-45f692d9949a": {
+    {
       "start": 28795.3,
       "end": 29139.8,
       "id": "37c11c7f-167b-402e-a9fe-45f692d9949a",
@@ -1713,26 +1419,7 @@
         }
       }
     },
-    "111e2e00-86fb-4fdc-a9b9-c3a2bb267d53": {
-      "start": 28813.6,
-      "end": 30025.5,
-      "id": "111e2e00-86fb-4fdc-a9b9-c3a2bb267d53",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "111e2e00-86fb-4fdc-a9b9-c3a2bb267d53",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "太上\n下知有之\n其次親而譽之\n其次畏之\n其次侮之\n信不足焉\n有不信焉\n悠兮其貴言\n功成事遂\n百姓皆謂我自然",
-          "pronunciation": "tài shàng\nxià zhi yoou zhi\nqí cì qin ér yù zhi\nqí cì wèi zhi\nqí cì wuu zhi\nxìn bù zú yan\nyoou bú xìn yan\nyou xi qí guì yán\ngong chéng shì suì\nbaai xìng jie wèi woo zì rán",
-          "meaning": "The best of all rulers is but a shadowy presence to his subjects. \nNext comes the ruler they love and praise; \nNext comes one they fear; \nNext comes one with whom they take liberties.  \n  \nWhen there is not enough faith, there is lack of good faith.  \n  \nHesitant, he does not utter words lightly. \nWhen his task is accomplished and his work done \nThe people all say, 'It happened to us naturally.'",
-          "notes": "第17章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "eda29be5-6dea-4027-8df1-d8243e56b54e": {
+    {
       "start": 29205.55,
       "end": 29568.25,
       "id": "eda29be5-6dea-4027-8df1-d8243e56b54e",
@@ -1745,14 +1432,14 @@
         ],
         "type": "Transliteration",
         "fields": {
-          "transcription": "清太祖，膺景命。\n靖四方，克大定。",
+          "transcription": "清太祖，應景命。\n靖四方，克大定。",
           "pronunciation": "qing tài zuu, ying jiing mìng.\njìng sì fang, kè dà dìng.",
           "meaning": "The founder of the Qing dynasty responded to the glorious summons.\nHe quieted the four corners and achieved the great settlement.",
           "notes": "The T'ai Tsu in this line is the Manchu chieftain Nurhachu, A.D. 1559–1626, who was the real founder of the present dynasty, though he never mounted the throne. (Giles)"
         }
       }
     },
-    "98a50b84-65ed-441b-bcf2-dcfaea9f19af": {
+    {
       "start": 29645.95,
       "end": 30025.75,
       "id": "98a50b84-65ed-441b-bcf2-dcfaea9f19af",
@@ -1772,7 +1459,7 @@
         }
       }
     },
-    "b57dcbd9-cbe8-4b20-97e9-0361548f0519": {
+    {
       "start": 30086.75,
       "end": 30411.15,
       "id": "b57dcbd9-cbe8-4b20-97e9-0361548f0519",
@@ -1792,26 +1479,7 @@
         }
       }
     },
-    "5a9b5903-d12c-47d1-854d-774b31bce62a": {
-      "start": 30230.5,
-      "end": 30932.45,
-      "id": "5a9b5903-d12c-47d1-854d-774b31bce62a",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "5a9b5903-d12c-47d1-854d-774b31bce62a",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "大道廢\n有仁義\n慧智出\n有大僞\n六親不和\n有孝慈\n國家昏亂\n有忠臣",
-          "pronunciation": "dà dào fèi\nyoou rén yì\nhuì zhì chu\nyoou dà weei\nliù qin bù hé\nyoou xiào cí\nguó jia hun luàn\nyoou zhong chén",
-          "meaning": "When the great way falls into disuse \nThere are benevolence and rectitude; \nWhen cleverness emerges \nThere is great hypocrisy; \nWhen the six relations are at variance \nThere are filial children; \nWhen the state is benighted \nThere are loyal ministers.",
-          "notes": "第18章"
-        }
-      }
-    },
-    "dc39bbc7-7a45-47ff-9a32-3f2e42e1d04f": {
+    {
       "start": 30494.45,
       "end": 30810.75,
       "id": "dc39bbc7-7a45-47ff-9a32-3f2e42e1d04f",
@@ -1831,7 +1499,7 @@
         }
       }
     },
-    "2eb1f0cd-85e4-4d93-a12e-e1d8d2a0b39e": {
+    {
       "start": 30875.7,
       "end": 31265.05,
       "id": "2eb1f0cd-85e4-4d93-a12e-e1d8d2a0b39e",
@@ -1851,26 +1519,7 @@
         }
       }
     },
-    "0f6f1487-6fbc-43ce-af98-8bc146fd8c1e": {
-      "start": 31152.8,
-      "end": 32351.45,
-      "id": "0f6f1487-6fbc-43ce-af98-8bc146fd8c1e",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "0f6f1487-6fbc-43ce-af98-8bc146fd8c1e",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "絕聖棄智\n民利百倍\n絕仁棄義\n民復孝慈\n絕巧棄利\n盜賊無有\n此三者以爲文不足\n故令有所屬\n見素抱樸\n少私寡欲",
-          "pronunciation": "jué shèng qì zhì\nmín lì baai bèi\njué rén qì yì\nmín fù xiào cí\njué qiaao qì lì\ndào zéi wú yoou\ncii san zhee yii wéi wén bù zú\ngù lìng yoou suoo shuu\njiàn/xiàn sù bào puu\nshaao si guaa yù",
-          "meaning": "Exterminate learning and there will no longer be worries.  \n  \nExterminate the sage, discard the wise, \nAnd the people will benefit a hundredfold; \nExterminate benevolence, discard rectitude, \nAnd the people will again be filial; \nExterminate ingenuity, discard profit, \nAnd there will be no more thieves and bandits.  \n  \nThese three, being false adornments, are not enough \nAnd the people must have something to which they can attach themselves: \nExhibit the unadorned and embrace the uncarved block, \nHave little thought of self and as few desires as possible.",
-          "notes": "第19章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "8d4199b8-8135-472d-ad2f-5041b3df79a7": {
+    {
       "start": 31333.35,
       "end": 31711.5,
       "id": "8d4199b8-8135-472d-ad2f-5041b3df79a7",
@@ -1890,7 +1539,7 @@
         }
       }
     },
-    "4c48866c-2f79-4a31-855c-22fa2dfdd4eb": {
+    {
       "start": 31788.25,
       "end": 32169.1,
       "id": "4c48866c-2f79-4a31-855c-22fa2dfdd4eb",
@@ -1910,7 +1559,7 @@
         }
       }
     },
-    "c2951404-d609-43f9-8ea3-e95d80c94486": {
+    {
       "start": 32234.25,
       "end": 32624.2,
       "id": "c2951404-d609-43f9-8ea3-e95d80c94486",
@@ -1930,26 +1579,7 @@
         }
       }
     },
-    "4e2701e7-5902-4d84-987c-650694f8756f": {
-      "start": 32542.05,
-      "end": 36167.2,
-      "id": "4e2701e7-5902-4d84-987c-650694f8756f",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "4e2701e7-5902-4d84-987c-650694f8756f",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "絕學無憂\n唯之與阿\n相去幾何\n善之與惡\n相去幾何\n人之所畏\n不可不畏\n荒兮其未央哉\n衆人熙熙\n如享太牢\n如春登臺\n我獨泊兮其未兆\n如嬰兒之未孩\n儽儽兮若無所歸\n衆人皆有餘\n而我獨若遺\n我愚人之心也哉\n沌沌兮\n俗人昭昭\n我獨昏昏\n俗人察察\n我獨悶悶\n澹兮其若海\n飂兮若無止\n衆人皆有以\n而我獨頑似鄙\n我獨異於人\n而貴食母",
-          "pronunciation": "jué xué wú you\nweei zhi yuu e\nxiang qù jii hé\nshàn zhi yuu è\nxiang qù jii hé\nrén zhi suoo wèi\nbù kee bú wèi\nhuang xi qí wèi yang zai\nzhòng rén xi xi\nrú heng tài láo\nrú chun deng tái\nwoo dú bó xi qí wèi zhào\nrú ying ér zhi wèi hái\nleei leei xi ruò wú suoo gui\nzhòng rén jie yoou yú\nér woo dú ruò yí\nwoo yú rén zhi xin yee zai\ndùn dùn xi\nsú rén zhao zhao\nwoo dú hun hun\nsú rén chá chá\nwoo dú mèn mèn\ndàn xi qí ruò haai\nliáo xi ruò wú zhii\nzhòng rén jie yoou yii\nér woo dú wán shí bii\nwoo dú yì yú rén\nér guì sì muu",
-          "meaning": "Between yea and nay \nHow much difference is there? \nBetween good and evil \nHow great is the distance?  \n  \nWhat others fear \nOne must also fear.  \n  \nThe multitude are joyous \nAs if partaking of the offering \nOr going up to a terrace in spring. \nI alone am inactive and reveal no signs, \nAnd wax without having reached the limit. \nLike a baby that has not yet learned to smile, \nListless as though with no home to go back to. \nThe multitude all have more than enough. \nI alone seem to be in want. \nMy mind is that of a fool - how blank! \nVulgar people are clear. \nI alone am drowsy. \nVulgar people are alert. \nI alone am muddled. \nCalm like the sea; \nLike a high wind that never ceases. \nThe multitude all have a purpose. \nI alone am foolish and uncouth. \nI alone am different from others \nAnd value being fed by the mother.",
-          "notes": "第20章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "f68b94fb-3a14-4fd2-b433-b860ed277c6a": {
+    {
       "start": 32705.8,
       "end": 33066.15,
       "id": "f68b94fb-3a14-4fd2-b433-b860ed277c6a",
@@ -1969,7 +1599,7 @@
         }
       }
     },
-    "ebf8c5f9-3cf6-49fd-b423-ef313047b6d3": {
+    {
       "start": 33142.55,
       "end": 33515.95,
       "id": "ebf8c5f9-3cf6-49fd-b423-ef313047b6d3",
@@ -1989,7 +1619,7 @@
         }
       }
     },
-    "936d5e92-9090-4f6a-879e-8596474ad9dd": {
+    {
       "start": 33609.8,
       "end": 33968.9,
       "id": "936d5e92-9090-4f6a-879e-8596474ad9dd",
@@ -2009,7 +1639,7 @@
         }
       }
     },
-    "6cc43495-a0cc-4118-81cc-832789bca7a6": {
+    {
       "start": 34041.4,
       "end": 34427.5,
       "id": "6cc43495-a0cc-4118-81cc-832789bca7a6",
@@ -2029,7 +1659,7 @@
         }
       }
     },
-    "986bc769-ac3b-4af3-ae03-8c2ed835d726": {
+    {
       "start": 34513.1,
       "end": 34846.95,
       "id": "986bc769-ac3b-4af3-ae03-8c2ed835d726",
@@ -2049,7 +1679,7 @@
         }
       }
     },
-    "e0f4f129-2e04-40e2-8668-c10617cba767": {
+    {
       "start": 34908.8,
       "end": 35278.9,
       "id": "e0f4f129-2e04-40e2-8668-c10617cba767",
@@ -2069,7 +1699,7 @@
         }
       }
     },
-    "15450f75-7df1-4d05-a5d3-255be4e78893": {
+    {
       "start": 35357.1,
       "end": 35711,
       "id": "15450f75-7df1-4d05-a5d3-255be4e78893",
@@ -2089,7 +1719,7 @@
         }
       }
     },
-    "56f2f16d-2397-4e37-854c-d469b1b5df54": {
+    {
       "start": 35785.45,
       "end": 36138.7,
       "id": "56f2f16d-2397-4e37-854c-d469b1b5df54",
@@ -2109,7 +1739,7 @@
         }
       }
     },
-    "7b6c8df2-c8a8-488d-8bf0-7ea0f91a0284": {
+    {
       "start": 36219.6,
       "end": 36566.35,
       "id": "7b6c8df2-c8a8-488d-8bf0-7ea0f91a0284",
@@ -2129,26 +1759,7 @@
         }
       }
     },
-    "6ec3dcc9-491c-46e2-a484-3904121a341b": {
-      "start": 36388.85,
-      "end": 38278.6,
-      "id": "6ec3dcc9-491c-46e2-a484-3904121a341b",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "6ec3dcc9-491c-46e2-a484-3904121a341b",
-        "tags": [
-          "ddj"
-        ],
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "孔德之容\n惟道是從\n道之爲物\n惟恍惟惚\n惚兮恍兮\n其中有象\n恍兮惚兮\n其中有物\n窈兮冥兮\n其中有精\n其精甚眞\n其中有信\n自古及今\n其名不去\n以閱衆甫\n吾何以知衆甫之狀哉\n以此",
-          "pronunciation": "koong dé zhi róng\nwéi dào shì cóng\ndào zhi wéi wù\nwéi huaang wéi hu\nhu xi huaang xi\nqí zhong yoou xiàng\nhuaang xi hu xi\nqí zhong yoou wù\nyaao xi míng xi\nqí zhong yoou jing\nqí jing shèn zhen\nqí zhong yoou xìn\nzì guu jí jin\nqí míng bú qù\nyii yuè zhòng fuu\nwú hé yii zhi zhòng fuu zhi zhuàng zai\nyii cii",
-          "meaning": "In his every movement a man of great virtue \nFollows the way and the way only.  \n  \nAs a thing the way is \nShadowy and indistinct. \nIndistinct and shadowy, \nYet within it is an image; \nShadowy and indistinct, \nYet within it is a substance. \nDim and dark, \nYet within it is an essence. \nThis essence is quite genuine \nAnd within it is something that can be tested.  \n  \nFrom the present back to antiquity, \nIts name never deserted it. \nIt serves as a means for inspecting the fathers of the multitude.  \n  \nHow do I know that the fathers of the multitude are like that? \nBy means of this.",
-          "notes": "第21章"
-        }
-      }
-    },
-    "bfb66fd3-b17c-4832-a28e-cdc328c183a6": {
+    {
       "start": 36623.4,
       "end": 36995.25,
       "id": "bfb66fd3-b17c-4832-a28e-cdc328c183a6",
@@ -2168,7 +1779,7 @@
         }
       }
     },
-    "c30e4074-f847-4ffd-8736-6972ab602f58": {
+    {
       "start": 37070.95,
       "end": 37406.75,
       "id": "c30e4074-f847-4ffd-8736-6972ab602f58",
@@ -2188,7 +1799,7 @@
         }
       }
     },
-    "560ee9fc-dc56-4d2f-a1e0-de53ad5c263c": {
+    {
       "start": 37477.05,
       "end": 37839.1,
       "id": "560ee9fc-dc56-4d2f-a1e0-de53ad5c263c",
@@ -2208,7 +1819,7 @@
         }
       }
     },
-    "f07e428f-c559-4abf-9dfb-2fc6b247682d": {
+    {
       "start": 37913.4,
       "end": 38077.5,
       "id": "f07e428f-c559-4abf-9dfb-2fc6b247682d",
@@ -2228,7 +1839,7 @@
         }
       }
     },
-    "5669c192-a256-40da-bb07-53eb081674b9": {
+    {
       "start": 38225,
       "end": 38593.95,
       "id": "5669c192-a256-40da-bb07-53eb081674b9",
@@ -2248,26 +1859,7 @@
         }
       }
     },
-    "eb8bb793-d3ad-4c87-8768-04bc0a565796": {
-      "start": 38517.45,
-      "end": 40558.2,
-      "id": "eb8bb793-d3ad-4c87-8768-04bc0a565796",
-      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
-      "flashcard": {
-        "id": "eb8bb793-d3ad-4c87-8768-04bc0a565796",
-        "type": "Transliteration",
-        "fields": {
-          "transcription": "曲則全\n枉則直\n窪則盈\n敝則新\n少則得\n多則惑\n是以聖人抱一爲天下式\n不自見\n故明\n不自是\n故彰\n不自伐\n故有功\n不自矜\n故長\n夫唯不爭\n故天下莫能與之爭\n古之所謂曲則全者\n豈虛言哉\n誠全而歸之",
-          "pronunciation": "qu zé quán\nwaang zé zhí\nwa zé yíng\nbì zé xin\nshaao zé dé\nduo zé huò\nshì yii shèng rén bào yi wéi tian xià shì\nbú zì jiàn\ngù míng\nbú zì shì\ngù zhang\nbú zì fá\ngù yoou gong\nbú zì jin\ngù zhaang\nfú wéi bù zheng\ngù tian xià mò néng yuu zhi zheng\nguu zhi suoo wèi qu zé quán zhee\nqii xu yán zai\nchéng quán ér gui zhi",
-          "meaning": "Bowed down then preserved; \nBent then straight; \nHollow then full; \nWorn then new; \nA little then benefited; \nA lot then perplexed.  \n  \nTherefore the sage embraces the One and is a model for the empire.  \n  \nHe does not show himself, and so is conspicuous; \nHe does not consider himself right, and so is illustrious; \nHe does not brag, and so has merit; \nHe does not boast, and so endures.  \n  \nIt is because he does not contend that no one in the empire is in a position to contend with him.  \n  \nThe way the ancients had it, 'Bowed down then preserved', is no empty saying. \nTruly it enables one to be preserved to the end.",
-          "notes": "第22章"
-        },
-        "tags": [
-          "ddj"
-        ]
-      }
-    },
-    "f1d10689-fbd5-4733-8a65-f55c8c759f42": {
+    {
       "start": 38658.15,
       "end": 38995.85,
       "id": "f1d10689-fbd5-4733-8a65-f55c8c759f42",
@@ -2287,7 +1879,7 @@
         }
       }
     },
-    "ea0c61c2-6c01-44f1-a509-417e3775d8f9": {
+    {
       "start": 39068.1,
       "end": 39410.25,
       "id": "ea0c61c2-6c01-44f1-a509-417e3775d8f9",
@@ -2307,7 +1899,7 @@
         }
       }
     },
-    "4220676e-8384-4aa4-bf46-eaed4b5493cc": {
+    {
       "start": 39462.75,
       "end": 39819.75,
       "id": "4220676e-8384-4aa4-bf46-eaed4b5493cc",
@@ -2327,7 +1919,7 @@
         }
       }
     },
-    "a9b1a9fb-3852-4630-81cb-8a2fc47b467b": {
+    {
       "start": 39897.8,
       "end": 40267.05,
       "id": "a9b1a9fb-3852-4630-81cb-8a2fc47b467b",
@@ -2347,7 +1939,7 @@
         }
       }
     },
-    "83beeb31-091e-448b-bdd9-0d374b53078f": {
+    {
       "start": 40364.85,
       "end": 40772.2,
       "id": "83beeb31-091e-448b-bdd9-0d374b53078f",
@@ -2367,7 +1959,425 @@
         }
       }
     },
-    "18c65f96-2bd2-4e79-91ec-36377ad6a1cb": {
+    {
+      "start": 336.87,
+      "end": 1900.95,
+      "id": "f501adb8-cd3c-4e5a-84cf-3a476b169606",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "f501adb8-cd3c-4e5a-84cf-3a476b169606",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "道可道\n非常道\n名可名\n非常名\n無名天地之始\n有名萬物之母\n故常無欲\n以觀其妙\n常有欲以觀其徼\n此兩者同出而異名  \n  \n同謂之玄\n玄之又玄\n衆妙之門",
+          "pronunciation": "dào kee dào\nfei cháng dào\nmíng kee míng\nfei cháng míng\nwú míng tian dì zhi shii\nyoou míng wàn wù zhi muu\ngù cháng wú yù\nyii guan qí miào\ncháng yoou yù yii guan qí jiào\ncii liaang zhee tóng chu ér yì míng  \n  \ntóng wèi zhi xuán\nxuán zhi yòu xuán\nzhòng miào zhi mén",
+          "meaning": "The way that can be spoken of \nIs not the constant way; \nThe name that can be named \nIs not the constant name.  \n  \nThe nameless was the beginning of heaven and earth; \nThe named was the mother of the myriad creatures.  \n  \nHence always rid yourself of desires in order to observe its secrets; \nBut always allow yourself to have desires in order to observe its manifestations.  \n  \nThese two are the same \nBut diverge in name as they issue forth. \nBeing the same they are called mysteries, \nMystery upon mystery - \nThe gateway of the manifold secrets.",
+          "notes": "第1章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 2088.39,
+      "end": 4392.53,
+      "id": "548b23ad-c6a6-4c8a-958b-b71b28685f1c",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "548b23ad-c6a6-4c8a-958b-b71b28685f1c",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "天下皆知美之爲美\n斯惡已\n皆知善之爲善\n斯不善已\n故有無相生\n難易相成\n長短相較\n高下相傾\n音聲相和\n前後相隨\n是以聖人處無爲之事\n行不言之教\n萬物作焉而不辭\n生而不有\n爲而不恃\n功成而弗居\n夫唯弗居\n是以不去",
+          "pronunciation": "tian xià jie zhi meei zhi wéi meei\nsi è yii\njie zhi shàn zhi wéi shàn\nsi bú shàn yii\ngù yoou wú xiang sheng\nnán yì xiang chéng\ncháng duaan xiang jiào\ngao xià xiang qing\nyin sheng xiang hé\nqián hòu xiang suí\nshì yii shèng rén chuu wú wéi zhi shì\nxíng bù yán zhi jiào\nwàn wù zuò yan ér bù cí\nsheng ér bù yoou\nwéi ér bú shì\ngong chéng ér fú ju\nfú wéi fú ju\nshì yii bú qù",
+          "meaning": "The whole world recognizes the beautiful as the beautiful, yet this is only the ugly; \nthe whole world recognizes the good as the good, yet this is only the bad.  \n  \nThus Something and Nothing produce each other; \nThe difficult and the easy complement each other; \nThe long and the short off-set each other; \nThe high and the low incline towards each other; \nNote and sound harmonize with each other; \nBefore and after follow each other.  \n  \nTherefore the sage keeps to the deed that consists in taking no action and practises the teaching that uses no words.  \n  \nThe myriad creatures rise from it yet it claims no authority; \nIt gives them life yet claims no possession; \nIt benefits them yet exacts no gratitude; \nIt accomplishes its task yet lays claim to no merit.  \n  \nIt is because it lays claim to no merit \nThat its merit never deserts it.",
+          "notes": "第2章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 4623.21,
+      "end": 6346.95,
+      "id": "234064b9-0e2b-4c8c-84e3-36bbeabb05a3",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "234064b9-0e2b-4c8c-84e3-36bbeabb05a3",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "不尚賢\n使民不爭\n不貴難得之貨\n使民不爲盜  \n  \n不見可欲\n使民心不亂\n是以聖人之治\n虛其心\n實其腹\n弱其志\n強其骨\n常使民無知無欲\n使夫智者不敢爲也\n爲無爲\n則無不治",
+          "pronunciation": "bú shàng xián\nshii mín bù zheng\nbú guì nán dé zhi huò\nshii mín bù wéi dào  \n  \nbú jiàn/xiàn kee yù\nshii mín xin bú luàn\nshì yii shèng rén zhi zhì\nxu qí xin\nshí qí fù\nruò qí zhì\nqiáng qí guu\ncháng shii mín wú zhi wú yù\nshii fú zhì zhee bù gaan wéi yee\nwéi wú wéi\nzé wú bú zhì",
+          "meaning": "Not to honor men of worth will keep the people from contention; \nnot to value goods which are hard to come by will keep them from theft; \nnot to display what is desirable will keep them from being unsettled of mind.  \n  \nTherefore in governing the people, the sage empties their minds but fills their bellies, weakens their wills but strengthens their bones. \nHe always keeps them innocent of knowledge and free from desire, and ensures that the clever never dare to act.  \n  \nDo that which consists in taking no action, and order will prevail.",
+          "notes": "第3章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 6563.2,
+      "end": 7688.85,
+      "id": "09082185-5e55-4492-8ada-10c36b8da5b4",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "09082185-5e55-4492-8ada-10c36b8da5b4",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "道沖而用之或不盈\n淵兮似萬物之宗\n挫其銳\n解其紛\n和其光\n同其塵\n湛兮似或存\n吾不知誰之子\n象帝之先",
+          "pronunciation": "dào chong ér yòng zhi huò bù yíng\nyuan xi sì wàn wù zhi zong\ncuò qí ruì\njiee qí fen\nhé qí guang\ntóng qí chén\nzhàn xi sì huò cún\nwú bù zhi shuí zhi zii\nxiàng dì zhi xian",
+          "meaning": "The way is empty, yet use will not drain it. \nDeep, it is like the ancestor of the myriad creatures.  \n  \nBlunt the sharpness; \nUntangle the knots; \nSoften the glare; \nLet your wheels move only along old ruts.  \n  \nDarkly visible, it only seems as if it were there. \nI know not whose son it is. \nIt images the forefather of God.",
+          "notes": "第4章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 7922.4,
+      "end": 9081.5,
+      "id": "ae8cfd42-868f-4fb3-b1d4-f9bbcb3b55a7",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "ae8cfd42-868f-4fb3-b1d4-f9bbcb3b55a7",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "天地不仁\n以萬物爲芻狗\n聖人不仁\n以百姓爲芻狗\n天地之間\n其猶橐籥乎\n虛而不屈\n動而愈出\n多言數窮\n不如守中",
+          "pronunciation": "tian dì bù rén\nyii wàn wù wéi chú goou\nshèng rén bù rén\nyii baai xìng wéi chú goou\ntian dì zhi jian\nqí yóu tuó yuè hu\nxu ér bù qu\ndòng ér yù chu\nduo yán shù qióng\nbù rú shoou zhong",
+          "meaning": "Heaven and earth are ruthless, and treat the myriad creatures as straw dogs; \nthe sage is ruthless, and treats the people as straw dogs.  \n  \nIs not the space between heaven and earth like a bellows? \nIt is empty without being exhausted: \nThe more it works the more comes out.  \n  \nMuch speech leads inevitably to silence. \nBetter to hold fast to the void.",
+          "notes": "第5章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 9305.5,
+      "end": 9961.95,
+      "id": "5e1569ad-dcd7-4be0-be81-0934eb264e35",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "5e1569ad-dcd7-4be0-be81-0934eb264e35",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "谷神不死\n是謂玄牝\n玄牝之門\n是謂天地根\n綿綿若存\n用之不勤",
+          "pronunciation": "guu shén bù sii\nshì wèi xuán pìn\nxuán pìn zhi mén\nshì wèi tian dì gen\nmián mián ruò cún\nyòng zhi bù qín",
+          "meaning": "The spirit of the valley never dies. \nThis is called the mysterious female. \nThe gateway of the mysterious female \nIs called the root of heaven and earth. \nDimly visible, it seems as if it were there, \nYet use will never drain it.",
+          "notes": "第6章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 10162.5,
+      "end": 11398.5,
+      "id": "e8467f2d-2820-45d9-a121-1ffecd5a5b73",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "e8467f2d-2820-45d9-a121-1ffecd5a5b73",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "天長地久\n天地所以能長且久者\n以其不自生\n故能長生\n是以聖人後其身而身先\n外其身而身存\n非以其無私邪\n故能成其私",
+          "pronunciation": "tian cháng dì jiuu\ntian dì suoo yii néng cháng qiee jiuu zhee\nyii qí bú zì sheng\ngù néng cháng sheng\nshì yii shèng rén hòu qí shen ér shen xian\nwài qí shen ér shen cún\nfei yii qí wú si yé\ngù néng chéng qí si",
+          "meaning": "Heaven and earth are enduring. \nThe reason why heaven and earth can be enduring is that they do not give themselves life. \nHence they are able to be long-lived.  \n  \nTherefore the sage puts his person last and it comes first, \nTreats it as extraneous to himself and it is preserved.  \n  \nIs it not because he is without thought of self that he is able to accomplish his private ends?",
+          "notes": "第7章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 11586.1,
+      "end": 12944.7,
+      "id": "9ffc3be7-7f1f-4901-9b0f-20925352ce8e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "9ffc3be7-7f1f-4901-9b0f-20925352ce8e",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "上善若水\n水善利萬物而不爭\n處衆人之所惡\n故幾於道\n居善地\n心善淵\n與善仁\n言善信\n正善治\n事善能\n動善時\n夫唯不爭\n故無尤",
+          "pronunciation": "shàng shàn ruò shuii\nshuii shàn lì wàn wù ér bù zheng\nchuu zhòng rén zhi suoo wù\ngù ji yú dào\nju shàn dì\nxin shàn yuan\nyuu shàn rén\nyán shàn xìn\nzhèng shàn zhì\nshì shàn néng\ndòng shàn shí\nfú wéi bù zheng\ngù wú yóu",
+          "meaning": "Highest good is like water. \nBecause water excels in benefiting the myriad creatures without contending with them and settles where none would like to be, it comes close to the way.  \n  \nIn a home it is the site that matters; \nIn quality of mind it is depth that matters; \nIn an ally it is benevolence that matters; \nIn speech it is good faith that matters; \nIn government it is order that matters; \nIn affairs it is ability that matters; \nIn action it is timeliness that matters.  \n  \nIt is because it does not contend that it is never at fault.",
+          "notes": "第8章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 13112,
+      "end": 14062.5,
+      "id": "5bec7ac8-e986-4bf6-8e44-2e2d6499d622",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "5bec7ac8-e986-4bf6-8e44-2e2d6499d622",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "持而盈之\n不如其已\n揣而梲之\n不可長保\n金玉滿堂\n莫之能守\n富貴而驕\n自遺其咎\n功遂身退\n天之道",
+          "pronunciation": "chí ér yíng zhi\nbù rú qí yii\nchuaai ér zhuo zhi\nbù kee cháng baao\njin yù maan táng\nmò zhi néng shoou\nfù guì ér jiao\nzì yí qí jiù\ngong suì shen tuì\ntian zhi dào",
+          "meaning": "Rather than fill it to the brim by keeping it upright \nBetter to have stopped in time; \nHammer it to a point \nAnd the sharpness cannot be preserved for ever; \nThere may be gold and jade to fill a hall \nBut there is none who can keep them. \nTo be overbearing when one has wealth and position \nIs to bring calamity upon oneself. \nTo retire when the task is accomplished \nIs the way of heaven.",
+          "notes": "第9章"
+        }
+      }
+    },
+    {
+      "start": 14274.85,
+      "end": 16121.35,
+      "id": "4340ff19-95bc-4c7b-8b0c-6c4f2c938614",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "4340ff19-95bc-4c7b-8b0c-6c4f2c938614",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "載營魄抱一\n能無離乎\n專氣致柔\n能嬰兒乎\n滌除玄覽\n能無疵乎\n愛民治國\n能無知乎\n天門開闔\n能無雌乎\n明白四達\n能無爲乎\n生之畜之\n生而不有\n爲而不恃\n長而不宰\n是謂玄德",
+          "pronunciation": "zài yiing pò bào yi\nnéng wú lí hu\nzhuan qì zhì róu\nnéng ying ér hu\ndí chú xuán laan\nnéng wú ci hu\nài mín zhì guó\nnéng wú zhi hu\ntian mén kai hé\nnéng wú cí hu\nmíng bái sì dá\nnéng wú wéi hu\nsheng zhi xù zhi\nsheng ér bù yoou\nwéi ér bú shì\nzhaang ér bù zaai\nshì wèi xuán dé",
+          "meaning": "When carrying on your head your perplexed bodily soul \nCan you embrace in your arms the One and not let go? \nIn concentrating your breath can you become as supple \nAs a babe? \nCan you polish your mysterious mirror \nAnd leave no blemish? \nCan you love the people and govern the state \nWithout resorting to action? \nWhen the gates of heaven open and shut \nAre you capable of keeping to the role of the female? \nWhen your discernment penetrates the four quarters \nAre you capable of not knowing anything?  \n  \nIt gives them life and rears them.  \n  \nIt gives them life yet claims no possession; \nIt benefits them yet exacts no gratitude; \nIt is the steward yet exercises no authority. \nSuch is called the mysterious virtue.",
+          "notes": "第10章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 16307.8,
+      "end": 17522.2,
+      "id": "aa2f16b2-9c48-4fe9-a80b-c33352d6bbf9",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "aa2f16b2-9c48-4fe9-a80b-c33352d6bbf9",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "三十輻共一轂\n當其無\n有車之用\n埏埴以爲器\n當其無\n有器之用\n鑿戶牖以爲室\n當其無\n有室之用\n故有之以爲利\n無之以爲用",
+          "pronunciation": "san shí fú gòng yi guu\ndàng qí wú\nyoou che zhi yòng\nyán zhí yii wéi qì\ndàng qí wú\nyoou qì zhi yòng\nzáo hù yoou yii wéi shì\ndàng qí wú\nyoou shì zhi yòng\ngù yoou zhi yii wéi lì\nwú zhi yii wéi yòng",
+          "meaning": "Thirty spokes share one hub. \nAdapt the nothing therein to the purpose in hand, and you will have the use of the cart. \nKnead clay in order to make a vessel. \nAdapt the nothing therein to the purpose in hand, and you will have the use of the vessel. \nCut out doors and windows in order to make a room. \nAdapt the nothing therein to the purpose in hand, and you will have the use of the room.  \n  \nThus what we gain is Something, yet it is by virtue of Nothing that this can be put to use.",
+          "notes": "第11章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 17718.5,
+      "end": 18962.5,
+      "id": "84e5af5a-1620-4468-8a2c-8e5f62b7ef70",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "84e5af5a-1620-4468-8a2c-8e5f62b7ef70",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "五色令人目盲\n五音令人耳聾\n五味令人口爽\n馳騁畋獵\n令人心發狂\n難得之貨\n令人行妨\n是以聖人爲腹不爲目\n故去彼取此",
+          "pronunciation": "wuu sè lìng rén mù máng\nwuu yin lìng rén eer lóng\nwuu wèi lìng rén koou shuaang\nchí cheeng tián liè\nlìng rén xin fa kuáng\nnán dé zhi huò\nlìng rén xíng fáng\nshì yii shèng rén wéi fù bù wéi mù\ngù qù bii quu cii",
+          "meaning": "The five colors make man's eyes blind; \nThe five notes make his ears deaf; \nThe five tastes injure his palate; \nRiding and hunting \nMake his mind go wild with excitement; \nGoods hard to come by \nServe to hinder his progress.  \n  \nHence the sage is \nFor the belly \nNot for the eye.  \n  \nTherefore he discards the one and takes the other.",
+          "notes": "第12章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 19160.47852783203,
+      "end": 21280.2,
+      "id": "1bdcf8f9-639b-42c7-85c8-7fcbcaa12deb",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "1bdcf8f9-639b-42c7-85c8-7fcbcaa12deb",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "寵辱若驚\n貴大患若身\n何謂寵辱若驚\n寵爲下\n得之若驚\n失之若驚\n是謂寵辱若驚\n何謂貴大患若身\n吾所以有大患者\n爲吾有身\n及吾無身\n吾有何患\n故貴以身爲天下\n若可寄天下\n愛以身爲天下\n若可託天下",
+          "pronunciation": "choong ruu ruò jing\nguì dà huàn ruò shen\nhé wèi choong ruu ruò jing\nchoong wéi xià\ndé zhi ruò jing\nshi zhi ruò jing\nshì wèi choong ruu ruò jing\nhé wèi guì dà huàn ruò shen\nwú suoo yii yoou dà huàn zhee\nwéi wú yoou shen\njí wú wú shen\nwú yoou hé huàn\ngù guì yii shen wéi tian xià\nruò kee jì tian xià\nài yii shen wéi tian xià\nruò kee tuo tian xià",
+          "meaning": "Favor and disgrace are things that startle; \nHigh rank is, like one's body, a source of great trouble.  \n  \nWhat is meant by saying favor and disgrace are things that startle? \nFavor when it is bestowed on a subject serves to startle as much as when it is withdrawn. \nThis is what is meant by saying that favor and disgrace are things that startle. \nWhat is meant by saying that high rank is, like one's body, a source of great trouble? \nThe reason I have great trouble is that I have a body. \nWhen I no longer have a body, what trouble have I?  \n  \nHence he who values his body more than dominion over the empire can be entrusted with the empire. \nHe who loves his body more than dominion over the empire can be given the custody of the empire.",
+          "notes": "第13章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 21471,
+      "end": 23799.05,
+      "id": "11c98714-b59e-46d1-a054-0f7923b01f5d",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "11c98714-b59e-46d1-a054-0f7923b01f5d",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "視之不見名曰夷\n聽之不聞名曰希\n搏之不得名曰微\n此三者不可致詰\n故混而爲一\n其上不皦\n其下不昧\n繩繩不可名\n復歸於無物\n是謂無狀之狀\n無物之象\n是謂惚恍\n迎之不見其首\n隨之不見其後\n執古之道\n以御今之有\n能知古始\n是謂道紀",
+          "pronunciation": "shì zhi bú jiàn míng yue yí\nting zhi bù wén míng yue xi\nbó zhi bù dé míng yue wei\ncii san zhee bù kee zhì jié\ngù hùn ér wéi yi\nqí shàng bù jiaao\nqí xià bú mèi\nshéng shéng bù kee míng\nfù gui yú wú wù\nshì wèi wú zhuàng zhi zhuàng\nwú wù zhi xiàng\nshì wèi hu huaang\nyíng zhi bú jiàn qí shoou\nsuí zhi bú jiàn qí hòu\nzhí guu zhi dào\nyii yù jin zhi yoou\nnéng zhi guu shii\nshì wèi dào jì",
+          "meaning": "What cannot be seen is called evanescent; \nWhat cannot be heard is called rarefied; \nWhat cannot be touched is called minute.  \n  \nThese three cannot be fathomed \nAnd so they are confused and looked upon as one.  \n  \nIts upper part is not dazzling; \nIts lower part is not obscure. \nDimly visible, it cannot be named \nAnd returns to that which is without substance. \nThis is called the shape that has no shape, \nThe image that is without substance. \nThis is called indistinct and shadowy. \nGo up to it and you will not see its head; \nFollow behind it and you will not see its rear.  \n  \nHold fast to the way of antiquity \nIn order to keep in control the realm of today. \nThe ability to know the beginning of antiquity \nIs called the thread running through the way.",
+          "notes": "第14章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 23987.95,
+      "end": 26494.2,
+      "id": "957543ef-0922-47fa-ad2c-e9942cf7dddc",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "957543ef-0922-47fa-ad2c-e9942cf7dddc",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "古之善爲士者\n微妙玄通\n深不可識\n夫唯不可識\n故強爲之容  \n  \n豫焉若冬涉川\n猶兮若畏四鄰\n儼兮其若容\n渙兮若冰之將釋\n敦兮其若樸\n曠兮其若谷\n混兮其若濁\n孰能濁以靜之徐清\n孰能安以久動之徐生\n保此道者不欲盈\n夫唯不盈\n故能蔽不新成",
+          "pronunciation": "guu zhi shàn wéi shì zhee\nwei miào xuán tong\nshen bù kee shí\nfú wéi bù kee shí\ngù qiaang wéi zhi róng  \n  \nyù yan ruò dong shè chuan\nyóu xi ruò wèi sì lín\nyaan xi qí ruò róng\nhuàn xi ruò bing zhi jiang shì\ndun xi qí ruò puu\nkuàng xi qí ruò guu\nhùn xi qí ruò zhuó\nshú néng zhuó yii jìng zhi xú qing\nshú néng an yii jiuu dòng zhi xú sheng\nbaao cii dào zhee bú yù yíng\nfú wéi bù yíng\ngù néng bì bù xin chéng",
+          "meaning": "Of old he who was well versed in the way \nWas minutely subtle, mysteriously comprehending, \nAnd too profound to be known. \nIt is because he could not be known \nThat he can only be given a makeshift description:  \n  \nTentative, as if fording a river in winter, \nHesitant, as if in fear of his neighbors; \nFormal like a guest; \nFalling apart like the thawing ice; \nThick like the uncarved block; \nVacant like a valley; \nMurky like muddy water.  \n  \nWho can be muddy and yet, settling, slowly become limpid? \nWho can be at rest and yet, stirring, slowly come to life? \nHe who holds fast to this way \nDesires not to be full. \nIt is because he is not full \nThat he can be worn and yet newly made.",
+          "notes": "第15章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 26728.4,
+      "end": 28598.8,
+      "id": "7f1dedec-98da-426f-bfb2-d5d6ee3e6de2",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "7f1dedec-98da-426f-bfb2-d5d6ee3e6de2",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "致虛極\n守靜篤\n萬物並作\n吾以觀復\n夫物芸芸\n各復歸其根\n歸根曰靜\n是謂復命\n復命曰常\n知常曰明\n不知常\n妄作凶\n知常容\n容乃公\n公乃王\n王乃天\n天乃道\n道乃久\n没身不殆",
+          "pronunciation": "zhì xu jí\nshoou jìng duu\nwàn wù bìng zuò\nwú yii guan fù\nfú wù yún yún\ngè fù gui qí gen\ngui gen yue jìng\nshì wèi fù mìng\nfù mìng yue cháng\nzhi cháng yue míng\nbù zhi cháng\nwàng zuò xiong\nzhi cháng róng\nróng naai gong\ngong naai wáng\nwáng naai tian\ntian naai dào\ndào naai jiuu\nmò shen bú dài",
+          "meaning": "I do my utmost to attain emptiness; \nI hold firmly to stillness. \nThe myriad creatures all rise together \nAnd I watch their return. \nThe teaming creatures \nAll return to their separate roots. \nReturning to one's roots is known as stillness. \nThis is what is meant by returning to one's destiny. \nReturning to one's destiny is known as the constant. \nKnowledge of the constant is known as discernment.  \n  \nWoe to him who wilfully innovates \nWhile ignorant of the constant, \nBut should one act from knowledge of the constant \nOne's action will lead to impartiality, \nImpartiality to kingliness, \nKingliness to heaven, \nHeaven to the way, \nThe way to perpetuity, \nAnd to the end of one's days one will meet with no danger.",
+          "notes": "第16章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 28813.6,
+      "end": 30025.5,
+      "id": "111e2e00-86fb-4fdc-a9b9-c3a2bb267d53",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "111e2e00-86fb-4fdc-a9b9-c3a2bb267d53",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "太上\n下知有之\n其次親而譽之\n其次畏之\n其次侮之\n信不足焉\n有不信焉\n悠兮其貴言\n功成事遂\n百姓皆謂我自然",
+          "pronunciation": "tài shàng\nxià zhi yoou zhi\nqí cì qin ér yù zhi\nqí cì wèi zhi\nqí cì wuu zhi\nxìn bù zú yan\nyoou bú xìn yan\nyou xi qí guì yán\ngong chéng shì suì\nbaai xìng jie wèi woo zì rán",
+          "meaning": "The best of all rulers is but a shadowy presence to his subjects. \nNext comes the ruler they love and praise; \nNext comes one they fear; \nNext comes one with whom they take liberties.  \n  \nWhen there is not enough faith, there is lack of good faith.  \n  \nHesitant, he does not utter words lightly. \nWhen his task is accomplished and his work done \nThe people all say, 'It happened to us naturally.'",
+          "notes": "第17章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 30230.5,
+      "end": 30932.45,
+      "id": "5a9b5903-d12c-47d1-854d-774b31bce62a",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "5a9b5903-d12c-47d1-854d-774b31bce62a",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "大道廢\n有仁義\n慧智出\n有大僞\n六親不和\n有孝慈\n國家昏亂\n有忠臣",
+          "pronunciation": "dà dào fèi\nyoou rén yì\nhuì zhì chu\nyoou dà weei\nliù qin bù hé\nyoou xiào cí\nguó jia hun luàn\nyoou zhong chén",
+          "meaning": "When the great way falls into disuse \nThere are benevolence and rectitude; \nWhen cleverness emerges \nThere is great hypocrisy; \nWhen the six relations are at variance \nThere are filial children; \nWhen the state is benighted \nThere are loyal ministers.",
+          "notes": "第18章"
+        }
+      }
+    },
+    {
+      "start": 31152.8,
+      "end": 32351.45,
+      "id": "0f6f1487-6fbc-43ce-af98-8bc146fd8c1e",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "0f6f1487-6fbc-43ce-af98-8bc146fd8c1e",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "絕聖棄智\n民利百倍\n絕仁棄義\n民復孝慈\n絕巧棄利\n盜賊無有\n此三者以爲文不足\n故令有所屬\n見素抱樸\n少私寡欲",
+          "pronunciation": "jué shèng qì zhì\nmín lì baai bèi\njué rén qì yì\nmín fù xiào cí\njué qiaao qì lì\ndào zéi wú yoou\ncii san zhee yii wéi wén bù zú\ngù lìng yoou suoo shuu\njiàn/xiàn sù bào puu\nshaao si guaa yù",
+          "meaning": "Exterminate learning and there will no longer be worries.  \n  \nExterminate the sage, discard the wise, \nAnd the people will benefit a hundredfold; \nExterminate benevolence, discard rectitude, \nAnd the people will again be filial; \nExterminate ingenuity, discard profit, \nAnd there will be no more thieves and bandits.  \n  \nThese three, being false adornments, are not enough \nAnd the people must have something to which they can attach themselves: \nExhibit the unadorned and embrace the uncarved block, \nHave little thought of self and as few desires as possible.",
+          "notes": "第19章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 32542.05,
+      "end": 36167.2,
+      "id": "4e2701e7-5902-4d84-987c-650694f8756f",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "4e2701e7-5902-4d84-987c-650694f8756f",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "絕學無憂\n唯之與阿\n相去幾何\n善之與惡\n相去幾何\n人之所畏\n不可不畏\n荒兮其未央哉\n衆人熙熙\n如享太牢\n如春登臺\n我獨泊兮其未兆\n如嬰兒之未孩\n儽儽兮若無所歸\n衆人皆有餘\n而我獨若遺\n我愚人之心也哉\n沌沌兮\n俗人昭昭\n我獨昏昏\n俗人察察\n我獨悶悶\n澹兮其若海\n飂兮若無止\n衆人皆有以\n而我獨頑似鄙\n我獨異於人\n而貴食母",
+          "pronunciation": "jué xué wú you\nweei zhi yuu e\nxiang qù jii hé\nshàn zhi yuu è\nxiang qù jii hé\nrén zhi suoo wèi\nbù kee bú wèi\nhuang xi qí wèi yang zai\nzhòng rén xi xi\nrú heng tài láo\nrú chun deng tái\nwoo dú bó xi qí wèi zhào\nrú ying ér zhi wèi hái\nleei leei xi ruò wú suoo gui\nzhòng rén jie yoou yú\nér woo dú ruò yí\nwoo yú rén zhi xin yee zai\ndùn dùn xi\nsú rén zhao zhao\nwoo dú hun hun\nsú rén chá chá\nwoo dú mèn mèn\ndàn xi qí ruò haai\nliáo xi ruò wú zhii\nzhòng rén jie yoou yii\nér woo dú wán shí bii\nwoo dú yì yú rén\nér guì sì muu",
+          "meaning": "Between yea and nay \nHow much difference is there? \nBetween good and evil \nHow great is the distance?  \n  \nWhat others fear \nOne must also fear.  \n  \nThe multitude are joyous \nAs if partaking of the offering \nOr going up to a terrace in spring. \nI alone am inactive and reveal no signs, \nAnd wax without having reached the limit. \nLike a baby that has not yet learned to smile, \nListless as though with no home to go back to. \nThe multitude all have more than enough. \nI alone seem to be in want. \nMy mind is that of a fool - how blank! \nVulgar people are clear. \nI alone am drowsy. \nVulgar people are alert. \nI alone am muddled. \nCalm like the sea; \nLike a high wind that never ceases. \nThe multitude all have a purpose. \nI alone am foolish and uncouth. \nI alone am different from others \nAnd value being fed by the mother.",
+          "notes": "第20章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
+      "start": 36388.85,
+      "end": 38278.6,
+      "id": "6ec3dcc9-491c-46e2-a484-3904121a341b",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "6ec3dcc9-491c-46e2-a484-3904121a341b",
+        "tags": [
+          "ddj"
+        ],
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "孔德之容\n惟道是從\n道之爲物\n惟恍惟惚\n惚兮恍兮\n其中有象\n恍兮惚兮\n其中有物\n窈兮冥兮\n其中有精\n其精甚眞\n其中有信\n自古及今\n其名不去\n以閱衆甫\n吾何以知衆甫之狀哉\n以此",
+          "pronunciation": "koong dé zhi róng\nwéi dào shì cóng\ndào zhi wéi wù\nwéi huaang wéi hu\nhu xi huaang xi\nqí zhong yoou xiàng\nhuaang xi hu xi\nqí zhong yoou wù\nyaao xi míng xi\nqí zhong yoou jing\nqí jing shèn zhen\nqí zhong yoou xìn\nzì guu jí jin\nqí míng bú qù\nyii yuè zhòng fuu\nwú hé yii zhi zhòng fuu zhi zhuàng zai\nyii cii",
+          "meaning": "In his every movement a man of great virtue \nFollows the way and the way only.  \n  \nAs a thing the way is \nShadowy and indistinct. \nIndistinct and shadowy, \nYet within it is an image; \nShadowy and indistinct, \nYet within it is a substance. \nDim and dark, \nYet within it is an essence. \nThis essence is quite genuine \nAnd within it is something that can be tested.  \n  \nFrom the present back to antiquity, \nIts name never deserted it. \nIt serves as a means for inspecting the fathers of the multitude.  \n  \nHow do I know that the fathers of the multitude are like that? \nBy means of this.",
+          "notes": "第21章"
+        }
+      }
+    },
+    {
+      "start": 38517.45,
+      "end": 40558.2,
+      "id": "eb8bb793-d3ad-4c87-8768-04bc0a565796",
+      "fileId": "5594fe50-564e-4ea9-975b-0ccc78b58070",
+      "flashcard": {
+        "id": "eb8bb793-d3ad-4c87-8768-04bc0a565796",
+        "type": "Transliteration",
+        "fields": {
+          "transcription": "曲則全\n枉則直\n窪則盈\n敝則新\n少則得\n多則惑\n是以聖人抱一爲天下式\n不自見\n故明\n不自是\n故彰\n不自伐\n故有功\n不自矜\n故長\n夫唯不爭\n故天下莫能與之爭\n古之所謂曲則全者\n豈虛言哉\n誠全而歸之",
+          "pronunciation": "qu zé quán\nwaang zé zhí\nwa zé yíng\nbì zé xin\nshaao zé dé\nduo zé huò\nshì yii shèng rén bào yi wéi tian xià shì\nbú zì jiàn\ngù míng\nbú zì shì\ngù zhang\nbú zì fá\ngù yoou gong\nbú zì jin\ngù zhaang\nfú wéi bù zheng\ngù tian xià mò néng yuu zhi zheng\nguu zhi suoo wèi qu zé quán zhee\nqii xu yán zai\nchéng quán ér gui zhi",
+          "meaning": "Bowed down then preserved; \nBent then straight; \nHollow then full; \nWorn then new; \nA little then benefited; \nA lot then perplexed.  \n  \nTherefore the sage embraces the One and is a model for the empire.  \n  \nHe does not show himself, and so is conspicuous; \nHe does not consider himself right, and so is illustrious; \nHe does not brag, and so has merit; \nHe does not boast, and so endures.  \n  \nIt is because he does not contend that no one in the empire is in a position to contend with him.  \n  \nThe way the ancients had it, 'Bowed down then preserved', is no empty saying. \nTruly it enables one to be preserved to the end.",
+          "notes": "第22章"
+        },
+        "tags": [
+          "ddj"
+        ]
+      }
+    },
+    {
       "start": 40795.65,
       "end": 43128.1,
       "id": "18c65f96-2bd2-4e79-91ec-36377ad6a1cb",
@@ -2386,7 +2396,7 @@
         ]
       }
     },
-    "70b9a73b-f017-484b-a440-42670bb9367c": {
+    {
       "start": 43338.3,
       "end": 44523.3,
       "id": "70b9a73b-f017-484b-a440-42670bb9367c",
@@ -2405,7 +2415,7 @@
         ]
       }
     },
-    "cf5947f8-4f0b-422b-94be-196145ca05fa": {
+    {
       "start": 44752.85,
       "end": 47071.15,
       "id": "cf5947f8-4f0b-422b-94be-196145ca05fa",
@@ -2424,7 +2434,7 @@
         ]
       }
     },
-    "b413fff5-1acb-49b6-8b81-63a3742df3e0": {
+    {
       "start": 47259.75,
       "end": 48443.8,
       "id": "b413fff5-1acb-49b6-8b81-63a3742df3e0",
@@ -2443,7 +2453,7 @@
         ]
       }
     },
-    "ddcc0d07-6763-4c1f-9224-f20220126ef3": {
+    {
       "start": 48642.7,
       "end": 51038.5,
       "id": "ddcc0d07-6763-4c1f-9224-f20220126ef3",
@@ -2462,7 +2472,7 @@
         ]
       }
     },
-    "cd685b2b-8074-4e3c-8715-0362470e7fdf": {
+    {
       "start": 51281,
       "end": 53611.5,
       "id": "cd685b2b-8074-4e3c-8715-0362470e7fdf",
@@ -2481,7 +2491,7 @@
         ]
       }
     },
-    "b3144980-48bd-4f40-a936-bef02326db49": {
+    {
       "start": 53852.5,
       "end": 55402.5,
       "id": "b3144980-48bd-4f40-a936-bef02326db49",
@@ -2500,7 +2510,7 @@
         ]
       }
     },
-    "8b56a75e-24ad-47d0-91d1-2c63767455d7": {
+    {
       "start": 55620.5,
       "end": 57557,
       "id": "8b56a75e-24ad-47d0-91d1-2c63767455d7",
@@ -2519,7 +2529,7 @@
         ]
       }
     },
-    "ad9aba56-3e6a-44e7-b72f-7ce249b7c0c2": {
+    {
       "start": 57773,
       "end": 60777,
       "id": "ad9aba56-3e6a-44e7-b72f-7ce249b7c0c2",
@@ -2538,7 +2548,7 @@
         ]
       }
     },
-    "2237fc71-ae6f-4852-8e55-6655ab0dd310": {
+    {
       "start": 60993,
       "end": 62801,
       "id": "2237fc71-ae6f-4852-8e55-6655ab0dd310",
@@ -2557,7 +2567,7 @@
         ]
       }
     },
-    "58fbb264-4a51-4fb0-8471-ad2e31bf9e3a": {
+    {
       "start": 63007.5,
       "end": 63906,
       "id": "58fbb264-4a51-4fb0-8471-ad2e31bf9e3a",
@@ -2576,7 +2586,7 @@
         }
       }
     },
-    "10814752-ca8e-4249-8a6b-2299c4e54123": {
+    {
       "start": 64149.5,
       "end": 65674,
       "id": "10814752-ca8e-4249-8a6b-2299c4e54123",
@@ -2595,7 +2605,7 @@
         ]
       }
     },
-    "fb4684bf-06e7-48d9-9ec1-8ecad70ecfec": {
+    {
       "start": 65911.5,
       "end": 67051.5,
       "id": "fb4684bf-06e7-48d9-9ec1-8ecad70ecfec",
@@ -2614,7 +2624,7 @@
         ]
       }
     },
-    "23932004-f1ac-4c49-a115-fa2edf6f57a5": {
+    {
       "start": 67244.5,
       "end": 68687.5,
       "id": "23932004-f1ac-4c49-a115-fa2edf6f57a5",
@@ -2633,7 +2643,7 @@
         ]
       }
     },
-    "1174e837-69f1-4a43-bd24-0a2c5fc0a8c4": {
+    {
       "start": 68911.5,
       "end": 70196,
       "id": "1174e837-69f1-4a43-bd24-0a2c5fc0a8c4",
@@ -2652,7 +2662,7 @@
         ]
       }
     },
-    "c2e3514e-9f11-4319-b61c-6d4943e26029": {
+    {
       "start": 70445.5,
       "end": 73708.5,
       "id": "c2e3514e-9f11-4319-b61c-6d4943e26029",
@@ -2671,7 +2681,7 @@
         ]
       }
     },
-    "da700438-fc06-4af0-a789-b0ec6c267531": {
+    {
       "start": 73924,
       "end": 77379,
       "id": "da700438-fc06-4af0-a789-b0ec6c267531",
@@ -2690,7 +2700,7 @@
         ]
       }
     },
-    "eeb964a4-823c-406d-b4b8-5baf497ffc3a": {
+    {
       "start": 77617,
       "end": 78142.5,
       "id": "eeb964a4-823c-406d-b4b8-5baf497ffc3a",
@@ -2709,7 +2719,7 @@
         }
       }
     },
-    "6462fb5f-d365-464f-98a4-469adcf15676": {
+    {
       "start": 78388,
       "end": 80979.5,
       "id": "6462fb5f-d365-464f-98a4-469adcf15676",
@@ -2728,7 +2738,7 @@
         ]
       }
     },
-    "9302c6b5-7da4-4d95-85ff-7c0258e697c4": {
+    {
       "start": 81186,
       "end": 83148,
       "id": "9302c6b5-7da4-4d95-85ff-7c0258e697c4",
@@ -2747,7 +2757,7 @@
         ]
       }
     },
-    "dd5f0a9f-5035-4e51-b9f0-a1c985516c24": {
+    {
       "start": 83377.5,
       "end": 84331.5,
       "id": "dd5f0a9f-5035-4e51-b9f0-a1c985516c24",
@@ -2766,7 +2776,7 @@
         ]
       }
     },
-    "bc52a769-8006-40af-b2b1-7b43120b5a86": {
+    {
       "start": 84571.5,
       "end": 85588,
       "id": "bc52a769-8006-40af-b2b1-7b43120b5a86",
@@ -2785,7 +2795,7 @@
         }
       }
     },
-    "67afcfd7-0fdf-4b8b-865c-f0b307c338f3": {
+    {
       "start": 85844,
       "end": 87021,
       "id": "67afcfd7-0fdf-4b8b-865c-f0b307c338f3",
@@ -2804,7 +2814,7 @@
         ]
       }
     },
-    "b7a98f0f-49c7-4c52-85e6-95313acb6e6a": {
+    {
       "start": 87218.5,
       "end": 88177.5,
       "id": "b7a98f0f-49c7-4c52-85e6-95313acb6e6a",
@@ -2823,7 +2833,7 @@
         ]
       }
     },
-    "4e35b1ff-64ac-4de2-93eb-03c03975ae80": {
+    {
       "start": 88403.5,
       "end": 89372.5,
       "id": "4e35b1ff-64ac-4de2-93eb-03c03975ae80",
@@ -2842,7 +2852,7 @@
         ]
       }
     },
-    "91cc22d6-4a26-450a-bf4b-2329c7d7ae30": {
+    {
       "start": 89582.5,
       "end": 90644,
       "id": "91cc22d6-4a26-450a-bf4b-2329c7d7ae30",
@@ -2861,7 +2871,7 @@
         ]
       }
     },
-    "a89588d2-4f2a-4446-8769-a45bb8480bc4": {
+    {
       "start": 90888.5,
       "end": 92701,
       "id": "a89588d2-4f2a-4446-8769-a45bb8480bc4",
@@ -2880,7 +2890,7 @@
         ]
       }
     },
-    "59891216-72c0-4174-8578-6699698e35ef": {
+    {
       "start": 92893.5,
       "end": 95025.5,
       "id": "59891216-72c0-4174-8578-6699698e35ef",
@@ -2899,7 +2909,7 @@
         ]
       }
     },
-    "d1b950f9-5778-45ac-9eeb-d28d62e03c39": {
+    {
       "start": 95260.5,
       "end": 97271.5,
       "id": "d1b950f9-5778-45ac-9eeb-d28d62e03c39",
@@ -2918,7 +2928,7 @@
         ]
       }
     },
-    "2c71cecf-7d44-4e99-b39b-c48ce4aa7a7d": {
+    {
       "start": 97467,
       "end": 99422.5,
       "id": "2c71cecf-7d44-4e99-b39b-c48ce4aa7a7d",
@@ -2937,7 +2947,7 @@
         ]
       }
     },
-    "d10ba8a6-d846-4050-a4f4-4569e0d19da9": {
+    {
       "start": 99625,
       "end": 101012.5,
       "id": "d10ba8a6-d846-4050-a4f4-4569e0d19da9",
@@ -2956,7 +2966,7 @@
         ]
       }
     },
-    "c0a2f7fc-15d9-4ea4-b33a-cd9f360d1b96": {
+    {
       "start": 101194.5,
       "end": 103662.5,
       "id": "c0a2f7fc-15d9-4ea4-b33a-cd9f360d1b96",
@@ -2975,7 +2985,7 @@
         ]
       }
     },
-    "e7cfbb26-59d6-4617-807d-f42e7b5b56a8": {
+    {
       "start": 103897.5,
       "end": 106018.5,
       "id": "e7cfbb26-59d6-4617-807d-f42e7b5b56a8",
@@ -2994,7 +3004,7 @@
         ]
       }
     },
-    "bb2463c0-ddf5-46de-b7ee-8a2289911c0e": {
+    {
       "start": 106234,
       "end": 107822,
       "id": "bb2463c0-ddf5-46de-b7ee-8a2289911c0e",
@@ -3013,7 +3023,7 @@
         ]
       }
     },
-    "9b0dab33-6e1d-4dc2-b8c2-e0b82cd4a6c9": {
+    {
       "start": 108059.5,
       "end": 110469.5,
       "id": "9b0dab33-6e1d-4dc2-b8c2-e0b82cd4a6c9",
@@ -3032,7 +3042,7 @@
         ]
       }
     },
-    "0b3cf51d-aa84-444a-bcea-51afc054676d": {
+    {
       "start": 110712.5,
       "end": 112601,
       "id": "0b3cf51d-aa84-444a-bcea-51afc054676d",
@@ -3051,7 +3061,7 @@
         ]
       }
     },
-    "3645a796-9892-4894-821c-751da3ac749f": {
+    {
       "start": 112821.5,
       "end": 114419.5,
       "id": "3645a796-9892-4894-821c-751da3ac749f",
@@ -3070,7 +3080,7 @@
         ]
       }
     },
-    "96677d0a-90c2-4026-bfe1-f929676ef108": {
+    {
       "start": 114658,
       "end": 115911,
       "id": "96677d0a-90c2-4026-bfe1-f929676ef108",
@@ -3089,7 +3099,7 @@
         ]
       }
     },
-    "b1be254a-de3a-4a4c-8d62-b21e7955b33b": {
+    {
       "start": 116143,
       "end": 118248.5,
       "id": "b1be254a-de3a-4a4c-8d62-b21e7955b33b",
@@ -3108,7 +3118,7 @@
         ]
       }
     },
-    "47d5b97b-ddad-4a89-84db-8f5deab3cbdc": {
+    {
       "start": 118510.5,
       "end": 120566.5,
       "id": "47d5b97b-ddad-4a89-84db-8f5deab3cbdc",
@@ -3127,7 +3137,7 @@
         ]
       }
     },
-    "f2eb55c2-4667-4406-af53-e4e72a4bb41e": {
+    {
       "start": 120801.5,
       "end": 122810.5,
       "id": "f2eb55c2-4667-4406-af53-e4e72a4bb41e",
@@ -3146,7 +3156,7 @@
         ]
       }
     },
-    "69601500-3ae7-4a95-8aef-6a26208ff2fe": {
+    {
       "start": 123060,
       "end": 126193.5,
       "id": "69601500-3ae7-4a95-8aef-6a26208ff2fe",
@@ -3165,7 +3175,7 @@
         ]
       }
     },
-    "50fa9c2e-8d2d-448b-a0b5-68d474e01adb": {
+    {
       "start": 126429.5,
       "end": 128263.5,
       "id": "50fa9c2e-8d2d-448b-a0b5-68d474e01adb",
@@ -3184,7 +3194,7 @@
         ]
       }
     },
-    "bf9d7172-9046-4cec-bcc1-36cad825507c": {
+    {
       "start": 128499.5,
       "end": 130289,
       "id": "bf9d7172-9046-4cec-bcc1-36cad825507c",
@@ -3203,7 +3213,7 @@
         ]
       }
     },
-    "8efb1381-a687-4cc9-975e-788d8684f0aa": {
+    {
       "start": 130495.5,
       "end": 133261,
       "id": "8efb1381-a687-4cc9-975e-788d8684f0aa",
@@ -3222,7 +3232,7 @@
         ]
       }
     },
-    "d73a2da9-2ac1-4c05-8421-2308ef39b6b5": {
+    {
       "start": 133474.5,
       "end": 134516.5,
       "id": "d73a2da9-2ac1-4c05-8421-2308ef39b6b5",
@@ -3241,7 +3251,7 @@
         ]
       }
     },
-    "68e872c5-6764-4c60-8ef4-23d341491593": {
+    {
       "start": 134754.5,
       "end": 136139,
       "id": "68e872c5-6764-4c60-8ef4-23d341491593",
@@ -3260,7 +3270,7 @@
         ]
       }
     },
-    "611fc380-a2da-4205-ade3-293916072ff4": {
+    {
       "start": 136367,
       "end": 137610.5,
       "id": "611fc380-a2da-4205-ade3-293916072ff4",
@@ -3279,7 +3289,7 @@
         ]
       }
     },
-    "391aad82-997e-49af-8ca9-ce539a8a28f9": {
+    {
       "start": 137834,
       "end": 138589.5,
       "id": "391aad82-997e-49af-8ca9-ce539a8a28f9",
@@ -3298,7 +3308,7 @@
         }
       }
     },
-    "3a3b307b-19f0-44d2-8c70-aaf804681aa0": {
+    {
       "start": 138833.5,
       "end": 139978,
       "id": "3a3b307b-19f0-44d2-8c70-aaf804681aa0",
@@ -3317,7 +3327,7 @@
         ]
       }
     },
-    "f12f400f-d300-4a38-85e7-98b1dd67814c": {
+    {
       "start": 140211,
       "end": 141921,
       "id": "f12f400f-d300-4a38-85e7-98b1dd67814c",
@@ -3336,7 +3346,7 @@
         ]
       }
     },
-    "386fa9a6-9168-42bd-b90c-5f82b2bc8171": {
+    {
       "start": 142115.5,
       "end": 143583.5,
       "id": "386fa9a6-9168-42bd-b90c-5f82b2bc8171",
@@ -3355,7 +3365,7 @@
         ]
       }
     },
-    "242d8d90-615f-451d-8728-8858daa2563c": {
+    {
       "start": 143794,
       "end": 145114.5,
       "id": "242d8d90-615f-451d-8728-8858daa2563c",
@@ -3374,7 +3384,7 @@
         ]
       }
     },
-    "f7868107-e753-4949-9242-904cf3adb23b": {
+    {
       "start": 145373.5,
       "end": 146853,
       "id": "f7868107-e753-4949-9242-904cf3adb23b",
@@ -3393,7 +3403,7 @@
         ]
       }
     },
-    "c033699d-1b60-4363-85b9-45de8b7d4ea8": {
+    {
       "start": 147101,
       "end": 149188.5,
       "id": "c033699d-1b60-4363-85b9-45de8b7d4ea8",
@@ -3412,7 +3422,7 @@
         ]
       }
     },
-    "1b01faf6-a7e2-4f20-9a0b-78add9ccbb16": {
+    {
       "start": 149434,
       "end": 151115.5,
       "id": "1b01faf6-a7e2-4f20-9a0b-78add9ccbb16",
@@ -3431,7 +3441,7 @@
         ]
       }
     },
-    "9900ed7c-cbac-4f44-824d-808730dfcf62": {
+    {
       "start": 151353.5,
       "end": 152408.5,
       "id": "9900ed7c-cbac-4f44-824d-808730dfcf62",
@@ -3450,7 +3460,7 @@
         ]
       }
     },
-    "1789b08b-5c84-4e39-9971-175465ff0f4e": {
+    {
       "start": 152646.5,
       "end": 154590,
       "id": "1789b08b-5c84-4e39-9971-175465ff0f4e",
@@ -3469,7 +3479,7 @@
         ]
       }
     },
-    "cba9bc54-569b-47d0-8960-e8a3807cebe7": {
+    {
       "start": 154879.5,
       "end": 156411,
       "id": "cba9bc54-569b-47d0-8960-e8a3807cebe7",
@@ -3488,5 +3498,6 @@
         ]
       }
     }
-  }
+  ],
+  "subtitles": []
 }

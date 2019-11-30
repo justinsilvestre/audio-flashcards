@@ -1,27 +1,9 @@
 {
-  "version": "2.0.0",
-  "timestamp": "2019-04-19T12:38:15Z",
+  "version": "3.0.0",
+  "timestamp": "2019-06-02T09:56:00Z",
   "name": "German",
-  "id": "3bf9d637-b012-4394-b98f-5f75b1dbedb0",
-  "noteType": {
-    "id": "default_fork",
-    "name": "German",
-    "fields": [
-      {
-        "id": "front",
-        "name": "German"
-      },
-      {
-        "id": "back",
-        "name": "English"
-      },
-      {
-        "id": "934a3b85-be04-43af-b9f6-30be2f5b8e1d",
-        "name": "Notes"
-      }
-    ],
-    "useTagsField": true
-  },
+  "id": "64cdc932-fd04-4c6b-8607-a2dbba9b524b",
+  "noteType": "Simple",
   "mediaFilesMetadata": [
     {
       "id": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
@@ -69,1858 +51,1968 @@
   "clips": {
     "d5883b90-04e7-4a33-b943-fee57d1354d5": {
       "id": "d5883b90-04e7-4a33-b943-fee57d1354d5",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 309,
       "end": 480,
       "flashcard": {
         "id": "d5883b90-04e7-4a33-b943-fee57d1354d5",
-        "fields": {
-          "front": "Piggeldy wollte wissen, wie man den Mond fängt.",
-          "back": "Piggeldy wanted to know, how one catches the moon.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "\"How one catches the moon\" is like a sentence within a sentence: it has a subject \"one\" and a verb \"catches\".\n\nThis makes it a *subordinate clause*. It's *subordinate* because it's embedded within the *main clause* of the sentence, \"Piggeldy wanted to know...\"\n\nIn a subordinate clause like this, German always puts the verb at the end. So:\n\nMan fängt den Mond. = One catches the moon.\nBUT\nEr will wissen, wie man den Mond fängt. = He wants to know how one catches the moon."
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Piggeldy wollte wissen, wie man den Mond fängt.",
+          "meaning": "Piggeldy wanted to know, how one catches the moon.",
+          "notes": "\"How one catches the moon\" is like a sentence within a sentence: it has a subject \"one\" and a verb \"catches\".\n\nThis makes it a *subordinate clause*. It's *subordinate* because it's embedded within the *main clause* of the sentence, \"Piggeldy wanted to know...\"\n\nIn a subordinate clause like this, German always puts the verb at the end. So:\n\nMan fängt den Mond. = One catches the moon.\nBUT\nEr will wissen, wie man den Mond fängt. = He wants to know how one catches the moon."
+        }
+      }
     },
     "e155ed0a-4f8a-4523-a4f0-9202ac81ca99": {
-      "start": 309,
-      "end": 1321,
       "id": "e155ed0a-4f8a-4523-a4f0-9202ac81ca99",
       "fileId": "35f9fda8-7563-42b7-9869-cec895389ae8",
+      "start": 309,
+      "end": 1321,
       "flashcard": {
         "id": "e155ed0a-4f8a-4523-a4f0-9202ac81ca99",
         "tags": [
           "piggeldy-der-vogel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Piggeldy wollte wissen, wie ein Vogel singt.\n\n„Frederick,\" fragte Piggeldy seinen großen Bruder, „Frederick, sag mir, wie ein Vogel singt.\"\"\r\n\n„Nichts leichter als das!\" antwortete Frederick. „Komm mit!\"\n\nPiggelyd folgte Frederick.",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "Piggeldy wollte wissen, wie ein Vogel singt.\n\n„Frederick,\" fragte Piggeldy seinen großen Bruder, „Frederick, sag mir, wie ein Vogel singt.\"\"\r\n\n„Nichts leichter als das!\" antwortete Frederick. „Komm mit!\"\n\nPiggelyd folgte Frederick.",
+          "meaning": "",
+          "notes": ""
         }
       }
     },
     "2016edc3-de5b-4252-ba3f-826bad2ef92c": {
-      "start": 320,
-      "end": 920,
       "id": "2016edc3-de5b-4252-ba3f-826bad2ef92c",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 320,
+      "end": 920,
       "flashcard": {
         "id": "2016edc3-de5b-4252-ba3f-826bad2ef92c",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Piggeldy wollte wissen, wie man Bilder malt.\n\n„Frederick,\" fragte Piggeldy deshalb seinen großen Bruder, „Frederick, zeig mir, wie man Bilder malt.\"",
-          "back": "Piggeldy wanted to know how one paints pictures.\n\n\"Frederick,\" Piggeldy asked therefore his big brother, \"Frederick, show me how one paints pictures.\"",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "malen, malte, gemalt (regular)\ndas Bild, die Bilder"
+          "transcription": "Piggeldy wollte wissen, wie man Bilder malt.\n\n„Frederick,\" fragte Piggeldy deshalb seinen großen Bruder, „Frederick, zeig mir, wie man Bilder malt.\"",
+          "meaning": "Piggeldy wanted to know how one paints pictures.\n\n\"Frederick,\" Piggeldy asked therefore his big brother, \"Frederick, show me how one paints pictures.\"",
+          "notes": "malen, malte, gemalt (regular)\ndas Bild, die Bilder"
         }
       }
     },
     "d052d532-0f33-4a7b-a675-5fbca30efb3f": {
-      "start": 338,
-      "end": 1418,
       "id": "d052d532-0f33-4a7b-a675-5fbca30efb3f",
       "fileId": "53ac7c0c-bbfc-4444-9918-291291d20309",
+      "start": 338,
+      "end": 1418,
       "flashcard": {
         "id": "d052d532-0f33-4a7b-a675-5fbca30efb3f",
         "tags": [
           "piggeldy-der-himmel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Piggeldy wollte wissen, wo der Himmel anfängt.\n\n„Frederick,\" fragte Piggeldy seinen großen Bruder, \"Frederick, zeig mir, wo der Himmel anfängt.\"",
-          "back": "Piggeldy wanted to know where the sky/Heaven starts.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "der Himmel, die Himmel = the sky, Heaven, the heavens\n\n\"Where the sky begins,\" is a subordinate clauses, so the verb has to go to the end. When this happens to a separable verb like \"anfangen\", the prefix is written together with the main part of the verb.\n\nDer Himmel fängt an.\nEr wollte wissen, wo der Himmel anfängt."
+          "transcription": "Piggeldy wollte wissen, wo der Himmel anfängt.\n\n„Frederick,\" fragte Piggeldy seinen großen Bruder, \"Frederick, zeig mir, wo der Himmel anfängt.\"",
+          "meaning": "Piggeldy wanted to know where the sky/Heaven starts.",
+          "notes": "der Himmel, die Himmel = the sky, Heaven, the heavens\n\n\"Where the sky begins,\" is a subordinate clauses, so the verb has to go to the end. When this happens to a separable verb like \"anfangen\", the prefix is written together with the main part of the verb.\n\nDer Himmel fängt an.\nEr wollte wissen, wo der Himmel anfängt."
         }
       }
     },
     "79be314d-77b3-4d80-b037-74dc76e86561": {
       "id": "79be314d-77b3-4d80-b037-74dc76e86561",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 515,
       "end": 668,
       "flashcard": {
         "id": "79be314d-77b3-4d80-b037-74dc76e86561",
-        "fields": {
-          "front": "„Frederick?\" fragte Piggeldy seinen großen Bruder.",
-          "back": "Frederick? Piggeldy asked his big brother."
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "„Frederick?\" fragte Piggeldy seinen großen Bruder.",
+          "meaning": "Frederick? Piggeldy asked his big brother."
+        }
+      }
     },
     "16236fb2-2918-4d7d-92dc-07e3b148ebe3": {
       "id": "16236fb2-2918-4d7d-92dc-07e3b148ebe3",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 690,
       "end": 891,
       "flashcard": {
         "id": "16236fb2-2918-4d7d-92dc-07e3b148ebe3",
-        "fields": {
-          "front": "Frederick, zeig mir, wie man den Mond fangen kann.",
-          "back": "Frederick, show me how one can catch the moon.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "Every time a new verb is introduced I've tried to give its \"principle parts\". If you know just these three forms, you can pretty much always derive all the rest of the verb's forms by following regular patterns.\n\ninfinitive/simple past/perfect\n\nSo, for \"zeigen\":\nzeigen/zeigte/hat gezeigt\n\nWhen you see the principle parts written out, take the opportunity to read them and make sure you understand them well enough to translate them (aloud or in your head). Knowing that \"zeigen\" means \"to show\", the above would translate to:\n\nto show/showed/has shown\n\nFor verbs with a stem change in the present, it's helpful to add a fourth element:\n\nfangen/fing/hat gefangen/fängt\n\nwhich translates to:\n\nto catch/caught/has caught/catches"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Frederick, zeig mir, wie man den Mond fangen kann.",
+          "meaning": "Frederick, show me how one can catch the moon.",
+          "notes": "Every time a new verb is introduced I've tried to give its \"principle parts\". If you know just these three forms, you can pretty much always derive all the rest of the verb's forms by following regular patterns.\n\ninfinitive/simple past/perfect\n\nSo, for \"zeigen\":\nzeigen/zeigte/hat gezeigt\n\nWhen you see the principle parts written out, take the opportunity to read them and make sure you understand them well enough to translate them (aloud or in your head). Knowing that \"zeigen\" means \"to show\", the above would translate to:\n\nto show/showed/has shown\n\nFor verbs with a stem change in the present, it's helpful to add a fourth element:\n\nfangen/fing/hat gefangen/fängt\n\nwhich translates to:\n\nto catch/caught/has caught/catches"
+        }
+      }
     },
     "5d8ade73-7182-49d6-aa7a-1935569fe638": {
       "id": "5d8ade73-7182-49d6-aa7a-1935569fe638",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 905,
       "end": 1086,
       "flashcard": {
         "id": "5d8ade73-7182-49d6-aa7a-1935569fe638",
-        "fields": {
-          "front": "„Nichts leichter als das!\" antwortete Frederick.",
-          "back": "Nothing easier than that! answered Frederick.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "leicht = light (not heavy), easy\n\nantworten/antwortete/hat geantwortet (regular)"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "„Nichts leichter als das!\" antwortete Frederick.",
+          "meaning": "Nothing easier than that! answered Frederick.",
+          "notes": "leicht = light (not heavy), easy\n\nantworten/antwortete/hat geantwortet (regular)"
+        }
+      }
     },
     "11a24b7e-d043-45eb-8147-fe83baca9e10": {
       "id": "11a24b7e-d043-45eb-8147-fe83baca9e10",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 1097,
       "end": 1141,
       "flashcard": {
         "id": "11a24b7e-d043-45eb-8147-fe83baca9e10",
-        "fields": {
-          "front": "Komm mit!",
-          "back": "Come along!",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "kommen/kam/ist gekommen"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Komm mit!",
+          "meaning": "Come along!",
+          "notes": "kommen/kam/ist gekommen"
+        }
+      }
     },
     "703fb3a1-ea18-4961-9216-0c02f77cae9e": {
       "id": "703fb3a1-ea18-4961-9216-0c02f77cae9e",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 1164,
       "end": 1275,
       "flashcard": {
         "id": "703fb3a1-ea18-4961-9216-0c02f77cae9e",
-        "fields": {
-          "front": "Piggeldy folgte Frederick.",
-          "back": "Piggeldy followed Frederick.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "folgen/folgte/ist gefolgt (regular)"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Piggeldy folgte Frederick.",
+          "meaning": "Piggeldy followed Frederick.",
+          "notes": "folgen/folgte/ist gefolgt (regular)"
+        }
+      }
     },
     "4586fe57-2e74-40da-be3e-968a44ce3c22": {
       "id": "4586fe57-2e74-40da-be3e-968a44ce3c22",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 1314,
       "end": 1631,
       "flashcard": {
         "id": "4586fe57-2e74-40da-be3e-968a44ce3c22",
-        "fields": {
-          "front": "„Wenn wir lange genug warten,\" sagte Frederick, „wird es irgendwann dunkel.\"",
-          "back": "If we wait long enough, said Frederick, it will get dark at some point.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "„Wenn wir lange genug warten,\" sagte Frederick, „wird es irgendwann dunkel.\"",
+          "meaning": "If we wait long enough, said Frederick, it will get dark at some point.",
+          "notes": ""
+        }
+      }
     },
     "7c11540c-33ee-4e94-a78e-a9ff142fd2ce": {
-      "start": 1350,
-      "end": 1536,
       "id": "7c11540c-33ee-4e94-a78e-a9ff142fd2ce",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 1350,
+      "end": 1536,
       "flashcard": {
         "id": "7c11540c-33ee-4e94-a78e-a9ff142fd2ce",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "",
+          "meaning": "",
+          "notes": ""
         }
       }
     },
     "9f15a5a7-0076-414f-bf86-a606273d1416": {
-      "start": 1355,
-      "end": 1566,
       "id": "9f15a5a7-0076-414f-bf86-a606273d1416",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 1355,
+      "end": 1566,
       "flashcard": {
         "id": "9f15a5a7-0076-414f-bf86-a606273d1416",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Bald waren sie bei einer Fabrik--bei einer Farbenfabrik.",
-          "back": "Soon they were at a factory--a paint factory.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "die Farbe, die Farben = color, paint"
+          "transcription": "Bald waren sie bei einer Fabrik--bei einer Farbenfabrik.",
+          "meaning": "Soon they were at a factory--a paint factory.",
+          "notes": "die Farbe, die Farben = color, paint"
         }
       }
     },
     "2a6010a8-04e7-4cb4-b6ce-387b5f0a398e": {
-      "start": 1364,
-      "end": 1697,
       "id": "2a6010a8-04e7-4cb4-b6ce-387b5f0a398e",
       "fileId": "35f9fda8-7563-42b7-9869-cec895389ae8",
+      "start": 1364,
+      "end": 1697,
       "flashcard": {
         "id": "2a6010a8-04e7-4cb4-b6ce-387b5f0a398e",
         "tags": [
           "piggeldy-der-vogel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Unter einem Baum blieb Frederick stehen.\n\n„Sei mal still!\" sagte er.",
-          "back": "Below a tree, Frederick stood still.\n\n\"Be quiet!\" said he.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "Unter einem Baum blieb Frederick stehen.\n\n„Sei mal still!\" sagte er.",
+          "meaning": "Below a tree, Frederick stood still.\n\n\"Be quiet!\" said he.",
+          "notes": ""
         }
       }
     },
     "c2d31f84-c353-4cfb-8d53-9b3125cecd4f": {
-      "start": 1489,
-      "end": 2041,
       "id": "c2d31f84-c353-4cfb-8d53-9b3125cecd4f",
       "fileId": "53ac7c0c-bbfc-4444-9918-291291d20309",
+      "start": 1489,
+      "end": 2041,
       "flashcard": {
         "id": "c2d31f84-c353-4cfb-8d53-9b3125cecd4f",
         "tags": [
           "piggeldy-der-himmel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Wir gehen bis ans Ende dieser Straße,\" erklärte Frederick, „und wo die Straße aufhört, da fängt der Himmel an.",
-          "back": "\"We'll go up till the end of this street,\" explained Frederick, \"and where the street stops, that's where the sky starts.\"",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "„Wir gehen bis ans Ende dieser Straße,\" erklärte Frederick, „und wo die Straße aufhört, da fängt der Himmel an.",
+          "meaning": "\"We'll go up till the end of this street,\" explained Frederick, \"and where the street stops, that's where the sky starts.\"",
+          "notes": ""
         }
       }
     },
     "4a5dfd2f-b02e-47bb-987a-12f89e294774": {
-      "start": 1579,
-      "end": 1997,
       "id": "4a5dfd2f-b02e-47bb-987a-12f89e294774",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 1579,
+      "end": 1997,
       "flashcard": {
         "id": "4a5dfd2f-b02e-47bb-987a-12f89e294774",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Piggeldy schlotterte ein bisschen, als er die vielen Farben einmal sah.\n\n„Ist Farbe auch nicht gefährlich?\" fragte er Frederick.",
-          "back": "Piggeldy shuddered a bit, when he saw the many colors at once.\n\n\"Is paint not even dangerous?\" he asked Frederick.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "schlottern, schlotterte, hat? geschlottert (regular)"
+          "transcription": "Piggeldy schlotterte ein bisschen, als er die vielen Farben einmal sah.\n\n„Ist Farbe auch nicht gefährlich?\" fragte er Frederick.",
+          "meaning": "Piggeldy shuddered a bit, when he saw the many colors at once.\n\n\"Is paint not even dangerous?\" he asked Frederick.",
+          "notes": "schlottern, schlotterte, hat? geschlottert (regular)"
         }
       }
     },
     "2239ed82-f4e0-458b-aed0-cb923858b587": {
       "id": "2239ed82-f4e0-458b-aed0-cb923858b587",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 1637,
       "end": 1739,
       "flashcard": {
         "id": "2239ed82-f4e0-458b-aed0-cb923858b587",
-        "fields": {
-          "front": "Das ist jeden Tag dasselbe.",
-          "back": "It's the same every day."
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Das ist jeden Tag dasselbe.",
+          "meaning": "It's the same every day."
+        }
+      }
     },
     "12e0f190-9838-44c9-915c-288f3a658bbe": {
-      "start": 1683,
-      "end": 1860,
       "id": "12e0f190-9838-44c9-915c-288f3a658bbe",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 1683,
+      "end": 1860,
       "flashcard": {
         "id": "12e0f190-9838-44c9-915c-288f3a658bbe",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Papa! Die Sonne scheint wieder. Können wir jetzt nach draußen?",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "Papa! Die Sonne scheint wieder. Können wir jetzt nach draußen?",
+          "meaning": "",
+          "notes": ""
         }
       }
     },
     "3e0442d1-a99e-4bc0-a661-be290e3895b1": {
-      "start": 1732,
-      "end": 2417,
       "id": "3e0442d1-a99e-4bc0-a661-be290e3895b1",
       "fileId": "35f9fda8-7563-42b7-9869-cec895389ae8",
+      "start": 1732,
+      "end": 2417,
       "flashcard": {
         "id": "3e0442d1-a99e-4bc0-a661-be290e3895b1",
         "tags": [
           "piggeldy-der-vogel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Ich bin doch still.\" sagte Piggeldy.\n\n„Eben hast du aber geredet,\" sagte Frederick.\n\n„Ich habe bloß geantwortet,\" sagte Piggeldy\n\n„Nun sei endlich mal still!\" sagte Frederick.",
-          "back": "\"I'm *being* quiet,\" said Piggeldy.\n\n\"But you just talked,\" said Frederick.\n\n\"All I did was answer,\" said Piggeldy.\n\n\"Just be quiet already!\" said Frederick.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "bloß = only, merely, simply\n\nreden/redete/hat geredet (regular)"
+          "transcription": "„Ich bin doch still.\" sagte Piggeldy.\n\n„Eben hast du aber geredet,\" sagte Frederick.\n\n„Ich habe bloß geantwortet,\" sagte Piggeldy\n\n„Nun sei endlich mal still!\" sagte Frederick.",
+          "meaning": "\"I'm *being* quiet,\" said Piggeldy.\n\n\"But you just talked,\" said Frederick.\n\n\"All I did was answer,\" said Piggeldy.\n\n\"Just be quiet already!\" said Frederick.",
+          "notes": "bloß = only, merely, simply\n\nreden/redete/hat geredet (regular)"
         }
       }
     },
     "e410cea0-bdde-4509-915f-d43a7f9067bc": {
       "id": "e410cea0-bdde-4509-915f-d43a7f9067bc",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 1747,
       "end": 1920,
       "flashcard": {
         "id": "e410cea0-bdde-4509-915f-d43a7f9067bc",
-        "fields": {
-          "front": "Und wenn es dunkel ist, scheint auch der Mond.",
-          "back": "And when it's dark, the Moon will be shining, too.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "scheinen/schien/hat geschienen"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Und wenn es dunkel ist, scheint auch der Mond.",
+          "meaning": "And when it's dark, the Moon will be shining, too.",
+          "notes": "scheinen/schien/hat geschienen"
+        }
+      }
     },
     "9b1d2b72-2824-4034-ac25-ac71dbc56dd1": {
-      "start": 1883,
-      "end": 2022,
       "id": "9b1d2b72-2824-4034-ac25-ac71dbc56dd1",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 1883,
+      "end": 2022,
       "flashcard": {
         "id": "9b1d2b72-2824-4034-ac25-ac71dbc56dd1",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Haha, ja gut. Dann los, ihr zwei!",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "Haha, ja gut. Dann los, ihr zwei!",
+          "meaning": "",
+          "notes": ""
         }
       }
     },
     "2a6d9248-6055-4f39-b107-0a5563946288": {
       "id": "2a6d9248-6055-4f39-b107-0a5563946288",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 1951,
       "end": 2174,
       "flashcard": {
         "id": "2a6d9248-6055-4f39-b107-0a5563946288",
-        "fields": {
-          "front": "„Er ist ziemlich dick,\" sagte Piggeldy als der Mond endlich erschien.",
-          "back": "It's quite fat, said Piggeldy when the moon finally appeared.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "erscheinen/erschien/ist erschienen"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "„Er ist ziemlich dick,\" sagte Piggeldy als der Mond endlich erschien.",
+          "meaning": "It's quite fat, said Piggeldy when the moon finally appeared.",
+          "notes": "erscheinen/erschien/ist erschienen"
+        }
+      }
     },
     "593eee02-c90d-4505-84a3-0d2c8fcdb7be": {
-      "start": 2009,
-      "end": 2256,
       "id": "593eee02-c90d-4505-84a3-0d2c8fcdb7be",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 2009,
+      "end": 2256,
       "flashcard": {
         "id": "593eee02-c90d-4505-84a3-0d2c8fcdb7be",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„I wo!\" sagte Frederick. „Farbe ist lustig!\"",
-          "back": "\"No way!\" said Frederick. \"Paint is fun!\" ",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "„I wo!\" sagte Frederick. „Farbe ist lustig!\"",
+          "meaning": "\"No way!\" said Frederick. \"Paint is fun!\" ",
+          "notes": ""
         }
       }
     },
     "93a51173-09ee-4bbe-8408-0deebd386aa0": {
-      "start": 2062,
-      "end": 2339,
       "id": "93a51173-09ee-4bbe-8408-0deebd386aa0",
       "fileId": "53ac7c0c-bbfc-4444-9918-291291d20309",
+      "start": 2062,
+      "end": 2339,
       "flashcard": {
         "id": "93a51173-09ee-4bbe-8408-0deebd386aa0",
         "tags": [
           "piggeldy-der-himmel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Prima!\" freute sich Piggeldy, \"Dann sind wir ja bald da!\"",
-          "back": "\"Great!\" delighted Piggeldy. \"Then we'll be there soon, well, won't we!\"",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "This \"ja\" is a \"modal particle\" like \"doch\" that just gives a sentence a particular tone. \"Ja\" gives the tone of \"of course, as you can clearly tell\".\n\nBy extension, it sometimes shows surprise. Here, Piggeldy just learned that the sky starts where the street ends. Knowing this, it's suddenly obvious to him that they'll be there soon. "
+          "transcription": "„Prima!\" freute sich Piggeldy, \"Dann sind wir ja bald da!\"",
+          "meaning": "\"Great!\" delighted Piggeldy. \"Then we'll be there soon, well, won't we!\"",
+          "notes": "This \"ja\" is a \"modal particle\" like \"doch\" that just gives a sentence a particular tone. \"Ja\" gives the tone of \"of course, as you can clearly tell\".\n\nBy extension, it sometimes shows surprise. Here, Piggeldy just learned that the sky starts where the street ends. Knowing this, it's suddenly obvious to him that they'll be there soon. "
         }
       }
     },
     "8fe1ced6-6fc7-45f7-bb78-4a535c717e49": {
       "id": "8fe1ced6-6fc7-45f7-bb78-4a535c717e49",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 2187,
       "end": 2378,
       "flashcard": {
         "id": "8fe1ced6-6fc7-45f7-bb78-4a535c717e49",
-        "fields": {
-          "front": "„Das ist sehr ungünstig,\" meinte Frederick.",
-          "back": "\"That is very unfavorable,\" opined Frederick.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "\"Meinen\" basically means \"to opine, to hold the opinion (that...)\"\n\ndie Meinung = opinion\n\nA more grammatical translation would be just \"said\". There are lots of cases like this where in German, \"said\" is replaced with a verb about the speaker's state of mind. (He \"delighted\", he \"pondered\") Instead of rephrasing them (\"he said in delight\", \"he said, deep in thought\"), I've translated the German word-for-word in these cases."
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "„Das ist sehr ungünstig,\" meinte Frederick.",
+          "meaning": "\"That is very unfavorable,\" opined Frederick.",
+          "notes": "\"Meinen\" basically means \"to opine, to hold the opinion (that...)\"\n\ndie Meinung = opinion\n\nA more grammatical translation would be just \"said\". There are lots of cases like this where in German, \"said\" is replaced with a verb about the speaker's state of mind. (He \"delighted\", he \"pondered\") Instead of rephrasing them (\"he said in delight\", \"he said, deep in thought\"), I've translated the German word-for-word in these cases."
+        }
+      }
     },
     "cb44a67e-8c2c-4377-9184-d90d5cde3cdd": {
-      "start": 2271,
-      "end": 2676,
       "id": "cb44a67e-8c2c-4377-9184-d90d5cde3cdd",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 2271,
+      "end": 2676,
       "flashcard": {
         "id": "cb44a67e-8c2c-4377-9184-d90d5cde3cdd",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Kann Farbe denn lachen?\" fragte Piggeldy.\n\n„I wo!\" sagte Frederick. „Aber lass uns anfangen.\"",
-          "back": "\"No way!\" said Frederick. \"But let's get started.\"",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "The modal particle \"denn\" gives a question a tone of eager curiosity."
+          "transcription": "„Kann Farbe denn lachen?\" fragte Piggeldy.\n\n„I wo!\" sagte Frederick. „Aber lass uns anfangen.\"",
+          "meaning": "\"No way!\" said Frederick. \"But let's get started.\"",
+          "notes": "The modal particle \"denn\" gives a question a tone of eager curiosity."
         }
       }
     },
     "3216b5a3-4238-4d5a-9f34-a5eca0ef05c6": {
-      "start": 2350,
-      "end": 2851,
       "id": "3216b5a3-4238-4d5a-9f34-a5eca0ef05c6",
       "fileId": "53ac7c0c-bbfc-4444-9918-291291d20309",
+      "start": 2350,
+      "end": 2851,
       "flashcard": {
         "id": "3216b5a3-4238-4d5a-9f34-a5eca0ef05c6",
         "tags": [
           "piggeldy-der-himmel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Zattel nicht so herum,\" schimpfte Frederick, \"Lauf lieber ordentlich.\"\n\nPiggeldy bemühte sich ordentlich zu laufen.",
-          "back": "\"Don't fidget around like that,\" grumbled Frederick, \"Rather, walk properly.\"\n\nPiggeldy made an effort to walk properly.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "zatteln/zattelte/hat gezattelt (regular)\nschimpfen/schimfpte/hat geschipmft (regular)\nlaufen/lief/ist gelaufen\nsich bemühen/bemühte sich/hat sich bemüht (regular)"
+          "transcription": "„Zattel nicht so herum,\" schimpfte Frederick, \"Lauf lieber ordentlich.\"\n\nPiggeldy bemühte sich ordentlich zu laufen.",
+          "meaning": "\"Don't fidget around like that,\" grumbled Frederick, \"Rather, walk properly.\"\n\nPiggeldy made an effort to walk properly.",
+          "notes": "zatteln/zattelte/hat gezattelt (regular)\nschimpfen/schimfpte/hat geschipmft (regular)\nlaufen/lief/ist gelaufen\nsich bemühen/bemühte sich/hat sich bemüht (regular)"
         }
       }
     },
     "4706da47-b781-48f5-acc3-97574db0b21e": {
       "id": "4706da47-b781-48f5-acc3-97574db0b21e",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 2392,
       "end": 2604,
       "flashcard": {
         "id": "4706da47-b781-48f5-acc3-97574db0b21e",
-        "fields": {
-          "front": "Wir müssen warten, bis er dünner geworden ist.",
-          "back": "We have to wait until it has gotten thinner.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "werden/wurde/ist geworden/wird (super irregular)"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Wir müssen warten, bis er dünner geworden ist.",
+          "meaning": "We have to wait until it has gotten thinner.",
+          "notes": "werden/wurde/ist geworden/wird (super irregular)"
+        }
+      }
     },
     "5d109d0e-155a-4297-b850-731ea9433bbe": {
-      "start": 2425,
-      "end": 3041,
       "id": "5d109d0e-155a-4297-b850-731ea9433bbe",
       "fileId": "35f9fda8-7563-42b7-9869-cec895389ae8",
+      "start": 2425,
+      "end": 3041,
       "flashcard": {
         "id": "5d109d0e-155a-4297-b850-731ea9433bbe",
         "tags": [
           "piggeldy-der-vogel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Hörst du was?\"\n\nPiggeldy versuchte zu hören, ob er was hörte.\n\n„Ich höre was!\" rief er und begann zu singen. \"Tödel-dödel-dööö!\"",
-          "back": "\"Can you hear something?\"\n\nPiggeldy tried to hear, if he could hear something.\n\n\"I hear something!\" he shouted and began to sing. \"Toodle-doodle-dooo!\"",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "„Hörst du was?\"\n\nPiggeldy versuchte zu hören, ob er was hörte.\n\n„Ich höre was!\" rief er und begann zu singen. \"Tödel-dödel-dööö!\"",
+          "meaning": "\"Can you hear something?\"\n\nPiggeldy tried to hear, if he could hear something.\n\n\"I hear something!\" he shouted and began to sing. \"Toodle-doodle-dooo!\"",
+          "notes": ""
         }
       }
     },
     "b0b630ec-4c96-4fcc-9291-267f8eab8e60": {
-      "start": 2575,
-      "end": 2803,
       "id": "b0b630ec-4c96-4fcc-9291-267f8eab8e60",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 2575,
+      "end": 2803,
       "flashcard": {
         "id": "b0b630ec-4c96-4fcc-9291-267f8eab8e60",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Peppa springt gern in die Matschepfützen.\n\n- Ich mag Matschepampe.",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "der Matsch = kiddie word for mud\ndie Pfütze = puddle\n\ndie Pampe = mush\ndie Matschepampe = goopy-gloop?"
+          "transcription": "Peppa springt gern in die Matschepfützen.\n\n- Ich mag Matschepampe.",
+          "meaning": "",
+          "notes": "der Matsch = kiddie word for mud\ndie Pfütze = puddle\n\ndie Pampe = mush\ndie Matschepampe = goopy-gloop?"
         }
       }
     },
     "17a15fdf-c542-4bab-895f-0a219996af86": {
       "id": "17a15fdf-c542-4bab-895f-0a219996af86",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 2613,
       "end": 2729,
       "flashcard": {
         "id": "17a15fdf-c542-4bab-895f-0a219996af86",
-        "fields": {
-          "front": "Dann kann man ihn besser fangen.",
-          "back": "Then one can catch him better."
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Dann kann man ihn besser fangen.",
+          "meaning": "Then one can catch him better."
+        }
+      }
     },
     "10e047a9-8044-4074-8666-aee2206cfcb8": {
-      "start": 2698,
-      "end": 2961,
       "id": "10e047a9-8044-4074-8666-aee2206cfcb8",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 2698,
+      "end": 2961,
       "flashcard": {
         "id": "10e047a9-8044-4074-8666-aee2206cfcb8",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Frederick tauchte seinen rechten Vorderfuß in einen Farbeimer.",
-          "back": "Frederick dipped his front right foot into a bucket of paint.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "der Farbeimer"
+          "transcription": "Frederick tauchte seinen rechten Vorderfuß in einen Farbeimer.",
+          "meaning": "Frederick dipped his front right foot into a bucket of paint.",
+          "notes": "der Farbeimer"
         }
       }
     },
     "d342f25c-cebc-4910-b17e-78a6b46fe3c2": {
       "id": "d342f25c-cebc-4910-b17e-78a6b46fe3c2",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 2761,
       "end": 2981,
       "flashcard": {
         "id": "d342f25c-cebc-4910-b17e-78a6b46fe3c2",
-        "fields": {
-          "front": "Jeden Abend warteten Piggeldy und Frederick auf den Mond. ",
-          "back": "Every evening, Piggeldy and Frederick waited for the moon.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "warten/wartete/hat gewartet (regular)"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Jeden Abend warteten Piggeldy und Frederick auf den Mond. ",
+          "meaning": "Every evening, Piggeldy and Frederick waited for the moon.",
+          "notes": "warten/wartete/hat gewartet (regular)"
+        }
+      }
     },
     "dadac847-4648-4067-9657-3d58dbcc45b0": {
-      "start": 2898,
-      "end": 3334,
       "id": "dadac847-4648-4067-9657-3d58dbcc45b0",
       "fileId": "53ac7c0c-bbfc-4444-9918-291291d20309",
+      "start": 2898,
+      "end": 3334,
       "flashcard": {
         "id": "dadac847-4648-4067-9657-3d58dbcc45b0",
         "tags": [
           "piggeldy-der-himmel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Wann fängt der Himmel nun endlich an, Frederick?\" sagte er.\n\n„Geduld, Bruder!\" sagte Frederick.",
-          "back": "\"Now, when does the sky start, already?\" said he.\n\n\"Patience, brother!\" said Frederick.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "nun = now\nendlich = finally"
+          "transcription": "„Wann fängt der Himmel nun endlich an, Frederick?\" sagte er.\n\n„Geduld, Bruder!\" sagte Frederick.",
+          "meaning": "\"Now, when does the sky start, already?\" said he.\n\n\"Patience, brother!\" said Frederick.",
+          "notes": "nun = now\nendlich = finally"
         }
       }
     },
     "32576cfa-a861-4aa9-bdb6-be9adcfe5223": {
-      "start": 2980,
-      "end": 3562,
       "id": "32576cfa-a861-4aa9-bdb6-be9adcfe5223",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 2980,
+      "end": 3562,
       "flashcard": {
         "id": "32576cfa-a861-4aa9-bdb6-be9adcfe5223",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Die Farbe heißt 'grün',\" sagte er. „Ich male jetzt einen grünen Wald.\n\n„Wie schön,\" bewunderte Piggeldy seinen großen Bruder.",
-          "back": "\"This color is called 'green',\" said he. \"Now I'll paint a green forest.\"",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "„Die Farbe heißt 'grün',\" sagte er. „Ich male jetzt einen grünen Wald.\n\n„Wie schön,\" bewunderte Piggeldy seinen großen Bruder.",
+          "meaning": "\"This color is called 'green',\" said he. \"Now I'll paint a green forest.\"",
+          "notes": ""
         }
       }
     },
     "117c7ac8-ee94-4a5a-a7bc-067f21944f6a": {
       "id": "117c7ac8-ee94-4a5a-a7bc-067f21944f6a",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 2984,
       "end": 3188,
       "flashcard": {
         "id": "117c7ac8-ee94-4a5a-a7bc-067f21944f6a",
-        "fields": {
-          "front": "Und jeden Abend wurde der Mond ein bisschen dünner.",
-          "back": "And every evening, the moon got a little bit smaller."
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Und jeden Abend wurde der Mond ein bisschen dünner.",
+          "meaning": "And every evening, the moon got a little bit smaller."
+        }
+      }
     },
     "d3c84941-73b9-418c-a2ea-ea37fead0416": {
-      "start": 3017,
-      "end": 3336,
       "id": "d3c84941-73b9-418c-a2ea-ea37fead0416",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 3017,
+      "end": 3336,
       "flashcard": {
         "id": "d3c84941-73b9-418c-a2ea-ea37fead0416",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "der Stiefel, die Stiefel = boot, boots\nder Gummistiefel = rubber boot\n\nanziehen/zog an/hat angezogen"
+          "transcription": "",
+          "meaning": "",
+          "notes": "der Stiefel, die Stiefel = boot, boots\nder Gummistiefel = rubber boot\n\nanziehen/zog an/hat angezogen"
         }
       }
     },
     "0a17d174-cfd3-42aa-bd19-4cf12110f37b": {
-      "start": 3062,
-      "end": 3506,
       "id": "0a17d174-cfd3-42aa-bd19-4cf12110f37b",
       "fileId": "35f9fda8-7563-42b7-9869-cec895389ae8",
+      "start": 3062,
+      "end": 3506,
       "flashcard": {
         "id": "0a17d174-cfd3-42aa-bd19-4cf12110f37b",
         "tags": [
           "piggeldy-der-vogel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Entsetzlich!\" stöhnte Frederick. „Du singst wie ein kleines Schwein!\"\n\n„Bin ich doch auch,\" sang Piggeldy.",
-          "back": "\"Appalling!\" moaned Frederick. \"You sing like a little pig!\"\n\n\"I am a little Pig,\" sang Piggeldy.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "„Entsetzlich!\" stöhnte Frederick. „Du singst wie ein kleines Schwein!\"\n\n„Bin ich doch auch,\" sang Piggeldy.",
+          "meaning": "\"Appalling!\" moaned Frederick. \"You sing like a little pig!\"\n\n\"I am a little Pig,\" sang Piggeldy.",
+          "notes": ""
         }
       }
     },
     "c09e0a6c-43e2-4823-b530-924099b52c5e": {
       "id": "c09e0a6c-43e2-4823-b530-924099b52c5e",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 3227,
       "end": 3436,
       "flashcard": {
         "id": "c09e0a6c-43e2-4823-b530-924099b52c5e",
-        "fields": {
-          "front": "Heute wollen wir ihn fangen.",
-          "back": "We want to catch it today.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "wollen/wollte/hat gewollt/will (super irregular, one of the modal verbs)"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Heute wollen wir ihn fangen.",
+          "meaning": "We want to catch it today.",
+          "notes": "wollen/wollte/hat gewollt/will (super irregular, one of the modal verbs)"
+        }
+      }
     },
     "e557b5b6-c68f-4a29-882d-93fc66e76a9c": {
-      "start": 3401,
-      "end": 4084,
       "id": "e557b5b6-c68f-4a29-882d-93fc66e76a9c",
       "fileId": "53ac7c0c-bbfc-4444-9918-291291d20309",
+      "start": 3401,
+      "end": 4084,
       "flashcard": {
         "id": "e557b5b6-c68f-4a29-882d-93fc66e76a9c",
         "tags": [
           "piggeldy-der-himmel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Als der Himmel aber noch immer nicht anfangen wollte, fing Piggeldy wieder an.\n\n„Frederick, ich glaube, der Himmel fängt überhaupt nicht an.\"\n\n„Dummes Zeug!\" brummte Frederick.",
-          "back": "But when the sky still didn't want to start, Piggeldy started again.\n\n\"Frederick, I think the sky doesn't even start in the first place!\"\n\n\"Hooey!\" muttered Frederick.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "dummes Zeug = literally \"dumb stuff\""
+          "transcription": "Als der Himmel aber noch immer nicht anfangen wollte, fing Piggeldy wieder an.\n\n„Frederick, ich glaube, der Himmel fängt überhaupt nicht an.\"\n\n„Dummes Zeug!\" brummte Frederick.",
+          "meaning": "But when the sky still didn't want to start, Piggeldy started again.\n\n\"Frederick, I think the sky doesn't even start in the first place!\"\n\n\"Hooey!\" muttered Frederick.",
+          "notes": "dummes Zeug = literally \"dumb stuff\""
         }
       }
     },
     "a96ecc42-1ebf-4e3f-9f9f-169f777ffe88": {
       "id": "a96ecc42-1ebf-4e3f-9f9f-169f777ffe88",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 3451,
       "end": 3798,
       "flashcard": {
         "id": "a96ecc42-1ebf-4e3f-9f9f-169f777ffe88",
-        "fields": {
-          "front": "Wenn der Mond hinter den Berg hochkommt, schleichen wir uns an und tragen ihn weg!",
-          "back": "When the moon rises behind the mountain, we'll sneak up and carry him away!",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "sich anschleichen = to sneak up\n\nsich anschleichen/schlich sich an/ist sich angeschlichen\n\ntragen/trug/getragen/trägt"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Wenn der Mond hinter den Berg hochkommt, schleichen wir uns an und tragen ihn weg!",
+          "meaning": "When the moon rises behind the mountain, we'll sneak up and carry him away!",
+          "notes": "sich anschleichen = to sneak up\n\nsich anschleichen/schlich sich an/ist sich angeschlichen\n\ntragen/trug/getragen/trägt"
+        }
+      }
     },
     "e55f0276-a1b9-4b9d-b78e-891fe99a4466": {
-      "start": 3569,
-      "end": 4083,
       "id": "e55f0276-a1b9-4b9d-b78e-891fe99a4466",
       "fileId": "35f9fda8-7563-42b7-9869-cec895389ae8",
+      "start": 3569,
+      "end": 4083,
       "flashcard": {
         "id": "e55f0276-a1b9-4b9d-b78e-891fe99a4466",
         "tags": [
           "piggeldy-der-vogel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Ich glaube,\" sagte Frederick nachdenklich, \"man muss auf einem Ast sitzen. Dann kann man richtig wie ein Vogel singen.\"",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "„Ich glaube,\" sagte Frederick nachdenklich, \"man muss auf einem Ast sitzen. Dann kann man richtig wie ein Vogel singen.\"",
+          "meaning": "",
+          "notes": ""
         }
       }
     },
     "80a01633-944b-433b-bbf3-dbebc8873a8a": {
-      "start": 3582,
-      "end": 4124,
       "id": "80a01633-944b-433b-bbf3-dbebc8873a8a",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 3582,
+      "end": 4124,
       "flashcard": {
         "id": "80a01633-944b-433b-bbf3-dbebc8873a8a",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Und was sollte ich malen?\"\n\n„Du malst die blauen Blumen, die im grünen Wald wachsen,\" sagte Frederick. \"Das ist ganz leicht für den Anfang.\"",
-          "back": "\"And what should I paint?\"\n\n\"You'll paint the blue flowers that grow in the green forest,\" said Frederick. \"That's quite easy to start with.\"",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "wachsen/wuchs/ist gewachsen\n\nsollen/sollte/hat gesollt (super irregular, one of the modal verbs)\n\n\"Sollte\" here looks the same as the past tense of \"sollen\", but it's not. Just think of it as \"should\".\n\nThe base meaning of \"sollen\" is \"shall, to be supposed to, to have to\".\n\nDu sollst das sagen. = You are to say that. You are supposed to say that.\n\nWhen you put it into the subjunctive mood, i.e. the \"would\" form, the idea is \"should\". Sometimes the subjunctive looks the same as the simple past.\n\nDu solltest das sagen. = You should say that. (OR less commonly) You were supposed to say that.\n\nThe idea here is, you would have to say that, in order to fulfill some expectation/obligation.\n\nMore on the subjunctive mood: https://coerll.utexas.edu/gg/gr/vsub_02.html\n\nschwimmen/schwamm/ist geschwommen\nmurren/murrte/gemurrt"
+          "transcription": "„Und was sollte ich malen?\"\n\n„Du malst die blauen Blumen, die im grünen Wald wachsen,\" sagte Frederick. \"Das ist ganz leicht für den Anfang.\"",
+          "meaning": "\"And what should I paint?\"\n\n\"You'll paint the blue flowers that grow in the green forest,\" said Frederick. \"That's quite easy to start with.\"",
+          "notes": "wachsen/wuchs/ist gewachsen\n\nsollen/sollte/hat gesollt (super irregular, one of the modal verbs)\n\n\"Sollte\" here looks the same as the past tense of \"sollen\", but it's not. Just think of it as \"should\".\n\nThe base meaning of \"sollen\" is \"shall, to be supposed to, to have to\".\n\nDu sollst das sagen. = You are to say that. You are supposed to say that.\n\nWhen you put it into the subjunctive mood, i.e. the \"would\" form, the idea is \"should\". Sometimes the subjunctive looks the same as the simple past.\n\nDu solltest das sagen. = You should say that. (OR less commonly) You were supposed to say that.\n\nThe idea here is, you would have to say that, in order to fulfill some expectation/obligation.\n\nMore on the subjunctive mood: https://coerll.utexas.edu/gg/gr/vsub_02.html\n\nschwimmen/schwamm/ist geschwommen\nmurren/murrte/gemurrt"
         }
       }
     },
     "fec3aa58-ec8e-4f78-aac3-1da38e48b656": {
       "id": "fec3aa58-ec8e-4f78-aac3-1da38e48b656",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 3834,
       "end": 3960,
       "flashcard": {
         "id": "fec3aa58-ec8e-4f78-aac3-1da38e48b656",
-        "fields": {
-          "front": "Piggeldy und Frederick warteten.",
-          "back": "Piggeldy and Frederick waited."
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Piggeldy und Frederick warteten.",
+          "meaning": "Piggeldy and Frederick waited."
+        }
+      }
     },
     "556b1c93-487a-43b1-bf22-05bfba8e5da4": {
       "id": "556b1c93-487a-43b1-bf22-05bfba8e5da4",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 3998,
       "end": 4263,
       "flashcard": {
         "id": "556b1c93-487a-43b1-bf22-05bfba8e5da4",
-        "fields": {
-          "front": "Jetzt! schrie Frederick, und beide stürzten sich auf den Mond.",
-          "back": "Now! shouted Frederick, and the both of them lunged at the moon.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "schreien/schrie/geschrien\nsich stürtzen/stürtze sich/sich gestürtzt (regular)"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Jetzt! schrie Frederick, und beide stürzten sich auf den Mond.",
+          "meaning": "Now! shouted Frederick, and the both of them lunged at the moon.",
+          "notes": "schreien/schrie/geschrien\nsich stürtzen/stürtze sich/sich gestürtzt (regular)"
+        }
+      }
     },
     "d7000e3d-c126-41e6-932a-2e446b8711d5": {
-      "start": 4076,
-      "end": 4347,
       "id": "d7000e3d-c126-41e6-932a-2e446b8711d5",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 4076,
+      "end": 4347,
       "flashcard": {
         "id": "d7000e3d-c126-41e6-932a-2e446b8711d5",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "",
+          "meaning": "",
+          "notes": ""
         }
       }
     },
     "47292e1b-57ec-4423-95fe-be4e497db80f": {
-      "start": 4133,
-      "end": 5058,
       "id": "47292e1b-57ec-4423-95fe-be4e497db80f",
       "fileId": "53ac7c0c-bbfc-4444-9918-291291d20309",
+      "start": 4133,
+      "end": 5058,
       "flashcard": {
         "id": "47292e1b-57ec-4423-95fe-be4e497db80f",
         "tags": [
           "piggeldy-der-himmel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Frederick,\" jammerte Piggeldy, \"ich bin schon ganz schlapp. Können wir nicht etwas ausruhen, bevor wir an den Himmel ankommen?\"\n\n„Ach, Quatsch!\" sagte Frederick. Wir sind ja bald da!\"\n\n„Fein!\" freute sich Piggeldy.",
-          "back": "\"Frederick\", wailed Piggeldy, I'm already all worn out. Can't we rest a bit before we arrive at the sky?\"\n\n\"Agh, nonsense!\" said Frederick. We'll be there soon!\"\n\n\"Great!\" delighted Piggeldy.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "sich freuen/freute sich/hat sich gefreut (regular)\n\nHere's a somewhat more canonical usage of the modal particle \"ja\", giving the sentence a tone of \"of course, as you can clearly tell\"."
+          "transcription": "„Frederick,\" jammerte Piggeldy, \"ich bin schon ganz schlapp. Können wir nicht etwas ausruhen, bevor wir an den Himmel ankommen?\"\n\n„Ach, Quatsch!\" sagte Frederick. Wir sind ja bald da!\"\n\n„Fein!\" freute sich Piggeldy.",
+          "meaning": "\"Frederick\", wailed Piggeldy, I'm already all worn out. Can't we rest a bit before we arrive at the sky?\"\n\n\"Agh, nonsense!\" said Frederick. We'll be there soon!\"\n\n\"Great!\" delighted Piggeldy.",
+          "notes": "sich freuen/freute sich/hat sich gefreut (regular)\n\nHere's a somewhat more canonical usage of the modal particle \"ja\", giving the sentence a tone of \"of course, as you can clearly tell\"."
         }
       }
     },
     "9b482bfd-b536-4655-a28b-bb6c6ce51c14": {
-      "start": 4137,
-      "end": 4717,
       "id": "9b482bfd-b536-4655-a28b-bb6c6ce51c14",
       "fileId": "35f9fda8-7563-42b7-9869-cec895389ae8",
+      "start": 4137,
+      "end": 4717,
       "flashcard": {
         "id": "9b482bfd-b536-4655-a28b-bb6c6ce51c14",
         "tags": [
           "piggeldy-der-vogel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Das hättest du aber gleich sagen können,\" murrte Piggeldy, und kletterte auf den Baum.\n\n„Komm auch rauf, rief er. „Es ist wunderschön hier.\"",
-          "back": "\"You could have said that right away,\" muttered Piggeldy, and climbed onto the tree.\n\n\"Come up, too,\" he called out. \"It's wonderful hier.\"",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "rufen/rief/hat gerufen"
+          "transcription": "„Das hättest du aber gleich sagen können,\" murrte Piggeldy, und kletterte auf den Baum.\n\n„Komm auch rauf, rief er. „Es ist wunderschön hier.\"",
+          "meaning": "\"You could have said that right away,\" muttered Piggeldy, and climbed onto the tree.\n\n\"Come up, too,\" he called out. \"It's wonderful hier.\"",
+          "notes": "rufen/rief/hat gerufen"
         }
       }
     },
     "92f8ec63-0e26-4c58-8ad8-89f35e9b7261": {
-      "start": 4145,
-      "end": 4384,
       "id": "92f8ec63-0e26-4c58-8ad8-89f35e9b7261",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 4145,
+      "end": 4384,
       "flashcard": {
         "id": "92f8ec63-0e26-4c58-8ad8-89f35e9b7261",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Piggeldy tauchte seinen linken Vorderfuß in den blauen Farbeimer.",
-          "back": "Piggeldy dipped his left front foot into the blue paint bucket.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "tauchen/tauchte/hat getaucht"
+          "transcription": "Piggeldy tauchte seinen linken Vorderfuß in den blauen Farbeimer.",
+          "meaning": "Piggeldy dipped his left front foot into the blue paint bucket.",
+          "notes": "tauchen/tauchte/hat getaucht"
         }
       }
     },
     "38740f5d-e65f-43a4-ad67-6116c17c264c": {
       "id": "38740f5d-e65f-43a4-ad67-6116c17c264c",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 4302,
       "end": 4473,
       "flashcard": {
         "id": "38740f5d-e65f-43a4-ad67-6116c17c264c",
-        "fields": {
-          "front": "Bums! Und sie fielen auf der anderen Seite hinunter.",
-          "back": "Thud! And they fell down on the other side.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "fallen/fiel/ist gefallen/fällt"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Bums! Und sie fielen auf der anderen Seite hinunter.",
+          "meaning": "Thud! And they fell down on the other side.",
+          "notes": "fallen/fiel/ist gefallen/fällt"
+        }
+      }
     },
     "ab26021e-d91b-43dc-8e49-40f49b69bc45": {
-      "start": 4390,
-      "end": 4558,
       "id": "ab26021e-d91b-43dc-8e49-40f49b69bc45",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 4390,
+      "end": 4558,
       "flashcard": {
         "id": "ab26021e-d91b-43dc-8e49-40f49b69bc45",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Dann hüpfte er in dem grünen Wald hin und her.",
-          "back": "Then he hopped to and fro inside the green forest.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "hin und her = to and fro\n\nhüpfen/hüpfte/ist? gehüpft"
+          "transcription": "Dann hüpfte er in dem grünen Wald hin und her.",
+          "meaning": "Then he hopped to and fro inside the green forest.",
+          "notes": "hin und her = to and fro\n\nhüpfen/hüpfte/ist? gehüpft"
         }
       }
     },
     "88c9878d-28c4-4a4f-8b56-4d54ce4ec819": {
       "id": "88c9878d-28c4-4a4f-8b56-4d54ce4ec819",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 4482,
       "end": 4692,
       "flashcard": {
         "id": "88c9878d-28c4-4a4f-8b56-4d54ce4ec819",
-        "fields": {
-          "front": "Da ist irgendetwas schief gegangen!",
-          "back": "Something went wrong here!",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "gehen/ging/ist gegangen"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Da ist irgendetwas schief gegangen!",
+          "meaning": "Something went wrong here!",
+          "notes": "gehen/ging/ist gegangen"
+        }
+      }
     },
     "27a83aae-0a90-45be-aed8-2e38da4cf1af": {
-      "start": 4510,
-      "end": 4638,
       "id": "27a83aae-0a90-45be-aed8-2e38da4cf1af",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 4510,
+      "end": 4638,
       "flashcard": {
         "id": "27a83aae-0a90-45be-aed8-2e38da4cf1af",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Peppa kümmert sich gern um ihren kleinen Bruder George.",
-          "back": "Peppa likes to look out for her little brother George.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "Peppa kümmert sich gern um ihren kleinen Bruder George.",
+          "meaning": "Peppa likes to look out for her little brother George.",
+          "notes": ""
         }
       }
     },
     "74e53d27-adae-461c-83d6-d6cb09c7c69b": {
-      "start": 4576,
-      "end": 4879,
       "id": "74e53d27-adae-461c-83d6-d6cb09c7c69b",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 4576,
+      "end": 4879,
       "flashcard": {
         "id": "74e53d27-adae-461c-83d6-d6cb09c7c69b",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Ich male blauen Blumen!\" schrie er begeistert.\n\n„Sehr schön,\" sagte Frederick.",
-          "back": "\"I'm painting blue flowers!\" he cried in excitement.\n\n\"Very nice,\" said Frederick.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "begeistert = enthralled\n\nschreien, schrie, hat geschrien\nbegeistern, begeisterte, hat begeistert"
+          "transcription": "„Ich male blauen Blumen!\" schrie er begeistert.\n\n„Sehr schön,\" sagte Frederick.",
+          "meaning": "\"I'm painting blue flowers!\" he cried in excitement.\n\n\"Very nice,\" said Frederick.",
+          "notes": "begeistert = enthralled\n\nschreien, schrie, hat geschrien\nbegeistern, begeisterte, hat begeistert"
         }
       }
     },
     "8b38db8b-72a1-437c-b3a0-11db3d41f13b": {
       "id": "8b38db8b-72a1-437c-b3a0-11db3d41f13b",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 4717,
       "end": 4972,
       "flashcard": {
         "id": "8b38db8b-72a1-437c-b3a0-11db3d41f13b",
-        "fields": {
-          "front": "Wir versuchen es noch einmal, nur etwas leiser.",
-          "back": "We'll try once more, just a bit more quietly."
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Wir versuchen es noch einmal, nur etwas leiser.",
+          "meaning": "We'll try once more, just a bit more quietly."
+        }
+      }
     },
     "26b7f26a-8999-4865-b01f-7074a14a1d9d": {
-      "start": 4882,
-      "end": 5543,
       "id": "26b7f26a-8999-4865-b01f-7074a14a1d9d",
       "fileId": "35f9fda8-7563-42b7-9869-cec895389ae8",
+      "start": 4882,
+      "end": 5543,
       "flashcard": {
         "id": "26b7f26a-8999-4865-b01f-7074a14a1d9d",
         "tags": [
           "piggeldy-der-vogel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Prima!\" rief Frederick von unten. „Du kannst es! Ich sagte es ja schon, man muss bloß auf einem Ast sitzen.\"\n\n„Ich singe aber gar nicht,\" rief Piggeldy.",
-          "back": "\"Great!\" shouted Frederick from below. \"You can do it! What did I tell you, all you have to do is sit on a branch.\"",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "When \"schon\" doesn't mean \"already\", it gives the sentence a tone of thinking something over, and admitting, yes, sure, that's the case after all."
+          "transcription": "„Prima!\" rief Frederick von unten. „Du kannst es! Ich sagte es ja schon, man muss bloß auf einem Ast sitzen.\"\n\n„Ich singe aber gar nicht,\" rief Piggeldy.",
+          "meaning": "\"Great!\" shouted Frederick from below. \"You can do it! What did I tell you, all you have to do is sit on a branch.\"",
+          "notes": "When \"schon\" doesn't mean \"already\", it gives the sentence a tone of thinking something over, and admitting, yes, sure, that's the case after all."
         }
       }
     },
     "da49fdc0-754e-46cc-97fb-f109e9c3ff4c": {
-      "start": 4891,
-      "end": 5205,
       "id": "da49fdc0-754e-46cc-97fb-f109e9c3ff4c",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 4891,
+      "end": 5205,
       "flashcard": {
         "id": "da49fdc0-754e-46cc-97fb-f109e9c3ff4c",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Nur sollten die Blumen vielleicht ein bisschen größer sein. Sonst sieht man sie nicht.\"",
-          "back": "\"Only the flowers should be a bit bigger, perhaps. Or else you can't see them.\"",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "sonst = or else, otherwise"
+          "transcription": "„Nur sollten die Blumen vielleicht ein bisschen größer sein. Sonst sieht man sie nicht.\"",
+          "meaning": "\"Only the flowers should be a bit bigger, perhaps. Or else you can't see them.\"",
+          "notes": "sonst = or else, otherwise"
         }
       }
     },
     "36226d1c-dbce-44d6-b50d-1571156cf871": {
       "id": "36226d1c-dbce-44d6-b50d-1571156cf871",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 5006,
       "end": 5149,
       "flashcard": {
         "id": "36226d1c-dbce-44d6-b50d-1571156cf871",
-        "fields": {
-          "front": "Piggeldy und Frederick schlichen wieder auf dem Berg.",
-          "back": "Piggeldy and Frederick snuck on the mountain again.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "schleichen/schlich/ist geschlichen"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Piggeldy und Frederick schlichen wieder auf dem Berg.",
+          "meaning": "Piggeldy and Frederick snuck on the mountain again.",
+          "notes": "schleichen/schlich/ist geschlichen"
+        }
+      }
     },
     "771781bf-f774-4562-92cd-9f2e31af0790": {
-      "start": 5053,
-      "end": 5197,
       "id": "771781bf-f774-4562-92cd-9f2e31af0790",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 5053,
+      "end": 5197,
       "flashcard": {
         "id": "771781bf-f774-4562-92cd-9f2e31af0790",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "suchen/suchte/hat gesucht (regular)"
+          "transcription": "",
+          "meaning": "",
+          "notes": "suchen/suchte/hat gesucht (regular)"
         }
       }
     },
     "d091577f-9bab-4f0d-bef1-d11a14e839c4": {
-      "start": 5077,
-      "end": 5740,
       "id": "d091577f-9bab-4f0d-bef1-d11a14e839c4",
       "fileId": "53ac7c0c-bbfc-4444-9918-291291d20309",
+      "start": 5077,
+      "end": 5740,
       "flashcard": {
         "id": "d091577f-9bab-4f0d-bef1-d11a14e839c4",
         "tags": [
           "piggeldy-der-himmel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Bekommt man im Himmel auch was zu fressen?\"\n\n„Ich weiß es nicht,\" überlegte Frederick zweifelnd. „Ich habe noch nie etwas vom himmlischen Fressen gehört.\"",
-          "back": "\"And do you get to eat anything in the sky?\"\n\n\"I don't know,\" pondered Frederick, puzzled. \"I've never heard anything about sky food.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "fressen/fraß/hat gefressen/frisst\n\n\"Fressen\" is \"to eat\", but only for animals. Humans \"essen\", pigs \"fressen.\"\n\nhimmlisch = heavenly, celestial"
+          "transcription": "„Bekommt man im Himmel auch was zu fressen?\"\n\n„Ich weiß es nicht,\" überlegte Frederick zweifelnd. „Ich habe noch nie etwas vom himmlischen Fressen gehört.\"",
+          "meaning": "\"And do you get to eat anything in the sky?\"\n\n\"I don't know,\" pondered Frederick, puzzled. \"I've never heard anything about sky food.",
+          "notes": "fressen/fraß/hat gefressen/frisst\n\n\"Fressen\" is \"to eat\", but only for animals. Humans \"essen\", pigs \"fressen.\"\n\nhimmlisch = heavenly, celestial"
         }
       }
     },
     "aa01fa6c-d16a-472b-8f96-631ab83cd12b": {
       "id": "aa01fa6c-d16a-472b-8f96-631ab83cd12b",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 5175,
       "end": 5431,
       "flashcard": {
         "id": "aa01fa6c-d16a-472b-8f96-631ab83cd12b",
-        "fields": {
-          "front": "Los! flüsterte Frederick, und beide sprangen auf.",
-          "back": "Go! whispered Frederick, and they both jumped up.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "springen/sprang/ist gesprungen"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Los! flüsterte Frederick, und beide sprangen auf.",
+          "meaning": "Go! whispered Frederick, and they both jumped up.",
+          "notes": "springen/sprang/ist gesprungen"
+        }
+      }
     },
     "227e03ae-cfaf-49a4-b625-b808ad05c6a2": {
-      "start": 5225,
-      "end": 5832,
       "id": "227e03ae-cfaf-49a4-b625-b808ad05c6a2",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 5225,
+      "end": 5832,
       "flashcard": {
         "id": "227e03ae-cfaf-49a4-b625-b808ad05c6a2",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Piggeldy rannte zum blauen Farbeimer und tauchte beide Vorderfüße hinein. Dabei verlor er das Gleichgewicht und fiel in den Eimer!",
-          "back": "Piggeldy ran to the blue paint bucket and dipped both front feet in. In doing so, he lost his balance and fell into the bucket!",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "der Fuß, die Füße\ngleich = just, same, equal\ndas Gewicht = weight\ndas Gleichgewicht = balance\n\nrennen/rannte/ist gerannt\nverlieren/verlor/hat verloren\nfallen/fiel/ist gefallen/fällt"
+          "transcription": "Piggeldy rannte zum blauen Farbeimer und tauchte beide Vorderfüße hinein. Dabei verlor er das Gleichgewicht und fiel in den Eimer!",
+          "meaning": "Piggeldy ran to the blue paint bucket and dipped both front feet in. In doing so, he lost his balance and fell into the bucket!",
+          "notes": "der Fuß, die Füße\ngleich = just, same, equal\ndas Gewicht = weight\ndas Gleichgewicht = balance\n\nrennen/rannte/ist gerannt\nverlieren/verlor/hat verloren\nfallen/fiel/ist gefallen/fällt"
         }
       }
     },
     "d93e098a-8532-4ef6-bd8b-dc210ddb12d5": {
       "id": "d93e098a-8532-4ef6-bd8b-dc210ddb12d5",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 5436,
       "end": 5658,
       "flashcard": {
         "id": "d93e098a-8532-4ef6-bd8b-dc210ddb12d5",
-        "fields": {
-          "front": "Platsch! machte es, und wieder waren sie heruntergefallen.",
-          "back": "There was a \"splat!\", and once again they had fallen down.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "herunterfallen/fiel herunter/heruntergefallen"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Platsch! machte es, und wieder waren sie heruntergefallen.",
+          "meaning": "There was a \"splat!\", and once again they had fallen down.",
+          "notes": "herunterfallen/fiel herunter/heruntergefallen"
+        }
+      }
     },
     "a4b69251-f8c0-4a7d-9d70-c949128749d0": {
-      "start": 5550,
-      "end": 5670,
       "id": "a4b69251-f8c0-4a7d-9d70-c949128749d0",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 5550,
+      "end": 5670,
       "flashcard": {
         "id": "a4b69251-f8c0-4a7d-9d70-c949128749d0",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "eine Menge = tons, a load of"
+          "transcription": "",
+          "meaning": "",
+          "notes": "eine Menge = tons, a load of"
         }
       }
     },
     "e6b86199-9bb6-486e-a6ae-b2490ba2f62d": {
       "id": "e6b86199-9bb6-486e-a6ae-b2490ba2f62d",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 5690,
       "end": 5958,
       "flashcard": {
         "id": "e6b86199-9bb6-486e-a6ae-b2490ba2f62d",
-        "fields": {
-          "front": "Mit dir kann man keinen Mond fangen, sagte Frederick zu Piggeldy.",
-          "back": "One cannot catch a Moon with you, said Frederick to Piggeldy."
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Mit dir kann man keinen Mond fangen, sagte Frederick zu Piggeldy.",
+          "meaning": "One cannot catch a Moon with you, said Frederick to Piggeldy."
+        }
+      }
     },
     "677a3090-0f6d-481e-a679-fea4c9b21295": {
-      "start": 5707,
-      "end": 6000,
       "id": "677a3090-0f6d-481e-a679-fea4c9b21295",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 5707,
+      "end": 6000,
       "flashcard": {
         "id": "677a3090-0f6d-481e-a679-fea4c9b21295",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "entdecken/entdeckte/hat endeckt = discover"
+          "transcription": "",
+          "meaning": "",
+          "notes": "entdecken/entdeckte/hat endeckt = discover"
         }
       }
     },
     "cb4a084f-977f-45a0-ac4a-0d5f36eb82c3": {
-      "start": 5782,
-      "end": 6916,
       "id": "cb4a084f-977f-45a0-ac4a-0d5f36eb82c3",
       "fileId": "53ac7c0c-bbfc-4444-9918-291291d20309",
+      "start": 5782,
+      "end": 6916,
       "flashcard": {
         "id": "cb4a084f-977f-45a0-ac4a-0d5f36eb82c3",
         "tags": [
           "piggeldy-der-himmel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Schließlich kamen sie an ein großes Wasser.\n\n„Das ist Pech,\" stellte Frederick fest. Es ist noch ein großes Wasser zwischen dem Himmel und uns. Aber dort hinten, wo das Wasser aufhört, dort fängt ganz bestimmt der Himmel an.\"",
-          "back": "Finally, they came to a great big sea.\n\n\"This is bad luck,\" assessed Frederick. \"There's a great big sea between us and the sky. But back there, where the water stops, that's most definitely where the sky begins.\"",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "feststellen/stellte fest/hat festgestellt (regular)\naufhören/hörte auf/hat aufgehört (regular)\n\nfest = tight, fast, firm, solid\nstellen = to put, place, set\nfeststellen = to establish, ascertain, determine\n\nGerman doesn't have the same mandatory two-way distinction between \"here\" and \"there\". The most usual translation for either is \"da\".\n\nIch bin da! = I'm here! (I've arrived!)\nIch bin hier! = I'm here! (Not over there!)\n\nWhen you need to be specific, you can. German actually allows for a *three-way* distinction.\n\nhier = here\nda = there (near you)\ndort = over there (far from both of us)\n\nIn practice \"da\" and \"dort\" are often interchangeable, and usage varies regionally."
+          "transcription": "Schließlich kamen sie an ein großes Wasser.\n\n„Das ist Pech,\" stellte Frederick fest. Es ist noch ein großes Wasser zwischen dem Himmel und uns. Aber dort hinten, wo das Wasser aufhört, dort fängt ganz bestimmt der Himmel an.\"",
+          "meaning": "Finally, they came to a great big sea.\n\n\"This is bad luck,\" assessed Frederick. \"There's a great big sea between us and the sky. But back there, where the water stops, that's most definitely where the sky begins.\"",
+          "notes": "feststellen/stellte fest/hat festgestellt (regular)\naufhören/hörte auf/hat aufgehört (regular)\n\nfest = tight, fast, firm, solid\nstellen = to put, place, set\nfeststellen = to establish, ascertain, determine\n\nGerman doesn't have the same mandatory two-way distinction between \"here\" and \"there\". The most usual translation for either is \"da\".\n\nIch bin da! = I'm here! (I've arrived!)\nIch bin hier! = I'm here! (Not over there!)\n\nWhen you need to be specific, you can. German actually allows for a *three-way* distinction.\n\nhier = here\nda = there (near you)\ndort = over there (far from both of us)\n\nIn practice \"da\" and \"dort\" are often interchangeable, and usage varies regionally."
         }
       }
     },
     "72470a3b-c124-4cd7-a184-a1ae692348c8": {
-      "start": 5787,
-      "end": 6330,
       "id": "72470a3b-c124-4cd7-a184-a1ae692348c8",
       "fileId": "35f9fda8-7563-42b7-9869-cec895389ae8",
+      "start": 5787,
+      "end": 6330,
       "flashcard": {
         "id": "72470a3b-c124-4cd7-a184-a1ae692348c8",
         "tags": [
           "piggeldy-der-vogel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Große Klasse!\" lobte Frederick.\n\n„Ich singe aber ganz und gar und überhaupt und ganz bestimmt nicht!\" schrie Piggeldy.",
-          "back": "\"Great stuff!\" praised Frederick.\n\n\"But I'm downright, absolutely, most definitely NOT singing!\" cried Piggeldy.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "loben/lobte/hat gelobt (regular)"
+          "transcription": "„Große Klasse!\" lobte Frederick.\n\n„Ich singe aber ganz und gar und überhaupt und ganz bestimmt nicht!\" schrie Piggeldy.",
+          "meaning": "\"Great stuff!\" praised Frederick.\n\n\"But I'm downright, absolutely, most definitely NOT singing!\" cried Piggeldy.",
+          "notes": "loben/lobte/hat gelobt (regular)"
         }
       }
     },
     "6a122128-e5f8-4788-b4cb-f3fbf842f7d8": {
-      "start": 5844,
-      "end": 6529,
       "id": "6a122128-e5f8-4788-b4cb-f3fbf842f7d8",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 5844,
+      "end": 6529,
       "flashcard": {
         "id": "6a122128-e5f8-4788-b4cb-f3fbf842f7d8",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Hilfe!\" schrie Piggeldy.\n\n„Spring schnell wieder raus!\" rief Frederick.\n\nPiggeldy sprang wieder heraus und schlotterte. „Ich bin ganz blau!\" schrie er.",
-          "back": "\"Help!\" cried Piggeldy.\n\n\"Quickly, jump back out!\" shouted Frederick.\n\nPiggeldy jumped back out and shuddered. \"I'm all blue!\" he cried.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "\"Raus\" is the colloquial version of \"heraus\". Same as \"herein, rein\".\n\nschreien/schrie/geschrien"
+          "transcription": "„Hilfe!\" schrie Piggeldy.\n\n„Spring schnell wieder raus!\" rief Frederick.\n\nPiggeldy sprang wieder heraus und schlotterte. „Ich bin ganz blau!\" schrie er.",
+          "meaning": "\"Help!\" cried Piggeldy.\n\n\"Quickly, jump back out!\" shouted Frederick.\n\nPiggeldy jumped back out and shuddered. \"I'm all blue!\" he cried.",
+          "notes": "\"Raus\" is the colloquial version of \"heraus\". Same as \"herein, rein\".\n\nschreien/schrie/geschrien"
         }
       }
     },
     "ba50a9a0-b648-4542-9006-c36f6fd2d770": {
       "id": "ba50a9a0-b648-4542-9006-c36f6fd2d770",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 5981,
       "end": 6117,
       "flashcard": {
         "id": "ba50a9a0-b648-4542-9006-c36f6fd2d770",
-        "fields": {
-          "front": "Du bist viel zu klein!",
-          "back": "You are much too small!"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Du bist viel zu klein!",
+          "meaning": "You are much too small!"
+        }
+      }
     },
     "5f4f7348-45ea-4fb5-8236-9eaef2ffb100": {
       "id": "5f4f7348-45ea-4fb5-8236-9eaef2ffb100",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 6139,
       "end": 6393,
       "flashcard": {
         "id": "5f4f7348-45ea-4fb5-8236-9eaef2ffb100",
-        "fields": {
-          "front": "Ich will aber den Mond fangen, sagte Piggeldy, und so klein bin ich schon längst nicht mehr.",
-          "back": "But I want to catch the moon, said Piggeldy, and I won't be so small for much longer!"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Ich will aber den Mond fangen, sagte Piggeldy, und so klein bin ich schon längst nicht mehr.",
+          "meaning": "But I want to catch the moon, said Piggeldy, and I won't be so small for much longer!"
+        }
+      }
     },
     "2137d751-1233-404b-a172-1738f47d7b4c": {
-      "start": 6353,
-      "end": 7087,
       "id": "2137d751-1233-404b-a172-1738f47d7b4c",
       "fileId": "35f9fda8-7563-42b7-9869-cec895389ae8",
+      "start": 6353,
+      "end": 7087,
       "flashcard": {
         "id": "2137d751-1233-404b-a172-1738f47d7b4c",
         "tags": [
           "piggeldy-der-vogel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Hilfe! Einer schupst mich!\"\n\nPiggeldy fiel aus dem Baum.\n\n„Was ist los?\" fragte Frederick erstaunt.\n\n„Ich glaube,\" jammerte Piggeldy, „ich war in einer fremden Wohnung.\"",
-          "back": "\"Help! One's shoving me!\"\n\nPiggeldy fell from the tree.\n\n\"What's wrong?\" asked Frederick, astonished.\n\n\"I believe,\" wailed Piggeldy, \"I was in someone else's home.\"",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "fremd = foreign, strange, alien, of someone else"
+          "transcription": "„Hilfe! Einer schupst mich!\"\n\nPiggeldy fiel aus dem Baum.\n\n„Was ist los?\" fragte Frederick erstaunt.\n\n„Ich glaube,\" jammerte Piggeldy, „ich war in einer fremden Wohnung.\"",
+          "meaning": "\"Help! One's shoving me!\"\n\nPiggeldy fell from the tree.\n\n\"What's wrong?\" asked Frederick, astonished.\n\n\"I believe,\" wailed Piggeldy, \"I was in someone else's home.\"",
+          "notes": "fremd = foreign, strange, alien, of someone else"
         }
       }
     },
     "27f09c0d-2e65-4e72-a8ee-5d413ebf4020": {
       "id": "27f09c0d-2e65-4e72-a8ee-5d413ebf4020",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 6423,
       "end": 6556,
       "flashcard": {
         "id": "27f09c0d-2e65-4e72-a8ee-5d413ebf4020",
-        "fields": {
-          "front": "Da! Guck mal! sagte Frederick.",
-          "back": "There! Look! said Frederick.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "mal = softens a command"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Da! Guck mal! sagte Frederick.",
+          "meaning": "There! Look! said Frederick.",
+          "notes": "mal = softens a command"
+        }
+      }
     },
     "8ee4e897-1ac6-48b4-9cec-2c7a70c605a4": {
-      "start": 6491,
-      "end": 6668,
       "id": "8ee4e897-1ac6-48b4-9cec-2c7a70c605a4",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 6491,
+      "end": 6668,
       "flashcard": {
         "id": "8ee4e897-1ac6-48b4-9cec-2c7a70c605a4",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "riesen- = giant"
+          "transcription": "",
+          "meaning": "",
+          "notes": "riesen- = giant"
         }
       }
     },
     "8521b5c3-8463-4d32-a99c-95d0168430fa": {
-      "start": 6540,
-      "end": 6869,
       "id": "8521b5c3-8463-4d32-a99c-95d0168430fa",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 6540,
+      "end": 6869,
       "flashcard": {
         "id": "8521b5c3-8463-4d32-a99c-95d0168430fa",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Spritzt nicht so, Piggeldy!\" rief Frederick. \"Sonst verdirbst du unser Bild.\"",
-          "back": "\"Don't splash like that, Piggeldy!\" shouted Frederick. Or else you'll spoil our picture!\"",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "verderben/verdarb/hat verdorben/verdirbt"
+          "transcription": "„Spritzt nicht so, Piggeldy!\" rief Frederick. \"Sonst verdirbst du unser Bild.\"",
+          "meaning": "\"Don't splash like that, Piggeldy!\" shouted Frederick. Or else you'll spoil our picture!\"",
+          "notes": "verderben/verdarb/hat verdorben/verdirbt"
         }
       }
     },
     "7fa5849a-d7b5-4eb0-9984-4a33a5d8381d": {
       "id": "7fa5849a-d7b5-4eb0-9984-4a33a5d8381d",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 6570,
       "end": 6662,
       "flashcard": {
         "id": "7fa5849a-d7b5-4eb0-9984-4a33a5d8381d",
-        "fields": {
-          "front": "Er hängt im Baum!",
-          "back": "It's hanging in the tree!",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "hängen/hing/gehangen"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Er hängt im Baum!",
+          "meaning": "It's hanging in the tree!",
+          "notes": "hängen/hing/gehangen"
+        }
+      }
     },
     "c5b9a712-d9fd-4b5e-9f29-85049e2ac03d": {
       "id": "c5b9a712-d9fd-4b5e-9f29-85049e2ac03d",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 6696,
       "end": 6821,
       "flashcard": {
         "id": "c5b9a712-d9fd-4b5e-9f29-85049e2ac03d",
-        "fields": {
-          "front": "Jetzt haben wir ihn! sagte Piggeldy.",
-          "back": "Now we've got it! said Piggeldy.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "sagen/sagte/hat gesagt (regular)"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Jetzt haben wir ihn! sagte Piggeldy.",
+          "meaning": "Now we've got it! said Piggeldy.",
+          "notes": "sagen/sagte/hat gesagt (regular)"
+        }
+      }
     },
     "c31d4fde-ae65-4ca6-86c7-3bc519ed3991": {
       "id": "c31d4fde-ae65-4ca6-86c7-3bc519ed3991",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 6836,
       "end": 7074,
       "flashcard": {
         "id": "c31d4fde-ae65-4ca6-86c7-3bc519ed3991",
-        "fields": {
-          "front": "Aber als beide auf den Baum kletterten, hing der Mond schon im nächsten Baum.",
-          "back": "But when they both climbed onto the tree, the moon was already hanging in the next tree.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "klettern/kletterte/ist? geklettert (regular)"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Aber als beide auf den Baum kletterten, hing der Mond schon im nächsten Baum.",
+          "meaning": "But when they both climbed onto the tree, the moon was already hanging in the next tree.",
+          "notes": "klettern/kletterte/ist? geklettert (regular)"
+        }
+      }
     },
     "831b942a-3364-4bbb-a47e-ca7dcc35501f": {
-      "start": 6872,
-      "end": 7011,
       "id": "831b942a-3364-4bbb-a47e-ca7dcc35501f",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 6872,
+      "end": 7011,
       "flashcard": {
         "id": "831b942a-3364-4bbb-a47e-ca7dcc35501f",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "George will als Erste in die große Pfütze springen.",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "George will als Erste in die große Pfütze springen.",
+          "meaning": "",
+          "notes": ""
         }
       }
     },
     "4840ec86-18af-4ede-9c6b-b7a7fa0f5ffe": {
-      "start": 6879,
-      "end": 7235,
       "id": "4840ec86-18af-4ede-9c6b-b7a7fa0f5ffe",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 6879,
+      "end": 7235,
       "flashcard": {
         "id": "4840ec86-18af-4ede-9c6b-b7a7fa0f5ffe",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Piggeldy legte sich in den grünen Wald zwischen die blauen Blumen und schlief ein.",
-          "back": "Piggeldy placed himself in the green forest between the blue flowers and fell asleep.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "legen/legte/hat gelegt\neinschlafen/"
+          "transcription": "Piggeldy legte sich in den grünen Wald zwischen die blauen Blumen und schlief ein.",
+          "meaning": "Piggeldy placed himself in the green forest between the blue flowers and fell asleep.",
+          "notes": "legen/legte/hat gelegt\neinschlafen/"
         }
       }
     },
     "0b12430b-189d-4476-941c-94abe33ca92b": {
-      "start": 6944,
-      "end": 7632,
       "id": "0b12430b-189d-4476-941c-94abe33ca92b",
       "fileId": "53ac7c0c-bbfc-4444-9918-291291d20309",
+      "start": 6944,
+      "end": 7632,
       "flashcard": {
         "id": "0b12430b-189d-4476-941c-94abe33ca92b",
         "tags": [
           "piggeldy-der-himmel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Vielleicht können wir ja hinüberschwimmen.\"\n\nPiggeldy tauchte seinen rechten Vorderfuß ins Wasser.\n\n„Brrr!\" schüttelte er sich. „Ist das aber Kalt!\"",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "„Vielleicht können wir ja hinüberschwimmen.\"\n\nPiggeldy tauchte seinen rechten Vorderfuß ins Wasser.\n\n„Brrr!\" schüttelte er sich. „Ist das aber Kalt!\"",
+          "meaning": "",
+          "notes": ""
         }
       }
     },
     "27873fc6-0e11-4a36-b59b-256c25d5979a": {
-      "start": 7068,
-      "end": 7513,
       "id": "27873fc6-0e11-4a36-b59b-256c25d5979a",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 7068,
+      "end": 7513,
       "flashcard": {
         "id": "27873fc6-0e11-4a36-b59b-256c25d5979a",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Halt, George! Vielleicht ist sie ja zu tief für dich.",
-          "back": "Stop, George! Maybe it (the puddle) is too big for you.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "Halt, George! Vielleicht ist sie ja zu tief für dich.",
+          "meaning": "Stop, George! Maybe it (the puddle) is too big for you.",
+          "notes": ""
         }
       }
     },
     "d7c4c643-cf20-436a-8ce1-caf02ea1177e": {
       "id": "d7c4c643-cf20-436a-8ce1-caf02ea1177e",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 7084,
       "end": 7309,
       "flashcard": {
         "id": "d7c4c643-cf20-436a-8ce1-caf02ea1177e",
-        "fields": {
-          "front": "Und als sie am nächsten Baum ankamen, hing der Mond im übernächsten Baum.",
-          "back": "And when they arrived at the next tree, the moon was hanging in the tree after that!",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "ankommen/kam an/ist angekommen"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Und als sie am nächsten Baum ankamen, hing der Mond im übernächsten Baum.",
+          "meaning": "And when they arrived at the next tree, the moon was hanging in the tree after that!",
+          "notes": "ankommen/kam an/ist angekommen"
+        }
+      }
     },
     "cff4017e-a2b2-47fc-8fc8-3a55d1678d92": {
-      "start": 7246,
-      "end": 7579,
       "id": "cff4017e-a2b2-47fc-8fc8-3a55d1678d92",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 7246,
+      "end": 7579,
       "flashcard": {
         "id": "cff4017e-a2b2-47fc-8fc8-3a55d1678d92",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Frederick malte noch ein bisschen am Wald, dann sagte er, „Komm, das reicht.\"",
-          "back": "Frederick painted the forest a bit more, then said, \"Come, that's enough.\"",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "Frederick malte noch ein bisschen am Wald, dann sagte er, „Komm, das reicht.\"",
+          "meaning": "Frederick painted the forest a bit more, then said, \"Come, that's enough.\"",
+          "notes": ""
         }
       }
     },
     "d8230789-7e8a-4c15-9b50-8df948f58b5b": {
-      "start": 7314,
-      "end": 7800,
       "id": "d8230789-7e8a-4c15-9b50-8df948f58b5b",
       "fileId": "35f9fda8-7563-42b7-9869-cec895389ae8",
+      "start": 7314,
+      "end": 7800,
       "flashcard": {
         "id": "d8230789-7e8a-4c15-9b50-8df948f58b5b",
         "tags": [
           "piggeldy-der-vogel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Frederick sah Piggeldy an. Piggeldy sah Frederick an.\n\n„Du hast einen ganz schönen Vogel,\" meinte Frederick.",
-          "back": "Frederick looked at Piggeldy. Piggeldy looked at Frederick.\n\n\"You're cuckoo.\" said Frederick.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "Frederick sah Piggeldy an. Piggeldy sah Frederick an.\n\n„Du hast einen ganz schönen Vogel,\" meinte Frederick.",
+          "meaning": "Frederick looked at Piggeldy. Piggeldy looked at Frederick.\n\n\"You're cuckoo.\" said Frederick.",
+          "notes": ""
         }
       }
     },
     "108663e4-cd57-4c62-9e35-bbb680cdd16a": {
       "id": "108663e4-cd57-4c62-9e35-bbb680cdd16a",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 7326,
       "end": 7422,
       "flashcard": {
         "id": "108663e4-cd57-4c62-9e35-bbb680cdd16a",
-        "fields": {
-          "front": "Und so ging es immer weiter.",
-          "back": "And so it went on and on.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "\"immer größer\" bigger and bigger; \"immer mehr\" more and more."
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Und so ging es immer weiter.",
+          "meaning": "And so it went on and on.",
+          "notes": "\"immer größer\" bigger and bigger; \"immer mehr\" more and more."
+        }
+      }
     },
     "d3b66053-3d43-4d43-ba3c-930200f34c56": {
       "id": "d3b66053-3d43-4d43-ba3c-930200f34c56",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 7455,
       "end": 7645,
       "flashcard": {
         "id": "d3b66053-3d43-4d43-ba3c-930200f34c56",
-        "fields": {
-          "front": "Er lässt sich nicht fangen, meinte Frederick.",
-          "back": "It can't be caught! said Frederick.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "Lit. it doesn't let [anyone] catch itself.\n\nlassen/ließ?/hat gelassen/lässt"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Er lässt sich nicht fangen, meinte Frederick.",
+          "meaning": "It can't be caught! said Frederick.",
+          "notes": "Lit. it doesn't let [anyone] catch itself.\n\nlassen/ließ?/hat gelassen/lässt"
+        }
+      }
     },
     "dc46a856-7c3d-4975-9494-c5e50dc1e8ed": {
-      "start": 7599,
-      "end": 8166,
       "id": "dc46a856-7c3d-4975-9494-c5e50dc1e8ed",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 7599,
+      "end": 8166,
       "flashcard": {
         "id": "dc46a856-7c3d-4975-9494-c5e50dc1e8ed",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Piggeldy stand auf.\n\n„Frederick, guck mal! Ich habe ein... ein blaues Schwein gemalt, das im grünen Wald zwischen blauen Blumen liegt.\"",
-          "back": "Piggeldy stood up.\n\n\"Frederick, look! I've painted a... a blue pig, that's lying in the green forest among the blue flowers.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "\"Gucken\" is usually pronounced as if it were spelled \"kucken\".\n\nAttention:\nEr legte sich IN DEN grünen Wald ZWISCHEN DIE blauen Blumen.\nvs.\nEr \n\naufstehen/stand auf/ist aufgestanden\ngucken/guckte/hat geguckt\nliegen/lag/ist geliegen"
+          "transcription": "Piggeldy stand auf.\n\n„Frederick, guck mal! Ich habe ein... ein blaues Schwein gemalt, das im grünen Wald zwischen blauen Blumen liegt.\"",
+          "meaning": "Piggeldy stood up.\n\n\"Frederick, look! I've painted a... a blue pig, that's lying in the green forest among the blue flowers.",
+          "notes": "\"Gucken\" is usually pronounced as if it were spelled \"kucken\".\n\nAttention:\nEr legte sich IN DEN grünen Wald ZWISCHEN DIE blauen Blumen.\nvs.\nEr \n\naufstehen/stand auf/ist aufgestanden\ngucken/guckte/hat geguckt\nliegen/lag/ist geliegen"
         }
       }
     },
     "dbd272df-c244-42db-858a-eb9bbcf5c5c6": {
-      "start": 7650,
-      "end": 8734,
       "id": "dbd272df-c244-42db-858a-eb9bbcf5c5c6",
       "fileId": "53ac7c0c-bbfc-4444-9918-291291d20309",
+      "start": 7650,
+      "end": 8734,
       "flashcard": {
         "id": "dbd272df-c244-42db-858a-eb9bbcf5c5c6",
         "tags": [
           "piggeldy-der-himmel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Und schwimmen kann ich sowieso nicht.\"\n\n„Dann können wir eben nicht dahin, wo der Himmel anfängt,\" entschied Frederick.\n\n„Das hättest du vorher sagen sollen,\" murrte Piggeldy.\n\nUnd Piggeldy ging mit Frederick nach Hause.",
-          "back": "\"And I can't swim anyway.\"\n\n\"Then we just can't go where the sky begins,\" decided Frederick.\n\n\"You should have said that before,\" muttered Piggeldy.\n\nAnd Piggeldy went home with Frederick.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "schwimmen/schwamm/ist geschwommen\nmurren/murrte/gemurrt (regular)\n\nRemember, \"sollen\" has the base meaning of \"to be supposed to\". Here are some examples in the regular old indicative mood, present and past:\n\nDu sollst das sagen. = You are to say that. You are supposed to say that.\nDu hast das sagen sollen. = You were to say that. You were supposed to say that.\n\nBut here this sentence uses \"hättest ... sollen\", which is actually PAST tense of the subjunctive mood. Since \"sollen\" in the present subjunctive has that special meaning of \"should\", it becomes \"should have\" in the past subjunctive.\n\nDu solltest das sagen. = You should say that. (Lit. you would be supposed to say that.)\nDu hättest das sagen sollen. = You should have said that. (Lit. you would have been supposed to say that.)\n\nMore on the subjunctive mood: https://coerll.utexas.edu/gg/gr/vsub_02.html"
+          "transcription": "„Und schwimmen kann ich sowieso nicht.\"\n\n„Dann können wir eben nicht dahin, wo der Himmel anfängt,\" entschied Frederick.\n\n„Das hättest du vorher sagen sollen,\" murrte Piggeldy.\n\nUnd Piggeldy ging mit Frederick nach Hause.",
+          "meaning": "\"And I can't swim anyway.\"\n\n\"Then we just can't go where the sky begins,\" decided Frederick.\n\n\"You should have said that before,\" muttered Piggeldy.\n\nAnd Piggeldy went home with Frederick.",
+          "notes": "schwimmen/schwamm/ist geschwommen\nmurren/murrte/gemurrt (regular)\n\nRemember, \"sollen\" has the base meaning of \"to be supposed to\". Here are some examples in the regular old indicative mood, present and past:\n\nDu sollst das sagen. = You are to say that. You are supposed to say that.\nDu hast das sagen sollen. = You were to say that. You were supposed to say that.\n\nBut here this sentence uses \"hättest ... sollen\", which is actually PAST tense of the subjunctive mood. Since \"sollen\" in the present subjunctive has that special meaning of \"should\", it becomes \"should have\" in the past subjunctive.\n\nDu solltest das sagen. = You should say that. (Lit. you would be supposed to say that.)\nDu hättest das sagen sollen. = You should have said that. (Lit. you would have been supposed to say that.)\n\nMore on the subjunctive mood: https://coerll.utexas.edu/gg/gr/vsub_02.html"
         }
       }
     },
     "6bc169b7-3dc4-45bf-ad62-c9fe1968786c": {
       "id": "6bc169b7-3dc4-45bf-ad62-c9fe1968786c",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 7664,
       "end": 7796,
       "flashcard": {
         "id": "6bc169b7-3dc4-45bf-ad62-c9fe1968786c",
-        "fields": {
-          "front": "Er ist eben ein Mond.",
-          "back": "He is just a moon."
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Er ist eben ein Mond.",
+          "meaning": "He is just a moon."
+        }
+      }
     },
     "bdbac03d-934f-4225-bcc1-a74b74f6e27d": {
-      "start": 7773,
-      "end": 7896,
       "id": "bdbac03d-934f-4225-bcc1-a74b74f6e27d",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 7773,
+      "end": 7896,
       "flashcard": {
         "id": "bdbac03d-934f-4225-bcc1-a74b74f6e27d",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "der Schlamm = mud"
+          "transcription": "",
+          "meaning": "",
+          "notes": "der Schlamm = mud"
         }
       }
     },
     "b2284d8c-9d21-4d5c-a81e-f9ffbc50435e": {
-      "start": 7803,
-      "end": 8623,
       "id": "b2284d8c-9d21-4d5c-a81e-f9ffbc50435e",
       "fileId": "35f9fda8-7563-42b7-9869-cec895389ae8",
+      "start": 7803,
+      "end": 8623,
       "flashcard": {
         "id": "b2284d8c-9d21-4d5c-a81e-f9ffbc50435e",
         "tags": [
           "piggeldy-der-vogel"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Vielleicht hättest du dir ein Bein brechen können.\"\n\n„Hätte ich,\" sagte Piggeldy. „Hab' ich aber nicht. Und was ich nicht hab', kann ich nicht 'gehättet' haben.\"",
-          "back": "Perhaps you could have broken a leg!\n\n\"I could have,\" said Piggeldy. \"But I didn't. And what I didn't, I can't have coulded!\"",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "This last sentence is nonsense--kind of poking fun at how things get complicated when you talk about \"woulds\" and \"would haves\". We can't expect Piggeldy (and others learning the subjunctive in German) to get it right away."
+          "transcription": "„Vielleicht hättest du dir ein Bein brechen können.\"\n\n„Hätte ich,\" sagte Piggeldy. „Hab' ich aber nicht. Und was ich nicht hab', kann ich nicht 'gehättet' haben.\"",
+          "meaning": "Perhaps you could have broken a leg!\n\n\"I could have,\" said Piggeldy. \"But I didn't. And what I didn't, I can't have coulded!\"",
+          "notes": "This last sentence is nonsense--kind of poking fun at how things get complicated when you talk about \"woulds\" and \"would haves\". We can't expect Piggeldy (and others learning the subjunctive in German) to get it right away."
         }
       }
     },
     "c08903a1-9f8b-4928-bc28-c08a12134bb6": {
       "id": "c08903a1-9f8b-4928-bc28-c08a12134bb6",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 7808,
       "end": 7938,
       "flashcard": {
         "id": "c08903a1-9f8b-4928-bc28-c08a12134bb6",
-        "fields": {
-          "front": "Er ist zu schlau!",
-          "back": "He's too smart!"
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Er ist zu schlau!",
+          "meaning": "He's too smart!"
+        }
+      }
     },
     "1536ae26-2715-4a82-933d-22d7b7d9f7d4": {
       "id": "1536ae26-2715-4a82-933d-22d7b7d9f7d4",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 7951,
       "end": 8096,
       "flashcard": {
         "id": "1536ae26-2715-4a82-933d-22d7b7d9f7d4",
-        "fields": {
-          "front": "Lass uns also gehen, sagte Frederick.",
-          "back": "Let's go, then, said Frederick.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Lass uns also gehen, sagte Frederick.",
+          "meaning": "Let's go, then, said Frederick.",
+          "notes": ""
+        }
+      }
     },
     "a7fdd436-20f8-4b58-a970-05f96d2bfb53": {
       "id": "a7fdd436-20f8-4b58-a970-05f96d2bfb53",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 8105,
       "end": 8418,
       "flashcard": {
         "id": "a7fdd436-20f8-4b58-a970-05f96d2bfb53",
-        "fields": {
-          "front": "Vielleicht finden wir einmal einen Mond, der so dumm ist, dass er sich fangen lässt.",
-          "back": "Perhaps someday we'll find a moon that's so stupid, that it can be caught."
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Vielleicht finden wir einmal einen Mond, der so dumm ist, dass er sich fangen lässt.",
+          "meaning": "Perhaps someday we'll find a moon that's so stupid, that it can be caught."
+        }
+      }
     },
     "9bb0a00c-8ffb-4fb3-845a-30a9c45eea6d": {
-      "start": 8195,
-      "end": 8797,
       "id": "9bb0a00c-8ffb-4fb3-845a-30a9c45eea6d",
       "fileId": "6c229e1f-3ec3-451a-8f49-050b9d8ff9a3",
+      "start": 8195,
+      "end": 8797,
       "flashcard": {
         "id": "9bb0a00c-8ffb-4fb3-845a-30a9c45eea6d",
         "tags": [
           "piggeldy-malen"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "„Prima!\" sagte Frederick. \"Siehst du? So einfach ist das Malen. Können wir jetzt gehen?\"\n\nUnd Piggeldy ging mit Frederick nach Hause.",
-          "back": "\"Fantastic!\" said Frederick. \"You see? That's how easy it is to paint. Can we go now?\"\n\nAnd Piggeldy went home with Frederick.",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "In the sentence, \"That's how easy it is to paint\", you're talking about an action, but the point isn't that anyone doing the action. You're saying something about the action itself, in the abstract. So the verb became a noun--it's not as clear in this English construction, but if you rephrase it as  \"That's how easy painting is\", it's clearer that \"painting\" acts as a noun here, as the subject of \"is\".\n\nIn cases like this where the literal English translation could be either to  \"it... to [verb]\" or \"...ing\", German makes it very clear that the verb is now a noun. So \"malen\" becomes \"das Malen.\""
+          "transcription": "„Prima!\" sagte Frederick. \"Siehst du? So einfach ist das Malen. Können wir jetzt gehen?\"\n\nUnd Piggeldy ging mit Frederick nach Hause.",
+          "meaning": "\"Fantastic!\" said Frederick. \"You see? That's how easy it is to paint. Can we go now?\"\n\nAnd Piggeldy went home with Frederick.",
+          "notes": "In the sentence, \"That's how easy it is to paint\", you're talking about an action, but the point isn't that anyone doing the action. You're saying something about the action itself, in the abstract. So the verb became a noun--it's not as clear in this English construction, but if you rephrase it as  \"That's how easy painting is\", it's clearer that \"painting\" acts as a noun here, as the subject of \"is\".\n\nIn cases like this where the literal English translation could be either to  \"it... to [verb]\" or \"...ing\", German makes it very clear that the verb is now a noun. So \"malen\" becomes \"das Malen.\""
         }
       }
     },
     "b7ee42e7-d647-4142-9460-ef7d0dad22e4": {
       "id": "b7ee42e7-d647-4142-9460-ef7d0dad22e4",
+      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
       "start": 8449,
       "end": 8724,
       "flashcard": {
         "id": "b7ee42e7-d647-4142-9460-ef7d0dad22e4",
-        "fields": {
-          "front": "Piggeldy ging mit Frederick nach Hause, und der Mond ging mit.",
-          "back": "Piggeldy went home with Frederick, and the Moon went with them."
-        },
         "tags": [
           "piggeldy-der-mond"
-        ]
-      },
-      "fileId": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8"
+        ],
+        "type": "Simple",
+        "fields": {
+          "transcription": "Piggeldy ging mit Frederick nach Hause, und der Mond ging mit.",
+          "meaning": "Piggeldy went home with Frederick, and the Moon went with them."
+        }
+      }
     },
     "16235485-6f69-4710-b5e7-d3ed3b0a5098": {
-      "start": 8865,
-      "end": 9018,
       "id": "16235485-6f69-4710-b5e7-d3ed3b0a5098",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 8865,
+      "end": 9018,
       "flashcard": {
         "id": "16235485-6f69-4710-b5e7-d3ed3b0a5098",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Komm mit, George! Wir zeigen Papa wie wir aussehen.",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "aussehen/sah aus/hat ausgesehen/sieht aus"
+          "transcription": "Komm mit, George! Wir zeigen Papa wie wir aussehen.",
+          "meaning": "",
+          "notes": "aussehen/sah aus/hat ausgesehen/sieht aus"
         }
       }
     },
     "846f50ae-ec7a-48e9-b815-fcb5e554d725": {
-      "start": 9380,
-      "end": 9447,
       "id": "846f50ae-ec7a-48e9-b815-fcb5e554d725",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 9380,
+      "end": 9447,
       "flashcard": {
         "id": "846f50ae-ec7a-48e9-b815-fcb5e554d725",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Du lieber Himmel!",
-          "back": "Good heavens!",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "Du lieber Himmel!",
+          "meaning": "Good heavens!",
+          "notes": ""
         }
       }
     },
     "3d416d4d-a8d4-4fe6-9731-9418c7699c7f": {
-      "start": 9523,
-      "end": 9625,
       "id": "3d416d4d-a8d4-4fe6-9731-9418c7699c7f",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 9523,
+      "end": 9625,
       "flashcard": {
         "id": "3d416d4d-a8d4-4fe6-9731-9418c7699c7f",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Rat mal, was wir gemacht haben!",
-          "back": "Guess what we did!",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "raten/riet/geraten"
+          "transcription": "Rat mal, was wir gemacht haben!",
+          "meaning": "Guess what we did!",
+          "notes": "raten/riet/geraten"
         }
       }
     },
     "8911ba5c-9858-43f6-99bb-7fdbda5606a3": {
-      "start": 9650,
-      "end": 9706,
       "id": "8911ba5c-9858-43f6-99bb-7fdbda5606a3",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 9650,
+      "end": 9706,
       "flashcard": {
         "id": "8911ba5c-9858-43f6-99bb-7fdbda5606a3",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "überlegen/überlegte/hat überlegt = consider, think about, ponder"
+          "transcription": "",
+          "meaning": "",
+          "notes": "überlegen/überlegte/hat überlegt = consider, think about, ponder"
         }
       }
     },
     "a2ca1b6e-8368-45a5-89f6-10c72883746b": {
-      "start": 9743,
-      "end": 9930,
       "id": "a2ca1b6e-8368-45a5-89f6-10c72883746b",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 9743,
+      "end": 9930,
       "flashcard": {
         "id": "a2ca1b6e-8368-45a5-89f6-10c72883746b",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "schauen/schaute/geschaut (regular)"
+          "transcription": "",
+          "meaning": "",
+          "notes": "schauen/schaute/geschaut (regular)"
         }
       }
     },
     "1a8771b6-425c-45d3-b07f-839dc2241a50": {
-      "start": 9971,
-      "end": 10032,
       "id": "1a8771b6-425c-45d3-b07f-839dc2241a50",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 9971,
+      "end": 10032,
       "flashcard": {
         "id": "1a8771b6-425c-45d3-b07f-839dc2241a50",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Habt ihr etwa gebadet?",
-          "back": "Did you [two], say, take a bath?",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "badet/badete/hat gebadet"
+          "transcription": "Habt ihr etwa gebadet?",
+          "meaning": "Did you [two], say, take a bath?",
+          "notes": "badet/badete/hat gebadet"
         }
       }
     },
     "3e38ae45-6cff-49fc-a7fb-c916a46e9f56": {
-      "start": 10290,
-      "end": 10721,
       "id": "3e38ae45-6cff-49fc-a7fb-c916a46e9f56",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 10290,
+      "end": 10721,
       "flashcard": {
         "id": "3e38ae45-6cff-49fc-a7fb-c916a46e9f56",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "",
+          "meaning": "",
+          "notes": ""
         }
       }
     },
     "1b550c36-ba27-4609-a54c-25ce2ceac455": {
-      "start": 10739,
-      "end": 10872,
       "id": "1b550c36-ba27-4609-a54c-25ce2ceac455",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 10739,
+      "end": 10872,
       "flashcard": {
         "id": "1b550c36-ba27-4609-a54c-25ce2ceac455",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "",
+          "meaning": "",
+          "notes": ""
         }
       }
     },
     "e296981e-c39c-488d-acd7-42ccdeca3c61": {
-      "start": 10988,
-      "end": 11109,
       "id": "e296981e-c39c-488d-acd7-42ccdeca3c61",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 10988,
+      "end": 11109,
       "flashcard": {
         "id": "e296981e-c39c-488d-acd7-42ccdeca3c61",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Nicht schlimm, ist ja nur Matsch!",
-          "back": "It's not so bad, it's just mud!",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "Nicht schlimm, ist ja nur Matsch!",
+          "meaning": "It's not so bad, it's just mud!",
+          "notes": ""
         }
       }
     },
     "0894463f-e526-49f9-a5a4-9d180c6fc8e9": {
-      "start": 11160,
-      "end": 11290,
       "id": "0894463f-e526-49f9-a5a4-9d180c6fc8e9",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 11160,
+      "end": 11290,
       "flashcard": {
         "id": "0894463f-e526-49f9-a5a4-9d180c6fc8e9",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "Wir machen es schnell weg, bevor Mami euch sieht.",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "Wir machen es schnell weg, bevor Mami euch sieht.",
+          "meaning": "",
+          "notes": ""
         }
       }
     },
     "62fccefc-2feb-4003-be64-3cd29c265dac": {
-      "start": 11414,
-      "end": 11849,
       "id": "62fccefc-2feb-4003-be64-3cd29c265dac",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 11414,
+      "end": 11849,
       "flashcard": {
         "id": "62fccefc-2feb-4003-be64-3cd29c265dac",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "",
+          "meaning": "",
+          "notes": ""
         }
       }
     },
     "50e34b0e-8b19-4acd-b542-d2679ea63fce": {
-      "start": 12150,
-      "end": 12393,
       "id": "50e34b0e-8b19-4acd-b542-d2679ea63fce",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 12150,
+      "end": 12393,
       "flashcard": {
         "id": "50e34b0e-8b19-4acd-b542-d2679ea63fce",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": "tragen/trug/hat getragen/trägt"
+          "transcription": "",
+          "meaning": "",
+          "notes": "tragen/trug/hat getragen/trägt"
         }
       }
     },
     "003f4394-20bd-4cea-9137-3d7243b9920a": {
-      "start": 12484,
-      "end": 12800,
       "id": "003f4394-20bd-4cea-9137-3d7243b9920a",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 12484,
+      "end": 12800,
       "flashcard": {
         "id": "003f4394-20bd-4cea-9137-3d7243b9920a",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "",
+          "meaning": "",
+          "notes": ""
         }
       }
     },
     "dce3bed1-da1a-4679-ae01-243356bbd3ae": {
-      "start": 13255,
-      "end": 13544,
       "id": "dce3bed1-da1a-4679-ae01-243356bbd3ae",
       "fileId": "6190c0e7-5378-4390-a7d2-e212cbf5b088",
+      "start": 13255,
+      "end": 13544,
       "flashcard": {
         "id": "dce3bed1-da1a-4679-ae01-243356bbd3ae",
         "tags": [
           "peppa-pig-1"
         ],
+        "type": "Simple",
         "fields": {
-          "front": "",
-          "back": "",
-          "934a3b85-be04-43af-b9f6-30be2f5b8e1d": ""
+          "transcription": "",
+          "meaning": "",
+          "notes": ""
         }
       }
     }

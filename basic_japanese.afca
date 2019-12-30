@@ -1,20 +1,21 @@
 {
   "version": "4.1.0",
-  "timestamp": "2019-11-30T19:29:19Z",
+  "timestamp": "2019-12-28T13:27:38Z",
   "name": "Basic Japanese",
   "id": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
   "noteType": "Transliteration",
+  "lastOpened": "2019-12-28T13:27:33Z",
   "mediaFiles": [
     {
       "id": "b0cd359c-28f9-424e-a643-21cd368d4e19",
       "type": "MediaFile",
       "parentId": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
+      "subtitles": [],
+      "flashcardFieldsToSubtitlesTracks": {},
       "name": "Japanese Listening (N5-N4-N3) - Shadowing lets speak Japanese beginner to intermediate (N5 N4 N3).mp4",
       "durationSeconds": 3997.500911,
-      "isVideo": true,
       "format": "mov,mp4,m4a,3gp,3g2,mj2",
-      "flashcardFieldsToSubtitlesTracks": {},
-      "subtitles": [],
+      "isVideo": true,
       "subtitlesTracksStreamIndexes": []
     },
     {
@@ -81,12 +82,12 @@
       "id": "ed6b282b-d3bf-40ee-a10d-1290f75fc13e",
       "type": "MediaFile",
       "parentId": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
+      "subtitles": [],
+      "flashcardFieldsToSubtitlesTracks": {},
       "name": "JGR 1-3-1 basu.m4v",
       "durationSeconds": 459.911814,
-      "isVideo": false,
       "format": "mov,mp4,m4a,3gp,3g2,mj2",
-      "flashcardFieldsToSubtitlesTracks": {},
-      "subtitles": [],
+      "isVideo": false,
       "subtitlesTracksStreamIndexes": []
     },
     {
@@ -381,13 +382,17 @@
       "id": "cbe259a7-b16b-43ae-b476-470c4383ff84",
       "type": "MediaFile",
       "parentId": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
-      "name": "[HorribleSubs] Polar Bear Cafe - 01 [1080p].mkv",
-      "durationSeconds": 1464.715,
-      "isVideo": true,
-      "format": "matroska,webm",
+      "subtitles": [
+        "507d82c5-da23-4b4d-b6c1-53c0c9732731"
+      ],
       "flashcardFieldsToSubtitlesTracks": {},
-      "subtitles": [],
-      "subtitlesTracksStreamIndexes": []
+      "name": "Shirokuma Cafe.mkv",
+      "durationSeconds": 1464.715,
+      "format": "matroska,webm",
+      "isVideo": true,
+      "subtitlesTracksStreamIndexes": [
+        2
+      ]
     }
   ],
   "tags": [

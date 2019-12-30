@@ -1,32 +1,33 @@
 {
   "version": "4.1.0",
-  "timestamp": "2019-11-30T19:41:03Z",
+  "timestamp": "2019-12-23T20:06:57Z",
   "name": "Classical Chinese",
   "id": "e659c9a0-ab1f-4b59-b67a-028beaace2d2",
   "noteType": "Transliteration",
+  "lastOpened": "2019-12-23T20:02:24Z",
   "mediaFiles": [
     {
       "id": "cda5f85f-b125-4a45-947e-eea1feb3f818",
       "type": "MediaFile",
       "parentId": "e659c9a0-ab1f-4b59-b67a-028beaace2d2",
+      "subtitles": [],
+      "flashcardFieldsToSubtitlesTracks": {},
       "name": "三字经.mp3",
       "durationSeconds": 818.05775,
-      "isVideo": false,
       "format": "mp3",
-      "flashcardFieldsToSubtitlesTracks": {},
-      "subtitles": [],
+      "isVideo": false,
       "subtitlesTracksStreamIndexes": []
     },
     {
       "id": "5594fe50-564e-4ea9-975b-0ccc78b58070",
       "type": "MediaFile",
       "parentId": "e659c9a0-ab1f-4b59-b67a-028beaace2d2",
+      "subtitles": [],
+      "flashcardFieldsToSubtitlesTracks": {},
       "name": "daodejing_wangbi.m4a",
       "durationSeconds": 3129.689,
-      "isVideo": false,
       "format": "mov,mp4,m4a,3gp,3g2,mj2",
-      "flashcardFieldsToSubtitlesTracks": {},
-      "subtitles": [],
+      "isVideo": false,
       "subtitlesTracksStreamIndexes": []
     }
   ],
@@ -1968,7 +1969,7 @@
         "id": "f501adb8-cd3c-4e5a-84cf-3a476b169606",
         "type": "Transliteration",
         "fields": {
-          "transcription": "道可道\n非常道\n名可名\n非常名\n無名天地之始\n有名萬物之母\n故常無欲\n以觀其妙\n常有欲以觀其徼\n此兩者同出而異名  \n  \n同謂之玄\n玄之又玄\n衆妙之門",
+          "transcription": "道可道\n非常道\n名可名\n非常名\n無名天地之始\n有名萬物之母\n故常無欲\n以觀其妙\n常有欲以觀其徼\n此兩者同出而異名   \n  \n同謂之玄\n玄之又玄\n衆妙之門",
           "pronunciation": "dào kee dào\nfei cháng dào\nmíng kee míng\nfei cháng míng\nwú míng tian dì zhi shii\nyoou míng wàn wù zhi muu\ngù cháng wú yù\nyii guan qí miào\ncháng yoou yù yii guan qí jiào\ncii liaang zhee tóng chu ér yì míng  \n  \ntóng wèi zhi xuán\nxuán zhi yòu xuán\nzhòng miào zhi mén",
           "meaning": "The way that can be spoken of \nIs not the constant way; \nThe name that can be named \nIs not the constant name.  \n  \nThe nameless was the beginning of heaven and earth; \nThe named was the mother of the myriad creatures.  \n  \nHence always rid yourself of desires in order to observe its secrets; \nBut always allow yourself to have desires in order to observe its manifestations.  \n  \nThese two are the same \nBut diverge in name as they issue forth. \nBeing the same they are called mysteries, \nMystery upon mystery - \nThe gateway of the manifold secrets.",
           "notes": "第1章"

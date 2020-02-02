@@ -1,10 +1,10 @@
 {
   "version": "4.1.0",
-  "timestamp": "2019-12-28T12:55:53Z",
+  "timestamp": "2020-02-02T10:29:40Z",
   "name": "German",
   "id": "64cdc932-fd04-4c6b-8607-a2dbba9b524b",
   "noteType": "Simple",
-  "lastOpened": "2019-12-28T12:55:48Z",
+  "lastOpened": "2020-02-02T10:29:40Z",
   "mediaFiles": [
     {
       "id": "e3d552b5-74d3-4abf-97fa-1e4543e1a3c8",
@@ -69,9 +69,9 @@
   ],
   "tags": [
     "piggeldy-der-mond",
-    "piggeldy-der-vogel",
     "piggeldy-malen",
     "piggeldy-der-himmel",
+    "piggeldy-der-vogel",
     "peppa-pig-1"
   ],
   "clips": [
@@ -106,7 +106,8 @@
         "type": "Simple",
         "fields": {
           "transcription": "„Frederick?\" fragte Piggeldy seinen großen Bruder.",
-          "meaning": "Frederick? Piggeldy asked his big brother."
+          "meaning": "Frederick? Piggeldy asked his big brother.",
+          "notes": ""
         }
       }
     },
@@ -213,7 +214,8 @@
         "type": "Simple",
         "fields": {
           "transcription": "Das ist jeden Tag dasselbe.",
-          "meaning": "It's the same every day."
+          "meaning": "It's the same every day.",
+          "notes": ""
         }
       }
     },
@@ -302,7 +304,8 @@
         "type": "Simple",
         "fields": {
           "transcription": "Dann kann man ihn besser fangen.",
-          "meaning": "Then one can catch him better."
+          "meaning": "Then one can catch him better.",
+          "notes": ""
         }
       }
     },
@@ -337,7 +340,8 @@
         "type": "Simple",
         "fields": {
           "transcription": "Und jeden Abend wurde der Mond ein bisschen dünner.",
-          "meaning": "And every evening, the moon got a little bit smaller."
+          "meaning": "And every evening, the moon got a little bit smaller.",
+          "notes": ""
         }
       }
     },
@@ -390,7 +394,8 @@
         "type": "Simple",
         "fields": {
           "transcription": "Piggeldy und Frederick warteten.",
-          "meaning": "Piggeldy and Frederick waited."
+          "meaning": "Piggeldy and Frederick waited.",
+          "notes": ""
         }
       }
     },
@@ -461,7 +466,8 @@
         "type": "Simple",
         "fields": {
           "transcription": "Wir versuchen es noch einmal, nur etwas leiser.",
-          "meaning": "We'll try once more, just a bit more quietly."
+          "meaning": "We'll try once more, just a bit more quietly.",
+          "notes": ""
         }
       }
     },
@@ -532,7 +538,8 @@
         "type": "Simple",
         "fields": {
           "transcription": "Mit dir kann man keinen Mond fangen, sagte Frederick zu Piggeldy.",
-          "meaning": "One cannot catch a Moon with you, said Frederick to Piggeldy."
+          "meaning": "One cannot catch a Moon with you, said Frederick to Piggeldy.",
+          "notes": ""
         }
       }
     },
@@ -549,7 +556,8 @@
         "type": "Simple",
         "fields": {
           "transcription": "Du bist viel zu klein!",
-          "meaning": "You are much too small!"
+          "meaning": "You are much too small!",
+          "notes": ""
         }
       }
     },
@@ -566,7 +574,8 @@
         "type": "Simple",
         "fields": {
           "transcription": "Ich will aber den Mond fangen, sagte Piggeldy, und so klein bin ich schon längst nicht mehr.",
-          "meaning": "But I want to catch the moon, said Piggeldy, and I won't be so small for much longer!"
+          "meaning": "But I want to catch the moon, said Piggeldy, and I won't be so small for much longer!",
+          "notes": ""
         }
       }
     },
@@ -709,7 +718,8 @@
         "type": "Simple",
         "fields": {
           "transcription": "Er ist eben ein Mond.",
-          "meaning": "He is just a moon."
+          "meaning": "He is just a moon.",
+          "notes": ""
         }
       }
     },
@@ -726,7 +736,8 @@
         "type": "Simple",
         "fields": {
           "transcription": "Er ist zu schlau!",
-          "meaning": "He's too smart!"
+          "meaning": "He's too smart!",
+          "notes": ""
         }
       }
     },
@@ -761,7 +772,8 @@
         "type": "Simple",
         "fields": {
           "transcription": "Vielleicht finden wir einmal einen Mond, der so dumm ist, dass er sich fangen lässt.",
-          "meaning": "Perhaps someday we'll find a moon that's so stupid, that it can be caught."
+          "meaning": "Perhaps someday we'll find a moon that's so stupid, that it can be caught.",
+          "notes": ""
         }
       }
     },
@@ -778,7 +790,8 @@
         "type": "Simple",
         "fields": {
           "transcription": "Piggeldy ging mit Frederick nach Hause, und der Mond ging mit.",
-          "meaning": "Piggeldy went home with Frederick, and the Moon went with them."
+          "meaning": "Piggeldy went home with Frederick, and the Moon went with them.",
+          "notes": ""
         }
       }
     },

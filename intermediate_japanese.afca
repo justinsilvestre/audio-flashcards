@@ -1,20 +1,21 @@
 {
   "version": "4.1.0",
-  "timestamp": "2019-12-22T10:50:27Z",
+  "timestamp": "2020-02-02T10:29:42Z",
   "name": "Intermediate Japanese",
   "id": "d7bf05ca-fa1b-4255-a420-47e56a70d3ea",
   "noteType": "Simple",
+  "lastOpened": "2020-02-02T10:29:42Z",
   "mediaFiles": [
     {
       "id": "c272e50e-46be-42cd-beb8-6db89296dd46",
       "type": "MediaFile",
       "parentId": "d7bf05ca-fa1b-4255-a420-47e56a70d3ea",
+      "subtitles": [],
+      "flashcardFieldsToSubtitlesTracks": {},
+      "isVideo": false,
       "name": "01 - Lesson 1 - Main Text.mp3",
       "durationSeconds": 129.541224,
-      "isVideo": false,
       "format": "mp3",
-      "flashcardFieldsToSubtitlesTracks": {},
-      "subtitles": [],
       "subtitlesTracksStreamIndexes": []
     },
     {
@@ -33,12 +34,12 @@
       "id": "73a92b23-b0f5-41ed-bfa4-ec42a1bc589a",
       "type": "MediaFile",
       "parentId": "d7bf05ca-fa1b-4255-a420-47e56a70d3ea",
+      "subtitles": [],
+      "flashcardFieldsToSubtitlesTracks": {},
+      "isVideo": false,
       "name": "03 - Lesson 1 - KaiwaBun 2.mp3",
       "durationSeconds": 54.857143,
-      "isVideo": false,
       "format": "mp3",
-      "flashcardFieldsToSubtitlesTracks": {},
-      "subtitles": [],
       "subtitlesTracksStreamIndexes": []
     },
     {
@@ -105,12 +106,17 @@
       "id": "9de21047-9eb6-4fc1-be7d-89481f043672",
       "type": "MediaFile",
       "parentId": "d7bf05ca-fa1b-4255-a420-47e56a70d3ea",
+      "subtitles": [
+        {
+          "type": "ExternalSubtitlesTrack",
+          "id": "2e620f5b-217d-432b-8311-2bdea7d6baa5"
+        }
+      ],
+      "flashcardFieldsToSubtitlesTracks": {},
+      "isVideo": false,
       "name": "17 - Lesson 3 - KaiwaBun 2.mp3",
       "durationSeconds": 73.351837,
-      "isVideo": false,
       "format": "mp3",
-      "flashcardFieldsToSubtitlesTracks": {},
-      "subtitles": [],
       "subtitlesTracksStreamIndexes": []
     },
     {
@@ -607,21 +613,21 @@
     }
   ],
   "tags": [
-    "iij08",
-    "iij10",
-    "iij13",
-    "iij07",
     "iij01",
-    "iij14",
-    "iij15",
-    "iij03",
-    "iij11",
     "iij02",
-    "iij12",
-    "iij09",
+    "iij03",
     "iij04",
+    "iij05",
     "iij06",
-    "iij05"
+    "iij07",
+    "iij08",
+    "iij09",
+    "iij10",
+    "iij11",
+    "iij12",
+    "iij13",
+    "iij14",
+    "iij15"
   ],
   "clips": [
     {
@@ -1086,7 +1092,7 @@
         ],
         "type": "Simple",
         "fields": {
-          "transcription": "お正月、どうするの。\n田舎へ帰るよ。\nいいわね、田舎があって。\nあまり帰りたくないけど、親が待っているけど、親が待っているから、しかたがないんだ。",
+          "transcription": "お正月、どうするの。\n田舎へ帰るよ。\nいいわね、田舎があって。\nあまり帰りたくないけど、親が待っているから、しかたがないんだ。",
           "meaning": "",
           "notes": ""
         }
@@ -1810,6 +1816,564 @@
           "meaning": "",
           "notes": ""
         }
+      }
+    },
+    {
+      "start": 51.2,
+      "end": 102.4,
+      "id": "c9d48e28-af4a-49b0-a021-03c5914eb55e",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "c9d48e28-af4a-49b0-a021-03c5914eb55e",
+        "type": "Simple",
+        "fields": {
+          "transcription": "会話文 に",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 140.8,
+      "end": 217.6,
+      "id": "cba8f802-5e4d-4ca3-b293-6f1b2148dfcc",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "cba8f802-5e4d-4ca3-b293-6f1b2148dfcc",
+        "type": "Simple",
+        "fields": {
+          "transcription": "夫と妻の会話",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 268.8,
+      "end": 460.8,
+      "id": "546dfa9c-0278-49af-9b80-38441fefb767",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "546dfa9c-0278-49af-9b80-38441fefb767",
+        "type": "Simple",
+        "fields": {
+          "transcription": "値打ちも留守番電話にしましょうよ",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 486.4,
+      "end": 550.4,
+      "id": "283ae30c-269c-4926-98bf-c9191a7544f0",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "283ae30c-269c-4926-98bf-c9191a7544f0",
+        "type": "Simple",
+        "fields": {
+          "transcription": "家 共働きだから",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 563.2,
+      "end": 665.6,
+      "id": "9ac89a65-3d64-4f9e-a845-ad17f53cc513",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "9ac89a65-3d64-4f9e-a845-ad17f53cc513",
+        "type": "Simple",
+        "fields": {
+          "transcription": "昼間は留守が多いでしょう",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 704,
+      "end": 742.4,
+      "id": "8e16e4f6-deb5-4621-bb16-4a083562e5f9",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "8e16e4f6-deb5-4621-bb16-4a083562e5f9",
+        "type": "Simple",
+        "fields": {
+          "transcription": "友達が",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 755.2,
+      "end": 883.2,
+      "id": "6f2eaa90-f9fa-4797-8558-b826c30ab3a1",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "6f2eaa90-f9fa-4797-8558-b826c30ab3a1",
+        "type": "Simple",
+        "fields": {
+          "transcription": "オタクはいつも留守 ね って怒るのよ",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 896,
+      "end": 998.4,
+      "id": "7df6ad13-d353-4406-b78e-9728bda2f02a",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "7df6ad13-d353-4406-b78e-9728bda2f02a",
+        "type": "Simple",
+        "fields": {
+          "transcription": "夜電話してくださいって言ったら",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 1036.8,
+      "end": 1228.8,
+      "id": "002bcd32-1095-4ba8-bcdd-f4b203b51034",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "002bcd32-1095-4ba8-bcdd-f4b203b51034",
+        "type": "Simple",
+        "fields": {
+          "transcription": "でも夜は電話が来ても出られないことが多いのよ",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 1241.6,
+      "end": 1318.4,
+      "id": "0f71b620-441a-40d7-8b6d-ceb56e367ef7",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "0f71b620-441a-40d7-8b6d-ceb56e367ef7",
+        "type": "Simple",
+        "fields": {
+          "transcription": "お風呂に入っていたりして",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 1382.4,
+      "end": 1484.8,
+      "id": "dd6759c5-ea3d-4188-a812-80b652415fe4",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "dd6759c5-ea3d-4188-a812-80b652415fe4",
+        "type": "Simple",
+        "fields": {
+          "transcription": "テレビで面白いドラマやってる時",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 1497.6,
+      "end": 1676.8,
+      "id": "f69547b0-5cff-4cef-b33b-ccae276d07f7",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "f69547b0-5cff-4cef-b33b-ccae276d07f7",
+        "type": "Simple",
+        "fields": {
+          "transcription": "電話に出ると話がわからなくなる しそうだね",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 1689.6,
+      "end": 1817.6,
+      "id": "aced8bcc-6a8d-4bcd-b508-919860c2caf0",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "aced8bcc-6a8d-4bcd-b508-919860c2caf0",
+        "type": "Simple",
+        "fields": {
+          "transcription": "だから 留守番電話がいいと思うけど",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 1843.2,
+      "end": 1868.8,
+      "id": "f4ee5818-27c3-4155-8960-ca805714a2ef",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "f4ee5818-27c3-4155-8960-ca805714a2ef",
+        "type": "Simple",
+        "fields": {
+          "transcription": "でも",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 1881.6,
+      "end": 1945.6,
+      "id": "b424e5b9-bc07-487f-ab7d-acd7804b1708",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "b424e5b9-bc07-487f-ab7d-acd7804b1708",
+        "type": "Simple",
+        "fields": {
+          "transcription": "人に電話した時",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 1958.4,
+      "end": 2048,
+      "id": "2865ef78-437c-422c-9372-b6dba7ad1e31",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "2865ef78-437c-422c-9372-b6dba7ad1e31",
+        "type": "Simple",
+        "fields": {
+          "transcription": "録音テープの声が聞こえるのは",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 2112,
+      "end": 2150.4,
+      "id": "c5a5ecaa-2967-42f4-9b66-adf2f2c02aef",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "c5a5ecaa-2967-42f4-9b66-adf2f2c02aef",
+        "type": "Simple",
+        "fields": {
+          "transcription": "そう",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 2188.8,
+      "end": 2342.4,
+      "id": "80a44115-0824-46dd-a826-657d4dd69c10",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "80a44115-0824-46dd-a826-657d4dd69c10",
+        "type": "Simple",
+        "fields": {
+          "transcription": "ピーっていう音を聞いて 急いで録音するんだろう",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 2355.2,
+      "end": 2496,
+      "id": "a5c5e8e6-e66f-4f90-8c45-93790eff0583",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "a5c5e8e6-e66f-4f90-8c45-93790eff0583",
+        "type": "Simple",
+        "fields": {
+          "transcription": "ええそうよ アナウンサー じゃないんだから",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 2508.8,
+      "end": 2598.4,
+      "id": "6912b4a8-414d-4a54-9bbe-3361fc36b608",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "6912b4a8-414d-4a54-9bbe-3361fc36b608",
+        "type": "Simple",
+        "fields": {
+          "transcription": "マイクに向かって話すのは嫌だよ",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 2611.2,
+      "end": 2636.8,
+      "id": "2f14fac6-f044-4cc9-a4e1-af141000c1de",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "2f14fac6-f044-4cc9-a4e1-af141000c1de",
+        "type": "Simple",
+        "fields": {
+          "transcription": "でも",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 2649.6,
+      "end": 2739.2,
+      "id": "3b10f0fa-e136-4d3c-b849-8e8124e37eb0",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "3b10f0fa-e136-4d3c-b849-8e8124e37eb0",
+        "type": "Simple",
+        "fields": {
+          "transcription": "家が留守番電話にしたら",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 2752,
+      "end": 2854.4,
+      "id": "c666786d-9dfa-41b7-ba47-638a2d201f51",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "c666786d-9dfa-41b7-ba47-638a2d201f51",
+        "type": "Simple",
+        "fields": {
+          "transcription": "録音をするのは他の人よ",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 2867.2,
+      "end": 2969.6,
+      "id": "4e283f1d-e56e-465a-8bdf-9b35bc9f8d1e",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "4e283f1d-e56e-465a-8bdf-9b35bc9f8d1e",
+        "type": "Simple",
+        "fields": {
+          "transcription": "私たちが 録音するんじゃないのよ",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 2982.4,
+      "end": 3136,
+      "id": "7299ce72-ce2a-4cf2-9231-afec8a70e263",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "7299ce72-ce2a-4cf2-9231-afec8a70e263",
+        "type": "Simple",
+        "fields": {
+          "transcription": "自分がしたくないことは他の人にもさせたくないよ",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 3148.8,
+      "end": 3200,
+      "id": "b950e486-1e1f-49dc-adfe-0a995a9b6c29",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "b950e486-1e1f-49dc-adfe-0a995a9b6c29",
+        "type": "Simple",
+        "fields": {
+          "transcription": "あーそう",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 3225.6,
+      "end": 3315.2,
+      "id": "89aa4b56-0987-481a-bcca-eb9c05b6030b",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "89aa4b56-0987-481a-bcca-eb9c05b6030b",
+        "type": "Simple",
+        "fields": {
+          "transcription": "じゃあ 留守番電話はやめましょう",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 3328,
+      "end": 3353.6,
+      "id": "9cc1d1b3-1b81-445f-b02f-2968a1756d53",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "9cc1d1b3-1b81-445f-b02f-2968a1756d53",
+        "type": "Simple",
+        "fields": {
+          "transcription": "いいの",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 3366.4,
+      "end": 3468.8,
+      "id": "b51b0106-9a69-4f4a-a7a5-daee742f5c18",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "b51b0106-9a69-4f4a-a7a5-daee742f5c18",
+        "type": "Simple",
+        "fields": {
+          "transcription": "残業 断って",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 3481.6,
+      "end": 3545.6,
+      "id": "4f5bebde-b1ef-4bfb-b213-ebf750d6cf6a",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "4f5bebde-b1ef-4bfb-b213-ebf750d6cf6a",
+        "type": "Simple",
+        "fields": {
+          "transcription": "早く家に帰るわ",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
+      }
+    },
+    {
+      "start": 3558.4,
+      "end": 3596.8,
+      "id": "4e1a169f-1561-44d3-9fb6-6c129617f6eb",
+      "fileId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "flashcard": {
+        "id": "4e1a169f-1561-44d3-9fb6-6c129617f6eb",
+        "type": "Simple",
+        "fields": {
+          "transcription": "収入は減るけど",
+          "pronunciation": "",
+          "meaning": "",
+          "notes": ""
+        },
+        "tags": [],
+        "image": null
       }
     },
     {
@@ -5699,5 +6263,12 @@
       }
     }
   ],
-  "subtitles": []
+  "subtitles": [
+    {
+      "type": "ExternalSubtitlesFile",
+      "parentId": "9de21047-9eb6-4fc1-be7d-89481f043672",
+      "id": "2e620f5b-217d-432b-8311-2bdea7d6baa5",
+      "name": "17 - Lesson 3 - KaiwaBun 2.srt"
+    }
+  ]
 }

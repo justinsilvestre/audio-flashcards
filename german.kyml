@@ -1,0 +1,1312 @@
+# This file was created by Knowclip!
+# Edit it manually at your own risk.
+name: German
+noteType: Simple
+timestamp: 2020-02-02T10:29:40Z
+id: 64cdc932-fd04-4c6b-8607-a2dbba9b524b
+...
+name: piggeldy-der-mond.mp4
+format: mov,mp4,m4a,3gp,3g2,mj2
+duration: 03:07.385
+id: e3d552b5-74d3-4abf-97fa-1e4543e1a3c8
+clips:
+  - id: d5883b90-04e7-4a33-b943-fee57d1354d5
+    start: 00:06.18
+    end: 00:09.6
+    fields:
+      transcription: Piggeldy wollte wissen, wie man den Mond fängt.
+      meaning: Piggeldy wanted to know, how one catches the moon.
+      notes: |-
+        "How one catches the moon" is like a sentence within a sentence: it has a subject "one" and a verb "catches".
+
+        This makes it a *subordinate clause*. It's *subordinate* because it's embedded within the *main clause* of the sentence, "Piggeldy wanted to know..."
+
+        In a subordinate clause like this, German always puts the verb at the end. So:
+
+        Man fängt den Mond. = One catches the moon.
+        BUT
+        Er will wissen, wie man den Mond fängt. = He wants to know how one catches the moon.
+    tags:
+      - piggeldy-der-mond
+  - id: 79be314d-77b3-4d80-b037-74dc76e86561
+    start: 00:10.3
+    end: 00:13.36
+    fields:
+      transcription: „Frederick?" fragte Piggeldy seinen großen Bruder.
+      meaning: Frederick? Piggeldy asked his big brother.
+    tags:
+      - piggeldy-der-mond
+  - id: 16236fb2-2918-4d7d-92dc-07e3b148ebe3
+    start: 00:13.8
+    end: 00:17.82
+    fields:
+      transcription: Frederick, zeig mir, wie man den Mond fangen kann.
+      meaning: Frederick, show me how one can catch the moon.
+      notes: |-
+        Every time a new verb is introduced I've tried to give its "principle parts". If you know just these three forms, you can pretty much always derive all the rest of the verb's forms by following regular patterns.
+
+        infinitive/simple past/perfect
+
+        So, for "zeigen":
+        zeigen/zeigte/hat gezeigt
+
+        When you see the principle parts written out, take the opportunity to read them and make sure you understand them well enough to translate them (aloud or in your head). Knowing that "zeigen" means "to show", the above would translate to:
+
+        to show/showed/has shown
+
+        For verbs with a stem change in the present, it's helpful to add a fourth element:
+
+        fangen/fing/hat gefangen/fängt
+
+        which translates to:
+
+        to catch/caught/has caught/catches
+    tags:
+      - piggeldy-der-mond
+  - id: 5d8ade73-7182-49d6-aa7a-1935569fe638
+    start: 00:18.1
+    end: 00:21.72
+    fields:
+      transcription: „Nichts leichter als das!" antwortete Frederick.
+      meaning: Nothing easier than that! answered Frederick.
+      notes: |-
+        leicht = light (not heavy), easy
+
+        antworten/antwortete/hat geantwortet (regular)
+    tags:
+      - piggeldy-der-mond
+  - id: 11a24b7e-d043-45eb-8147-fe83baca9e10
+    start: 00:21.94
+    end: 00:22.82
+    fields:
+      transcription: Komm mit!
+      meaning: Come along!
+      notes: kommen/kam/ist gekommen
+    tags:
+      - piggeldy-der-mond
+  - id: 703fb3a1-ea18-4961-9216-0c02f77cae9e
+    start: 00:23.28
+    end: 00:25.5
+    fields:
+      transcription: Piggeldy folgte Frederick.
+      meaning: Piggeldy followed Frederick.
+      notes: folgen/folgte/ist gefolgt (regular)
+    tags:
+      - piggeldy-der-mond
+  - id: 4586fe57-2e74-40da-be3e-968a44ce3c22
+    start: 00:26.28
+    end: 00:32.62
+    fields:
+      transcription: „Wenn wir lange genug warten," sagte Frederick, „wird es irgendwann dunkel."
+      meaning: If we wait long enough, said Frederick, it will get dark at some point.
+    tags:
+      - piggeldy-der-mond
+  - id: 2239ed82-f4e0-458b-aed0-cb923858b587
+    start: 00:32.74
+    end: 00:34.78
+    fields:
+      transcription: Das ist jeden Tag dasselbe.
+      meaning: It's the same every day.
+    tags:
+      - piggeldy-der-mond
+  - id: e410cea0-bdde-4509-915f-d43a7f9067bc
+    start: 00:34.94
+    end: 00:38.4
+    fields:
+      transcription: Und wenn es dunkel ist, scheint auch der Mond.
+      meaning: And when it's dark, the Moon will be shining, too.
+      notes: scheinen/schien/hat geschienen
+    tags:
+      - piggeldy-der-mond
+  - id: 2a6d9248-6055-4f39-b107-0a5563946288
+    start: 00:39.02
+    end: 00:43.48
+    fields:
+      transcription: „Er ist ziemlich dick," sagte Piggeldy als der Mond endlich erschien.
+      meaning: It's quite fat, said Piggeldy when the moon finally appeared.
+      notes: erscheinen/erschien/ist erschienen
+    tags:
+      - piggeldy-der-mond
+  - id: 8fe1ced6-6fc7-45f7-bb78-4a535c717e49
+    start: 00:43.74
+    end: 00:47.56
+    fields:
+      transcription: „Das ist sehr ungünstig," meinte Frederick.
+      meaning: '"That is very unfavorable," opined Frederick.'
+      notes: |-
+        "Meinen" basically means "to opine, to hold the opinion (that...)"
+
+        die Meinung = opinion
+
+        A more grammatical translation would be just "said". There are lots of cases like this where in German, "said" is replaced with a verb about the speaker's state of mind. (He "delighted", he "pondered") Instead of rephrasing them ("he said in delight", "he said, deep in thought"), I've translated the German word-for-word in these cases.
+    tags:
+      - piggeldy-der-mond
+  - id: 4706da47-b781-48f5-acc3-97574db0b21e
+    start: 00:47.84
+    end: 00:52.08
+    fields:
+      transcription: Wir müssen warten, bis er dünner geworden ist.
+      meaning: We have to wait until it has gotten thinner.
+      notes: werden/wurde/ist geworden/wird (super irregular)
+    tags:
+      - piggeldy-der-mond
+  - id: 17a15fdf-c542-4bab-895f-0a219996af86
+    start: 00:52.26
+    end: 00:54.58
+    fields:
+      transcription: Dann kann man ihn besser fangen.
+      meaning: Then one can catch him better.
+    tags:
+      - piggeldy-der-mond
+  - id: d342f25c-cebc-4910-b17e-78a6b46fe3c2
+    start: 00:55.22
+    end: 00:59.62
+    fields:
+      transcription: "Jeden Abend warteten Piggeldy und Frederick auf den Mond. "
+      meaning: Every evening, Piggeldy and Frederick waited for the moon.
+      notes: warten/wartete/hat gewartet (regular)
+    tags:
+      - piggeldy-der-mond
+  - id: 117c7ac8-ee94-4a5a-a7bc-067f21944f6a
+    start: 00:59.68
+    end: 01:03.76
+    fields:
+      transcription: Und jeden Abend wurde der Mond ein bisschen dünner.
+      meaning: And every evening, the moon got a little bit smaller.
+    tags:
+      - piggeldy-der-mond
+  - id: c09e0a6c-43e2-4823-b530-924099b52c5e
+    start: 01:04.54
+    end: 01:08.72
+    fields:
+      transcription: Heute wollen wir ihn fangen.
+      meaning: We want to catch it today.
+      notes: wollen/wollte/hat gewollt/will (super irregular, one of the modal verbs)
+    tags:
+      - piggeldy-der-mond
+  - id: a96ecc42-1ebf-4e3f-9f9f-169f777ffe88
+    start: 01:09.02
+    end: 01:15.96
+    fields:
+      transcription: Wenn der Mond hinter den Berg hochkommt, schleichen wir uns an und tragen ihn weg!
+      meaning: When the moon rises behind the mountain, we'll sneak up and carry him away!
+      notes: |-
+        sich anschleichen = to sneak up
+
+        sich anschleichen/schlich sich an/ist sich angeschlichen
+
+        tragen/trug/getragen/trägt
+    tags:
+      - piggeldy-der-mond
+  - id: fec3aa58-ec8e-4f78-aac3-1da38e48b656
+    start: 01:16.68
+    end: 01:19.2
+    fields:
+      transcription: Piggeldy und Frederick warteten.
+      meaning: Piggeldy and Frederick waited.
+    tags:
+      - piggeldy-der-mond
+  - id: 556b1c93-487a-43b1-bf22-05bfba8e5da4
+    start: 01:19.96
+    end: 01:25.26
+    fields:
+      transcription: Jetzt! schrie Frederick, und beide stürzten sich auf den Mond.
+      meaning: Now! shouted Frederick, and the both of them lunged at the moon.
+      notes: |-
+        schreien/schrie/geschrien
+        sich stürtzen/stürtze sich/sich gestürtzt (regular)
+    tags:
+      - piggeldy-der-mond
+  - id: 38740f5d-e65f-43a4-ad67-6116c17c264c
+    start: 01:26.04
+    end: 01:29.46
+    fields:
+      transcription: Bums! Und sie fielen auf der anderen Seite hinunter.
+      meaning: Thud! And they fell down on the other side.
+      notes: fallen/fiel/ist gefallen/fällt
+    tags:
+      - piggeldy-der-mond
+  - id: 88c9878d-28c4-4a4f-8b56-4d54ce4ec819
+    start: 01:29.64
+    end: 01:33.84
+    fields:
+      transcription: Da ist irgendetwas schief gegangen!
+      meaning: Something went wrong here!
+      notes: gehen/ging/ist gegangen
+    tags:
+      - piggeldy-der-mond
+  - id: 8b38db8b-72a1-437c-b3a0-11db3d41f13b
+    start: 01:34.34
+    end: 01:39.44
+    fields:
+      transcription: Wir versuchen es noch einmal, nur etwas leiser.
+      meaning: We'll try once more, just a bit more quietly.
+    tags:
+      - piggeldy-der-mond
+  - id: 36226d1c-dbce-44d6-b50d-1571156cf871
+    start: 01:40.12
+    end: 01:42.98
+    fields:
+      transcription: Piggeldy und Frederick schlichen wieder auf dem Berg.
+      meaning: Piggeldy and Frederick snuck on the mountain again.
+      notes: schleichen/schlich/ist geschlichen
+    tags:
+      - piggeldy-der-mond
+  - id: aa01fa6c-d16a-472b-8f96-631ab83cd12b
+    start: 01:43.5
+    end: 01:48.62
+    fields:
+      transcription: Los! flüsterte Frederick, und beide sprangen auf.
+      meaning: Go! whispered Frederick, and they both jumped up.
+      notes: springen/sprang/ist gesprungen
+    tags:
+      - piggeldy-der-mond
+  - id: d93e098a-8532-4ef6-bd8b-dc210ddb12d5
+    start: 01:48.72
+    end: 01:53.16
+    fields:
+      transcription: Platsch! machte es, und wieder waren sie heruntergefallen.
+      meaning: There was a "splat!", and once again they had fallen down.
+      notes: herunterfallen/fiel herunter/heruntergefallen
+    tags:
+      - piggeldy-der-mond
+  - id: e6b86199-9bb6-486e-a6ae-b2490ba2f62d
+    start: 01:53.8
+    end: 01:59.16
+    fields:
+      transcription: Mit dir kann man keinen Mond fangen, sagte Frederick zu Piggeldy.
+      meaning: One cannot catch a Moon with you, said Frederick to Piggeldy.
+    tags:
+      - piggeldy-der-mond
+  - id: ba50a9a0-b648-4542-9006-c36f6fd2d770
+    start: 01:59.62
+    end: 02:02.34
+    fields:
+      transcription: Du bist viel zu klein!
+      meaning: You are much too small!
+    tags:
+      - piggeldy-der-mond
+  - id: 5f4f7348-45ea-4fb5-8236-9eaef2ffb100
+    start: 02:02.78
+    end: 02:07.86
+    fields:
+      transcription: Ich will aber den Mond fangen, sagte Piggeldy, und so klein bin ich schon längst nicht mehr.
+      meaning: But I want to catch the moon, said Piggeldy, and I won't be so small for much longer!
+    tags:
+      - piggeldy-der-mond
+  - id: 27f09c0d-2e65-4e72-a8ee-5d413ebf4020
+    start: 02:08.46
+    end: 02:11.12
+    fields:
+      transcription: Da! Guck mal! sagte Frederick.
+      meaning: There! Look! said Frederick.
+      notes: mal = softens a command
+    tags:
+      - piggeldy-der-mond
+  - id: 7fa5849a-d7b5-4eb0-9984-4a33a5d8381d
+    start: 02:11.4
+    end: 02:13.24
+    fields:
+      transcription: Er hängt im Baum!
+      meaning: It's hanging in the tree!
+      notes: hängen/hing/gehangen
+    tags:
+      - piggeldy-der-mond
+  - id: c5b9a712-d9fd-4b5e-9f29-85049e2ac03d
+    start: 02:13.92
+    end: 02:16.42
+    fields:
+      transcription: Jetzt haben wir ihn! sagte Piggeldy.
+      meaning: Now we've got it! said Piggeldy.
+      notes: sagen/sagte/hat gesagt (regular)
+    tags:
+      - piggeldy-der-mond
+  - id: c31d4fde-ae65-4ca6-86c7-3bc519ed3991
+    start: 02:16.72
+    end: 02:21.48
+    fields:
+      transcription: Aber als beide auf den Baum kletterten, hing der Mond schon im nächsten Baum.
+      meaning: But when they both climbed onto the tree, the moon was already hanging in the next tree.
+      notes: klettern/kletterte/ist? geklettert (regular)
+    tags:
+      - piggeldy-der-mond
+  - id: d7c4c643-cf20-436a-8ce1-caf02ea1177e
+    start: 02:21.68
+    end: 02:26.18
+    fields:
+      transcription: Und als sie am nächsten Baum ankamen, hing der Mond im übernächsten Baum.
+      meaning: And when they arrived at the next tree, the moon was hanging in the tree after that!
+      notes: ankommen/kam an/ist angekommen
+    tags:
+      - piggeldy-der-mond
+  - id: 108663e4-cd57-4c62-9e35-bbb680cdd16a
+    start: 02:26.52
+    end: 02:28.44
+    fields:
+      transcription: Und so ging es immer weiter.
+      meaning: And so it went on and on.
+      notes: '"immer größer" bigger and bigger; "immer mehr" more and more.'
+    tags:
+      - piggeldy-der-mond
+  - id: d3b66053-3d43-4d43-ba3c-930200f34c56
+    start: 02:29.1
+    end: 02:32.9
+    fields:
+      transcription: Er lässt sich nicht fangen, meinte Frederick.
+      meaning: It can't be caught! said Frederick.
+      notes: |-
+        Lit. it doesn't let [anyone] catch itself.
+
+        lassen/ließ?/hat gelassen/lässt
+    tags:
+      - piggeldy-der-mond
+  - id: 6bc169b7-3dc4-45bf-ad62-c9fe1968786c
+    start: 02:33.28
+    end: 02:35.92
+    fields:
+      transcription: Er ist eben ein Mond.
+      meaning: He is just a moon.
+    tags:
+      - piggeldy-der-mond
+  - id: c08903a1-9f8b-4928-bc28-c08a12134bb6
+    start: 02:36.16
+    end: 02:38.76
+    fields:
+      transcription: Er ist zu schlau!
+      meaning: He's too smart!
+    tags:
+      - piggeldy-der-mond
+  - id: 1536ae26-2715-4a82-933d-22d7b7d9f7d4
+    start: 02:39.02
+    end: 02:41.92
+    fields:
+      transcription: Lass uns also gehen, sagte Frederick.
+      meaning: Let's go, then, said Frederick.
+    tags:
+      - piggeldy-der-mond
+  - id: a7fdd436-20f8-4b58-a970-05f96d2bfb53
+    start: 02:42.1
+    end: 02:48.36
+    fields:
+      transcription: Vielleicht finden wir einmal einen Mond, der so dumm ist, dass er sich fangen lässt.
+      meaning: Perhaps someday we'll find a moon that's so stupid, that it can be caught.
+    tags:
+      - piggeldy-der-mond
+  - id: b7ee42e7-d647-4142-9460-ef7d0dad22e4
+    start: 02:48.98
+    end: 02:54.48
+    fields:
+      transcription: Piggeldy ging mit Frederick nach Hause, und der Mond ging mit.
+      meaning: Piggeldy went home with Frederick, and the Moon went with them.
+    tags:
+      - piggeldy-der-mond
+...
+name: Piggeldy  Frederick - Malen.mp4
+format: mov,mp4,m4a,3gp,3g2,mj2
+duration: 03:08.732
+id: 6c229e1f-3ec3-451a-8f49-050b9d8ff9a3
+clips:
+  - id: 2016edc3-de5b-4252-ba3f-826bad2ef92c
+    start: 00:06.4
+    end: 00:18.4
+    fields:
+      transcription: |-
+        Piggeldy wollte wissen, wie man Bilder malt.
+
+        „Frederick," fragte Piggeldy deshalb seinen großen Bruder, „Frederick, zeig mir, wie man Bilder malt."
+      meaning: |-
+        Piggeldy wanted to know how one paints pictures.
+
+        "Frederick," Piggeldy asked therefore his big brother, "Frederick, show me how one paints pictures."
+      notes: |-
+        malen, malte, gemalt (regular)
+        das Bild, die Bilder
+    tags:
+      - piggeldy-malen
+  - id: 9f15a5a7-0076-414f-bf86-a606273d1416
+    start: 00:27.1
+    end: 00:31.32
+    fields:
+      transcription: Bald waren sie bei einer Fabrik--bei einer Farbenfabrik.
+      meaning: Soon they were at a factory--a paint factory.
+      notes: die Farbe, die Farben = color, paint
+    tags:
+      - piggeldy-malen
+  - id: 4a5dfd2f-b02e-47bb-987a-12f89e294774
+    start: 00:31.58
+    end: 00:39.94
+    fields:
+      transcription: |-
+        Piggeldy schlotterte ein bisschen, als er die vielen Farben einmal sah.
+
+        „Ist Farbe auch nicht gefährlich?" fragte er Frederick.
+      meaning: |-
+        Piggeldy shuddered a bit, when he saw the many colors at once.
+
+        "Is paint not even dangerous?" he asked Frederick.
+      notes: schlottern, schlotterte, hat? geschlottert (regular)
+    tags:
+      - piggeldy-malen
+  - id: 593eee02-c90d-4505-84a3-0d2c8fcdb7be
+    start: 00:40.18
+    end: 00:45.12
+    fields:
+      transcription: „I wo!" sagte Frederick. „Farbe ist lustig!"
+      meaning: '"No way!" said Frederick. "Paint is fun!" '
+    tags:
+      - piggeldy-malen
+  - id: cb44a67e-8c2c-4377-9184-d90d5cde3cdd
+    start: 00:45.42
+    end: 00:53.52
+    fields:
+      transcription: |-
+        „Kann Farbe denn lachen?" fragte Piggeldy.
+
+        „I wo!" sagte Frederick. „Aber lass uns anfangen."
+      meaning: "\"No way!\" said Frederick. \"But let's get started.\""
+      notes: The modal particle "denn" gives a question a tone of eager curiosity.
+    tags:
+      - piggeldy-malen
+  - id: 10e047a9-8044-4074-8666-aee2206cfcb8
+    start: 00:53.96
+    end: 00:59.22
+    fields:
+      transcription: Frederick tauchte seinen rechten Vorderfuß in einen Farbeimer.
+      meaning: Frederick dipped his front right foot into a bucket of paint.
+      notes: der Farbeimer
+    tags:
+      - piggeldy-malen
+  - id: 32576cfa-a861-4aa9-bdb6-be9adcfe5223
+    start: 00:59.6
+    end: 01:11.24
+    fields:
+      transcription: |-
+        „Die Farbe heißt 'grün'," sagte er. „Ich male jetzt einen grünen Wald.
+
+        „Wie schön," bewunderte Piggeldy seinen großen Bruder.
+      meaning: "\"This color is called 'green',\" said he. \"Now I'll paint a green forest.\""
+    tags:
+      - piggeldy-malen
+  - id: 80a01633-944b-433b-bbf3-dbebc8873a8a
+    start: 01:11.64
+    end: 01:22.48
+    fields:
+      transcription: |-
+        „Und was sollte ich malen?"
+
+        „Du malst die blauen Blumen, die im grünen Wald wachsen," sagte Frederick. "Das ist ganz leicht für den Anfang."
+      meaning: |-
+        "And what should I paint?"
+
+        "You'll paint the blue flowers that grow in the green forest," said Frederick. "That's quite easy to start with."
+      notes: |-
+        wachsen/wuchs/ist gewachsen
+
+        sollen/sollte/hat gesollt (super irregular, one of the modal verbs)
+
+        "Sollte" here looks the same as the past tense of "sollen", but it's not. Just think of it as "should".
+
+        The base meaning of "sollen" is "shall, to be supposed to, to have to".
+
+        Du sollst das sagen. = You are to say that. You are supposed to say that.
+
+        When you put it into the subjunctive mood, i.e. the "would" form, the idea is "should". Sometimes the subjunctive looks the same as the simple past.
+
+        Du solltest das sagen. = You should say that. (OR less commonly) You were supposed to say that.
+
+        The idea here is, you would have to say that, in order to fulfill some expectation/obligation.
+
+        More on the subjunctive mood: https://coerll.utexas.edu/gg/gr/vsub_02.html
+
+        schwimmen/schwamm/ist geschwommen
+        murren/murrte/gemurrt
+    tags:
+      - piggeldy-malen
+  - id: 92f8ec63-0e26-4c58-8ad8-89f35e9b7261
+    start: 01:22.9
+    end: 01:27.68
+    fields:
+      transcription: Piggeldy tauchte seinen linken Vorderfuß in den blauen Farbeimer.
+      meaning: Piggeldy dipped his left front foot into the blue paint bucket.
+      notes: tauchen/tauchte/hat getaucht
+    tags:
+      - piggeldy-malen
+  - id: ab26021e-d91b-43dc-8e49-40f49b69bc45
+    start: 01:27.8
+    end: 01:31.16
+    fields:
+      transcription: Dann hüpfte er in dem grünen Wald hin und her.
+      meaning: Then he hopped to and fro inside the green forest.
+      notes: |-
+        hin und her = to and fro
+
+        hüpfen/hüpfte/ist? gehüpft
+    tags:
+      - piggeldy-malen
+  - id: 74e53d27-adae-461c-83d6-d6cb09c7c69b
+    start: 01:31.52
+    end: 01:37.58
+    fields:
+      transcription: |-
+        „Ich male blauen Blumen!" schrie er begeistert.
+
+        „Sehr schön," sagte Frederick.
+      meaning: |-
+        "I'm painting blue flowers!" he cried in excitement.
+
+        "Very nice," said Frederick.
+      notes: |-
+        begeistert = enthralled
+
+        schreien, schrie, hat geschrien
+        begeistern, begeisterte, hat begeistert
+    tags:
+      - piggeldy-malen
+  - id: da49fdc0-754e-46cc-97fb-f109e9c3ff4c
+    start: 01:37.82
+    end: 01:44.1
+    fields:
+      transcription: „Nur sollten die Blumen vielleicht ein bisschen größer sein. Sonst sieht man sie nicht."
+      meaning: "\"Only the flowers should be a bit bigger, perhaps. Or else you can't see them.\""
+      notes: sonst = or else, otherwise
+    tags:
+      - piggeldy-malen
+  - id: 227e03ae-cfaf-49a4-b625-b808ad05c6a2
+    start: 01:44.5
+    end: 01:56.64
+    fields:
+      transcription: Piggeldy rannte zum blauen Farbeimer und tauchte beide Vorderfüße hinein. Dabei verlor er das Gleichgewicht und fiel in den Eimer!
+      meaning: Piggeldy ran to the blue paint bucket and dipped both front feet in. In doing so, he lost his balance and fell into the bucket!
+      notes: |-
+        der Fuß, die Füße
+        gleich = just, same, equal
+        das Gewicht = weight
+        das Gleichgewicht = balance
+
+        rennen/rannte/ist gerannt
+        verlieren/verlor/hat verloren
+        fallen/fiel/ist gefallen/fällt
+    tags:
+      - piggeldy-malen
+  - id: 6a122128-e5f8-4788-b4cb-f3fbf842f7d8
+    start: 01:56.88
+    end: 02:10.58
+    fields:
+      transcription: |-
+        „Hilfe!" schrie Piggeldy.
+
+        „Spring schnell wieder raus!" rief Frederick.
+
+        Piggeldy sprang wieder heraus und schlotterte. „Ich bin ganz blau!" schrie er.
+      meaning: |-
+        "Help!" cried Piggeldy.
+
+        "Quickly, jump back out!" shouted Frederick.
+
+        Piggeldy jumped back out and shuddered. "I'm all blue!" he cried.
+      notes: |-
+        "Raus" is the colloquial version of "heraus". Same as "herein, rein".
+
+        schreien/schrie/geschrien
+    tags:
+      - piggeldy-malen
+  - id: 8521b5c3-8463-4d32-a99c-95d0168430fa
+    start: 02:10.8
+    end: 02:17.38
+    fields:
+      transcription: „Spritzt nicht so, Piggeldy!" rief Frederick. "Sonst verdirbst du unser Bild."
+      meaning: "\"Don't splash like that, Piggeldy!\" shouted Frederick. Or else you'll spoil our picture!\""
+      notes: verderben/verdarb/hat verdorben/verdirbt
+    tags:
+      - piggeldy-malen
+  - id: 4840ec86-18af-4ede-9c6b-b7a7fa0f5ffe
+    start: 02:17.58
+    end: 02:24.7
+    fields:
+      transcription: Piggeldy legte sich in den grünen Wald zwischen die blauen Blumen und schlief ein.
+      meaning: Piggeldy placed himself in the green forest between the blue flowers and fell asleep.
+      notes: |-
+        legen/legte/hat gelegt
+        einschlafen/
+    tags:
+      - piggeldy-malen
+  - id: cff4017e-a2b2-47fc-8fc8-3a55d1678d92
+    start: 02:24.92
+    end: 02:31.58
+    fields:
+      transcription: Frederick malte noch ein bisschen am Wald, dann sagte er, „Komm, das reicht."
+      meaning: Frederick painted the forest a bit more, then said, "Come, that's enough."
+    tags:
+      - piggeldy-malen
+  - id: dc46a856-7c3d-4975-9494-c5e50dc1e8ed
+    start: 02:31.98
+    end: 02:43.32
+    fields:
+      transcription: |-
+        Piggeldy stand auf.
+
+        „Frederick, guck mal! Ich habe ein... ein blaues Schwein gemalt, das im grünen Wald zwischen blauen Blumen liegt."
+      meaning: |-
+        Piggeldy stood up.
+
+        "Frederick, look! I've painted a... a blue pig, that's lying in the green forest among the blue flowers.
+      notes: |-
+        "Gucken" is usually pronounced as if it were spelled "kucken".
+
+        Attention:
+        Er legte sich IN DEN grünen Wald ZWISCHEN DIE blauen Blumen.
+        vs.
+        Er 
+
+        aufstehen/stand auf/ist aufgestanden
+        gucken/guckte/hat geguckt
+        liegen/lag/ist geliegen
+    tags:
+      - piggeldy-malen
+  - id: 9bb0a00c-8ffb-4fb3-845a-30a9c45eea6d
+    start: 02:43.9
+    end: 02:55.94
+    fields:
+      transcription: |-
+        „Prima!" sagte Frederick. "Siehst du? So einfach ist das Malen. Können wir jetzt gehen?"
+
+        Und Piggeldy ging mit Frederick nach Hause.
+      meaning: |-
+        "Fantastic!" said Frederick. "You see? That's how easy it is to paint. Can we go now?"
+
+        And Piggeldy went home with Frederick.
+      notes: |-
+        In the sentence, "That's how easy it is to paint", you're talking about an action, but the point isn't that anyone doing the action. You're saying something about the action itself, in the abstract. So the verb became a noun--it's not as clear in this English construction, but if you rephrase it as  "That's how easy painting is", it's clearer that "painting" acts as a noun here, as the subject of "is".
+
+        In cases like this where the literal English translation could be either to  "it... to [verb]" or "...ing", German makes it very clear that the verb is now a noun. So "malen" becomes "das Malen."
+    tags:
+      - piggeldy-malen
+...
+name: Piggeldy  Frederick - Der Himmel.mp4
+format: mov,mp4,m4a,3gp,3g2,mj2
+duration: 03:07.825
+id: 53ac7c0c-bbfc-4444-9918-291291d20309
+clips:
+  - id: d052d532-0f33-4a7b-a675-5fbca30efb3f
+    start: 00:06.76
+    end: 00:28.36
+    fields:
+      transcription: |-
+        Piggeldy wollte wissen, wo der Himmel anfängt.
+
+        „Frederick," fragte Piggeldy seinen großen Bruder, "Frederick, zeig mir, wo der Himmel anfängt."
+      meaning: Piggeldy wanted to know where the sky/Heaven starts.
+      notes: |-
+        der Himmel, die Himmel = the sky, Heaven, the heavens
+
+        "Where the sky begins," is a subordinate clauses, so the verb has to go to the end. When this happens to a separable verb like "anfangen", the prefix is written together with the main part of the verb.
+
+        Der Himmel fängt an.
+        Er wollte wissen, wo der Himmel anfängt.
+    tags:
+      - piggeldy-der-himmel
+  - id: c2d31f84-c353-4cfb-8d53-9b3125cecd4f
+    start: 00:29.78
+    end: 00:40.82
+    fields:
+      transcription: „Wir gehen bis ans Ende dieser Straße," erklärte Frederick, „und wo die Straße aufhört, da fängt der Himmel an.
+      meaning: "\"We'll go up till the end of this street,\" explained Frederick, \"and where the street stops, that's where the sky starts.\""
+    tags:
+      - piggeldy-der-himmel
+  - id: 93a51173-09ee-4bbe-8408-0deebd386aa0
+    start: 00:41.24
+    end: 00:46.78
+    fields:
+      transcription: „Prima!" freute sich Piggeldy, "Dann sind wir ja bald da!"
+      meaning: "\"Great!\" delighted Piggeldy. \"Then we'll be there soon, well, won't we!\""
+      notes: |-
+        This "ja" is a "modal particle" like "doch" that just gives a sentence a particular tone. "Ja" gives the tone of "of course, as you can clearly tell".
+
+        By extension, it sometimes shows surprise. Here, Piggeldy just learned that the sky starts where the street ends. Knowing this, it's suddenly obvious to him that they'll be there soon. 
+    tags:
+      - piggeldy-der-himmel
+  - id: 3216b5a3-4238-4d5a-9f34-a5eca0ef05c6
+    start: 00:47.0
+    end: 00:57.02
+    fields:
+      transcription: |-
+        „Zattel nicht so herum," schimpfte Frederick, "Lauf lieber ordentlich."
+
+        Piggeldy bemühte sich ordentlich zu laufen.
+      meaning: |-
+        "Don't fidget around like that," grumbled Frederick, "Rather, walk properly."
+
+        Piggeldy made an effort to walk properly.
+      notes: |-
+        zatteln/zattelte/hat gezattelt (regular)
+        schimpfen/schimfpte/hat geschipmft (regular)
+        laufen/lief/ist gelaufen
+        sich bemühen/bemühte sich/hat sich bemüht (regular)
+    tags:
+      - piggeldy-der-himmel
+  - id: dadac847-4648-4067-9657-3d58dbcc45b0
+    start: 00:57.96
+    end: 01:06.68
+    fields:
+      transcription: |-
+        „Wann fängt der Himmel nun endlich an, Frederick?" sagte er.
+
+        „Geduld, Bruder!" sagte Frederick.
+      meaning: |-
+        "Now, when does the sky start, already?" said he.
+
+        "Patience, brother!" said Frederick.
+      notes: |-
+        nun = now
+        endlich = finally
+    tags:
+      - piggeldy-der-himmel
+  - id: e557b5b6-c68f-4a29-882d-93fc66e76a9c
+    start: 01:08.02
+    end: 01:21.68
+    fields:
+      transcription: |-
+        Als der Himmel aber noch immer nicht anfangen wollte, fing Piggeldy wieder an.
+
+        „Frederick, ich glaube, der Himmel fängt überhaupt nicht an."
+
+        „Dummes Zeug!" brummte Frederick.
+      meaning: |-
+        But when the sky still didn't want to start, Piggeldy started again.
+
+        "Frederick, I think the sky doesn't even start in the first place!"
+
+        "Hooey!" muttered Frederick.
+      notes: dummes Zeug = literally "dumb stuff"
+    tags:
+      - piggeldy-der-himmel
+  - id: 47292e1b-57ec-4423-95fe-be4e497db80f
+    start: 01:22.66
+    end: 01:41.16
+    fields:
+      transcription: |-
+        „Frederick," jammerte Piggeldy, "ich bin schon ganz schlapp. Können wir nicht etwas ausruhen, bevor wir an den Himmel ankommen?"
+
+        „Ach, Quatsch!" sagte Frederick. Wir sind ja bald da!"
+
+        „Fein!" freute sich Piggeldy.
+      meaning: |-
+        "Frederick", wailed Piggeldy, I'm already all worn out. Can't we rest a bit before we arrive at the sky?"
+
+        "Agh, nonsense!" said Frederick. We'll be there soon!"
+
+        "Great!" delighted Piggeldy.
+      notes: |-
+        sich freuen/freute sich/hat sich gefreut (regular)
+
+        Here's a somewhat more canonical usage of the modal particle "ja", giving the sentence a tone of "of course, as you can clearly tell".
+    tags:
+      - piggeldy-der-himmel
+  - id: d091577f-9bab-4f0d-bef1-d11a14e839c4
+    start: 01:41.54
+    end: 01:54.8
+    fields:
+      transcription: |-
+        „Bekommt man im Himmel auch was zu fressen?"
+
+        „Ich weiß es nicht," überlegte Frederick zweifelnd. „Ich habe noch nie etwas vom himmlischen Fressen gehört."
+      meaning: |-
+        "And do you get to eat anything in the sky?"
+
+        "I don't know," pondered Frederick, puzzled. "I've never heard anything about sky food.
+      notes: |-
+        fressen/fraß/hat gefressen/frisst
+
+        "Fressen" is "to eat", but only for animals. Humans "essen", pigs "fressen."
+
+        himmlisch = heavenly, celestial
+    tags:
+      - piggeldy-der-himmel
+  - id: cb4a084f-977f-45a0-ac4a-0d5f36eb82c3
+    start: 01:55.64
+    end: 02:18.32
+    fields:
+      transcription: |-
+        Schließlich kamen sie an ein großes Wasser.
+
+        „Das ist Pech," stellte Frederick fest. Es ist noch ein großes Wasser zwischen dem Himmel und uns. Aber dort hinten, wo das Wasser aufhört, dort fängt ganz bestimmt der Himmel an."
+      meaning: |-
+        Finally, they came to a great big sea.
+
+        "This is bad luck," assessed Frederick. "There's a great big sea between us and the sky. But back there, where the water stops, that's most definitely where the sky begins."
+      notes: |-
+        feststellen/stellte fest/hat festgestellt (regular)
+        aufhören/hörte auf/hat aufgehört (regular)
+
+        fest = tight, fast, firm, solid
+        stellen = to put, place, set
+        feststellen = to establish, ascertain, determine
+
+        German doesn't have the same mandatory two-way distinction between "here" and "there". The most usual translation for either is "da".
+
+        Ich bin da! = I'm here! (I've arrived!)
+        Ich bin hier! = I'm here! (Not over there!)
+
+        When you need to be specific, you can. German actually allows for a *three-way* distinction.
+
+        hier = here
+        da = there (near you)
+        dort = over there (far from both of us)
+
+        In practice "da" and "dort" are often interchangeable, and usage varies regionally.
+    tags:
+      - piggeldy-der-himmel
+  - id: 0b12430b-189d-4476-941c-94abe33ca92b
+    start: 02:18.88
+    end: 02:32.64
+    fields:
+      transcription: |-
+        „Vielleicht können wir ja hinüberschwimmen."
+
+        Piggeldy tauchte seinen rechten Vorderfuß ins Wasser.
+
+        „Brrr!" schüttelte er sich. „Ist das aber Kalt!"
+    tags:
+      - piggeldy-der-himmel
+  - id: dbd272df-c244-42db-858a-eb9bbcf5c5c6
+    start: 02:33.0
+    end: 02:54.68
+    fields:
+      transcription: |-
+        „Und schwimmen kann ich sowieso nicht."
+
+        „Dann können wir eben nicht dahin, wo der Himmel anfängt," entschied Frederick.
+
+        „Das hättest du vorher sagen sollen," murrte Piggeldy.
+
+        Und Piggeldy ging mit Frederick nach Hause.
+      meaning: |-
+        "And I can't swim anyway."
+
+        "Then we just can't go where the sky begins," decided Frederick.
+
+        "You should have said that before," muttered Piggeldy.
+
+        And Piggeldy went home with Frederick.
+      notes: |-
+        schwimmen/schwamm/ist geschwommen
+        murren/murrte/gemurrt (regular)
+
+        Remember, "sollen" has the base meaning of "to be supposed to". Here are some examples in the regular old indicative mood, present and past:
+
+        Du sollst das sagen. = You are to say that. You are supposed to say that.
+        Du hast das sagen sollen. = You were to say that. You were supposed to say that.
+
+        But here this sentence uses "hättest ... sollen", which is actually PAST tense of the subjunctive mood. Since "sollen" in the present subjunctive has that special meaning of "should", it becomes "should have" in the past subjunctive.
+
+        Du solltest das sagen. = You should say that. (Lit. you would be supposed to say that.)
+        Du hättest das sagen sollen. = You should have said that. (Lit. you would have been supposed to say that.)
+
+        More on the subjunctive mood: https://coerll.utexas.edu/gg/gr/vsub_02.html
+    tags:
+      - piggeldy-der-himmel
+...
+name: piggeld-der-vogel.mp4
+format: mov,mp4,m4a,3gp,3g2,mj2
+duration: 03:05.852
+id: 35f9fda8-7563-42b7-9869-cec895389ae8
+clips:
+  - id: e155ed0a-4f8a-4523-a4f0-9202ac81ca99
+    start: 00:06.18
+    end: 00:26.42
+    fields:
+      transcription: "Piggeldy wollte wissen, wie ein Vogel singt.
+
+
+        „Frederick,\" fragte Piggeldy seinen großen Bruder, „Frederick, sag mir, wie ein Vogel singt.\"\"\r
+
+
+        „Nichts leichter als das!\" antwortete Frederick. „Komm mit!\"
+
+
+        Piggelyd folgte Frederick."
+    tags:
+      - piggeldy-der-vogel
+  - id: 2a6010a8-04e7-4cb4-b6ce-387b5f0a398e
+    start: 00:27.28
+    end: 00:33.94
+    fields:
+      transcription: |-
+        Unter einem Baum blieb Frederick stehen.
+
+        „Sei mal still!" sagte er.
+      meaning: |-
+        Below a tree, Frederick stood still.
+
+        "Be quiet!" said he.
+    tags:
+      - piggeldy-der-vogel
+  - id: 3e0442d1-a99e-4bc0-a661-be290e3895b1
+    start: 00:34.64
+    end: 00:48.34
+    fields:
+      transcription: |-
+        „Ich bin doch still." sagte Piggeldy.
+
+        „Eben hast du aber geredet," sagte Frederick.
+
+        „Ich habe bloß geantwortet," sagte Piggeldy
+
+        „Nun sei endlich mal still!" sagte Frederick.
+      meaning: |-
+        "I'm *being* quiet," said Piggeldy.
+
+        "But you just talked," said Frederick.
+
+        "All I did was answer," said Piggeldy.
+
+        "Just be quiet already!" said Frederick.
+      notes: |-
+        bloß = only, merely, simply
+
+        reden/redete/hat geredet (regular)
+    tags:
+      - piggeldy-der-vogel
+  - id: 5d109d0e-155a-4297-b850-731ea9433bbe
+    start: 00:48.5
+    end: 01:00.82
+    fields:
+      transcription: |-
+        „Hörst du was?"
+
+        Piggeldy versuchte zu hören, ob er was hörte.
+
+        „Ich höre was!" rief er und begann zu singen. "Tödel-dödel-dööö!"
+      meaning: |-
+        "Can you hear something?"
+
+        Piggeldy tried to hear, if he could hear something.
+
+        "I hear something!" he shouted and began to sing. "Toodle-doodle-dooo!"
+    tags:
+      - piggeldy-der-vogel
+  - id: 0a17d174-cfd3-42aa-bd19-4cf12110f37b
+    start: 01:01.24
+    end: 01:10.12
+    fields:
+      transcription: |-
+        „Entsetzlich!" stöhnte Frederick. „Du singst wie ein kleines Schwein!"
+
+        „Bin ich doch auch," sang Piggeldy.
+      meaning: |-
+        "Appalling!" moaned Frederick. "You sing like a little pig!"
+
+        "I am a little Pig," sang Piggeldy.
+    tags:
+      - piggeldy-der-vogel
+  - id: e55f0276-a1b9-4b9d-b78e-891fe99a4466
+    start: 01:11.38
+    end: 01:21.66
+    fields:
+      transcription: „Ich glaube," sagte Frederick nachdenklich, "man muss auf einem Ast sitzen. Dann kann man richtig wie ein Vogel singen."
+    tags:
+      - piggeldy-der-vogel
+  - id: 9b482bfd-b536-4655-a28b-bb6c6ce51c14
+    start: 01:22.74
+    end: 01:34.34
+    fields:
+      transcription: |-
+        „Das hättest du aber gleich sagen können," murrte Piggeldy, und kletterte auf den Baum.
+
+        „Komm auch rauf, rief er. „Es ist wunderschön hier."
+      meaning: |-
+        "You could have said that right away," muttered Piggeldy, and climbed onto the tree.
+
+        "Come up, too," he called out. "It's wonderful hier."
+      notes: rufen/rief/hat gerufen
+    tags:
+      - piggeldy-der-vogel
+  - id: 26b7f26a-8999-4865-b01f-7074a14a1d9d
+    start: 01:37.64
+    end: 01:50.86
+    fields:
+      transcription: |-
+        „Prima!" rief Frederick von unten. „Du kannst es! Ich sagte es ja schon, man muss bloß auf einem Ast sitzen."
+
+        „Ich singe aber gar nicht," rief Piggeldy.
+      meaning: '"Great!" shouted Frederick from below. "You can do it! What did I tell you, all you have to do is sit on a branch."'
+      notes: When "schon" doesn't mean "already", it gives the sentence a tone of thinking something over, and admitting, yes, sure, that's the case after all.
+    tags:
+      - piggeldy-der-vogel
+  - id: 72470a3b-c124-4cd7-a184-a1ae692348c8
+    start: 01:55.74
+    end: 02:06.6
+    fields:
+      transcription: |-
+        „Große Klasse!" lobte Frederick.
+
+        „Ich singe aber ganz und gar und überhaupt und ganz bestimmt nicht!" schrie Piggeldy.
+      meaning: |-
+        "Great stuff!" praised Frederick.
+
+        "But I'm downright, absolutely, most definitely NOT singing!" cried Piggeldy.
+      notes: loben/lobte/hat gelobt (regular)
+    tags:
+      - piggeldy-der-vogel
+  - id: 2137d751-1233-404b-a172-1738f47d7b4c
+    start: 02:07.06
+    end: 02:21.74
+    fields:
+      transcription: |-
+        „Hilfe! Einer schupst mich!"
+
+        Piggeldy fiel aus dem Baum.
+
+        „Was ist los?" fragte Frederick erstaunt.
+
+        „Ich glaube," jammerte Piggeldy, „ich war in einer fremden Wohnung."
+      meaning: |-
+        "Help! One's shoving me!"
+
+        Piggeldy fell from the tree.
+
+        "What's wrong?" asked Frederick, astonished.
+
+        "I believe," wailed Piggeldy, "I was in someone else's home."
+      notes: fremd = foreign, strange, alien, of someone else
+    tags:
+      - piggeldy-der-vogel
+  - id: d8230789-7e8a-4c15-9b50-8df948f58b5b
+    start: 02:26.28
+    end: 02:36.0
+    fields:
+      transcription: |-
+        Frederick sah Piggeldy an. Piggeldy sah Frederick an.
+
+        „Du hast einen ganz schönen Vogel," meinte Frederick.
+      meaning: |-
+        Frederick looked at Piggeldy. Piggeldy looked at Frederick.
+
+        "You're cuckoo." said Frederick.
+    tags:
+      - piggeldy-der-vogel
+  - id: b2284d8c-9d21-4d5c-a81e-f9ffbc50435e
+    start: 02:36.06
+    end: 02:52.46
+    fields:
+      transcription: |-
+        „Vielleicht hättest du dir ein Bein brechen können."
+
+        „Hätte ich," sagte Piggeldy. „Hab' ich aber nicht. Und was ich nicht hab', kann ich nicht 'gehättet' haben."
+      meaning: |-
+        Perhaps you could have broken a leg!
+
+        "I could have," said Piggeldy. "But I didn't. And what I didn't, I can't have coulded!"
+      notes: This last sentence is nonsense--kind of poking fun at how things get complicated when you talk about "woulds" and "would haves". We can't expect Piggeldy (and others learning the subjunctive in German) to get it right away.
+    tags:
+      - piggeldy-der-vogel
+...
+name: Peppa Wutz  Zusammenschnitt - 30 Minuten  Peppa Pig Deutsch Neue Folgen  Cartoons für Kinder.mp4
+format: mov,mp4,m4a,3gp,3g2,mj2
+duration: 28:52.627
+id: 6190c0e7-5378-4390-a7d2-e212cbf5b088
+clips:
+  - id: 7c11540c-33ee-4e94-a78e-a9ff142fd2ce
+    start: 00:27.0
+    end: 00:30.72
+    tags:
+      - peppa-pig-1
+  - id: 12e0f190-9838-44c9-915c-288f3a658bbe
+    start: 00:33.66
+    end: 00:37.2
+    fields:
+      transcription: Papa! Die Sonne scheint wieder. Können wir jetzt nach draußen?
+    tags:
+      - peppa-pig-1
+  - id: 9b1d2b72-2824-4034-ac25-ac71dbc56dd1
+    start: 00:37.66
+    end: 00:40.44
+    fields:
+      transcription: Haha, ja gut. Dann los, ihr zwei!
+    tags:
+      - peppa-pig-1
+  - id: b0b630ec-4c96-4fcc-9291-267f8eab8e60
+    start: 00:51.5
+    end: 00:56.06
+    fields:
+      transcription: |-
+        Peppa springt gern in die Matschepfützen.
+
+        - Ich mag Matschepampe.
+      notes: |-
+        der Matsch = kiddie word for mud
+        die Pfütze = puddle
+
+        die Pampe = mush
+        die Matschepampe = goopy-gloop?
+    tags:
+      - peppa-pig-1
+  - id: d3c84941-73b9-418c-a2ea-ea37fead0416
+    start: 01:00.34
+    end: 01:06.72
+    fields:
+      notes: |-
+        der Stiefel, die Stiefel = boot, boots
+        der Gummistiefel = rubber boot
+
+        anziehen/zog an/hat angezogen
+    tags:
+      - peppa-pig-1
+  - id: d7000e3d-c126-41e6-932a-2e446b8711d5
+    start: 01:21.52
+    end: 01:26.94
+    tags:
+      - peppa-pig-1
+  - id: 27a83aae-0a90-45be-aed8-2e38da4cf1af
+    start: 01:30.2
+    end: 01:32.76
+    fields:
+      transcription: Peppa kümmert sich gern um ihren kleinen Bruder George.
+      meaning: Peppa likes to look out for her little brother George.
+    tags:
+      - peppa-pig-1
+  - id: 771781bf-f774-4562-92cd-9f2e31af0790
+    start: 01:41.06
+    end: 01:43.94
+    fields:
+      notes: suchen/suchte/hat gesucht (regular)
+    tags:
+      - peppa-pig-1
+  - id: a4b69251-f8c0-4a7d-9d70-c949128749d0
+    start: 01:51.0
+    end: 01:53.4
+    fields:
+      notes: eine Menge = tons, a load of
+    tags:
+      - peppa-pig-1
+  - id: 677a3090-0f6d-481e-a679-fea4c9b21295
+    start: 01:54.14
+    end: 02:00.0
+    fields:
+      notes: entdecken/entdeckte/hat endeckt = discover
+    tags:
+      - peppa-pig-1
+  - id: 8ee4e897-1ac6-48b4-9cec-2c7a70c605a4
+    start: 02:09.82
+    end: 02:13.36
+    fields:
+      notes: riesen- = giant
+    tags:
+      - peppa-pig-1
+  - id: 831b942a-3364-4bbb-a47e-ca7dcc35501f
+    start: 02:17.44
+    end: 02:20.22
+    fields:
+      transcription: George will als Erste in die große Pfütze springen.
+    tags:
+      - peppa-pig-1
+  - id: 27873fc6-0e11-4a36-b59b-256c25d5979a
+    start: 02:21.36
+    end: 02:30.26
+    fields:
+      transcription: Halt, George! Vielleicht ist sie ja zu tief für dich.
+      meaning: Stop, George! Maybe it (the puddle) is too big for you.
+    tags:
+      - peppa-pig-1
+  - id: bdbac03d-934f-4225-bcc1-a74b74f6e27d
+    start: 02:35.46
+    end: 02:37.92
+    fields:
+      notes: der Schlamm = mud
+    tags:
+      - peppa-pig-1
+  - id: 16235485-6f69-4710-b5e7-d3ed3b0a5098
+    start: 02:57.3
+    end: 03:00.36
+    fields:
+      transcription: Komm mit, George! Wir zeigen Papa wie wir aussehen.
+      notes: aussehen/sah aus/hat ausgesehen/sieht aus
+    tags:
+      - peppa-pig-1
+  - id: 846f50ae-ec7a-48e9-b815-fcb5e554d725
+    start: 03:07.6
+    end: 03:08.94
+    fields:
+      transcription: Du lieber Himmel!
+      meaning: Good heavens!
+    tags:
+      - peppa-pig-1
+  - id: 3d416d4d-a8d4-4fe6-9731-9418c7699c7f
+    start: 03:10.46
+    end: 03:12.5
+    fields:
+      transcription: Rat mal, was wir gemacht haben!
+      meaning: Guess what we did!
+      notes: raten/riet/geraten
+    tags:
+      - peppa-pig-1
+  - id: 8911ba5c-9858-43f6-99bb-7fdbda5606a3
+    start: 03:13.0
+    end: 03:14.12
+    fields:
+      notes: überlegen/überlegte/hat überlegt = consider, think about, ponder
+    tags:
+      - peppa-pig-1
+  - id: a2ca1b6e-8368-45a5-89f6-10c72883746b
+    start: 03:14.86
+    end: 03:18.6
+    fields:
+      notes: schauen/schaute/geschaut (regular)
+    tags:
+      - peppa-pig-1
+  - id: 1a8771b6-425c-45d3-b07f-839dc2241a50
+    start: 03:19.42
+    end: 03:20.64
+    fields:
+      transcription: Habt ihr etwa gebadet?
+      meaning: Did you [two], say, take a bath?
+      notes: badet/badete/hat gebadet
+    tags:
+      - peppa-pig-1
+  - id: 3e38ae45-6cff-49fc-a7fb-c916a46e9f56
+    start: 03:25.8
+    end: 03:34.42
+    tags:
+      - peppa-pig-1
+  - id: 1b550c36-ba27-4609-a54c-25ce2ceac455
+    start: 03:34.78
+    end: 03:37.44
+    tags:
+      - peppa-pig-1
+  - id: e296981e-c39c-488d-acd7-42ccdeca3c61
+    start: 03:39.76
+    end: 03:42.18
+    fields:
+      transcription: Nicht schlimm, ist ja nur Matsch!
+      meaning: It's not so bad, it's just mud!
+    tags:
+      - peppa-pig-1
+  - id: 0894463f-e526-49f9-a5a4-9d180c6fc8e9
+    start: 03:43.2
+    end: 03:45.8
+    fields:
+      transcription: Wir machen es schnell weg, bevor Mami euch sieht.
+    tags:
+      - peppa-pig-1
+  - id: 62fccefc-2feb-4003-be64-3cd29c265dac
+    start: 03:48.28
+    end: 03:56.98
+    tags:
+      - peppa-pig-1
+  - id: 50e34b0e-8b19-4acd-b542-d2679ea63fce
+    start: 04:03.0
+    end: 04:07.86
+    fields:
+      notes: tragen/trug/hat getragen/trägt
+    tags:
+      - peppa-pig-1
+  - id: 003f4394-20bd-4cea-9137-3d7243b9920a
+    start: 04:09.68
+    end: 04:16.0
+    tags:
+      - peppa-pig-1
+  - id: dce3bed1-da1a-4679-ae01-243356bbd3ae
+    start: 04:25.1
+    end: 04:30.88
+    tags:
+      - peppa-pig-1

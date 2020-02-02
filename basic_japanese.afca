@@ -1,10 +1,10 @@
 {
   "version": "4.1.0",
-  "timestamp": "2019-12-28T13:27:38Z",
+  "timestamp": "2020-02-02T10:29:32Z",
   "name": "Basic Japanese",
   "id": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
   "noteType": "Transliteration",
-  "lastOpened": "2019-12-28T13:27:33Z",
+  "lastOpened": "2020-02-02T10:29:32Z",
   "mediaFiles": [
     {
       "id": "b0cd359c-28f9-424e-a643-21cd368d4e19",
@@ -12,22 +12,24 @@
       "parentId": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
       "subtitles": [],
       "flashcardFieldsToSubtitlesTracks": {},
+      "isVideo": true,
       "name": "Japanese Listening (N5-N4-N3) - Shadowing lets speak Japanese beginner to intermediate (N5 N4 N3).mp4",
       "durationSeconds": 3997.500911,
       "format": "mov,mp4,m4a,3gp,3g2,mj2",
-      "isVideo": true,
-      "subtitlesTracksStreamIndexes": []
+      "subtitlesTracksStreamIndexes": [],
+      "width": 1280,
+      "height": 720
     },
     {
       "id": "796090a8-c1ea-46f3-9764-e655d4e77234",
       "type": "MediaFile",
       "parentId": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
+      "subtitles": [],
+      "flashcardFieldsToSubtitlesTracks": {},
       "name": "JGR 1-1-1 onna no ko.m4a",
       "durationSeconds": 219.312472,
-      "isVideo": false,
       "format": "mov,mp4,m4a,3gp,3g2,mj2",
-      "flashcardFieldsToSubtitlesTracks": {},
-      "subtitles": [],
+      "isVideo": false,
       "subtitlesTracksStreamIndexes": []
     },
     {
@@ -94,12 +96,12 @@
       "id": "a5048c86-e1d2-4375-a0b8-5834249fcdbc",
       "type": "MediaFile",
       "parentId": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
+      "subtitles": [],
+      "flashcardFieldsToSubtitlesTracks": {},
       "name": "JGR 1-3-2 kimono.m4v",
       "durationSeconds": 391.915079,
-      "isVideo": false,
       "format": "mov,mp4,m4a,3gp,3g2,mj2",
-      "flashcardFieldsToSubtitlesTracks": {},
-      "subtitles": [],
+      "isVideo": false,
       "subtitlesTracksStreamIndexes": []
     },
     {
@@ -142,12 +144,12 @@
       "id": "0937d045-0011-4b9b-9bc6-23ee437cb336",
       "type": "MediaFile",
       "parentId": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
+      "subtitles": [],
+      "flashcardFieldsToSubtitlesTracks": {},
       "name": "JGR 1-3-6 jon san no natsuyasumi.m4v",
       "durationSeconds": 538.435896,
-      "isVideo": false,
       "format": "mov,mp4,m4a,3gp,3g2,mj2",
-      "flashcardFieldsToSubtitlesTracks": {},
-      "subtitles": [],
+      "isVideo": false,
       "subtitlesTracksStreamIndexes": []
     },
     {
@@ -383,7 +385,11 @@
       "type": "MediaFile",
       "parentId": "396cb23e-87fa-491c-a0f2-c7fc5022d80a",
       "subtitles": [
-        "507d82c5-da23-4b4d-b6c1-53c0c9732731"
+        {
+          "id": "507d82c5-da23-4b4d-b6c1-53c0c9732731",
+          "streamIndex": 2,
+          "type": "EmbeddedSubtitlesTrack"
+        }
       ],
       "flashcardFieldsToSubtitlesTracks": {},
       "name": "Shirokuma Cafe.mkv",
@@ -458,9 +464,7 @@
       "end": 814,
       "flashcard": {
         "id": "1dc6af34-54ab-4b16-9974-385df03cca82",
-        "tags": [
-          "shad1-1"
-        ],
+        "tags": [],
         "type": "Transliteration",
         "fields": {
           "transcription": "そう？\nそう。",
@@ -15928,7 +15932,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "",
-          "pronunciation": "Meiji-jídai-ni, Yooroppa-kara, youfuku-ga kimáshita.",
+          "pronunciation": "Meiji-jídai-ni, Yooróppa-kara, youfuku-ga kimáshita.",
           "meaning": "",
           "notes": ""
         }
@@ -16118,7 +16122,7 @@
         "type": "Transliteration",
         "fields": {
           "transcription": "",
-          "pronunciation": "Sán-sai-no onnanóko, gó-sai-no otokónoko, naná-sai-no onnanókko, omedetou!",
+          "pronunciation": "Sán-sai-no onnanóko, gó-sai-no otokónoko, naná-sai-no onnanóko, omedetou!",
           "meaning": "",
           "notes": ""
         }

@@ -1,0 +1,2254 @@
+# This file was created by Knowclip!
+# Edit it manually at your own risk.
+name: Intermediate Japanese
+noteType: Simple
+timestamp: 2020-02-02T10:29:42Z
+id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
+...
+name: 01 - Lesson 1 - Main Text.mp3
+format: mp3
+duration: 02:09.541
+id: c272e50e-46be-42cd-beb8-6db89296dd46
+clips:
+  - id: 09016a75-793a-433f-8136-197b9b4d2f72
+    start: 00:15.18
+    end: 00:19.18
+    fields:
+      transcription: 最近、ホテルで正月を過ごす人が増えたそうである。
+    tags:
+      - iij01
+  - id: 60651b29-af30-41eb-b50d-2e8d085cf6b9
+    start: 00:20.04
+    end: 00:24.22
+    fields:
+      transcription: 年末に家をしめて、家族全員でホテルに移る。
+    tags:
+      - iij01
+  - id: 3aa7541a-f3b3-4827-bcb9-2e7e6cc7c31e
+    start: 00:25.24
+    end: 00:30.38
+    fields:
+      transcription: ホテルでは正月特別の飾りをつけ、正月の料理を出す。
+    tags:
+      - iij01
+  - id: 89442181-5ee1-4dcd-822d-ddcb236dce6f
+    start: 00:30.9
+    end: 00:33.28
+    fields:
+      transcription: 主婦も家事をする必要がない。
+      notes: káji-o suru
+    tags:
+      - iij01
+  - id: e6b4c287-907e-4e58-8e9f-4efcb15625a8
+    start: 00:34.08
+    end: 00:36.18
+    fields:
+      transcription: 家族揃ってゆっくりすごす。
+    tags:
+      - iij01
+  - id: ae56eb7b-e84f-4d4a-99aa-ac015b6a4c83
+    start: 00:36.908
+    end: 00:38.86
+    fields:
+      transcription: その理由はいくつかある。
+    tags:
+      - iij01
+  - id: 5587c571-b30f-4285-8764-7f3d11d35351
+    start: 00:39.5
+    end: 00:43.98
+    fields:
+      transcription: 主人も主婦も忙しくて、正月の準備ができない場合もある。
+    tags:
+      - iij01
+  - id: 27f0840e-5eb9-4876-878b-801e0c04cc19
+    start: 00:44.76
+    end: 00:48.06
+    fields:
+      transcription: 正月の伝統的な行事が嫌いな人もある。
+      notes: shougatsu-no dentouteki-na gyóuji-ga kirai-na hitó-mo áru
+    tags:
+      - iij01
+  - id: 7a80031d-8c81-458c-a218-cc93f0ec3b0b
+    start: 00:48.68
+    end: 00:53.8
+    fields:
+      transcription: "正月に大ぜいの客が来るので、会うのがめんどうだと思う人もある。 "
+    tags:
+      - iij01
+  - id: aef7846d-958b-4929-a404-9d214f1857c5
+    start: 00:55.12
+    end: 01:06.1
+    fields:
+      transcription: むかしは、正月にはいつもより綺麗な物を着て、いつもよりぜいたくな料理を食べ、遠くから親せきの人が集まって、にぎやかに話し合った。
+    tags:
+      - iij01
+  - id: 4b689ce2-16a6-4eae-bbbf-81706e288997
+    start: 01:06.9
+    end: 01:12.76
+    fields:
+      transcription: 子供達も、正月には特別にお金をもらって、好きな物を買うことができた。
+    tags:
+      - iij01
+  - id: 045b6428-5dc4-4ea3-bde6-ae37f0822db7
+    start: 01:13.4
+    end: 01:17.56
+    fields:
+      transcription: 正月は、「いつもと違う」ぜいたくをするときであった。
+    tags:
+      - iij01
+  - id: 2a818cf0-8c4d-4b3d-b2f6-ec86e9130bb6
+    start: 01:18.46
+    end: 01:25.18
+    fields:
+      transcription: そのためには家中をよく掃除し、正月のための特別の飾りをつけた。
+    tags:
+      - iij01
+  - id: c2374f00-ea3a-4f69-9175-ed8dbf6a2147
+    start: 01:25.94
+    end: 01:30.6
+    fields:
+      transcription: 家を大切にしたのは、家が生活の場所だったからである。
+    tags:
+      - iij01
+  - id: 40fe680e-f519-4ca3-884c-84eeafcc2981
+    start: 01:31.5
+    end: 01:34.74
+    fields:
+      transcription: 今は住宅の利用法が変わった。
+    tags:
+      - iij01
+  - id: ab6137a6-f3d2-45b3-a4ae-3e7c6d23084c
+    start: 01:35.5
+    end: 01:43.42
+    fields:
+      transcription: 自分の家で結婚式や祝いの宴会をする人は少ない。たいていの人がホテルを使う。
+    tags:
+      - iij01
+  - id: d8898763-97ae-4069-937d-0d39b003c04e
+    start: 01:43.78
+    end: 01:47.28
+    fields:
+      transcription: 人にごちそうするときにはレストランに行く。
+    tags:
+      - iij01
+  - id: 714e67bd-99de-496d-9f6f-7fae6937a648
+    start: 01:47.68
+    end: 01:51.08
+    fields:
+      transcription: 人と話をするときは喫茶店で会う。
+      notes: hito-to hanashí-o suru-tóki-wa
+    tags:
+      - iij01
+  - id: 92e59754-9251-4f42-88c2-ba59706796f3
+    start: 01:51.4
+    end: 01:55.5
+    fields:
+      transcription: その上正月まで、ホテルで過ごす人が増えた。
+    tags:
+      - iij01
+  - id: 2bfa92ec-5ae1-4dba-ae3d-2123d7190b18
+    start: 01:56.44
+    end: 02:00.88
+    fields:
+      transcription: 今の大都会の住宅は、何をするところであろう。
+    tags:
+      - iij01
+  - id: 24886d69-6e4b-4507-86eb-2d20cc25989b
+    start: 02:01.02
+    end: 02:09.12
+    fields:
+      transcription: テレビを見て、寝るところか。 住宅というより、個室か寝室になったのであろうか。
+    tags:
+      - iij01
+...
+name: 02 - Lesson 1 - KaiwaBun 1.mp3
+format: mp3
+duration: 00:56.738
+id: 2219a749-424d-42a5-92d9-2a75d54085ac
+clips:
+  - id: e2726df2-5370-488f-894e-cfbd8232d0ba
+    start: 00:08.02
+    end: 00:24.02
+    fields:
+      transcription: |-
+        今年のお正月は、どんな予定ですか。
+        まだはっきりきまっていないんですが。
+        ええ。
+        市内のホテルにしようかと思っています。
+        あ、そうですか。海外じゃなくて。
+        ええ。海外へ行くほどの金はないんですよ。
+        そんなことないでしょうけど。
+    tags:
+      - iij01
+  - id: e7ce4548-c744-4700-b2c5-5e8c73306ae5
+    start: 00:24.14
+    end: 00:34.7
+    fields:
+      transcription: |-
+        お宅はどちらへ？
+        うちは毎年昔のとおりにお正月をやります。
+        そうですか。
+        大掃除をして、お餅をついて、お料理を作って。
+    tags:
+      - iij01
+  - id: 15d5f663-c687-4ffc-af16-5c95d92c5959
+    start: 00:34.82
+    end: 00:42.08
+    fields:
+      transcription: |-
+        大変ですね。
+        ええ。でも、主人の母が家でお正月をやりたいと言うので。
+        そうですか。
+    tags:
+      - iij01
+  - id: 7851a76a-6a5b-49f2-bf18-be768900cdcc
+    start: 00:42.22
+    end: 00:55.72
+    fields:
+      transcription: |-
+        うちはアパートで門も床の間もないから、正月の飾りも十分できないんですよ。
+        都会の住宅はみんなそうですね。
+        ですから、広いホテルに泊まってゆっくりするつもりです。
+    tags:
+      - iij01
+...
+name: 03 - Lesson 1 - KaiwaBun 2.mp3
+format: mp3
+duration: 00:54.857
+id: 73a92b23-b0f5-41ed-bfa4-ec42a1bc589a
+clips:
+  - id: a1d888b1-71cf-4dd4-82ce-69eab32275b9
+    start: 00:05.44
+    end: 00:15.04
+    fields:
+      transcription: |-
+        お正月、どうするの。
+        田舎へ帰るよ。
+        いいわね、田舎があって。
+        あまり帰りたくないけど、親が待っているから、しかたがないんだ。
+    tags:
+      - iij01
+  - id: 601edd9a-927a-47eb-bd04-c80def2b6381
+    start: 00:15.08
+    end: 00:25.1
+    fields:
+      transcription: |-
+        どうして帰りたくないの。
+        田舎は退屈だもの。
+        でも、お友達がいるでしょ。
+        うん。友達に会うのは楽しいけど、親戚は面倒くさいよ。
+    tags:
+      - iij01
+  - id: 7f12ddfb-f63e-4aab-bea5-552b1250a229
+    start: 00:25.22
+    end: 00:36.8
+    fields:
+      transcription: |-
+        でも、お酒飲んだり、ごちそう食べたりするんでしょ。
+        うん。でも僕、正月の料理はあんまり好きじゃないんだ。
+        私は好き。いつもと違うお料理だから、楽しいわ。
+    tags:
+      - iij01
+  - id: 4e98ffc6-3668-4a7f-8b6a-1580878a6dc7
+    start: 00:36.98
+    end: 00:46.54
+    fields:
+      transcription: |-
+        元日は朝早く起きて、近所の神社に行くんだ。これが辛いよ。
+        あら、そう。私、初詣は好き。気持ちがいいわ。
+      meaning: |-
+        What about getting up early on New Year's day--and going to the neighborhood shrine? THAT's a trying experience.
+        Do you think so? I personally like visiting shrines early in the morning. I find it... refreshing.
+    tags:
+      - iij01
+  - id: e09eef36-43aa-428e-82b2-048367c66011
+    start: 00:46.66
+    end: 00:54.72
+    tags:
+      - iij01
+...
+name: 08 - Lesson 2 - Main Text.mp3
+format: mp3
+duration: 02:00.529
+id: 35ede59c-a247-4264-87a9-48fd686d75b6
+clips:
+  - id: cf4aacab-af53-4caa-a5e9-14881f5ae69f
+    start: 00:06.22
+    end: 00:12.0
+    fields:
+      transcription: 人間の手はいろいろなことをするが、足のほうはあまり働かない。
+    tags:
+      - iij02
+  - id: cdb0f1aa-ba95-4dbc-8528-049ef264ad58
+    start: 00:12.44
+    end: 00:16.62
+    fields:
+      transcription: 歩くことと走ることのほかは大した仕事をしない。
+    tags:
+      - iij02
+  - id: c4e213ba-920f-4b99-9c46-ac20883e0288
+    start: 00:17.18
+    end: 00:22.58
+    fields:
+      transcription: 特に足のうらは何も重要な働きはしていないように見える。
+    tags:
+      - iij02
+  - id: 108e31d1-fae5-4955-a906-e0b194e1f337
+    start: 00:23.12
+    end: 00:29.7
+    fields:
+      transcription: ところが、足のうらの働きについて実験した結果、面白いことがわかったそうだ。
+    tags:
+      - iij02
+  - id: a22d94ee-8959-4248-807b-5e9f497624ba
+    start: 00:30.8
+    end: 00:34.66
+    fields:
+      transcription: 十二人の若い男女を二つの組にわける。
+    tags:
+      - iij02
+  - id: afa843b9-a206-4b70-b9cf-a151a470afaa
+    start: 00:35.2
+    end: 00:41.38
+    fields:
+      transcription: 一定の時間、いっぽう組の人たちは、はだしになって竹をふみ続ける。
+    tags:
+      - iij02
+  - id: fac39827-01e9-4ad8-b0ca-59924f624206
+    start: 00:41.72
+    end: 00:47.1
+    fields:
+      transcription: もういっぽうの組は、高いいすにこしかけて、何もしないでいる
+    tags:
+      - iij02
+  - id: feecb4b5-2987-43b3-94c5-103cd32cffce
+    start: 00:47.9
+    end: 00:54.64
+    fields:
+      transcription: いすが高いので、足はゆかにつかないから、足のうらには何の刺激もない。
+    tags:
+      - iij02
+  - id: 708aafbb-234f-4236-9a2c-fb197574fc36
+    start: 00:55.26
+    end: 00:59.12
+    fields:
+      transcription: そのあと両方の組が同じゲームをする。
+    tags:
+      - iij02
+  - id: 833e3e3d-dbf8-44d5-b294-5f5eb33c9016
+    start: 00:59.6
+    end: 01:09.1
+    fields:
+      transcription: テレビの画面に色の名前を表す漢字が出るが、その漢字の表す色と、漢字そのものの色はちがっている。
+    tags:
+      - iij02
+  - id: f298e99a-238e-422e-9c57-b1c68e104869
+    start: 01:09.46
+    end: 01:13.34
+    fields:
+      transcription: たとえば白い線で書いた「青」という字が出る。
+      notes: jí-ga déru
+    tags:
+      - iij02
+  - id: 56d57479-6c2d-4fce-9192-a8fb0c0f3532
+    start: 01:13.9
+    end: 01:18.28
+    fields:
+      transcription: それを見て、いそいで「青」の札をさがして高くあげる。
+    tags:
+      - iij02
+  - id: 53df8e93-daaf-424e-a654-4f31abe161c9
+    start: 01:18.78
+    end: 01:28.48
+    fields:
+      transcription: 何回も続けると、疲れて間違いが多くなるが、二つの組のうち、竹をふんだ人達のほうが成績がよかった。
+    tags:
+      - iij02
+  - id: a6941968-0cde-4337-80a3-e40535a19fa2
+    start: 01:28.82
+    end: 01:35.22
+    fields:
+      transcription: つまり足のうらを刺激すると、頭の働きがよくなることがわかったのである。
+    tags:
+      - iij02
+  - id: bea710d1-472b-4faf-aa60-ec3685db945b
+    start: 01:36.16
+    end: 01:45.9
+    fields:
+      transcription: むかしのある有名な人は、子供のころ家がびんぼうで、一日中働いていたので、勉強するひまがなかった。
+    tags:
+      - iij02
+  - id: b5f4c8a5-e933-4972-a2af-04b1e71357f8
+    start: 01:46.18
+    end: 01:51.72
+    fields:
+      transcription: そこで、せなかに薪をせおって歩きながら、本を読んだそうである。
+    tags:
+      - iij02
+  - id: 091a8350-b944-4e64-8818-e4dd3fe0c523
+    start: 01:52.2
+    end: 02:00.0
+    fields:
+      transcription: 目のためには悪かったかもしれないが、頭の働きのためには、よい勉強法だったわけである。
+    tags:
+      - iij02
+...
+name: 09 - Lesson 2 - KaiwaBun 1.mp3
+format: mp3
+duration: 01:30.619
+id: 57475dfe-772b-4c7d-9a73-05d4c90aca53
+...
+name: 10 - Lesson 2 - KaiwaBun 2.mp3
+format: mp3
+duration: 01:23.722
+id: 75349e22-351c-4cc9-b014-40188d9e13ed
+...
+name: 15 - Lesson 3 - Main Text.mp3
+format: mp3
+duration: 02:00.921
+id: 9b3fc3ac-aeec-46ea-8ec7-b55c39add913
+clips:
+  - id: 2a79c166-cae6-4dd7-9302-c57100c1071c
+    start: 00:05.86
+    end: 00:12.92
+    fields:
+      transcription: 留守番電話を利用する人が多くなった。留守番電話は確かに便利である。
+      notes: bénri
+    tags:
+      - iij03
+  - id: 617e425d-1e2a-46a9-b49f-463a7feb78c5
+    start: 00:13.26
+    end: 00:21.92
+    fields:
+      transcription: 誰も家にいない時に誰から電話があった場合、後で録音テープでその内容を知ることができる。
+    tags:
+      - iij03
+  - id: bc802300-72be-447e-a778-09add27c5ce6
+    start: 00:22.44
+    end: 00:28.86
+    fields:
+      transcription: "家にいる時でも、風呂に入っていたりして、電話に出ることができないこともある。 "
+      notes: Ié-ni iru tokí-de-mo, furó-ni háitte itári shite, denwa-ni déru-koto-ga dekínai-koto-mo áru.
+    tags:
+      - iij03
+  - id: 366e8d12-2c0d-4d96-8730-4031cb4ecd8c
+    start: 00:29.62
+    end: 00:38.64
+    fields:
+      transcription: 例えば、食事中やテレビで面白いドラマを見ている時など、電話にでなくて済むのはありがたいことである。
+    tags:
+      - iij03
+  - id: 852bf3d7-bdcd-452d-8ec3-7e2e8fa2f7fd
+    start: 00:39.86
+    end: 00:44.72
+    fields:
+      transcription: それほど便利なものであるが、つけたくないと言う人も多い。
+    tags:
+      - iij03
+  - id: a36bb160-1591-47b3-b571-eb5fcc22c080
+    start: 00:45.1
+    end: 00:52.02
+    fields:
+      transcription: 電話をかけたとき、相手の声でなく録音テープを聞くのが不ゆかいなためである。
+    tags:
+      - iij03
+  - id: 05661bf5-d536-4418-b33a-491025caf020
+    start: 00:52.74
+    end: 01:07.18
+    fields:
+      transcription: 「いま留守です。ピーという音の後で、ご用件をお話しください」と言う事務的な声を聞くのが嫌いだし、人にもそんな声を聞かせたくない、と言う人が多い。
+    tags:
+      - iij03
+  - id: ce61275d-909b-436f-9c73-65d241f4b4b9
+    start: 01:08.0
+    end: 01:17.76
+    fields:
+      transcription: 留守番電話の伝言にしたがって電話してみると、その人も留守番電話をつけているので、録音テープに話をする。
+    tags:
+      - iij03
+  - id: 35be6ac4-7913-4675-80ac-7534eebaf251
+    start: 01:18.22
+    end: 01:22.48
+    fields:
+      transcription: その返事もまた録音テープということもある。
+    tags:
+      - iij03
+  - id: 61457ee0-70ba-42ea-bd17-7f2e762382f9
+    start: 01:22.86
+    end: 01:29.08
+    fields:
+      transcription: こうなると、人と話すのでなく、いつもマイクにむかって話すことになる。
+    tags:
+      - iij03
+  - id: 8350aa7c-cbae-4720-ba28-b83f4ec84b25
+    start: 01:29.28
+    end: 01:34.66
+    fields:
+      transcription: 普通の人も、テレビやラジオのアナウンサーになったようなものだ。
+      notes: 〜ようなものだ = it's as if...
+    tags:
+      - iij03
+  - id: c6123f52-e629-481d-bf38-b11595fe1f07
+    start: 01:35.46
+    end: 01:44.26
+    fields:
+      transcription: 話しかけてすぐ返事を聞くことができるのが、電話の魅力であるが、留守番電話ではそれがない。
+    tags:
+      - iij03
+  - id: 2cb15b95-42c0-4bfb-bf7c-eaceb44c6d35
+    start: 01:44.52
+    end: 01:49.66
+    fields:
+      transcription: 手紙を受け取って読んで、返事を書いて送るのと似ている。
+      meaning: "[Using an answering machine] is somewhat like receiving a letter, reading its contents, then writing and mailing a reply."
+      notes: uketotte yónde
+    tags:
+      - iij03
+  - id: df49690f-ec0a-4d94-ad6c-850f3813f634
+    start: 01:49.82
+    end: 02:00.38
+    fields:
+      transcription: もちろんその速さは手紙と比較にならないが、同時性がないという点では、手紙時代に逆もどりしたような気がする。
+      meaning: "As for the speed of the response, letters don't compare with answering machines. Nonetheless, answering machines can't offer the immediacy [of the telephone]: and [it seems to me that] they've taken us back to an age of letter writing as a result."
+    tags:
+      - iij03
+...
+name: 16 - Lesson 3 - KaiwaBun 1.mp3
+format: mp3
+duration: 01:26.779
+id: 1bbbd4e5-bc33-4fa3-b6f5-d099bb36b30a
+clips:
+  - id: a8a9cd8d-1e74-404e-9750-e2f5bc9888f9
+    start: 00:10.98
+    end: 00:25.2
+    tags:
+      - iij02
+  - id: 0ccae161-5078-42e5-914c-ac95059a7e91
+    start: 00:25.7
+    end: 00:33.04
+    tags:
+      - iij02
+  - id: b439bfc0-82a3-4f24-b28a-0eea72962c1b
+    start: 00:35.56
+    end: 00:58.34
+    tags:
+      - iij02
+  - id: 9fb54781-99bd-44d6-8b46-0ec9fb964a46
+    start: 00:59.648
+    end: 01:05.308
+    tags:
+      - iij02
+  - id: 0261d2ca-a1af-4dc2-9326-95c4ff1c7968
+    start: 01:06.288
+    end: 01:25.96
+    tags:
+      - iij02
+...
+name: 17 - Lesson 3 - KaiwaBun 2.mp3
+format: mp3
+duration: 01:13.352
+id: 9de21047-9eb6-4fc1-be7d-89481f043672
+subtitles:
+  - id: 2e620f5b-217d-432b-8311-2bdea7d6baa5
+    type: External
+    name: 17 - Lesson 3 - KaiwaBun 2.srt
+clips:
+  - id: c9d48e28-af4a-49b0-a021-03c5914eb55e
+    start: 00:01.024
+    end: 00:02.048
+    fields:
+      transcription: 会話文 に
+  - id: cba8f802-5e4d-4ca3-b293-6f1b2148dfcc
+    start: 00:02.816
+    end: 00:04.352
+    fields:
+      transcription: 夫と妻の会話
+  - id: 546dfa9c-0278-49af-9b80-38441fefb767
+    start: 00:05.376
+    end: 00:09.216
+    fields:
+      transcription: 値打ちも留守番電話にしましょうよ
+  - id: 283ae30c-269c-4926-98bf-c9191a7544f0
+    start: 00:09.728
+    end: 00:11.008
+    fields:
+      transcription: 家 共働きだから
+  - id: 9ac89a65-3d64-4f9e-a845-ad17f53cc513
+    start: 00:11.264
+    end: 00:13.312
+    fields:
+      transcription: 昼間は留守が多いでしょう
+  - id: 8e16e4f6-deb5-4621-bb16-4a083562e5f9
+    start: 00:14.08
+    end: 00:14.848
+    fields:
+      transcription: 友達が
+  - id: 6f2eaa90-f9fa-4797-8558-b826c30ab3a1
+    start: 00:15.104
+    end: 00:17.664
+    fields:
+      transcription: オタクはいつも留守 ね って怒るのよ
+  - id: 7df6ad13-d353-4406-b78e-9728bda2f02a
+    start: 00:17.92
+    end: 00:19.968
+    fields:
+      transcription: 夜電話してくださいって言ったら
+  - id: 002bcd32-1095-4ba8-bcdd-f4b203b51034
+    start: 00:20.736
+    end: 00:24.576
+    fields:
+      transcription: でも夜は電話が来ても出られないことが多いのよ
+  - id: 0f71b620-441a-40d7-8b6d-ceb56e367ef7
+    start: 00:24.832
+    end: 00:26.368
+    fields:
+      transcription: お風呂に入っていたりして
+  - id: dd6759c5-ea3d-4188-a812-80b652415fe4
+    start: 00:27.648
+    end: 00:29.696
+    fields:
+      transcription: テレビで面白いドラマやってる時
+  - id: f69547b0-5cff-4cef-b33b-ccae276d07f7
+    start: 00:29.952
+    end: 00:33.536
+    fields:
+      transcription: 電話に出ると話がわからなくなる しそうだね
+  - id: aced8bcc-6a8d-4bcd-b508-919860c2caf0
+    start: 00:33.792
+    end: 00:36.352
+    fields:
+      transcription: だから 留守番電話がいいと思うけど
+  - id: f4ee5818-27c3-4155-8960-ca805714a2ef
+    start: 00:36.864
+    end: 00:37.376
+    fields:
+      transcription: でも
+  - id: b424e5b9-bc07-487f-ab7d-acd7804b1708
+    start: 00:37.632
+    end: 00:38.912
+    fields:
+      transcription: 人に電話した時
+  - id: 2865ef78-437c-422c-9372-b6dba7ad1e31
+    start: 00:39.168
+    end: 00:40.96
+    fields:
+      transcription: 録音テープの声が聞こえるのは
+  - id: c5a5ecaa-2967-42f4-9b66-adf2f2c02aef
+    start: 00:42.24
+    end: 00:43.008
+    fields:
+      transcription: そう
+  - id: 80a44115-0824-46dd-a826-657d4dd69c10
+    start: 00:43.776
+    end: 00:46.848
+    fields:
+      transcription: ピーっていう音を聞いて 急いで録音するんだろう
+  - id: a5c5e8e6-e66f-4f90-8c45-93790eff0583
+    start: 00:47.104
+    end: 00:49.92
+    fields:
+      transcription: ええそうよ アナウンサー じゃないんだから
+  - id: 6912b4a8-414d-4a54-9bbe-3361fc36b608
+    start: 00:50.176
+    end: 00:51.968
+    fields:
+      transcription: マイクに向かって話すのは嫌だよ
+  - id: 2f14fac6-f044-4cc9-a4e1-af141000c1de
+    start: 00:52.224
+    end: 00:52.736
+    fields:
+      transcription: でも
+  - id: 3b10f0fa-e136-4d3c-b849-8e8124e37eb0
+    start: 00:52.992
+    end: 00:54.784
+    fields:
+      transcription: 家が留守番電話にしたら
+  - id: c666786d-9dfa-41b7-ba47-638a2d201f51
+    start: 00:55.04
+    end: 00:57.088
+    fields:
+      transcription: 録音をするのは他の人よ
+  - id: 4e283f1d-e56e-465a-8bdf-9b35bc9f8d1e
+    start: 00:57.344
+    end: 00:59.392
+    fields:
+      transcription: 私たちが 録音するんじゃないのよ
+  - id: 7299ce72-ce2a-4cf2-9231-afec8a70e263
+    start: 00:59.648
+    end: 01:02.72
+    fields:
+      transcription: 自分がしたくないことは他の人にもさせたくないよ
+  - id: b950e486-1e1f-49dc-adfe-0a995a9b6c29
+    start: 01:02.976
+    end: 01:04.0
+    fields:
+      transcription: あーそう
+  - id: 89aa4b56-0987-481a-bcca-eb9c05b6030b
+    start: 01:04.512
+    end: 01:06.304
+    fields:
+      transcription: じゃあ 留守番電話はやめましょう
+  - id: 9cc1d1b3-1b81-445f-b02f-2968a1756d53
+    start: 01:06.56
+    end: 01:07.072
+    fields:
+      transcription: いいの
+  - id: b51b0106-9a69-4f4a-a7a5-daee742f5c18
+    start: 01:07.328
+    end: 01:09.376
+    fields:
+      transcription: 残業 断って
+  - id: 4f5bebde-b1ef-4bfb-b213-ebf750d6cf6a
+    start: 01:09.632
+    end: 01:10.912
+    fields:
+      transcription: 早く家に帰るわ
+  - id: 4e1a169f-1561-44d3-9fb6-6c129617f6eb
+    start: 01:11.168
+    end: 01:11.936
+    fields:
+      transcription: 収入は減るけど
+...
+name: 01 - Lesson 4 - Main Text.mp3
+format: mp3
+duration: 01:57.656
+id: 27f9cec3-1b12-4fb4-a15e-49a43a3e3db7
+clips:
+  - id: 048709d9-490c-4758-bd08-4bd4e0abb26f
+    start: 00:06.64
+    end: 00:11.06
+    fields:
+      transcription: 最近、都会の喫茶店の数が減っているそうである。
+    tags:
+      - iij04
+  - id: 828c0ee5-b786-4b35-b093-4a98f2aa876c
+    start: 00:11.48
+    end: 00:16.56
+    fields:
+      transcription: 一つの原因は、週休二日の会社や役所が増えたことである。
+      notes: yakushó-ga
+    tags:
+      - iij04
+  - id: 3e4fdfab-c0e4-418c-ac76-5d0ae58a734f
+    start: 00:17.26
+    end: 00:22.14
+    fields:
+      transcription: このため、土曜日に店を開けても商売ができなくなってしまった。
+      notes: shóubai
+    tags:
+      - iij04
+  - id: fa2b2f19-c4cb-471c-891c-fe6c2fd8ad00
+    start: 00:22.86
+    end: 00:28.68
+    fields:
+      transcription: もう一つの原因は、土地の値段が信じられないほど高くなったことである。
+    tags:
+      - iij04
+  - id: e7b52ca6-88e2-4361-9ae6-fdc32bfbbd08
+    start: 00:29.22
+    end: 00:40.58
+    fields:
+      transcription: これまでのようにお客が一杯のコーヒーでゆっくり休んでいると、お客の数が限られるので、高い地代を払うことができなくなってしまうそうである。
+      notes: |-
+        íppai
+        kagiraréru
+    tags:
+      - iij04
+  - id: 8b1c0ab3-0d08-4235-a778-e4fa8fbfa095
+    start: 00:41.36
+    end: 00:51.94
+    fields:
+      transcription: そこで最近多くなったのは、今までの喫茶店よりずっと安いコーヒーを出し、お客は立って飲むという形の店である。
+      notes: ima-máde-no
+    tags:
+      - iij04
+  - id: a6ce73f9-a3cf-42af-af40-e41c62e69f6a
+    start: 00:52.12
+    end: 00:56.8
+    fields:
+      transcription: お客はどんどん出て行くからコーヒーがたくさん売れるわけである。
+    tags:
+      - iij04
+  - id: 25649678-fc1c-4c53-b217-0c973f80c54d
+    start: 00:57.36
+    end: 01:01.42
+    fields:
+      transcription: 一方、家庭でコーヒーを飲む人は多くなった。
+    tags:
+      - iij04
+  - id: 82c4c566-85f4-40d9-b730-b482c51718b8
+    start: 01:01.68
+    end: 01:06.04
+    fields:
+      transcription: コーヒー豆の輸入の量は毎年増えているそうである。
+    tags:
+      - iij04
+  - id: 86249f2c-a2bc-452a-bf5e-47c793a34c99
+    start: 01:06.54
+    end: 01:13.86
+    fields:
+      transcription: 朝、ご飯と味噌汁と言う食事をとる人が少なくなって、パンとコーヒーの人が多くなった。
+    tags:
+      - iij04
+  - id: d3700adf-0fbc-40c8-861c-1654e9fc4222
+    start: 01:14.16
+    end: 01:17.96
+    fields:
+      transcription: コーヒーはいわば味噌汁のかわりである。
+      meaning: Coffee, as it were, has taken the place of miso soup.
+    tags:
+      - iij04
+  - id: efe6d7c8-ab62-4f48-9d70-eb982ef4b4b5
+    start: 01:18.66
+    end: 01:25.06
+    fields:
+      transcription: 今の中年以上の人たちは、コーヒーが贅沢品であった時代の記憶をもっている。
+      meaning: People who are now middle-aged and older have memories of an era when coffee was a luxury item.
+    tags:
+      - iij04
+  - id: 2f8ad975-4bdc-460d-b5cf-426ce119f9df
+    start: 01:25.7
+    end: 01:32.66
+    fields:
+      transcription: その人たちの少年時代には、コーヒーは欧米の文化の香りを伝えるものであった。
+      meaning: In their youth, coffee imparted the fragrance of American and European culture.
+      notes: búnka
+    tags:
+      - iij04
+  - id: 4afdb0dc-e831-41c8-9694-9ada9d51d59a
+    start: 01:32.9
+    end: 01:42.2
+    fields:
+      transcription: コーヒーを飲むことは、単に喉のかわきをとめることでなく、日常離れた文化の世界に遊ぶことであった。
+      meaning: Drinking coffee was more than just quenching thirst. It was a chance to enjoy the world of a culture far removed from everyday life.
+    tags:
+      - iij04
+  - id: 603ff94f-c6d6-4011-b368-5600951cab62
+    start: 01:42.74
+    end: 01:50.46
+    fields:
+      transcription: 最近のコーヒーは、朝の味噌汁のかわりとなり、コーラに似た立ち飲みの飲み物になった。
+      meaning: Lately, coffee is simply a substitute for miso soup; it's become a beverage to drink while standing, like cola.
+    tags:
+      - iij04
+  - id: 7bb4cf93-b207-4c52-b5fd-59243eb81eb6
+    start: 01:50.72
+    end: 01:57.38
+    fields:
+      transcription: 味そのものは変わっていないが、コーヒーに対する人々の気持ちが変わってきたと言えよう。
+      meaning: The taste may not have changed, but people's feelings towards coffee have changed.
+      notes: と言えよう (expository)＝と言えるでしょ (casual)
+    tags:
+      - iij04
+...
+name: 02 - Lesson 4 - KaiwaBun 1.mp3
+format: mp3
+duration: 01:03.086
+id: e9f8fec0-018c-4188-bcc8-d653db2a171c
+...
+name: 03 - Lesson 4 - KaiwaBun 2.mp3
+format: mp3
+duration: 01:10.661
+id: 6ff577d4-1228-4956-895e-7fbe529d2b5d
+...
+name: 08 - Lesson 5 - Main Text.mp3
+format: mp3
+duration: 01:56.689
+id: f021988a-b438-4dbd-8dae-20f49db70e4f
+clips:
+  - id: 9fe10c4b-049f-4673-a2a4-1d3b3d6f00dd
+    start: 00:07.92
+    end: 00:15.74
+    tags:
+      - iij05
+  - id: b88f411b-2785-4971-a985-60a9552e5622
+    start: 00:16.28
+    end: 00:26.5
+    tags:
+      - iij05
+  - id: 871a91db-3f84-4fe2-99df-89957f10e052
+    start: 00:27.22
+    end: 00:35.18
+    tags:
+      - iij05
+  - id: 87702f5b-2827-488b-9361-a9fde634e7b2
+    start: 00:35.48
+    end: 00:41.06
+    tags:
+      - iij05
+  - id: 069b6290-6e28-4b38-8d29-6d224d32fa91
+    start: 00:41.4
+    end: 00:46.5
+    tags:
+      - iij05
+  - id: abaa83a0-8baf-4de6-953f-3ab4b8d46cae
+    start: 00:46.98
+    end: 01:01.68
+    tags:
+      - iij05
+  - id: ccc9fbea-89d6-4934-8a0c-cf071facca1a
+    start: 01:02.4
+    end: 01:10.74
+    tags:
+      - iij05
+  - id: 44117924-7e22-4ca4-bb22-217fa0755ae0
+    start: 01:11.0
+    end: 01:22.08
+    tags:
+      - iij05
+  - id: d36388c1-8dd1-4a8c-a478-9328f0f9f9f3
+    start: 01:22.92
+    end: 01:34.06
+    tags:
+      - iij05
+  - id: 437893f5-e0c4-450e-9fc8-7450fb05a632
+    start: 01:34.16
+    end: 01:38.08
+    tags:
+      - iij05
+  - id: 2b497a74-1cd5-4908-97f9-29a630a06efd
+    start: 01:38.22
+    end: 01:46.78
+    tags:
+      - iij05
+  - id: f0d8da67-726d-4c60-b6c7-fd64a88b7195
+    start: 01:46.96
+    end: 01:55.66
+    tags:
+      - iij05
+...
+name: 09 - Lesson 5 - KaiwaBun 1.mp3
+format: mp3
+duration: 01:07.318
+id: 31260426-17f0-4573-b8a6-735ecaae3054
+...
+name: 10 - Lesson 5 - KaiwaBun 2.mp3
+format: mp3
+duration: 01:11.837
+id: a7f2f866-c933-40a6-94d8-d1a80dc0818c
+...
+name: 14 - Lesson 6 - Main Text.mp3
+format: mp3
+duration: 01:57.185
+id: 3a770551-efd0-4ee0-b46c-7106a50e0467
+clips:
+  - id: 196cbd6c-c0cd-4ad5-aa82-ff4cd387acde
+    start: 00:07.12
+    end: 00:15.86
+    fields:
+      transcription: 社会人のための学校にも、いろいろなものがある。会社が社員の再教育のため学校を作る場合もある。
+    tags:
+      - iij06
+  - id: feb41344-8c60-4909-b82a-1a117954fbf1
+    start: 00:16.26
+    end: 00:21.98
+    fields:
+      transcription: 会社の授業を大きくしたい場合には、社員を教育する必要がある。
+    tags:
+      - iij06
+  - id: c9e6b4d0-57ff-4b24-9487-35f42e9ef1aa
+    start: 00:22.14
+    end: 00:29.12
+    fields:
+      transcription: 例えば海外の事業を盛んにするために、社員に語学教育を行う場合も多い。
+    tags:
+      - iij06
+  - id: 987c608c-04bb-4c77-8e40-c82f9800ffb1
+    start: 00:29.62
+    end: 00:35.46
+    fields:
+      transcription: 多くの情報を処理するため、社員にパソコンの操作を教えることもある。
+    tags:
+      - iij06
+  - id: 650f1054-0bc5-48b8-b037-0a54b5605455
+    start: 00:36.0
+    end: 00:41.34
+    fields:
+      transcription: ある建設会社が社員のために作った教育機関の話を聞いた。
+      meaning: At an education institute of a certain construction company, according to one report...
+    tags:
+      - iij06
+  - id: aef03159-2807-4cae-bb0e-1ce08077dfde
+    start: 00:41.68
+    end: 00:49.58
+    fields:
+      transcription: これまでは現場で上司が指導していたが、上司も忙しくなってあまり指導ができなくなった。
+      meaning: Up until now, supervisors trained employees on the job. The supervisors' workloads increased, however, making continued training impossible.
+    tags:
+      - iij06
+  - id: 9a3146a0-36c8-4e07-af78-5d021368f8ff
+    start: 00:49.8
+    end: 00:54.3
+    fields:
+      transcription: そこで社員教育のための学校を作ったのだそうである。
+    tags:
+      - iij06
+  - id: 14e638ea-c496-4f75-a507-af929133142d
+    start: 00:54.78
+    end: 01:01.0
+    fields:
+      transcription: 授業は月曜から土曜まで、毎日朝九時から五時まで七時間。
+    tags:
+      - iij06
+  - id: 7eb6147a-b4e9-472e-b552-ddc3c82f0da5
+    start: 01:01.24
+    end: 01:06.54
+    fields:
+      transcription: 学費は無料で、会社から給料をもらう。夏休みもある。
+    tags:
+      - iij06
+  - id: 44bf5c39-f2b3-4f12-94c6-8755ef315877
+    start: 01:06.82
+    end: 01:11.12
+    fields:
+      transcription: 全員が寮に住む。寮は一人一部屋。
+    tags:
+      - iij06
+  - id: beb24d7a-759e-47c8-9908-273dbf1bc20f
+    start: 01:11.3
+    end: 01:20.38
+    fields:
+      transcription: 一年間約千八百時間勉強したあと、現場で仕事を始め、三年か五年ぐらいで現場監督になる。
+    tags:
+      - iij06
+  - id: 5ebd4f76-a0f2-4845-8c1a-e0a5f72b3376
+    start: 01:20.98
+    end: 01:31.2
+    fields:
+      transcription: 現在二十四名の学生がいるが、大学で建築を学んだ人は二名だけで、あとは商業などを学んだ人である。
+    tags:
+      - iij06
+  - id: 16030c1c-748a-4f4f-8e20-c6439db7d7e7
+    start: 01:31.34
+    end: 01:36.08
+    fields:
+      transcription: だから全くの初歩から建築の技術を習うことになる。
+    tags:
+      - iij06
+  - id: 3fcc644f-7d59-47db-9aa7-6c4fecd49873
+    start: 01:36.34
+    end: 01:45.06
+    fields:
+      transcription: その学生の一人がこういった。「給料をもらいながら勉強しているので、しっかりやらなければいけないと感じています。」
+    tags:
+      - iij06
+  - id: cc903c41-aa8a-47a8-a251-dbb7d13357a9
+    start: 01:45.44
+    end: 01:56.4
+    fields:
+      transcription: 最近の学生はあまり勉強しないという人もいるが、もし学生が皆給料をもらうようになったら、よく勉強するようになるかもしれない。
+    tags:
+      - iij06
+...
+name: 15 - Lesson 6 - KaiwaBun 1.mp3
+format: mp3
+duration: 01:23.749
+id: d4eef236-a092-48c6-98b9-21d280478790
+...
+name: 16 - Lesson 6 - KaiwaBun 2.mp3
+format: mp3
+duration: 01:18.211
+id: c51f1d2e-f0bb-46a6-990a-6ccef65f3d32
+...
+name: 20 - Lesson 7 - Main Text.mp3
+format: mp3
+duration: 01:52.091
+id: a674f283-db52-494e-9123-908190255369
+clips:
+  - id: b8e036b8-db2f-4dba-8add-ca86aca94975
+    start: 00:05.44
+    end: 00:08.84
+    fields:
+      transcription: 最近色々な新しい野菜が出ている。
+    tags:
+      - iij07
+  - id: 9aa4ae09-7d98-4d0c-9ea3-4665d4c8db93
+    start: 00:09.24
+    end: 00:21.32
+    fields:
+      transcription: 戦後、日本人の食生活が洋風になり、肉食が多くなったので、野菜も肉に合うものが必要になり、新しい野菜が次々に開発されているそうである。
+    tags:
+      - iij07
+  - id: 61063fb0-c3fa-4847-beb7-628fe5f9fc92
+    start: 00:21.9
+    end: 00:29.32
+    fields:
+      transcription: 例えば、サニーレタスと言う野菜は、十数年前に、肉料理に合うものとして開発された。
+      meaning: For example, over ten years ago, a vegetable called "sunny lettuce" was developed as something to go with meat dishes.
+    tags:
+      - iij07
+  - id: 2eec0fc8-6104-492f-b538-1e9ad6a9df64
+    start: 00:30.0
+    end: 00:36.02
+    fields:
+      transcription: カブと掛け合わせた新しい白菜は、柔らかくて、生で食べることができる。
+      meaning: A new kind of chinese cabbage crossed with turnips is so soft that it can be eaten raw.
+    tags:
+      - iij07
+  - id: 29c5a872-6b21-40fe-bd40-05687136c015
+    start: 00:36.72
+    end: 00:44.54
+    fields:
+      transcription: また、ナバナと言う、菜の花の葉の部分だけを使う新しい野菜も最近話題になっている。
+      meaning: Also, a new vegetable called "nabana" which puts just the leafy part of the rape blossom has excited a lot of interest lately.
+    tags:
+      - iij07
+  - id: 5de6eace-8a49-4316-9861-5cb00eaa4ac2
+    start: 00:45.18
+    end: 00:56.72
+    fields:
+      transcription: 新しい野菜の開発には、野菜を作る農家の人たちと、それを買って市場に出す人たちとの協力が必要となるが、その協力は容易ではない。
+      meaning: When developing new vegetables, the farmers growing the vegetables and the buyers who put them on the market will need to cooperate. This cooperation isn't easy.
+    tags:
+      - iij07
+  - id: 0bdb33a7-f988-4348-b93e-c7a1ae27e0ba
+    start: 00:57.18
+    end: 01:03.68
+    fields:
+      transcription: 市場に出す人は、「味が良いだけでなく、外観も綺麗でなければいけない」と言う。
+    tags:
+      - iij07
+  - id: a0eb6370-1675-4ca6-ad65-56bb4a48e045
+    start: 01:03.8
+    end: 01:13.46
+    fields:
+      transcription: 同じ大きさの袋に入れるために、例えばナバナは長さが二十センチ、それより長いものや短いものは商品にならない。
+      meaning: To fit bags of the same saze, nabanas, for example, must be 20 centimeters in length. Those that are longer or shorter won't get to be merchandise.
+    tags:
+      - iij07
+  - id: 6ace1bad-462e-46aa-9724-f24e10868548
+    start: 01:14.1
+    end: 01:22.08
+    fields:
+      transcription: 農家の人たちは、市場に出すことが出来なければ収入にならないので、あきらめて長さの合わないものを捨てる。
+    tags:
+      - iij07
+  - id: 965e2e00-e4d4-4f29-a4bd-0e0bc148453e
+    start: 01:22.22
+    end: 01:29.58
+    fields:
+      transcription: しかし、「味に変わりはないのに、なぜ捨てなければいけないのか」と言う疑問を感じるようである。
+      meaning: But some of them seem to wonder, "If there's no difference in taste, why throw them away?"
+    tags:
+      - iij07
+  - id: 3e7214a5-231b-4fd8-85a6-9e89580cf741
+    start: 01:30.26
+    end: 01:38.92
+    fields:
+      transcription: 農家の人たちは、先祖代々の土地で作った野菜に対して、生き物に対するような愛情を持っているに違いない。
+      notes: |-
+        sénzo
+        dáidai
+        aijou
+    tags:
+      - iij07
+  - id: 2198528a-02e8-4a94-81e6-9ea879f87377
+    start: 01:39.06
+    end: 01:44.82
+    fields:
+      transcription: しかし、現代の農作物は、工業品であり商品なのである。
+      meaning: Still, the agricultural produce of today is a product of industry, and a type of merchandise.
+      notes: nousákubutsu
+    tags:
+      - iij07
+  - id: 3ad03a03-7d4a-4fbe-8384-c92eeaace3e6
+    start: 01:44.96
+    end: 01:51.88
+    fields:
+      transcription: こうした変化は、時代の流れではあっても、農家の人にとっては寂しいことかもしれない。
+      meaning: Changes like these are a part of changing times, but for farmers, they are probably sad indeed.
+    tags:
+      - iij07
+...
+name: 21 - Lesson 7 - KaiwaBun 1.mp3
+format: mp3
+duration: 01:13.169
+id: 906ea9f0-4221-4062-ae37-e9699a1a2bdd
+...
+name: 22 - Lesson 7 - KaiwaBun 2.mp3
+format: mp3
+duration: 01:13.953
+id: e091a88a-100e-4f47-85f9-d08c35e00c54
+...
+name: 01 - Lesson 8 - Main Text.mp3
+format: mp3
+duration: 01:55.148
+id: 792cf78e-1964-48aa-ad62-2cf6b27e7a77
+clips:
+  - id: f3f3f18f-1dd4-4403-9c89-78458b68ddc1
+    start: 00:05.32
+    end: 00:09.06
+    fields:
+      transcription: 子供の登校拒否がよく問題になる。
+    tags:
+      - iij08
+  - id: d3ba3486-8984-4ab3-8987-020940e84e90
+    start: 00:09.54
+    end: 00:13.16
+    fields:
+      transcription: 普通の子供でも学校に行きたくない日はある。
+    tags:
+      - iij08
+  - id: fce92278-92e2-4fb8-ab85-a43b6dac3200
+    start: 00:13.44
+    end: 00:21.48
+    fields:
+      transcription: しかし登校拒否の場合は、ただ感情的に行きたくないのではなくて、病気に近い状態なのである。
+      meaning: But in the case of schoolphobia, they don't simply lack the desire to go to school from an emotional sense, but they have symptoms similar to an illness.
+    tags:
+      - iij08
+  - id: 417d07c9-10b5-44ad-8496-bfb376810648
+    start: 00:22.04
+    end: 00:26.88
+    fields:
+      transcription: カウンセリングが必要であるし、時には入院することもある。
+    tags:
+      - iij08
+  - id: d6fb98b8-05c8-4f75-ac5b-2f3648582da4
+    start: 00:27.58
+    end: 00:34.28
+    fields:
+      transcription: このようの子供のカウンセリングをしてきたある心理学者、新聞に次のようなことを書いていた。
+    tags:
+      - iij08
+  - id: f3500de2-3c28-4826-a66a-b59da5f620c4
+    start: 00:34.84
+    end: 00:38.88
+    fields:
+      transcription: 登校拒否は低血糖症と関係が深い。
+      notes: teikettoushou
+    tags:
+      - iij08
+  - id: 2b024afd-303b-44f4-9298-6abd05142f1c
+    start: 00:39.2
+    end: 00:45.46
+    fields:
+      transcription: 低血糖症の人は、疲れやすく、気力がなく、集中することができない。
+    tags:
+      - iij08
+  - id: 7c7efa55-3ef7-4826-a191-3e8031b4f155
+    start: 00:45.56
+    end: 00:50.04
+    fields:
+      transcription: 頭痛がする、夜よく眠れない。朝起きられない。
+      notes: |-
+        zutsuu
+        nemuru
+    tags:
+      - iij08
+  - id: 19782f58-e481-4c94-b15d-bc24261aad06
+    start: 00:50.26
+    end: 00:54.96
+    fields:
+      transcription: 感情を抑える力がないので、すぐごわがったり怒ったりする。
+    tags:
+      - iij08
+  - id: 303e3a22-8340-461d-843a-2687033bb031
+    start: 00:55.1
+    end: 00:57.7
+    fields:
+      transcription: 人に対して暴力を用いる。
+      notes: bóuryoku-o mochiíru
+    tags:
+      - iij08
+  - id: b28c1df0-a690-488e-ae2d-58de9c9e88fa
+    start: 00:58.04
+    end: 01:02.96
+    fields:
+      transcription: このような症状は、登校拒否の子供の様子と同じである。
+      meaning: These symptoms have the same appearance as schoolphobic children.
+    tags:
+      - iij08
+  - id: cf8eb112-980e-434f-93fc-b9a3afcfb4b0
+    start: 01:03.3
+    end: 01:09.58
+    fields:
+      transcription: 実際に検査してみても、登校拒否はほとんどが低血糖症だった。
+    tags:
+      - iij08
+  - id: bed8838b-b64b-447e-895e-bf66d5e662c1
+    start: 01:09.92
+    end: 01:17.88
+    fields:
+      transcription: 登校拒否の問題は、このような医学的な立場から考えることも必要であろう、と言う意見であった。
+      notes: |-
+        táchiba
+        íken
+    tags:
+      - iij08
+  - id: 37a6f86d-58d8-4f60-93ba-5df716f030fc
+    start: 01:18.74
+    end: 01:22.12
+    fields:
+      transcription: 疲れた時甘いものを食べると元気になる。
+    tags:
+      - iij08
+  - id: e5a3c23d-126f-4625-b39f-ac55a5b2809b
+    start: 01:22.3
+    end: 01:27.42
+    fields:
+      transcription: お茶の時間に親しい人と一緒に甘い物を食べるのは楽しい。
+    tags:
+      - iij08
+  - id: d8cc348a-2825-49c1-b326-a9d10984b62d
+    start: 01:27.58
+    end: 01:35.34
+    fields:
+      transcription: ところがその甘い物を食事を十分にとらないで食べ過ぎると、低血糖症になりやすいそうである。
+    tags:
+      - iij08
+  - id: 854c5bcb-3d77-4912-836c-af5591e5e284
+    start: 01:35.86
+    end: 01:44.82
+    fields:
+      transcription: しかし、スーパーに行けば綺麗なお菓子が並んでいる。テレビでは、人気スターが美味しそうにお菓子を食べてみせる。
+    tags:
+      - iij08
+  - id: ade9907c-dd35-4f9e-8cd9-a35b24c45ea9
+    start: 01:45.12
+    end: 01:54.8
+    fields:
+      transcription: 現代の子供たちは、甘い物の洪水の中で生活している。この洪水に対する強力な対策が必要である。
+      meaning: Today's children live in the midst of a torrent of sweet foods. To counter this torrent, powerful measures must be taken.
+      notes: |-
+        kouzui
+        kyouryoku-na taisaku
+    tags:
+      - iij08
+...
+name: 02 - Lesson 8 - KaiwaBun 1.mp3
+format: mp3
+duration: 01:16.33
+id: 5914bb62-aea9-46c3-bce7-5051b7dec2cf
+...
+name: 03 - Lesson 8 - KaiwaBun 2.mp3
+format: mp3
+duration: 01:10.661
+id: d3150029-dfe6-42ab-846b-4b0fa89b1da2
+clips:
+  - id: 7a594c6b-6702-4b2d-8ae9-40074ecdd24a
+    start: 00:02.04
+    end: 00:03.6
+...
+name: 07 - Lesson 9 - Main Text.mp3
+format: mp3
+duration: 01:53.554
+id: 7b500308-c3d3-4516-a2b8-7c4a7a068384
+clips:
+  - id: 01881d9b-a273-4e4e-bd85-e098affad332
+    start: 00:06.54
+    end: 00:14.26
+    tags:
+      - iij09
+  - id: ca437f9c-6a7d-48af-917b-bfd13f943c5f
+    start: 00:14.52
+    end: 00:17.72
+    tags:
+      - iij09
+  - id: 9b35684f-290d-400e-a3ed-c8f15c72be51
+    start: 00:18.1
+    end: 00:23.56
+    tags:
+      - iij09
+  - id: 802ea9c3-58b5-4dd3-a15a-c723ab88bb1a
+    start: 00:24.392
+    end: 00:30.32
+    tags:
+      - iij09
+  - id: bd448257-2a0d-4202-baaf-1fe6f1f661cf
+    start: 00:30.612
+    end: 00:36.952
+    tags:
+      - iij09
+  - id: 8bfdee66-08a5-46d3-8ec8-33fe39954dd7
+    start: 00:37.332
+    end: 00:43.432
+    tags:
+      - iij09
+  - id: 5de4f3cf-c7ee-4210-afe6-dbcb87fba5b3
+    start: 00:43.692
+    end: 00:47.432
+    tags:
+      - iij09
+  - id: 09a62149-b291-4208-8b78-5ab9e3535268
+    start: 00:47.872
+    end: 00:54.0
+    tags:
+      - iij09
+  - id: 6f36fa3f-edfc-4199-8d97-36bfa26c5b24
+    start: 00:54.312
+    end: 00:58.872
+    tags:
+      - iij09
+  - id: 52bb5ce6-dc80-4916-917e-f2871d01ecb4
+    start: 00:59.252
+    end: 01:11.492
+    tags:
+      - iij09
+  - id: 52ad117b-8c20-424b-ae6c-eda8492d2ca5
+    start: 01:12.212
+    end: 01:17.192
+    tags:
+      - iij09
+  - id: 25738df7-d07a-434e-b6d5-00a468f2542f
+    start: 01:17.432
+    end: 01:20.312
+    tags:
+      - iij09
+  - id: ae0bd1f1-85f5-44ae-b04b-878e7586506d
+    start: 01:20.652
+    end: 01:23.832
+    tags:
+      - iij09
+  - id: 046fd13d-bcea-42f6-ad3f-2a1fe11f1fbb
+    start: 01:24.332
+    end: 01:31.292
+    tags:
+      - iij09
+  - id: 5b108bf5-fa27-417c-aad3-803bd788583b
+    start: 01:31.832
+    end: 01:42.08
+    tags:
+      - iij09
+  - id: 3bddc73e-c7d5-44bb-a962-bda2e4767814
+    start: 01:42.272
+    end: 01:52.812
+    tags:
+      - iij09
+...
+name: 08 - Lesson 9 - KaiwaBun 1.mp3
+format: mp3
+duration: 01:11.262
+id: 25728061-f628-45e3-8426-f7ab54e5683a
+...
+name: 09 - Lesson 9 - KaiwaBun 2.mp3
+format: mp3
+duration: 01:13.064
+id: f4afc8c0-bac3-4ce6-a47a-25f2b01b40a8
+...
+name: 13 - Lesson 10 - Main Text.mp3
+format: mp3
+duration: 01:48.46
+id: e2b0ba37-464e-41c8-b176-759e3bac44b1
+clips:
+  - id: 886829d5-5fd1-4228-9389-546864b6a629
+    start: 00:05.34
+    end: 00:12.28
+    tags:
+      - iij10
+  - id: 860e37de-5948-444f-a308-8146988db83a
+    start: 00:12.72
+    end: 00:18.86
+    tags:
+      - iij10
+  - id: c6e0146a-60da-4e9b-9f9b-679cf6683214
+    start: 00:19.28
+    end: 00:25.8
+    tags:
+      - iij10
+  - id: f91745dd-f7a7-4dde-8699-bff69b78ead7
+    start: 00:26.82
+    end: 00:39.08
+    tags:
+      - iij10
+  - id: 39a1201a-99a8-43a4-ac0f-ac20d09a7c4c
+    start: 00:39.48
+    end: 00:49.28
+    tags:
+      - iij10
+  - id: b778d381-8926-4656-a8c4-f1f3c34dd426
+    start: 00:49.58
+    end: 00:54.86
+    tags:
+      - iij10
+  - id: 6178fc58-abcd-40c5-a25a-b8b84cdecbe0
+    start: 00:55.6
+    end: 01:00.14
+    tags:
+      - iij10
+  - id: 5a1f8331-5e18-4da4-a702-bde730f8a2b9
+    start: 01:00.64
+    end: 01:10.58
+    tags:
+      - iij10
+  - id: 2cdade9e-430a-4aff-9c8a-212e711747a3
+    start: 01:11.22
+    end: 01:27.72
+    tags:
+      - iij10
+  - id: 115f29cb-5a0d-4083-acf0-e545bda166eb
+    start: 01:28.38
+    end: 01:37.0
+    tags:
+      - iij10
+  - id: d67626c2-69d8-4dbb-be77-54a8fc622458
+    start: 01:37.38
+    end: 01:42.64
+    tags:
+      - iij10
+  - id: 1b992de2-c478-4db9-98c3-affeefc7cc95
+    start: 01:43.04
+    end: 01:48.46
+    tags:
+      - iij10
+...
+name: 14 - Lesson 10 - KaiwaBun 1.mp3
+format: mp3
+duration: 01:12.307
+id: 6e2cfdfc-f7fa-424d-8e96-7f9a814c694e
+...
+name: 15 - Lesson 10 - KaiwaBun 2.mp3
+format: mp3
+duration: 01:06.978
+id: 7c0b549c-19f9-42d2-8207-600731a86e3b
+...
+name: 19 - Lesson 11 - Main Text.mp3
+format: mp3
+duration: 02:09.985
+id: 2438c349-06f9-4ad9-b092-26406c93f6ce
+clips:
+  - id: 9a48e2f2-59e3-4f4d-8ebf-ce7a3d1fe6a3
+    start: 00:05.92
+    end: 00:09.74
+    tags:
+      - iij11
+  - id: 0d1ca109-f12f-4e6b-8528-ca4fec937209
+    start: 00:10.38
+    end: 00:14.76
+    tags:
+      - iij11
+  - id: 854262cb-0e87-4085-8848-87eadce55e65
+    start: 00:15.46
+    end: 00:29.2
+    tags:
+      - iij11
+  - id: 821e42d5-3057-4628-95c3-ea2e2004b520
+    start: 00:29.82
+    end: 00:40.08
+    tags:
+      - iij11
+  - id: 4e7038cf-a74d-45c3-8eff-a1c93f6e11fd
+    start: 00:40.98
+    end: 00:53.22
+    tags:
+      - iij11
+  - id: 8f8d830a-ae9a-4d06-867c-03383f8a1857
+    start: 00:53.92
+    end: 01:00.28
+    tags:
+      - iij11
+  - id: 3aab282f-ef0e-4fdc-a72c-b5d59f73e4c5
+    start: 01:01.16
+    end: 01:08.46
+    tags:
+      - iij11
+  - id: 23195efc-3a71-477a-b2ba-2b9e4888ec0a
+    start: 01:08.86
+    end: 01:13.08
+    tags:
+      - iij11
+  - id: 1594b8d3-e377-4f87-9280-7677301d2088
+    start: 01:13.5
+    end: 01:19.54
+    tags:
+      - iij11
+  - id: 62c2c392-069b-40bb-a899-5ec9e8e57c3d
+    start: 01:20.2
+    end: 01:28.32
+    tags:
+      - iij11
+  - id: 36a28c30-9c67-45c1-b73c-be47cf0a76a4
+    start: 01:28.8
+    end: 01:36.5
+    tags:
+      - iij11
+  - id: edf2b5cc-6bcd-4bad-91a2-dd6c4da46870
+    start: 01:37.02
+    end: 01:41.28
+    tags:
+      - iij11
+  - id: 6ef3970d-eb82-4e58-9360-0219444b133e
+    start: 01:41.78
+    end: 01:51.86
+    tags:
+      - iij11
+  - id: b07e6178-a9c4-4f56-9a75-7bdbf323278e
+    start: 01:52.26
+    end: 01:57.76
+    tags:
+      - iij11
+  - id: 834963c3-873d-4e14-8823-8ef39c3ee8db
+    start: 01:58.5
+    end: 02:02.14
+    tags:
+      - iij11
+  - id: b32f52c9-6a82-4988-8d7a-97ea4d507a0d
+    start: 02:02.74
+    end: 02:09.6
+    tags:
+      - iij11
+...
+name: 20 - Lesson 11 - KaiwaBun 1.mp3
+format: mp3
+duration: 01:22.808
+id: 09b769bf-9c2b-4187-b638-6eb0f5e9b5a5
+...
+name: 21 - Lesson 11 - KaiwaBun 2.mp3
+format: mp3
+duration: 01:12.829
+id: 90e3947a-1a19-4095-903a-7a7f6e4c0b2f
+...
+name: 01 - Lesson 12 - Main Text.mp3
+format: mp3
+duration: 01:56.454
+id: bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d
+clips:
+  - id: b634719b-0a46-4169-abac-0d97cf24a212
+    start: 00:06.5
+    end: 00:15.18
+    tags:
+      - iij12
+  - id: 9ce8f369-654c-4ad9-a7db-629a53789ab4
+    start: 00:15.74
+    end: 00:25.46
+    tags:
+      - iij12
+  - id: 5b1b68dd-06c4-4204-8ec8-a2ac86565520
+    start: 00:26.06
+    end: 00:34.26
+    tags:
+      - iij12
+  - id: 32d25085-3565-4435-9eb1-bb5ac607f64e
+    start: 00:34.96
+    end: 00:37.8
+    tags:
+      - iij12
+  - id: a3709a4e-399e-45cb-a535-6b0badf21ddc
+    start: 00:38.68
+    end: 00:43.24
+    tags:
+      - iij12
+  - id: 9aafa697-76b4-40d0-91e7-efca49b0ef50
+    start: 00:43.78
+    end: 00:54.2
+    tags:
+      - iij12
+  - id: 96bf9327-019c-4116-a21c-cb81ed82a4cc
+    start: 00:54.64
+    end: 01:01.08
+    tags:
+      - iij12
+  - id: a60be966-7153-48b6-87c8-7b1c34f592b4
+    start: 01:01.7
+    end: 01:08.68
+    tags:
+      - iij12
+  - id: 0a581540-e071-4101-94f8-37dc7abb7d4e
+    start: 01:09.66
+    end: 01:19.04
+    tags:
+      - iij12
+  - id: d481b65f-912d-4d56-ba88-8cca7b6b7844
+    start: 01:19.62
+    end: 01:25.56
+    tags:
+      - iij12
+  - id: b9829d3c-907a-4022-be35-4b410d2a0d1c
+    start: 01:26.12
+    end: 01:32.64
+    tags:
+      - iij12
+  - id: 7ccda4fd-7d9a-4671-8c8e-1a30bd58fae3
+    start: 01:33.6
+    end: 01:42.16
+    tags:
+      - iij12
+  - id: 491e5c3a-a3f8-4e32-bbeb-5220dd00dc9a
+    start: 01:42.32
+    end: 01:49.88
+    tags:
+      - iij12
+  - id: 35b9bc63-3277-432a-802e-783eee814e19
+    start: 01:50.64
+    end: 01:55.68
+    tags:
+      - iij12
+...
+name: 02 - Lesson 12 - KaiwaBun 1.mp3
+format: mp3
+duration: 01:24.715
+id: 37a03e10-ef66-4967-aeb0-c5844dd350cf
+...
+name: 03 - Lesson 12 - KaiwaBun 2.mp3
+format: mp3
+duration: 01:02.824
+id: 7194021e-76de-4d73-be0a-a8a4ddec3be2
+...
+name: 07 - Lesson 13 - Main Text.mp3
+format: mp3
+duration: 02:02.697
+id: 38bbdaf4-d6b8-40b0-88fd-909d9e2acb04
+clips:
+  - id: ea647df8-c1dd-4c8b-9c0b-ffa9e2804c1d
+    start: 00:06.24
+    end: 00:11.84
+    tags:
+      - iij13
+  - id: 2fcda3cb-a0a1-40c0-b589-bac7d81bb4d2
+    start: 00:12.62
+    end: 00:16.6
+    tags:
+      - iij13
+  - id: bce1f5d3-353b-4d4a-9a21-b5415138be9f
+    start: 00:16.92
+    end: 00:23.5
+    tags:
+      - iij13
+  - id: 320cd06d-8003-490d-939e-7cd3d194e46b
+    start: 00:24.0
+    end: 00:28.42
+    tags:
+      - iij13
+  - id: 0fbd53eb-6ef8-4306-9092-6dc3863f3894
+    start: 00:28.96
+    end: 00:40.36
+    tags:
+      - iij13
+  - id: ae5c52e9-8492-4966-aa55-c9bcf3233221
+    start: 00:41.12
+    end: 00:47.44
+    tags:
+      - iij13
+  - id: 1144d78b-9f1c-4e85-8fc6-2bec0a51453b
+    start: 00:47.82
+    end: 00:58.58
+    tags:
+      - iij13
+  - id: 87f60a48-7612-46b7-b149-f03e0571ef8d
+    start: 00:59.52
+    end: 01:05.92
+    tags:
+      - iij13
+  - id: 75a576a7-589e-4a62-b339-6d915a5d7323
+    start: 01:06.58
+    end: 01:11.9
+    tags:
+      - iij13
+  - id: 8bb942f9-46d8-4aba-89cb-1fcf9a54bbec
+    start: 01:12.4
+    end: 01:16.78
+    tags:
+      - iij13
+  - id: d432d4da-af81-48da-8aaa-4d525c9c769c
+    start: 01:17.28
+    end: 01:23.32
+    tags:
+      - iij13
+  - id: 7581e4de-3e49-484f-b9bc-ecbec306a62e
+    start: 01:23.94
+    end: 01:30.58
+    tags:
+      - iij13
+  - id: ad2028ea-b3fb-4476-bafb-11607890e22d
+    start: 01:31.24
+    end: 01:39.74
+    tags:
+      - iij13
+  - id: 5f3b16fc-8bfa-4e7c-b3e8-9b32e0a0b1e3
+    start: 01:39.88
+    end: 01:43.78
+    tags:
+      - iij13
+  - id: 310e5419-75fc-4367-be81-88648e8f9484
+    start: 01:44.08
+    end: 01:49.02
+    tags:
+      - iij13
+  - id: a7e924c1-5b74-40e4-8c87-fba6de0afa58
+    start: 01:49.6
+    end: 01:56.98
+    tags:
+      - iij13
+  - id: 98d623c2-54d1-4f49-9932-bbac4ad010ea
+    start: 01:57.44
+    end: 02:02.22
+    tags:
+      - iij13
+...
+name: 08 - Lesson 13 - KaiwaBun 1.mp3
+format: mp3
+duration: 01:14.971
+id: 41023815-b90c-48f4-8746-c936b910d966
+clips:
+  - id: f973e7e7-e20d-4269-92f3-adc99af88376
+    start: 00:09.68
+    end: 00:14.36
+    tags:
+      - iij13
+  - id: b437580c-bbdf-410b-9174-209636c5ecee
+    start: 00:14.52
+    end: 00:20.44
+    tags:
+      - iij13
+  - id: 8494b78d-f5d3-4df7-b8c7-4761d212d03e
+    start: 00:20.5
+    end: 00:27.04
+    tags:
+      - iij13
+  - id: 8f0a68f9-594d-4932-8961-b3226fea083e
+    start: 00:27.12
+    end: 00:33.2
+    tags:
+      - iij13
+  - id: d62c3b92-d662-4310-83aa-b2076044ec5b
+    start: 00:33.28
+    end: 00:40.06
+    tags:
+      - iij13
+  - id: 9a58d171-249a-4bc6-95a2-5d23ab3279c9
+    start: 00:40.2
+    end: 00:45.48
+    tags:
+      - iij13
+  - id: 276a3c9d-30f1-43c5-99f2-2bdbb48af347
+    start: 00:45.76
+    end: 00:54.34
+    tags:
+      - iij13
+  - id: 2158bd69-4dc3-4ff7-ba48-901c6d4b745d
+    start: 00:54.46
+    end: 01:05.58
+    tags:
+      - iij13
+  - id: 5e4d4428-a4be-4183-bafa-06fb9b57e900
+    start: 01:05.68
+    end: 01:11.28
+    tags:
+      - iij13
+  - id: dea5c056-4539-4954-aa22-a4c8407c0de3
+    start: 01:11.36
+    end: 01:14.5
+    tags:
+      - iij13
+...
+name: 09 - Lesson 13 - KaiwaBun 2.mp3
+format: mp3
+duration: 01:11.445
+id: 5fb3e4fb-34d6-4cb2-abb5-a60326680749
+clips:
+  - id: 3de60897-f443-414b-84c7-4af3de50d72e
+    start: 00:05.34
+    end: 00:11.26
+    tags:
+      - iij13
+  - id: e4b35773-36c9-4eca-94f8-f3d77057a544
+    start: 00:11.52
+    end: 00:24.4
+    tags:
+      - iij13
+  - id: 8125d260-9ef3-4d87-a637-7aac0f5fbfdc
+    start: 00:24.46
+    end: 00:30.82
+    tags:
+      - iij13
+  - id: d41b102a-b3c9-4b04-935b-280ea0af7278
+    start: 00:31.12
+    end: 00:38.52
+    tags:
+      - iij13
+  - id: a12a83a0-6575-4823-9b9a-ae510faaa588
+    start: 00:38.58
+    end: 00:43.06
+    tags:
+      - iij13
+  - id: d4374571-ef67-4407-a0b6-8285f780f506
+    start: 00:43.14
+    end: 00:52.06
+    tags:
+      - iij13
+  - id: b835ab71-0275-4e87-9f98-50c6839b28d3
+    start: 00:52.22
+    end: 01:10.6
+    tags:
+      - iij13
+...
+name: 13 - Lesson 14 - Main Text.mp3
+format: mp3
+duration: 02:14.74
+id: 93c4dc99-5d7d-43b7-8e6d-9998f746f0ae
+clips:
+  - id: fcedda2c-f5aa-4b31-ab1f-a7f428b2c94f
+    start: 00:05.64
+    end: 00:12.36
+    fields:
+      transcription: 米国のある大学で、体の不自由な人の世話をするサルを訓練しているそうである。
+    tags:
+      - iij14
+  - id: 01790f39-76e9-40b5-b973-cbd3b44977dd
+    start: 00:13.48
+    end: 00:17.02
+    fields:
+      transcription: テレビ番組でその様子を紹介していた。
+    tags:
+      - iij14
+  - id: ccb6a616-ce6c-4e64-ad52-94b48a396ee8
+    start: 00:18.12
+    end: 00:24.74
+    fields:
+      transcription: 交通事故などで体が不自由になった人のために、小さなサルが色々なことをする。
+    tags:
+      - iij14
+  - id: 4fd78835-4864-4303-975d-19fba114f0a6
+    start: 00:26.44
+    end: 00:38.94
+    fields:
+      transcription: ジュースをコップに注いで、ストローを差し込んだり、車椅子のボタンを押したり、その人の顔をタオルでふいたり、一生懸命に世話をする。
+    tags:
+      - iij14
+  - id: 3e19acf9-4ba5-49a0-8af0-30f7526f6589
+    start: 00:39.76
+    end: 00:47.92
+    fields:
+      transcription: |-
+        見ていて感心た。
+
+        もっと感心したのは、こうしたサルの訓練の家庭である。
+    tags:
+      - iij14
+  - id: 2800efdc-21b6-467b-ba1f-514fd4757261
+    start: 00:49.36
+    end: 00:54.38
+    fields:
+      transcription: 生まれたばかりのサルを子供のいない老人夫婦に預ける。
+    tags:
+      - iij14
+  - id: e2eb093e-9188-41cb-a7ac-96f6b514d48d
+    start: 00:55.06
+    end: 01:02.98
+    fields:
+      transcription: 老人夫婦は、ミルクを飲ませ、おむつをとりかえ、優しい言葉をかけ、大切に育てる。
+    tags:
+      - iij14
+  - id: 8df88477-292a-4cdd-877e-62cd899c30c2
+    start: 01:04.2
+    end: 01:08.68
+    fields:
+      transcription: その可愛がりかたは、人間の赤ん坊に対する以上である。
+    tags:
+      - iij14
+  - id: 20e21733-71d4-405a-8b26-6fac999fc30d
+    start: 01:10.52
+    end: 01:19.86
+    fields:
+      transcription: サルが成長すると、今度は大学の女性研究者が訓練するのであるが、失敗してもけっして叱らない。
+    tags:
+      - iij14
+  - id: 294a066d-e8d4-4377-8ecb-0225bbc44a4d
+    start: 01:21.02
+    end: 01:27.84
+    fields:
+      transcription: よくできると必ず「いい子だ、いい子だ」とほめながら、サルの好きな食べ物を与える。
+    tags:
+      - iij14
+  - id: 64a7a4e5-660d-45c3-8c0c-ba372aced7e8
+    start: 01:29.14
+    end: 01:32.0
+    fields:
+      transcription: 実に優しく、我慢強い。
+    tags:
+      - iij14
+  - id: e2d56ce9-e584-4f82-a42a-352537a699d2
+    start: 01:33.6
+    end: 01:39.42
+    fields:
+      transcription: 人間の世話ができるサルを育てるまでの苦労は、大変なものである。
+    tags:
+      - iij14
+  - id: 7830af54-57ac-4046-afd4-8311e6b68f48
+    start: 01:40.94
+    end: 01:46.26
+    fields:
+      transcription: こんなに苦労してサルを訓練することには、疑問をもつ人もいるであろう。
+    tags:
+      - iij14
+  - id: e7fc1b27-a8c2-4c77-b0d2-0a4e29366f89
+    start: 01:47.38
+    end: 01:53.56
+    fields:
+      transcription: サルを可愛がるだけの愛情と努力で人間の世話をする方が能率的かもしれない。
+    tags:
+      - iij14
+  - id: d3089781-1366-46cd-9001-abd83be5ec1c
+    start: 01:55.18
+    end: 02:03.88
+    fields:
+      transcription: それは別として、優しいサルは愛情の深い育てかたによって生まれるということを、この番組は示している。
+    tags:
+      - iij14
+  - id: b2c8bc5a-b992-41fd-901b-32473a5f62f3
+    start: 02:04.94
+    end: 02:13.94
+    fields:
+      transcription: そして、この場合、「サル」を「人間」とおきかえて考えることができるのだということを、見る人に感じさせるのである。
+    tags:
+      - iij14
+...
+name: 14 - Lesson 14 - KaiwaBun 1.mp3
+format: mp3
+duration: 01:17.087
+id: e1197a41-777a-46db-9a22-a2055f3150dc
+clips:
+  - id: 8df2416e-978f-48d5-a722-dc568861c63c
+    start: 00:09.36
+    end: 00:17.66
+    fields:
+      transcription: |-
+        この間、テレビで面白い番組を見ました。
+        どの番組ですか。
+        サルガ人間の世話をするんです。
+        へえ？
+    tags:
+      - iij14
+  - id: 9d8aeb13-7ebe-4202-a2b6-757665023896
+    start: 00:17.76
+    end: 00:25.14
+    fields:
+      transcription: |-
+        交通事故などで体が不自由になった人がいますね。
+        ええ、手や足が動かなくなった人など。
+        そうです。
+    tags:
+      - iij14
+  - id: c9ecf9b7-d47e-44e5-a4ec-cfe9a82a0c0b
+    start: 00:25.26
+    end: 00:38.54
+    fields:
+      transcription: |-
+        そう言う人のために、ジュースをコップに注いで、ストローを差し込んだり、車椅子のボタンを押したり…
+
+        へえ？
+
+        その人の顔をタオルで拭いたり。
+    tags:
+      - iij14
+  - id: 719719f7-416e-4ea7-8cc1-90e18c313d3a
+    start: 00:38.72
+    end: 00:43.06
+    fields:
+      transcription: |-
+        そこまで訓練するのは大変でしょうね。
+        ええ、そうなんです。
+    tags:
+      - iij14
+  - id: 76203dc0-32b1-445e-b90a-4f53e9227eb5
+    start: 00:43.28
+    end: 00:50.88
+    fields:
+      transcription: 大学の女性の研究者がやっていましたけど、それはそれは我慢強くて、優しいんです。
+    tags:
+      - iij14
+  - id: ff9b1659-17e1-4c99-95a9-a5bc0c3d44fa
+    start: 00:50.96
+    end: 00:58.84
+    fields:
+      transcription: |-
+        そう言うサルは生まれた時から子供のいないお年寄りが大切に可愛がって育てるですって。
+
+        なるほどねえ。
+    tags:
+      - iij14
+  - id: 306b3b2e-cc2a-44e5-9234-eceaefaffee3
+    start: 00:58.92
+    end: 01:02.76
+    fields:
+      transcription: だから、大人しくて優しいサルになるんですね。
+    tags:
+      - iij14
+  - id: 79da2e2d-75d0-4e81-aa87-052b7417bca5
+    start: 01:03.02
+    end: 01:04.42
+    fields:
+      transcription: 人間だってそうですよ。
+    tags:
+      - iij14
+  - id: 40a33ba0-2c2b-4376-81a8-cc3ec86ccd00
+    start: 01:04.56
+    end: 01:16.12
+    fields:
+      transcription: |-
+        え？
+        だから、女性は男性に親切にするべきなんですよ。
+        はあ？
+        そうしないと、男性も親切にならない。その番組は、そう言ってるんですよ、きっと。
+      notes: |-
+        はあ is more formal than え.
+        べき used in conversations sounds "a little overblown."
+    tags:
+      - iij14
+...
+name: 15 - Lesson 14 - KaiwaBun 2.mp3
+format: mp3
+duration: 01:10.269
+id: 2554f050-9bdc-4e7d-8d0f-13ee75d6fadc
+...
+name: 19 - Lesson 15 - Main Text.mp3
+format: mp3
+duration: 02:15.576
+id: c5cbece6-de91-443b-bec6-a8dc619b9ccb
+clips:
+  - id: 996f274f-d340-4924-bd64-ee28b72d7225
+    start: 00:05.68
+    end: 00:12.12
+    tags:
+      - iij15
+  - id: c916e4e7-08a6-410e-bef4-3ebefc055ee4
+    start: 00:13.06
+    end: 00:18.62
+    tags:
+      - iij15
+  - id: e13bc5a4-052e-458d-9db5-03b9ae08e938
+    start: 00:19.88
+    end: 00:24.26
+    tags:
+      - iij15
+  - id: d80f9ce5-e603-4469-bb94-0f2d4a597f75
+    start: 00:26.66
+    end: 00:30.2
+    tags:
+      - iij15
+  - id: 31572bf9-2bd9-4083-92bb-f67d85e874b2
+    start: 00:32.12
+    end: 00:41.26
+    tags:
+      - iij15
+  - id: 1172fb7d-b697-44b7-8910-4b592d515189
+    start: 00:43.62
+    end: 00:53.52
+    tags:
+      - iij15
+  - id: 64d89635-bef1-4ea3-95ad-b353d48d7203
+    start: 00:54.74
+    end: 01:02.2
+    tags:
+      - iij15
+  - id: 47751ac7-e79d-4acd-b345-4f365ee3fd7a
+    start: 01:04.52
+    end: 01:13.58
+    tags:
+      - iij15
+  - id: c23f707f-5b1e-4a55-98a4-a1ff3bf10d0a
+    start: 01:14.96
+    end: 01:20.54
+    tags:
+      - iij15
+  - id: 4a3bef11-9322-4c45-8414-b69f1389f0aa
+    start: 01:22.06
+    end: 01:27.76
+    tags:
+      - iij15
+  - id: 6ba86344-e977-4878-8a51-4c1df5ccd413
+    start: 01:28.5
+    end: 01:33.2
+    tags:
+      - iij15
+  - id: 47ace6c3-87fd-41ec-80a6-b16fbb4374ac
+    start: 01:34.52
+    end: 01:43.1
+    tags:
+      - iij15
+  - id: fd85a15c-162b-4537-83e4-d0597f5692d3
+    start: 01:44.46
+    end: 01:52.84
+    tags:
+      - iij15
+  - id: 11b1d1c1-9c1d-4903-82ad-d6e78f501d63
+    start: 01:53.96
+    end: 01:57.94
+    tags:
+      - iij15
+  - id: d4f4e6d4-5141-4532-9187-1d8eba858887
+    start: 01:58.68
+    end: 02:09.26
+    tags:
+      - iij15
+  - id: 4293e611-4362-4ed8-beb6-966e6bc84df1
+    start: 02:10.82
+    end: 02:15.42
+    tags:
+      - iij15
+...
+name: 20 - Lesson 15 - KaiwaBun 1.mp3
+format: mp3
+duration: 01:14.527
+id: ec532673-e145-4b29-89d8-de3c1a6af4ef
+clips:
+  - id: 2c988b32-4637-4741-82f3-8e0ad5e3effe
+    start: 00:08.28
+    end: 00:18.54
+    tags:
+      - iij15
+  - id: 591e31f7-23e9-4955-9628-5e15de5d1358
+    start: 00:18.8
+    end: 00:26.98
+    tags:
+      - iij15
+  - id: 3f42c3c4-cf70-49d4-a8ee-0314e94b76d1
+    start: 00:27.3
+    end: 00:34.6
+    tags:
+      - iij15
+  - id: 4e2df3c8-e457-4386-9811-84f95e40e062
+    start: 00:34.88
+    end: 00:44.86
+    tags:
+      - iij15
+  - id: 6f8f5eb2-6eb3-490f-b312-a496496b473b
+    start: 00:45.08
+    end: 00:52.56
+    tags:
+      - iij15
+  - id: f03f120a-089b-4516-b0c3-7a02080033dc
+    start: 00:52.66
+    end: 01:00.44
+    tags:
+      - iij15
+  - id: 3ee40c06-4c69-43ff-aa1e-d18bb053b1f1
+    start: 01:00.94
+    end: 01:04.12
+    tags:
+      - iij15
+  - id: 37d10040-89bf-493c-90d3-1d200ccfbff6
+    start: 01:04.18
+    end: 01:14.24
+    tags:
+      - iij15
+...
+name: 21 - Lesson 15 - KaiwaBun 2.mp3
+format: mp3
+duration: 01:11.68
+id: a7648515-0cca-4448-810c-6278e000be63
+...
+name: L01-1_yomimono.mp3
+format: mp3
+duration: 04:40.294
+id: 642f1f40-f17c-4bee-9d6f-8dda7b80825a
+...
+name: L01-2_kaiwabun_1.mp3
+format: mp3
+duration: 03:37.26
+id: d2bc9310-9837-47e5-88ed-69250d02613d
+...
+name: L01-2_kaiwabun_2.mp3
+format: mp3
+duration: 01:54.077
+id: 30055255-9fff-4369-8cda-daa3397d707a
+...
+name: L01-3_kaiwa_renshuu_1.mp3
+format: mp3
+duration: 01:06.09
+id: e181dac2-0159-4f6b-ba16-0aa8fbff9cad
+...
+name: L01-3_kaiwa_renshuu_2.mp3
+format: mp3
+duration: 00:55.51
+id: f944eae3-f2d8-4e69-9191-c166d1225225

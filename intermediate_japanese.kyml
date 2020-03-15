@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-03-15T17:38:57Z
+timestamp: 2020-03-15T17:50:51Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -194,6 +194,13 @@ clips:
         あ、そうですか。海外じゃなくて。
         ええ。海外へ行くほどの金はないんですよ。
         そんなことないでしょうけど。
+      meaning: |-
+        A: Do you have any plans for New Year's?
+        B: No, nothing firm at the moment.
+        A: Oh.
+        B: We're thinking of staying in a hotel in the city.  A: Really? Instead of taking a trip abroad...
+        B: We're a little short of funds for an overseas vacation.
+        A: Well, I doubt that
     tags:
       - iij01
   - id: e7ce4548-c744-4700-b2c5-5e8c73306ae5
@@ -205,6 +212,11 @@ clips:
         うちは毎年昔のとおりにお正月をやります。
         そうですか。
         大掃除をして、お餅をついて、お料理を作って。
+      meaning: |-
+        B: Are you going somewhere?
+        A: We'll be celebrating New Year's like every year. In the traditional way. 
+        B: I see.
+        A: We'll clean the house, pound rice cakes, make the traditional dishes.
     tags:
       - iij01
   - id: 15d5f663-c687-4ffc-af16-5c95d92c5959
@@ -215,6 +227,10 @@ clips:
         大変ですね。
         ええ。でも、主人の母が家でお正月をやりたいと言うので。
         そうですか。
+      meaning: |-
+        B: That must be exhausting.
+        A: It is. But my husband's mother insists on celebrating New Year's at home.
+        B: Oh? 
     tags:
       - iij01
   - id: 7851a76a-6a5b-49f2-bf18-be768900cdcc
@@ -225,6 +241,9 @@ clips:
         うちはアパートで門も床の間もないから、正月の飾りも十分できないんですよ。
         都会の住宅はみんなそうですね。
         ですから、広いホテルに泊まってゆっくりするつもりです。
+      meaning: |-
+        B: Our family lives in an apartment. With no gate or alcove, so it's hard to display the New Years decorations properly.
+        A: Homes in the city are often like that, arent they? B: Uh-huh. Which is why we plan to stay in a spacious hotel. And enjoy the New Yeads season in comfort.
     tags:
       - iij01
 ---
@@ -242,6 +261,11 @@ clips:
         田舎へ帰るよ。
         いいわね、田舎があって。
         あまり帰りたくないけど、親が待っているから、しかたがないんだ。
+      meaning: |-
+        A: What're your plans for New Years?
+        B: I'll be going back to my hometown.
+        A: Having a hometown to return to must be nice.
+        B: I'm not too happy about going back. But my parents will be expecting me, so I don't have much of a choice.
     tags:
       - iij01
   - id: 601edd9a-927a-47eb-bd04-c80def2b6381
@@ -253,6 +277,11 @@ clips:
         田舎は退屈だもの。
         でも、お友達がいるでしょ。
         うん。友達に会うのは楽しいけど、親戚は面倒くさいよ。
+      meaning: |-
+        A: Why don't you want to go home?
+        B: Because it's so dull.
+        A: But won't you be able to see your old friends?
+        B: Meeting friends is fun, but relatives are a nuisance.
     tags:
       - iij01
   - id: 7f12ddfb-f63e-4aab-bea5-552b1250a229
@@ -263,6 +292,10 @@ clips:
         でも、お酒飲んだり、ごちそう食べたりするんでしょ。
         うん。でも僕、正月の料理はあんまり好きじゃないんだ。
         私は好き。いつもと違うお料理だから、楽しいわ。
+      meaning: |-
+        A: Still, aren't you going to have a lot to eat and drink?
+        B: Yeah But rm not particularly fond of New Year's dishes.
+        A: Really? I am. The food is different from what I always eat. It's enjoyable.
     tags:
       - iij01
   - id: 4e98ffc6-3668-4a7f-8b6a-1580878a6dc7
@@ -273,13 +306,22 @@ clips:
         元日は朝早く起きて、近所の神社に行くんだ。これが辛いよ。
         あら、そう。私、初詣は好き。気持ちがいいわ。
       meaning: |-
-        What about getting up early on New Year's day--and going to the neighborhood shrine? THAT's a trying experience.
-        Do you think so? I personally like visiting shrines early in the morning. I find it... refreshing.
+        B: What about getting up early on New Years Day—and going to the neighborhood shrine? THAT's a trying experience.
+        A: You think so? I personally like visiting shrines early in the morning. I find it... refreshing.
     tags:
       - iij01
   - id: e09eef36-43aa-428e-82b2-048367c66011
     start: 00:46.66
     end: 00:54.72
+    fields:
+      transcription: |-
+        ふうん、君、田舎の正月が好きなんだね。
+        そうね。
+        僕の代わりに田舎へ行ってくれない？
+      meaning: |-
+        B: Hmm. You're really a fan of the hometown New Years, aren't you?
+        A: Thats right.
+        B: Then how about taking my place?
     tags:
       - iij01
 ---
@@ -293,6 +335,7 @@ clips:
     end: 00:12.0
     fields:
       transcription: 人間の手はいろいろなことをするが、足のほうはあまり働かない。
+      meaning: "Although the human hand performs many functions, our feet hardly do any work at all. "
     tags:
       - iij02
   - id: cdb0f1aa-ba95-4dbc-8528-049ef264ad58
@@ -300,6 +343,7 @@ clips:
     end: 00:16.62
     fields:
       transcription: 歩くことと走ることのほかは大した仕事をしない。
+      meaning: Apart from walking and running, their workload is scant.
     tags:
       - iij02
   - id: c4e213ba-920f-4b99-9c46-ac20883e0288
@@ -307,6 +351,7 @@ clips:
     end: 00:22.58
     fields:
       transcription: 特に足のうらは何も重要な働きはしていないように見える。
+      meaning: " Whats more, the backs of our feet perform scarcely any major function. "
     tags:
       - iij02
   - id: 108e31d1-fae5-4955-a906-e0b194e1f337
@@ -314,6 +359,7 @@ clips:
     end: 00:29.7
     fields:
       transcription: ところが、足のうらの働きについて実験した結果、面白いことがわかったそうだ。
+      meaning: "Or so it had seemed, until a series of experiments on their activity came up with some interesting results. "
     tags:
       - iij02
   - id: a22d94ee-8959-4248-807b-5e9f497624ba
@@ -321,6 +367,7 @@ clips:
     end: 00:34.66
     fields:
       transcription: 十二人の若い男女を二つの組にわける。
+      meaning: "Twelve men and women, all of them young, were divided into two groups. "
     tags:
       - iij02
   - id: afa843b9-a206-4b70-b9cf-a151a470afaa
@@ -328,6 +375,7 @@ clips:
     end: 00:41.38
     fields:
       transcription: 一定の時間、いっぽう組の人たちは、はだしになって竹をふみ続ける。
+      meaning: "After taking off their shoes, the first group repeatedly stamped their feet on strips of bamboo for a specified period of time. "
     tags:
       - iij02
   - id: fac39827-01e9-4ad8-b0ca-59924f624206
@@ -335,6 +383,7 @@ clips:
     end: 00:47.1
     fields:
       transcription: もういっぽうの組は、高いいすにこしかけて、何もしないでいる
+      meaning: "The second group simply sat motionless on a tall chair. "
     tags:
       - iij02
   - id: feecb4b5-2987-43b3-94c5-103cd32cffce
@@ -342,6 +391,7 @@ clips:
     end: 00:54.64
     fields:
       transcription: いすが高いので、足はゆかにつかないから、足のうらには何の刺激もない。
+      meaning: "The chair's height prevented their feet from touching the ground—and kept the backs of their feet from receiving any stimulus. "
     tags:
       - iij02
   - id: 708aafbb-234f-4236-9a2c-fb197574fc36
@@ -349,6 +399,7 @@ clips:
     end: 00:59.12
     fields:
       transcription: そのあと両方の組が同じゲームをする。
+      meaning: "Later, the two groups took part in a game. "
     tags:
       - iij02
   - id: 833e3e3d-dbf8-44d5-b294-5f5eb33c9016
@@ -356,6 +407,7 @@ clips:
     end: 01:09.1
     fields:
       transcription: テレビの画面に色の名前を表す漢字が出るが、その漢字の表す色と、漢字そのものの色はちがっている。
+      meaning: "The names of colors were shown in kanji on a video monitor. The kanji were displayed in colors that differed from their meaning; "
     tags:
       - iij02
   - id: f298e99a-238e-422e-9c57-b1c68e104869
@@ -363,6 +415,7 @@ clips:
     end: 01:13.34
     fields:
       transcription: たとえば白い線で書いた「青」という字が出る。
+      meaning: 'For example, the character for "blue" was drawn with white lines. '
       notes: jí-ga déru
     tags:
       - iij02
@@ -371,6 +424,7 @@ clips:
     end: 01:18.28
     fields:
       transcription: それを見て、いそいで「青」の札をさがして高くあげる。
+      meaning: "After looking at the kanji for blue, the groups had to hastily search for a card displaying it, then raise this card high in the air. "
     tags:
       - iij02
   - id: 53df8e93-daaf-424e-a654-4f31abe161c9
@@ -378,6 +432,7 @@ clips:
     end: 01:28.48
     fields:
       transcription: 何回も続けると、疲れて間違いが多くなるが、二つの組のうち、竹をふんだ人達のほうが成績がよかった。
+      meaning: "After many attempts, the groups grew tired, and their mistakes multiplied. Yet the performance of the group that had stamped its feet on the bamboo was best. "
     tags:
       - iij02
   - id: a6941968-0cde-4337-80a3-e40535a19fa2
@@ -385,20 +440,17 @@ clips:
     end: 01:35.22
     fields:
       transcription: つまり足のうらを刺激すると、頭の働きがよくなることがわかったのである。
+      meaning: "The experiment convinced its designers that, by stimulating the backs of our feet, we can upgrade the performance of our brains. "
     tags:
       - iij02
   - id: bea710d1-472b-4faf-aa60-ec3685db945b
     start: 01:36.16
-    end: 01:45.9
-    fields:
-      transcription: むかしのある有名な人は、子供のころ家がびんぼうで、一日中働いていたので、勉強するひまがなかった。
-    tags:
-      - iij02
-  - id: b5f4c8a5-e933-4972-a2af-04b1e71357f8
-    start: 01:46.18
     end: 01:51.72
     fields:
-      transcription: そこで、せなかに薪をせおって歩きながら、本を読んだそうである。
+      transcription: |-
+        むかしのある有名な人は、子供のころ家がびんぼうで、一日中働いていたので、勉強するひまがなかった。
+        そこで、せなかに薪をせおって歩きながら、本を読んだそうである。
+      meaning: "A famous person of old used to read while walking with a load of firewood on his back. As a child, his family was poor, and he had to work from dawn to dusk—leaving scarcely any time for study. "
     tags:
       - iij02
   - id: 091a8350-b944-4e64-8818-e4dd3fe0c523
@@ -406,6 +458,7 @@ clips:
     end: 02:00.0
     fields:
       transcription: 目のためには悪かったかもしれないが、頭の働きのためには、よい勉強法だったわけである。
+      meaning: The child's study technique was undoubtedly bad for his eyesight. Yet for improving the performance of his mind, it was unexcelled.
     tags:
       - iij02
 ---

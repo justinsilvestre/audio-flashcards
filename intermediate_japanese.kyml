@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-03-15T17:59:19Z
+timestamp: 2020-03-15T20:59:30Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -780,32 +780,79 @@ name: 16 - Lesson 3 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:26.779
 id: 1bbbd4e5-bc33-4fa3-b6f5-d099bb36b30a
+subtitles:
+  - id: 83ffb179-8558-44e3-ac18-9753e52490b1
+    type: External
+    chunksMetadata:
+      count: 25
+      endCue: 4275.2
+    name: 16 - Lesson 3 - KaiwaBun 1.srt
 clips:
-  - id: a8a9cd8d-1e74-404e-9750-e2f5bc9888f9
-    start: 00:10.98
-    end: 00:25.2
+  - id: 44e2839b-9061-443f-bcc6-6adf02ea28a2
+    start: 00:11.0
+    end: 00:25.1
+    fields:
+      transcription: |-
+        もしもし 山下さんですか
+        川上ですが
+        山下でございます
+        ただいま留守でございます
+        恐れ入りますが
+        ピーという信号 音が聞こえたら
+        ご用件をお話しください
     tags:
       - iij02
-  - id: 0ccae161-5078-42e5-914c-ac95059a7e91
-    start: 00:25.7
-    end: 00:33.04
+    image:
+      type: VideoStill
+  - id: cd7155ad-6a21-4727-9d6d-bb5370437d89
+    start: 00:25.8
+    end: 00:32.74
+    fields:
+      transcription: |-
+        テープは1分かんですから
+        1分以内にお願いします
+        あーこれは留守番電話だな
     tags:
+      &a1
       - iij02
-  - id: b439bfc0-82a3-4f24-b28a-0eea72962c1b
-    start: 00:35.56
-    end: 00:58.34
-    tags:
-      - iij02
-  - id: 9fb54781-99bd-44d6-8b46-0ec9fb964a46
-    start: 00:59.648
-    end: 01:05.308
-    tags:
-      - iij02
-  - id: 0261d2ca-a1af-4dc2-9326-95c4ff1c7968
-    start: 01:06.288
-    end: 01:25.96
-    tags:
-      - iij02
+    image:
+      type: VideoStill
+  - id: 4b73b9f5-08ef-42ba-9a36-f8f341c2d3ec
+    start: 00:35.52
+    end: 00:52.0
+    fields:
+      transcription: |-
+        えーと あのー もしもし 川上ですが
+        今度の仕事のことなんですけどね
+        ゴライダー15日で結構ですと言ったんですが
+        ちょっと都合が悪くなりましたので
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e34f3bd3-cc96-4613-bebf-05cfd8873c96
+    start: 00:53.248
+    end: 01:02.22
+    fields:
+      transcription: |-
+        すみませんが 18日か20日にしてくださいませんか
+        できれば20日の方がいいんですが
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: dca70703-bf00-475d-aabd-cf4ee82d4aec
+    start: 01:03.48
+    end: 01:19.1
+    fields:
+      transcription: |-
+        どうなんですか
+        返事は9だったあのね それから 田中さんに連絡したら
+        家の人の話では今 ヨーロッパ旅行中なんだって
+        うらやましいね
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 83ffb179-8558-44e3-ac18-9753e52490b1
 ---
 name: 17 - Lesson 3 - KaiwaBun 2.mp3
 format: mp3
@@ -814,164 +861,84 @@ id: 9de21047-9eb6-4fc1-be7d-89481f043672
 subtitles:
   - id: 2e620f5b-217d-432b-8311-2bdea7d6baa5
     type: External
-    chunksMetadata: null
+    chunksMetadata:
+      count: 31
+      endCue: 3596.8
     name: 17 - Lesson 3 - KaiwaBun 2.srt
 clips:
-  - id: c9d48e28-af4a-49b0-a021-03c5914eb55e
-    start: 00:01.024
-    end: 00:02.048
+  - id: 744cf096-59a9-4143-a692-66c90fb77c87
+    start: 00:05.38
+    end: 00:13.42
     fields:
-      transcription: 会話文 に
-  - id: cba8f802-5e4d-4ca3-b293-6f1b2148dfcc
-    start: 00:02.816
-    end: 00:04.352
+      transcription: |-
+        値打ちも留守番電話にしましょうよ
+        家 共働きだから
+        昼間は留守が多いでしょう
+    image:
+      type: VideoStill
+  - id: b9f188d6-65d9-4669-ac1d-e1e3619810ed
+    start: 00:14.16
+    end: 00:26.46
     fields:
-      transcription: 夫と妻の会話
-  - id: 546dfa9c-0278-49af-9b80-38441fefb767
-    start: 00:05.376
-    end: 00:09.216
+      transcription: |-
+        友達が
+        オタクはいつも留守 ね って怒るのよ
+        夜電話してくださいって言ったら
+        でも夜は電話が来ても出られないことが多いのよ
+        お風呂に入っていたりして
+    image:
+      type: VideoStill
+  - id: 03bd6413-159e-4926-83b1-d471103f31ec
+    start: 00:27.72
+    end: 00:36.32
     fields:
-      transcription: 値打ちも留守番電話にしましょうよ
-  - id: 283ae30c-269c-4926-98bf-c9191a7544f0
-    start: 00:09.728
-    end: 00:11.008
+      transcription: |-
+        テレビで面白いドラマやってる時
+        電話に出ると話がわからなくなる しそうだね
+        だから 留守番電話がいいと思うけど
+    image:
+      type: VideoStill
+  - id: ecfbcd41-03c9-4108-a163-afa61017fc1d
+    start: 00:36.84
+    end: 00:50.0
     fields:
-      transcription: 家 共働きだから
-  - id: 9ac89a65-3d64-4f9e-a845-ad17f53cc513
-    start: 00:11.264
-    end: 00:13.312
+      transcription: |-
+        でも
+        人に電話した時
+        録音テープの声が聞こえるのは
+        そう
+        ピーっていう音を聞いて 急いで録音するんだろう
+        ええそうよ アナウンサー じゃないんだから
+    image:
+      type: VideoStill
+  - id: 3e33d7ff-e95a-4df1-a697-a7aa0b277173
+    start: 00:50.24
+    end: 01:02.78
     fields:
-      transcription: 昼間は留守が多いでしょう
-  - id: 8e16e4f6-deb5-4621-bb16-4a083562e5f9
-    start: 00:14.08
-    end: 00:14.848
+      transcription: |-
+        マイクに向かって話すのは嫌だよ
+        でも
+        家が留守番電話にしたら
+        録音をするのは他の人よ
+        私たちが 録音するんじゃないのよ
+        自分がしたくないことは他の人にもさせたくないよ
+    image:
+      type: VideoStill
+  - id: a3ddb162-23c2-4b51-a99a-dcd409c47e16
+    start: 01:03.1
+    end: 01:12.34
     fields:
-      transcription: 友達が
-  - id: 6f2eaa90-f9fa-4797-8558-b826c30ab3a1
-    start: 00:15.104
-    end: 00:17.664
-    fields:
-      transcription: オタクはいつも留守 ね って怒るのよ
-  - id: 7df6ad13-d353-4406-b78e-9728bda2f02a
-    start: 00:17.92
-    end: 00:19.968
-    fields:
-      transcription: 夜電話してくださいって言ったら
-  - id: 002bcd32-1095-4ba8-bcdd-f4b203b51034
-    start: 00:20.736
-    end: 00:24.576
-    fields:
-      transcription: でも夜は電話が来ても出られないことが多いのよ
-  - id: 0f71b620-441a-40d7-8b6d-ceb56e367ef7
-    start: 00:24.832
-    end: 00:26.368
-    fields:
-      transcription: お風呂に入っていたりして
-  - id: dd6759c5-ea3d-4188-a812-80b652415fe4
-    start: 00:27.648
-    end: 00:29.696
-    fields:
-      transcription: テレビで面白いドラマやってる時
-  - id: f69547b0-5cff-4cef-b33b-ccae276d07f7
-    start: 00:29.952
-    end: 00:33.536
-    fields:
-      transcription: 電話に出ると話がわからなくなる しそうだね
-  - id: aced8bcc-6a8d-4bcd-b508-919860c2caf0
-    start: 00:33.792
-    end: 00:36.352
-    fields:
-      transcription: だから 留守番電話がいいと思うけど
-  - id: f4ee5818-27c3-4155-8960-ca805714a2ef
-    start: 00:36.864
-    end: 00:37.376
-    fields:
-      transcription: でも
-  - id: b424e5b9-bc07-487f-ab7d-acd7804b1708
-    start: 00:37.632
-    end: 00:38.912
-    fields:
-      transcription: 人に電話した時
-  - id: 2865ef78-437c-422c-9372-b6dba7ad1e31
-    start: 00:39.168
-    end: 00:40.96
-    fields:
-      transcription: 録音テープの声が聞こえるのは
-  - id: c5a5ecaa-2967-42f4-9b66-adf2f2c02aef
-    start: 00:42.24
-    end: 00:43.008
-    fields:
-      transcription: そう
-  - id: 80a44115-0824-46dd-a826-657d4dd69c10
-    start: 00:43.776
-    end: 00:46.848
-    fields:
-      transcription: ピーっていう音を聞いて 急いで録音するんだろう
-  - id: a5c5e8e6-e66f-4f90-8c45-93790eff0583
-    start: 00:47.104
-    end: 00:49.92
-    fields:
-      transcription: ええそうよ アナウンサー じゃないんだから
-  - id: 6912b4a8-414d-4a54-9bbe-3361fc36b608
-    start: 00:50.176
-    end: 00:51.968
-    fields:
-      transcription: マイクに向かって話すのは嫌だよ
-  - id: 2f14fac6-f044-4cc9-a4e1-af141000c1de
-    start: 00:52.224
-    end: 00:52.736
-    fields:
-      transcription: でも
-  - id: 3b10f0fa-e136-4d3c-b849-8e8124e37eb0
-    start: 00:52.992
-    end: 00:54.784
-    fields:
-      transcription: 家が留守番電話にしたら
-  - id: c666786d-9dfa-41b7-ba47-638a2d201f51
-    start: 00:55.04
-    end: 00:57.088
-    fields:
-      transcription: 録音をするのは他の人よ
-  - id: 4e283f1d-e56e-465a-8bdf-9b35bc9f8d1e
-    start: 00:57.344
-    end: 00:59.392
-    fields:
-      transcription: 私たちが 録音するんじゃないのよ
-  - id: 7299ce72-ce2a-4cf2-9231-afec8a70e263
-    start: 00:59.648
-    end: 01:02.72
-    fields:
-      transcription: 自分がしたくないことは他の人にもさせたくないよ
-  - id: b950e486-1e1f-49dc-adfe-0a995a9b6c29
-    start: 01:02.976
-    end: 01:04.0
-    fields:
-      transcription: あーそう
-  - id: 89aa4b56-0987-481a-bcca-eb9c05b6030b
-    start: 01:04.512
-    end: 01:06.304
-    fields:
-      transcription: じゃあ 留守番電話はやめましょう
-  - id: 9cc1d1b3-1b81-445f-b02f-2968a1756d53
-    start: 01:06.56
-    end: 01:07.072
-    fields:
-      transcription: いいの
-  - id: b51b0106-9a69-4f4a-a7a5-daee742f5c18
-    start: 01:07.328
-    end: 01:09.376
-    fields:
-      transcription: 残業 断って
-  - id: 4f5bebde-b1ef-4bfb-b213-ebf750d6cf6a
-    start: 01:09.632
-    end: 01:10.912
-    fields:
-      transcription: 早く家に帰るわ
-  - id: 4e1a169f-1561-44d3-9fb6-6c129617f6eb
-    start: 01:11.168
-    end: 01:11.936
-    fields:
-      transcription: 収入は減るけど
+      transcription: |-
+        あーそう
+        じゃあ 留守番電話はやめましょう
+        いいの
+        残業 断って
+        早く家に帰るわ
+        収入は減るけど
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 2e620f5b-217d-432b-8311-2bdea7d6baa5
 ---
 name: 01 - Lesson 4 - Main Text.mp3
 format: mp3

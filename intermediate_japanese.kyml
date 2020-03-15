@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-03-15T20:59:30Z
+timestamp: 2020-03-15T21:31:18Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -482,7 +482,11 @@ clips:
         この頃よくテレビ見ますか
         あまり見ませんね
         帰りが遅いので
-        どうですか
+        そうですか
+      meaning: |-
+        A: Have you been watching a lot of TV lately?
+        B: Hardly any. I don't get home until late, at night. 
+        A: Oh.
     tags:
       &a1
       - iij02
@@ -496,6 +500,11 @@ clips:
         どんな番組ですか
         足の裏の話です
         足の裏
+      meaning: |
+        A: I rarely watch TV myself. But I did see kind of an interesting program recently.
+        B: What kind of program? 
+        A: A program about the backs of our feet.
+        B: The backs of our feet? 
     tags:
       - iij02
   - id: 3fb4fa5d-ed35-4646-84df-f52912ad07f1
@@ -506,6 +515,8 @@ clips:
         足の裏って
         あまり大したことをしないようですけど
         実は大切なんだそうです
+      meaning: |
+        A: Yeah You'd think that the backs of our feet don't have any important function. But they're tremendously important.
     tags: *a1
   - id: c8163db2-c41d-4d67-84a7-cf798693c587
     start: 00:37.88
@@ -515,7 +526,11 @@ clips:
         足の裏を刺激すると
         頭の働きが良くなるんだそうです
         そうですか
-        10分 か何かでわかったんですか
+        実験か何かでわかったんですか
+      meaning: |-
+        A: Stimulating the feet improves the performance of our brains—or so they said.
+        B: Really? Has this been proven by some experiment or other? 
+        A: It has. 
     tags:
       - iij02
   - id: b8649018-3d9c-4435-9a78-d1d0bcdfa707
@@ -525,6 +540,7 @@ clips:
       transcription: |-
         若い人が二つのグループに分かれて
         一方は竹を踏んだけど 一方は椅子に腰掛けて何もしないでいたんですって
+      meaning: "A: Several young people were divided into two groups. The first group stamped on strips of bamboo. The second simply sat in chairs."
     tags: *a1
   - id: c15d8482-7baa-42f6-8441-4e353324f82c
     start: 00:55.84
@@ -535,6 +551,11 @@ clips:
         椅子が高いから
         足は床につかないで
         ぶらんぶらん そうなんです
+      meaning: |-
+        B: What did they do with their feet? 
+        A: Well, the chairs were high... and kept their feet from touching the floor. 
+        B: So they just dangled in the air...
+        A: Exactly.
     tags: *a1
   - id: 58232fb8-b76b-48b3-9545-c7b8169ebe96
     start: 01:04.968
@@ -545,6 +566,11 @@ clips:
         竹を踏んだ グループの方が
         成績が良かったそうです
         なるほどね
+      meaning: |-
+        A: Later, the groups played some type of television computer game.
+        B: And?
+        A: And the performance of the group that stamped on the bamboo was best.
+        B: Interesting.
     tags: *a1
   - id: b9839d42-c55e-4c56-ab94-e4790f8956da
     start: 01:15.26
@@ -553,6 +579,7 @@ clips:
       transcription: |-
         だからじっと長い間座っているのは
         頭のために良くないんですね
+      meaning: "A: Which goes to show that sitting motionless is bad for the brain"
     tags: *a1
   - id: ec071d34-829d-4e20-9352-0c06f33ea2d5
     start: 01:21.32
@@ -562,7 +589,10 @@ clips:
         じゃあ
         歩きながら本を読んだらどうでしょう
         いいかもしれませんね
-        女には悪いかもしれないけれど
+        目には悪いかもしれないけれど
+      meaning: |-
+        B: Well, what about reading a book while walking? 
+        A: Sounds like an excellent idea—that might be bad for the eyes.
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: b9aff07b-080a-41f0-9642-ef7ab0ceecb0
@@ -588,9 +618,12 @@ clips:
         どこか行くの
         ちょっと歩いてきます
         頭が疲れたので
+      meaning: |-
+        A: Where are you headed? For a walk. I'm feeling a little mentally fatigued.
+        A: Hmph.
     tags:
       &a1
-      - 10_-_Lesson_2_-_KaiwaBun_2.mp3
+      - iij02
   - id: b2b28810-bf3d-4b60-8e1f-abef9b4221ff
     start: 00:17.744
     end: 00:31.084
@@ -603,6 +636,12 @@ clips:
         人間で言えば 社長と君だ
         つまり
         一番上と一番下
+      meaning: |-
+        B: Are you aware, Chief, about the relationship between the back Of the foot and the human mind?
+        A: Of course.
+        B: Well, what exactly is this relationship?
+        A: Whats this relationship? It's like the relationship between you and the president of this company.
+        B: Huh? In other words, the extreme top and the extreme bottom.
     tags: *a1
   - id: 88d71a0f-32b5-4474-b4fc-db3340880a84
     start: 00:31.504
@@ -612,8 +651,14 @@ clips:
         違いますよ
         足の裏を刺激すると頭の働きが良くなるんです
         そういう事件の結果が出ているんです なるほど
+      meaning: |-
+        
+        B: No—that's not what I'm driving at. Stimulating the backs of the feet improves mental performance.
+        A: Huhh??
+        B: At any rate. that's what the results of some experiments show.
+        A: I see. 
     tags:
-      - 10_-_Lesson_2_-_KaiwaBun_2.mp3
+      - iij02
   - id: dd517a47-dc8d-49b6-b12f-d9d5d230dc7c
     start: 00:42.78
     end: 00:48.3
@@ -621,7 +666,11 @@ clips:
       transcription: |-
         それで散歩に行くのか
         それなら行く必要がない
-        靴を脱いで
+        さあ、靴を脱いで
+      meaning: |-
+        A: So thats the reason you want to take a walk.
+        B: Right.
+        A: Well, there's no necessity for that. Here. Take off your shoes.
     tags: *a1
   - id: 69846caf-c045-4843-96c6-58753cc24ea5
     start: 00:49.4
@@ -632,6 +681,11 @@ clips:
         ここでですか
         ほらここに時がある
         これを踏めば良いんだよ
+      meaning: |-
+        B: What?!
+        A: And your socks.
+        B: Right here?
+        A: Yeah. Look—here's a piece of bamboo. All you need to do is stamp on it a few times, right?
     tags: *a1
   - id: 32ffb8e8-c434-4369-b69a-17408a88d3ee
     start: 00:57.28
@@ -642,17 +696,26 @@ clips:
         課長の ですか
         僕もあの番組見て
         すぐ 武雄 タイに行ったんだ
+        なあんだ
         実はさっき 部屋の隅で住んでいたんだよ
+      meaning: |
+        B: Does this belong to you?
+        A: It sure does. I watched that program too. And bought this afterwards.
+        B: Sheesh.
+        A: I just finished stepping on it, too. In the corner of the room.
     tags:
-      - 10_-_Lesson_2_-_KaiwaBun_2.mp3
+      - iij02
   - id: 8b902a76-5693-45b1-b5b2-a00bc8b5699c
     start: 01:09.12
     end: 01:14.82
     fields:
       transcription: |-
-        The これ使いなさい
+        さあ、これ、使いなさい
         結構です
-        も頭の疲れが取れました
+        もう頭の疲れが取れました
+      meaning: |-
+        A: Here. Give it a try.
+        B: No thanks. My mental fatigue seems to have cleared up.
     tags: *a1
   - id: a5c6a7df-b2d1-457e-bc9b-26a73dbee3a9
     start: 01:15.08
@@ -662,6 +725,10 @@ clips:
         課長が裸足で踏んだ 竹を踏むなんて
         何か入った言いません
         さあ 仕事 仕事
+      meaning: |-
+        B: [To himself] It'd be impossible for me to use that thing—after he's been stamping his bare feet on it!
+        A: Did you say something?
+        B: Not at all. Back to work!
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: f0c8d16c-88d1-4578-9742-336d47797347
@@ -676,6 +743,7 @@ clips:
     end: 00:12.92
     fields:
       transcription: 留守番電話を利用する人が多くなった。留守番電話は確かに便利である。
+      meaning: "A growing number of people are starting to use answering machines. Without a doubt, the answering machine is a handy instrument. "
       notes: bénri
     tags:
       - iij03
@@ -684,6 +752,7 @@ clips:
     end: 00:21.92
     fields:
       transcription: 誰も家にいない時に誰から電話があった場合、後で録音テープでその内容を知ることができる。
+      meaning: "If the phone rings when everybody's out of the house, it's now possible to hear the content of the call afterwards on tape. "
     tags:
       - iij03
   - id: bc802300-72be-447e-a778-09add27c5ce6
@@ -691,6 +760,7 @@ clips:
     end: 00:28.86
     fields:
       transcription: "家にいる時でも、風呂に入っていたりして、電話に出ることができないこともある。 "
+      meaning: "At home, there are times, such as in the middle of a bath, when picking up the phone is impossible. "
       notes: Ié-ni iru tokí-de-mo, furó-ni háitte itári shite, denwa-ni déru-koto-ga dekínai-koto-mo áru.
     tags:
       - iij03
@@ -699,6 +769,7 @@ clips:
     end: 00:38.64
     fields:
       transcription: 例えば、食事中やテレビで面白いドラマを見ている時など、電話にでなくて済むのはありがたいことである。
+      meaning: "What's more, not having to answer the phone during a meal—or an interesting television drama—is a blessing. "
     tags:
       - iij03
   - id: 852bf3d7-bdcd-452d-8ec3-7e2e8fa2f7fd
@@ -706,6 +777,7 @@ clips:
     end: 00:44.72
     fields:
       transcription: それほど便利なものであるが、つけたくないと言う人も多い。
+      meaning: "For a device that's so convenient, a surprising number of people don't want to use the answering machine. "
     tags:
       - iij03
   - id: a36bb160-1591-47b3-b571-eb5fcc22c080
@@ -713,6 +785,7 @@ clips:
     end: 00:52.02
     fields:
       transcription: 電話をかけたとき、相手の声でなく録音テープを聞くのが不ゆかいなためである。
+      meaning: "They feel that it's unpleasant to listen to a tape rather than the actual voice of the person they are calling. "
     tags:
       - iij03
   - id: 05661bf5-d536-4418-b33a-491025caf020
@@ -720,6 +793,7 @@ clips:
     end: 01:07.18
     fields:
       transcription: 「いま留守です。ピーという音の後で、ご用件をお話しください」と言う事務的な声を聞くのが嫌いだし、人にもそんな声を聞かせたくない、と言う人が多い。
+      meaning: Many people can't stand to hear a perfunctory voice say "I'm not home right now, but when you hear the tone, please leave a message"—and don't want to force this remark on the people who call them.
     tags:
       - iij03
   - id: ce61275d-909b-436f-9c73-65d241f4b4b9
@@ -727,6 +801,7 @@ clips:
     end: 01:17.76
     fields:
       transcription: 留守番電話の伝言にしたがって電話してみると、その人も留守番電話をつけているので、録音テープに話をする。
+      meaning: "If, following the instructions on your answering machine, you call back the other party, you often find your- self speaking into the answering machine owned by that person. "
     tags:
       - iij03
   - id: 35be6ac4-7913-4675-80ac-7534eebaf251
@@ -734,6 +809,7 @@ clips:
     end: 01:22.48
     fields:
       transcription: その返事もまた録音テープということもある。
+      meaning: "The reply to your message, in turn, is often recorded into your machine. "
     tags:
       - iij03
   - id: 61457ee0-70ba-42ea-bd17-7f2e762382f9
@@ -741,6 +817,7 @@ clips:
     end: 01:29.08
     fields:
       transcription: こうなると、人と話すのでなく、いつもマイクにむかって話すことになる。
+      meaning: "As a result, telephoners end up feeling like they're talking to microphones rather than to each other. "
     tags:
       - iij03
   - id: 8350aa7c-cbae-4720-ba28-b83f4ec84b25
@@ -748,6 +825,7 @@ clips:
     end: 01:34.66
     fields:
       transcription: 普通の人も、テレビやラジオのアナウンサーになったようなものだ。
+      meaning: "It's almost as if ordinary people had suddenly become TV or radio announcers. "
       notes: 〜ようなものだ = it's as if...
     tags:
       - iij03
@@ -756,6 +834,7 @@ clips:
     end: 01:44.26
     fields:
       transcription: 話しかけてすぐ返事を聞くことができるのが、電話の魅力であるが、留守番電話ではそれがない。
+      meaning: "The appeal of the telephone lies in hearing an immediate reply after speaking to someone. Answering machines don't have this advantage. "
     tags:
       - iij03
   - id: 2cb15b95-42c0-4bfb-bf7c-eaceb44c6d35
@@ -800,8 +879,12 @@ clips:
         恐れ入りますが
         ピーという信号 音が聞こえたら
         ご用件をお話しください
+      meaning: |-
+        
+        A: Hello, Yamashita? It's me, Kawakami.
+        Tape: This is Yamashita. I'm not in at the moment, but please leave a message at the sound of the tone. 
     tags:
-      - iij02
+      - iij03
     image:
       type: VideoStill
   - id: cd7155ad-6a21-4727-9d6d-bb5370437d89
@@ -812,9 +895,12 @@ clips:
         テープは1分かんですから
         1分以内にお願いします
         あーこれは留守番電話だな
+      meaning: |-
+        You have one minute, so kindly complete your message within this time.
+        A: Hm. An answering machine.
     tags:
       &a1
-      - iij02
+      - iij03
     image:
       type: VideoStill
   - id: 4b73b9f5-08ef-42ba-9a36-f8f341c2d3ec
@@ -826,7 +912,12 @@ clips:
         今度の仕事のことなんですけどね
         ゴライダー15日で結構ですと言ったんですが
         ちょっと都合が悪くなりましたので
-    tags: *a1
+      meaning: |-
+        A: Um, let's see hello, it's me, Kawakami
+        About that job—the other day I said that the 15th would be Okay, but...
+        I've run into a few difficulties, so
+    tags:
+      - iij03
     image:
       type: VideoStill
   - id: e34f3bd3-cc96-4613-bebf-05cfd8873c96
@@ -836,7 +927,11 @@ clips:
       transcription: |-
         すみませんが 18日か20日にしてくださいませんか
         できれば20日の方がいいんですが
-    tags: *a1
+      meaning: |-
+        A: I was wondering if you could change the date to the 18th or 20th.
+        Actually, the 20th would be best for me.
+    tags:
+      - iij03
     image:
       type: VideoStill
   - id: dca70703-bf00-475d-aabd-cf4ee82d4aec
@@ -848,7 +943,12 @@ clips:
         返事は9だったあのね それから 田中さんに連絡したら
         家の人の話では今 ヨーロッパ旅行中なんだって
         うらやましいね
-    tags: *a1
+      meaning: |-
+        A: What do you think?
+        (Oh—this is an answering machine—I can't get a reply) . Incidentally, I tried to get in touch with Tanaka, but a member of his family told me that he was on a trip in Europe.
+        Wouldn't it be great if we could go to Europe, too.
+    tags:
+      - iij03
     image:
       type: VideoStill
 flashcardFieldsToSubtitlesTracks:
@@ -871,9 +971,18 @@ clips:
     end: 00:13.42
     fields:
       transcription: |-
-        値打ちも留守番電話にしましょうよ
+        ねえ、うちも留守番電話にしましょうよ
         家 共働きだから
         昼間は留守が多いでしょう
+        うん。
+      meaning: |-
+        
+        Wife: Honey, shouldn't we start thinking about buying an answering machine?
+        Husband: Why?
+        Wife: Well, both working, and hardly ever home during the daytime.
+        Husband: Hmm.
+    tags:
+      - iij03
     image:
       type: VideoStill
   - id: b9f188d6-65d9-4669-ac1d-e1e3619810ed
@@ -886,6 +995,12 @@ clips:
         夜電話してくださいって言ったら
         でも夜は電話が来ても出られないことが多いのよ
         お風呂に入っていたりして
+      meaning: |-
+        Wife: My friends keep complaining that nobody answers the phone.
+        Husband: If that happens, just ask them to call back in the evening.
+        Wife: Its often impossible to pick up the phone at night. Such as when I'm in the tub.
+    tags:
+      - iij03
     image:
       type: VideoStill
   - id: 03bd6413-159e-4926-83b1-d471103f31ec
@@ -896,6 +1011,12 @@ clips:
         テレビで面白いドラマやってる時
         電話に出ると話がわからなくなる しそうだね
         だから 留守番電話がいいと思うけど
+      meaning: |-
+        Wife: When I pick up the phone during a good TV drama, it's easy to lose track of the story.
+        Husband: True
+        Wife: That's why I think we should buy an answering machine.
+    tags:
+      - iij03
     image:
       type: VideoStill
   - id: ecfbcd41-03c9-4108-a163-afa61017fc1d
@@ -905,10 +1026,24 @@ clips:
       transcription: |-
         でも
         人に電話した時
-        録音テープの声が聞こえるのは
-        そう
-        ピーっていう音を聞いて 急いで録音するんだろう
-        ええそうよ アナウンサー じゃないんだから
+        録音テープの声が聞こえるのはいやだな。
+        そう。
+        ピーっていう音を聞いて、急いで録音するんだろう？
+        ええ、そうよ。
+        アナウンサー じゃないんだから。
+      meaning: |-
+        Husband: But I can't stand listening to a recording when I'm trying to reach somebody.
+        Wife: Oh?
+        Husband: When you hear the beep, don't you feel rushed to get everything on tape?
+        Wife: Yes, of course.
+        Husband: I'm not a professional announcer. I hate feeling like I'm talking into a microphone.
+        Wife: Honey, if we bought an answering machine, the people calling us would talk into the tape. Not you and I.
+        Husband: Maybe so, but I'm not going to force somebody to do something I dislike.
+        Wife: I see. We'll just drop the whole idea, if that's the way you feel.
+        Husband: Really? You're not unhappy?
+        Wife: Not at all. I'll just refuse to do overtime at work, and come home early. We'll earn less money, of course.
+    tags:
+      - iij03
     image:
       type: VideoStill
   - id: 3e33d7ff-e95a-4df1-a697-a7aa0b277173
@@ -922,6 +1057,12 @@ clips:
         録音をするのは他の人よ
         私たちが 録音するんじゃないのよ
         自分がしたくないことは他の人にもさせたくないよ
+      meaning: |-
+        I hate feeling like I'm talking into a microphone.
+        Wife: Honey, if we bought an answering machine, the people calling us would talk into the tape. Not you and I.
+        Husband: Maybe so, but I'm not going to force somebody to do something I dislike.
+    tags:
+      - iij03
     image:
       type: VideoStill
   - id: a3ddb162-23c2-4b51-a99a-dcd409c47e16
@@ -935,6 +1076,12 @@ clips:
         残業 断って
         早く家に帰るわ
         収入は減るけど
+      meaning: |-
+        Wife: I see. We'll just drop the whole idea, if that's the way you feel.
+        Husband: Really? You're not unhappy?
+        Wife: Not at all. I'll just refuse to do overtime at work, and come home early. We'll earn less money, of course.
+    tags:
+      - iij03
     image:
       type: VideoStill
 flashcardFieldsToSubtitlesTracks:

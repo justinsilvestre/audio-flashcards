@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-03-15T17:50:51Z
+timestamp: 2020-03-15T17:59:19Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -473,6 +473,97 @@ subtitles:
       count: 36
       endCue: 4454.4
     name: 09 - Lesson 2 - KaiwaBun 1.srt
+clips:
+  - id: 000dcbfd-8673-46ba-95d3-5b080e4a7612
+    start: 00:12.24
+    end: 00:19.2
+    fields:
+      transcription: |-
+        この頃よくテレビ見ますか
+        あまり見ませんね
+        帰りが遅いので
+        どうですか
+    tags:
+      &a1
+      - iij02
+  - id: 959e2050-b9bf-41d6-8264-d38be07ad462
+    start: 00:19.56
+    end: 00:29.444
+    fields:
+      transcription: |-
+        私もあまり見ないんですけど
+        この間ちょっと面白い番組を見ましたよ
+        どんな番組ですか
+        足の裏の話です
+        足の裏
+    tags:
+      - iij02
+  - id: 3fb4fa5d-ed35-4646-84df-f52912ad07f1
+    start: 00:30.74
+    end: 00:36.36
+    fields:
+      transcription: |-
+        足の裏って
+        あまり大したことをしないようですけど
+        実は大切なんだそうです
+    tags: *a1
+  - id: c8163db2-c41d-4d67-84a7-cf798693c587
+    start: 00:37.88
+    end: 00:46.852
+    fields:
+      transcription: |-
+        足の裏を刺激すると
+        頭の働きが良くなるんだそうです
+        そうですか
+        10分 か何かでわかったんですか
+    tags:
+      - iij02
+  - id: b8649018-3d9c-4435-9a78-d1d0bcdfa707
+    start: 00:47.092
+    end: 00:55.56
+    fields:
+      transcription: |-
+        若い人が二つのグループに分かれて
+        一方は竹を踏んだけど 一方は椅子に腰掛けて何もしないでいたんですって
+    tags: *a1
+  - id: c15d8482-7baa-42f6-8441-4e353324f82c
+    start: 00:55.84
+    end: 01:04.48
+    fields:
+      transcription: |-
+        足はどうしたんですか
+        椅子が高いから
+        足は床につかないで
+        ぶらんぶらん そうなんです
+    tags: *a1
+  - id: 58232fb8-b76b-48b3-9545-c7b8169ebe96
+    start: 01:04.968
+    end: 01:14.988
+    fields:
+      transcription: |-
+        その後でテレビゲームみたいなことをしたら
+        竹を踏んだ グループの方が
+        成績が良かったそうです
+        なるほどね
+    tags: *a1
+  - id: b9839d42-c55e-4c56-ab94-e4790f8956da
+    start: 01:15.26
+    end: 01:20.84
+    fields:
+      transcription: |-
+        だからじっと長い間座っているのは
+        頭のために良くないんですね
+    tags: *a1
+  - id: ec071d34-829d-4e20-9352-0c06f33ea2d5
+    start: 01:21.32
+    end: 01:29.08
+    fields:
+      transcription: |-
+        じゃあ
+        歩きながら本を読んだらどうでしょう
+        いいかもしれませんね
+        女には悪いかもしれないけれど
+    tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: b9aff07b-080a-41f0-9642-ef7ab0ceecb0
 ---
@@ -487,6 +578,91 @@ subtitles:
       count: 36
       endCue: 4096
     name: 10 - Lesson 2 - KaiwaBun 2.srt
+clips:
+  - id: a2776460-b848-4aad-ad6f-8a17f83139af
+    start: 00:10.48
+    end: 00:17.18
+    fields:
+      transcription: |-
+        あー君
+        どこか行くの
+        ちょっと歩いてきます
+        頭が疲れたので
+    tags:
+      &a1
+      - 10_-_Lesson_2_-_KaiwaBun_2.mp3
+  - id: b2b28810-bf3d-4b60-8e1f-abef9b4221ff
+    start: 00:17.744
+    end: 00:31.084
+    fields:
+      transcription: |-
+        課長
+        頭と足の裏の関係を知っていますか
+        知ってるよ
+        じゃあ どういう関係ですか
+        人間で言えば 社長と君だ
+        つまり
+        一番上と一番下
+    tags: *a1
+  - id: 88d71a0f-32b5-4474-b4fc-db3340880a84
+    start: 00:31.504
+    end: 00:42.52
+    fields:
+      transcription: |-
+        違いますよ
+        足の裏を刺激すると頭の働きが良くなるんです
+        そういう事件の結果が出ているんです なるほど
+    tags:
+      - 10_-_Lesson_2_-_KaiwaBun_2.mp3
+  - id: dd517a47-dc8d-49b6-b12f-d9d5d230dc7c
+    start: 00:42.78
+    end: 00:48.3
+    fields:
+      transcription: |-
+        それで散歩に行くのか
+        それなら行く必要がない
+        靴を脱いで
+    tags: *a1
+  - id: 69846caf-c045-4843-96c6-58753cc24ea5
+    start: 00:49.4
+    end: 00:56.86
+    fields:
+      transcription: |-
+        下も脱いで
+        ここでですか
+        ほらここに時がある
+        これを踏めば良いんだよ
+    tags: *a1
+  - id: 32ffb8e8-c434-4369-b69a-17408a88d3ee
+    start: 00:57.28
+    end: 01:08.86
+    fields:
+      transcription: |-
+        この竹
+        課長の ですか
+        僕もあの番組見て
+        すぐ 武雄 タイに行ったんだ
+        実はさっき 部屋の隅で住んでいたんだよ
+    tags:
+      - 10_-_Lesson_2_-_KaiwaBun_2.mp3
+  - id: 8b902a76-5693-45b1-b5b2-a00bc8b5699c
+    start: 01:09.12
+    end: 01:14.82
+    fields:
+      transcription: |-
+        The これ使いなさい
+        結構です
+        も頭の疲れが取れました
+    tags: *a1
+  - id: a5c6a7df-b2d1-457e-bc9b-26a73dbee3a9
+    start: 01:15.08
+    end: 01:21.96
+    fields:
+      transcription: |-
+        課長が裸足で踏んだ 竹を踏むなんて
+        何か入った言いません
+        さあ 仕事 仕事
+    tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: f0c8d16c-88d1-4578-9742-336d47797347
 ---

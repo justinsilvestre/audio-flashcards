@@ -2,9 +2,10 @@
 # Edit it manually at your own risk.
 name: Intermediate Japanese
 noteType: Simple
-timestamp: 2020-02-02T10:29:42Z
+createdAt: 2020-02-02T10:29:42Z
+timestamp: 2020-03-15T17:38:57Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
-...
+---
 name: 01 - Lesson 1 - Main Text.mp3
 format: mp3
 duration: 02:09.541
@@ -15,6 +16,7 @@ clips:
     end: 00:19.18
     fields:
       transcription: 最近、ホテルで正月を過ごす人が増えたそうである。
+      meaning: Lately, an increasing number of Japanese have been spending the New Years holidays in hotels.
     tags:
       - iij01
   - id: 60651b29-af30-41eb-b50d-2e8d085cf6b9
@@ -22,6 +24,7 @@ clips:
     end: 00:24.22
     fields:
       transcription: 年末に家をしめて、家族全員でホテルに移る。
+      meaning: "At the end of the year, entire families will shut up their homes and move to a hotel. "
     tags:
       - iij01
   - id: 3aa7541a-f3b3-4827-bcb9-2e7e6cc7c31e
@@ -29,21 +32,18 @@ clips:
     end: 00:30.38
     fields:
       transcription: ホテルでは正月特別の飾りをつけ、正月の料理を出す。
+      meaning: "The hotels display special New Year's decorations and serve New Year's cuisine. "
     tags:
       - iij01
   - id: 89442181-5ee1-4dcd-822d-ddcb236dce6f
     start: 00:30.9
-    end: 00:33.28
-    fields:
-      transcription: 主婦も家事をする必要がない。
-      notes: káji-o suru
-    tags:
-      - iij01
-  - id: e6b4c287-907e-4e58-8e9f-4efcb15625a8
-    start: 00:34.08
     end: 00:36.18
     fields:
-      transcription: 家族揃ってゆっくりすごす。
+      transcription: |-
+        主婦も家事をする必要がない。
+        家族揃ってゆっくりすごす。
+      meaning: "Housewives are relieved of housework, and the whole family is able to enjoy a relaxing New Year's together. "
+      notes: káji-o suru
     tags:
       - iij01
   - id: ae56eb7b-e84f-4d4a-99aa-ac015b6a4c83
@@ -51,6 +51,7 @@ clips:
     end: 00:38.86
     fields:
       transcription: その理由はいくつかある。
+      meaning: "There are several reasons for this phenomenon. "
     tags:
       - iij01
   - id: 5587c571-b30f-4285-8764-7f3d11d35351
@@ -58,6 +59,7 @@ clips:
     end: 00:43.98
     fields:
       transcription: 主人も主婦も忙しくて、正月の準備ができない場合もある。
+      meaning: "Sometimes, both husband and wife are too busy to prepare for the New Years holidays. "
     tags:
       - iij01
   - id: 27f0840e-5eb9-4876-878b-801e0c04cc19
@@ -65,6 +67,7 @@ clips:
     end: 00:48.06
     fields:
       transcription: 正月の伝統的な行事が嫌いな人もある。
+      meaning: "Some families dislike the traditional New Year's rituals. "
       notes: shougatsu-no dentouteki-na gyóuji-ga kirai-na hitó-mo áru
     tags:
       - iij01
@@ -73,6 +76,7 @@ clips:
     end: 00:53.8
     fields:
       transcription: "正月に大ぜいの客が来るので、会うのがめんどうだと思う人もある。 "
+      meaning: "Others do not want to have to take care of the large number of visitors who show up during the holidays. "
     tags:
       - iij01
   - id: aef7846d-958b-4929-a404-9d214f1857c5
@@ -80,6 +84,7 @@ clips:
     end: 01:06.1
     fields:
       transcription: むかしは、正月にはいつもより綺麗な物を着て、いつもよりぜいたくな料理を食べ、遠くから親せきの人が集まって、にぎやかに話し合った。
+      meaning: "In the past, Japanese dressed in especially elegant clothes on New Year's, and dined on an unusually lavish spread. They enjoyed lively conversation with relatives from distant places. "
     tags:
       - iij01
   - id: 4b689ce2-16a6-4eae-bbbf-81706e288997
@@ -87,6 +92,7 @@ clips:
     end: 01:12.76
     fields:
       transcription: 子供達も、正月には特別にお金をもらって、好きな物を買うことができた。
+      meaning: "Children received a special gift of money to buy something they liked. "
     tags:
       - iij01
   - id: 045b6428-5dc4-4ea3-bde6-ae37f0822db7
@@ -94,6 +100,7 @@ clips:
     end: 01:17.56
     fields:
       transcription: 正月は、「いつもと違う」ぜいたくをするときであった。
+      meaning: "New Year's was a time for unusual luxury and elegance. "
     tags:
       - iij01
   - id: 2a818cf0-8c4d-4b3d-b2f6-ec86e9130bb6
@@ -101,6 +108,7 @@ clips:
     end: 01:25.18
     fields:
       transcription: そのためには家中をよく掃除し、正月のための特別の飾りをつけた。
+      meaning: "For that reason, families cleaned their whole houses thoroughly and put up special New Year's decorations. "
     tags:
       - iij01
   - id: c2374f00-ea3a-4f69-9175-ed8dbf6a2147
@@ -108,6 +116,7 @@ clips:
     end: 01:30.6
     fields:
       transcription: 家を大切にしたのは、家が生活の場所だったからである。
+      meaning: "The home was central to Japanese lifestyles, and was kept in top condition for that reason. "
     tags:
       - iij01
   - id: 40fe680e-f519-4ca3-884c-84eeafcc2981
@@ -115,6 +124,7 @@ clips:
     end: 01:34.74
     fields:
       transcription: 今は住宅の利用法が変わった。
+      meaning: "Japanese no longer use their homes in this fashion. "
     tags:
       - iij01
   - id: ab6137a6-f3d2-45b3-a4ae-3e7c6d23084c
@@ -122,6 +132,7 @@ clips:
     end: 01:43.42
     fields:
       transcription: 自分の家で結婚式や祝いの宴会をする人は少ない。たいていの人がホテルを使う。
+      meaning: "Few modern Japanese hold weddings or celebratory parties in their homes—most prefer hotels. "
     tags:
       - iij01
   - id: d8898763-97ae-4069-937d-0d39b003c04e
@@ -129,6 +140,7 @@ clips:
     end: 01:47.28
     fields:
       transcription: 人にごちそうするときにはレストランに行く。
+      meaning: "Guests are entertained at restaurants. "
     tags:
       - iij01
   - id: 714e67bd-99de-496d-9f6f-7fae6937a648
@@ -136,6 +148,7 @@ clips:
     end: 01:51.08
     fields:
       transcription: 人と話をするときは喫茶店で会う。
+      meaning: "People meet in coffee houses to talk. "
       notes: hito-to hanashí-o suru-tóki-wa
     tags:
       - iij01
@@ -144,6 +157,7 @@ clips:
     end: 01:55.5
     fields:
       transcription: その上正月まで、ホテルで過ごす人が増えた。
+      meaning: "And families stay in hotels through the New Year's holidays. "
     tags:
       - iij01
   - id: 2bfa92ec-5ae1-4dba-ae3d-2123d7190b18
@@ -151,6 +165,7 @@ clips:
     end: 02:00.88
     fields:
       transcription: 今の大都会の住宅は、何をするところであろう。
+      meaning: One wonders about the function of the home in the cities of today.
     tags:
       - iij01
   - id: 24886d69-6e4b-4507-86eb-2d20cc25989b
@@ -158,9 +173,10 @@ clips:
     end: 02:09.12
     fields:
       transcription: テレビを見て、寝るところか。 住宅というより、個室か寝室になったのであろうか。
+      meaning: Has it become merely a place for watch- ing TV and sleeping? If so, the Japanese home is no longer a home. It's a private chamber or bedroom instead.
     tags:
       - iij01
-...
+---
 name: 02 - Lesson 1 - KaiwaBun 1.mp3
 format: mp3
 duration: 00:56.738
@@ -211,7 +227,7 @@ clips:
         ですから、広いホテルに泊まってゆっくりするつもりです。
     tags:
       - iij01
-...
+---
 name: 03 - Lesson 1 - KaiwaBun 2.mp3
 format: mp3
 duration: 00:54.857
@@ -266,7 +282,7 @@ clips:
     end: 00:54.72
     tags:
       - iij01
-...
+---
 name: 08 - Lesson 2 - Main Text.mp3
 format: mp3
 duration: 02:00.529
@@ -392,17 +408,35 @@ clips:
       transcription: 目のためには悪かったかもしれないが、頭の働きのためには、よい勉強法だったわけである。
     tags:
       - iij02
-...
+---
 name: 09 - Lesson 2 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:30.619
 id: 57475dfe-772b-4c7d-9a73-05d4c90aca53
-...
+subtitles:
+  - id: b9aff07b-080a-41f0-9642-ef7ab0ceecb0
+    type: External
+    chunksMetadata:
+      count: 36
+      endCue: 4454.4
+    name: 09 - Lesson 2 - KaiwaBun 1.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: b9aff07b-080a-41f0-9642-ef7ab0ceecb0
+---
 name: 10 - Lesson 2 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:23.722
 id: 75349e22-351c-4cc9-b014-40188d9e13ed
-...
+subtitles:
+  - id: f0c8d16c-88d1-4578-9742-336d47797347
+    type: External
+    chunksMetadata:
+      count: 36
+      endCue: 4096
+    name: 10 - Lesson 2 - KaiwaBun 2.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: f0c8d16c-88d1-4578-9742-336d47797347
+---
 name: 15 - Lesson 3 - Main Text.mp3
 format: mp3
 duration: 02:00.921
@@ -512,7 +546,7 @@ clips:
       meaning: "As for the speed of the response, letters don't compare with answering machines. Nonetheless, answering machines can't offer the immediacy [of the telephone]: and [it seems to me that] they've taken us back to an age of letter writing as a result."
     tags:
       - iij03
-...
+---
 name: 16 - Lesson 3 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:26.779
@@ -543,7 +577,7 @@ clips:
     end: 01:25.96
     tags:
       - iij02
-...
+---
 name: 17 - Lesson 3 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:13.352
@@ -551,6 +585,7 @@ id: 9de21047-9eb6-4fc1-be7d-89481f043672
 subtitles:
   - id: 2e620f5b-217d-432b-8311-2bdea7d6baa5
     type: External
+    chunksMetadata: null
     name: 17 - Lesson 3 - KaiwaBun 2.srt
 clips:
   - id: c9d48e28-af4a-49b0-a021-03c5914eb55e
@@ -708,7 +743,7 @@ clips:
     end: 01:11.936
     fields:
       transcription: 収入は減るけど
-...
+---
 name: 01 - Lesson 4 - Main Text.mp3
 format: mp3
 duration: 01:57.656
@@ -840,17 +875,17 @@ clips:
       notes: と言えよう (expository)＝と言えるでしょ (casual)
     tags:
       - iij04
-...
+---
 name: 02 - Lesson 4 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:03.086
 id: e9f8fec0-018c-4188-bcc8-d653db2a171c
-...
+---
 name: 03 - Lesson 4 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:10.661
 id: 6ff577d4-1228-4956-895e-7fbe529d2b5d
-...
+---
 name: 08 - Lesson 5 - Main Text.mp3
 format: mp3
 duration: 01:56.689
@@ -916,17 +951,17 @@ clips:
     end: 01:55.66
     tags:
       - iij05
-...
+---
 name: 09 - Lesson 5 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:07.318
 id: 31260426-17f0-4573-b8a6-735ecaae3054
-...
+---
 name: 10 - Lesson 5 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:11.837
 id: a7f2f866-c933-40a6-94d8-d1a80dc0818c
-...
+---
 name: 14 - Lesson 6 - Main Text.mp3
 format: mp3
 duration: 01:57.185
@@ -1039,17 +1074,17 @@ clips:
       transcription: 最近の学生はあまり勉強しないという人もいるが、もし学生が皆給料をもらうようになったら、よく勉強するようになるかもしれない。
     tags:
       - iij06
-...
+---
 name: 15 - Lesson 6 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:23.749
 id: d4eef236-a092-48c6-98b9-21d280478790
-...
+---
 name: 16 - Lesson 6 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:18.211
 id: c51f1d2e-f0bb-46a6-990a-6ccef65f3d32
-...
+---
 name: 20 - Lesson 7 - Main Text.mp3
 format: mp3
 duration: 01:52.091
@@ -1159,17 +1194,17 @@ clips:
       meaning: Changes like these are a part of changing times, but for farmers, they are probably sad indeed.
     tags:
       - iij07
-...
+---
 name: 21 - Lesson 7 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:13.169
 id: 906ea9f0-4221-4062-ae37-e9699a1a2bdd
-...
+---
 name: 22 - Lesson 7 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:13.953
 id: e091a88a-100e-4f47-85f9-d08c35e00c54
-...
+---
 name: 01 - Lesson 8 - Main Text.mp3
 format: mp3
 duration: 01:55.148
@@ -1315,12 +1350,12 @@ clips:
         kyouryoku-na taisaku
     tags:
       - iij08
-...
+---
 name: 02 - Lesson 8 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:16.33
 id: 5914bb62-aea9-46c3-bce7-5051b7dec2cf
-...
+---
 name: 03 - Lesson 8 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:10.661
@@ -1329,7 +1364,7 @@ clips:
   - id: 7a594c6b-6702-4b2d-8ae9-40074ecdd24a
     start: 00:02.04
     end: 00:03.6
-...
+---
 name: 07 - Lesson 9 - Main Text.mp3
 format: mp3
 duration: 01:53.554
@@ -1415,17 +1450,17 @@ clips:
     end: 01:52.812
     tags:
       - iij09
-...
+---
 name: 08 - Lesson 9 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:11.262
 id: 25728061-f628-45e3-8426-f7ab54e5683a
-...
+---
 name: 09 - Lesson 9 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:13.064
 id: f4afc8c0-bac3-4ce6-a47a-25f2b01b40a8
-...
+---
 name: 13 - Lesson 10 - Main Text.mp3
 format: mp3
 duration: 01:48.46
@@ -1491,17 +1526,17 @@ clips:
     end: 01:48.46
     tags:
       - iij10
-...
+---
 name: 14 - Lesson 10 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:12.307
 id: 6e2cfdfc-f7fa-424d-8e96-7f9a814c694e
-...
+---
 name: 15 - Lesson 10 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:06.978
 id: 7c0b549c-19f9-42d2-8207-600731a86e3b
-...
+---
 name: 19 - Lesson 11 - Main Text.mp3
 format: mp3
 duration: 02:09.985
@@ -1587,17 +1622,17 @@ clips:
     end: 02:09.6
     tags:
       - iij11
-...
+---
 name: 20 - Lesson 11 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:22.808
 id: 09b769bf-9c2b-4187-b638-6eb0f5e9b5a5
-...
+---
 name: 21 - Lesson 11 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:12.829
 id: 90e3947a-1a19-4095-903a-7a7f6e4c0b2f
-...
+---
 name: 01 - Lesson 12 - Main Text.mp3
 format: mp3
 duration: 01:56.454
@@ -1673,17 +1708,17 @@ clips:
     end: 01:55.68
     tags:
       - iij12
-...
+---
 name: 02 - Lesson 12 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:24.715
 id: 37a03e10-ef66-4967-aeb0-c5844dd350cf
-...
+---
 name: 03 - Lesson 12 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:02.824
 id: 7194021e-76de-4d73-be0a-a8a4ddec3be2
-...
+---
 name: 07 - Lesson 13 - Main Text.mp3
 format: mp3
 duration: 02:02.697
@@ -1774,7 +1809,7 @@ clips:
     end: 02:02.22
     tags:
       - iij13
-...
+---
 name: 08 - Lesson 13 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:14.971
@@ -1830,7 +1865,7 @@ clips:
     end: 01:14.5
     tags:
       - iij13
-...
+---
 name: 09 - Lesson 13 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:11.445
@@ -1871,7 +1906,7 @@ clips:
     end: 01:10.6
     tags:
       - iij13
-...
+---
 name: 13 - Lesson 14 - Main Text.mp3
 format: mp3
 duration: 02:14.74
@@ -1992,7 +2027,7 @@ clips:
       transcription: そして、この場合、「サル」を「人間」とおきかえて考えることができるのだということを、見る人に感じさせるのである。
     tags:
       - iij14
-...
+---
 name: 14 - Lesson 14 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:17.087
@@ -2085,12 +2120,12 @@ clips:
         べき used in conversations sounds "a little overblown."
     tags:
       - iij14
-...
+---
 name: 15 - Lesson 14 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:10.269
 id: 2554f050-9bdc-4e7d-8d0f-13ee75d6fadc
-...
+---
 name: 19 - Lesson 15 - Main Text.mp3
 format: mp3
 duration: 02:15.576
@@ -2176,7 +2211,7 @@ clips:
     end: 02:15.42
     tags:
       - iij15
-...
+---
 name: 20 - Lesson 15 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:14.527
@@ -2222,32 +2257,32 @@ clips:
     end: 01:14.24
     tags:
       - iij15
-...
+---
 name: 21 - Lesson 15 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:11.68
 id: a7648515-0cca-4448-810c-6278e000be63
-...
+---
 name: L01-1_yomimono.mp3
 format: mp3
 duration: 04:40.294
 id: 642f1f40-f17c-4bee-9d6f-8dda7b80825a
-...
+---
 name: L01-2_kaiwabun_1.mp3
 format: mp3
 duration: 03:37.26
 id: d2bc9310-9837-47e5-88ed-69250d02613d
-...
+---
 name: L01-2_kaiwabun_2.mp3
 format: mp3
 duration: 01:54.077
 id: 30055255-9fff-4369-8cda-daa3397d707a
-...
+---
 name: L01-3_kaiwa_renshuu_1.mp3
 format: mp3
 duration: 01:06.09
 id: e181dac2-0159-4f6b-ba16-0aa8fbff9cad
-...
+---
 name: L01-3_kaiwa_renshuu_2.mp3
 format: mp3
 duration: 00:55.51

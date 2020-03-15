@@ -2,9 +2,10 @@
 # Edit it manually at your own risk.
 name: Basic Japanese
 noteType: Transliteration
-timestamp: 2020-02-02T10:29:32Z
+createdAt: 2020-02-04T17:14:00Z
+timestamp: 2020-02-05T17:14:00Z
 id: 396cb23e-87fa-491c-a0f2-c7fc5022d80a
-...
+---
 name: Japanese Listening (N5-N4-N3) - Shadowing lets speak Japanese beginner to intermediate (N5 N4 N3).mp4
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 1:06:37.501
@@ -1912,7 +1913,7 @@ clips:
     end: 12:46.98
     fields:
       transcription: |-
-        一緒にお昼食べたい？
+        一緒にお昼食べない？
         あ、ごめん。もう食べちゃった。
       pronunciation: |-
         Issho-ni o-híru tabénai?
@@ -5724,7 +5725,7 @@ clips:
       meaning: |-
         What will you do after you graduate? (polite)
         I've decided to look for a job at a foreign company. (polite)
-        Oh, that's great. pp
+        Oh, that's great. (polite)
       notes: Lit. It was decided...
     tags:
       - shad5-1
@@ -5761,7 +5762,7 @@ clips:
         Ja, íretoku ne.
       meaning: |-
         Whenever you're ready, would you like to have a cofee here? (casual)
-        Yeah. In just a bit, ok? cc
+        Yeah. In just a bit, ok? casual
         All right, I'll make some.
       notes: |-
         koohíi-o ireru = make coffee
@@ -5820,7 +5821,7 @@ clips:
         E', ja, o-mimai-ni ikanákucha.
         Ikú-nara issho-ni ikimasén ka?
       meaning: |-
-        It seems Tanaka-san's cold has gotten worse, and he went to the hospital. pp
+        It seems Tanaka-san's cold has gotten worse, and he went to the hospital. (polite)
         Oh, then, we've got to go visit him. (polite)
         If you're going, shall we go together? (polite)
     tags:
@@ -6160,7 +6161,7 @@ clips:
         Chótto háwai?
       meaning: |-
         Whoa, you got sunburnt, eh? Where did you go? (casual)
-        Yeah, just Hawaii. cc
+        Yeah, just Hawaii. (casual)
         Just Hawaii? (casual)
     tags:
       - shad5-3
@@ -6195,7 +6196,7 @@ clips:
         Kyóu-wa, dóu nasaimásu ka?
         Kátto-o onegai shimásu.
         Kashikomarimáshita.
-        Ano, kono sashin-no kamigata-mítai-ni dekimásu ka?
+        Ano, kono shashin-no kamigata-mítai-ni dekimásu ka?
       meaning: |-
         What will you go for today? (polite)
         I'd like a haircut, please. (polite)
@@ -6262,7 +6263,7 @@ clips:
         Ja, shitsumon-o yomimásu-kara, sore-ni kotáete kudasái ne.
       meaning: |-
         Um, it's my first time here. (polite)
-        All right. Then please fill out this form. pp
+        All right. Then please fill out this form. (polite)
         Um, the kanji are hard, so I can't read it. (polite)
         Then I'll read the questions, and then you answer, all right? (polite)
       notes: It's implied that they're in a hospital.
@@ -6316,7 +6317,7 @@ clips:
     fields:
       transcription: |-
         これ、払えますか？
-        こちらは郵便局の払込み用紙になってますので…。
+        こちらは郵便局専用の払込み用紙になってますので…。
         あー、そうですか。じゃー、これは大丈夫ですか？
       pronunciation: |-
         Kore, haraemásu ka?
@@ -6405,7 +6406,7 @@ clips:
         Go-shínki-desu ne. Déwa, kochira-no bangóu-fuda-o o-torí-ni nátte o-máchi kudasái.
       meaning: |-
         Can I help you? (humble)
-        Huh? Oh, um, I'd like to open an account. ppp
+        Huh? Oh, um, I'd like to open an account. (polite)
         You're a new client, correct? So, please take this number, and wait. (honorific)
     tags:
       - shad5-5
@@ -6422,9 +6423,9 @@ clips:
         Ún, konna-hí-ni háikingu-nante saiaku!
         Áme-de-mo fútte kureréba, chuushi-ni náru-no-ni ne.
       meaning: |-
-        The wind is howling like crazy, huh? ccc
-        Yeah, hiking on a day like this is the worst! ccc
-        If only we'd get some rain, then it would get canceled. ccc
+        The wind is howling like crazy, huh? (casual)
+        Yeah, hiking on a day like this is the worst! (casual)
+        If only we'd get some rain, then it would get canceled. (casual)
     tags:
       - shad5-5
   - id: ecc0666a-1a5f-46fd-87a2-d8270aba07a6
@@ -6440,9 +6441,9 @@ clips:
         Ie, tóku-ni-wa...
         Ja, warúi-tokoró-o kezutte ikimásu. Itákattara té-o agete kudasái.
       meaning: |-
-        Ooh, you've got a cavity in your back tooth. Does it hurt? ppp
-        No, not especially. ppp
-        Okay then, I'll go ahead and remove the bad part. Please raise your hand if it hurts. ppp
+        Ooh, you've got a cavity in your back tooth. Does it hurt? (polite)
+        No, not especially. (polite)
+        Okay then, I'll go ahead and remove the bad part. Please raise your hand if it hurts. (polite)
     tags:
       - shad5-5
   - id: b4852d9f-482f-48b6-8f2b-c6f19c4e50ee
@@ -6451,16 +6452,16 @@ clips:
     fields:
       transcription: |-
         先生、合格しました！
-        わーおめでとう。よく頑張りましたね。
+        わー、おめでとう。よく頑張りましたね。
         先生のおかげです。本当にありがとうございました。
       pronunciation: |-
         Senséi, goukaku shimáshita!
         Wa, omedetou. Yóku ganbarimáshita ne.
         Senséi-no okage-désu. Hontou-ni arígatou gozaimáshita.
       meaning: |-
-        Sensei, I passed! ppp
-        Whoa, congratulations! You really did your best, didn't you? ppp
-        Thanks to you. Thank you so much. ppp
+        Sensei, I passed! (polite)
+        Whoa, congratulations! You really did your best, didn't you? (polite)
+        Thanks to you. Thank you so much. (polite)
     tags:
       - shad5-5
   - id: 25eb6e52-1933-406f-a67d-80c27c2b16d9
@@ -6478,10 +6479,10 @@ clips:
         Zéhi, asobi-ni kíte kudasái. Go-annai shimásu-kara.
         Ún, iku-tóki-wa kanarazu renraku shimásu ne.
       meaning: |-
-        You've helped me out a lot. I'm going back to my country tomorrow. ppp
-        I see. It won't be the same [without you]! ppp
-        Make sure to come visit. I'll show you around. ppp
-        Yeah, when I go I'll definitely contact you. ppp
+        You've helped me out a lot. I'm going back to my country tomorrow. (polite)
+        I see. It won't be the same [without you]!  (polite)
+        Make sure to come visit. I'll show you around.  (polite)
+        Yeah, when I go I'll definitely contact you.  (polite)
     tags:
       - shad5-5
   - id: 48b204dd-c768-4f9c-805c-d99e847f18b8
@@ -6499,10 +6500,10 @@ clips:
         Chótto, míte kíte kurenai?
         Mo, ki-ni náru hitó-ga jibun-de míte kuréba?
       meaning: |-
-        Did the bell not just ring? ccc
-        Huh, it's got to be your imagination, right? ccc
-        Won't you go and check? ccc
-        Jeez, how about you go look yourself, if you're so worried? ccc
+        Did the bell not just ring? (casual)
+        Huh, it's got to be your imagination, right? (casual)
+        Won't you go and check? (casual)
+        Jeez, how about you go look yourself, if you're so worried? (casual)
     tags:
       - shad5-5
   - id: e76728df-6352-4dc2-a6e7-bd9b3b87ba20
@@ -6520,10 +6521,10 @@ clips:
         Ún, háitte rú-no-ni hén-da na.
         Shiidíi-no múki-wa daijóubu-desu ka?
       meaning: |-
-        Huh? There's no sound coming out. I wonder if it's broken. ccc
-        Is it plugged into the outlet? ccc
-        Yeah, it is. It's really weird. ccc
-        Is the CD facing the right way? ccc
+        Huh? There's no sound coming out. I wonder if it's broken. (casual)
+        Is it plugged into the outlet? (casual)
+        Yeah, it is. It's really weird. (casual)
+        Is the CD facing the right way? (casual)
     tags:
       - shad5-5
   - id: dab7108c-cdf4-41c9-bb46-89e4fa25aeda
@@ -6540,10 +6541,10 @@ clips:
         Wakarimáshita. Ja, káigi saki-ni hajimete másu ne.
         Awatenákute íi kara, ki-o tsúkete kíte kudasái ne.
       meaning: |-
-        Hello, yes, well, they don't know when the train will be moving, so... ppp
-        I understand. We'll start the meeting ahead of you, then. ppp
+        Hello, yes, well, they don't know when the train will be moving, so... (polite)
+        I understand. We'll start the meeting ahead of you, then. (polite)
         Sorry, thanks.
-        No need to rush, you take your time. ppp
+        No need to rush, you take your time. (polite)
     tags:
       - shad5-5
   - id: 22c0594f-421e-420d-8b3b-37f669749b5d
@@ -6559,9 +6560,9 @@ clips:
         Chíkaku-ni koushuu-dénwa nái? Mitsukete, kake-náoshite yo.
         Wakátta. Sagashite míru ne. Chótto mátte te.
       meaning: |-
-        Ah, the batteries are about to run out. What should I do? ccc
-        Isn't there a public phone nearby? Find one and call me back! ccc
-        Got it. I'll try looking for one. Hang on, okay? ccc
+        Ah, the batteries are about to run out. What should I do? (casual)
+        Isn't there a public phone nearby? Find one and call me back! (casual)
+        Got it. I'll try looking for one. Hang on, okay? (casual)
     tags:
       - shad5-5
   - id: 6702d952-af8a-424b-a4a3-8c0dd45723fa
@@ -6579,9 +6580,9 @@ clips:
         Sóu-desu ka, arígatou gozaimásu.
         Isógu-nara, jidouhanbáiki-de-mo kaemásu yo.
       meaning: |-
-        Um, where is the counter for fixed-term [commuter] passes? ppp
-        Ah, next to the green ticket window. ppp
-        If you hurry, you can buy one at the vending machine, too. pp
+        Um, where is the counter for fixed-term [commuter] passes? (polite)
+        Ah, next to the green ticket window. (polite)
+        If you hurry, you can buy one at the vending machine, too. (polite)
       notes: This "úriba" isn't necessarily a counter. It's any place where stuff is sold.
     tags:
       - shad5-6
@@ -6600,9 +6601,9 @@ clips:
         Ja, kyuu-ni byouki-ni nátta-toki-wa?
         Káji-no tokí-to onaji ichi-íchi kyúu-ban-desu. 
       meaning: |-
-        The police are at 110, right? ppp
-        So, what if you suddenly get ill? ppp
-        The same as in case of a fire, 119. ppp
+        The police are at 110, right? (polite)
+        So, what if you suddenly get ill? (polite)
+        The same as in case of a fire, 119. (polite)
     tags:
       - shad5-6
   - id: fd564fc9-c3dd-4119-af40-7fe656877df4
@@ -6620,10 +6621,10 @@ clips:
         Ano, garasu-ga háitte irú-n-desu ga.
         Sore-dé-wa koware-mono-no tokoró-ni maru-o tsúkete kudasái.
       meaning: |-
-        Excuse me, I'd like an express delivery, please. ppp
-        All right, then please write all the necessary information in this box. ppp
-        But, um, there's glass inside. ppp
-        In that case, put a circle in the spot for fragile items. ppp
+        Excuse me, I'd like an express delivery, please. (polite)
+        All right, then please write all the necessary information in this box. (polite)
+        But, um, there's glass inside. (polite)
+        In that case, put a circle in the spot for fragile items. (polite)
     tags:
       - shad5-6
   - id: 7fed4288-8054-4ba3-a556-84683846aeef
@@ -6639,9 +6640,9 @@ clips:
         Sumimasén, Shinjuku-ku-yákusho-no denwa-bángou-ga shiri-tái-n-desu ga.
         Hai, Shinjuku-ku-yákusho-desu ne. Sore-dé-wa téepu-de go-annai sasete itadakimásu. Go-riyou arígatou gozaimáshita.
       meaning: |-
-        Hello, this is Tanaka with 104. ppp
-        Excuse me, I'm looking for the number for the Shinjuku-ku public office. ppp
-        Yes sir, the Shinjuku-ku public office. Now, if you would be so kind as to listen to the information on tape. Thank you for using our service. ppp
+        Hello, this is Tanaka with 104. (polite)
+        Excuse me, I'm looking for the number for the Shinjuku-ku public office. (polite)
+        Yes sir, the Shinjuku-ku public office. Now, if you would be so kind as to listen to the information on tape. Thank you for using our service. (polite)
     tags:
       - shad5-6
   - id: 6fdcfec4-32c8-4afd-abf2-f35c8be5930f
@@ -6657,9 +6658,9 @@ clips:
         Hai, nan-ji-góro-no yoyaku-ga yoroshíi-deshou ka.
         Sóu-desu ne. Ja, sán-ji-de onegai shimásu.
       meaning: |-
-        Excuse me, I'd like a shampoo and a cut today. ppp
-        All right, what time would you like your reservation? ppp
-        Hmmm, three o'clock, please. ppp
+        Excuse me, I'd like a shampoo and a cut today. (polite)
+        All right, what time would you like your reservation? (polite)
+        Hmmm, three o'clock, please. (polite)
     tags:
       - shad5-6
   - id: 82e99c4e-5aa9-43c0-a078-d3c5f8edc267
@@ -6675,7 +6676,7 @@ clips:
         Hai, yakiniku-désu ne. Yón-hyaku go-júu-en-desu.
         Ano, góhan sukuname-de onegai shimásu.
       meaning: |-
-        One yakiniku lunch box, please. ppp
+        One yakiniku lunch box, please. (polite)
         All right, yakiniku, coming right up. 450 yen, please.
         Um, can I have slightly less right, please?
     tags:
@@ -6693,9 +6694,9 @@ clips:
         Hai, arígatou gozaimásu. Miso-shíru-wa tsukemásu ka?
         Un, dóu shiyóu ka na, a, kyóu-wa yametokimásu.
       meaning: |-
-        I'd like the daily special lunch box, with a large serving of rice, please. ppp
-        Thank you very much. Would you like some miso soup with that? ppp
-        Hm, what to do... Oh, I think I'll hold off [on that]. ppp
+        I'd like the daily special lunch box, with a large serving of rice, please. (polite)
+        Thank you very much. Would you like some miso soup with that? (polite)
+        Hm, what to do... Oh, I think I'll hold off [on that]. (polite)
     tags:
       - shad5-6
   - id: 7d700b97-c070-4d3f-b0b4-49bbd82c3da0
@@ -6711,8 +6712,8 @@ clips:
         Hai, arígatou gozaimásu. Rousóku-o tsukemásu ka?
         Hai, ja, ookíi-no-o yón-hon-to chiisái-no-o sán-bon-de.
       meaning: |-
-        I'd like this birthday cake, please. ppp
-        Thank you very much. Would you like candles with that? ppp
+        I'd like this birthday cake, please. (polite)
+        Thank you very much. Would you like candles with that? (polite)
         Yes, right, four of the big ones, and three of the small ones.
     tags:
       - shad5-6
@@ -6731,10 +6732,10 @@ clips:
         Un, ichi-mán go-sen-en-kúrai ka na, koutsúu-hi kómi-de.
         Sore-dé-wa, kochira-nádo ikága deshou.
       meaning: |-
-        Is there a hot spring we could go for one night (and two days)? ppp
-        What kind of budget are you thinking? ppp
-        Hm, about 15,000 yen, I guess, including transportation costs. ppp
-        In that case, how about something like this? ppp
+        Is there a hot spring we could go for one night (and two days)? (polite)
+        What kind of budget are you thinking? (polite)
+        Hm, about 15,000 yen, I guess, including transportation costs. (polite)
+        In that case, how about something like this? (polite)
     tags:
       - shad5-6
   - id: 4cf8e613-780f-4183-8e5b-34e8784b8808
@@ -6752,10 +6753,10 @@ clips:
         Toukyou-éki-kara desu.
         Ja, sán-byaku roku-juu-én-desu ne.
       meaning: |-
-        Excuse me, I dropped my ticket. ppp
-        Where did you get on? ppp
-        Tokyo station. ppp
-        That will be 360 yen, then. ppp
+        Excuse me, I dropped my ticket. (polite)
+        Where did you get on? (polite)
+        Tokyo station. (polite)
+        That will be 360 yen, then. (polite)
     tags:
       - shad5-6
   - id: 4803c80b-3a84-48c2-b2d4-faf931f6af7f
@@ -6771,9 +6772,9 @@ clips:
         Hai, go-kíro-kara haitatsu shimásu.
         Ja, onegai shimásu.
       meaning: |-
-        Excuse me, can you get rice delivered here? ppp
-        Yes, we deliver starting from 5 kilos. ppp
-        All right then, I'll do that, please. ppp
+        Excuse me, can you get rice delivered here? (polite)
+        Yes, we deliver starting from 5 kilos. (polite)
+        All right then, I'll do that, please. (polite)
     tags:
       - shad5-7
   - id: 8089d6a4-c189-44f0-9846-63e8b00f1584
@@ -6791,10 +6792,10 @@ clips:
         Nándaka, nedan-no yasúi-mono bákari-desu ne.
         Sóu sóu, zeitáku shinakuté-mo kenkou-ni naréru-n-da yo ne.
       meaning: |-
-        What would be a low-calorie, healthy food? ppp
-        Let's see, something like konnyaku or tofu. ppp
-        Somehow it's nothing but cheap stuff, huh? ppp
-        That's true, you don't have to go all out to get healthy, right ppp
+        What would be a low-calorie, healthy food? (polite)
+        Let's see, something like konnyaku or tofu. (polite)
+        Somehow it's nothing but cheap stuff, huh? (polite)
+        That's true, you don't have to go all out to get healthy, right (polite)
     tags:
       - shad5-7
   - id: e313eb10-7222-45a6-bdb8-9e01f77c6c97
@@ -6810,9 +6811,9 @@ clips:
         E, sóu-na-n-desu ka?
         Máe-no júusho-ni kíta tegami-mo, chanto atarashíi tokoró-made todókete kurerú-n-desu yo.
       meaning: |-
-        It's really convenient if you report your new address to the post office when you move. ppp
-        Huh, is it? ppp
-        They even deliver any letters that arrived at your old address to your new address for you! ppp
+        It's really convenient if you report your new address to the post office when you move. (polite)
+        Huh, is it? (polite)
+        They even deliver any letters that arrived at your old address to your new address for you! (polite)
     tags:
       - shad5-7
   - id: 9d105a2e-b9f5-42d8-9f4b-964c4c2f4bfb
@@ -6827,9 +6828,9 @@ clips:
         Burando-hin-wa yappári afutaakéa-ga íi yo ne.
         Kono máe, kaban-no totte-ga kowáreta-toki, súgu-ni naóshite kuretá-shi ne.
       meaning: |-
-        Brand-name goods really do have good after-sales service. ccc
-        Yeah, they really do! ccc
-        Earlier, when the handle on my bag broke,  they fixed it for me right way. ccc
+        Brand-name goods really do have good after-sales service. (casual)
+        Yeah, they really do! (casual)
+        Earlier, when the handle on my bag broke,  they fixed it for me right way. (casual)
     tags:
       - shad5-7
   - id: 92cae8bf-fece-4cc7-8aac-76c129ed2c8c
@@ -6845,9 +6846,9 @@ clips:
         Mánshon-no máe-ni takái bíru-ga tátta-kara ka na.
         A, sóu kamo!
       meaning: |-
-        The TV image quality has been really bad recently, hasn't it? ccc
-        I wonder if it's since they built the tall building in front of the apartment building. ccc
-        Oh, maybe that's it! ccc.
+        The TV image quality has been really bad recently, hasn't it? (casual)
+        I wonder if it's since they built the tall building in front of the apartment building. (casual)
+        Oh, maybe that's it! (casual).
     tags:
       - shad5-7
   - id: 2d5171aa-6ef6-4d8b-beb6-39b504679987
@@ -6863,9 +6864,9 @@ clips:
         Shashin-ya-san-ni dejikame-o motte-ikéba shite kuremásu yo.
         He, sóu-na-n-da.
       meaning: |-
-        I'd like to print a photo I took with my digital camera. ppp
-        If you take it to the camera shop, they'll do it for you, you know. ppp
-        Whoa, really? ppp
+        I'd like to print a photo I took with my digital camera. (polite)
+        If you take it to the camera shop, they'll do it for you, you know. (polite)
+        Whoa, really? (polite)
     tags:
       - shad5-7
   - id: ced08016-2ef7-44d3-8a25-e77da23b897f
@@ -6881,9 +6882,9 @@ clips:
         Dono-kurai-máde kirimásu ka
         Máyuge-ga kakuréru gúrai-made, kítte kudasái.
       meaning: |-
-        So um, I'd like my bangs a little shorter. ppp
-        How much shorter should I cut it? ppp
-        Would you cut it so that my eyebrows are hidden? ppp
+        So um, I'd like my bangs a little shorter. (polite)
+        How much shorter should I cut it? (polite)
+        Would you cut it so that my eyebrows are hidden? (polite)
     tags:
       - shad5-7
   - id: 7f7bb12b-c760-4104-9b0f-e0221491fbb7
@@ -6901,8 +6902,8 @@ clips:
         Ano, dekiréba kono shashin-mítai-ni shite kudasái.
         Hai, wakarimáshita.
       meaning: |-
-        I'd like to put loose curls in my hair. ppp
-        Yes, ma'am. ppp
+        I'd like to put loose curls in my hair. (polite)
+        Yes, ma'am. (polite)
         Um, 
     tags:
       - shad5-7
@@ -6921,10 +6922,10 @@ clips:
         Nihongo-mo oboeraréru shi, keeki-tsúkuri-mo jouzú-ni náru-kara-desu.
         Sore-wa, is-seki-ní-chou-tte kotó-desu ne.
       meaning: |-
-        I've been wanting to apply for a cake class. ppp
+        I've been wanting to apply for a cake class. (polite)
         Whoa, awesome! But why?
-        Because I'll be able to learn some Japanese, and I'lll be able to get good at making cakes. ppp
-        That's what you call two birds, one stone. ppp
+        Because I'll be able to learn some Japanese, and I'lll be able to get good at making cakes. (polite)
+        That's what you call two birds, one stone. (polite)
     tags:
       - shad5-7
   - id: 29aa9ddf-1f96-4890-96e8-9d38b2e78d8d
@@ -6942,13 +6943,14 @@ clips:
         Ja, is-seki-sán-chou-desu yo. Soko-de booifuréndo-mo mitsukeru-tsumori-désu-kara.
         Su, sugói!
       meaning: |-
-        What does that mean, two birds, one stone? ppp
-        It's when you get two good things after doing one thing. ppp
-        Then, it's three birds, one stone! I plan on finding a boyfriend there, too! ppp
-        Wh-whoa! ppp
+        What does that mean, two birds, one stone? (polite)
+        It's when you get two good things after doing one thing. (polite)
+        Then, it's three birds, one stone! I plan on finding a boyfriend there, too! (polite)
+        Wh-whoa! (polite)
     tags:
       - shad5-7
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 1-1-1 onna no ko.m4a
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 03:39.312
@@ -7334,7 +7336,8 @@ clips:
         iimásu = iu
     tags:
       - jgr1-1-1
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 1-1-2 hachi no hanashi.m4a
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 03:45.559
@@ -7676,7 +7679,8 @@ clips:
       meaning: Now, in front of Shibuya Station, there is a statue of Hachi. (polite)
     tags:
       - jgr1-1-2
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 1-1-3 jonsan nihon e.m4a
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 07:05.924
@@ -8220,7 +8224,8 @@ clips:
         waraimásu = warau
     tags:
       - jgr1-1-3
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 1-1-4 urashima tarou.m4a
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 07:46.791
@@ -8947,7 +8952,8 @@ clips:
       meaning: Nobody knows that. (polite)
     tags:
       - jgr1-1-4
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 1-1-5 waraibanashi.m4a
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 10:46.281
@@ -9584,7 +9590,7 @@ clips:
     end: 07:02.237
     fields:
       pronunciation: Ookíi misé-ga arimásu.
-      meaning: There is a big shop. ppp
+      meaning: There is a big shop. (polite)
     tags:
       - jgr1-1-5
   - id: f564fac0-a71c-46a1-ae40-d8af4b35abb5
@@ -9592,7 +9598,7 @@ clips:
     end: 07:06.043
     fields:
       pronunciation: Takusán-no hitó-ga misé-de hatarakimásu.
-      meaning: Lots of people work at the shop. ppp
+      meaning: Lots of people work at the shop. (polite)
       notes: hatarakimásu = hataraku
     tags:
       - jgr1-1-5
@@ -9601,7 +9607,7 @@ clips:
     end: 07:09.769
     fields:
       pronunciation: Tárou-mo misé-de hatarakimásu.
-      meaning: Tarou works at the shop, too. ppp
+      meaning: Tarou works at the shop, too. (polite)
     tags:
       - jgr1-1-5
   - id: d3378290-cc03-4d05-a080-a18be5174848
@@ -9609,7 +9615,7 @@ clips:
     end: 07:13.521
     fields:
       pronunciation: Misé-wa totemo isogashíi-desu.
-      meaning: The shop is very busy. ppp
+      meaning: The shop is very busy. (polite)
     tags:
       - jgr1-1-5
   - id: a455f188-c1d0-4e96-a23d-aee1da048001
@@ -9617,7 +9623,7 @@ clips:
     end: 07:19.988
     fields:
       pronunciation: Tárou-wa máinichi máinichi takusan hatarakimásu.
-      meaning: Tarou works hard every single day. ppp
+      meaning: Tarou works hard every single day. (polite)
     tags:
       - jgr1-1-5
   - id: ec70b250-ae3a-4735-b68c-fdfe4800d9a1
@@ -9625,7 +9631,7 @@ clips:
     end: 07:24.155
     fields:
       pronunciation: Ása-kara yóru-made hatarakimásu.
-      meaning: "[He] works from morning till night. ppp"
+      meaning: "[He] works from morning till night. (polite)"
     tags:
       - jgr1-1-5
   - id: f08a747c-c3c3-4f4b-bd00-4708f7fcb2c4
@@ -9633,7 +9639,7 @@ clips:
     end: 07:27.075
     fields:
       pronunciation: Totemo tsukaremásu.
-      meaning: "[He] gets very tired. ppp"
+      meaning: "[He] gets very tired. (polite)"
       notes: tsukaremásu = tsukaréru
     tags:
       - jgr1-1-5
@@ -9642,7 +9648,7 @@ clips:
     end: 07:31.892
     fields:
       pronunciation: Démo, o-kane-wa amari moraimasén.
-      meaning: However, [he] doesn't get much money. ppp
+      meaning: However, [he] doesn't get much money. (polite)
       notes: moraimásu = morau
     tags:
       - jgr1-1-5
@@ -9651,7 +9657,7 @@ clips:
     end: 07:34.445
     fields:
       pronunciation: Sukoshi-dake-désu.
-      meaning: It's only a little bit. ppp
+      meaning: It's only a little bit. (polite)
     tags:
       - jgr1-1-5
   - id: ff38af4b-2e25-46bd-9c7f-c843b8d72a2c
@@ -9659,7 +9665,7 @@ clips:
     end: 07:42.044
     fields:
       pronunciation: Tárou-wa chiisái kóe-de iimáshita. "Tanóshiku nai na."
-      meaning: Tarou said in a quiet voice ppp, "This sure isn't fun."
+      meaning: Tarou said in a quiet voice (polite), "This sure isn't fun."
     tags:
       - jgr1-1-5
   - id: 468f5747-2855-4b39-b864-7ef1534e86d6
@@ -9675,7 +9681,7 @@ clips:
     end: 07:49.901
     fields:
       pronunciation: Tárou-wa yóru, misé-de nemásu.
-      meaning: "Tarou sleeps in the shop at night. ppp "
+      meaning: "Tarou sleeps in the shop at night. (polite) "
       notes: nemásu = néru
     tags:
       - jgr1-1-5
@@ -9684,7 +9690,7 @@ clips:
     end: 07:53.613
     fields:
       pronunciation: Hoka-no hito-tachí-to issho-ni nemásu.
-      meaning: "[He] sleeps together with the other people. ppp"
+      meaning: "[He] sleeps together with the other people. (polite)"
     tags:
       - jgr1-1-5
   - id: c49070f5-f9fa-4698-be74-2fb9f027d836
@@ -9692,7 +9698,7 @@ clips:
     end: 07:59.316
     fields:
       pronunciation: Tárou-wa, uchi-de, hitóri-de yasumi-tái-desu.
-      meaning: Tarou wants to rest at home by himself. ppp
+      meaning: Tarou wants to rest at home by himself. (polite)
       notes: yasúmu
     tags:
       - jgr1-1-5
@@ -9710,7 +9716,7 @@ clips:
     end: 08:14.268
     fields:
       pronunciation: Tsugí-no hi, Tárou-wa mise-nó hitó-ni iimáshita. "Watashi-wa byouki-désu. Uchi-ni kaerimásu."
-      meaning: The next day, Tarou said to the people at the shop,   "I'm very ill. I'm going home." ppp
+      meaning: The next day, Tarou said to the people at the shop,   "I'm very ill. I'm going home." (polite)
     tags:
       - jgr1-1-5
   - id: cdad5983-cb1e-4fce-9c0f-0648ca29aef6
@@ -9718,7 +9724,7 @@ clips:
     end: 08:24.104
     fields:
       pronunciation: Íma, Tárou-wa uchi-ni imásu. Uchi-wa yama-nó chíkaku-ni arimásu.
-      meaning: Now, Tarou is at [his] house. [His] house is near the mountains. ppp
+      meaning: Now, Tarou is at [his] house. [His] house is near the mountains. (polite)
     tags:
       - jgr1-1-5
   - id: 449ddc97-af9f-43b6-bae9-43a9820ebde2
@@ -9726,7 +9732,7 @@ clips:
     end: 08:26.91
     fields:
       pronunciation: Totemo shízuka-desu.
-      meaning: It's very quiet. ppp
+      meaning: It's very quiet. (polite)
     tags:
       - jgr1-1-5
   - id: 413a9537-9066-48b7-9371-d39a46b77316
@@ -9734,7 +9740,7 @@ clips:
     end: 08:31.576
     fields:
       pronunciation: Tárou-wa, yóru, hitóri-de nemáshita.
-      meaning: Tarou slept alone at night. ppp
+      meaning: Tarou slept alone at night. (polite)
       notes: |-
         nemáshita = neta
         nemásu = neru
@@ -9753,7 +9759,7 @@ clips:
     end: 08:38.905
     fields:
       pronunciation: Tárou-wa okimáshita.
-      meaning: Tarou got up. ppp
+      meaning: Tarou got up. (polite)
     tags:
       - jgr1-1-5
   - id: 5e0f607a-c32d-44af-b833-c00ab4ca79cb
@@ -9761,7 +9767,7 @@ clips:
     end: 08:41.966
     fields:
       pronunciation: Móu, hirú-desu.
-      meaning: It's already noon. ppp
+      meaning: It's already noon. (polite)
     tags:
       - jgr1-1-5
   - id: ef4925ca-90b9-4af6-9d3c-11e123ca7cee
@@ -9769,7 +9775,7 @@ clips:
     end: 08:51.76
     fields:
       pronunciation: Tárou-wa iimáshita. "Ocha-ga nomi-tái naa." Démo, ocha-ga arimasén.
-      meaning: Tarou said, "I sure would like to drink some tea." However, he has no tea. ppp
+      meaning: Tarou said, "I sure would like to drink some tea." However, he has no tea. (polite)
     tags:
       - jgr1-1-5
   - id: 485428ce-5ca4-489c-8d9d-c62c56d5a7f9
@@ -9777,7 +9783,7 @@ clips:
     end: 08:59.173
     fields:
       pronunciation: '"Góhan-mo tabe-tái naa." Démo, góhan-ga arimasén.'
-      meaning: "\"I'd really like to to eat some food, too.\" However, he has no food. ppp"
+      meaning: "\"I'd really like to to eat some food, too.\" However, he has no food. (polite)"
     tags:
       - jgr1-1-5
   - id: 40ae6128-1fe8-42e1-b86b-1aee1b5f2006
@@ -9785,7 +9791,7 @@ clips:
     end: 09:02.159
     fields:
       pronunciation: Nanimo arimasén.
-      meaning: He doesn't have any of it. ppp
+      meaning: He doesn't have any of it. (polite)
     tags:
       - jgr1-1-5
   - id: edc7823b-cade-4b6a-9efe-28c2e518405e
@@ -9793,7 +9799,7 @@ clips:
     end: 09:09.609
     fields:
       pronunciation: Tárou-wa kawá-e ikimásu. Sakana-o torimásu.
-      meaning: Tarou goes to the river. He catches fish. ppp
+      meaning: Tarou goes to the river. He catches fish. (polite)
     tags:
       - jgr1-1-5
   - id: 86e64394-f031-40b3-8dff-ec01837ac1df
@@ -9801,7 +9807,7 @@ clips:
     end: 09:13.196
     fields:
       pronunciation: Tárou-wa yamá-e ikimásu.
-      meaning: Tarou goes to the mountains. ppp
+      meaning: Tarou goes to the mountains. (polite)
     tags:
       - jgr1-1-5
   - id: e1889bb6-c444-4464-81bb-123f48c0bb26
@@ -9809,7 +9815,7 @@ clips:
     end: 09:15.802
     fields:
       pronunciation: Kudámono-o torimásu.
-      meaning: He picks fruit. ppp
+      meaning: He picks fruit. (polite)
       notes: torimásu = tóru
     tags:
       - jgr1-1-5
@@ -9818,7 +9824,7 @@ clips:
     end: 09:19.207
     fields:
       pronunciation: Soshite, uchi-e kaerimásu.
-      meaning: Then, he goes back home. ppp
+      meaning: Then, he goes back home. (polite)
       notes: kaerimásu = kaéru
     tags:
       - jgr1-1-5
@@ -9827,7 +9833,7 @@ clips:
     end: 09:21.728
     fields:
       pronunciation: Ryóuri-o shimásu.
-      meaning: He cooks. ppp
+      meaning: He cooks. (polite)
     tags:
       - jgr1-1-5
   - id: a716b1dc-513b-431f-a6e6-ccb7c3adbece
@@ -9835,7 +9841,7 @@ clips:
     end: 09:25.193
     fields:
       pronunciation: Ryóuri-wa taihen-désu.
-      meaning: Cooking is hard. ppp
+      meaning: Cooking is hard. (polite)
     tags:
       - jgr1-1-5
   - id: bab6a9f6-1456-49a3-995d-a131802af44a
@@ -9859,7 +9865,7 @@ clips:
     end: 09:43.637
     fields:
       pronunciation: Tsugi-no hi-kara, Tárou-wa máinichi kawá-e ikimásu. Yamá-e ikimásu.
-      meaning: From the next day on, Tarou goes to the river every day. He goes to the mountains. ppp
+      meaning: From the next day on, Tarou goes to the river every day. He goes to the mountains. (polite)
     tags:
       - jgr1-1-5
   - id: f02cbba6-07b6-475d-a9a1-16e86848f6fd
@@ -9867,7 +9873,7 @@ clips:
     end: 09:48.744
     fields:
       pronunciation: Ryóuri-o shimásu. Souji-mo shimásu.
-      meaning: He cooks. He cleans, as well. ppp
+      meaning: He cooks. He cleans, as well. (polite)
     tags:
       - jgr1-1-5
   - id: bc2344d9-6dc3-4706-9523-7755810cdd9c
@@ -9875,7 +9881,7 @@ clips:
     end: 09:51.463
     fields:
       pronunciation: Sentaku-mo shimásu.
-      meaning: He does the laundry, too. ppp
+      meaning: He does the laundry, too. (polite)
     tags:
       - jgr1-1-5
   - id: e47d2113-8c9d-43ae-9e65-e9542f516fe6
@@ -9883,7 +9889,7 @@ clips:
     end: 09:57.038
     fields:
       pronunciation: Totemo taihen-désu. Tanóshiku nái-desu.
-      meaning: It's a really rough time. It's not fun. ppp
+      meaning: It's a really rough time. It's not fun. (polite)
     tags:
       - jgr1-1-5
   - id: 0dea708a-180c-4679-bb91-3924572bebdc
@@ -9891,7 +9897,7 @@ clips:
     end: 10:11.146
     fields:
       pronunciation: Tárou-wa iimásu. "Misé-ni-wa, ítsumo mizu-ga arimásu. Ocha-mo arimásu. Góhan-mo arimásu."
-      meaning: Tarou says, "There's always water at the shop. There's tea, too. There's food, too." ppp
+      meaning: Tarou says, "There's always water at the shop. There's tea, too. There's food, too." (polite)
     tags:
       - jgr1-1-5
   - id: e4091b41-4510-435e-8cf6-df0e6339df6c
@@ -9899,7 +9905,7 @@ clips:
     end: 10:15.131
     fields:
       pronunciation: Dá-kara watashi-wa kawá-e ikimasén.
-      meaning: So I will not go to the river. ppp
+      meaning: So I will not go to the river. (polite)
     tags:
       - jgr1-1-5
   - id: dfca304f-8a59-4578-9640-058018025109
@@ -9907,7 +9913,7 @@ clips:
     end: 10:17.514
     fields:
       pronunciation: Yamá-e-mo ikimasén.
-      meaning: "[I] won't go to the mountains, either. ppp"
+      meaning: "[I] won't go to the mountains, either. (polite)"
     tags:
       - jgr1-1-5
   - id: 7486e880-82cc-4ab6-8f81-4c23c7615ded
@@ -9915,7 +9921,7 @@ clips:
     end: 10:22.093
     fields:
       pronunciation: Ryóuri-mo shimasén. Souji-mo shimasén.
-      meaning: "[I] won't cook, either. [I] won't clean, either. ppp"
+      meaning: "[I] won't cook, either. [I] won't clean, either. (polite)"
     tags:
       - jgr1-1-5
   - id: 9d5167f0-2915-47a7-9191-b3d996dad8ca
@@ -9923,10 +9929,11 @@ clips:
     end: 10:30.078
     fields:
       pronunciation: Watashi-wa, misé-ga íi-desu. Watashi-wa, mata misé-de hataraki-tái!
-      meaning: I'm fine with the shop. I want to work at the shop again! ppp
+      meaning: I'm fine with the shop. I want to work at the shop again! (polite)
     tags:
       - jgr1-1-5
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 1-3-1 basu.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 07:39.912
@@ -10473,7 +10480,8 @@ clips:
       pronunciation: Soshite, "Maruyama-Higashí"-no basu-tei-de, kyóu-mo iimásu. "O-báa-chan, arígatou!"
     tags:
       - jgr1-3-1
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 1-3-2 kimono.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 06:31.915
@@ -10965,7 +10973,8 @@ clips:
     end: 06:31.915
     tags:
       - jgr1-3-2
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 1-3-3 doushite ebi no karada wa magatta.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 03:04.242
@@ -11182,7 +11191,8 @@ clips:
       pronunciation: Sore-kara, ebi-no karada-wa magarimáshita.
     tags:
       - jgr1-3-3
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 1-3-4 doushite nekodoshi ga nai.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 06:35.99
@@ -11594,7 +11604,8 @@ clips:
       pronunciation: Soshite, íma-mo, néko-wa, nezumi-ga kirai-désu.
     tags:
       - jgr1-3-4
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 1-3-5 shitakiri suzume.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 08:33.019
@@ -12110,12 +12121,14 @@ clips:
     end: 08:33.019
     tags:
       - jgr1-3-5
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 1-3-6 jon san no natsuyasumi.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 08:58.436
 id: 0937d045-0011-4b9b-9bc6-23ee437cb336
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: genki 01 atarashii tomodachi.mp3
 format: mp3
 duration: 01:51.969
@@ -12246,97 +12259,116 @@ clips:
     end: 01:47.249
     tags:
       - genki-01
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: genki 02 kaimono.mp3
 format: mp3
 duration: 04:16.687
 id: cb484ed8-ab6f-46b8-b534-b6aca4940d61
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: genki 03 deeto no yakusoku.mp3
 format: mp3
 duration: 03:27.237
 id: a83b5e14-fae6-472e-bf9c-98de935c793a
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: genki 04 hajimete no deeto.mp3
 format: mp3
 duration: 04:55.348
 id: 27152550-922b-4b91-9e76-05ee29248cf3
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: genki 05 okinawa ryokou.mp3
 format: mp3
 duration: 04:22.878
 id: 977f821d-0797-441a-8b91-2e0e110b7a69
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: genki 06 robaato san no ichinichi.mp3
 format: mp3
 duration: 04:58.901
 id: 8b828800-e216-4d91-ab51-d74e68ba60f0
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: genki 07 kazoku no shashin.mp3
 format: mp3
 duration: 04:43.931
 id: 0e7344b3-d45d-430f-ab23-4d8aa2f620fa
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: genki 08 babekkyuu.mp3
 format: mp3
 duration: 03:24.624
 id: 166bb448-4565-4be6-9d1a-56282cdf5a25
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: genki 09 kabuki.mp3
 format: mp3
 duration: 03:44.189
 id: 762f4125-2de0-4b03-ad52-bf365d2f724b
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: genki 10 fuyuyasumi no yotei.mp3
 format: mp3
 duration: 04:07.83
 id: 397a83b6-9841-4639-ab77-b3a09ab411ca
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: genki 11 yasumi no ato.mp3
 format: mp3
 duration: 04:38.263
 id: 7fb0d9e0-ca51-481c-ab34-a9ca2dd9a4e6
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: genki 12 byouki.mp3
 format: mp3
 duration: 03:37.685
 id: 959449c9-0eb6-41ed-a5b4-275933b822bd
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 2-3-1 nihon no ofuro.mp3
 format: mp3
 duration: 10:46.269
 id: 3a1a8d64-e9d5-465b-94e0-cfa5a4d5ca57
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 2-3-2 houi to chana.mp3
 format: mp3
 duration: 10:51.363
 id: 187f4f83-7498-4535-937d-0319483b8db2
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 2-3-3 gonkitsune.mp3
 format: mp3
 duration: 11:31.775
 id: 7547cb4e-9b2d-471b-92e1-f61ce458aa0f
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 2-3-4 soopii no fuyu no ie.mp3
 format: mp3
 duration: 11:58.942
 id: b4119e57-282c-412c-85a7-1daa0d8e03f4
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 2-3-5 ikkyuusan sono ni 1 rousoku.mp3
 format: mp3
 duration: 03:36.268
 id: a89170d6-0777-489b-b5be-a7a9a2b215d4
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 2-3-5 ikkyuusan sono ni 2 hashi.mp3
 format: mp3
 duration: 02:59.383
 id: da7c8cba-b021-4b40-a523-0bb3fb17819e
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: JGR 2-3-5 ikkyuusan sono ni 3 obousan no kimono.mp3
 format: mp3
 duration: 05:18.694
 id: 8ff9ca61-cc5b-4a77-a89e-6abc70ebf3ae
-...
+flashcardFieldsToSubtitlesTracks: {}
+---
 name: Shirokuma Cafe.mkv
 format: matroska,webm
 duration: 24:24.715
@@ -12345,6 +12377,7 @@ subtitles:
   - id: 507d82c5-da23-4b4d-b6c1-53c0c9732731
     streamIndex: 2
     type: Embedded
+    chunksMetadata: null
 clips:
   - id: a5e41ab8-e280-4ecd-a169-16f8cc3d99a4
     start: 03:41.2
@@ -12424,3 +12457,4 @@ clips:
   - id: b878e0bb-e1d1-4d95-a021-182cbb0c7b50
     start: 22:04.98
     end: 22:07.58
+flashcardFieldsToSubtitlesTracks: {}

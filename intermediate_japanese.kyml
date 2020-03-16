@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-03-15T21:31:18Z
+timestamp: 2020-03-15T23:33:23Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -899,7 +899,6 @@ clips:
         You have one minute, so kindly complete your message within this time.
         A: Hm. An answering machine.
     tags:
-      &a1
       - iij03
     image:
       type: VideoStill
@@ -1097,6 +1096,7 @@ clips:
     end: 00:11.06
     fields:
       transcription: 最近、都会の喫茶店の数が減っているそうである。
+      meaning: "Lately, there's been a drop in the number of coffee houses in cities. "
     tags:
       - iij04
   - id: 828c0ee5-b786-4b35-b093-4a98f2aa876c
@@ -1104,6 +1104,7 @@ clips:
     end: 00:16.56
     fields:
       transcription: 一つの原因は、週休二日の会社や役所が増えたことである。
+      meaning: "This is partly due to an increase in companies and government offices that take two holidays a week. "
       notes: yakushó-ga
     tags:
       - iij04
@@ -1112,6 +1113,7 @@ clips:
     end: 00:22.14
     fields:
       transcription: このため、土曜日に店を開けても商売ができなくなってしまった。
+      meaning: "As a result, it's now impossible to make any money if you open your shop on Saturdays. "
       notes: shóubai
     tags:
       - iij04
@@ -1120,6 +1122,7 @@ clips:
     end: 00:28.68
     fields:
       transcription: もう一つの原因は、土地の値段が信じられないほど高くなったことである。
+      meaning: The fact that land prices have soared to unbelievable heights also plays a part.
     tags:
       - iij04
   - id: e7b52ca6-88e2-4361-9ae6-fdc32bfbbd08
@@ -1127,6 +1130,7 @@ clips:
     end: 00:40.58
     fields:
       transcription: これまでのようにお客が一杯のコーヒーでゆっくり休んでいると、お客の数が限られるので、高い地代を払うことができなくなってしまうそうである。
+      meaning: "If customers were to relax over a single leisurely cup of coffee, like in the past, the limited number of patrons would make it impossible to meet the high rental payments for land. "
       notes: |-
         íppai
         kagiraréru
@@ -1137,6 +1141,7 @@ clips:
     end: 00:51.94
     fields:
       transcription: そこで最近多くなったのは、今までの喫茶店よりずっと安いコーヒーを出し、お客は立って飲むという形の店である。
+      meaning: "As a result, stand-up style shops that sell coffee at prices dramatically cheaper than those of an average coffee house are now on the rise. "
       notes: ima-máde-no
     tags:
       - iij04
@@ -1145,6 +1150,7 @@ clips:
     end: 00:56.8
     fields:
       transcription: お客はどんどん出て行くからコーヒーがたくさん売れるわけである。
+      meaning: "Customers are continuously leaving the shop, allowing for a tremendous volume of sales. "
     tags:
       - iij04
   - id: 25649678-fc1c-4c53-b217-0c973f80c54d
@@ -1152,6 +1158,7 @@ clips:
     end: 01:01.42
     fields:
       transcription: 一方、家庭でコーヒーを飲む人は多くなった。
+      meaning: "At the same time, many people now like to drink coffee at home. "
     tags:
       - iij04
   - id: 82c4c566-85f4-40d9-b730-b482c51718b8
@@ -1159,6 +1166,7 @@ clips:
     end: 01:06.04
     fields:
       transcription: コーヒー豆の輸入の量は毎年増えているそうである。
+      meaning: "The quantity of imported coffee beans is reputedly increasing at a yearly pace. "
     tags:
       - iij04
   - id: 86249f2c-a2bc-452a-bf5e-47c793a34c99
@@ -1166,6 +1174,7 @@ clips:
     end: 01:13.86
     fields:
       transcription: 朝、ご飯と味噌汁と言う食事をとる人が少なくなって、パンとコーヒーの人が多くなった。
+      meaning: "Fewer Japanese have rice and miso soup for breakfast; more and more Japanese prefer bread and coffee. "
     tags:
       - iij04
   - id: d3700adf-0fbc-40c8-861c-1654e9fc4222
@@ -1173,7 +1182,7 @@ clips:
     end: 01:17.96
     fields:
       transcription: コーヒーはいわば味噌汁のかわりである。
-      meaning: Coffee, as it were, has taken the place of miso soup.
+      meaning: "Coffee, as it were, has taken on the role of miso soup. "
     tags:
       - iij04
   - id: efe6d7c8-ab62-4f48-9d70-eb982ef4b4b5

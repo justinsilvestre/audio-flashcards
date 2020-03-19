@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-03-15T23:33:23Z
+timestamp: 2020-03-19T19:04:40Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -970,9 +970,9 @@ clips:
     end: 00:13.42
     fields:
       transcription: |-
-        ねえ、うちも留守番電話にしましょうよ
-        家 共働きだから
-        昼間は留守が多いでしょう
+        ねえ、うちも留守番電話にしましょうよ。
+        どうして。
+        うち、共働きだから、昼間は留守が多いでしょ？
         うん。
       meaning: |-
         
@@ -989,11 +989,9 @@ clips:
     end: 00:26.46
     fields:
       transcription: |-
-        友達が
-        オタクはいつも留守 ね って怒るのよ
-        夜電話してくださいって言ったら
-        でも夜は電話が来ても出られないことが多いのよ
-        お風呂に入っていたりして
+        友達が、「オタクはいつも留守 ね 」って怒るのよ。
+        夜、電話してくださいって言ったら？
+        でも、夜は電話が来ても、出られないことが多いのよ。お風呂に入っていたりして…。
       meaning: |-
         Wife: My friends keep complaining that nobody answers the phone.
         Husband: If that happens, just ask them to call back in the evening.
@@ -1007,9 +1005,9 @@ clips:
     end: 00:36.32
     fields:
       transcription: |-
-        テレビで面白いドラマやってる時
-        電話に出ると話がわからなくなる しそうだね
-        だから 留守番電話がいいと思うけど
+        テレビで面白いドラマやってるとき、電話に出ると、話がわからなくなるし…。
+        そうだね。
+        だから、留守番電話がいいと思うけど。
       meaning: |-
         Wife: When I pick up the phone during a good TV drama, it's easy to lose track of the story.
         Husband: True
@@ -1023,9 +1021,7 @@ clips:
     end: 00:50.0
     fields:
       transcription: |-
-        でも
-        人に電話した時
-        録音テープの声が聞こえるのはいやだな。
+        でも、人に電話したとき、録音テープの声が聞こえるのは、いやだな。
         そう。
         ピーっていう音を聞いて、急いで録音するんだろう？
         ええ、そうよ。
@@ -1050,12 +1046,9 @@ clips:
     end: 01:02.78
     fields:
       transcription: |-
-        マイクに向かって話すのは嫌だよ
-        でも
-        家が留守番電話にしたら
-        録音をするのは他の人よ
-        私たちが 録音するんじゃないのよ
-        自分がしたくないことは他の人にもさせたくないよ
+        マイクに向かって話すのは嫌だよ。
+        でも、家が留守番電話にしたら、録音をするのは他の人よ。私たちが 録音するんじゃないのよ。
+        自分がしたくないことは他の人にもさせたくないよ。
       meaning: |-
         I hate feeling like I'm talking into a microphone.
         Wife: Honey, if we bought an answering machine, the people calling us would talk into the tape. Not you and I.
@@ -1069,12 +1062,10 @@ clips:
     end: 01:12.34
     fields:
       transcription: |-
-        あーそう
-        じゃあ 留守番電話はやめましょう
-        いいの
-        残業 断って
-        早く家に帰るわ
-        収入は減るけど
+        ああ、そう。
+        じゃあ 留守番電話はやめましょう。
+        いいの？
+        ええ。残業を断って、早く家に帰るわ、収入は減るけど。
       meaning: |-
         Wife: I see. We'll just drop the whole idea, if that's the way you feel.
         Husband: Really? You're not unhappy?
@@ -1232,87 +1223,385 @@ name: 02 - Lesson 4 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:03.086
 id: e9f8fec0-018c-4188-bcc8-d653db2a171c
+subtitles:
+  - id: 49242331-e45b-42e3-ba10-c84f57c61bfc
+    type: External
+    chunksMetadata:
+      count: 22
+      endCue: 3097.6
+    name: 02 - Lesson 4 - KaiwaBun 1.srt
+clips:
+  - id: 1c39b022-773d-4640-8e36-e6ecaf538651
+    start: 00:09.18
+    end: 00:19.94
+    fields:
+      transcription: |-
+        その辺でコーヒーでも飲みませんか。
+        いいですね。あの角にいい店があったんですが…。おや、食堂になってしまった。
+        そうですね。
+    tags:
+      - 02_-_Lesson_4_-_KaiwaBun_1.mp3
+  - id: cba18e28-04b5-45c2-b828-96d0889a1d02
+    start: 00:20.188
+    end: 00:28.908
+    fields:
+      transcription: |-
+        最近、喫茶店が減ってしまったそうですよ。
+        時代があがったからですか。
+        信じられないほど高いですからね、この頃は。
+    tags:
+      &a1
+      - 02_-_Lesson_4_-_KaiwaBun_1.mp3
+  - id: ca8df80a-f320-40db-8488-ff15c2efc21b
+    start: 00:29.184
+    end: 00:39.424
+    fields:
+      transcription: |-
+        以前は 古本屋を見て歩いた後、よく 喫茶店でコーヒー飲んで休んだんですけどね。
+        ええ。今買った本を眺めながらコーヒーを飲むのは、楽しかったですね。
+    tags:
+      - 02_-_Lesson_4_-_KaiwaBun_1.mp3
+  - id: 1b995313-3a27-4ffb-a403-577cc300957c
+    start: 00:39.876
+    end: 00:50.9
+    fields:
+      transcription: |-
+        でも、お客がゆっくり休んでいると店は儲からないから、高い地代を払うことができない そうですよ。
+        ああ、だから、立ち飲みのようなミスが増えたんですね。
+    tags:
+      - 02_-_Lesson_4_-_KaiwaBun_1.mp3
+  - id: d2ad266d-61d5-43ac-a03c-c1654f90f3fd
+    start: 00:51.756
+    end: 01:01.956
+    fields:
+      transcription: |-
+        あそこにもう一軒ありますよ。
+        帰りましょうか。
+        でも、あそこじゃ、 ゆっくり話が出来ないでしょうね。
+        そうですね。じゃ、もう少し歩いて他を探しましょう。
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 49242331-e45b-42e3-ba10-c84f57c61bfc
 ---
 name: 03 - Lesson 4 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:10.661
 id: 6ff577d4-1228-4956-895e-7fbe529d2b5d
+subtitles:
+  - id: 9ff1dcec-0781-4463-9780-1035d5a4462a
+    type: External
+    chunksMetadata:
+      count: 26
+      endCue: 3366.4
+    name: 03 - Lesson 4 - KaiwaBun 2.srt
+clips:
+  - id: 38e6b522-94a4-449e-bdb6-27aa5d350ba8
+    start: 00:10.3
+    end: 00:22.84
+    fields:
+      transcription: |-
+        喉が渇いたわね。
+        ええ。
+        コーヒー 入れましょうか。
+        ええ、お願いするわ。
+        じゃ、1分待って。
+        1分って 、インスタント？
+        そうよ。
+        どうして？
+    tags:
+      &a1
+      - 03_-_Lesson_4_-_KaiwaBun_2.mp3
+  - id: 1000c575-f729-4e18-b164-5e8f287ae5be
+    start: 00:23.06
+    end: 00:31.84
+    fields:
+      transcription: |-
+        だって、以前はコーヒー豆を挽いて2種類ぐらい ブレンドして入れていたでしょ？
+        ああ、学生の頃ね。
+    tags:
+      - 03_-_Lesson_4_-_KaiwaBun_2.mp3
+  - id: 99019c03-21dc-4347-aaa3-508d7f993366
+    start: 00:32.22
+    end: 00:42.82
+    fields:
+      transcription: |-
+        あの頃はコーヒーを入れるのが大好きだったから。
+        この頃は？
+        ひまもないし。
+        それにコーヒーが珍しくなくなったし。
+        ああ、そうね。
+    tags: *a1
+  - id: ec5b45b5-0835-47bd-85df-fbcff03cd33b
+    start: 00:43.3
+    end: 00:54.06
+    fields:
+      transcription: |-
+        朝は忙しいからインスタント、昼は 安い立ち飲み。
+        コーヒーも番茶のようなものよ。
+        そうね。普及したら、値打ちが下がったのね。
+    tags: *a1
+  - id: 1c8a7ba4-08a8-4407-a3e0-696738600ff6
+    start: 00:55.26
+    end: 01:06.08
+    fields:
+      transcription: |-
+        日本茶だって昔は贅沢品だったんですって。
+        この次は何が贅沢な飲み物になるのかしら。
+        さあ…。
+        おいしいお水！
+    tags:
+      - 03_-_Lesson_4_-_KaiwaBun_2.mp3
+flashcardFieldsToSubtitlesTracks:
+  transcription: 9ff1dcec-0781-4463-9780-1035d5a4462a
 ---
 name: 08 - Lesson 5 - Main Text.mp3
 format: mp3
 duration: 01:56.689
 id: f021988a-b438-4dbd-8dae-20f49db70e4f
+subtitles:
+  - id: d38353b8-f847-4681-8cf0-cbd92cef1e2c
+    type: External
+    chunksMetadata:
+      count: 33
+      endCue: 5747.2
+    name: 08 - Lesson 5 - Main Text.srt
 clips:
   - id: 9fe10c4b-049f-4673-a2a4-1d3b3d6f00dd
     start: 00:07.92
     end: 00:15.74
+    fields:
+      transcription: |-
+        東京のようにくの人口が集中しているところでは
+        どうしても地下に空間を求めなければならない。
     tags:
       - iij05
   - id: b88f411b-2785-4971-a985-60a9552e5622
     start: 00:16.28
     end: 00:26.5
+    fields:
+      transcription: |-
+        今でもかなり地下の空間を利用しているが、将来は地下にいくつもの町を作って、
+        それを地下鉄で結ぶようになるかもしれない。
     tags:
       - iij05
   - id: 871a91db-3f84-4fe2-99df-89957f10e052
     start: 00:27.22
     end: 00:35.18
+    fields:
+      transcription: 地下に都市を作って生活すると言うと、科学小説か 世界大戦の時代のようだが、そうではない。
     tags:
       - iij05
   - id: 87702f5b-2827-488b-9361-a9fde634e7b2
     start: 00:35.48
     end: 00:41.06
+    fields:
+      transcription: 大手の建設会社は地下に都市を作るための研究をしているそうである。
     tags:
       - iij05
   - id: 069b6290-6e28-4b38-8d29-6d224d32fa91
     start: 00:41.4
     end: 00:46.5
+    fields:
+      transcription: 土を掘るための機械の改良もだいぶ 進んでいるという話である。
     tags:
       - iij05
   - id: abaa83a0-8baf-4de6-953f-3ab4b8d46cae
     start: 00:46.98
     end: 01:01.68
+    fields:
+      transcription: また横浜市では電力会社が新しく発電所を作ろうとしたが、土地が見つからなかったので、市内に建てる予定の17階のマンションの地下に、発電所を作っている そうである。
     tags:
       - iij05
   - id: ccc9fbea-89d6-4934-8a0c-cf071facca1a
     start: 01:02.4
     end: 01:10.74
+    fields:
+      transcription: 地下で生活すると、人間の体や精神にどんな影響があるかということも、よく考えなければならない。
     tags:
       - iij05
   - id: 44117924-7e22-4ca4-bb22-217fa0755ae0
     start: 01:11.0
     end: 01:22.08
+    fields:
+      transcription: 地下生活のために起こる ストレスや不安を和らげるために、クラシック音楽や 虫の声などの自然の音を流すことも研究しているそうだ。
     tags:
       - iij05
   - id: d36388c1-8dd1-4a8c-a478-9328f0f9f9f3
     start: 01:22.92
     end: 01:34.06
+    fields:
+      transcription: 地下生活では天気は関係ないから傘も入らなくなるし、雪で交通が止まることもないだろうから、仕事の能率は上がるかもしれない。
     tags:
       - iij05
   - id: 437893f5-e0c4-450e-9fc8-7450fb05a632
     start: 01:34.16
     end: 01:38.08
+    fields:
+      transcription: しかし地下では自然に親しむことができない。
     tags:
       - iij05
   - id: 2b497a74-1cd5-4908-97f9-29a630a06efd
     start: 01:38.22
     end: 01:46.78
+    fields:
+      transcription: 小さい子供を育てているときなど、日光に当てることが必要だし、老人にもちかは適当ではないだろう。
     tags:
       - iij05
   - id: f0d8da67-726d-4c60-b6c7-fd64a88b7195
     start: 01:46.96
     end: 01:55.66
+    fields:
+      transcription: 将来は小さい子供や老人だけ地上にいて、働く人は地下にいるという時代になるかもしれない。
     tags:
       - iij05
+flashcardFieldsToSubtitlesTracks:
+  transcription: d38353b8-f847-4681-8cf0-cbd92cef1e2c
 ---
 name: 09 - Lesson 5 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:07.318
 id: 31260426-17f0-4573-b8a6-735ecaae3054
+subtitles:
+  - id: ca12335b-935f-41bb-9595-92e2f2f774f8
+    type: External
+    chunksMetadata:
+      count: 27
+      endCue: 3315.2
+    name: 09 - Lesson 5 - KaiwaBun 1.srt
+clips:
+  - id: dbbe0cd8-3ba9-4d3e-be40-759f891dbcbe
+    start: 00:09.9
+    end: 00:15.58
+    fields:
+      transcription: |-
+        昨夜のテレビで、地下都市の話をやってましたね。
+        地下都市ですか
+    tags:
+      &a1
+      - 09_-_Lesson_5_-_KaiwaBun_1.mp3
+  - id: f4301f5a-b5dc-4fbe-9502-710a6e522c2e
+    start: 00:15.88
+    end: 00:28.14
+    fields:
+      transcription: |-
+        地下に街を作る計画があるそうですよ。
+        誰がそんなこと考えているんですか。
+        大手の建設会社です。
+        そうですか。じゃあ、SF みたいな話じゃないんですね。
+    tags:
+      - 09_-_Lesson_5_-_KaiwaBun_1.mp3
+  - id: 311b1081-fd1b-4ff1-9a89-262638fb6c4c
+    start: 00:28.58
+    end: 00:39.0
+    fields:
+      transcription: |-
+        最も今だって地下はだいぶ 利用してますね。
+        ええ。
+        駐車場とかデパートの売り場とか。
+        地下4階という事務所もあるそうです。
+    tags: *a1
+  - id: d4724a31-804f-426b-8ff8-2524148927f9
+    start: 00:39.2
+    end: 00:49.96
+    fields:
+      transcription: |-
+        なんだか不安でしょうね、地下で生活するのは。
+        そうですね。だからいろいろ研究してるそうですよ。いい音楽を流すとか。
+        そうですか。
+    tags: *a1
+  - id: b1b1db90-926d-47c1-9eed-b03741287863
+    start: 00:50.7
+    end: 00:56.74
+    fields:
+      transcription: |-
+        でも、僕は嫌ですね、ちかは。
+        会社が半分地下になったら、大変ですね。
+    tags:
+      - 09_-_Lesson_5_-_KaiwaBun_1.mp3
+  - id: 63569031-7a2c-4ccf-8142-3f69a163519b
+    start: 00:56.88
+    end: 01:06.34
+    fields:
+      transcription: |-
+        僕、そうなったら会社やめますよ。やめて…
+        やめてどうしますか。
+        動物園にでも努めますよ。
+        動物園は地上でしょうから。
+    tags:
+      - 09_-_Lesson_5_-_KaiwaBun_1.mp3
+flashcardFieldsToSubtitlesTracks:
+  transcription: ca12335b-935f-41bb-9595-92e2f2f774f8
 ---
 name: 10 - Lesson 5 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:11.837
 id: a7f2f866-c933-40a6-94d8-d1a80dc0818c
+subtitles:
+  - id: 05e662a9-1db5-4e6c-918b-bb7fb9dd80f3
+    type: External
+    chunksMetadata:
+      count: 28
+      endCue: 3507.2
+    name: 10 - Lesson 5 - KaiwaBun 2.srt
+clips:
+  - id: 3a68612d-00d6-4979-b6d4-842c633eea18
+    start: 00:07.96
+    end: 00:19.22
+    fields:
+      transcription: |-
+        食事しようか。
+        ここなんかどう？
+        ここはだめ、地下だもの。
+        じゃ、あのビルの中は？
+        36階？だめだよ、そんな高いところ。
+    tags:
+      &a1
+      - 10_-_Lesson_5_-_KaiwaBun_2.mp3
+  - id: 4549612d-882a-4d49-8111-f316710bad8e
+    start: 00:19.496
+    end: 00:30.456
+    fields:
+      transcription: |-
+        困るわねえ。高いところも嫌い、地下も嫌いだと、都心では安いレストランないわよ。
+        僕は人間だよ。もぐらでもないし、鳥でもない。
+    tags: *a1
+  - id: 0ba80485-db5f-4207-9cfc-e9757b7f7c21
+    start: 00:30.876
+    end: 00:41.956
+    fields:
+      transcription: |-
+        そんなこと言ったって、地下鉄に乗らないわけにはいかないじゃないの。
+        地下鉄が限界だね。昨夜のテレビでやってたみたいに、地下の事務所で働くなんて、僕にはできないよ。
+    tags: *a1
+  - id: fd7063de-346e-4be6-88ea-07289769e981
+    start: 00:42.536
+    end: 00:53.336
+    fields:
+      transcription: |-
+        地下だと雨が降っても濡れないし、雪で道が滑ることもないし。
+        それはそうだけど。
+        事務所だけじゃなくて、住宅 持ち家になったらいいわね。
+    tags: *a1
+  - id: 6fa6d5b9-c24a-4ae5-8165-44cd5180572d
+    start: 00:53.736
+    end: 01:01.716
+    fields:
+      transcription: |-
+        朝 傘を持って行こうか どうしようか悩むこともないし。
+        僕は嫌だよ。
+        地上にいて毎日傘を持って歩く方がいい。
+    tags: *a1
+  - id: f9c327c3-ad9d-4cd7-b3a7-2b94700905cb
+    start: 01:02.66
+    end: 01:10.22
+    fields:
+      transcription: |-
+        ここにしましょう。１階よ。
+        高そうだなあ。
+        仕方がないでしょ、入りましょう。
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 05e662a9-1db5-4e6c-918b-bb7fb9dd80f3
 ---
 name: 14 - Lesson 6 - Main Text.mp3
 format: mp3
@@ -1431,11 +1720,164 @@ name: 15 - Lesson 6 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:23.749
 id: d4eef236-a092-48c6-98b9-21d280478790
+subtitles:
+  - id: 0c98a6ef-e92c-4724-8d2c-bce933162f92
+    type: External
+    chunksMetadata:
+      count: 35
+      endCue: 4121.6
+    name: 15 - Lesson 6 - KaiwaBun 1.srt
+clips:
+  - id: 7357cb16-e2b5-4a40-a021-11cfd2eb43c9
+    start: 00:08.32
+    end: 00:18.4
+    fields:
+      transcription: |-
+        こんばんは。残業ですか。
+        いえ、会社は早く終わったんです。
+        学校の帰りです。
+        学校？
+        ええ、週2回パソコンの練習に行ってるんです。
+    tags:
+      &a1
+      - 15_-_Lesson_6_-_KaiwaBun_1.mp3
+  - id: 162cf851-0577-4fae-a22c-b0257fcca88d
+    start: 00:18.944
+    end: 00:29.66
+    fields:
+      transcription: |-
+        会社が終わってからですか。
+        ええ。
+        大変ですね。
+        色々な人が来ていますよ。かなり年を取った人もいます。
+        そうですか。
+        技術革新の時代ですからね。
+    tags:
+      - 15_-_Lesson_6_-_KaiwaBun_1.mp3
+  - id: d1d39bee-6089-401f-bd05-0997c627006a
+    start: 00:30.02
+    end: 00:46.1
+    fields:
+      transcription: |-
+        そういえば、うちの会社、建設会社ですけどね。
+        ええ。
+        今度、社員のための学校を作ったんです。
+        へえ？
+        これまでは上の人が現場で教えていたんですけど、この頃は忙しくて 教える暇がないんですって。
+        なるほど。
+    tags: *a1
+  - id: 191e91b6-f1da-4e41-a0ff-bca80bd8d32b
+    start: 00:46.34
+    end: 00:56.3
+    fields:
+      transcription: |-
+        それで、学校を作って若い人を教育することにしたんです。
+        じゃ、学費は無料？
+        ええ。給料も出ます。 夏休みもあります。
+    tags: *a1
+  - id: fb4879c0-3e37-4b3c-8779-a29953b01552
+    start: 00:56.52
+    end: 01:07.6
+    fields:
+      transcription: |-
+        へえ、すごいなあ。
+        初歩から始めて1年間勉強したあとは、現場で仕事ができるんです。
+        本当ですか！
+        来年入、社試験を受けてみますか。
+    tags: *a1
+  - id: 25854a1e-7397-47dd-9b7a-9b23c6d01442
+    start: 01:08.0
+    end: 01:22.58
+    fields:
+      transcription: |-
+        1年間だけですね、勉強は？
+        月曜から土曜まで毎日7時間。
+        週42時間！やっぱりやめます。僕、勉強は週4時間で十分です。
+    tags:
+      - 15_-_Lesson_6_-_KaiwaBun_1.mp3
+flashcardFieldsToSubtitlesTracks:
+  transcription: 0c98a6ef-e92c-4724-8d2c-bce933162f92
 ---
 name: 16 - Lesson 6 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:18.211
 id: c51f1d2e-f0bb-46a6-990a-6ccef65f3d32
+subtitles:
+  - id: 3a74c1e5-b576-463d-aef0-98e50c2f57f6
+    type: External
+    chunksMetadata:
+      count: 33
+      endCue: 3840
+    name: 16 - Lesson 6 - KaiwaBun 2.srt
+clips:
+  - id: e49f5cfb-b28d-4820-b9fa-b6637c7f27c4
+    start: 00:09.14
+    end: 00:20.02
+    fields:
+      transcription: |-
+        あら、しばらくね。
+        うん、ずっと休んでいたから。
+        アルバイト？
+        それもあるけど。
+        スポーツ？
+        うん、それから旅行。
+        勉強は全然しないのね。
+        そんなことはない。
+    tags:
+      &a1
+      - 16_-_Lesson_6_-_KaiwaBun_2.mp3
+  - id: 0232b2d4-2bd6-4b71-bec2-aee3943ca589
+    start: 00:20.452
+    end: 00:30.012
+    fields:
+      transcription: |-
+        卒業単位の勉強はするよ。それ以上はしない。
+        そう。
+        だって、大学で勉強したことは、社会に出たあと役に立たないよ。
+        そうかもしれないわね。
+    tags: *a1
+  - id: ec715b1e-00cc-4d91-b025-38aad4b70a70
+    start: 00:30.84
+    end: 00:42.74
+    fields:
+      transcription: |-
+        仕事を始めてから、その仕事に必要な技術を勉強するんだよ、今の時代は。
+        そうね。会社も盛んに社員教育をやるわね。
+        だから大学の時は勉強する必要ないんだよ。
+    tags: *a1
+  - id: d34c0c2f-0080-4660-9fd5-75ac378565a0
+    start: 00:44.0
+    end: 00:55.536
+    fields:
+      transcription: |-
+        ただ、体は大事だよ・
+        だからスポーツはやっているんだ。
+        これからの会社が求めるのは、強い体と勉強したいという気持ちだよ。
+        そうかもしれないわね。
+    tags:
+      - 16_-_Lesson_6_-_KaiwaBun_2.mp3
+  - id: f613a540-7821-48c2-b720-9305e53e8232
+    start: 00:55.796
+    end: 01:03.536
+    fields:
+      transcription: |-
+        大学の時に勉強しすぎると、勉強が嫌になるから、あまり勉強しない方がいいんだよ。
+        君も気を付けた方がいいよ。
+    tags:
+      - 16_-_Lesson_6_-_KaiwaBun_2.mp3
+  - id: fa59f896-39cd-4613-a2e2-195c487751f5
+    start: 01:03.756
+    end: 01:16.816
+    fields:
+      transcription: |-
+        そうね。
+        じゃ、代わりにレポート書いてあげるって前に約束したけど、あれ、やめるわ。
+        えっ？
+        頭を使いすぎるのはよくないから。さよなら。
+        おい、待ってよ。頼むよ。
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 3a74c1e5-b576-463d-aef0-98e50c2f57f6
 ---
 name: 20 - Lesson 7 - Main Text.mp3
 format: mp3
@@ -1477,7 +1919,7 @@ clips:
     end: 00:44.54
     fields:
       transcription: また、ナバナと言う、菜の花の葉の部分だけを使う新しい野菜も最近話題になっている。
-      meaning: Also, a new vegetable called "nabana" which puts just the leafy part of the rape blossom has excited a lot of interest lately.
+      meaning: Also, a new vegetable called "nabana" which uses just the leafy part of the rape blossom has excited a lot of interest lately.
     tags:
       - iij07
   - id: 5de6eace-8a49-4316-9861-5cb00eaa4ac2

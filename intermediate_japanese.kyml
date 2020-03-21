@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-03-19T19:04:40Z
+timestamp: 2020-03-21T22:53:19Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -75,7 +75,7 @@ clips:
     start: 00:48.68
     end: 00:53.8
     fields:
-      transcription: "正月に大ぜいの客が来るので、会うのがめんどうだと思う人もある。 "
+      transcription: "正月に大勢の客が来るので、会うのが面倒だと思う人もある。 "
       meaning: "Others do not want to have to take care of the large number of visitors who show up during the holidays. "
     tags:
       - iij01
@@ -1239,8 +1239,12 @@ clips:
         その辺でコーヒーでも飲みませんか。
         いいですね。あの角にいい店があったんですが…。おや、食堂になってしまった。
         そうですね。
+      meaning: |-
+        A: Care for a cup of coffee somewhere nearby?
+        B: That sounds great. I used to know of a good coffee house on the corner over there Oh! It's turned into a restaurant!
+        A: So it has.
     tags:
-      - 02_-_Lesson_4_-_KaiwaBun_1.mp3
+      - iij04
   - id: cba18e28-04b5-45c2-b828-96d0889a1d02
     start: 00:20.188
     end: 00:28.908
@@ -1249,18 +1253,25 @@ clips:
         最近、喫茶店が減ってしまったそうですよ。
         時代があがったからですか。
         信じられないほど高いですからね、この頃は。
+      meaning: |-
+        B: Lately, coffee houses have been getting scarce.
+        A: Is that because the rent for land has increased?
+        B: Yes. It's risen to an unbelievably high level, as of late.
     tags:
       &a1
-      - 02_-_Lesson_4_-_KaiwaBun_1.mp3
+      - iij04
   - id: ca8df80a-f320-40db-8488-ff15c2efc21b
     start: 00:29.184
     end: 00:39.424
     fields:
       transcription: |-
-        以前は 古本屋を見て歩いた後、よく 喫茶店でコーヒー飲んで休んだんですけどね。
+        以前は 古本屋を見て歩いた後、よく喫茶店でコーヒー飲んで休んだんですけどね。
         ええ。今買った本を眺めながらコーヒーを飲むのは、楽しかったですね。
+      meaning: |-
+        A: I used to like to relax over a cup of coffee at a coffee house after browsing through used bookstores.
+        B: I know. Sipping coffee while reading a new purchase was a delight.
     tags:
-      - 02_-_Lesson_4_-_KaiwaBun_1.mp3
+      - iij04
   - id: 1b995313-3a27-4ffb-a403-577cc300957c
     start: 00:39.876
     end: 00:50.9
@@ -1268,8 +1279,11 @@ clips:
       transcription: |-
         でも、お客がゆっくり休んでいると店は儲からないから、高い地代を払うことができない そうですよ。
         ああ、だから、立ち飲みのようなミスが増えたんですね。
+      meaning: |-
+        A: But if customers take time over their coffee, the shops can't make any money. And can't meet the high cost of land rental, or so lwe heard.
+        B: Right. That's why stand-up coffee shops have increased.
     tags:
-      - 02_-_Lesson_4_-_KaiwaBun_1.mp3
+      - iij04
   - id: d2ad266d-61d5-43ac-a03c-c1654f90f3fd
     start: 00:51.756
     end: 01:01.956
@@ -1279,6 +1293,11 @@ clips:
         帰りましょうか。
         でも、あそこじゃ、 ゆっくり話が出来ないでしょうね。
         そうですね。じゃ、もう少し歩いて他を探しましょう。
+      meaning: |-
+        B: In fact, there's one right over there.
+        A: Shall we try it out?
+        B: Well, we'll hardly be able to have a leisurely conversation in there.
+        A: You're right. Lees walk a little more. And find another place.
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: 49242331-e45b-42e3-ba10-c84f57c61bfc
@@ -1306,11 +1325,19 @@ clips:
         ええ、お願いするわ。
         じゃ、1分待って。
         1分って 、インスタント？
-        そうよ。
-        どうして？
+        ええ、そうよ。どうして？
+      meaning: |-
+        
+        A: I'm really thirsty.
+        B: So am l.
+        A: Shall I make a cup Of coffee?
+        B: Yes—please/
+         A: Okay. It'll only take a minute. 
+        B: Only a minute?! What, are you using instant coffee?
+        A: Of course. Why?
     tags:
       &a1
-      - 03_-_Lesson_4_-_KaiwaBun_2.mp3
+      - iij04
   - id: 1000c575-f729-4e18-b164-5e8f287ae5be
     start: 00:23.06
     end: 00:31.84
@@ -1318,8 +1345,11 @@ clips:
       transcription: |-
         だって、以前はコーヒー豆を挽いて2種類ぐらい ブレンドして入れていたでしょ？
         ああ、学生の頃ね。
+      meaning: |-
+        B: Well, didn't you used to make coffee by grinding your own beans, then blending a couple of varieties together?
+        A: Oh, that's back when I was a student.
     tags:
-      - 03_-_Lesson_4_-_KaiwaBun_2.mp3
+      - iij04
   - id: 99019c03-21dc-4347-aaa3-508d7f993366
     start: 00:32.22
     end: 00:42.82
@@ -1330,6 +1360,11 @@ clips:
         ひまもないし。
         それにコーヒーが珍しくなくなったし。
         ああ、そうね。
+      meaning: |-
+        A: I loved making a cup of coffee back in those days.
+        B: What about these days?
+        A: I no longer have the time. What's more, coffee's no longer as unusual as it once was.
+        B: That's true.
     tags: *a1
   - id: ec5b45b5-0835-47bd-85df-fbcff03cd33b
     start: 00:43.3
@@ -1339,18 +1374,28 @@ clips:
         朝は忙しいからインスタント、昼は 安い立ち飲み。
         コーヒーも番茶のようなものよ。
         そうね。普及したら、値打ちが下がったのね。
+      meaning: |-
+        A: We drink instant coffee in the morning, because we're in a hurry. And have an inexpensive cup of coffee at a stand-up shop at noon. Coffee's now the same as low-grade tea.
+        B: No doubt. As coffee has grown in popularity, its value has dropped.
     tags: *a1
   - id: 1c8a7ba4-08a8-4407-a3e0-696738600ff6
     start: 00:55.26
-    end: 01:06.08
+    end: 01:09.86
     fields:
       transcription: |-
         日本茶だって昔は贅沢品だったんですって。
         この次は何が贅沢な飲み物になるのかしら。
         さあ…。
         おいしいお水！
+        そうね。それ、最高の贅沢品よ。
+      meaning: |-
+        A: Right. Even Japanese tea was a luxury item at one time.
+        B: I wonder what the next luxury item will be.
+        A: Hmmm .
+        B: Delicious water!
+        A: Maybe so. That may become the supreme luxury good.
     tags:
-      - 03_-_Lesson_4_-_KaiwaBun_2.mp3
+      - iij04
 flashcardFieldsToSubtitlesTracks:
   transcription: 9ff1dcec-0781-4463-9780-1035d5a4462a
 ---
@@ -1371,8 +1416,9 @@ clips:
     end: 00:15.74
     fields:
       transcription: |-
-        東京のようにくの人口が集中しているところでは
+        東京のように多くの人口が集中しているところでは
         どうしても地下に空間を求めなければならない。
+      meaning: In places with a dense concentration of humanity, such as Tokyo, it's inevitable that people will search for living space underground.
     tags:
       - iij05
   - id: b88f411b-2785-4971-a985-60a9552e5622
@@ -1382,6 +1428,7 @@ clips:
       transcription: |-
         今でもかなり地下の空間を利用しているが、将来は地下にいくつもの町を作って、
         それを地下鉄で結ぶようになるかもしれない。
+      meaning: Underground space is already heavily utilized; a number of underground cities are predicted for the future. These cities are to be connected by a network of subways.
     tags:
       - iij05
   - id: 871a91db-3f84-4fe2-99df-89957f10e052
@@ -1389,6 +1436,7 @@ clips:
     end: 00:35.18
     fields:
       transcription: 地下に都市を作って生活すると言うと、科学小説か 世界大戦の時代のようだが、そうではない。
+      meaning: The construction and habitation of underground cities sounds reminiscent of science fiction—or of an era following a massive world War. But Tokyoites are serious.
     tags:
       - iij05
   - id: 87702f5b-2827-488b-9361-a9fde634e7b2
@@ -1396,6 +1444,7 @@ clips:
     end: 00:41.06
     fields:
       transcription: 大手の建設会社は地下に都市を作るための研究をしているそうである。
+      meaning: Apparently, several leading construction firms have undertaken research ventures with an eye to building cities beneath the earth.
     tags:
       - iij05
   - id: 069b6290-6e28-4b38-8d29-6d224d32fa91
@@ -1403,6 +1452,7 @@ clips:
     end: 00:46.5
     fields:
       transcription: 土を掘るための機械の改良もだいぶ 進んでいるという話である。
+      meaning: It's claimed that equipment for digging underground is also vastly improved.
     tags:
       - iij05
   - id: abaa83a0-8baf-4de6-953f-3ab4b8d46cae
@@ -1410,6 +1460,7 @@ clips:
     end: 01:01.68
     fields:
       transcription: また横浜市では電力会社が新しく発電所を作ろうとしたが、土地が見つからなかったので、市内に建てる予定の17階のマンションの地下に、発電所を作っている そうである。
+      meaning: In the city of Yokohama, an electric company was unable to find land on which to build a new generator. The company is now building its generator beneath the cite of a 17-floor condominium to be erected in the city interior.
     tags:
       - iij05
   - id: ccc9fbea-89d6-4934-8a0c-cf071facca1a
@@ -1417,6 +1468,7 @@ clips:
     end: 01:10.74
     fields:
       transcription: 地下で生活すると、人間の体や精神にどんな影響があるかということも、よく考えなければならない。
+      meaning: It's vital to think about how the human body and mind will be affected by living underground.
     tags:
       - iij05
   - id: 44117924-7e22-4ca4-bb22-217fa0755ae0
@@ -1424,6 +1476,7 @@ clips:
     end: 01:22.08
     fields:
       transcription: 地下生活のために起こる ストレスや不安を和らげるために、クラシック音楽や 虫の声などの自然の音を流すことも研究しているそうだ。
+      meaning: Studies are now under way into the possibilities of piping in classical music—or natural noises such as the chirping of insects—to lessen feelings of stress and anxiety caused by living beneath the earth.
     tags:
       - iij05
   - id: d36388c1-8dd1-4a8c-a478-9328f0f9f9f3
@@ -1431,6 +1484,7 @@ clips:
     end: 01:34.06
     fields:
       transcription: 地下生活では天気は関係ないから傘も入らなくなるし、雪で交通が止まることもないだろうから、仕事の能率は上がるかもしれない。
+      meaning: Weather conditions have no bearing on life beneath the earth, so umbrellas will be unnecessary. Since it's unlikely that transportation will be affected by snowfalls, the efficiency of work may also increase.
     tags:
       - iij05
   - id: 437893f5-e0c4-450e-9fc8-7450fb05a632
@@ -1438,6 +1492,7 @@ clips:
     end: 01:38.08
     fields:
       transcription: しかし地下では自然に親しむことができない。
+      meaning: Nonetheless, intimacy with nature will be impossible underground.
     tags:
       - iij05
   - id: 2b497a74-1cd5-4908-97f9-29a630a06efd
@@ -1445,6 +1500,7 @@ clips:
     end: 01:46.78
     fields:
       transcription: 小さい子供を育てているときなど、日光に当てることが必要だし、老人にもちかは適当ではないだろう。
+      meaning: Sunlight is vital for raising young children; and living underground is probably unsuited to the elderly.
     tags:
       - iij05
   - id: f0d8da67-726d-4c60-b6c7-fd64a88b7195
@@ -1452,6 +1508,7 @@ clips:
     end: 01:55.66
     fields:
       transcription: 将来は小さい子供や老人だけ地上にいて、働く人は地下にいるという時代になるかもしれない。
+      meaning: It's possible to envision a future world in which workers will reside underground, and only young children and the elderly will live above the earth.
     tags:
       - iij05
 flashcardFieldsToSubtitlesTracks:
@@ -1476,9 +1533,14 @@ clips:
       transcription: |-
         昨夜のテレビで、地下都市の話をやってましたね。
         地下都市ですか
+      meaning: |-
+        
+        A: Did you see the TV show on underground cities last night?
+        B: Underground cities?
+        A: Yes.
     tags:
       &a1
-      - 09_-_Lesson_5_-_KaiwaBun_1.mp3
+      - iij05
   - id: f4301f5a-b5dc-4fbe-9502-710a6e522c2e
     start: 00:15.88
     end: 00:28.14
@@ -1488,8 +1550,15 @@ clips:
         誰がそんなこと考えているんですか。
         大手の建設会社です。
         そうですか。じゃあ、SF みたいな話じゃないんですね。
+        そうです。
+      meaning: |-
+        A: Apparently there is a plan to build cities beneath the earth.
+        B: Who is thinking about that?
+        A: Large construction firms.
+        B: Oh. So we're not talking about something out Of a science fiction story.
+        A: No, we aren't.
     tags:
-      - 09_-_Lesson_5_-_KaiwaBun_1.mp3
+      - iij05
   - id: 311b1081-fd1b-4ff1-9a89-262638fb6c4c
     start: 00:28.58
     end: 00:39.0
@@ -1499,6 +1568,12 @@ clips:
         ええ。
         駐車場とかデパートの売り場とか。
         地下4階という事務所もあるそうです。
+      meaning: |-
+        
+        B: But spaces underground are already being heavily utilized.
+        A: Yes.
+        B: There are underground parking lots; underground departments in department stores.
+        A: Uh-huh. And I've even heard of an office located four stories underground.
     tags: *a1
   - id: d4724a31-804f-426b-8ff8-2524148927f9
     start: 00:39.2
@@ -1508,6 +1583,10 @@ clips:
         なんだか不安でしょうね、地下で生活するのは。
         そうですね。だからいろいろ研究してるそうですよ。いい音楽を流すとか。
         そうですか。
+      meaning: |-
+        B: For some reason, the whole idea of living underground makes me anxious.
+        A: I know what you mean. That's why there's a lot of research in progress—such as on piping in pleasant music.
+        B: I see.
     tags: *a1
   - id: b1b1db90-926d-47c1-9eed-b03741287863
     start: 00:50.7
@@ -1516,8 +1595,11 @@ clips:
       transcription: |-
         でも、僕は嫌ですね、ちかは。
         会社が半分地下になったら、大変ですね。
+      meaning: |-
+        B: Still, living underground is not for me.
+        A: Can you imagine what it would be like if half of your company was located underground?
     tags:
-      - 09_-_Lesson_5_-_KaiwaBun_1.mp3
+      - iij05
   - id: 63569031-7a2c-4ccf-8142-3f69a163519b
     start: 00:56.88
     end: 01:06.34
@@ -1527,8 +1609,12 @@ clips:
         やめてどうしますか。
         動物園にでも努めますよ。
         動物園は地上でしょうから。
+      meaning: |-
+        B: If that ever happened, I'd resign from my firm. I'd quit working there and..
+        A: Quit working there, and do what?
+        B: Start working at a zoo. It's a safe bet that zoos will always be located aboveground.
     tags:
-      - 09_-_Lesson_5_-_KaiwaBun_1.mp3
+      - iij05
 flashcardFieldsToSubtitlesTracks:
   transcription: ca12335b-935f-41bb-9595-92e2f2f774f8
 ---
@@ -1554,9 +1640,15 @@ clips:
         ここはだめ、地下だもの。
         じゃ、あのビルの中は？
         36階？だめだよ、そんな高いところ。
+      meaning: |-
+        Husband: Care for a bite to eat?
+        Wife: Sure. What about this restaurant?
+        Husband: No, not this restaurant. It's underground.
+        Wife: Okay—so how about a restaurant in that building?
+        Husband: The one on the 36th floor? No way—it's too high.
     tags:
       &a1
-      - 10_-_Lesson_5_-_KaiwaBun_2.mp3
+      - iij05
   - id: 4549612d-882a-4d49-8111-f316710bad8e
     start: 00:19.496
     end: 00:30.456
@@ -1564,6 +1656,9 @@ clips:
       transcription: |-
         困るわねえ。高いところも嫌い、地下も嫌いだと、都心では安いレストランないわよ。
         僕は人間だよ。もぐらでもないし、鳥でもない。
+      meaning: |-
+        Wife: You're a real nuisance. You can't tolerate heights; you can't tolerate eating underground. We'll never be able to find a reasonable restaurant in the city center.
+        Husband: Listen, I'm a human being. Not a mole or a bird.
     tags: *a1
   - id: 0ba80485-db5f-4207-9cfc-e9757b7f7c21
     start: 00:30.876
@@ -1572,6 +1667,9 @@ clips:
       transcription: |-
         そんなこと言ったって、地下鉄に乗らないわけにはいかないじゃないの。
         地下鉄が限界だね。昨夜のテレビでやってたみたいに、地下の事務所で働くなんて、僕にはできないよ。
+      meaning: |-
+        Wife: If that's the case, how will you ever be able to ride the subway?
+        Husband: Riding the subway is okay, but that's where I draw the line. I'd never be able to work in one of those underground offices we saw on TV last night.
     tags: *a1
   - id: fd7063de-346e-4be6-88ea-07289769e981
     start: 00:42.536
@@ -1581,6 +1679,10 @@ clips:
         地下だと雨が降っても濡れないし、雪で道が滑ることもないし。
         それはそうだけど。
         事務所だけじゃなくて、住宅 持ち家になったらいいわね。
+      meaning: |-
+        Wife: Well, if it rains, you don't have to worry about getting wet if you're underground. And slippery streets aren't a concern if it snows.
+        Husband: Maybe.
+        Wife: And not only offices—wouldn't it be great if houses were underground, too?
     tags: *a1
   - id: 6fa6d5b9-c24a-4ae5-8165-44cd5180572d
     start: 00:53.736
@@ -1590,6 +1692,9 @@ clips:
         朝 傘を持って行こうか どうしようか悩むこともないし。
         僕は嫌だよ。
         地上にいて毎日傘を持って歩く方がいい。
+      meaning: |-
+        Wife: That would put an end to worrying about whether to leave home with an umbrella in the morning.
+        Husband: Well, I feel differently. I'd prefer to live aboveground, even if it means having to lug along an umbrella everyday.
     tags: *a1
   - id: f9c327c3-ad9d-4cd7-b3a7-2b94700905cb
     start: 01:02.66
@@ -1599,6 +1704,10 @@ clips:
         ここにしましょう。１階よ。
         高そうだなあ。
         仕方がないでしょ、入りましょう。
+      meaning: |-
+        Wife: Hey, why don't we eat here. It's on the first floor.
+        Husband: It looks kind of expensive.
+        Wife: Let's go in anyway. We don't have much of a choice.
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: 05e662a9-1db5-4e6c-918b-bb7fb9dd80f3
@@ -1612,7 +1721,8 @@ clips:
     start: 00:07.12
     end: 00:15.86
     fields:
-      transcription: 社会人のための学校にも、いろいろなものがある。会社が社員の再教育のため学校を作る場合もある。
+      transcription: 社会人のための学校にも、いろいろなものがある。会社が社員の再教育のために学校を作る場合もある。
+      meaning: There are many types of schools for adults. In some instances, companies will establish a school for re-educating employees.
     tags:
       - iij06
   - id: feb41344-8c60-4909-b82a-1a117954fbf1
@@ -1620,6 +1730,7 @@ clips:
     end: 00:21.98
     fields:
       transcription: 会社の授業を大きくしたい場合には、社員を教育する必要がある。
+      meaning: Companies must often educate workers in order to expand a business project.
     tags:
       - iij06
   - id: c9e6b4d0-57ff-4b24-9487-35f42e9ef1aa
@@ -1627,6 +1738,7 @@ clips:
     end: 00:29.12
     fields:
       transcription: 例えば海外の事業を盛んにするために、社員に語学教育を行う場合も多い。
+      meaning: To enhance the prosperity of a foreign venture, for example, many companies give language training to their employees.
     tags:
       - iij06
   - id: 987c608c-04bb-4c77-8e40-c82f9800ffb1
@@ -1634,6 +1746,7 @@ clips:
     end: 00:35.46
     fields:
       transcription: 多くの情報を処理するため、社員にパソコンの操作を教えることもある。
+      meaning: To cope with large volumes of information, some companies train their workers in the handling of computers.
     tags:
       - iij06
   - id: 650f1054-0bc5-48b8-b037-0a54b5605455
@@ -1657,6 +1770,7 @@ clips:
     end: 00:54.3
     fields:
       transcription: そこで社員教育のための学校を作ったのだそうである。
+      meaning: This prompted the company to start a school for training its employees.
     tags:
       - iij06
   - id: 14e638ea-c496-4f75-a507-af929133142d
@@ -1664,6 +1778,7 @@ clips:
     end: 01:01.0
     fields:
       transcription: 授業は月曜から土曜まで、毎日朝九時から五時まで七時間。
+      meaning: Classes are held from Mondays through Saturdays. They start at nine in the morning and continue till five, for a total of seven hours a day.
     tags:
       - iij06
   - id: 7eb6147a-b4e9-472e-b552-ddc3c82f0da5
@@ -1671,6 +1786,7 @@ clips:
     end: 01:06.54
     fields:
       transcription: 学費は無料で、会社から給料をもらう。夏休みもある。
+      meaning: Tuition is free, and employees receive a salary from the company—as well as a summer break.
     tags:
       - iij06
   - id: 44bf5c39-f2b3-4f12-94c6-8755ef315877
@@ -1678,6 +1794,7 @@ clips:
     end: 01:11.12
     fields:
       transcription: 全員が寮に住む。寮は一人一部屋。
+      meaning: All students live in a dormitory and are assigned separate rooms.
     tags:
       - iij06
   - id: beb24d7a-759e-47c8-9908-273dbf1bc20f
@@ -1685,20 +1802,19 @@ clips:
     end: 01:20.38
     fields:
       transcription: 一年間約千八百時間勉強したあと、現場で仕事を始め、三年か五年ぐらいで現場監督になる。
-    tags:
-      - iij06
-  - id: 5ebd4f76-a0f2-4845-8c1a-e0a5f72b3376
-    start: 01:20.98
-    end: 01:31.2
-    fields:
-      transcription: 現在二十四名の学生がいるが、大学で建築を学んだ人は二名だけで、あとは商業などを学んだ人である。
+      meaning: At the end of a year consisting of 1,800 hours of study, employees go to work—where, in the space of three to five years, they are promoted to the rank of construction supervisor.
     tags:
       - iij06
   - id: 16030c1c-748a-4f4f-8e20-c6439db7d7e7
-    start: 01:31.34
+    start: 01:20.98
     end: 01:36.08
     fields:
-      transcription: だから全くの初歩から建築の技術を習うことになる。
+      transcription: |-
+        現在二十四名の学生がいるが、大学で建築を学んだ人は二名だけで、あとは商業などを学んだ人である。
+        だから全くの初歩から建築の技術を習うことになる。
+      meaning: |-
+        At present, 24 students are enrolled in the school. Of this number, only two studied construction in college.
+        The remainder majored in subjects like business, meaning they started learning about construction tech- niques from square one.
     tags:
       - iij06
   - id: 3fcc644f-7d59-47db-9aa7-6c4fecd49873
@@ -1706,6 +1822,7 @@ clips:
     end: 01:45.06
     fields:
       transcription: その学生の一人がこういった。「給料をもらいながら勉強しているので、しっかりやらなければいけないと感じています。」
+      meaning: "\"We're getting paid as we learn,\" relates one student, \"and this makes everybody feel a need to study hard.\""
     tags:
       - iij06
   - id: cc903c41-aa8a-47a8-a251-dbb7d13357a9
@@ -1713,6 +1830,7 @@ clips:
     end: 01:56.4
     fields:
       transcription: 最近の学生はあまり勉強しないという人もいるが、もし学生が皆給料をもらうようになったら、よく勉強するようになるかもしれない。
+      meaning: Many people criticize today's students for their reluctance to apply themselves to their studies. Perhaps they'd study harder, though, if they were all given a salary.
     tags:
       - iij06
 ---
@@ -1738,9 +1856,15 @@ clips:
         学校の帰りです。
         学校？
         ええ、週2回パソコンの練習に行ってるんです。
+      meaning: |-
+        
+        A: Hi. Have you been working overtime?
+        B: No. I left work early. rm on my way home from school.
+        A: From school?
+        B: Uh-huh. I practice using computers twice a week.
     tags:
       &a1
-      - 15_-_Lesson_6_-_KaiwaBun_1.mp3
+      - iij06
   - id: 162cf851-0577-4fae-a22c-b0257fcca88d
     start: 00:18.944
     end: 00:29.66
@@ -1752,8 +1876,15 @@ clips:
         色々な人が来ていますよ。かなり年を取った人もいます。
         そうですか。
         技術革新の時代ですからね。
+      meaning: |-
+        A: After work?
+        B: Yes.
+        A: Sounds rough.
+        B: A wide range of people come to my classes. Some of them are fairly along in their years, too.
+        A: Oh?
+        B: We're living in the midst of a technological revolution, after all.
     tags:
-      - 15_-_Lesson_6_-_KaiwaBun_1.mp3
+      - iij06
   - id: d1d39bee-6089-401f-bd05-0997c627006a
     start: 00:30.02
     end: 00:46.1
@@ -1765,6 +1896,13 @@ clips:
         へえ？
         これまでは上の人が現場で教えていたんですけど、この頃は忙しくて 教える暇がないんですって。
         なるほど。
+      meaning: |-
+        A: As a matter Of fact, my company—we're in construction—
+        B: Oh? 
+        A: Well, we just set up a school for our employees.
+        B: Really?
+        A: Up until now, supervisors used to train subordinates on the job. But they've gotten too busy for that lately.
+        B: I see.
     tags: *a1
   - id: 191e91b6-f1da-4e41-a0ff-bca80bd8d32b
     start: 00:46.34
@@ -1774,6 +1912,10 @@ clips:
         それで、学校を作って若い人を教育することにしたんです。
         じゃ、学費は無料？
         ええ。給料も出ます。 夏休みもあります。
+      meaning: |-
+        A: So the firm recently decided to start a school—for training younger employees
+        B: With free tuition?
+        A: Exactly. And they receive salaries, too. Not to mention summer vacation.
     tags: *a1
   - id: fb4879c0-3e37-4b3c-8779-a29953b01552
     start: 00:56.52
@@ -1784,6 +1926,11 @@ clips:
         初歩から始めて1年間勉強したあとは、現場で仕事ができるんです。
         本当ですか！
         来年入、社試験を受けてみますか。
+      meaning: |-
+        B: Wow. That's fantastic.
+        A: After a year's study from square one, the employees are fully equipped to do the job.
+        B: No kidding!
+        A: Care to take our company entrance exam next year?
     tags: *a1
   - id: 25854a1e-7397-47dd-9b7a-9b23c6d01442
     start: 01:08.0
@@ -1793,8 +1940,12 @@ clips:
         1年間だけですね、勉強は？
         月曜から土曜まで毎日7時間。
         週42時間！やっぱりやめます。僕、勉強は週4時間で十分です。
+      meaning: |-
+        B: Well, as long as you only have to study for one year.
+        A: That's right. From Mondays through Saturdays, seven hours a day.
+        B: Forty-two hours a week!! So much for that idea. I'm only able to study for four hours a week as it is.
     tags:
-      - 15_-_Lesson_6_-_KaiwaBun_1.mp3
+      - iij06
 flashcardFieldsToSubtitlesTracks:
   transcription: 0c98a6ef-e92c-4724-8d2c-bce933162f92
 ---
@@ -1823,9 +1974,20 @@ clips:
         うん、それから旅行。
         勉強は全然しないのね。
         そんなことはない。
+      meaning: |-
+        
+        A: Hey.
+        B: Oh, hi. Long time no see.
+        A: Yeah. I've been absent for a while.
+        B: Been working at a part-time job?
+        A: Among other things.
+        B: Oh? Such as sports?
+        A: Yeah, and travel.
+        B: So you haven't been studying at all.
+        A: That's not true.
     tags:
       &a1
-      - 16_-_Lesson_6_-_KaiwaBun_2.mp3
+      - iij06
   - id: 0232b2d4-2bd6-4b71-bec2-aee3943ca589
     start: 00:20.452
     end: 00:30.012
@@ -1835,18 +1997,28 @@ clips:
         そう。
         だって、大学で勉強したことは、社会に出たあと役に立たないよ。
         そうかもしれないわね。
+      meaning: |-
+        A: I've been studying hard enough to get the credits I need to graduate. I just don't study beyond that point
+        B: Really?
+        A: Of course. The material we're studying in college doesn't have any value in the real world.
+        B: You may have a point.
     tags: *a1
   - id: ec715b1e-00cc-4d91-b025-38aad4b70a70
     start: 00:30.84
-    end: 00:42.74
+    end: 00:43.916
     fields:
       transcription: |-
         仕事を始めてから、その仕事に必要な技術を勉強するんだよ、今の時代は。
         そうね。会社も盛んに社員教育をやるわね。
         だから大学の時は勉強する必要ないんだよ。
+      meaning: |-
+        A: People pick up the skills for their line of work while at work—at least in this day and age.
+        B: I can't argue with that. Companies sure put a lot of effort into educating their workers.
+        A: And that's why it's completely unnecessary to study in college.
+        B: Hmm.
     tags: *a1
   - id: d34c0c2f-0080-4660-9fd5-75ac378565a0
-    start: 00:44.0
+    start: 00:44.16
     end: 00:55.536
     fields:
       transcription: |-
@@ -1854,8 +2026,13 @@ clips:
         だからスポーツはやっているんだ。
         これからの会社が求めるのは、強い体と勉強したいという気持ちだよ。
         そうかもしれないわね。
+      meaning: |-
+        A: Still, taking care of one's health is important. Thaes why I'm involved in sports.
+        B: Oh.
+        A: From now on, companies are going to be on the lookout for healthy bodies and an eagerness to study.
+        B: You may be right.
     tags:
-      - 16_-_Lesson_6_-_KaiwaBun_2.mp3
+      - iij06
   - id: f613a540-7821-48c2-b720-9305e53e8232
     start: 00:55.796
     end: 01:03.536
@@ -1863,8 +2040,9 @@ clips:
       transcription: |-
         大学の時に勉強しすぎると、勉強が嫌になるから、あまり勉強しない方がいいんだよ。
         君も気を付けた方がいいよ。
+      meaning: "A: Study too intensively in college, and you'll get tired of studying. It's important to use a little moderation. You should give some thought to this yourself."
     tags:
-      - 16_-_Lesson_6_-_KaiwaBun_2.mp3
+      - iij06
   - id: fa59f896-39cd-4613-a2e2-195c487751f5
     start: 01:03.756
     end: 01:16.816
@@ -1875,6 +2053,11 @@ clips:
         えっ？
         頭を使いすぎるのはよくないから。さよなら。
         おい、待ってよ。頼むよ。
+      meaning: |-
+        B: You're right. In that case, I'll just forget about that report I promised to write for you.
+        A: Huh??
+        B: I don't want to overwork my brain. See you later.
+        A: Hey. wait! Please! I'm begging you!
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: 3a74c1e5-b576-463d-aef0-98e50c2f57f6
@@ -1889,6 +2072,7 @@ clips:
     end: 00:08.84
     fields:
       transcription: 最近色々な新しい野菜が出ている。
+      meaning: Recently, many new types of vegetables have started to appear on the market.
     tags:
       - iij07
   - id: 9aa4ae09-7d98-4d0c-9ea3-4665d4c8db93
@@ -1896,6 +2080,7 @@ clips:
     end: 00:21.32
     fields:
       transcription: 戦後、日本人の食生活が洋風になり、肉食が多くなったので、野菜も肉に合うものが必要になり、新しい野菜が次々に開発されているそうである。
+      meaning: After World War II, when Japanese eating habits turned toward the West, a meat diet became popular, and a new need for vegetables to compliment it arose—leading to a hasty development of new types of vegetables.
     tags:
       - iij07
   - id: 61063fb0-c3fa-4847-beb7-628fe5f9fc92
@@ -1935,6 +2120,7 @@ clips:
     end: 01:03.68
     fields:
       transcription: 市場に出す人は、「味が良いだけでなく、外観も綺麗でなければいけない」と言う。
+      meaning: “A nice taste isn’t enough,” say the vegetable marketers. “The appearance must be pleasing, too.”
     tags:
       - iij07
   - id: a0eb6370-1675-4ca6-ad65-56bb4a48e045
@@ -1950,6 +2136,10 @@ clips:
     end: 01:22.08
     fields:
       transcription: 農家の人たちは、市場に出すことが出来なければ収入にならないので、あきらめて長さの合わないものを捨てる。
+      meaning: |-
+        Those that are longer or shorter don’t qualify as merchandise.
+
+        If farmers can’t put their produce on the market, they can’t make a living. For this reason, farmers resignedly throw away vegetables of the wrong size.
     tags:
       - iij07
   - id: 965e2e00-e4d4-4f29-a4bd-0e0bc148453e
@@ -1965,6 +2155,7 @@ clips:
     end: 01:38.92
     fields:
       transcription: 農家の人たちは、先祖代々の土地で作った野菜に対して、生き物に対するような愛情を持っているに違いない。
+      meaning: Farmers undoubtedly feel a sense of fondness—a fondness for living things—toward the vegetables they grow on land inherited from their ancestors.
       notes: |-
         sénzo
         dáidai
@@ -1993,37 +2184,218 @@ name: 21 - Lesson 7 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:13.169
 id: 906ea9f0-4221-4062-ae37-e9699a1a2bdd
+subtitles:
+  - id: 34822ad2-6d21-4c1a-9859-203fabbb2229
+    type: External
+    chunksMetadata:
+      count: 29
+      endCue: 3622.4
+    name: 21 - Lesson 7 - KaiwaBun 1.srt
+clips:
+  - id: 0d52fbe6-a726-4341-a3f9-81efb58c01c2
+    start: 00:11.02
+    end: 00:22.54
+    fields:
+      transcription: |-
+        この野菜、何て言うんですか。
+        サニー・レタス。
+        へえ？僕、知りませんでした。
+        これ、まだ新しいんですよ。
+        十五、六年前にできたんですって。
+        そうですか。
+      meaning: |-
+        A: What's this vegetable called?
+        B: "Sunny lettuce."
+        A: Huh? I've never heard of it.
+        B: I's still relatively new. Developed 15 or 16 years ago, apparently.
+        A: Oh?
+    tags:
+      &a1
+      - 21_-_Lesson_7_-_KaiwaBun_1.mp3
+  - id: 00494cfc-dee4-442b-bb23-f92f596089fb
+    start: 00:23.04
+    end: 00:37.1
+    fields:
+      transcription: |-
+        野菜も変わりましたね。うちのおばあさんなんか、かたかなの名前の野菜が多くて、困るって言っていますよ。
+        そうでしょうね。
+        お年寄りにとっては、新しい野菜の名前を覚えるのは大変でしょう。
+      meaning: |-
+        B: Vegetables have changed. My grandmother, in fact, says she has a hard time because too many vegetables have names in katakana.
+        A: I'm not surprised. It must be difficult for elderly people to learn the names of new vegetables.
+    tags:
+      - 21_-_Lesson_7_-_KaiwaBun_1.mp3
+  - id: b9e4bbba-4b9c-40d3-a7f1-a29485aaebaa
+    start: 00:37.836
+    end: 00:46.296
+    fields:
+      transcription: |-
+        作る農家の人も大変 らしいですよ。
+        ええ、新しい作り方を覚えなければならないから、大変でしょうね。
+      meaning: |-
+        B: Apparently, farmers are having a difficult time as well.
+        A: Yes. They have to learn new growing methods. That must be a struggle.
+    tags: *a1
+  - id: 1b4fa4d3-9cb4-4c87-8fc3-75f6a918ed94
+    start: 00:46.656
+    end: 00:53.816
+    fields:
+      transcription: |-
+        それを商品として売るには、味だけでなくて、大きさや形にも気をつけるんですって。
+        へえ？
+      meaning: |-
+        B: It seems it takes more than just taste to sell these new vegetables on the market. Care must be given to size and shape too.
+        A: Really?
+    tags: *a1
+  - id: d50c2f71-6358-4983-b863-f12e552a77b4
+    start: 00:54.46
+    end: 01:01.7
+    fields:
+      transcription: |-
+        野菜もお洒落するんですか。
+        そうですね。野菜も商品だから、イメージが大事なんですね。
+      meaning: |-
+        A: You mean vegetables have to look stylish?
+        B: Yes. Vegetables are a type of merchandise. A good image is a must.
+    tags: *a1
+  - id: 1262f399-52fe-44e4-9b15-a7063725b276
+    start: 01:03.96
+    end: 01:12.44
+    fields:
+      transcription: |-
+        人間も同じでしょうか。
+        え？
+        ぼく、自分が女性にモテない理由がわかりました。明日から、おしゃれをします。
+      meaning: |-
+        A: Well, people are about the same, aren't they?
+        B: Huh?
+        A: I've finally figured out why I'm not popular with women. Starting tomorrow, I'm going to make an effort to look more stylish myself.
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 34822ad2-6d21-4c1a-9859-203fabbb2229
 ---
 name: 22 - Lesson 7 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:13.953
 id: e091a88a-100e-4f47-85f9-d08c35e00c54
+subtitles:
+  - id: 26169dec-2368-41f1-a935-3f1474ca56e9
+    type: External
+    chunksMetadata:
+      count: 31
+      endCue: 3545.6
+    name: 22 - Lesson 7 - KaiwaBun 2.srt
+clips:
+  - id: 8044679b-b7a3-4e34-a64a-e2a1572da4b9
+    start: 00:10.712
+    end: 00:19.272
+    fields:
+      transcription: |-
+        ただいま。
+        あ、おじさん、お帰りなさい。
+        ああ、疲れた。
+        あら、そのな花 、どうしたの。
+      meaning: |-
+        
+        A: I'm home!
+        B: Grampa? Welcome back.
+        A: I'm exhausted.
+        B: Something wrong with that nabana?
+    tags:
+      &a1
+      - 22_-_Lesson_7_-_KaiwaBun_2.mp3
+  - id: 9c8ccacb-11ce-4eda-9de8-13e8117e5c28
+    start: 00:19.472
+    end: 00:32.252
+    fields:
+      transcription: |-
+        会社の人がね,これじゃダメだって。
+        どうして？
+        味がいいだけじゃ行けないそうだ。長すぎて、袋に入れた時、格好が悪いと言うんだよ。
+        そう？
+      meaning: |-
+        A: The fellow from the company said it wasn't any good.
+        B: Why's that?
+        A: It seems that flavor alone isn't enough. He said that it was too long—and would look unattractive when placed in a bag.
+        B: Oh?
+    tags:
+      - 22_-_Lesson_7_-_KaiwaBun_2.mp3
+  - id: a1690b46-8f66-48a7-a5c9-ef1eafadab07
+    start: 00:32.592
+    end: 00:49.212
+    fields:
+      transcription: |-
+        「野菜なんだから、新しくて美味しければいいだろう」と言ったんだけど。
+        長さも大事なの？
+        全部同じ大きさの袋にかっこよく入れなければいけないって。
+        それじゃあ野菜じゃなくて、お菓子か何かのようね。
+      meaning: |-
+        A: I told him, "It's just a vegetable. It should be okay as long as its fresh and tasty."
+        B: Is length really that important?
+        A: Yeah. The vegetables all have to perfectly fit a bag of the same size.
+        B: That sounds more like sweets than vegetables
+        A: Uh-huh.
+    tags: *a1
+  - id: 445bdc6e-5293-4df3-bf22-1154e7d3ad55
+    start: 00:50.06
+    end: 01:04.82
+    fields:
+      transcription: |-
+        これからは、長くなりすぎたな花は捨てなければいけないらしい。
+        まあ。味に変わりはないのに捨てるなんて…。
+        仕方がない。野菜も商品なんだよ、今の時代は。
+        そう。
+      meaning: |-
+        A: From now on, I'll have to throw away vegetables that have grown too long.
+        B: Throw them away, even though they taste the same?
+        A: I don't have a choice. Vegetables are a type of merchandise, in this day and age.
+        B: I see.
+    tags:
+      - 22_-_Lesson_7_-_KaiwaBun_2.mp3
+  - id: eb71cfa6-676c-4cb8-8c00-dfdad7845eb4
+    start: 01:05.04
+    end: 01:13.44
+    fields:
+      transcription: |-
+        だからイメージが大事なんだ。
+        おじいさん、新しいこと言うわね。
+        そう、俺も現代人だからね。
+      meaning: |-
+        A: Image—thats what's most important.
+        B: You really know the latest lingo, don't you, Grampa?
+        A: You bet. I'm a modernist.
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 26169dec-2368-41f1-a935-3f1474ca56e9
 ---
 name: 01 - Lesson 8 - Main Text.mp3
 format: mp3
 duration: 01:55.148
 id: 792cf78e-1964-48aa-ad62-2cf6b27e7a77
+subtitles:
+  - id: 6af4e3b2-780a-4af3-b6ec-9c8c9b34b13d
+    type: External
+    chunksMetadata:
+      count: 37
+      endCue: 5708.8
+    name: 01 - Lesson 8 - Main Text.srt
 clips:
   - id: f3f3f18f-1dd4-4403-9c89-78458b68ddc1
     start: 00:05.32
     end: 00:09.06
     fields:
       transcription: 子供の登校拒否がよく問題になる。
+      meaning: The topic of children with a phobia toward school is often discussed.
     tags:
       - iij08
   - id: d3ba3486-8984-4ab3-8987-020940e84e90
     start: 00:09.54
-    end: 00:13.16
-    fields:
-      transcription: 普通の子供でも学校に行きたくない日はある。
-    tags:
-      - iij08
-  - id: fce92278-92e2-4fb8-ab85-a43b6dac3200
-    start: 00:13.44
     end: 00:21.48
     fields:
-      transcription: しかし登校拒否の場合は、ただ感情的に行きたくないのではなくて、病気に近い状態なのである。
-      meaning: But in the case of schoolphobia, they don't simply lack the desire to go to school from an emotional sense, but they have symptoms similar to an illness.
+      transcription: |-
+        普通の子供でも学校に行きたくない日はある。
+        しかし登校拒否の場合は、ただ感情的に行きたくないのではなくて、病気に近い状態なのである。
+      meaning: Although even normal children have days when they don't want to go to school, children with schoolphobia don't merely emotionally reject going to school—they suffer from symptoms similar to an illness.
     tags:
       - iij08
   - id: 417d07c9-10b5-44ad-8496-bfb376810648
@@ -2031,6 +2403,7 @@ clips:
     end: 00:26.88
     fields:
       transcription: カウンセリングが必要であるし、時には入院することもある。
+      meaning: Children like these need counseling. Sometimes, they must be hospitalized.
     tags:
       - iij08
   - id: d6fb98b8-05c8-4f75-ac5b-2f3648582da4
@@ -2038,6 +2411,7 @@ clips:
     end: 00:34.28
     fields:
       transcription: このようの子供のカウンセリングをしてきたある心理学者、新聞に次のようなことを書いていた。
+      meaning: "A psychologist who has counseled these children wrote the following remarks in a newspaper:"
     tags:
       - iij08
   - id: f3500de2-3c28-4826-a66a-b59da5f620c4
@@ -2045,6 +2419,7 @@ clips:
     end: 00:38.88
     fields:
       transcription: 登校拒否は低血糖症と関係が深い。
+      meaning: Refusal to go to school is closely linked with low levels of blood sugar.
       notes: teikettoushou
     tags:
       - iij08
@@ -2053,6 +2428,7 @@ clips:
     end: 00:45.46
     fields:
       transcription: 低血糖症の人は、疲れやすく、気力がなく、集中することができない。
+      meaning: People with this disorder tire easily; lack energy; have difficulty concentrating.
     tags:
       - iij08
   - id: 7c7efa55-3ef7-4826-a191-3e8031b4f155
@@ -2060,6 +2436,7 @@ clips:
     end: 00:50.04
     fields:
       transcription: 頭痛がする、夜よく眠れない。朝起きられない。
+      meaning: They have headaches, often experience Sleeplessness at night, and can't get out of bed in the morning.
       notes: |-
         zutsuu
         nemuru
@@ -2070,6 +2447,7 @@ clips:
     end: 00:54.96
     fields:
       transcription: 感情を抑える力がないので、すぐごわがったり怒ったりする。
+      meaning: Because they can't suppress emotions, they are quick to experience fear or anger.
     tags:
       - iij08
   - id: 303e3a22-8340-461d-843a-2687033bb031
@@ -2077,6 +2455,7 @@ clips:
     end: 00:57.7
     fields:
       transcription: 人に対して暴力を用いる。
+      meaning: They are often violent in their relations with others.
       notes: bóuryoku-o mochiíru
     tags:
       - iij08
@@ -2093,6 +2472,7 @@ clips:
     end: 01:09.58
     fields:
       transcription: 実際に検査してみても、登校拒否はほとんどが低血糖症だった。
+      meaning: Medical examinations show that most of these children are indeed victims of low blood sugar.
     tags:
       - iij08
   - id: bed8838b-b64b-447e-895e-bf66d5e662c1
@@ -2100,23 +2480,20 @@ clips:
     end: 01:17.88
     fields:
       transcription: 登校拒否の問題は、このような医学的な立場から考えることも必要であろう、と言う意見であった。
+      meaning: In the article, the psychologist insisted that the problem Of children with a phobia toward school should be looked at from the standpoint of medicine.
       notes: |-
         táchiba
         íken
     tags:
       - iij08
-  - id: 37a6f86d-58d8-4f60-93ba-5df716f030fc
-    start: 01:18.74
-    end: 01:22.12
-    fields:
-      transcription: 疲れた時甘いものを食べると元気になる。
-    tags:
-      - iij08
   - id: e5a3c23d-126f-4625-b39f-ac55a5b2809b
-    start: 01:22.3
+    start: 01:18.74
     end: 01:27.42
     fields:
-      transcription: お茶の時間に親しい人と一緒に甘い物を食べるのは楽しい。
+      transcription: |-
+        疲れた時甘いものを食べると元気になる。
+        お茶の時間に親しい人と一緒に甘い物を食べるのは楽しい。
+      meaning: Eating something sweet restores energy when one is fatigued—and it's pleasant to enjoy sweets while drinking tea with a close companion.
     tags:
       - iij08
   - id: d8cc348a-2825-49c1-b326-a9d10984b62d
@@ -2124,6 +2501,7 @@ clips:
     end: 01:35.34
     fields:
       transcription: ところがその甘い物を食事を十分にとらないで食べ過ぎると、低血糖症になりやすいそうである。
+      meaning: But eating sweets without a sufficient meal beforehand can lead to low blood sugar.
     tags:
       - iij08
   - id: 854c5bcb-3d77-4912-836c-af5591e5e284
@@ -2131,6 +2509,7 @@ clips:
     end: 01:44.82
     fields:
       transcription: しかし、スーパーに行けば綺麗なお菓子が並んでいる。テレビでは、人気スターが美味しそうにお菓子を食べてみせる。
+      meaning: An array of attractive sweets greets us whenever we go to the supermarket. Popular television celebrities relishingly eat sweets on TV.
     tags:
       - iij08
   - id: ade9907c-dd35-4f9e-8cd9-a35b24c45ea9
@@ -2149,101 +2528,338 @@ name: 02 - Lesson 8 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:16.33
 id: 5914bb62-aea9-46c3-bce7-5051b7dec2cf
+subtitles:
+  - id: 587c91b7-cd36-4c69-9394-4c2bd0079687
+    type: External
+    chunksMetadata:
+      count: 35
+      endCue: 3724.8
+    name: 02 - Lesson 8 - KaiwaBun 1.srt
+clips:
+  - id: c0cd7166-9d69-4343-b7c5-add2c00288e1
+    start: 00:11.2
+    end: 00:21.64
+    fields:
+      transcription: |-
+        山田さんのお子さん、ずっと学校休んでいるそうですね。
+        ええ、登校拒否だそうです。
+        山田さん、心配でしょうね。
+        ええ、気の毒ですね
+      meaning: |-
+        A: It looks like Ms. Yamada's child has been staying home from school for a long time.
+        B: It seems the child has a phobia about going to school.
+        A: I'll bet Ms. Yamada is very concerned. B: I guess so. It must be extremely trying for her. 
+    tags:
+      &a1
+      - 02_-_Lesson_8_-_KaiwaBun_1.mp3
+  - id: 3fee388f-f183-4332-b1b7-0a26acd55b86
+    start: 00:21.8
+    end: 00:38.148
+    fields:
+      transcription: |-
+        友達がいじめるのでしょうか。
+        さあ、原因はわかりませんが、今はもう、病気のような状態らしいですよ。
+        かわいそうに。
+        夜は眠れない、朝は起きられない、頭が痛い。
+        すぐ疲れるし、すぐ怒るんだそうです。
+      meaning: |-
+        A: Was the child taunted by her friends?
+        B: I'm not sure about the cause. But she's started to show symptoms of an illness.
+        A: That's too bad.
+        B: She can't sleep at night. Or get up in the morning. She has frequent headaches, too. She tires often; has a quick temper.
+    tags:
+      - 02_-_Lesson_8_-_KaiwaBun_1.mp3
+  - id: 195abfcc-a2ad-4936-b9bb-e35e455fe905
+    start: 00:38.56
+    end: 00:51.7
+    fields:
+      transcription: |-
+        あら、それ、低血糖症と同じですよ。
+        低血糖症？砂糖が足りないんですか。
+        その反対ですよ。ちゃんと食事をしないで、甘いものを食べ過ぎるとそうなるんですって。
+      meaning: |-
+        A: Really? Her symptoms sound identical to the symptoms of low blood sugar.
+        B: Oh? Such as from not getting enough sugar?
+        A: No—just the opposite. People who don't eat properly—who consume too many sweets—often end up like that.
+    tags:
+      - 02_-_Lesson_8_-_KaiwaBun_1.mp3
+  - id: b21a37ad-a6aa-47e1-a601-eb758b858e0f
+    start: 00:52.04
+    end: 01:05.28
+    fields:
+      transcription: |-
+        子供は甘いものが好きですからね。
+        それにこの頃はお菓子をたくさん売っているし。
+        テレビをつければお菓子のコマーシャル。
+        そうそう。スターが美味しそうに食べてみせるんですからね。
+        困ったもんですね。
+      meaning: |-
+        B: I guess kids are just too fond of sweets.
+        A: Well, it's a fact that a lot of sweets are available these days.
+        B: Turn on the TV, and you're confronted with commercials advertising sweet foods.
+        A: Exactly. Television celebrities are always relishingly eating sweets.
+        B: It's a difficult problem.
+    tags:
+      - 02_-_Lesson_8_-_KaiwaBun_1.mp3
+  - id: 9b3cca2e-a5f7-4dd2-9364-115e3cd0fcdb
+    start: 01:05.54
+    end: 01:16.04
+    fields:
+      transcription: |-
+        子供の食事に気をつけることですね。
+        そうですね。
+        今日は残業しないで早く帰ります。
+        それがいいですよ。お子さんの夕食、ちゃんと作ってください。
+      meaning: |-
+        A: I suppose we just have to pay attention to what kids are eating.
+        B: I suppose so.
+        A: Well, I'm not putting in any overtime today. As soon as work is over, I'm going Straight home
+        B: Good idea—and be sure to make a nutritious dinner for your children.
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 587c91b7-cd36-4c69-9394-4c2bd0079687
 ---
 name: 03 - Lesson 8 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:10.661
 id: d3150029-dfe6-42ab-846b-4b0fa89b1da2
+subtitles:
+  - id: e87b7af7-fa70-4b52-84a9-27c787348d20
+    type: External
+    chunksMetadata:
+      count: 26
+      endCue: 3353.6
+    name: 03 - Lesson 8 - KaiwaBun 2.srt
 clips:
-  - id: 7a594c6b-6702-4b2d-8ae9-40074ecdd24a
-    start: 00:02.04
-    end: 00:03.6
+  - id: 7862bed5-adff-4c3c-b22f-ca723cb1564c
+    start: 00:05.7
+    end: 00:16.62
+    fields:
+      transcription: |-
+        どうしたの 。もう8時よ。
+        まさおは？
+        もう30分も前に学校へ行ったわ。
+        ふーん。
+        あなた、会社は？
+        今日は休むよ。
+      meaning: |-
+        
+        Wife: Something the matter? It's already eight.
+        Husband: Where's Masao?
+        Wife: He left for school. About 30 minutes ago.
+        Husband: Oh.
+        Wife: And what about you? Aren't you going to the office?
+        Husband: Nope. I'm taking the day off.
+    tags:
+      - iij08
+  - id: a19b47b1-a496-4aa4-ab35-4c7c8d53678b
+    start: 00:17.12
+    end: 00:30.44
+    fields:
+      transcription: |-
+        どこか悪いの。
+        夜眠れない。朝起きられない。頭が痛い。
+        昨夜飲み過ぎたからでしょ。
+        この頃疲れやすい。気力がない。
+        これは病気だよ。
+      meaning: |-
+        Wife: What's wrong with you?
+        Husband: I can't sleep at night. I can't get out of bed in the morning. And I have frequent headaches.
+        Wife: Isn't that because you just had too much to drink last night?
+        Husband: I seem to tire easily these days. I often feel lethargic. I'm really sick.
+    tags:
+      - iij08
+  - id: 3bc0b486-2a4d-4688-a8b4-001305b33312
+    start: 00:30.804
+    end: 00:41.004
+    fields:
+      transcription: |-
+        低血糖症だ、きっと。
+        子供の登校拒否のようね。
+        出社拒否だな。
+        そう。じゃ…
+        何をするんだ。
+      meaning: |-
+        Husband: My blood sugar's down—no question about that.
+        Wife: You remind me Of a child with schoolphobia.
+        Husband: Yeah. Although I'm suffering from workphobia.
+        Wife: Right. In that case...
+        Husband: What are you going to do?
+    tags:
+      - iij08
+  - id: 1df13390-9ec8-45e1-83ff-b5a5fc12ad09
+    start: 00:41.216
+    end: 00:59.176
+    fields:
+      transcription: |-
+        お医者さんに電話するの。血糖が低くなると怒りやすくなって、すぐ人を殴るんですって。 怖いから、お医者さん 呼ぶの。
+        どこの医者？
+        竹田医院。
+        だめだよ、あの医者は。すぐ注射するけど、注射が下手で、すごく痛いんだ。
+      meaning: |
+        Wife: Phone the doctor. I've heard that people with low blood sugar have short tempers and strike out at others. That's scary—which is why I'd better get in touch with a physician.
+        Husband: Which one?
+        Wife: The doctor at Takeda Clinic.
+        Husband: Uh-uh. Not that doctor. Takeda likes to give shots—but doesn't know how. The shots really hurt.
+    tags:
+      - iij08
+  - id: 1f87cfdf-cbb3-4b10-b7c0-db1c2a9438c1
+    start: 01:03.88
+    end: 01:09.94
+    fields:
+      transcription: おーい、直ったよ。行くよ、行くよ、会社へ。
+      meaning: "Husband: Hey! I'm better! I'll go! I'll go to work!"
+    tags:
+      - iij08
+flashcardFieldsToSubtitlesTracks:
+  transcription: e87b7af7-fa70-4b52-84a9-27c787348d20
 ---
 name: 07 - Lesson 9 - Main Text.mp3
 format: mp3
 duration: 01:53.554
 id: 7b500308-c3d3-4516-a2b8-7c4a7a068384
+subtitles:
+  - id: d20c34f6-4e2b-4279-8d79-049c56b4ea1d
+    type: External
+    chunksMetadata:
+      count: 30
+      endCue: 5619.2
+    name: 07 - Lesson 9 - Main Text.srt
 clips:
   - id: 01881d9b-a273-4e4e-bd85-e098affad332
     start: 00:06.54
     end: 00:14.26
+    fields:
+      transcription: |-
+        電話をすれば家まで荷物を取りに来て
+        1日か2日のうちに 全国どこへでも 届ける
     tags:
       - iij09
   - id: ca437f9c-6a7d-48af-917b-bfd13f943c5f
     start: 00:14.52
     end: 00:17.72
+    fields:
+      transcription: こういう 宅配便がこの頃 増えている
     tags:
       - iij09
   - id: 9b35684f-290d-400e-a3ed-c8f15c72be51
     start: 00:18.1
     end: 00:23.56
+    fields:
+      transcription: |-
+        利用する立場からは 実に便利だが
+        届ける人は大変であろう
     tags:
       - iij09
   - id: 802ea9c3-58b5-4dd3-a15a-c723ab88bb1a
     start: 00:24.392
     end: 00:30.32
+    fields:
+      transcription: ある大きな 宅配便の会社の例を数日前テレビで紹介していた
     tags:
       - iij09
   - id: bd448257-2a0d-4202-baaf-1fe6f1f661cf
     start: 00:30.612
     end: 00:36.952
+    fields:
+      transcription: この会社では 最近 コンピューターで社員のトラックの動きを記録することにした
     tags:
       - iij09
   - id: 8bfdee66-08a5-46d3-8ec8-33fe39954dd7
     start: 00:37.332
     end: 00:43.432
+    fields:
+      transcription: |-
+        事務所のコンピューターに
+        何時何分にどこを通ったか 全部記録される
     tags:
       - iij09
   - id: 5de4f3cf-c7ee-4210-afe6-dbcb87fba5b3
     start: 00:43.692
     end: 00:47.432
+    fields:
+      transcription: 運転手にとっては大変なプレッシャーであろう
     tags:
       - iij09
   - id: 09a62149-b291-4208-8b78-5ab9e3535268
     start: 00:47.872
     end: 00:54.0
+    fields:
+      transcription: しかも 運転席のそばの機械が事務所からの指令を次々に家だ
     tags:
       - iij09
   - id: 6f36fa3f-edfc-4199-8d97-36bfa26c5b24
     start: 00:54.312
     end: 00:58.872
+    fields:
+      transcription: 車を停めて荷物を届けに行っている間にも指令が来る
     tags:
       - iij09
   - id: 52bb5ce6-dc80-4916-917e-f2871d01ecb4
     start: 00:59.252
     end: 01:11.492
+    fields:
+      transcription: |-
+        以前は運転手が車にいない時は指令を送ることができないので
+        呪文を断っていたが
+        今度の方法で注文を受ける数が多いに増えたそうである
     tags:
       - iij09
   - id: 52ad117b-8c20-424b-ae6c-eda8492d2ca5
     start: 01:12.212
     end: 01:17.192
+    fields:
+      transcription: |-
+        しかし 働く人の仕事も増え
+        疲れもひどくなる
     tags:
       - iij09
   - id: 25738df7-d07a-434e-b6d5-00a468f2542f
     start: 01:17.432
     end: 01:20.312
+    fields:
+      transcription: 途中で辞める 社員も多いそうだ
     tags:
       - iij09
   - id: ae0bd1f1-85f5-44ae-b04b-878e7586506d
     start: 01:20.652
     end: 01:23.832
+    fields:
+      transcription: 人間と機械の組み合わせは難しい
     tags:
       - iij09
   - id: 046fd13d-bcea-42f6-ad3f-2a1fe11f1fbb
     start: 01:24.332
     end: 01:31.292
+    fields:
+      transcription: |-
+        人間が機械を使うのでなく
+        機械が人間を使うことになってしまう場合も多い
     tags:
       - iij09
   - id: 5b108bf5-fa27-417c-aad3-803bd788583b
     start: 01:31.832
     end: 01:42.08
+    fields:
+      transcription: |-
+        これだけ コンピューターが進歩したのだから
+        トラック も無人にして
+        コンピューターで動かし
+        荷物はロボットが運ぶようにしたらどうだろう
     tags:
       - iij09
   - id: 3bddc73e-c7d5-44bb-a962-bda2e4767814
     start: 01:42.272
     end: 01:52.812
+    fields:
+      transcription: |-
+        ピンポンとなったので玄関へ出てみると
+        黒猫のロボットが立っていて
+        お菓子の箱を差し出すなんて 想像すると楽しいではないか
     tags:
       - iij09
+flashcardFieldsToSubtitlesTracks:
+  transcription: d20c34f6-4e2b-4279-8d79-049c56b4ea1d
 ---
 name: 08 - Lesson 9 - KaiwaBun 1.mp3
 format: mp3
@@ -3056,28 +3672,3 @@ name: 21 - Lesson 15 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:11.68
 id: a7648515-0cca-4448-810c-6278e000be63
----
-name: L01-1_yomimono.mp3
-format: mp3
-duration: 04:40.294
-id: 642f1f40-f17c-4bee-9d6f-8dda7b80825a
----
-name: L01-2_kaiwabun_1.mp3
-format: mp3
-duration: 03:37.26
-id: d2bc9310-9837-47e5-88ed-69250d02613d
----
-name: L01-2_kaiwabun_2.mp3
-format: mp3
-duration: 01:54.077
-id: 30055255-9fff-4369-8cda-daa3397d707a
----
-name: L01-3_kaiwa_renshuu_1.mp3
-format: mp3
-duration: 01:06.09
-id: e181dac2-0159-4f6b-ba16-0aa8fbff9cad
----
-name: L01-3_kaiwa_renshuu_2.mp3
-format: mp3
-duration: 00:55.51
-id: f944eae3-f2d8-4e69-9191-c166d1225225

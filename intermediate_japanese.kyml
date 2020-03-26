@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-03-21T22:53:19Z
+timestamp: 2020-03-26T17:46:39Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -2722,7 +2722,7 @@ subtitles:
   - id: d20c34f6-4e2b-4279-8d79-049c56b4ea1d
     type: External
     chunksMetadata:
-      count: 30
+      count: 29
       endCue: 5619.2
     name: 07 - Lesson 9 - Main Text.srt
 clips:
@@ -2730,132 +2730,120 @@ clips:
     start: 00:06.54
     end: 00:14.26
     fields:
-      transcription: |-
-        電話をすれば家まで荷物を取りに来て
-        1日か2日のうちに 全国どこへでも 届ける
+      transcription: 電話をすれば家まで荷物を取りに来て、1日か2日のうちに 全国どこへでも届ける。
+      meaning: With a single phone call, it’s now possible to have a parcel picked up at one's home and delivered a day or two later to a location anywhere in Japan.
     tags:
       - iij09
   - id: ca437f9c-6a7d-48af-917b-bfd13f943c5f
     start: 00:14.52
     end: 00:17.72
     fields:
-      transcription: こういう 宅配便がこの頃 増えている
+      transcription: こういう宅配便がこの頃増えている。
+      meaning: Home delivery agencies offering services like these are on the rise.
     tags:
       - iij09
   - id: 9b35684f-290d-400e-a3ed-c8f15c72be51
     start: 00:18.1
     end: 00:23.56
     fields:
-      transcription: |-
-        利用する立場からは 実に便利だが
-        届ける人は大変であろう
+      transcription: 利用する立場からは実に便利だが届ける人は大変であろう。
+      meaning: From the client’s perspective, such services are convenient indeed—but they must be hard on the deliverer.
     tags:
       - iij09
   - id: 802ea9c3-58b5-4dd3-a15a-c723ab88bb1a
     start: 00:24.392
     end: 00:30.32
     fields:
-      transcription: ある大きな 宅配便の会社の例を数日前テレビで紹介していた
+      transcription: ある大きな宅配便の会社の例を数日前テレビで紹介していた。
+      meaning: An example of one of the larger home delivery firms was presented on television a few days back.
     tags:
       - iij09
   - id: bd448257-2a0d-4202-baaf-1fe6f1f661cf
     start: 00:30.612
     end: 00:36.952
     fields:
-      transcription: この会社では 最近 コンピューターで社員のトラックの動きを記録することにした
+      transcription: この会社では最近、コンピューターで社員のトラックの動きを記録することにした。
+      meaning: The firm recently started using a computer to record the movements of its delivery vans.
     tags:
       - iij09
   - id: 8bfdee66-08a5-46d3-8ec8-33fe39954dd7
     start: 00:37.332
     end: 00:43.432
     fields:
-      transcription: |-
-        事務所のコンピューターに
-        何時何分にどこを通ったか 全部記録される
+      transcription: 事務所のコンピューターに、何時何分にどこを通ったか、全部記録される。
+      meaning: Its office's computer records the position of each van down to the minute.
     tags:
       - iij09
   - id: 5de4f3cf-c7ee-4210-afe6-dbcb87fba5b3
     start: 00:43.692
     end: 00:47.432
     fields:
-      transcription: 運転手にとっては大変なプレッシャーであろう
+      transcription: 運転手にとっては大変なプレッシャーであろう。
+      meaning: One can imagine the intense pressure the drivers must be under.
     tags:
       - iij09
   - id: 09a62149-b291-4208-8b78-5ab9e3535268
     start: 00:47.872
     end: 00:54.0
     fields:
-      transcription: しかも 運転席のそばの機械が事務所からの指令を次々に家だ
+      transcription: しかも運転席のそばの機械が事務所からの指令を次々に打ち出す。
+      meaning: To make matters worse, a machine beside the driver's seat makes a continuous print-out of new instructions from the company.
     tags:
       - iij09
   - id: 6f36fa3f-edfc-4199-8d97-36bfa26c5b24
     start: 00:54.312
     end: 00:58.872
     fields:
-      transcription: 車を停めて荷物を届けに行っている間にも指令が来る
+      transcription: 車を停めて荷物を届けに行っている間にも指令が来る。
+      meaning: The instructions pour out of the machine even when the driver has stopped the van to deliver a parcel.
     tags:
       - iij09
   - id: 52bb5ce6-dc80-4916-917e-f2871d01ecb4
     start: 00:59.252
     end: 01:11.492
     fields:
-      transcription: |-
-        以前は運転手が車にいない時は指令を送ることができないので
-        呪文を断っていたが
-        今度の方法で注文を受ける数が多いに増えたそうである
+      transcription: 以前は運転手が車にいない時は指令を送ることができないので、注文を断っていたが、今度の方法で注文を受ける数が多いに増えたそうである。
+      meaning: Home delivery companies were formerly unable to convey instructions to their drivers when they were out of the van, forcing them to turn down orders from clients. This new technique has dra- matically increased the numbers of orders that the companies can handle.
     tags:
       - iij09
   - id: 52ad117b-8c20-424b-ae6c-eda8492d2ca5
     start: 01:12.212
     end: 01:17.192
     fields:
-      transcription: |-
-        しかし 働く人の仕事も増え
-        疲れもひどくなる
+      transcription: しかし、働く人の仕事も増え、疲れもひどくなる。
+      meaning: Nonetheless. the workloads of their employees have increased, and on-the-job fatigue is severe.
     tags:
       - iij09
   - id: 25738df7-d07a-434e-b6d5-00a468f2542f
     start: 01:17.432
     end: 01:20.312
     fields:
-      transcription: 途中で辞める 社員も多いそうだ
+      transcription: 途中でやめる社員も多いそうだ。
+      meaning: Many employees have quit their jobs.
     tags:
       - iij09
   - id: ae0bd1f1-85f5-44ae-b04b-878e7586506d
     start: 01:20.652
-    end: 01:23.832
-    fields:
-      transcription: 人間と機械の組み合わせは難しい
-    tags:
-      - iij09
-  - id: 046fd13d-bcea-42f6-ad3f-2a1fe11f1fbb
-    start: 01:24.332
     end: 01:31.292
     fields:
-      transcription: |-
-        人間が機械を使うのでなく
-        機械が人間を使うことになってしまう場合も多い
+      transcription: 人間と機械の組み合わせは難しい。人間が機械を使うのでなく、機械が人間を使うことになってしまう場合も多い
+      meaning: Combining humans and machines is difficult; in many instances, the worker becomes used by the machine, rather than the reverse.
     tags:
       - iij09
   - id: 5b108bf5-fa27-417c-aad3-803bd788583b
     start: 01:31.832
     end: 01:42.08
     fields:
-      transcription: |-
-        これだけ コンピューターが進歩したのだから
-        トラック も無人にして
-        コンピューターで動かし
-        荷物はロボットが運ぶようにしたらどうだろう
+      transcription: これだけコンピューターが進歩したのだから、トラックも無人にしてコンピューターで動かし、荷物はロボットが運ぶようにしたらどうだろう。
+      meaning: Since computers have improved so tremendously, why not put them in charge of a driverless van—and have a robot deliver the packages?
     tags:
       - iij09
   - id: 3bddc73e-c7d5-44bb-a962-bda2e4767814
     start: 01:42.272
     end: 01:52.812
     fields:
-      transcription: |-
-        ピンポンとなったので玄関へ出てみると
-        黒猫のロボットが立っていて
-        お菓子の箱を差し出すなんて 想像すると楽しいではないか
+      transcription: ピンポーンと鳴ったので玄関へ出てみると、黒猫のロボットが立っていて、お菓子の箱を差し出すなんて、想像すると楽しいではないか。
+      meaning: It's fun to imagine answering the doorbell and discovering a box of sweets delivered by a robotized black cat.
     tags:
       - iij09
 flashcardFieldsToSubtitlesTracks:
@@ -2865,183 +2853,748 @@ name: 08 - Lesson 9 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:11.262
 id: 25728061-f628-45e3-8426-f7ab54e5683a
+subtitles:
+  - id: f9953fd7-d453-471e-8d63-76c18f2bce9f
+    type: External
+    chunksMetadata:
+      count: 30
+      endCue: 3520
+    name: 08 - Lesson 9 - KaiwaBun 1.srt
+clips:
+  - id: 98452d3b-e796-49c6-a687-bb64dd462d90
+    start: 00:10.42
+    end: 00:23.06
+    fields:
+      transcription: |-
+        宅配便て、早いですね。
+        ええ、日本全国どこへでも、1日か2日のうちに届けるそうですからね。
+        便利なもんですね。
+        でも、届ける人は大変でしょうね。
+        そうですね。
+    tags:
+      &a1
+      - 08_-_Lesson_9_-_KaiwaBun_1.mp3
+  - id: 0b2fec94-2015-4cac-ae59-d9008ad093bb
+    start: 00:23.52
+    end: 00:39.64
+    fields:
+      transcription: |-
+        会社の間の競争もあるでしょうし。
+        ええ。注文をたくさん受けるために色々なことをしているそうです。
+        そうですか。
+        例えば、運転手が車を降りて荷物を届けに行っている間は、事務所から指令を送ることができませんね。
+    tags: *a1
+  - id: 2294b2a4-f434-4819-b697-374ff9063336
+    start: 00:39.96
+    end: 00:52.48
+    fields:
+      transcription: |-
+        そうすると、その注文は他の会社へ行ってしまう。
+        それで、運転手がいない間にも、事務所からの指令が行くようにしたんだそうです。
+        そういう機械をつけたんですね。
+        ええ。
+    tags:
+      - 08_-_Lesson_9_-_KaiwaBun_1.mp3
+  - id: 0bc5f36d-e6a1-4a81-8279-18a9843d9045
+    start: 00:52.88
+    end: 01:04.58
+    fields:
+      transcription: |-
+        それで大いに注文が増えたそうです。
+        でも、働く人は大変でしょう。仕事が増えることになるから。
+        ええ、そうですね。会社によっては半分以上の人が途中でやめるそうです。
+    tags:
+      - 08_-_Lesson_9_-_KaiwaBun_1.mp3
+  - id: 80dda866-7b20-4373-af15-d6ba02bc6a47
+    start: 01:05.0
+    end: 01:10.46
+    fields:
+      transcription: |-
+        厳しいですね。
+        便利な生活って、厳しい競争の産物なんですね。
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: f9953fd7-d453-471e-8d63-76c18f2bce9f
 ---
 name: 09 - Lesson 9 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:13.064
 id: f4afc8c0-bac3-4ce6-a47a-25f2b01b40a8
+subtitles:
+  - id: 355f6bad-4a3c-49e7-a626-2ecc93463ccf
+    type: External
+    chunksMetadata:
+      count: 27
+      endCue: 3584
+    name: 09 - Lesson 9 - KaiwaBun 2.srt
+clips:
+  - id: c9c82160-7295-4a99-8696-28a3e1350766
+    start: 00:06.14
+    end: 00:24.5
+    fields:
+      transcription: |-
+        宅配便の人、かわいそうね。
+        どうして。
+        トラックを運転して、荷物を運ぶでしょう。
+        その途中に、いくつもチェックポイントがあって、そこを何時何分に通ったか、事務所の方にはわかるんですって、そういう機械があって。
+        ふうん。
+    tags:
+      &a1
+      - 09_-_Lesson_9_-_KaiwaBun_2.mp3
+  - id: 180247ff-44be-44b2-ac03-33fa8bd20988
+    start: 00:24.68
+    end: 00:39.012
+    fields:
+      transcription: |-
+        人間が機械に監督されているみたい。
+        そうだね。
+        ひどいと思わない？
+        思うよ。だけど、僕だって同じようなものだよ。 どういう意味？
+        いつも監督されているもの。
+        上の人に？
+        それだけじゃない。
+        誰に？
+    tags:
+      - 09_-_Lesson_9_-_KaiwaBun_2.mp3
+  - id: ee55dada-6f5e-4cbb-ac2c-54feaed8c93c
+    start: 00:39.82
+    end: 00:51.36
+    fields:
+      transcription: |-
+        「お小遣い、この間1万円あげたでしょ。もうなくなったなんて、変だわ。何に使ったの」
+        それは月給が少ないからよ。月給が多ければ、そんなこと言わないわ。
+    tags:
+      - 09_-_Lesson_9_-_KaiwaBun_2.mp3
+  - id: 0a443604-e9db-4a99-8281-4cdd59f9bf72
+    start: 00:51.48
+    end: 01:00.28
+    fields:
+      transcription: |-
+        「今日は残業がないはずよ。どうしてこんなに遅いの」
+        それは晩御飯が無駄になるからよ。
+        分かった。
+    tags: *a1
+  - id: 4b8d0d0f-640b-45d9-984d-6e162e2a8939
+    start: 01:01.14
+    end: 01:11.78
+    fields:
+      transcription: |-
+        もう、そんなこと言うのやめるわ。
+        それはありがたい。
+        お小遣いは1000円ずつ渡す。
+        おいおい。
+        晩御飯は帰るまで作らないことにするわ。
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 355f6bad-4a3c-49e7-a626-2ecc93463ccf
 ---
 name: 13 - Lesson 10 - Main Text.mp3
 format: mp3
 duration: 01:48.46
 id: e2b0ba37-464e-41c8-b176-759e3bac44b1
+subtitles:
+  - id: 6761c440-43b9-420a-b48d-9f04246ef588
+    type: External
+    chunksMetadata:
+      count: 37
+      endCue: 5196.8
+    name: 13 - Lesson 10 - Main Text.srt
 clips:
   - id: 886829d5-5fd1-4228-9389-546864b6a629
     start: 00:05.34
     end: 00:12.28
+    fields:
+      transcription: |-
+        カードを使うことが多くなった。
+        買い物をして現金で払う代わりにカードで払う。
+      meaning: The use of credit cards has increased. Credit cards are now used in place of cash when shopping.
     tags:
       - iij10
   - id: 860e37de-5948-444f-a308-8146988db83a
     start: 00:12.72
     end: 00:18.86
+    fields:
+      transcription: |-
+        銀行に預金があれば、手元に現金が全然なくても
+        たくさんの買い物ができる。
+      meaning: As long as one has an account at the bank, many purchases can be made—even with no cash on hand.
     tags:
       - iij10
   - id: c6e0146a-60da-4e9b-9f9b-679cf6683214
     start: 00:19.28
     end: 00:25.8
+    fields:
+      transcription: 細かい金が必要な時は、銀行の機会にカードを差し込めば、現金が出てくる。
+      meaning: When pocket money is necessary, cash can be obtained by placing a card in the bank’s automatic teller.
     tags:
       - iij10
   - id: f91745dd-f7a7-4dde-8699-bff69b78ead7
     start: 00:26.82
     end: 00:39.08
+    fields:
+      transcription: |-
+        ある会社では、身分証明書が支払いカードを兼ねていて、社員食堂で食事をしてカードで払うと、
+        支払いの額が自動的に給料から引かれるそうである。
+      meaning: At one company. employee ID cards also function as charge cards; by presenting these cards at the end of a meal at the dining hall, payments are automatically deducted from employees' salaries.
     tags:
       - iij10
   - id: 39a1201a-99a8-43a4-ac0f-ac20d09a7c4c
     start: 00:39.48
     end: 00:49.28
+    fields:
+      transcription: 実に便利な時代になった。現金を持っていると落とすこともあるし、泥棒もいるのだから、カードの方が安全である。
+      meaning: Ours is truly an age of convenience. Because cash can be dropped on the ground or stolen by thieves, credit cards have become the safer alternative.
     tags:
       - iij10
   - id: b778d381-8926-4656-a8c4-f1f3c34dd426
     start: 00:49.58
     end: 00:54.86
+    fields:
+      transcription: それに札を何枚も持つより、カードの方が小さくて軽い。
+      meaning: What's more, compared to carrying around a stack of bills. cards are small and light.
     tags:
       - iij10
   - id: 6178fc58-abcd-40c5-a25a-b8b84cdecbe0
     start: 00:55.6
     end: 01:00.14
+    fields:
+      transcription: そんなに便利なカードであるが、問題がないわけではない。
+      meaning: Despite these conveniences, credit cards are not without their problems.
     tags:
       - iij10
   - id: 5a1f8331-5e18-4da4-a702-bde730f8a2b9
     start: 01:00.64
     end: 01:10.58
+    fields:
+      transcription: 数日前の新聞に、カードで買い物をするのは無駄遣いの原因になるから、自分は絶対にカードは使わないという投書が出ていた。
+      meaning: In the newspaper several days ago, there was a letter from a reader who vowed never to use credit cards because they lead to wasteful spending.
     tags:
       - iij10
   - id: 2cdade9e-430a-4aff-9c8a-212e711747a3
     start: 01:11.22
     end: 01:27.72
+    fields:
+      transcription: 目の前で札や貨幣が財布から出ていくと、金を使ったという実感が強いので、金を節約しようという気持ちになるが、カードで払うとその実感がないので、気楽に金を使いすぎる結果になる、と言うのである。
+      meaning: Watching bills and coins appear from one's wallet leaves a strong feeling of having spent money. encouraging economizing. This feeling isn't experienced with credit cards. That’s why credit cards make it easy to spend too much money.
     tags:
       - iij10
   - id: 115f29cb-5a0d-4083-acf0-e545bda166eb
     start: 01:28.38
     end: 01:37.0
+    fields:
+      transcription: 現金でもカードでも、必要なものは買い、必要でないものは買わないのが、理性のある人間の行動である。
+      meaning: Whether they are using cash or credit cards, people who behave rationally will purchase what they need—and avoid what they don't.
     tags:
       - iij10
   - id: d67626c2-69d8-4dbb-be77-54a8fc622458
     start: 01:37.38
     end: 01:42.64
+    fields:
+      transcription: しかし、いつも理性に従って行動することは難しいことである。
+      meaning: Still, it's often difficult for people to always behave according to the laws of rationality.
     tags:
       - iij10
   - id: 1b992de2-c478-4db9-98c3-affeefc7cc95
     start: 01:43.04
-    end: 01:48.46
+    end: 01:48.24
+    fields:
+      transcription: カード 時代は人間に強さを要求する時代だといっても良いであろう。
+      meaning: The age of the card is an age in which. above everything else, strength of character is in greatest demand.
     tags:
       - iij10
+flashcardFieldsToSubtitlesTracks:
+  transcription: 6761c440-43b9-420a-b48d-9f04246ef588
 ---
 name: 14 - Lesson 10 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:12.307
 id: 6e2cfdfc-f7fa-424d-8e96-7f9a814c694e
+subtitles:
+  - id: 6eb16575-11b0-42b9-b985-cb3b800da3f6
+    type: External
+    chunksMetadata:
+      count: 31
+      endCue: 3558.4
+    name: 14 - Lesson 10 - KaiwaBun 1.srt
+clips:
+  - id: 29d9685a-3506-47ef-ab3b-9a8beb57aeae
+    start: 00:11.04
+    end: 00:24.828
+    fields:
+      transcription: |-
+        すみません、ちょっと電話したいのですが。
+        いいですよ。でも、今電話が空いていないから、少し待ちましょう。
+        ええ。
+        細い金ですか。
+        いえ、テレフォンカードです。あ、ありました。
+      meaning: |-
+        A: Just a second. I want to make a phone call.
+        B: Go right ahead... but it looks like the phone booths are all occupied at the moment. Let’s wait for a while.
+        A: Okay.
+        B: Are you looking for change?
+        A: No. I’m trying to find my telephone card. Oh, there it is.
+    tags:
+      - 14_-_Lesson_10_-_KaiwaBun_1.mp3
+  - id: 3d60edb7-75c3-4ed1-9ca0-9e3cc0ee3e0c
+    start: 00:26.128
+    end: 00:40.728
+    fields:
+      transcription: |-
+        この頃は電話も大抵 カードですね。
+        ええ、買い物も レストランも、私みんなカードです。
+        そうですか。僕は何でも現金です。
+        でも、カードの方が安全ですよ 。金は落とすこともあるし。
+      meaning: |-
+        B: Lately, people usually make telephone calls with cards, don't they?
+        A: Uh-huh. I use cards when I’m shopping; at restaurants—practically everywhere.
+        B: Really? I always pay cash.
+        A: Cards are safer. Cash can be dropped.
+    tags:
+      &a1
+      - 14_-_Lesson_10_-_KaiwaBun_1.mp3
+  - id: 52e9b104-651c-4d00-80d8-e3e8dde51b95
+    start: 00:40.988
+    end: 00:52.588
+    fields:
+      transcription: |-
+        泥棒もいるし。
+        それはそうですが、カードはどうも実感がなくてね。
+        そうですか。
+        目の前で金が出ていくわけじゃないから、気楽に買い物をして、買いすぎるんです。
+        そうですか。
+      meaning: |-
+        A: And there are thieves, too.
+        B: Maybe so. But cards don't have a feeling of reality about them.
+        A: Really?
+        B: You can’t watch the money vanish before you. You can shop freely, and end up buying too much in the process.
+    tags: *a1
+  - id: 9dc41cc8-8030-4dd9-8dbe-05f387f9866d
+    start: 00:52.952
+    end: 01:01.952
+    fields:
+      transcription: |-
+        カードでも現金でも、必要な物は買うし、必要でないものは買いませんけど、私は。
+        僕は駄目ですね。
+        意志が弱いから。
+      meaning: |-
+        A: Well, I buy what I need and avoid buying what I don't need—whether I'm using cash or a credit card.
+        B: I can’t do that. I don't have enough willpower.
+    tags: *a1
+  - id: ae04bd83-c31f-4852-9dde-0c7cb70d1bb7
+    start: 01:03.24
+    end: 01:11.22
+    fields:
+      transcription: |-
+        電話空きましたよ。
+        あら、このカード、もう終わりですわ。
+        それは残念。じゃ、この10円玉どうぞ。
+      meaning: |-
+        b: Oh. look. The telephone is free.
+        A: Oh, no. My telephone card doesn't have any more calls left on it.
+        B: Too bad. Here—use this ten yen coin instead.   
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 6eb16575-11b0-42b9-b985-cb3b800da3f6
 ---
 name: 15 - Lesson 10 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:06.978
 id: 7c0b549c-19f9-42d2-8207-600731a86e3b
+subtitles:
+  - id: bf2f9e3d-3dc4-4960-8836-cadd6a980273
+    type: External
+    chunksMetadata:
+      count: 30
+      endCue: 3161.6
+    name: 15 - Lesson 10 - KaiwaBun 2.srt
+clips:
+  - id: 6e9b1c09-9355-435e-a3a6-a1b8e8669845
+    start: 00:06.56
+    end: 00:16.655
+    fields:
+      transcription: |-
+        あら、これ可愛いわ。買いましょうよ。
+        これと同じようなのが、家にいくつもあるじゃないか。
+        でも、同じじゃないわ。少し違うわ。
+      meaning: |-
+        Wife: This is really neat. Let’s buy it.
+        Husband: Don’t we have several just like it at home?
+        Wife: Not just like it. They’re a little different.
+    tags:
+      &a1
+      - 15_-_Lesson_10_-_KaiwaBun_2.mp3
+  - id: 146c8ed2-e881-4d19-bbf3-93cc8b067ffb
+    start: 00:16.895
+    end: 00:32.884
+    fields:
+      transcription: |-
+        僕、もうお金 持ってないよ。さっき君の靴を買ったもの。
+        いいのよ。私、カード持っているから。
+        カードはよくないよ。買いすぎるから。
+        カードの方が便利よ。それに消費税がつくと、1円玉が多くて面倒ですもの。
+      meaning: |-
+        Husband: Well, I'm out of money. I just bought you a pair of shoes, after all.
+        Wife: No problem. I’ve got my credit card with me.
+        Husband: Cards are dangerous. You can buy too many things.
+        Wife: But they're convenient. If you have to pay consumption tax, you end up with a lot of cumbersome one-yen coins.
+    tags:
+      - 15_-_Lesson_10_-_KaiwaBun_2.mp3
+  - id: fbd31d40-fad0-453a-86ae-e9a86f79ca0d
+    start: 00:33.184
+    end: 00:41.484
+    fields:
+      transcription: |-
+        仕方がない。でも、今日だけだよ、カードは。
+        コーヒーカップ２つじゃ少ないから、あそこのお皿も買いましょうよ。
+      meaning: |-
+        Husband: I guess I don’t have much of a choice. Remember, today's the last time.
+        Wife: Two coffee cups aren’t enough. Let’s buy some of those plates over there.
+    tags: *a1
+  - id: 9ad83e46-5397-427f-87c4-d37bd9a4bb8c
+    start: 00:42.044
+    end: 00:52.584
+    fields:
+      transcription: |-
+        あの皿、高そうだよ。
+        大丈夫よ。
+        お金まだ残っているわ。
+        預金のことかい？
+        ええ。今朝銀行に行って確かめたの。
+        それはえらい。
+      meaning: |-
+        Husband: Those plates look pretty pricey.
+        Wife: Relax. We still have some money left.
+        Husband: In the bank account? ‘
+        Wife: Yes. I went to the bank this morning and checked.
+        Husband: I’m really impressed.
+    tags:
+      - 15_-_Lesson_10_-_KaiwaBun_2.mp3
+  - id: 63c0a366-3543-4513-b23e-6679cf01942a
+    start: 00:52.967
+    end: 01:06.095
+    fields:
+      transcription: |-
+        あと3000円ぐらい残るから、食堂で何か食べましょう。じゃ、ここ、払うわね。
+        ちょっとちょっと、それ、僕 のカードじゃないか。
+        そうよ。私のカードはもう残りがないもの。
+      meaning: |-
+        Wife: I've got about ¥3,000 left. How about something to eat at a restaurant? I'll pay.
+        Husband: Just a second. Isn’t that my card?
+        Wife: Of course. The balance on my card is zero.
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: bf2f9e3d-3dc4-4960-8836-cadd6a980273
 ---
 name: 19 - Lesson 11 - Main Text.mp3
 format: mp3
 duration: 02:09.985
 id: 2438c349-06f9-4ad9-b092-26406c93f6ce
+subtitles:
+  - id: 23796937-9232-4158-9bd0-8766e2f2f383
+    type: External
+    chunksMetadata:
+      count: 37
+      endCue: 6297.6
+    name: 19 - Lesson 11 - Main Text.srt
 clips:
   - id: 9a48e2f2-59e3-4f4d-8ebf-ce7a3d1fe6a3
     start: 00:05.92
     end: 00:09.74
+    fields:
+      transcription: ゴミの処理は多くの国で問題になっている
+      meaning: The disposal of garbage has become a problem in many countries.
     tags:
       - iij11
   - id: 0d1ca109-f12f-4e6b-8528-ca4fec937209
     start: 00:10.38
     end: 00:14.76
+    fields:
+      transcription: 他の国にゴミを運んで処理を頼む場合もあるそうだ
+      meaning: Some places are even transporting their trash to other countries for disposal.
     tags:
       - iij11
   - id: 854262cb-0e87-4085-8848-87eadce55e65
     start: 00:15.46
     end: 00:29.2
+    fields:
+      transcription: 日本でも最近、関東地方のある県が、遠く東北地方にまでゴミを運んで処理を頼んだが、話し合いがうまくいかなくて、まだ問題は解決していない そうである。
+      meaning: A certain prefecture in the Kanto region ofJapan has shipped its garbage to the remote Tohoku area; discussions with officials in the area haven’t gone as expected and the problem remains unresolved.
     tags:
       - iij11
   - id: 821e42d5-3057-4628-95c3-ea2e2004b520
     start: 00:29.82
     end: 00:40.08
+    fields:
+      transcription: 特にビニールやプラスチックのゴミは処理が難しく、地中に埋めることが多いが、埋める場所も限界に近づいている。
+      meaning: Vinyl and plastics are particularly hard to get rid of. Though both of these substances are usually buried in the ground, disposal sites are approaching a limit.
     tags:
       - iij11
   - id: 4e7038cf-a74d-45c3-8eff-a1c93f6e11fd
     start: 00:40.98
     end: 00:53.22
+    fields:
+      transcription: 最近の「広報東京都」に、「各家庭から出るコミは、一人ひとりのちょっとした努力と気遣いで減らすことができます」という記事が出ていた。
+      meaning: “With a little effort and attentiveness on the part of individuals," claimed an article in a recent issue of The Tokyo Information, “the garbage produced by households can be decreased.”
     tags:
       - iij11
   - id: 8f8d830a-ae9a-4d06-867c-03383f8a1857
     start: 00:53.92
     end: 01:00.28
+    fields:
+      transcription: また、今朝の新聞には、北海道のある町の場合についての投書が出ていた。
+      meaning: This morning’s paper ran a letter on garbage disposal in a city in Hokkaido. 
     tags:
       - iij11
   - id: 3aab282f-ef0e-4fdc-a72c-b5d59f73e4c5
     start: 01:01.16
     end: 01:08.46
+    fields:
+      transcription: ゴミを出す時は乾電池、生ゴミ、固形燃料など六種類に分けて出す。
+      meaning: "The city segregates its garbage into six types—batteries; food: solid fuels—before disposal."
     tags:
       - iij11
   - id: 23195efc-3a71-477a-b2ba-2b9e4888ec0a
     start: 01:08.86
     end: 01:13.08
+    fields:
+      transcription: 乾電池は市中の数か所にあるポストに捨てる。
+      meaning: Batteries are dropped into receptacles in several places in the city.
     tags:
       - iij11
   - id: 1594b8d3-e377-4f87-9280-7677301d2088
     start: 01:13.5
     end: 01:19.54
+    fields:
+      transcription: 生ゴミは処理して、老人のための施設で燃料として使うそうである。
+      meaning: Food is reconverted into fuel for institutions for the elderly.
     tags:
       - iij11
   - id: 62c2c392-069b-40bb-a899-5ec9e8e57c3d
     start: 01:20.2
     end: 01:28.32
+    fields:
+      transcription: 「ゴミを細かく分けて出すのは最初は面倒でも、そのうちに慣れてしまいます」と投書者は言う。
+      meaning: “Minutely segregating garbage is a nuisance at first,” said the letter-writer. “But you get used to it after a while."
     tags:
       - iij11
   - id: 36a28c30-9c67-45c1-b73c-be47cf0a76a4
     start: 01:28.8
     end: 01:36.5
+    fields:
+      transcription: このような捨て方の工夫も大切であるが、ゴミをあまり出さないようにすることも必要であろう。
+      meaning: Thinking of ways like these to dispose of waste is important. Yet it’s also necessary to conserve on the garbage that we already throw away.
     tags:
       - iij11
   - id: edf2b5cc-6bcd-4bad-91a2-dd6c4da46870
     start: 01:37.02
     end: 01:41.28
+    fields:
+      transcription: 買い物をするたびに包み紙を捨てなければならない。
+      meaning: Shopping trips always result in wrapping paper that needs to be disposed.
     tags:
       - iij11
   - id: 6ef3970d-eb82-4e58-9360-0219444b133e
     start: 01:41.78
     end: 01:51.86
+    fields:
+      transcription: 贈り物をもらうと綺麗な包み紙の中にまた箱や感があって、結局、中のものと同じくらいのゴミが出る。
+      meaning: Presents are wrapped with elegant paper and contained in a box or can; we end up throwing away trash that's equivalent in volume to the present.
     tags:
       - iij11
   - id: b07e6178-a9c4-4f56-9a75-7bdbf323278e
     start: 01:52.26
     end: 01:57.76
+    fields:
+      transcription: しかし、綺麗な包み紙がなければ、商品は売れないのが現実だ。
+      meaning: Yet products wouldn't sell were it not for their elegant wrapping paper.
     tags:
       - iij11
   - id: 834963c3-873d-4e14-8823-8ef39c3ee8db
     start: 01:58.5
     end: 02:02.14
+    fields:
+      transcription: 「一人ひとりの努力」だけでは不十分である。
+      meaning: “Effort on the part of individuals” isn’t enough.
     tags:
       - iij11
   - id: b32f52c9-6a82-4988-8d7a-97ea4d507a0d
     start: 02:02.74
     end: 02:09.6
+    fields:
+      transcription: 商品の流通機構そのものを変えなければ、ゴミ問題の解決にはならないであろう。
+      meaning: "If we don’t revise our system of distributing goods. it’s unlikely that a solution will ever be found to the problem of waste disposal. "
     tags:
       - iij11
+flashcardFieldsToSubtitlesTracks:
+  transcription: 23796937-9232-4158-9bd0-8766e2f2f383
 ---
 name: 20 - Lesson 11 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:22.808
 id: 09b769bf-9c2b-4187-b638-6eb0f5e9b5a5
+subtitles:
+  - id: 2b5b86b8-17cc-46ad-b96e-61fa0d1ce8f8
+    type: External
+    chunksMetadata:
+      count: 34
+      endCue: 4070.4
+    name: 20 - Lesson 11 - KaiwaBun 1.srt
+clips:
+  - id: 496f47bb-ceea-4a4d-a893-37b5ba8d94fc
+    start: 00:07.94
+    end: 00:21.54
+    fields:
+      transcription: |-
+        あのう。
+        はい。
+        ゴミはどこへ出しますか。
+        地下にゴミ捨て場がありますから、そこへ出してください。
+        いつでもいいですか。
+        生ゴミや紙なんか、燃えるゴミはいつでもいいです。
+        はい。
+    tags:
+      &a1
+      - 20_-_Lesson_11_-_KaiwaBun_1.mp3
+  - id: 3439365c-d876-4b47-939f-16b648872ebb
+    start: 00:21.74
+    end: 00:40.0
+    fields:
+      transcription: |-
+        でも必ずバケツに入れて、蓋をしてくださいよ。はい。
+        蓋をしないと、猫が中のものを出して食べますから。
+        はい、わかりました。
+        燃えないゴミ、プラスチックやなんかは、水曜日に建物の裏に置いて下さい。水曜日だけですよ。
+        はい。
+        空き缶とか瓶とかもね。
+    tags: *a1
+  - id: 1cad609c-99c4-4917-a4cf-2574e4a3cc2e
+    start: 00:40.664
+    end: 01:00.012
+    fields:
+      transcription: |-
+        あの、乾電池は？
+        乾電池？
+        前にいた町では乾電池を捨てるポストがいくつかあったんですが。
+        さあ、この辺にはないと思いますが。
+        ゴミは細かく分けて出した方が処理が楽なんですね。
+        出す方は面倒ですけど。
+        まあね。
+    tags:
+      - 20_-_Lesson_11_-_KaiwaBun_1.mp3
+  - id: 3a4d445e-66c1-4b9f-9250-177b006ff3e9
+    start: 01:00.632
+    end: 01:07.132
+    fields:
+      transcription: |-
+        ものが豊かになって
+        ゴミが増えるから 処理が大変なんだそうですね
+        そうですか
+    tags: *a1
+  - id: 30c90e31-5654-42b6-899f-3ac18e211ff5
+    start: 01:07.569
+    end: 01:21.465
+    fields:
+      transcription: |-
+        お中元やお歳暮の時なんか、
+        箱や包み紙がいっぱいになってしまって困りますね。
+        困りませんね。
+        え？
+        うちはもらえないから。
+        あ、そうですか。じゃ、また。
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 2b5b86b8-17cc-46ad-b96e-61fa0d1ce8f8
 ---
 name: 21 - Lesson 11 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:12.829
 id: 90e3947a-1a19-4095-903a-7a7f6e4c0b2f
+subtitles:
+  - id: 98c91a78-967f-4c9a-a9ac-9b3f6d2b45d1
+    type: External
+    chunksMetadata:
+      count: 26
+      endCue: 3571.2
+    name: 21 - Lesson 11 - KaiwaBun 2.srt
+clips:
+  - id: 289ac25b-159c-4b68-b63e-6898d02f538a
+    start: 00:10.88
+    end: 00:23.911
+    fields:
+      transcription: |-
+        そんなに残すの。
+        うん、多いもの。
+        そういう風に残す人がいるからゴミが増えるんだよ。
+        じゃ、ゴミにしないために、苦しくても残さないで食べなさいと言うの。
+        僕はそうしている。
+      meaning: |-
+        Husband: Are you planning on leaving all of that behind?
+        Wife: Uh-huh. It's much more than I can handle.
+        Husband: It's people like you who are responsible for the tremendous increase in garbage.
+        Wife: Are you trying to tell me to eat it even if I’m full—just to keep it from turning into garbage?
+        Husband: Well. that’s what I always do.
+    tags:
+      &a1
+      - 21_-_Lesson_11_-_KaiwaBun_2.mp3
+  - id: 62363d65-3ffd-4cdd-9314-9eca18b81592
+    start: 00:24.024
+    end: 00:35.164
+    fields:
+      transcription: |-
+        だから太るのよ。多い時は残さなきゃだめよ。
+        ゴミ処理は現代文明の大問題なんだ。ゴミを出さないように努力するのが、現代人の義務だ
+      meaning: |-
+        Wife: And that's why you gain weight. If you're served too much. you should leave it on your plate.
+        Husband: Garbage disposal is one of the main problems facing modern civilization. As people living in a modern age, we have to avoid producing waste. It’s our duty.
+    tags: *a1
+  - id: f2e25806-ddbf-41e9-8579-12230d2302f5
+    start: 00:35.624
+    end: 00:46.144
+    fields:
+      transcription: |-
+        じゃあ言いますけど、あなたがいつも買ってくるラジオやレコードやカメラはどうなの。
+        どうって？
+        買ってもあまり使わないんだから、ゴミと同じよ。
+      meaning: |-
+        Wife: If that’s the case. what about the radios and records and camera equipment that you're always
+        buying?
+        Husband: Well. what about them?
+        Wife: You buy them but never use them. They’re just another form of garbage.
+    tags:
+      - 21_-_Lesson_11_-_KaiwaBun_2.mp3
+  - id: 3f23a8fc-38b9-4a00-a551-030e066e466c
+    start: 00:46.384
+    end: 00:55.506
+    fields:
+      transcription: |-
+        家中ゴミだらけよ。
+        それなら、君の洋服だって同じだよ。
+        安いからって買っても、ほとんど着ないものがたくさんあるじゃないか。
+        そのうちに着るわよ。
+      meaning: |-
+        Wife: Our house is full of that stuff—full of garbage.
+        Husband: Well, what about your dresses? You buy them because they're cheap—but hardly wear them at all.
+        Wife: I'll wear them. Eventually.
+    tags:
+      - 21_-_Lesson_11_-_KaiwaBun_2.mp3
+  - id: abc5c3e7-9034-49da-a817-f1f8365d4f95
+    start: 00:55.891
+    end: 01:11.491
+    fields:
+      transcription: |-
+        今着ないものはゴミと同じだから全部捨てれば、
+        家が広くなるよ。
+        あなたがおもちゃを捨てれば、私も洋服を捨てるは。
+        でも、あまり捨てると、市役所がゴミ処理に困るだろうな。
+        そうね。じゃ、捨てないことにしましょう。
+      meaning: |-
+        Husband: Whatever you don't wear now is the same as garbage. If you threw away all of those dresses. we'd have that much more space in the house.
+        Wife: Okay—if you get rid of your toys. I’ll throw away my dresses.
+        Husband: If we threw out all of that, the municipal office would have trouble finding a place to dispose of it.
+        Wife: You're right. Let's forget the whole idea.   
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 98c91a78-967f-4c9a-a9ac-9b3f6d2b45d1
 ---
 name: 01 - Lesson 12 - Main Text.mp3
 format: mp3

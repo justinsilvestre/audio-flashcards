@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-03-26T17:46:39Z
+timestamp: 2020-03-26T22:50:48Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -3600,178 +3600,515 @@ name: 01 - Lesson 12 - Main Text.mp3
 format: mp3
 duration: 01:56.454
 id: bd23e0ad-e9b3-4acd-89bf-dd02bc084a6d
+subtitles:
+  - id: 687dfe17-472b-4fbf-8aa4-fccffca69b77
+    type: External
+    chunksMetadata:
+      count: 38
+      endCue: 5785.6
+    name: 01 - Lesson 12 - Main Text.srt
 clips:
   - id: b634719b-0a46-4169-abac-0d97cf24a212
     start: 00:06.5
     end: 00:15.18
+    fields:
+      transcription: |-
+        コピー食品が出回っている
+        コピー食品 というのは本物ではないが本物によく似ている食品である
     tags:
       - iij12
   - id: 9ce8f369-654c-4ad9-a7db-629a53789ab4
     start: 00:15.74
     end: 00:25.46
+    fields:
+      transcription: |-
+        例えばカニの足のように見えるが
+        実は安い魚で作ったものや
+        サラダオイルで作った いくらなど
+        たくさん出ている
     tags:
       - iij12
   - id: 5b1b68dd-06c4-4204-8ec8-a2ac86565520
     start: 00:26.06
     end: 00:34.26
+    fields:
+      transcription: |-
+        本物よりずっと 安い材料を使ったり
+        普通なら捨てる部分を集めて
+        上等の肉のように作ったりする
     tags:
       - iij12
   - id: 32d25085-3565-4435-9eb1-bb5ac607f64e
     start: 00:34.96
     end: 00:37.8
+    fields:
+      transcription: お客は安いと思って喜んで買う
     tags:
       - iij12
   - id: a3709a4e-399e-45cb-a535-6b0badf21ddc
     start: 00:38.68
     end: 00:43.24
+    fields:
+      transcription: このようなコピー食品を作るには 高度な技術が必要である
     tags:
       - iij12
   - id: 9aafa697-76b4-40d0-91e7-efca49b0ef50
     start: 00:43.78
     end: 00:54.2
+    fields:
+      transcription: |-
+        最近は 加工技術が進んだので
+        味
+        色
+        形から
+        かおり
+        はだわりまで
+        本物そっくりのものを作ることができる
     tags:
       - iij12
   - id: 96bf9327-019c-4116-a21c-cb81ed82a4cc
     start: 00:54.64
     end: 01:01.08
+    fields:
+      transcription: |-
+        しかし 安い材料を美味しくするためには
+        たくさんの食品添加物を使う
     tags:
       - iij12
   - id: a60be966-7153-48b6-87c8-7b1c34f592b4
     start: 01:01.7
     end: 01:08.68
+    fields:
+      transcription: |-
+        また大きな工場で大量に作るから
+        合成保存料なども たくさん使う必要がある
     tags:
       - iij12
   - id: 0a581540-e071-4101-94f8-37dc7abb7d4e
     start: 01:09.66
     end: 01:19.04
+    fields:
+      transcription: |-
+        こうして出来たコピー食品は
+        形が同じで
+        料理しやすいから
+        学校給食 や外食産業で使うのに向いている
     tags:
       - iij12
   - id: d481b65f-912d-4d56-ba88-8cca7b6b7844
     start: 01:19.62
     end: 01:25.56
+    fields:
+      transcription: |-
+        これから大きくなる子供たちが
+        コピー食品をたくさん食べるのは心配なことである
     tags:
       - iij12
   - id: b9829d3c-907a-4022-be35-4b410d2a0d1c
     start: 01:26.12
     end: 01:32.64
+    fields:
+      transcription: |-
+        しかも本物の魚と違って
+        骨がないから喜んで食べる場合も多いそうだ
     tags:
       - iij12
   - id: 7ccda4fd-7d9a-4671-8c8e-1a30bd58fae3
     start: 01:33.6
     end: 01:42.16
+    fields:
+      transcription: |-
+        偽物の食品は昔からあった
+        安い魚を高い魚の名前で売ったりすることは珍しくなかった
     tags:
       - iij12
   - id: 491e5c3a-a3f8-4e32-bbeb-5220dd00dc9a
     start: 01:42.32
     end: 01:49.88
+    fields:
+      transcription: |-
+        しかし 現在は 加工技術の進歩のために
+        人間の体に悪いものが出回るようになった
     tags:
       - iij12
   - id: 35b9bc63-3277-432a-802e-783eee814e19
     start: 01:50.64
     end: 01:55.68
+    fields:
+      transcription: |-
+        科学の進歩が
+        人間を苦しめるのは残念なことである
     tags:
       - iij12
+flashcardFieldsToSubtitlesTracks:
+  transcription: 687dfe17-472b-4fbf-8aa4-fccffca69b77
 ---
 name: 02 - Lesson 12 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:24.715
 id: 37a03e10-ef66-4967-aeb0-c5844dd350cf
+subtitles:
+  - id: 6f0b87d4-5ba5-4ec2-a386-9d09cd2e409e
+    type: External
+    chunksMetadata:
+      count: 29
+      endCue: 4172.8
+    name: 02 - Lesson 12 - KaiwaBun 1.srt
+clips:
+  - id: 2dbc1889-6c2d-40bd-97d8-e72de04233c0
+    start: 00:09.6
+    end: 00:29.66
+    fields:
+      transcription: |-
+        このお寿司はどうしたんですか。
+        部長の奢りです。
+        先に帰るから食べてくださいって。
+        へえ、珍しい。
+        じゃ、食べましょう。
+        ええ。
+        お、イクラが入っている。僕、イクラ大好きなんです。
+        じゃ、私のもどうぞ。
+        いいんですか。
+        ええ、私は要りませんから、どうぞ。
+        じゃ、いただきます。
+      meaning: |-
+        A: Where did this sushi come from?
+        B: It’s a gift from the Department Head. He had to leave earlier than us—and told me to eat it.
+        A: Wow. That’s unusual. Let's dig in.
+        B: Let’s.
+        A: Hey, here's some ikura. I’m a big fan of ikura.
+        B: In that case. you can have mine.
+        A: Are you sure?
+        B: Yes. I’m not going to eat it anyway. Go ahead.
+        A: I will.
+    tags:
+      &a1
+      - 02_-_Lesson_12_-_KaiwaBun_1.mp3
+  - id: bbe1170b-1c0e-4368-9a13-7cf0bf6b5afe
+    start: 00:30.42
+    end: 00:41.517
+    fields:
+      transcription: |-
+        でも、どうしてですか。
+        安いイクラはコピー食品だって聞いたので。
+        コピーって、偽物ですか。
+        ええ、サラダオイルで作るんですって。
+      meaning: |-
+        A: Why don’t you want it?
+        B: Because I've heard that cheap ikura is often an imitation.
+        A: An imitation—you mean a fake?
+        B: Exactly. Made from salad oil, apparently.
+    tags:
+      - 02_-_Lesson_12_-_KaiwaBun_1.mp3
+  - id: 273da94a-5e7f-4d43-b4dd-338081b6bdc3
+    start: 00:42.44
+    end: 00:57.82
+    fields:
+      transcription: |-
+        でも、色も形もそっくりですよ。味もそっくり。
+        歯ざわりも。
+        ええ。
+        この蟹の足もきっと安いお魚ですよ、本当は。
+        でも、うまいですよ。
+      meaning: |-
+        A: But the color and shape are identical to the real thing. [Taking a bite] And so is the taste.
+        B: And the texture?
+        A: The texture, too.
+        B: These crab legs are made of low-priced fish. There's no doubt about that.
+        A: But this sushi is fantastic.
+    tags:
+      - 02_-_Lesson_12_-_KaiwaBun_1.mp3
+  - id: 273257ae-5484-484b-bd6e-3fea80f27a2b
+    start: 00:58.24
+    end: 01:15.46
+    fields:
+      transcription: |-
+        素晴らしい加工技術ですね。
+        食品添加物がたくさん入っていますよ。
+        そうでしょうね。
+        合成保存料も。
+        ちょっと怖いですね。
+        そうですよ。特に子供が学校給食や外食でコピー食品を食べるのは、心配ですよ。
+      meaning: |-
+        A: A tribute to processing technology.
+        B: Well. it’s also full of additives.
+        A: I guess so.
+        B: And preservatives. too.
+        A: I'm a little uneasy about that stuff.
+        8: So am I. It's disturbing to think about kids eating imitation foods in school lunches or at restaurants.
+    tags:
+      - 02_-_Lesson_12_-_KaiwaBun_1.mp3
+  - id: da0cfb27-5c82-4a39-9660-0c7f61d9937b
+    start: 01:16.26
+    end: 01:23.398
+    fields:
+      transcription: |-
+        でも、どうしてこのイクラや蟹がコピー食品だと分かるんですか。
+        部長の奢りですもの。
+      meaning: |-
+        A: But why are you so sure that this ikura and crab are imitation?
+        B: Because they‘re a gift—from the department head.   
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 6f0b87d4-5ba5-4ec2-a386-9d09cd2e409e
 ---
 name: 03 - Lesson 12 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:02.824
 id: 7194021e-76de-4d73-be0a-a8a4ddec3be2
+subtitles:
+  - id: 5bfc4332-71a8-41cf-a6b4-83154c098e30
+    type: External
+    chunksMetadata:
+      count: 22
+      endCue: 3059.2
+    name: 03 - Lesson 12 - KaiwaBun 2.srt
+clips:
+  - id: 6299ae32-eadb-4ec6-a037-a26d8d56465f
+    start: 00:08.44
+    end: 00:24.1
+    fields:
+      transcription: |-
+        あら、これ安いわ。
+        どれ？
+        このイクラ。
+        ほんとだ。
+        どうしてこんなに安いのかしら。
+        あ、 分かった。この頃は流行りのコピー食品だよ。
+        コピー？
+        偽物だよ。
+      meaning: |-
+        Wife: Wow, this is really cheap.
+        Husband: What?
+        Wife: This. This ikura.
+        Husband: You're right—so it is.
+        Wife: I wonder why it’s so cheap?
+        Husband: Let's see . . . oh. I know why. It must be some of that imitation food that's been so popular lately.
+        Wife: Imitation food!?
+        Husband: Yes—it's fake.
+    tags:
+      - 03_-_Lesson_12_-_KaiwaBun_2.mp3
+  - id: 7a0065d4-67a2-4d91-a5e6-1c46a474390a
+    start: 00:24.562
+    end: 00:40.038
+    fields:
+      transcription: |-
+        確か、イクラはサラダオイルで作るんだよ。
+        へえ、でも本物そっくりね。
+        素人には区別ができないんだって。
+        食べても？
+        じゃ、いいじゃないの、コピーでも。安くて。
+        そんなことないよ。
+        どうして。
+      meaning: |-
+        Husband: This ikura is probably made of salad oil.
+        Wife: But it’s almost identical to the real thing!
+        Husband: It’s impossible for laypeople to tell the difference.
+        Wife: Even if you take a bite?
+        Husband: That’s right.
+        Wife: In that case. it doesn't make a difference even if it is a copy. Especially when it's so cheap.
+        Husband: I don't agree.
+        Wife: Why not?
+    tags:
+      - 03_-_Lesson_12_-_KaiwaBun_2.mp3
+  - id: be67bda0-8646-4e3b-ab8e-b6a7e166880e
+    start: 00:40.378
+    end: 00:50.109
+    fields:
+      transcription: |-
+        自然の食品じゃないんだ。工場で作るんだよ。
+        そうね。
+        どんな添加物が入っているか分からないよ
+        合成保存料もたくさん入ってるよ、きっと。
+      meaning: |-
+        Husband: Because it isn't natural. It's made in a factory.
+        Wife: I guess so.
+        Husband: That makes it impossible to know what types of additives it contains.
+        Wife: True.
+        Husband: I'm sure it's full of preservatives. too.
+    tags:
+      - 03_-_Lesson_12_-_KaiwaBun_2.mp3
+  - id: 3229471f-d3e5-44d5-a651-b7e199f399c3
+    start: 00:50.367
+    end: 01:01.238
+    fields:
+      transcription: |-
+        そうね。じゃ、やめましょう。
+        やめて、本物を買う？
+        いいえ、本物のサラダオイルを買って…。
+        安いお魚のフライを作りましょう。
+      meaning: |-
+        Wife: You‘re probably right. Let's forget about buying it.
+        Husband: And buy the real thing instead?
+        Wife: No—just the real salad oil.
+        Husband: Oh? And do what?
+        Wife: Use it to deep-fry some inexpensive fish.
+    tags:
+      - 03_-_Lesson_12_-_KaiwaBun_2.mp3
+flashcardFieldsToSubtitlesTracks:
+  transcription: 5bfc4332-71a8-41cf-a6b4-83154c098e30
 ---
 name: 07 - Lesson 13 - Main Text.mp3
 format: mp3
 duration: 02:02.697
 id: 38bbdaf4-d6b8-40b0-88fd-909d9e2acb04
+subtitles:
+  - id: 41b682bc-bb2b-4d40-a2fc-17d013f52478
+    type: External
+    chunksMetadata:
+      count: 36
+      endCue: 6080
+    name: 07 - Lesson 13 - Main Text.srt
 clips:
   - id: ea647df8-c1dd-4c8b-9c0b-ffa9e2804c1d
     start: 00:06.24
     end: 00:11.84
+    fields:
+      transcription: |-
+        会社へ行かないで自宅で仕事をすることを
+        在宅勤務という
     tags:
       - iij13
   - id: 2fcda3cb-a0a1-40c0-b589-bac7d81bb4d2
     start: 00:12.62
     end: 00:16.6
+    fields:
+      transcription: |-
+        在宅勤務を始めた会社が
+        いくつかあるそうだ
     tags:
       - iij13
   - id: bce1f5d3-353b-4d4a-9a21-b5415138be9f
     start: 00:16.92
     end: 00:23.5
+    fields:
+      transcription: |-
+        社員の家に機械を置いて
+        会社からファクシミリで仕事の指令を送る
     tags:
       - iij13
   - id: 320cd06d-8003-490d-939e-7cd3d194e46b
     start: 00:24.0
     end: 00:28.42
+    fields:
+      transcription: 社員はその指令に従って仕事をするのである
     tags:
       - iij13
   - id: 0fbd53eb-6ef8-4306-9092-6dc3863f3894
     start: 00:28.96
     end: 00:40.36
+    fields:
+      transcription: |-
+        例えば 販売の仕事の場合
+        普通は朝 会社へ行って仕事の指令を受け取ってから
+        郡商店へ注文を取りに行く
     tags:
       - iij13
   - id: ae5c52e9-8492-4966-aa55-c9bcf3233221
     start: 00:41.12
     end: 00:47.44
+    fields:
+      transcription: ところが 在宅勤務の場合は朝 自宅に指令のファクシミリ が届く
     tags:
       - iij13
   - id: 1144d78b-9f1c-4e85-8fc6-2bec0a51453b
     start: 00:47.82
     end: 00:58.58
+    fields:
+      transcription: |-
+        すぐそれを持って
+        近所の商店へ行く
+        だから他の会社の社員より早く 商店へ行って
+        先に注文を取ることができる
     tags:
       - iij13
   - id: 87f60a48-7612-46b7-b149-f03e0571ef8d
     start: 00:59.52
     end: 01:05.92
+    fields:
+      transcription: |-
+        ある薬品会社では
+        この方法で
+        40% 売り上げが伸びたそうである
     tags:
       - iij13
   - id: 75a576a7-589e-4a62-b339-6d915a5d7323
     start: 01:06.58
     end: 01:11.9
+    fields:
+      transcription: |-
+        会社へ行く必要がないのは
+        会社員にはありがたいことである
     tags:
       - iij13
   - id: 8bb942f9-46d8-4aba-89cb-1fcf9a54bbec
     start: 01:12.4
     end: 01:16.78
+    fields:
+      transcription: |-
+        何よりも
+        満員電車に乗らなくてもいいのは嬉しい
     tags:
       - iij13
   - id: d432d4da-af81-48da-8aaa-4d525c9c769c
     start: 01:17.28
     end: 01:23.32
+    fields:
+      transcription: 夕方 早く家へ帰って家族と一緒に食事をすることができる
     tags:
       - iij13
   - id: 7581e4de-3e49-484f-b9bc-ecbec306a62e
     start: 01:23.94
     end: 01:30.58
+    fields:
+      transcription: |-
+        会社の方も
+        社員があまり来ないのだから
+        大きな 事務所を持つ必要がない
     tags:
       - iij13
   - id: ad2028ea-b3fb-4476-bafb-11607890e22d
     start: 01:31.24
     end: 01:39.74
+    fields:
+      transcription: |-
+        しかし いいことばかりではない そうだ
+        いつも一人で仕事をしている社員は
+        なんとなく不安になる
     tags:
       - iij13
   - id: 5f3b16fc-8bfa-4e7c-b3e8-9b32e0a0b1e3
     start: 01:39.88
     end: 01:43.78
+    fields:
+      transcription: 一週間に一度ぐらいは会社へ行きたくなる
     tags:
       - iij13
   - id: 310e5419-75fc-4367-be81-88648e8f9484
     start: 01:44.08
     end: 01:49.02
+    fields:
+      transcription: 会社へ行って同僚と話をすると安心するそうだ
     tags:
       - iij13
   - id: a7e924c1-5b74-40e4-8c87-fba6de0afa58
     start: 01:49.6
     end: 01:56.98
+    fields:
+      transcription: |-
+        地域の人たちとあまり付き合いのないサラリーマンには
+        同僚との付き合いは重要なものである
     tags:
       - iij13
   - id: 98d623c2-54d1-4f49-9932-bbac4ad010ea
     start: 01:57.44
     end: 02:02.22
+    fields:
+      transcription: 人間はやはり 集団で行動する動物なのであろう
     tags:
       - iij13
+flashcardFieldsToSubtitlesTracks:
+  transcription: 41b682bc-bb2b-4d40-a2fc-17d013f52478
 ---
 name: 08 - Lesson 13 - KaiwaBun 1.mp3
 format: mp3

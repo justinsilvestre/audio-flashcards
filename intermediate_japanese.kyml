@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-03-26T22:50:48Z
+timestamp: 2020-03-29T18:08:01Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -885,8 +885,6 @@ clips:
         Tape: This is Yamashita. I'm not in at the moment, but please leave a message at the sound of the tone. 
     tags:
       - iij03
-    image:
-      type: VideoStill
   - id: cd7155ad-6a21-4727-9d6d-bb5370437d89
     start: 00:25.8
     end: 00:32.74
@@ -900,8 +898,6 @@ clips:
         A: Hm. An answering machine.
     tags:
       - iij03
-    image:
-      type: VideoStill
   - id: 4b73b9f5-08ef-42ba-9a36-f8f341c2d3ec
     start: 00:35.52
     end: 00:52.0
@@ -917,8 +913,6 @@ clips:
         I've run into a few difficulties, so
     tags:
       - iij03
-    image:
-      type: VideoStill
   - id: e34f3bd3-cc96-4613-bebf-05cfd8873c96
     start: 00:53.248
     end: 01:02.22
@@ -931,8 +925,6 @@ clips:
         Actually, the 20th would be best for me.
     tags:
       - iij03
-    image:
-      type: VideoStill
   - id: dca70703-bf00-475d-aabd-cf4ee82d4aec
     start: 01:03.48
     end: 01:19.1
@@ -948,8 +940,6 @@ clips:
         Wouldn't it be great if we could go to Europe, too.
     tags:
       - iij03
-    image:
-      type: VideoStill
 flashcardFieldsToSubtitlesTracks:
   transcription: 83ffb179-8558-44e3-ac18-9753e52490b1
 ---
@@ -982,8 +972,6 @@ clips:
         Husband: Hmm.
     tags:
       - iij03
-    image:
-      type: VideoStill
   - id: b9f188d6-65d9-4669-ac1d-e1e3619810ed
     start: 00:14.16
     end: 00:26.46
@@ -998,8 +986,6 @@ clips:
         Wife: Its often impossible to pick up the phone at night. Such as when I'm in the tub.
     tags:
       - iij03
-    image:
-      type: VideoStill
   - id: 03bd6413-159e-4926-83b1-d471103f31ec
     start: 00:27.72
     end: 00:36.32
@@ -1014,8 +1000,6 @@ clips:
         Wife: That's why I think we should buy an answering machine.
     tags:
       - iij03
-    image:
-      type: VideoStill
   - id: ecfbcd41-03c9-4108-a163-afa61017fc1d
     start: 00:36.84
     end: 00:50.0
@@ -1039,8 +1023,6 @@ clips:
         Wife: Not at all. I'll just refuse to do overtime at work, and come home early. We'll earn less money, of course.
     tags:
       - iij03
-    image:
-      type: VideoStill
   - id: 3e33d7ff-e95a-4df1-a697-a7aa0b277173
     start: 00:50.24
     end: 01:02.78
@@ -1055,8 +1037,6 @@ clips:
         Husband: Maybe so, but I'm not going to force somebody to do something I dislike.
     tags:
       - iij03
-    image:
-      type: VideoStill
   - id: a3ddb162-23c2-4b51-a99a-dcd409c47e16
     start: 01:03.1
     end: 01:12.34
@@ -1072,8 +1052,6 @@ clips:
         Wife: Not at all. I'll just refuse to do overtime at work, and come home early. We'll earn less money, of course.
     tags:
       - iij03
-    image:
-      type: VideoStill
 flashcardFieldsToSubtitlesTracks:
   transcription: 2e620f5b-217d-432b-8311-2bdea7d6baa5
 ---
@@ -2211,7 +2189,7 @@ clips:
         A: Oh?
     tags:
       &a1
-      - 21_-_Lesson_7_-_KaiwaBun_1.mp3
+      - iij07
   - id: 00494cfc-dee4-442b-bb23-f92f596089fb
     start: 00:23.04
     end: 00:37.1
@@ -2224,7 +2202,7 @@ clips:
         B: Vegetables have changed. My grandmother, in fact, says she has a hard time because too many vegetables have names in katakana.
         A: I'm not surprised. It must be difficult for elderly people to learn the names of new vegetables.
     tags:
-      - 21_-_Lesson_7_-_KaiwaBun_1.mp3
+      - iij07
   - id: b9e4bbba-4b9c-40d3-a7f1-a29485aaebaa
     start: 00:37.836
     end: 00:46.296
@@ -2303,7 +2281,7 @@ clips:
         B: Something wrong with that nabana?
     tags:
       &a1
-      - 22_-_Lesson_7_-_KaiwaBun_2.mp3
+      - iij07
   - id: 9c8ccacb-11ce-4eda-9de8-13e8117e5c28
     start: 00:19.472
     end: 00:32.252
@@ -2319,7 +2297,7 @@ clips:
         A: It seems that flavor alone isn't enough. He said that it was too long—and would look unattractive when placed in a bag.
         B: Oh?
     tags:
-      - 22_-_Lesson_7_-_KaiwaBun_2.mp3
+      - iij07
   - id: a1690b46-8f66-48a7-a5c9-ef1eafadab07
     start: 00:32.592
     end: 00:49.212
@@ -2351,7 +2329,7 @@ clips:
         A: I don't have a choice. Vegetables are a type of merchandise, in this day and age.
         B: I see.
     tags:
-      - 22_-_Lesson_7_-_KaiwaBun_2.mp3
+      - iij07
   - id: eb71cfa6-676c-4cb8-8c00-dfdad7845eb4
     start: 01:05.04
     end: 01:13.44
@@ -2551,7 +2529,7 @@ clips:
         A: I'll bet Ms. Yamada is very concerned. B: I guess so. It must be extremely trying for her. 
     tags:
       &a1
-      - 02_-_Lesson_8_-_KaiwaBun_1.mp3
+      - iij08
   - id: 3fee388f-f183-4332-b1b7-0a26acd55b86
     start: 00:21.8
     end: 00:38.148
@@ -2568,7 +2546,7 @@ clips:
         A: That's too bad.
         B: She can't sleep at night. Or get up in the morning. She has frequent headaches, too. She tires often; has a quick temper.
     tags:
-      - 02_-_Lesson_8_-_KaiwaBun_1.mp3
+      - iij08
   - id: 195abfcc-a2ad-4936-b9bb-e35e455fe905
     start: 00:38.56
     end: 00:51.7
@@ -2582,7 +2560,7 @@ clips:
         B: Oh? Such as from not getting enough sugar?
         A: No—just the opposite. People who don't eat properly—who consume too many sweets—often end up like that.
     tags:
-      - 02_-_Lesson_8_-_KaiwaBun_1.mp3
+      - iij08
   - id: b21a37ad-a6aa-47e1-a601-eb758b858e0f
     start: 00:52.04
     end: 01:05.28
@@ -2600,7 +2578,7 @@ clips:
         A: Exactly. Television celebrities are always relishingly eating sweets.
         B: It's a difficult problem.
     tags:
-      - 02_-_Lesson_8_-_KaiwaBun_1.mp3
+      - iij08
   - id: 9b3cca2e-a5f7-4dd2-9364-115e3cd0fcdb
     start: 01:05.54
     end: 01:16.04
@@ -2873,7 +2851,7 @@ clips:
         そうですね。
     tags:
       &a1
-      - 08_-_Lesson_9_-_KaiwaBun_1.mp3
+      - iij09
   - id: 0b2fec94-2015-4cac-ae59-d9008ad093bb
     start: 00:23.52
     end: 00:39.64
@@ -2894,7 +2872,7 @@ clips:
         そういう機械をつけたんですね。
         ええ。
     tags:
-      - 08_-_Lesson_9_-_KaiwaBun_1.mp3
+      - iij09
   - id: 0bc5f36d-e6a1-4a81-8279-18a9843d9045
     start: 00:52.88
     end: 01:04.58
@@ -2904,7 +2882,7 @@ clips:
         でも、働く人は大変でしょう。仕事が増えることになるから。
         ええ、そうですね。会社によっては半分以上の人が途中でやめるそうです。
     tags:
-      - 08_-_Lesson_9_-_KaiwaBun_1.mp3
+      - iij09
   - id: 80dda866-7b20-4373-af15-d6ba02bc6a47
     start: 01:05.0
     end: 01:10.46
@@ -2940,7 +2918,7 @@ clips:
         ふうん。
     tags:
       &a1
-      - 09_-_Lesson_9_-_KaiwaBun_2.mp3
+      - iij09
   - id: 180247ff-44be-44b2-ac03-33fa8bd20988
     start: 00:24.68
     end: 00:39.012
@@ -2955,7 +2933,7 @@ clips:
         それだけじゃない。
         誰に？
     tags:
-      - 09_-_Lesson_9_-_KaiwaBun_2.mp3
+      - iij09
   - id: ee55dada-6f5e-4cbb-ac2c-54feaed8c93c
     start: 00:39.82
     end: 00:51.36
@@ -2964,7 +2942,7 @@ clips:
         「お小遣い、この間1万円あげたでしょ。もうなくなったなんて、変だわ。何に使ったの」
         それは月給が少ないからよ。月給が多ければ、そんなこと言わないわ。
     tags:
-      - 09_-_Lesson_9_-_KaiwaBun_2.mp3
+      - iij09
   - id: 0a443604-e9db-4a99-8281-4cdd59f9bf72
     start: 00:51.48
     end: 01:00.28
@@ -3134,7 +3112,7 @@ clips:
         B: Are you looking for change?
         A: No. I’m trying to find my telephone card. Oh, there it is.
     tags:
-      - 14_-_Lesson_10_-_KaiwaBun_1.mp3
+      - iij09
   - id: 3d60edb7-75c3-4ed1-9ca0-9e3cc0ee3e0c
     start: 00:26.128
     end: 00:40.728
@@ -3151,7 +3129,7 @@ clips:
         A: Cards are safer. Cash can be dropped.
     tags:
       &a1
-      - 14_-_Lesson_10_-_KaiwaBun_1.mp3
+      - iij09
   - id: 52e9b104-651c-4d00-80d8-e3e8dde51b95
     start: 00:40.988
     end: 00:52.588
@@ -3222,7 +3200,7 @@ clips:
         Wife: Not just like it. They’re a little different.
     tags:
       &a1
-      - 15_-_Lesson_10_-_KaiwaBun_2.mp3
+      - iij09
   - id: 146c8ed2-e881-4d19-bbf3-93cc8b067ffb
     start: 00:16.895
     end: 00:32.884
@@ -3238,7 +3216,7 @@ clips:
         Husband: Cards are dangerous. You can buy too many things.
         Wife: But they're convenient. If you have to pay consumption tax, you end up with a lot of cumbersome one-yen coins.
     tags:
-      - 15_-_Lesson_10_-_KaiwaBun_2.mp3
+      - iij09
   - id: fbd31d40-fad0-453a-86ae-e9a86f79ca0d
     start: 00:33.184
     end: 00:41.484
@@ -3268,7 +3246,7 @@ clips:
         Wife: Yes. I went to the bank this morning and checked.
         Husband: I’m really impressed.
     tags:
-      - 15_-_Lesson_10_-_KaiwaBun_2.mp3
+      - iij09
   - id: 63c0a366-3543-4513-b23e-6679cf01942a
     start: 00:52.967
     end: 01:06.095
@@ -3454,7 +3432,7 @@ clips:
         はい。
     tags:
       &a1
-      - 20_-_Lesson_11_-_KaiwaBun_1.mp3
+      - iij09
   - id: 3439365c-d876-4b47-939f-16b648872ebb
     start: 00:21.74
     end: 00:40.0
@@ -3480,7 +3458,7 @@ clips:
         出す方は面倒ですけど。
         まあね。
     tags:
-      - 20_-_Lesson_11_-_KaiwaBun_1.mp3
+      - iij09
   - id: 3a4d445e-66c1-4b9f-9250-177b006ff3e9
     start: 01:00.632
     end: 01:07.132
@@ -3535,7 +3513,7 @@ clips:
         Husband: Well. that’s what I always do.
     tags:
       &a1
-      - 21_-_Lesson_11_-_KaiwaBun_2.mp3
+      - iij09
   - id: 62363d65-3ffd-4cdd-9314-9eca18b81592
     start: 00:24.024
     end: 00:35.164
@@ -3561,7 +3539,7 @@ clips:
         Husband: Well. what about them?
         Wife: You buy them but never use them. They’re just another form of garbage.
     tags:
-      - 21_-_Lesson_11_-_KaiwaBun_2.mp3
+      - iij09
   - id: 3f23a8fc-38b9-4a00-a551-030e066e466c
     start: 00:46.384
     end: 00:55.506
@@ -3576,7 +3554,7 @@ clips:
         Husband: Well, what about your dresses? You buy them because they're cheap—but hardly wear them at all.
         Wife: I'll wear them. Eventually.
     tags:
-      - 21_-_Lesson_11_-_KaiwaBun_2.mp3
+      - iij09
   - id: abc5c3e7-9034-49da-a817-f1f8365d4f95
     start: 00:55.891
     end: 01:11.491
@@ -3783,7 +3761,7 @@ clips:
         A: I will.
     tags:
       &a1
-      - 02_-_Lesson_12_-_KaiwaBun_1.mp3
+      - iij09
   - id: bbe1170b-1c0e-4368-9a13-7cf0bf6b5afe
     start: 00:30.42
     end: 00:41.517
@@ -3799,7 +3777,7 @@ clips:
         A: An imitation—you mean a fake?
         B: Exactly. Made from salad oil, apparently.
     tags:
-      - 02_-_Lesson_12_-_KaiwaBun_1.mp3
+      - iij09
   - id: 273da94a-5e7f-4d43-b4dd-338081b6bdc3
     start: 00:42.44
     end: 00:57.82
@@ -3817,7 +3795,7 @@ clips:
         B: These crab legs are made of low-priced fish. There's no doubt about that.
         A: But this sushi is fantastic.
     tags:
-      - 02_-_Lesson_12_-_KaiwaBun_1.mp3
+      - iij09
   - id: 273257ae-5484-484b-bd6e-3fea80f27a2b
     start: 00:58.24
     end: 01:15.46
@@ -3837,7 +3815,7 @@ clips:
         A: I'm a little uneasy about that stuff.
         8: So am I. It's disturbing to think about kids eating imitation foods in school lunches or at restaurants.
     tags:
-      - 02_-_Lesson_12_-_KaiwaBun_1.mp3
+      - iij09
   - id: da0cfb27-5c82-4a39-9660-0c7f61d9937b
     start: 01:16.26
     end: 01:23.398
@@ -3887,7 +3865,7 @@ clips:
         Wife: Imitation food!?
         Husband: Yes—it's fake.
     tags:
-      - 03_-_Lesson_12_-_KaiwaBun_2.mp3
+      - iij09
   - id: 7a0065d4-67a2-4d91-a5e6-1c46a474390a
     start: 00:24.562
     end: 00:40.038
@@ -3910,7 +3888,7 @@ clips:
         Husband: I don't agree.
         Wife: Why not?
     tags:
-      - 03_-_Lesson_12_-_KaiwaBun_2.mp3
+      - iij09
   - id: be67bda0-8646-4e3b-ab8e-b6a7e166880e
     start: 00:40.378
     end: 00:50.109
@@ -3927,7 +3905,7 @@ clips:
         Wife: True.
         Husband: I'm sure it's full of preservatives. too.
     tags:
-      - 03_-_Lesson_12_-_KaiwaBun_2.mp3
+      - iij09
   - id: 3229471f-d3e5-44d5-a651-b7e199f399c3
     start: 00:50.367
     end: 01:01.238
@@ -3944,7 +3922,7 @@ clips:
         Husband: Oh? And do what?
         Wife: Use it to deep-fry some inexpensive fish.
     tags:
-      - 03_-_Lesson_12_-_KaiwaBun_2.mp3
+      - iij09
 flashcardFieldsToSubtitlesTracks:
   transcription: 5bfc4332-71a8-41cf-a6b4-83154c098e30
 ---
@@ -3966,145 +3944,136 @@ clips:
     fields:
       transcription: |-
         会社へ行かないで自宅で仕事をすることを
-        在宅勤務という
+        在宅勤務という。
+      meaning: Working at one's home rather than at a company is called zaitaku-kimmu ("home employment").
     tags:
       - iij13
   - id: 2fcda3cb-a0a1-40c0-b589-bac7d81bb4d2
     start: 00:12.62
     end: 00:16.6
     fields:
-      transcription: |-
-        在宅勤務を始めた会社が
-        いくつかあるそうだ
+      transcription: 在宅勤務を始めた会社がいくつかあるそうだ。
+      meaning: Several companies have started home employment programs for their workers.
     tags:
       - iij13
   - id: bce1f5d3-353b-4d4a-9a21-b5415138be9f
     start: 00:16.92
     end: 00:23.5
     fields:
-      transcription: |-
-        社員の家に機械を置いて
-        会社からファクシミリで仕事の指令を送る
+      transcription: 社員の家に機械を置いて、会社からファクシミリで仕事の指令を送る。
+      meaning: They install a machine in their employees’ homes to deliver instructions from the company via facsimile.
     tags:
       - iij13
   - id: 320cd06d-8003-490d-939e-7cd3d194e46b
     start: 00:24.0
     end: 00:28.42
     fields:
-      transcription: 社員はその指令に従って仕事をするのである
+      transcription: 社員はその指令に従って仕事をするのである。
+      meaning: The employees carry out their work assignments according to the instructions they've received.
     tags:
       - iij13
   - id: 0fbd53eb-6ef8-4306-9092-6dc3863f3894
     start: 00:28.96
     end: 00:40.36
     fields:
-      transcription: |-
-        例えば 販売の仕事の場合
-        普通は朝 会社へ行って仕事の指令を受け取ってから
-        郡商店へ注文を取りに行く
+      transcription: 例えば販売の仕事の場合、普通は朝、会社へ行って仕事の指令を受け取ってから、小売の商店へ注文を取りに行く。
+      meaning: Most salespeople canvass retail stores for orders after picking up instructions at their office in the morning.
     tags:
       - iij13
   - id: ae5c52e9-8492-4966-aa55-c9bcf3233221
     start: 00:41.12
     end: 00:47.44
     fields:
-      transcription: ところが 在宅勤務の場合は朝 自宅に指令のファクシミリ が届く
+      transcription: ところが在宅勤務の場合は朝、自宅に指令のファクシミリが届く。
+      meaning: Home employees, on the other hand. receive their morning instructions via facsimile.
     tags:
       - iij13
   - id: 1144d78b-9f1c-4e85-8fc6-2bec0a51453b
     start: 00:47.82
     end: 00:58.58
     fields:
-      transcription: |-
-        すぐそれを持って
-        近所の商店へ行く
-        だから他の会社の社員より早く 商店へ行って
-        先に注文を取ることができる
+      transcription: すぐそれを持って近所の商店へ行く。だから、他の会社の社員より早く商店へ行って、先に注文を取ることができる。
+      meaning: They quickly take these instructions to the nearest retail outlet. Since they arrive at stores earlier than other companies' salespeople, they beat them to orders.
     tags:
       - iij13
   - id: 87f60a48-7612-46b7-b149-f03e0571ef8d
     start: 00:59.52
     end: 01:05.92
     fields:
-      transcription: |-
-        ある薬品会社では
-        この方法で
-        40% 売り上げが伸びたそうである
+      transcription: ある薬品会社では、この方法で40%売り上げが伸びたそうである。
+      meaning: Thanks to this technique, the sales of one pharmaceutical company rose 40%.
     tags:
       - iij13
   - id: 75a576a7-589e-4a62-b339-6d915a5d7323
     start: 01:06.58
     end: 01:11.9
     fields:
-      transcription: |-
-        会社へ行く必要がないのは
-        会社員にはありがたいことである
+      transcription: 会社へ行く必要がないのは、会社員にはありがたいことである。
+      meaning: For the employees, not having to show up at work is wonderful.
     tags:
       - iij13
   - id: 8bb942f9-46d8-4aba-89cb-1fcf9a54bbec
     start: 01:12.4
     end: 01:16.78
     fields:
-      transcription: |-
-        何よりも
-        満員電車に乗らなくてもいいのは嬉しい
+      transcription: 何よりも、満員電車に乗らなくてもいいのは嬉しい。
+      meaning: Above anything. employees are grateful for not having to ride on overcrowded trains.
     tags:
       - iij13
   - id: d432d4da-af81-48da-8aaa-4d525c9c769c
     start: 01:17.28
     end: 01:23.32
     fields:
-      transcription: 夕方 早く家へ帰って家族と一緒に食事をすることができる
+      transcription: 夕方早く家へ帰って家族と一緒に食事をすることができる。
+      meaning: They’re able to go home early in the evenings and have dinner with their families.
     tags:
       - iij13
   - id: 7581e4de-3e49-484f-b9bc-ecbec306a62e
     start: 01:23.94
     end: 01:30.58
     fields:
-      transcription: |-
-        会社の方も
-        社員があまり来ないのだから
-        大きな 事務所を持つ必要がない
+      transcription: 会社の方、社員があまり来ないのだから、大きな 事務所を持つ必要がない。
+      meaning: " And. because employees hardly ever come into work, companies aren’t forced to set up large offices."
     tags:
       - iij13
   - id: ad2028ea-b3fb-4476-bafb-11607890e22d
     start: 01:31.24
     end: 01:39.74
     fields:
-      transcription: |-
-        しかし いいことばかりではない そうだ
-        いつも一人で仕事をしている社員は
-        なんとなく不安になる
+      transcription: しかし、いい事ばかりではないそうだ。いつも一人で仕事をしている社員は、なんとなく不安になる。
+      meaning: "Nonetheless. the system isn’t perfect. Employees, who always work alone, soon become plagued by anxieties. "
     tags:
       - iij13
   - id: 5f3b16fc-8bfa-4e7c-b3e8-9b32e0a0b1e3
     start: 01:39.88
     end: 01:43.78
     fields:
-      transcription: 一週間に一度ぐらいは会社へ行きたくなる
+      transcription: 一週間に一度ぐらいは、会社へ行きたくなる。
+      meaning: Eventually they start to feel an urge to go to their companies once a week.
     tags:
       - iij13
   - id: 310e5419-75fc-4367-be81-88648e8f9484
     start: 01:44.08
     end: 01:49.02
     fields:
-      transcription: 会社へ行って同僚と話をすると安心するそうだ
+      transcription: 会社へ行って同僚と話をすると安心するそうだ。
+      meaning: Going to the office to chat with colleagues is relaxing, apparently.
     tags:
       - iij13
   - id: a7e924c1-5b74-40e4-8c87-fba6de0afa58
     start: 01:49.6
     end: 01:56.98
     fields:
-      transcription: |-
-        地域の人たちとあまり付き合いのないサラリーマンには
-        同僚との付き合いは重要なものである
+      transcription: 地域の人たちと、あまり付き合いのないサラリーマンには、同僚との付き合いは重要なものである。
+      meaning: Communication with colleagues is especially crucial for those salarymen who have little contact with neighbors.
     tags:
       - iij13
   - id: 98d623c2-54d1-4f49-9932-bbac4ad010ea
     start: 01:57.44
     end: 02:02.22
     fields:
-      transcription: 人間はやはり 集団で行動する動物なのであろう
+      transcription: 人間はやはり集団で行動する動物なのであろう。
+      meaning: People. in the end, are a group-oriented race.
     tags:
       - iij13
 flashcardFieldsToSubtitlesTracks:
@@ -4114,109 +4083,276 @@ name: 08 - Lesson 13 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:14.971
 id: 41023815-b90c-48f4-8746-c936b910d966
+subtitles:
+  - id: 6cf3e506-76f1-49d5-adb2-56fd78fee43a
+    type: External
+    chunksMetadata:
+      count: 29
+      endCue: 3622.4
+    name: 08 - Lesson 13 - KaiwaBun 1.srt
 clips:
   - id: f973e7e7-e20d-4269-92f3-adc99af88376
     start: 00:09.68
     end: 00:14.36
+    fields:
+      transcription: |-
+        お早うございます。
+        あ、お早うございます。会社ですか。
+        ええ。
+      meaning: |-
+        A: Morning!
+        B: Oh. good morning. Are you on your way to work?
+        A: Yes.
     tags:
       - iij13
   - id: b437580c-bbdf-410b-9174-209636c5ecee
     start: 00:14.52
     end: 00:20.44
+    fields:
+      transcription: |-
+        この頃、朝、ごゆっくりですね。
+        ええ、実は在宅勤務ですので。
+      meaning: |-
+        B: You’re able to go to work late these days, aren’t you?
+        A: Yeah. Actually, I'm a home employee.
     tags:
       - iij13
   - id: 8494b78d-f5d3-4df7-b8c7-4761d212d03e
     start: 00:20.5
     end: 00:27.04
+    fields:
+      transcription: |-
+        在宅勤務？
+        ええ。会社から家へ指令が来てから注文を取りに出かけるんです。
+      meaning: |-
+        B: A “home employee“?
+        A: Uh-huh. I wait for instructions from the office. Then I go out to pick up orders.
     tags:
       - iij13
   - id: 8f0a68f9-594d-4932-8961-b3226fea083e
     start: 00:27.12
     end: 00:33.2
+    fields:
+      transcription: |-
+        指令って、電話ですか。
+        いいえ、ファックスです。
+        ああ、そうですか。
+      meaning: |-
+        B: Do the instructions come to you by phone?
+        A: No—by fax.
+        8: Oh. I see.
     tags:
       - iij13
   - id: d62c3b92-d662-4310-83aa-b2076044ec5b
     start: 00:33.28
     end: 00:40.06
+    fields:
+      transcription: 前は一度会社へ行ってから、店へ注文を取りに行っていたんですが、今度は家から直接行くんです。
+      meaning: "A: I used to go to pick up orders after checking in at work. But now I go to the stores directly from home."
     tags:
       - iij13
   - id: 9a58d171-249a-4bc6-95a2-5d23ab3279c9
     start: 00:40.2
     end: 00:45.48
+    fields:
+      transcription: |-
+        そうですか。じゃ、会社へ行かなくてもいいんですね。
+        ええ、そうなんです。
+      meaning: |-
+        B: Really? So you don't have to go to your company?
+        A: Exactly.
     tags:
       - iij13
   - id: 276a3c9d-30f1-43c5-99f2-2bdbb48af347
     start: 00:45.76
     end: 00:54.34
+    fields:
+      transcription: |-
+        満員電車に乗らなくてもいいので、楽ですよ。
+        それはいいですね。
+        夕方も早く帰って子供と一緒に食事ができますし。
+      meaning: |-
+        A: And I don’t have to ride the crowded trains—which makes life much easier.
+        B: That’s great.
+        A: I can go home earlier, have supper with the kids...
     tags:
       - iij13
   - id: 2158bd69-4dc3-4ff7-ba48-901c6d4b745d
     start: 00:54.46
     end: 01:05.58
+    fields:
+      transcription: |-
+        いいことばかりですね。
+        いえ、そうでもありません。
+        一人で仕事をしていると、なんとなく不安になって、会社へ行きたくなるんです。
+        まあ、そうですか。
+      meaning: |-
+        B: Sounds like a perfect setup.
+        A: Well not really. Since I work by myself. I sometimes get anxious—and feel an urge to go to my company.
+        B: Oh. is that right?
     tags:
       - iij13
   - id: 5e4d4428-a4be-4183-bafa-06fb9b57e900
     start: 01:05.68
     end: 01:11.28
+    fields:
+      transcription: |-
+        一週間に一度 会社へ行くんですが、それが楽しみになりました。
+        まあ、そうですか。
+      meaning: |-
+        A: I go to the office once a week. I’ve started to really look forward to it.
+        B: Oh. really?
     tags:
       - iij13
   - id: dea5c056-4539-4954-aa22-a4c8407c0de3
     start: 01:11.36
     end: 01:14.5
+    fields:
+      transcription: |-
+        じゃあ これで。
+        行ってらっしゃい。
+      meaning: |-
+        A: Well. see you later.
+        B: Bye.
     tags:
       - iij13
+flashcardFieldsToSubtitlesTracks:
+  transcription: 6cf3e506-76f1-49d5-adb2-56fd78fee43a
 ---
 name: 09 - Lesson 13 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:11.445
 id: 5fb3e4fb-34d6-4cb2-abb5-a60326680749
+subtitles:
+  - id: 3da39492-2167-48eb-a629-ecdc465ff180
+    type: External
+    chunksMetadata:
+      count: 31
+      endCue: 3494.4
+    name: 09 - Lesson 13 - KaiwaBun 2.srt
 clips:
   - id: 3de60897-f443-414b-84c7-4af3de50d72e
     start: 00:05.34
     end: 00:11.26
+    fields:
+      transcription: |-
+        まだ出かけないの、今朝は。
+        うん、まだファックスが来ないんだよ。
+        そう。
+      meaning: |-
+        Wife: Isn't it about time for you to go to work?
+        Husband: Not yet. I’m still waiting for the fax.
+        Wife: Oh.
     tags:
       - iij13
   - id: e4b35773-36c9-4eca-94f8-f3d77057a544
     start: 00:11.52
     end: 00:24.4
+    fields:
+      transcription: |-
+        俺邪魔か。
+        そうじゃないの。
+        近所の人が嫌なこと言うのよ。
+        なんて？
+        お宅のご主人会社を辞めたんですかって。
+        ああ、朝遅くて、早く帰るからね。
+      meaning: |-
+        Husband: What, am I in the way?
+        Wife: That’s not what I'm driving at. It’s just that the neighbors annoy me with their remarks.
+        Husband: What remarks?
+        Wife: Well, they ask me if you've quit your job.
+        Husband: Oh. Because I leave the house late in the morning—and come home early at night?
     tags:
       - iij13
   - id: 8125d260-9ef3-4d87-a637-7aac0f5fbfdc
     start: 00:24.46
-    end: 00:30.82
+    end: 00:30.2
+    fields:
+      transcription: 在宅勤務ですよって説明するんだけど、なかなか分からない人もいるのよ。
+      meaning: |-
+        Wife: I tell them that you're a home employee. But many people don’t get the point.
+        Husband: Hmph.
     tags:
       - iij13
   - id: d41b102a-b3c9-4b04-935b-280ea0af7278
-    start: 00:31.12
-    end: 00:38.52
+    start: 00:31.135
+    end: 00:38.655
+    fields:
+      transcription: |-
+        私に聞く人はいいけど、何も聞かないでひどいことを言う人もいるの。
+        あそこのご主人は失業したんだろうって。
+      meaning: "Wife: Neighbors who ask me for an explanation are okay. It's the ones who don't that are a problem. They come up with the wildest remarks—like claiming that you're unemployed, for example."
     tags:
       - iij13
   - id: a12a83a0-6575-4823-9b9a-ae510faaa588
-    start: 00:38.58
-    end: 00:43.06
+    start: 00:38.875
+    end: 00:42.855
+    fields:
+      transcription: |-
+        いいじゃないか、噂 なんか
+        でもなんだか嫌だわ
+      meaning: |-
+        Husband: Who cares? They're just gossiping.
+        Wife: Well, they still bother me.
     tags:
       - iij13
   - id: d4374571-ef67-4407-a0b6-8285f780f506
     start: 00:43.14
     end: 00:52.06
+    fields:
+      transcription: |-
+        じゃ、会社を辞めて小説を書いているんですって、言えばいい。
+        そうね。その方が分かりやすいわね。それに かっこいいし。
+      meaning: |-
+        Husband: In that case. just tell them that I've quit my job to write a novel.
+        Wife: Yeah. That’s easier to come to terms with. And it has a good ring to it.
+        Husband: I've got it!
+        Wife: Huh?
+        Husband: What I'll do is actually quit my job someday, and write a novel. That’s as close to home employ-
+        ment as you can get.
+        Wife: But you'd get Ionely—anxious to see your friends at work.
+        Husband: You're right. But maybe just once a week...
+        Wife: . . . you'll get together with them?
+        Husband: Right. Get together with them—and go drinking.   
     tags:
       - iij13
   - id: b835ab71-0275-4e87-9f98-50c6839b28d3
     start: 00:52.22
     end: 01:10.6
+    fields:
+      transcription: |-
+        そうだ。
+        え？
+        そのうち本当に会社を辞めて、小説を書こう。
+        本当の在宅勤務になるよ、そうすれば。
+        でも、寂しくなって会社の人に会いたくなるわよ。
+        そうだね。
+        一週間に一度ぐらい…。
+        会うの？
+        うん、会って、飲むんだ
     tags:
       - iij13
+flashcardFieldsToSubtitlesTracks:
+  transcription: 3da39492-2167-48eb-a629-ecdc465ff180
 ---
 name: 13 - Lesson 14 - Main Text.mp3
 format: mp3
 duration: 02:14.74
 id: 93c4dc99-5d7d-43b7-8e6d-9998f746f0ae
+subtitles:
+  - id: 0fedfd49-ca5b-42e7-b465-fa39338aa491
+    type: External
+    chunksMetadata:
+      count: 27
+      endCue: 6668.8
+    name: 13 - Lesson 14 - Main Text.srt
 clips:
   - id: fcedda2c-f5aa-4b31-ab1f-a7f428b2c94f
     start: 00:05.64
     end: 00:12.36
     fields:
       transcription: 米国のある大学で、体の不自由な人の世話をするサルを訓練しているそうである。
+      meaning: A certain university in the United States, it seems, is training monkeys to take care of people with physical disabilities.
     tags:
       - iij14
   - id: 01790f39-76e9-40b5-b973-cbd3b44977dd
@@ -4224,6 +4360,7 @@ clips:
     end: 00:17.02
     fields:
       transcription: テレビ番組でその様子を紹介していた。
+      meaning: An actual view of the situation was presented on a television program.
     tags:
       - iij14
   - id: ccb6a616-ce6c-4e64-ad52-94b48a396ee8
@@ -4231,6 +4368,7 @@ clips:
     end: 00:24.74
     fields:
       transcription: 交通事故などで体が不自由になった人のために、小さなサルが色々なことをする。
+      meaning: The small monkey does a variety of tasks for people who’ve become physically disabled due to a traffic accident or other mishap.
     tags:
       - iij14
   - id: 4fd78835-4864-4303-975d-19fba114f0a6
@@ -4238,6 +4376,7 @@ clips:
     end: 00:38.94
     fields:
       transcription: ジュースをコップに注いで、ストローを差し込んだり、車椅子のボタンを押したり、その人の顔をタオルでふいたり、一生懸命に世話をする。
+      meaning: She’ll pour juice into a glass and put in a straw. She’ll push the buttons on the disabled person’s wheelchair, and wipe his or her face with a towel. The monkey puts a lot of effort into her work.
     tags:
       - iij14
   - id: 3e19acf9-4ba5-49a0-8af0-30f7526f6589
@@ -4246,8 +4385,8 @@ clips:
     fields:
       transcription: |-
         見ていて感心た。
-
         もっと感心したのは、こうしたサルの訓練の家庭である。
+      meaning: As I watched the show, I was impressed to see all of this. I was particularly impressed with the process by which the monkey is trained.
     tags:
       - iij14
   - id: 2800efdc-21b6-467b-ba1f-514fd4757261
@@ -4255,6 +4394,7 @@ clips:
     end: 00:54.38
     fields:
       transcription: 生まれたばかりのサルを子供のいない老人夫婦に預ける。
+      meaning: The newly-born monkey is entrusted to an elderly couple without children.
     tags:
       - iij14
   - id: e2eb093e-9188-41cb-a7ac-96f6b514d48d
@@ -4262,6 +4402,7 @@ clips:
     end: 01:02.98
     fields:
       transcription: 老人夫婦は、ミルクを飲ませ、おむつをとりかえ、優しい言葉をかけ、大切に育てる。
+      meaning: The couple gives the monkey milk, changes her diapers, and speaks to her in a gentle language. They raise her with affection and care.
     tags:
       - iij14
   - id: 8df88477-292a-4cdd-877e-62cd899c30c2
@@ -4269,6 +4410,7 @@ clips:
     end: 01:08.68
     fields:
       transcription: その可愛がりかたは、人間の赤ん坊に対する以上である。
+      meaning: The love they give to the infant monkey, in fact, is greater than the love parents give to their own babies.
     tags:
       - iij14
   - id: 20e21733-71d4-405a-8b26-6fac999fc30d
@@ -4276,6 +4418,7 @@ clips:
     end: 01:19.86
     fields:
       transcription: サルが成長すると、今度は大学の女性研究者が訓練するのであるが、失敗してもけっして叱らない。
+      meaning: Once the monkey has reached a particular age, a female researcher at a university takes over the training process. The researcher never scolds the monkey for her mistakes.
     tags:
       - iij14
   - id: 294a066d-e8d4-4377-8ecb-0225bbc44a4d
@@ -4283,6 +4426,7 @@ clips:
     end: 01:27.84
     fields:
       transcription: よくできると必ず「いい子だ、いい子だ」とほめながら、サルの好きな食べ物を与える。
+      meaning: While praising the monkey for her accomplishments with “That's a good girl, That’s a good girl,” she gives her some of her favorite foods.
     tags:
       - iij14
   - id: 64a7a4e5-660d-45c3-8c0c-ba372aced7e8
@@ -4290,6 +4434,7 @@ clips:
     end: 01:32.0
     fields:
       transcription: 実に優しく、我慢強い。
+      meaning: The woman is truly gentle—and patient.
     tags:
       - iij14
   - id: e2d56ce9-e584-4f82-a42a-352537a699d2
@@ -4297,6 +4442,7 @@ clips:
     end: 01:39.42
     fields:
       transcription: 人間の世話ができるサルを育てるまでの苦労は、大変なものである。
+      meaning: The amount of work it takes to raise a monkey who can care for humans is astounding.
     tags:
       - iij14
   - id: 7830af54-57ac-4046-afd4-8311e6b68f48
@@ -4304,6 +4450,7 @@ clips:
     end: 01:46.26
     fields:
       transcription: こんなに苦労してサルを訓練することには、疑問をもつ人もいるであろう。
+      meaning: Some people might question putting so much work into raising such a monkey.
     tags:
       - iij14
   - id: e7fc1b27-a8c2-4c77-b0d2-0a4e29366f89
@@ -4311,6 +4458,7 @@ clips:
     end: 01:53.56
     fields:
       transcription: サルを可愛がるだけの愛情と努力で人間の世話をする方が能率的かもしれない。
+      meaning: It might be more efficient to apply the love and effort that’s given to the monkey to the care of people.
     tags:
       - iij14
   - id: d3089781-1366-46cd-9001-abd83be5ec1c
@@ -4318,6 +4466,7 @@ clips:
     end: 02:03.88
     fields:
       transcription: それは別として、優しいサルは愛情の深い育てかたによって生まれるということを、この番組は示している。
+      meaning: Still, the television program shows how an upbringing filled with love can produce a gentle monkey.
     tags:
       - iij14
   - id: b2c8bc5a-b992-41fd-901b-32473a5f62f3
@@ -4325,6 +4474,7 @@ clips:
     end: 02:13.94
     fields:
       transcription: そして、この場合、「サル」を「人間」とおきかえて考えることができるのだということを、見る人に感じさせるのである。
+      meaning: It also makes the viewer feel that, given this upbringing, monkeys and humans can be thought of as interchangable.
     tags:
       - iij14
 ---
@@ -4339,9 +4489,14 @@ clips:
     fields:
       transcription: |-
         この間、テレビで面白い番組を見ました。
-        どの番組ですか。
-        サルガ人間の世話をするんです。
+        どんな番組ですか。
+        サルが人間の世話をするんです。
         へえ？
+      meaning: |-
+        A: I just saw a fascinating show on TV.
+        B: About what?
+        A: About a monkey that takes care of humans.
+        B: Really?
     tags:
       - iij14
   - id: 9d8aeb13-7ebe-4202-a2b6-757665023896
@@ -4352,6 +4507,10 @@ clips:
         交通事故などで体が不自由になった人がいますね。
         ええ、手や足が動かなくなった人など。
         そうです。
+      meaning: |-
+        A: There’re people who have become disabled in traffic accidents, aren’t there?
+        B: Yes—people who have lost the use of their hands or feet...
+        A: Right.
     tags:
       - iij14
   - id: c9ecf9b7-d47e-44e5-a4ec-cfe9a82a0c0b
@@ -4360,10 +4519,15 @@ clips:
     fields:
       transcription: |-
         そう言う人のために、ジュースをコップに注いで、ストローを差し込んだり、車椅子のボタンを押したり…
-
         へえ？
-
         その人の顔をタオルで拭いたり。
+      meaning: |-
+        A: The monkey pours juice into a glass for them And puts in a straw. And presses the
+        buttons on their wheelchairs...
+        B: Wow.
+        A: ...And wipes their faces with a towel, too.
+        B: Gee. That’s impressive.
+        A: Right.
     tags:
       - iij14
   - id: 719719f7-416e-4ea7-8cc1-90e18c313d3a
@@ -4373,6 +4537,9 @@ clips:
       transcription: |-
         そこまで訓練するのは大変でしょうね。
         ええ、そうなんです。
+      meaning: |-
+        B: It must be hard to train a monkey to do all of those things.
+        A: It is.
     tags:
       - iij14
   - id: 76203dc0-32b1-445e-b90a-4f53e9227eb5
@@ -4380,6 +4547,9 @@ clips:
     end: 00:50.88
     fields:
       transcription: 大学の女性の研究者がやっていましたけど、それはそれは我慢強くて、優しいんです。
+      meaning: |-
+        A: A woman researcher at a university was doing the training. She was really patient, really gentle.
+        B: Hmm.
     tags:
       - iij14
   - id: ff9b1659-17e1-4c99-95a9-a5bc0c3d44fa
@@ -4388,33 +4558,30 @@ clips:
     fields:
       transcription: |-
         そう言うサルは生まれた時から子供のいないお年寄りが大切に可愛がって育てるですって。
-
         なるほどねえ。
-    tags:
-      - iij14
-  - id: 306b3b2e-cc2a-44e5-9234-eceaefaffee3
-    start: 00:58.92
-    end: 01:02.76
-    fields:
-      transcription: だから、大人しくて優しいサルになるんですね。
-    tags:
-      - iij14
-  - id: 79da2e2d-75d0-4e81-aa87-052b7417bca5
-    start: 01:03.02
-    end: 01:04.42
-    fields:
-      transcription: 人間だってそうですよ。
+      meaning: |-
+        A: From the time they are born, monkeys like these are raised with affectionate care by elderly
+        people without any kids.
+        B: I see.
     tags:
       - iij14
   - id: 40a33ba0-2c2b-4376-81a8-cc3ec86ccd00
-    start: 01:04.56
+    start: 00:58.92
     end: 01:16.12
     fields:
       transcription: |-
+        だから、大人しくて優しいサルになるんですね。
+        人間だってそうですよ。
         え？
         だから、女性は男性に親切にするべきなんですよ。
         はあ？
         そうしないと、男性も親切にならない。その番組は、そう言ってるんですよ、きっと。
+      meaning: |-
+        B: That must be what makes them so obedient and gentle. In fact, humans are no different.
+        A: Huh?
+        B: And that’s why women should be kind to men.
+        A: What??
+        B: If women aren’t kind to men, men won’t become kind in return. That, in my opinion, is what the TV program’s all about.
       notes: |-
         はあ is more formal than え.
         べき used in conversations sounds "a little overblown."
@@ -4425,140 +4592,426 @@ name: 15 - Lesson 14 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:10.269
 id: 2554f050-9bdc-4e7d-8d0f-13ee75d6fadc
+subtitles:
+  - id: e6490437-2269-4859-8967-b8fd51e4da8f
+    type: External
+    chunksMetadata:
+      count: 27
+      endCue: 3443.2
+    name: 15 - Lesson 14 - KaiwaBun 2.srt
+clips:
+  - id: 21fb20c1-74df-4d16-ba03-68c16e207bf2
+    start: 00:09.4
+    end: 00:22.315
+    fields:
+      transcription: |-
+        猿が人間の世話をする話、聞いた？
+        聞いた、聞いた。すごいねえ。
+        ちっとも嫌がらないで、次から次へいろんなことをするんですって。飲み物の用意をしたり、車椅子のボタンを押したり。
+      meaning: |-
+        A: Did you hear about that monkey who takes care of people?
+        B: Yes, I sure did. It’s amazing.
+        A: The monkey willingly does so many things—one after the other. She fixes things to drink,
+        presses the buttons on wheelchairs...
+    tags:
+      &a1
+      - iij09
+  - id: 5f57fd9f-75df-4b22-b3a7-4cff62e000c1
+    start: 00:22.58
+    end: 00:35.64
+    fields:
+      transcription: |-
+        僕もそんな猿が欲しいなあ。
+        そう思う？
+        うん、思うよ。
+        だって、もし僕が交通事故で手も足も駄目になったら、きっと彼女、逃げていくもの。
+        そんなことないでしょう。
+      meaning: |-
+        B: Actually, I wouldn’t mind having one of those monkeys myself
+        A: You’d really like one?
+        B: Yes, I would. If I were in a traffic accident, and lost the use of my hands and feet, my girlfriend
+        would leave me. You can bet on that.
+        A: I’d be surprised if that were true.
+    tags: *a1
+  - id: 1b35ee72-13ee-47ee-b089-c8ee6ecd0611
+    start: 00:36.1
+    end: 00:52.156
+    fields:
+      transcription: |-
+        彼女、人の世話をするのは好きじゃないんだよ。
+        猿と違って、今から訓練することはできないし。
+        でも、世話をしてもらう方も努力するのよ。
+        猿が何かするたびに、「いい子だ、いい子だ」と言って、お菓子か何かやるんですって。
+      meaning: |-
+        B: My girlfriend hates taking care of people. Unlike a monkey, I could scarcely start training her otherwise.
+        A: But receiving care takes effort, too. Whenever the monkey does something, she’s told “That’s a
+        good girl, That‘s a good girl.” And given a sweet or something.
+    tags: *a1
+  - id: 3917dad0-cc0a-4ff0-8e3a-9cca8e154986
+    start: 00:52.436
+    end: 01:09.875
+    fields:
+      transcription: |-
+        僕だって、デートのたびに、「綺麗だ、綺麗」だと言って、プレゼント渡してるよ。
+        でもそれを一日に何十回も言うのよ。
+        それは無理だなあ。一週間に一回ぐらいならいいけど。
+        交通事故に気をつけることね。
+        そう、そう。
+      meaning: |-
+        B: What about me? On dates, I always say “You’re beautiful, You’re beautiful,” and give my girlfriend presents.
+        A: But we’re talking about saying something tens of times a day.
+        B: That’s out of the question. Once a week--that's about it.
+        A: I guess you’d better watch out for traffic accidents.
+        B: I guess so.   
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: e6490437-2269-4859-8967-b8fd51e4da8f
 ---
 name: 19 - Lesson 15 - Main Text.mp3
 format: mp3
 duration: 02:15.576
 id: c5cbece6-de91-443b-bec6-a8dc619b9ccb
+subtitles:
+  - id: bb593680-9868-404f-a826-3aa25f89f0a0
+    type: External
+    chunksMetadata:
+      count: 26
+      endCue: 6438.4
+    name: 19 - Lesson 15 - Main Text.srt
 clips:
   - id: 996f274f-d340-4924-bd64-ee28b72d7225
     start: 00:05.68
     end: 00:12.12
+    fields:
+      transcription: 科学が進歩して洗剤なども 汚れを落とす力の強いものができた。
+      meaning: |-
+        With the advance of science, powerful cleansers with the strength to dissolve dirt have appeared
+        on the market.
     tags:
       - iij15
   - id: c916e4e7-08a6-410e-bef4-3ebefc055ee4
     start: 00:13.06
     end: 00:18.62
+    fields:
+      transcription: 少し使えば、風呂やトイレがきれいになるから、掃除も楽である。
+      meaning: |-
+        After just a little use, the bathtub or toilet becomes sparkling clean, easing the trials
+        of scrubbing.
     tags:
       - iij15
   - id: e13bc5a4-052e-458d-9db5-03b9ae08e938
     start: 00:19.88
     end: 00:24.26
+    fields:
+      transcription: ところが最近、この洗剤のために事故が起きたそうである。
+      meaning: Recently, though, an accident was caused by one of these cleansers.
     tags:
       - iij15
   - id: d80f9ce5-e603-4469-bb94-0f2d4a597f75
     start: 00:26.66
     end: 00:30.2
+    fields:
+      transcription: 風呂場の壁を掃除していた主婦が急に死んだ。
+      meaning: A housewife scrubbing the walls in her bathroom suddenly died.
     tags:
       - iij15
   - id: 31572bf9-2bd9-4083-92bb-f67d85e874b2
     start: 00:32.12
     end: 00:41.26
+    fields:
+      transcription: 壁のカビを取るための洗剤と風呂を洗うための洗剤が化学反応を起こし、有毒なガスが出たためらしい。
+      meaning: A chemical reaction between a cleanser for removing mold from the walls and a cleanser for cleaning the tub released poisonous gases, causing her death.
     tags:
       - iij15
   - id: 1172fb7d-b697-44b7-8910-4b592d515189
     start: 00:43.62
     end: 00:53.52
+    fields:
+      transcription: このような事故は他にもある。美容院で石油ファンヒーターをつけたら、気分が悪くなった人がいた。
+      meaning: There have been other accidents as well.
     tags:
       - iij15
   - id: 64d89635-bef1-4ea3-95ad-b353d48d7203
     start: 00:54.74
     end: 01:02.2
+    fields:
+      transcription: 髪に使うスプレーがヒーターの熱で化学反応を起こし、有毒ガスが出たためである。
+      meaning: In one, a person began to feel sick when a kerosene heater was turned on in a beauty parlor. The heat from the heater reacted chemically with the parlor’s hair spray, giving rise to poisonous fumes.
     tags:
       - iij15
   - id: 47751ac7-e79d-4acd-b345-4f365ee3fd7a
     start: 01:04.52
     end: 01:13.58
+    fields:
+      transcription: 二つの商品は、それぞれ別に使えば安全だが、同じ場所で同時に使うと、このような事故が起きる。
+      meaning: Used independently, products like these are safe. Used at the same time in the same place, and accidents like the above result.
     tags:
       - iij15
   - id: c23f707f-5b1e-4a55-98a4-a1ff3bf10d0a
     start: 01:14.96
     end: 01:20.54
+    fields:
+      transcription: つまり、この場合、商品同士の相性が悪いのだそうである。
+      meaning: In these cases, in short, the compatibility of the two products was at fault.
     tags:
       - iij15
   - id: 4a3bef11-9322-4c45-8414-b69f1389f0aa
     start: 01:22.06
     end: 01:27.76
+    fields:
+      transcription: 相性という言葉は、普通は人と人との関係によく使う。
+      meaning: The word “compatibility” usually talks about the relationship between two people.
     tags:
       - iij15
   - id: 6ba86344-e977-4878-8a51-4c1df5ccd413
     start: 01:28.5
     end: 01:33.2
+    fields:
+      transcription: あの人とこの人は相性がいいとか、悪いとか言う。
+      meaning: A couple is described as either “compatible” or “incompatible.”
     tags:
       - iij15
   - id: 47ace6c3-87fd-41ec-80a6-b16fbb4374ac
     start: 01:34.52
     end: 01:43.1
+    fields:
+      transcription: 特に結婚の相手を選ぶときに、生まれた年や生まれた月になどで相性を考えることもある。
+      meaning: The day, month, and year of birth are sometimes taken into account when figuring out the compatibility of prospective marriage partners.
     tags:
       - iij15
   - id: fd85a15c-162b-4537-83e4-d0597f5692d3
     start: 01:44.46
     end: 01:52.84
+    fields:
+      transcription: このような人間的な言葉が、生命のない商品について使われるのは、なんだか面白い感じがする。
+      meaning: It strikes me as somehow amusing that “compatibility,” a word that’s filled with humanity, should be used for lifeless goods.
     tags:
       - iij15
   - id: 11b1d1c1-9c1d-4903-82ad-d6e78f501d63
     start: 01:53.96
     end: 01:57.94
+    fields:
+      transcription: しか、面白がっているだけではいけない。
+      meaning: Just feeling a sense of amusement isn’t enough.
     tags:
       - iij15
   - id: d4f4e6d4-5141-4532-9187-1d8eba858887
     start: 01:58.68
     end: 02:09.26
+    fields:
+      transcription: 事故を防ぐためには、商品を作る人もよく研究しなければならないが、使う人も説明書などをよく読む必要がある。
+      meaning: To prevent accidents, the makers of these goods should do a lot of research. But the users must read the products’ instruction booklets, too.
     tags:
       - iij15
   - id: 4293e611-4362-4ed8-beb6-966e6bc84df1
     start: 02:10.82
     end: 02:15.42
+    fields:
+      transcription: 注意深くなければ、安全に暮らすことはできないのである。
+      meaning: You can’t go through life safely without being careful.
     tags:
       - iij15
+flashcardFieldsToSubtitlesTracks:
+  transcription: bb593680-9868-404f-a826-3aa25f89f0a0
 ---
 name: 20 - Lesson 15 - KaiwaBun 1.mp3
 format: mp3
 duration: 01:14.527
 id: ec532673-e145-4b29-89d8-de3c1a6af4ef
+subtitles:
+  - id: 9c665cb1-10ed-4156-93ca-198afa41b1d8
+    type: External
+    chunksMetadata:
+      count: 27
+      endCue: 3686.4
+    name: 20 - Lesson 15 - KaiwaBun 1.srt
 clips:
   - id: 2c988b32-4637-4741-82f3-8e0ad5e3effe
     start: 00:08.28
     end: 00:18.54
+    fields:
+      transcription: |-
+        今朝の新聞に洗剤の話が出ていましたね。
+        何か新しい商品ができたんですか。
+        いえ、そうじゃなくて、洗剤の事故なんです。
+      meaning: |-
+        A: Did you see that article in this morning’s paper? About cleansers?
+        B: Did they invent a new product of some kind?
+        A: No, nothing like that. There was an accident related to cleansers.
     tags:
       - iij15
   - id: 591e31f7-23e9-4955-9628-5e15de5d1358
     start: 00:18.8
     end: 00:26.98
+    fields:
+      transcription: |-
+        事故と言いますと？
+        ある奥さんが風呂場で一生懸命掃除していたら、突然倒れて、死んでしまったんだそうです。
+      meaning: |-
+        B: An accident...?
+        A: A woman was scrubbing hard in her bathroom. When, all of a sudden, she fell over and died.
     tags:
       - iij15
   - id: 3f42c3c4-cf70-49d4-a8ee-0314e94b76d1
     start: 00:27.3
     end: 00:34.6
+    fields:
+      transcription: |-
+        どうしたんでしょう。
+        壁のカビを取る洗剤と、風呂を洗う洗剤を一緒に使ったらしいんです。
+      meaning: |-
+        B: : What happened?
+        A: She used a cleanser for removing mold from the walls at the same time as a cleanser for
+        scrubbing the tub.
     tags:
       - iij15
   - id: 4e2df3c8-e457-4386-9811-84f95e40e062
     start: 00:34.88
     end: 00:44.86
+    fields:
+      transcription: |-
+        一緒に使うといけないんですか。
+        ええ。詳しいことはわかりませんけど、何かの化学反応で、悪い ガスが出るんだそうです。
+      meaning: |-
+        B: Were they products that shouldn’t be used at the same time?
+        A: Uh-huh. I’m not clear on all the details. But it seems that a chemical reaction of some sort
+        released dangerous gases.
     tags:
       - iij15
   - id: 6f8f5eb2-6eb3-490f-b312-a496496b473b
     start: 00:45.08
     end: 00:52.56
+    fields:
+      transcription: |-
+        怖いですね。
+        ええ。二つの洗剤の相性が悪かったんだそうです。
+        相性がね。
+      meaning: |-
+        B: That’s scary.
+        A: Yeah—the two cleansers were incompatible.
+        B: Incompatible?
     tags:
       - iij15
   - id: f03f120a-089b-4516-b0c3-7a02080033dc
     start: 00:52.66
     end: 01:00.44
+    fields:
+      transcription: ええ。他にも色々、相性の悪いものがあるらしいんですよ。ヘアスプレーと石油ファンヒーターとか。
+      meaning: |-
+        A: Right. It seems there’re all sorts of other products that are incompatible as well. Like hair
+        sprays—hair sprays are incompatible with kerosene heaters.
     tags:
       - iij15
   - id: 3ee40c06-4c69-43ff-aa1e-d18bb053b1f1
     start: 01:00.94
     end: 01:04.12
+    fields:
+      transcription: 使う時、説明書をよく読めばいいんでしょうね。
+      meaning: "B: I guess it’s a good idea to read the instruction booklet thoroughly before using a product"
     tags:
       - iij15
   - id: 37d10040-89bf-493c-90d3-1d200ccfbff6
     start: 01:04.18
     end: 01:14.24
+    fields:
+      transcription: |-
+        ええ。でも、どんどん商品が複雑になるから、絶対安全とはいえないそうですよ。
+        そうですか。なんだか怖いですね。
+      meaning: |-
+        A: Probably. But products are getting more complex. There’s no guarantee that you'll be com-
+        pletely safe.
+        B: Now that is scary.
     tags:
       - iij15
+flashcardFieldsToSubtitlesTracks:
+  transcription: 9c665cb1-10ed-4156-93ca-198afa41b1d8
 ---
 name: 21 - Lesson 15 - KaiwaBun 2.mp3
 format: mp3
 duration: 01:11.68
 id: a7648515-0cca-4448-810c-6278e000be63
+subtitles:
+  - id: 2bbcd5ed-7f19-4143-96b3-80a51b436341
+    type: External
+    chunksMetadata:
+      count: 32
+      endCue: 3520
+    name: 21 - Lesson 15 - KaiwaBun 2.srt
+clips:
+  - id: 8f458265-2a11-491a-8bf8-4bcd5b8fbc37
+    start: 00:06.1
+    end: 00:20.735
+    fields:
+      transcription: |-
+        家の風呂、この頃 汚くなったね。
+        そうね。知ってたの。
+        お風呂の洗剤、使わないことにしたの。
+        どうして？
+        だって、洗剤が怖いのよ、ガスが出て。
+        相性の話か。
+      meaning: |-
+        Husband: Our bathtub’s been getting really dirty.
+        Wife: Uh-huh.
+        Husband: Were you aware of it?
+        Wife: Yeah But I’ve quit using bathroom cleansers.
+        Husband: Why?
+        Wife: Because they’re scary. They give off fumes.
+        Husband: Oh, the compatibility factor.
+    tags:
+      - iij15
+  - id: c1a45e52-388a-4fd6-b59e-061a2205154a
+    start: 00:21.268
+    end: 00:38.1
+    fields:
+      transcription: |-
+        あれは、二つのものを一緒に使わなければいいんだよ。
+        でも他にも何か、洗剤と相性の悪いものがあるかもしれないでしょ。
+        例えば？
+        例えば、私のセーターの染料とか。
+        染料も洗剤と相性が悪いのか。
+        まだわからないわ。
+      meaning: |-
+        Husband: As long as you don’t use two products at the same time, there’s nothing to worry about.
+        Wife: But there might be other things that are incompatible with bathroom cleanser.
+        Husband: Such as?
+        Wife: Such as the dyes in my sweaters.
+        Husband: A dye that is incompatible with cleanser?!
+        Wife: You never know.
+    tags:
+      - iij15
+  - id: dbdad71b-784c-4923-b127-1b7498e8fe5c
+    start: 00:38.656
+    end: 00:54.779
+    fields:
+      transcription: |-
+        商品の相性の研究はまだまだ不十分なんですって。
+        そんなに心配していたら、何もできないよ。
+        台所も怖いから、当分洗剤を使わないつもり。
+        やれやれ。
+        家の中が汚くても、安全な方がいいでしょ。
+      meaning: |-
+        They say research on the incompatibility of products is still insufficient.
+        Husband: If you worry like that, you won’t be able to get anything done.
+        WVife: I’m concerned about kitchen cleansers, too. I’ve decided to stop using them for the time
+        being.
+        Husband: Good grief.
+        Wife: Safety comes first. Even if it means the house gets a little dirty, right?
+    tags:
+      - iij15
+  - id: af5f0f78-4346-4aac-a929-2245b926b5ab
+    start: 00:55.483
+    end: 01:10.383
+    fields:
+      transcription: |-
+        僕は、汚いのは嫌いだな。
+        あら、じゃ、私と相性が悪いのね。
+        そうかもしれないね。とにかく、今度の日曜に、僕が洗剤を使って掃除するよ。風呂も台所も。
+      meaning: |-
+        Husband: I’d vote against the dirty house.
+        Wife: Oh. I guess that means that you’re incompatible with me?
+        Husband: Maybe so. In any event, I'll clean the house with cleanser this Sunday—the bathroom
+        and the kitchen.
+    tags:
+      - iij15
+flashcardFieldsToSubtitlesTracks:
+  transcription: 2bbcd5ed-7f19-4143-96b3-80a51b436341

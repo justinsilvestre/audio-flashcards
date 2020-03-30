@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-03-29T18:08:01Z
+timestamp: 2020-03-30T12:44:04Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -11,38 +11,29 @@ format: mp3
 duration: 02:09.541
 id: c272e50e-46be-42cd-beb8-6db89296dd46
 clips:
-  - id: 09016a75-793a-433f-8136-197b9b4d2f72
-    start: 00:15.18
-    end: 00:19.18
-    fields:
-      transcription: 最近、ホテルで正月を過ごす人が増えたそうである。
-      meaning: Lately, an increasing number of Japanese have been spending the New Years holidays in hotels.
-    tags:
-      - iij01
   - id: 60651b29-af30-41eb-b50d-2e8d085cf6b9
-    start: 00:20.04
+    start: 00:15.18
     end: 00:24.22
     fields:
-      transcription: 年末に家をしめて、家族全員でホテルに移る。
-      meaning: "At the end of the year, entire families will shut up their homes and move to a hotel. "
-    tags:
-      - iij01
-  - id: 3aa7541a-f3b3-4827-bcb9-2e7e6cc7c31e
-    start: 00:25.24
-    end: 00:30.38
-    fields:
-      transcription: ホテルでは正月特別の飾りをつけ、正月の料理を出す。
-      meaning: "The hotels display special New Year's decorations and serve New Year's cuisine. "
+      transcription: |-
+        最近、ホテルで正月を過ごす人が増えたそうである。
+        年末に家をしめて、家族全員でホテルに移る。
+      meaning: |-
+        Lately, an increasing number of Japanese have been spending the New Years holidays in hotels.
+        At the end of the year, entire families will shut up their homes and move to a hotel. 
     tags:
       - iij01
   - id: 89442181-5ee1-4dcd-822d-ddcb236dce6f
-    start: 00:30.9
+    start: 00:25.24
     end: 00:36.18
     fields:
       transcription: |-
+        ホテルでは正月特別の飾りをつけ、正月の料理を出す。
         主婦も家事をする必要がない。
         家族揃ってゆっくりすごす。
-      meaning: "Housewives are relieved of housework, and the whole family is able to enjoy a relaxing New Year's together. "
+      meaning: |-
+        The hotels display special New Year's decorations and serve New Year's cuisine. 
+        Housewives are relieved of housework, and the whole family is able to enjoy a relaxing New Year's together. 
       notes: káji-o suru
     tags:
       - iij01
@@ -54,126 +45,90 @@ clips:
       meaning: "There are several reasons for this phenomenon. "
     tags:
       - iij01
-  - id: 5587c571-b30f-4285-8764-7f3d11d35351
-    start: 00:39.5
-    end: 00:43.98
-    fields:
-      transcription: 主人も主婦も忙しくて、正月の準備ができない場合もある。
-      meaning: "Sometimes, both husband and wife are too busy to prepare for the New Years holidays. "
-    tags:
-      - iij01
-  - id: 27f0840e-5eb9-4876-878b-801e0c04cc19
-    start: 00:44.76
-    end: 00:48.06
-    fields:
-      transcription: 正月の伝統的な行事が嫌いな人もある。
-      meaning: "Some families dislike the traditional New Year's rituals. "
-      notes: shougatsu-no dentouteki-na gyóuji-ga kirai-na hitó-mo áru
-    tags:
-      - iij01
   - id: 7a80031d-8c81-458c-a218-cc93f0ec3b0b
-    start: 00:48.68
+    start: 00:39.5
     end: 00:53.8
     fields:
-      transcription: "正月に大勢の客が来るので、会うのが面倒だと思う人もある。 "
-      meaning: "Others do not want to have to take care of the large number of visitors who show up during the holidays. "
+      transcription: |-
+        主人も主婦も忙しくて、正月の準備ができない場合もある。
+        正月の伝統的な行事が嫌いな人もある。
+        正月に大勢の客が来るので、会うのが面倒だと思う人もある。
+      meaning: |-
+        Sometimes, both husband and wife are too busy to prepare for the New Years holidays. 
+        Some families dislike the traditional New Year's rituals. 
+        Others do not want to have to take care of the large number of visitors who show up during the holidays. 
+      notes: shougatsu-no dentouteki-na gyóuji-ga kirai-na hitó-mo áru
     tags:
       - iij01
   - id: aef7846d-958b-4929-a404-9d214f1857c5
     start: 00:55.12
     end: 01:06.1
     fields:
-      transcription: むかしは、正月にはいつもより綺麗な物を着て、いつもよりぜいたくな料理を食べ、遠くから親せきの人が集まって、にぎやかに話し合った。
+      transcription: むかしは、正月にはいつもより綺麗な物を着て、いつもより贅沢な料理を食べ、遠くから親戚の人が集まって、にぎやかに話し合った。
       meaning: "In the past, Japanese dressed in especially elegant clothes on New Year's, and dined on an unusually lavish spread. They enjoyed lively conversation with relatives from distant places. "
     tags:
       - iij01
   - id: 4b689ce2-16a6-4eae-bbbf-81706e288997
     start: 01:06.9
-    end: 01:12.76
-    fields:
-      transcription: 子供達も、正月には特別にお金をもらって、好きな物を買うことができた。
-      meaning: "Children received a special gift of money to buy something they liked. "
-    tags:
-      - iij01
-  - id: 045b6428-5dc4-4ea3-bde6-ae37f0822db7
-    start: 01:13.4
     end: 01:17.56
     fields:
-      transcription: 正月は、「いつもと違う」ぜいたくをするときであった。
-      meaning: "New Year's was a time for unusual luxury and elegance. "
-    tags:
-      - iij01
-  - id: 2a818cf0-8c4d-4b3d-b2f6-ec86e9130bb6
-    start: 01:18.46
-    end: 01:25.18
-    fields:
-      transcription: そのためには家中をよく掃除し、正月のための特別の飾りをつけた。
-      meaning: "For that reason, families cleaned their whole houses thoroughly and put up special New Year's decorations. "
+      transcription: |-
+        子供達も、正月には特別にお金をもらって、好きな物を買うことができた。
+        正月は、「いつもと違う」贅沢をするときであった。
+      meaning: |-
+        Children received a special gift of money to buy something they liked. 
+        New Year's was a time for unusual luxury and elegance. 
     tags:
       - iij01
   - id: c2374f00-ea3a-4f69-9175-ed8dbf6a2147
-    start: 01:25.94
+    start: 01:18.46
     end: 01:30.6
     fields:
-      transcription: 家を大切にしたのは、家が生活の場所だったからである。
-      meaning: "The home was central to Japanese lifestyles, and was kept in top condition for that reason. "
+      transcription: |-
+        そのためには家中をよく掃除し、正月のための特別の飾りをつけた。
+        家を大切にしたのは、家が生活の場所だったからである。
+      meaning: |-
+        For that reason, families cleaned their whole houses thoroughly and put up special New Year's decorations. 
+        The home was central to Japanese lifestyles, and was kept in top condition for that reason. 
     tags:
       - iij01
   - id: 40fe680e-f519-4ca3-884c-84eeafcc2981
     start: 01:31.5
-    end: 01:34.74
-    fields:
-      transcription: 今は住宅の利用法が変わった。
-      meaning: "Japanese no longer use their homes in this fashion. "
-    tags:
-      - iij01
-  - id: ab6137a6-f3d2-45b3-a4ae-3e7c6d23084c
-    start: 01:35.5
     end: 01:43.42
     fields:
-      transcription: 自分の家で結婚式や祝いの宴会をする人は少ない。たいていの人がホテルを使う。
-      meaning: "Few modern Japanese hold weddings or celebratory parties in their homes—most prefer hotels. "
-    tags:
-      - iij01
-  - id: d8898763-97ae-4069-937d-0d39b003c04e
-    start: 01:43.78
-    end: 01:47.28
-    fields:
-      transcription: 人にごちそうするときにはレストランに行く。
-      meaning: "Guests are entertained at restaurants. "
-    tags:
-      - iij01
-  - id: 714e67bd-99de-496d-9f6f-7fae6937a648
-    start: 01:47.68
-    end: 01:51.08
-    fields:
-      transcription: 人と話をするときは喫茶店で会う。
-      meaning: "People meet in coffee houses to talk. "
-      notes: hito-to hanashí-o suru-tóki-wa
+      transcription: |-
+        今は住宅の利用法が変わった。
+        自分の家で結婚式や祝いの宴会をする人は少ない。大抵の人がホテルを使う。
+      meaning: |-
+        Japanese no longer use their homes in this fashion. 
+        Few modern Japanese hold weddings or celebratory parties in their homes—most prefer hotels. 
     tags:
       - iij01
   - id: 92e59754-9251-4f42-88c2-ba59706796f3
-    start: 01:51.4
+    start: 01:43.78
     end: 01:55.5
     fields:
-      transcription: その上正月まで、ホテルで過ごす人が増えた。
-      meaning: "And families stay in hotels through the New Year's holidays. "
-    tags:
-      - iij01
-  - id: 2bfa92ec-5ae1-4dba-ae3d-2123d7190b18
-    start: 01:56.44
-    end: 02:00.88
-    fields:
-      transcription: 今の大都会の住宅は、何をするところであろう。
-      meaning: One wonders about the function of the home in the cities of today.
+      transcription: |-
+        人にごちそうするときにはレストランに行く。
+        人と話をするときは喫茶店で会う。
+        その上正月まで、ホテルで過ごす人が増えた。
+      meaning: |-
+        Guests are entertained at restaurants. 
+        People meet in coffee houses to talk. 
+        And families stay in hotels through the New Year's holidays. 
+      notes: hito-to hanashí-o suru-tóki-wa
     tags:
       - iij01
   - id: 24886d69-6e4b-4507-86eb-2d20cc25989b
-    start: 02:01.02
+    start: 01:56.44
     end: 02:09.12
     fields:
-      transcription: テレビを見て、寝るところか。 住宅というより、個室か寝室になったのであろうか。
-      meaning: Has it become merely a place for watch- ing TV and sleeping? If so, the Japanese home is no longer a home. It's a private chamber or bedroom instead.
+      transcription: |-
+        今の大都会の住宅は、何をするところであろう。
+        テレビを見て、寝るところか。 住宅というより、個室か寝室になったのであろうか。
+      meaning: |-
+        One wonders about the function of the home in the cities of today.
+        Has it become merely a place for watch- ing TV and sleeping? If so, the Japanese home is no longer a home. It's a private chamber or bedroom instead.
     tags:
       - iij01
 ---
@@ -188,7 +143,7 @@ clips:
     fields:
       transcription: |-
         今年のお正月は、どんな予定ですか。
-        まだはっきりきまっていないんですが。
+        まだはっきり決まっていないんですが。
         ええ。
         市内のホテルにしようかと思っています。
         あ、そうですか。海外じゃなくて。
@@ -332,106 +287,80 @@ id: 35ede59c-a247-4264-87a9-48fd686d75b6
 clips:
   - id: cf4aacab-af53-4caa-a5e9-14881f5ae69f
     start: 00:06.22
-    end: 00:12.0
-    fields:
-      transcription: 人間の手はいろいろなことをするが、足のほうはあまり働かない。
-      meaning: "Although the human hand performs many functions, our feet hardly do any work at all. "
-    tags:
-      - iij02
-  - id: cdb0f1aa-ba95-4dbc-8528-049ef264ad58
-    start: 00:12.44
     end: 00:16.62
     fields:
-      transcription: 歩くことと走ることのほかは大した仕事をしない。
-      meaning: Apart from walking and running, their workload is scant.
+      transcription: |-
+        人間の手は色々なことをするが、足のほうはあまり働かない。
+        歩くことと走ることの他は大した仕事をしない。
+      meaning: |-
+        Although the human hand performs many functions, our feet hardly do any work at all. 
+        Apart from walking and running, their workload is scant.
     tags:
       - iij02
   - id: c4e213ba-920f-4b99-9c46-ac20883e0288
     start: 00:17.18
-    end: 00:22.58
-    fields:
-      transcription: 特に足のうらは何も重要な働きはしていないように見える。
-      meaning: " Whats more, the backs of our feet perform scarcely any major function. "
-    tags:
-      - iij02
-  - id: 108e31d1-fae5-4955-a906-e0b194e1f337
-    start: 00:23.12
     end: 00:29.7
     fields:
-      transcription: ところが、足のうらの働きについて実験した結果、面白いことがわかったそうだ。
-      meaning: "Or so it had seemed, until a series of experiments on their activity came up with some interesting results. "
-    tags:
-      - iij02
-  - id: a22d94ee-8959-4248-807b-5e9f497624ba
-    start: 00:30.8
-    end: 00:34.66
-    fields:
-      transcription: 十二人の若い男女を二つの組にわける。
-      meaning: "Twelve men and women, all of them young, were divided into two groups. "
-    tags:
-      - iij02
-  - id: afa843b9-a206-4b70-b9cf-a151a470afaa
-    start: 00:35.2
-    end: 00:41.38
-    fields:
-      transcription: 一定の時間、いっぽう組の人たちは、はだしになって竹をふみ続ける。
-      meaning: "After taking off their shoes, the first group repeatedly stamped their feet on strips of bamboo for a specified period of time. "
+      transcription: |-
+        特に足の裏は何も重要な働きはしていないように見える。
+        ところが、足の裏の働きについて実験した結果、面白いことがわかったそうだ。
+      meaning: |-2
+         Whats more, the backs of our feet perform scarcely any major function. 
+        Or so it had seemed, until a series of experiments on their activity came up with some interesting results. 
     tags:
       - iij02
   - id: fac39827-01e9-4ad8-b0ca-59924f624206
-    start: 00:41.72
+    start: 00:30.8
     end: 00:47.1
     fields:
-      transcription: もういっぽうの組は、高いいすにこしかけて、何もしないでいる
-      meaning: "The second group simply sat motionless on a tall chair. "
+      transcription: |-
+        十二人の若い男女を二つの組に分ける。
+        一定の時間、一方の組の人たちは、裸足になって竹を踏み続ける。
+        もう一方の組は、高い椅子に腰掛けて、何もしないでいる
+      meaning: |-
+        Twelve men and women, all of them young, were divided into two groups. 
+        After taking off their shoes, the first group repeatedly stamped their feet on strips of bamboo for a specified period of time. 
+        The second group simply sat motionless on a tall chair. 
     tags:
       - iij02
   - id: feecb4b5-2987-43b3-94c5-103cd32cffce
     start: 00:47.9
     end: 00:54.64
     fields:
-      transcription: いすが高いので、足はゆかにつかないから、足のうらには何の刺激もない。
+      transcription: 椅子が高いので、足は床につかないから、足の裏には何の刺激もない。
       meaning: "The chair's height prevented their feet from touching the ground—and kept the backs of their feet from receiving any stimulus. "
     tags:
       - iij02
-  - id: 708aafbb-234f-4236-9a2c-fb197574fc36
-    start: 00:55.26
-    end: 00:59.12
-    fields:
-      transcription: そのあと両方の組が同じゲームをする。
-      meaning: "Later, the two groups took part in a game. "
-    tags:
-      - iij02
   - id: 833e3e3d-dbf8-44d5-b294-5f5eb33c9016
-    start: 00:59.6
+    start: 00:55.26
     end: 01:09.1
     fields:
-      transcription: テレビの画面に色の名前を表す漢字が出るが、その漢字の表す色と、漢字そのものの色はちがっている。
-      meaning: "The names of colors were shown in kanji on a video monitor. The kanji were displayed in colors that differed from their meaning; "
-    tags:
-      - iij02
-  - id: f298e99a-238e-422e-9c57-b1c68e104869
-    start: 01:09.46
-    end: 01:13.34
-    fields:
-      transcription: たとえば白い線で書いた「青」という字が出る。
-      meaning: 'For example, the character for "blue" was drawn with white lines. '
-      notes: jí-ga déru
+      transcription: |-
+        そのあと両方の組が同じゲームをする。
+        テレビの画面に色の名前を表す漢字が出るが、その漢字の表す色と、漢字そのものの色は違っている。
+      meaning: |-
+        Later, the two groups took part in a game. 
+        The names of colors were shown in kanji on a video monitor. The kanji were displayed in colors that differed from their meaning; 
     tags:
       - iij02
   - id: 56d57479-6c2d-4fce-9192-a8fb0c0f3532
-    start: 01:13.9
+    start: 01:09.46
     end: 01:18.28
     fields:
-      transcription: それを見て、いそいで「青」の札をさがして高くあげる。
-      meaning: "After looking at the kanji for blue, the groups had to hastily search for a card displaying it, then raise this card high in the air. "
+      transcription: |-
+        例えば白い線で書いた「青」という字が出る。
+        それを見て、いそいで「青」の札を探して高く上げる。
+      meaning: |-
+        For example, the character for "blue" was drawn with white lines. 
+        After looking at the kanji for blue, the groups had to hastily search for a card displaying it, then raise this card high in the air. 
+      notes: jí-ga déru
     tags:
       - iij02
   - id: 53df8e93-daaf-424e-a654-4f31abe161c9
     start: 01:18.78
     end: 01:28.48
     fields:
-      transcription: 何回も続けると、疲れて間違いが多くなるが、二つの組のうち、竹をふんだ人達のほうが成績がよかった。
+      transcription: 何回も続けると、疲れて間違いが多くなるが、二つの組のうち、竹を踏んだ人達のほうが成績がよかった。
       meaning: "After many attempts, the groups grew tired, and their mistakes multiplied. Yet the performance of the group that had stamped its feet on the bamboo was best. "
     tags:
       - iij02
@@ -439,7 +368,7 @@ clips:
     start: 01:28.82
     end: 01:35.22
     fields:
-      transcription: つまり足のうらを刺激すると、頭の働きがよくなることがわかったのである。
+      transcription: つまり足の裏を刺激すると、頭の働きがよくなることがわかったのである。
       meaning: "The experiment convinced its designers that, by stimulating the backs of our feet, we can upgrade the performance of our brains. "
     tags:
       - iij02
@@ -448,8 +377,8 @@ clips:
     end: 01:51.72
     fields:
       transcription: |-
-        むかしのある有名な人は、子供のころ家がびんぼうで、一日中働いていたので、勉強するひまがなかった。
-        そこで、せなかに薪をせおって歩きながら、本を読んだそうである。
+        むかしのある有名な人は、子供のころ家がびんぼうで、一日中働いていたので、勉強する暇がなかった。
+        そこで、背中に薪を背負って歩きながら、本を読んだそうである。
       meaning: "A famous person of old used to read while walking with a load of firewood on his back. As a child, his family was poor, and he had to work from dawn to dusk—leaving scarcely any time for study. "
     tags:
       - iij02
@@ -474,33 +403,22 @@ subtitles:
       endCue: 4454.4
     name: 09 - Lesson 2 - KaiwaBun 1.srt
 clips:
-  - id: 000dcbfd-8673-46ba-95d3-5b080e4a7612
-    start: 00:12.24
-    end: 00:19.2
-    fields:
-      transcription: |-
-        この頃よくテレビ見ますか
-        あまり見ませんね
-        帰りが遅いので
-        そうですか
-      meaning: |-
-        A: Have you been watching a lot of TV lately?
-        B: Hardly any. I don't get home until late, at night. 
-        A: Oh.
-    tags:
-      &a1
-      - iij02
   - id: 959e2050-b9bf-41d6-8264-d38be07ad462
-    start: 00:19.56
+    start: 00:12.24
     end: 00:29.444
     fields:
       transcription: |-
-        私もあまり見ないんですけど
-        この間ちょっと面白い番組を見ましたよ
-        どんな番組ですか
-        足の裏の話です
-        足の裏
+        この頃よくテレビ見ますか。
+        あまり見ませんね。帰りが遅いので。
+        そうですか。
+        私もあまり見ないんですけど、この間ちょっと面白い番組を見ましたよ。
+        どんな番組ですか・
+        足の裏の話です。
+        足の裏？
       meaning: |
+        A: Have you been watching a lot of TV lately?
+        B: Hardly any. I don't get home until late, at night. 
+        A: Oh.
         A: I rarely watch TV myself. But I did see kind of an interesting program recently.
         B: What kind of program? 
         A: A program about the backs of our feet.
@@ -511,22 +429,20 @@ clips:
     start: 00:30.74
     end: 00:36.36
     fields:
-      transcription: |-
-        足の裏って
-        あまり大したことをしないようですけど
-        実は大切なんだそうです
+      transcription: 足の裏って、あまり大したことをしないようですけど、実は大切なんだそうです。
       meaning: |
         A: Yeah You'd think that the backs of our feet don't have any important function. But they're tremendously important.
-    tags: *a1
+    tags:
+      &a1
+      - iij02
   - id: c8163db2-c41d-4d67-84a7-cf798693c587
     start: 00:37.88
     end: 00:46.852
     fields:
       transcription: |-
-        足の裏を刺激すると
-        頭の働きが良くなるんだそうです
-        そうですか
-        実験か何かでわかったんですか
+        足の裏を刺激すると、頭の働きが良くなるんだそうです。
+        そうですか。実験か何かでわかったんですか。
+        ええ。
       meaning: |-
         A: Stimulating the feet improves the performance of our brains—or so they said.
         B: Really? Has this been proven by some experiment or other? 
@@ -537,9 +453,7 @@ clips:
     start: 00:47.092
     end: 00:55.56
     fields:
-      transcription: |-
-        若い人が二つのグループに分かれて
-        一方は竹を踏んだけど 一方は椅子に腰掛けて何もしないでいたんですって
+      transcription: 若い人が二つのグループに分かれて、一方は竹を踏んだけど、一方は椅子に腰掛けて何もしないでいたんですって。
       meaning: "A: Several young people were divided into two groups. The first group stamped on strips of bamboo. The second simply sat in chairs."
     tags: *a1
   - id: c15d8482-7baa-42f6-8441-4e353324f82c
@@ -547,10 +461,10 @@ clips:
     end: 01:04.48
     fields:
       transcription: |-
-        足はどうしたんですか
-        椅子が高いから
-        足は床につかないで
-        ぶらんぶらん そうなんです
+        足はどうしたんですか。
+        椅子が高いから、足は床につかないで。
+        ぶらんぶらん。
+        そうなんです。
       meaning: |-
         B: What did they do with their feet? 
         A: Well, the chairs were high... and kept their feet from touching the floor. 
@@ -562,10 +476,10 @@ clips:
     end: 01:14.988
     fields:
       transcription: |-
-        その後でテレビゲームみたいなことをしたら
-        竹を踏んだ グループの方が
-        成績が良かったそうです
-        なるほどね
+        その後で、テレビゲームみたいなことをしたら…。
+        ええ。
+        竹を踏んだグループの方が成績が良かったそうです。
+        なるほどね。
       meaning: |-
         A: Later, the groups played some type of television computer game.
         B: And?
@@ -574,26 +488,18 @@ clips:
     tags: *a1
   - id: b9839d42-c55e-4c56-ab94-e4790f8956da
     start: 01:15.26
-    end: 01:20.84
-    fields:
-      transcription: |-
-        だからじっと長い間座っているのは
-        頭のために良くないんですね
-      meaning: "A: Which goes to show that sitting motionless is bad for the brain"
-    tags: *a1
-  - id: ec071d34-829d-4e20-9352-0c06f33ea2d5
-    start: 01:21.32
     end: 01:29.08
     fields:
       transcription: |-
-        じゃあ
-        歩きながら本を読んだらどうでしょう
-        いいかもしれませんね
-        目には悪いかもしれないけれど
+        だから、じっと長い間座っているのは、頭のために良くないんですね。
+        じゃ、歩きながら本を読んだらどうでしょう。
+        いいかもしれませんね。目には悪いかもしれないけれど。
       meaning: |-
+        A: Which goes to show that sitting motionless is bad for the brain
         B: Well, what about reading a book while walking? 
         A: Sounds like an excellent idea—that might be bad for the eyes.
-    tags: *a1
+    tags:
+      - iij02
 flashcardFieldsToSubtitlesTracks:
   transcription: b9aff07b-080a-41f0-9642-ef7ab0ceecb0
 ---
@@ -614,10 +520,9 @@ clips:
     end: 00:17.18
     fields:
       transcription: |-
-        あー君
-        どこか行くの
-        ちょっと歩いてきます
-        頭が疲れたので
+        あ、君、どこか行くの。
+        ええ、ちょっと歩いてきます。頭が疲れたので。
+        ふうん。
       meaning: |-
         A: Where are you headed? For a walk. I'm feeling a little mentally fatigued.
         A: Hmph.
@@ -629,13 +534,12 @@ clips:
     end: 00:31.084
     fields:
       transcription: |-
-        課長
-        頭と足の裏の関係を知っていますか
-        知ってるよ
-        じゃあ どういう関係ですか
-        人間で言えば 社長と君だ
-        つまり
-        一番上と一番下
+        課長、頭と足の裏の関係を知っていますか。
+        知ってるよ。
+        じゃ、どういう関係ですか。
+        人間で言えば 、社長と君だ。
+        ふん？
+        つまり、一番上と一番下。
       meaning: |-
         B: Are you aware, Chief, about the relationship between the back Of the foot and the human mind?
         A: Of course.
@@ -643,44 +547,38 @@ clips:
         A: Whats this relationship? It's like the relationship between you and the president of this company.
         B: Huh? In other words, the extreme top and the extreme bottom.
     tags: *a1
-  - id: 88d71a0f-32b5-4474-b4fc-db3340880a84
+  - id: dd517a47-dc8d-49b6-b12f-d9d5d230dc7c
     start: 00:31.504
-    end: 00:42.52
+    end: 00:48.3
     fields:
       transcription: |-
-        違いますよ
-        足の裏を刺激すると頭の働きが良くなるんです
-        そういう事件の結果が出ているんです なるほど
+        違いますよ。
+        足の裏を刺激すると、頭の働きが良くなるんです。
+        ええ？
+        そういう実験の結果が出ているんです。
+        なるほど。
+        それで散歩に行くのか。
+        ええ。
+        それなら行く必要がない。さあ、靴を脱いで
       meaning: |-
         
         B: No—that's not what I'm driving at. Stimulating the backs of the feet improves mental performance.
         A: Huhh??
         B: At any rate. that's what the results of some experiments show.
         A: I see. 
-    tags:
-      - iij02
-  - id: dd517a47-dc8d-49b6-b12f-d9d5d230dc7c
-    start: 00:42.78
-    end: 00:48.3
-    fields:
-      transcription: |-
-        それで散歩に行くのか
-        それなら行く必要がない
-        さあ、靴を脱いで
-      meaning: |-
         A: So thats the reason you want to take a walk.
         B: Right.
         A: Well, there's no necessity for that. Here. Take off your shoes.
-    tags: *a1
+    tags:
+      - iij02
   - id: 69846caf-c045-4843-96c6-58753cc24ea5
     start: 00:49.4
     end: 00:56.86
     fields:
       transcription: |-
-        下も脱いで
-        ここでですか
-        ほらここに時がある
-        これを踏めば良いんだよ
+        靴下も脱いで。
+        ここでですか。
+        ほら、ここに時がある。これを踏めばいいんだよ。
       meaning: |-
         B: What?!
         A: And your socks.
@@ -692,12 +590,10 @@ clips:
     end: 01:08.86
     fields:
       transcription: |-
-        この竹
-        課長の ですか
-        僕もあの番組見て
-        すぐ 武雄 タイに行ったんだ
-        なあんだ
-        実はさっき 部屋の隅で住んでいたんだよ
+        この竹、課長の ですか。
+        そう。僕もあの番組見て、すぐ竹を買いに行ったんだ。
+        なあんだ。
+        実はさっき、部屋の隅で踏んでいたんだよ。
       meaning: |
         B: Does this belong to you?
         A: It sure does. I watched that program too. And bought this afterwards.
@@ -705,31 +601,24 @@ clips:
         A: I just finished stepping on it, too. In the corner of the room.
     tags:
       - iij02
-  - id: 8b902a76-5693-45b1-b5b2-a00bc8b5699c
-    start: 01:09.12
-    end: 01:14.82
-    fields:
-      transcription: |-
-        さあ、これ、使いなさい
-        結構です
-        もう頭の疲れが取れました
-      meaning: |-
-        A: Here. Give it a try.
-        B: No thanks. My mental fatigue seems to have cleared up.
-    tags: *a1
   - id: a5c6a7df-b2d1-457e-bc9b-26a73dbee3a9
-    start: 01:15.08
+    start: 01:09.12
     end: 01:21.96
     fields:
       transcription: |-
-        課長が裸足で踏んだ 竹を踏むなんて
-        何か入った言いません
-        さあ 仕事 仕事
+        さあ、これ、使いなさい。
+        結構です。もう頭の疲れが取れました。
+        課長が裸足で踏んだ竹を踏むなんて。
+        何か言った？
+        言いません。さあ、仕事、仕事！
       meaning: |-
+        A: Here. Give it a try.
+        B: No thanks. My mental fatigue seems to have cleared up.
         B: [To himself] It'd be impossible for me to use that thing—after he's been stamping his bare feet on it!
         A: Did you say something?
         B: Not at all. Back to work!
-    tags: *a1
+    tags:
+      - iij02
 flashcardFieldsToSubtitlesTracks:
   transcription: f0c8d16c-88d1-4578-9742-336d47797347
 ---
@@ -738,21 +627,17 @@ format: mp3
 duration: 02:00.921
 id: 9b3fc3ac-aeec-46ea-8ec7-b55c39add913
 clips:
-  - id: 2a79c166-cae6-4dd7-9302-c57100c1071c
-    start: 00:05.86
-    end: 00:12.92
-    fields:
-      transcription: 留守番電話を利用する人が多くなった。留守番電話は確かに便利である。
-      meaning: "A growing number of people are starting to use answering machines. Without a doubt, the answering machine is a handy instrument. "
-      notes: bénri
-    tags:
-      - iij03
   - id: 617e425d-1e2a-46a9-b49f-463a7feb78c5
-    start: 00:13.26
+    start: 00:05.86
     end: 00:21.92
     fields:
-      transcription: 誰も家にいない時に誰から電話があった場合、後で録音テープでその内容を知ることができる。
-      meaning: "If the phone rings when everybody's out of the house, it's now possible to hear the content of the call afterwards on tape. "
+      transcription: |-
+        留守番電話を利用する人が多くなった。留守番電話は確かに便利である。
+        誰も家にいない時に誰から電話があった場合、後で録音テープでその内容を知ることができる。
+      meaning: |-
+        A growing number of people are starting to use answering machines. Without a doubt, the answering machine is a handy instrument. 
+        If the phone rings when everybody's out of the house, it's now possible to hear the content of the call afterwards on tape. 
+      notes: bénri
     tags:
       - iij03
   - id: bc802300-72be-447e-a778-09add27c5ce6
@@ -772,20 +657,16 @@ clips:
       meaning: "What's more, not having to answer the phone during a meal—or an interesting television drama—is a blessing. "
     tags:
       - iij03
-  - id: 852bf3d7-bdcd-452d-8ec3-7e2e8fa2f7fd
-    start: 00:39.86
-    end: 00:44.72
-    fields:
-      transcription: それほど便利なものであるが、つけたくないと言う人も多い。
-      meaning: "For a device that's so convenient, a surprising number of people don't want to use the answering machine. "
-    tags:
-      - iij03
   - id: a36bb160-1591-47b3-b571-eb5fcc22c080
-    start: 00:45.1
+    start: 00:39.86
     end: 00:52.02
     fields:
-      transcription: 電話をかけたとき、相手の声でなく録音テープを聞くのが不ゆかいなためである。
-      meaning: "They feel that it's unpleasant to listen to a tape rather than the actual voice of the person they are calling. "
+      transcription: |-
+        それほど便利なものであるが、つけたくないと言う人も多い。
+        電話をかけたとき、相手の声でなく録音テープを聞くのが不ゆかいなためである。
+      meaning: |-
+        For a device that's so convenient, a surprising number of people don't want to use the answering machine. 
+        They feel that it's unpleasant to listen to a tape rather than the actual voice of the person they are calling. 
     tags:
       - iij03
   - id: 05661bf5-d536-4418-b33a-491025caf020
@@ -796,53 +677,41 @@ clips:
       meaning: Many people can't stand to hear a perfunctory voice say "I'm not home right now, but when you hear the tone, please leave a message"—and don't want to force this remark on the people who call them.
     tags:
       - iij03
-  - id: ce61275d-909b-436f-9c73-65d241f4b4b9
-    start: 01:08.0
-    end: 01:17.76
-    fields:
-      transcription: 留守番電話の伝言にしたがって電話してみると、その人も留守番電話をつけているので、録音テープに話をする。
-      meaning: "If, following the instructions on your answering machine, you call back the other party, you often find your- self speaking into the answering machine owned by that person. "
-    tags:
-      - iij03
   - id: 35be6ac4-7913-4675-80ac-7534eebaf251
-    start: 01:18.22
+    start: 01:08.0
     end: 01:22.48
     fields:
-      transcription: その返事もまた録音テープということもある。
-      meaning: "The reply to your message, in turn, is often recorded into your machine. "
-    tags:
-      - iij03
-  - id: 61457ee0-70ba-42ea-bd17-7f2e762382f9
-    start: 01:22.86
-    end: 01:29.08
-    fields:
-      transcription: こうなると、人と話すのでなく、いつもマイクにむかって話すことになる。
-      meaning: "As a result, telephoners end up feeling like they're talking to microphones rather than to each other. "
+      transcription: |-
+        留守番電話の伝言にしたがって電話してみると、その人も留守番電話をつけているので、録音テープに話をする。
+        その返事もまた録音テープということもある。
+      meaning: |-
+        If, following the instructions on your answering machine, you call back the other party, you often find yourself speaking into the answering machine owned by that person. 
+        The reply to your message, in turn, is often recorded into your machine. 
     tags:
       - iij03
   - id: 8350aa7c-cbae-4720-ba28-b83f4ec84b25
-    start: 01:29.28
+    start: 01:22.86
     end: 01:34.66
     fields:
-      transcription: 普通の人も、テレビやラジオのアナウンサーになったようなものだ。
-      meaning: "It's almost as if ordinary people had suddenly become TV or radio announcers. "
+      transcription: |-
+        こうなると、人と話すのでなく、いつもマイクにむかって話すことになる。
+        普通の人も、テレビやラジオのアナウンサーになったようなものだ。
+      meaning: |-
+        As a result, telephoners end up feeling like they're talking to microphones rather than to each other. 
+        It's almost as if ordinary people had suddenly become TV or radio announcers. 
       notes: 〜ようなものだ = it's as if...
     tags:
       - iij03
-  - id: c6123f52-e629-481d-bf38-b11595fe1f07
-    start: 01:35.46
-    end: 01:44.26
-    fields:
-      transcription: 話しかけてすぐ返事を聞くことができるのが、電話の魅力であるが、留守番電話ではそれがない。
-      meaning: "The appeal of the telephone lies in hearing an immediate reply after speaking to someone. Answering machines don't have this advantage. "
-    tags:
-      - iij03
   - id: 2cb15b95-42c0-4bfb-bf7c-eaceb44c6d35
-    start: 01:44.52
+    start: 01:35.46
     end: 01:49.66
     fields:
-      transcription: 手紙を受け取って読んで、返事を書いて送るのと似ている。
-      meaning: "[Using an answering machine] is somewhat like receiving a letter, reading its contents, then writing and mailing a reply."
+      transcription: |-
+        話しかけてすぐ返事を聞くことができるのが、電話の魅力であるが、留守番電話ではそれがない。
+        手紙を受け取って読んで、返事を書いて送るのと似ている。
+      meaning: |-
+        The appeal of the telephone lies in hearing an immediate reply after speaking to someone. Answering machines don't have this advantage. 
+        [Using an answering machine] is somewhat like receiving a letter, reading its contents, then writing and mailing a reply.
       notes: uketotte yónde
     tags:
       - iij03
@@ -872,13 +741,8 @@ clips:
     end: 00:25.1
     fields:
       transcription: |-
-        もしもし 山下さんですか
-        川上ですが
-        山下でございます
-        ただいま留守でございます
-        恐れ入りますが
-        ピーという信号 音が聞こえたら
-        ご用件をお話しください
+        もしもし、山下さんですか。川上ですが。
+        山下でございます。ただいま留守でございます。恐れ入りますが、ピーという信号音が聞こえたら、ご用件をお話しください。
       meaning: |-
         
         A: Hello, Yamashita? It's me, Kawakami.
@@ -890,9 +754,8 @@ clips:
     end: 00:32.74
     fields:
       transcription: |-
-        テープは1分かんですから
-        1分以内にお願いします
-        あーこれは留守番電話だな
+        テープは1分かんですから、1分以内にお願いします。
+        ああ、これは留守番電話だな。
       meaning: |-
         You have one minute, so kindly complete your message within this time.
         A: Hm. An answering machine.
@@ -902,11 +765,7 @@ clips:
     start: 00:35.52
     end: 00:52.0
     fields:
-      transcription: |-
-        えーと あのー もしもし 川上ですが
-        今度の仕事のことなんですけどね
-        ゴライダー15日で結構ですと言ったんですが
-        ちょっと都合が悪くなりましたので
+      transcription: えーと、あの、もしもし、川上ですが。今度の仕事のことなんですけどね。この間15日で結構ですと言ったんですが、ちょっと都合が悪くなりましたので。
       meaning: |-
         A: Um, let's see hello, it's me, Kawakami
         About that job—the other day I said that the 15th would be Okay, but...
@@ -918,8 +777,8 @@ clips:
     end: 01:02.22
     fields:
       transcription: |-
-        すみませんが 18日か20日にしてくださいませんか
-        できれば20日の方がいいんですが
+        すみませんが、18日か20日にしてくださいませんか。
+        できれば、20日の方がいいんですが。
       meaning: |-
         A: I was wondering if you could change the date to the 18th or 20th.
         Actually, the 20th would be best for me.
@@ -929,11 +788,7 @@ clips:
     start: 01:03.48
     end: 01:19.1
     fields:
-      transcription: |-
-        どうなんですか
-        返事は9だったあのね それから 田中さんに連絡したら
-        家の人の話では今 ヨーロッパ旅行中なんだって
-        うらやましいね
+      transcription: どうなんですか。あ、返事は9だった。あのね、それから、田中さんに連絡したら、家の人の話では、今、ヨーロッパ旅行中なんだって。うらやましいね。
       meaning: |-
         A: What do you think?
         (Oh—this is an answering machine—I can't get a reply) . Incidentally, I tried to get in touch with Tanaka, but a member of his family told me that he was on a trip in Europe.
@@ -955,32 +810,24 @@ subtitles:
       endCue: 3596.8
     name: 17 - Lesson 3 - KaiwaBun 2.srt
 clips:
-  - id: 744cf096-59a9-4143-a692-66c90fb77c87
+  - id: b9f188d6-65d9-4669-ac1d-e1e3619810ed
     start: 00:05.38
-    end: 00:13.42
+    end: 00:26.46
     fields:
       transcription: |-
         ねえ、うちも留守番電話にしましょうよ。
         どうして。
         うち、共働きだから、昼間は留守が多いでしょ？
         うん。
+        友達が、「オタクはいつも留守 ね 」って怒るのよ。
+        夜、電話してくださいって言ったら？
+        でも、夜は電話が来ても、出られないことが多いのよ。お風呂に入っていたりして…。
       meaning: |-
         
         Wife: Honey, shouldn't we start thinking about buying an answering machine?
         Husband: Why?
         Wife: Well, both working, and hardly ever home during the daytime.
         Husband: Hmm.
-    tags:
-      - iij03
-  - id: b9f188d6-65d9-4669-ac1d-e1e3619810ed
-    start: 00:14.16
-    end: 00:26.46
-    fields:
-      transcription: |-
-        友達が、「オタクはいつも留守 ね 」って怒るのよ。
-        夜、電話してくださいって言ったら？
-        でも、夜は電話が来ても、出られないことが多いのよ。お風呂に入っていたりして…。
-      meaning: |-
         Wife: My friends keep complaining that nobody answers the phone.
         Husband: If that happens, just ask them to call back in the evening.
         Wife: Its often impossible to pick up the phone at night. Such as when I'm in the tub.
@@ -1060,30 +907,21 @@ format: mp3
 duration: 01:57.656
 id: 27f9cec3-1b12-4fb4-a15e-49a43a3e3db7
 clips:
-  - id: 048709d9-490c-4758-bd08-4bd4e0abb26f
-    start: 00:06.64
-    end: 00:11.06
-    fields:
-      transcription: 最近、都会の喫茶店の数が減っているそうである。
-      meaning: "Lately, there's been a drop in the number of coffee houses in cities. "
-    tags:
-      - iij04
-  - id: 828c0ee5-b786-4b35-b093-4a98f2aa876c
-    start: 00:11.48
-    end: 00:16.56
-    fields:
-      transcription: 一つの原因は、週休二日の会社や役所が増えたことである。
-      meaning: "This is partly due to an increase in companies and government offices that take two holidays a week. "
-      notes: yakushó-ga
-    tags:
-      - iij04
   - id: 3e4fdfab-c0e4-418c-ac76-5d0ae58a734f
-    start: 00:17.26
+    start: 00:06.64
     end: 00:22.14
     fields:
-      transcription: このため、土曜日に店を開けても商売ができなくなってしまった。
-      meaning: "As a result, it's now impossible to make any money if you open your shop on Saturdays. "
-      notes: shóubai
+      transcription: |-
+        最近、都会の喫茶店の数が減っているそうである。
+        一つの原因は、週休二日の会社や役所が増えたことである。
+        このため、土曜日に店を開けても商売ができなくなってしまった。
+      meaning: |-
+        Lately, there's been a drop in the number of coffee houses in cities. 
+        This is partly due to an increase in companies and government offices that take two holidays a week. 
+        As a result, it's now impossible to make any money if you open your shop on Saturdays. 
+      notes: |-
+        yakushó-ga
+        shóubai
     tags:
       - iij04
   - id: fa2b2f19-c4cb-471c-891c-fe6c2fd8ad00
@@ -1107,67 +945,43 @@ clips:
       - iij04
   - id: 8b1c0ab3-0d08-4235-a778-e4fa8fbfa095
     start: 00:41.36
-    end: 00:51.94
+    end: 00:56.8
     fields:
-      transcription: そこで最近多くなったのは、今までの喫茶店よりずっと安いコーヒーを出し、お客は立って飲むという形の店である。
-      meaning: "As a result, stand-up style shops that sell coffee at prices dramatically cheaper than those of an average coffee house are now on the rise. "
+      transcription: |-
+        そこで最近多くなったのは、今までの喫茶店よりずっと安いコーヒーを出し、お客は立って飲むという形の店である。
+        お客はどんどん出て行くからコーヒーがたくさん売れるわけである。
+      meaning: |-
+        As a result, stand-up style shops that sell coffee at prices dramatically cheaper than those of an average coffee house are now on the rise. 
+        Customers are continuously leaving the shop, allowing for a tremendous volume of sales. 
       notes: ima-máde-no
     tags:
       - iij04
-  - id: a6ce73f9-a3cf-42af-af40-e41c62e69f6a
-    start: 00:52.12
-    end: 00:56.8
-    fields:
-      transcription: お客はどんどん出て行くからコーヒーがたくさん売れるわけである。
-      meaning: "Customers are continuously leaving the shop, allowing for a tremendous volume of sales. "
-    tags:
-      - iij04
-  - id: 25649678-fc1c-4c53-b217-0c973f80c54d
-    start: 00:57.36
-    end: 01:01.42
-    fields:
-      transcription: 一方、家庭でコーヒーを飲む人は多くなった。
-      meaning: "At the same time, many people now like to drink coffee at home. "
-    tags:
-      - iij04
-  - id: 82c4c566-85f4-40d9-b730-b482c51718b8
-    start: 01:01.68
-    end: 01:06.04
-    fields:
-      transcription: コーヒー豆の輸入の量は毎年増えているそうである。
-      meaning: "The quantity of imported coffee beans is reputedly increasing at a yearly pace. "
-    tags:
-      - iij04
-  - id: 86249f2c-a2bc-452a-bf5e-47c793a34c99
-    start: 01:06.54
-    end: 01:13.86
-    fields:
-      transcription: 朝、ご飯と味噌汁と言う食事をとる人が少なくなって、パンとコーヒーの人が多くなった。
-      meaning: "Fewer Japanese have rice and miso soup for breakfast; more and more Japanese prefer bread and coffee. "
-    tags:
-      - iij04
   - id: d3700adf-0fbc-40c8-861c-1654e9fc4222
-    start: 01:14.16
+    start: 00:57.36
     end: 01:17.96
     fields:
-      transcription: コーヒーはいわば味噌汁のかわりである。
-      meaning: "Coffee, as it were, has taken on the role of miso soup. "
+      transcription: |-
+        一方、家庭でコーヒーを飲む人は多くなった。
+        コーヒー豆の輸入の量は毎年増えているそうである。
+        朝、ご飯と味噌汁と言う食事をとる人が少なくなって、パンとコーヒーの人が多くなった。
+        コーヒーはいわば味噌汁のかわりである。
+      meaning: |-
+        At the same time, many people now like to drink coffee at home. 
+        The quantity of imported coffee beans is reputedly increasing at a yearly pace. 
+        Fewer Japanese have rice and miso soup for breakfast; more and more Japanese prefer bread and coffee. 
+        Coffee, as it were, has taken on the role of miso soup. 
     tags:
       - iij04
   - id: efe6d7c8-ab62-4f48-9d70-eb982ef4b4b5
     start: 01:18.66
-    end: 01:25.06
-    fields:
-      transcription: 今の中年以上の人たちは、コーヒーが贅沢品であった時代の記憶をもっている。
-      meaning: People who are now middle-aged and older have memories of an era when coffee was a luxury item.
-    tags:
-      - iij04
-  - id: 2f8ad975-4bdc-460d-b5cf-426ce119f9df
-    start: 01:25.7
     end: 01:32.66
     fields:
-      transcription: その人たちの少年時代には、コーヒーは欧米の文化の香りを伝えるものであった。
-      meaning: In their youth, coffee imparted the fragrance of American and European culture.
+      transcription: |-
+        今の中年以上の人たちは、コーヒーが贅沢品であった時代の記憶をもっている。
+        その人たちの少年時代には、コーヒーは欧米の文化の香りを伝えるものであった。
+      meaning: |-
+        People who are now middle-aged and older have memories of an era when coffee was a luxury item.
+        In their youth, coffee imparted the fragrance of American and European culture.
       notes: búnka
     tags:
       - iij04
@@ -1179,20 +993,16 @@ clips:
       meaning: Drinking coffee was more than just quenching thirst. It was a chance to enjoy the world of a culture far removed from everyday life.
     tags:
       - iij04
-  - id: 603ff94f-c6d6-4011-b368-5600951cab62
-    start: 01:42.74
-    end: 01:50.46
-    fields:
-      transcription: 最近のコーヒーは、朝の味噌汁のかわりとなり、コーラに似た立ち飲みの飲み物になった。
-      meaning: Lately, coffee is simply a substitute for miso soup; it's become a beverage to drink while standing, like cola.
-    tags:
-      - iij04
   - id: 7bb4cf93-b207-4c52-b5fd-59243eb81eb6
-    start: 01:50.72
+    start: 01:42.74
     end: 01:57.38
     fields:
-      transcription: 味そのものは変わっていないが、コーヒーに対する人々の気持ちが変わってきたと言えよう。
-      meaning: The taste may not have changed, but people's feelings towards coffee have changed.
+      transcription: |-
+        最近のコーヒーは、朝の味噌汁のかわりとなり、コーラに似た立ち飲みの飲み物になった。
+        味そのものは変わっていないが、コーヒーに対する人々の気持ちが変わってきたと言えよう。
+      meaning: |-
+        Lately, coffee is simply a substitute for miso soup; it's become a beverage to drink while standing, like cola.
+        The taste may not have changed, but people's feelings towards coffee have changed.
       notes: と言えよう (expository)＝と言えるでしょ (casual)
     tags:
       - iij04
@@ -1255,7 +1065,7 @@ clips:
     end: 00:50.9
     fields:
       transcription: |-
-        でも、お客がゆっくり休んでいると店は儲からないから、高い地代を払うことができない そうですよ。
+        でも、お客がゆっくり休んでいると店は儲からないから、高い地代を払うことができないそうですよ。
         ああ、だから、立ち飲みのようなミスが増えたんですね。
       meaning: |-
         A: But if customers take time over their coffee, the shops can't make any money. And can't meet the high cost of land rental, or so lwe heard.
@@ -1321,7 +1131,7 @@ clips:
     end: 00:31.84
     fields:
       transcription: |-
-        だって、以前はコーヒー豆を挽いて2種類ぐらい ブレンドして入れていたでしょ？
+        だって、以前はコーヒー豆を挽いて2種類ぐらいブレンドして入れていたでしょ？
         ああ、学生の頃ね。
       meaning: |-
         B: Well, didn't you used to make coffee by grinding your own beans, then blending a couple of varieties together?
@@ -1349,7 +1159,7 @@ clips:
     end: 00:54.06
     fields:
       transcription: |-
-        朝は忙しいからインスタント、昼は 安い立ち飲み。
+        朝は忙しいからインスタント、昼は安い立ち飲み。
         コーヒーも番茶のようなものよ。
         そうね。普及したら、値打ちが下がったのね。
       meaning: |-
@@ -1409,28 +1219,18 @@ clips:
       meaning: Underground space is already heavily utilized; a number of underground cities are predicted for the future. These cities are to be connected by a network of subways.
     tags:
       - iij05
-  - id: 871a91db-3f84-4fe2-99df-89957f10e052
-    start: 00:27.22
-    end: 00:35.18
-    fields:
-      transcription: 地下に都市を作って生活すると言うと、科学小説か 世界大戦の時代のようだが、そうではない。
-      meaning: The construction and habitation of underground cities sounds reminiscent of science fiction—or of an era following a massive world War. But Tokyoites are serious.
-    tags:
-      - iij05
-  - id: 87702f5b-2827-488b-9361-a9fde634e7b2
-    start: 00:35.48
-    end: 00:41.06
-    fields:
-      transcription: 大手の建設会社は地下に都市を作るための研究をしているそうである。
-      meaning: Apparently, several leading construction firms have undertaken research ventures with an eye to building cities beneath the earth.
-    tags:
-      - iij05
   - id: 069b6290-6e28-4b38-8d29-6d224d32fa91
-    start: 00:41.4
+    start: 00:27.22
     end: 00:46.5
     fields:
-      transcription: 土を掘るための機械の改良もだいぶ 進んでいるという話である。
-      meaning: It's claimed that equipment for digging underground is also vastly improved.
+      transcription: |-
+        地下に都市を作って生活すると言うと、科学小説か世界大戦の時代のようだが、そうではない。
+        大手の建設会社は地下に都市を作るための研究をしているそうである。
+        土を掘るための機械の改良もだいぶ 進んでいるという話である。
+      meaning: |-
+        The construction and habitation of underground cities sounds reminiscent of science fiction—or of an era following a massive world War. But Tokyoites are serious.
+        Apparently, several leading construction firms have undertaken research ventures with an eye to building cities beneath the earth.
+        It's claimed that equipment for digging underground is also vastly improved.
     tags:
       - iij05
   - id: abaa83a0-8baf-4de6-953f-3ab4b8d46cae
@@ -1453,7 +1253,7 @@ clips:
     start: 01:11.0
     end: 01:22.08
     fields:
-      transcription: 地下生活のために起こる ストレスや不安を和らげるために、クラシック音楽や 虫の声などの自然の音を流すことも研究しているそうだ。
+      transcription: 地下生活のために起こる ストレスや不安を和らげるために、クラシック音楽や虫の声などの自然の音を流すことも研究しているそうだ。
       meaning: Studies are now under way into the possibilities of piping in classical music—or natural noises such as the chirping of insects—to lessen feelings of stress and anxiety caused by living beneath the earth.
     tags:
       - iij05
@@ -1465,28 +1265,18 @@ clips:
       meaning: Weather conditions have no bearing on life beneath the earth, so umbrellas will be unnecessary. Since it's unlikely that transportation will be affected by snowfalls, the efficiency of work may also increase.
     tags:
       - iij05
-  - id: 437893f5-e0c4-450e-9fc8-7450fb05a632
-    start: 01:34.16
-    end: 01:38.08
-    fields:
-      transcription: しかし地下では自然に親しむことができない。
-      meaning: Nonetheless, intimacy with nature will be impossible underground.
-    tags:
-      - iij05
   - id: 2b497a74-1cd5-4908-97f9-29a630a06efd
-    start: 01:38.22
-    end: 01:46.78
-    fields:
-      transcription: 小さい子供を育てているときなど、日光に当てることが必要だし、老人にもちかは適当ではないだろう。
-      meaning: Sunlight is vital for raising young children; and living underground is probably unsuited to the elderly.
-    tags:
-      - iij05
-  - id: f0d8da67-726d-4c60-b6c7-fd64a88b7195
-    start: 01:46.96
+    start: 01:34.16
     end: 01:55.66
     fields:
-      transcription: 将来は小さい子供や老人だけ地上にいて、働く人は地下にいるという時代になるかもしれない。
-      meaning: It's possible to envision a future world in which workers will reside underground, and only young children and the elderly will live above the earth.
+      transcription: |-
+        しかし地下では自然に親しむことができない。
+        小さい子供を育てているときなど、日光に当てることが必要だし、老人にもちかは適当ではないだろう。
+        将来は小さい子供や老人だけ地上にいて、働く人は地下にいるという時代になるかもしれない。
+      meaning: |-
+        Nonetheless, intimacy with nature will be impossible underground.
+        Sunlight is vital for raising young children; and living underground is probably unsuited to the elderly.
+        It's possible to envision a future world in which workers will reside underground, and only young children and the elderly will live above the earth.
     tags:
       - iij05
 flashcardFieldsToSubtitlesTracks:
@@ -1504,32 +1294,23 @@ subtitles:
       endCue: 3315.2
     name: 09 - Lesson 5 - KaiwaBun 1.srt
 clips:
-  - id: dbbe0cd8-3ba9-4d3e-be40-759f891dbcbe
-    start: 00:09.9
-    end: 00:15.58
-    fields:
-      transcription: |-
-        昨夜のテレビで、地下都市の話をやってましたね。
-        地下都市ですか
-      meaning: |-
-        
-        A: Did you see the TV show on underground cities last night?
-        B: Underground cities?
-        A: Yes.
-    tags:
-      &a1
-      - iij05
   - id: f4301f5a-b5dc-4fbe-9502-710a6e522c2e
-    start: 00:15.88
+    start: 00:09.9
     end: 00:28.14
     fields:
       transcription: |-
-        地下に街を作る計画があるそうですよ。
+        昨夜のテレビで、地下都市の話をやってましたね。
+        地下都市ですか。
+        ええ。地下に街を作る計画があるそうですよ。
         誰がそんなこと考えているんですか。
         大手の建設会社です。
         そうですか。じゃあ、SF みたいな話じゃないんですね。
         そうです。
       meaning: |-
+        
+        A: Did you see the TV show on underground cities last night?
+        B: Underground cities?
+        A: Yes.
         A: Apparently there is a plan to build cities beneath the earth.
         B: Who is thinking about that?
         A: Large construction firms.
@@ -1552,7 +1333,9 @@ clips:
         A: Yes.
         B: There are underground parking lots; underground departments in department stores.
         A: Uh-huh. And I've even heard of an office located four stories underground.
-    tags: *a1
+    tags:
+      &a1
+      - iij05
   - id: d4724a31-804f-426b-8ff8-2524148927f9
     start: 00:39.2
     end: 00:49.96
@@ -1568,26 +1351,18 @@ clips:
     tags: *a1
   - id: b1b1db90-926d-47c1-9eed-b03741287863
     start: 00:50.7
-    end: 00:56.74
-    fields:
-      transcription: |-
-        でも、僕は嫌ですね、ちかは。
-        会社が半分地下になったら、大変ですね。
-      meaning: |-
-        B: Still, living underground is not for me.
-        A: Can you imagine what it would be like if half of your company was located underground?
-    tags:
-      - iij05
-  - id: 63569031-7a2c-4ccf-8142-3f69a163519b
-    start: 00:56.88
     end: 01:06.34
     fields:
       transcription: |-
+        でも、僕は嫌ですね、地下は。
+        会社が半分地下になったら、大変ですね。
         僕、そうなったら会社やめますよ。やめて…
         やめてどうしますか。
         動物園にでも努めますよ。
         動物園は地上でしょうから。
       meaning: |-
+        B: Still, living underground is not for me.
+        A: Can you imagine what it would be like if half of your company was located underground?
         B: If that ever happened, I'd resign from my firm. I'd quit working there and..
         A: Quit working there, and do what?
         B: Start working at a zoo. It's a safe bet that zoos will always be located aboveground.
@@ -1614,7 +1389,7 @@ clips:
     fields:
       transcription: |-
         食事しようか。
-        ここなんかどう？
+        ええ。ここなんかどう？
         ここはだめ、地下だもの。
         じゃ、あのビルの中は？
         36階？だめだよ、そんな高いところ。
@@ -1656,7 +1431,7 @@ clips:
       transcription: |-
         地下だと雨が降っても濡れないし、雪で道が滑ることもないし。
         それはそうだけど。
-        事務所だけじゃなくて、住宅 持ち家になったらいいわね。
+        事務所だけじゃなくて、住宅も地下になったらいいわね。
       meaning: |-
         Wife: Well, if it rains, you don't have to worry about getting wet if you're underground. And slippery streets aren't a concern if it snows.
         Husband: Maybe.
@@ -1667,7 +1442,7 @@ clips:
     end: 01:01.716
     fields:
       transcription: |-
-        朝 傘を持って行こうか どうしようか悩むこともないし。
+        朝、傘を持って行こうか どうしようか悩むこともないし。
         僕は嫌だよ。
         地上にいて毎日傘を持って歩く方がいい。
       meaning: |-
@@ -1703,20 +1478,16 @@ clips:
       meaning: There are many types of schools for adults. In some instances, companies will establish a school for re-educating employees.
     tags:
       - iij06
-  - id: feb41344-8c60-4909-b82a-1a117954fbf1
-    start: 00:16.26
-    end: 00:21.98
-    fields:
-      transcription: 会社の授業を大きくしたい場合には、社員を教育する必要がある。
-      meaning: Companies must often educate workers in order to expand a business project.
-    tags:
-      - iij06
   - id: c9e6b4d0-57ff-4b24-9487-35f42e9ef1aa
-    start: 00:22.14
+    start: 00:16.26
     end: 00:29.12
     fields:
-      transcription: 例えば海外の事業を盛んにするために、社員に語学教育を行う場合も多い。
-      meaning: To enhance the prosperity of a foreign venture, for example, many companies give language training to their employees.
+      transcription: |-
+        会社の授業を大きくしたい場合には、社員を教育する必要がある。
+        例えば海外の事業を盛んにするために、社員に語学教育を行う場合も多い。
+      meaning: |-
+        Companies must often educate workers in order to expand a business project.
+        To enhance the prosperity of a foreign venture, for example, many companies give language training to their employees.
     tags:
       - iij06
   - id: 987c608c-04bb-4c77-8e40-c82f9800ffb1
@@ -1729,50 +1500,30 @@ clips:
       - iij06
   - id: 650f1054-0bc5-48b8-b037-0a54b5605455
     start: 00:36.0
-    end: 00:41.34
-    fields:
-      transcription: ある建設会社が社員のために作った教育機関の話を聞いた。
-      meaning: At an education institute of a certain construction company, according to one report...
-    tags:
-      - iij06
-  - id: aef03159-2807-4cae-bb0e-1ce08077dfde
-    start: 00:41.68
-    end: 00:49.58
-    fields:
-      transcription: これまでは現場で上司が指導していたが、上司も忙しくなってあまり指導ができなくなった。
-      meaning: Up until now, supervisors trained employees on the job. The supervisors' workloads increased, however, making continued training impossible.
-    tags:
-      - iij06
-  - id: 9a3146a0-36c8-4e07-af78-5d021368f8ff
-    start: 00:49.8
     end: 00:54.3
     fields:
-      transcription: そこで社員教育のための学校を作ったのだそうである。
-      meaning: This prompted the company to start a school for training its employees.
+      transcription: |-
+        ある建設会社が社員のために作った教育機関の話を聞いた。
+        これまでは現場で上司が指導していたが、上司も忙しくなってあまり指導ができなくなった。
+        そこで社員教育のための学校を作ったのだそうである。
+      meaning: |-
+        At an education institute of a certain construction company, according to one report...
+        Up until now, supervisors trained employees on the job. The supervisors' workloads increased, however, making continued training impossible.
+        This prompted the company to start a school for training its employees.
     tags:
       - iij06
   - id: 14e638ea-c496-4f75-a507-af929133142d
     start: 00:54.78
-    end: 01:01.0
-    fields:
-      transcription: 授業は月曜から土曜まで、毎日朝九時から五時まで七時間。
-      meaning: Classes are held from Mondays through Saturdays. They start at nine in the morning and continue till five, for a total of seven hours a day.
-    tags:
-      - iij06
-  - id: 7eb6147a-b4e9-472e-b552-ddc3c82f0da5
-    start: 01:01.24
-    end: 01:06.54
-    fields:
-      transcription: 学費は無料で、会社から給料をもらう。夏休みもある。
-      meaning: Tuition is free, and employees receive a salary from the company—as well as a summer break.
-    tags:
-      - iij06
-  - id: 44bf5c39-f2b3-4f12-94c6-8755ef315877
-    start: 01:06.82
     end: 01:11.12
     fields:
-      transcription: 全員が寮に住む。寮は一人一部屋。
-      meaning: All students live in a dormitory and are assigned separate rooms.
+      transcription: |-
+        授業は月曜から土曜まで、毎日朝九時から五時まで七時間。
+        学費は無料で、会社から給料をもらう。夏休みもある。
+        全員が寮に住む。寮は一人一部屋。
+      meaning: |-
+        Classes are held from Mondays through Saturdays. They start at nine in the morning and continue till five, for a total of seven hours a day.
+        Tuition is free, and employees receive a salary from the company—as well as a summer break.
+        All students live in a dormitory and are assigned separate rooms.
     tags:
       - iij06
   - id: beb24d7a-759e-47c8-9908-273dbf1bc20f
@@ -2000,7 +1751,7 @@ clips:
     end: 00:55.536
     fields:
       transcription: |-
-        ただ、体は大事だよ・
+        ただ、体は大事だよ。
         だからスポーツはやっているんだ。
         これからの会社が求めるのは、強い体と勉強したいという気持ちだよ。
         そうかもしれないわね。
@@ -2045,36 +1796,28 @@ format: mp3
 duration: 01:52.091
 id: a674f283-db52-494e-9123-908190255369
 clips:
-  - id: b8e036b8-db2f-4dba-8add-ca86aca94975
-    start: 00:05.44
-    end: 00:08.84
-    fields:
-      transcription: 最近色々な新しい野菜が出ている。
-      meaning: Recently, many new types of vegetables have started to appear on the market.
-    tags:
-      - iij07
   - id: 9aa4ae09-7d98-4d0c-9ea3-4665d4c8db93
-    start: 00:09.24
+    start: 00:05.44
     end: 00:21.32
     fields:
-      transcription: 戦後、日本人の食生活が洋風になり、肉食が多くなったので、野菜も肉に合うものが必要になり、新しい野菜が次々に開発されているそうである。
-      meaning: After World War II, when Japanese eating habits turned toward the West, a meat diet became popular, and a new need for vegetables to compliment it arose—leading to a hasty development of new types of vegetables.
-    tags:
-      - iij07
-  - id: 61063fb0-c3fa-4847-beb7-628fe5f9fc92
-    start: 00:21.9
-    end: 00:29.32
-    fields:
-      transcription: 例えば、サニーレタスと言う野菜は、十数年前に、肉料理に合うものとして開発された。
-      meaning: For example, over ten years ago, a vegetable called "sunny lettuce" was developed as something to go with meat dishes.
+      transcription: |-
+        最近色々な新しい野菜が出ている。
+        戦後、日本人の食生活が洋風になり、肉食が多くなったので、野菜も肉に合うものが必要になり、新しい野菜が次々に開発されているそうである。
+      meaning: |-
+        Recently, many new types of vegetables have started to appear on the market.
+        After World War II, when Japanese eating habits turned toward the West, a meat diet became popular, and a new need for vegetables to compliment it arose—leading to a hasty development of new types of vegetables.
     tags:
       - iij07
   - id: 2eec0fc8-6104-492f-b538-1e9ad6a9df64
-    start: 00:30.0
+    start: 00:21.9
     end: 00:36.02
     fields:
-      transcription: カブと掛け合わせた新しい白菜は、柔らかくて、生で食べることができる。
-      meaning: A new kind of chinese cabbage crossed with turnips is so soft that it can be eaten raw.
+      transcription: |-
+        例えば、サニーレタスと言う野菜は、十数年前に、肉料理に合うものとして開発された。
+        カブと掛け合わせた新しい白菜は、柔らかくて、生で食べることができる。
+      meaning: |-
+        For example, over ten years ago, a vegetable called "sunny lettuce" was developed as something to go with meat dishes.
+        A new kind of chinese cabbage crossed with turnips is so soft that it can be eaten raw.
     tags:
       - iij07
   - id: 29c5a872-6b21-40fe-bd40-05687136c015
@@ -2087,7 +1830,7 @@ clips:
       - iij07
   - id: 5de6eace-8a49-4316-9861-5cb00eaa4ac2
     start: 00:45.18
-    end: 00:56.72
+    end: 00:56.74
     fields:
       transcription: 新しい野菜の開発には、野菜を作る農家の人たちと、それを買って市場に出す人たちとの協力が必要となるが、その協力は容易ではない。
       meaning: When developing new vegetables, the farmers growing the vegetables and the buyers who put them on the market will need to cooperate. This cooperation isn't easy.
@@ -2101,20 +1844,15 @@ clips:
       meaning: “A nice taste isn’t enough,” say the vegetable marketers. “The appearance must be pleasing, too.”
     tags:
       - iij07
-  - id: a0eb6370-1675-4ca6-ad65-56bb4a48e045
-    start: 01:03.8
-    end: 01:13.46
-    fields:
-      transcription: 同じ大きさの袋に入れるために、例えばナバナは長さが二十センチ、それより長いものや短いものは商品にならない。
-      meaning: To fit bags of the same saze, nabanas, for example, must be 20 centimeters in length. Those that are longer or shorter won't get to be merchandise.
-    tags:
-      - iij07
   - id: 6ace1bad-462e-46aa-9724-f24e10868548
-    start: 01:14.1
+    start: 01:03.8
     end: 01:22.08
     fields:
-      transcription: 農家の人たちは、市場に出すことが出来なければ収入にならないので、あきらめて長さの合わないものを捨てる。
+      transcription: |-
+        同じ大きさの袋に入れるために、例えばナバナは長さが二十センチ、それより長いものや短いものは商品にならない。
+        農家の人たちは、市場に出すことが出来なければ収入にならないので、あきらめて長さの合わないものを捨てる。
       meaning: |-
+        To fit bags of the same saze, nabanas, for example, must be 20 centimeters in length. Those that are longer or shorter won't get to be merchandise.
         Those that are longer or shorter don’t qualify as merchandise.
 
         If farmers can’t put their produce on the market, they can’t make a living. For this reason, farmers resignedly throw away vegetables of the wrong size.
@@ -2130,23 +1868,19 @@ clips:
       - iij07
   - id: 3e7214a5-231b-4fd8-85a6-9e89580cf741
     start: 01:30.26
-    end: 01:38.92
+    end: 01:44.82
     fields:
-      transcription: 農家の人たちは、先祖代々の土地で作った野菜に対して、生き物に対するような愛情を持っているに違いない。
-      meaning: Farmers undoubtedly feel a sense of fondness—a fondness for living things—toward the vegetables they grow on land inherited from their ancestors.
+      transcription: |-
+        農家の人たちは、先祖代々の土地で作った野菜に対して、生き物に対するような愛情を持っているに違いない。
+        しかし、現代の農作物は、工業品であり商品なのである。
+      meaning: |-
+        Farmers undoubtedly feel a sense of fondness—a fondness for living things—toward the vegetables they grow on land inherited from their ancestors.
+        Still, the agricultural produce of today is a product of industry, and a type of merchandise.
       notes: |-
         sénzo
         dáidai
         aijou
-    tags:
-      - iij07
-  - id: 2198528a-02e8-4a94-81e6-9ea879f87377
-    start: 01:39.06
-    end: 01:44.82
-    fields:
-      transcription: しかし、現代の農作物は、工業品であり商品なのである。
-      meaning: Still, the agricultural produce of today is a product of industry, and a type of merchandise.
-      notes: nousákubutsu
+        nousákubutsu
     tags:
       - iij07
   - id: 3ad03a03-7d4a-4fbe-8384-c92eeaace3e6
@@ -2270,9 +2004,9 @@ clips:
     fields:
       transcription: |-
         ただいま。
-        あ、おじさん、お帰りなさい。
+        あ、おじいさん、お帰りなさい。
         ああ、疲れた。
-        あら、そのな花 、どうしたの。
+        あら、そのナバナ 、どうしたの。
       meaning: |-
         
         A: I'm home!
@@ -2358,82 +2092,59 @@ subtitles:
       endCue: 5708.8
     name: 01 - Lesson 8 - Main Text.srt
 clips:
-  - id: f3f3f18f-1dd4-4403-9c89-78458b68ddc1
-    start: 00:05.32
-    end: 00:09.06
-    fields:
-      transcription: 子供の登校拒否がよく問題になる。
-      meaning: The topic of children with a phobia toward school is often discussed.
-    tags:
-      - iij08
   - id: d3ba3486-8984-4ab3-8987-020940e84e90
-    start: 00:09.54
+    start: 00:05.78
     end: 00:21.48
     fields:
       transcription: |-
+        子供の登校拒否がよく問題になる。
         普通の子供でも学校に行きたくない日はある。
         しかし登校拒否の場合は、ただ感情的に行きたくないのではなくて、病気に近い状態なのである。
-      meaning: Although even normal children have days when they don't want to go to school, children with schoolphobia don't merely emotionally reject going to school—they suffer from symptoms similar to an illness.
+      meaning: |-
+        The topic of children with a phobia toward school is often discussed.
+        Although even normal children have days when they don't want to go to school, children with schoolphobia don't merely emotionally reject going to school—they suffer from symptoms similar to an illness.
     tags:
       - iij08
   - id: 417d07c9-10b5-44ad-8496-bfb376810648
     start: 00:22.04
-    end: 00:26.88
-    fields:
-      transcription: カウンセリングが必要であるし、時には入院することもある。
-      meaning: Children like these need counseling. Sometimes, they must be hospitalized.
-    tags:
-      - iij08
-  - id: d6fb98b8-05c8-4f75-ac5b-2f3648582da4
-    start: 00:27.58
     end: 00:34.28
     fields:
-      transcription: このようの子供のカウンセリングをしてきたある心理学者、新聞に次のようなことを書いていた。
-      meaning: "A psychologist who has counseled these children wrote the following remarks in a newspaper:"
-    tags:
-      - iij08
-  - id: f3500de2-3c28-4826-a66a-b59da5f620c4
-    start: 00:34.84
-    end: 00:38.88
-    fields:
-      transcription: 登校拒否は低血糖症と関係が深い。
-      meaning: Refusal to go to school is closely linked with low levels of blood sugar.
-      notes: teikettoushou
-    tags:
-      - iij08
-  - id: 2b024afd-303b-44f4-9298-6abd05142f1c
-    start: 00:39.2
-    end: 00:45.46
-    fields:
-      transcription: 低血糖症の人は、疲れやすく、気力がなく、集中することができない。
-      meaning: People with this disorder tire easily; lack energy; have difficulty concentrating.
+      transcription: |-
+        カウンセリングが必要であるし、時には入院することもある。
+        このようの子供のカウンセリングをしてきたある心理学者、新聞に次のようなことを書いていた。
+      meaning: |-
+        Children like these need counseling. Sometimes, they must be hospitalized.
+        A psychologist who has counseled these children wrote the following remarks in a newspaper:
     tags:
       - iij08
   - id: 7c7efa55-3ef7-4826-a191-3e8031b4f155
-    start: 00:45.56
+    start: 00:34.84
     end: 00:50.04
     fields:
-      transcription: 頭痛がする、夜よく眠れない。朝起きられない。
-      meaning: They have headaches, often experience Sleeplessness at night, and can't get out of bed in the morning.
+      transcription: |-
+        登校拒否は低血糖症と関係が深い。
+        低血糖症の人は、疲れやすく、気力がなく、集中することができない。
+        頭痛がする、夜よく眠れない。朝起きられない。
+      meaning: |-
+        Refusal to go to school is closely linked with low levels of blood sugar.
+        People with this disorder tire easily; lack energy; have difficulty concentrating.
+        They have headaches, often experience Sleeplessness at night, and can't get out of bed in the morning.
       notes: |-
+        teikettoushou
         zutsuu
         nemuru
     tags:
       - iij08
-  - id: 19782f58-e481-4c94-b15d-bc24261aad06
-    start: 00:50.26
-    end: 00:54.96
-    fields:
-      transcription: 感情を抑える力がないので、すぐごわがったり怒ったりする。
-      meaning: Because they can't suppress emotions, they are quick to experience fear or anger.
-    tags:
-      - iij08
   - id: 303e3a22-8340-461d-843a-2687033bb031
-    start: 00:55.1
+    start: 00:50.26
     end: 00:57.7
     fields:
-      transcription: 人に対して暴力を用いる。
-      meaning: They are often violent in their relations with others.
+      transcription: |-
+        感情を抑える力がないので、すぐごわがったり怒ったりする。
+        人に対して暴力を用いる。
+      meaning: |-
+        Because they can't suppress emotions, they are quick to experience fear or anger.
+        They are often violent in their relations with others.
       notes: bóuryoku-o mochiíru
     tags:
       - iij08
@@ -2445,41 +2156,32 @@ clips:
       meaning: These symptoms have the same appearance as schoolphobic children.
     tags:
       - iij08
-  - id: cf8eb112-980e-434f-93fc-b9a3afcfb4b0
-    start: 01:03.3
-    end: 01:09.58
-    fields:
-      transcription: 実際に検査してみても、登校拒否はほとんどが低血糖症だった。
-      meaning: Medical examinations show that most of these children are indeed victims of low blood sugar.
-    tags:
-      - iij08
   - id: bed8838b-b64b-447e-895e-bf66d5e662c1
-    start: 01:09.92
+    start: 01:03.3
     end: 01:17.88
     fields:
-      transcription: 登校拒否の問題は、このような医学的な立場から考えることも必要であろう、と言う意見であった。
-      meaning: In the article, the psychologist insisted that the problem Of children with a phobia toward school should be looked at from the standpoint of medicine.
+      transcription: |-
+        実際に検査してみても、登校拒否はほとんどが低血糖症だった。
+        登校拒否の問題は、このような医学的な立場から考えることも必要であろう、と言う意見であった。
+      meaning: |-
+        Medical examinations show that most of these children are indeed victims of low blood sugar.
+        In the article, the psychologist insisted that the problem of children with a phobia toward school should be looked at from the standpoint of medicine.
       notes: |-
         táchiba
         íken
     tags:
       - iij08
-  - id: e5a3c23d-126f-4625-b39f-ac55a5b2809b
+  - id: d8cc348a-2825-49c1-b326-a9d10984b62d
     start: 01:18.74
-    end: 01:27.42
+    end: 01:35.34
     fields:
       transcription: |-
         疲れた時甘いものを食べると元気になる。
         お茶の時間に親しい人と一緒に甘い物を食べるのは楽しい。
-      meaning: Eating something sweet restores energy when one is fatigued—and it's pleasant to enjoy sweets while drinking tea with a close companion.
-    tags:
-      - iij08
-  - id: d8cc348a-2825-49c1-b326-a9d10984b62d
-    start: 01:27.58
-    end: 01:35.34
-    fields:
-      transcription: ところがその甘い物を食事を十分にとらないで食べ過ぎると、低血糖症になりやすいそうである。
-      meaning: But eating sweets without a sufficient meal beforehand can lead to low blood sugar.
+        ところがその甘い物を、食事を十分にとらないで食べ過ぎると、低血糖症になりやすいそうである。
+      meaning: |-
+        Eating something sweet restores energy when one is fatigued—and it's pleasant to enjoy sweets while drinking tea with a close companion.
+        But eating sweets without a sufficient meal beforehand can lead to low blood sugar.
     tags:
       - iij08
   - id: 854c5bcb-3d77-4912-836c-af5591e5e284
@@ -2704,20 +2406,16 @@ subtitles:
       endCue: 5619.2
     name: 07 - Lesson 9 - Main Text.srt
 clips:
-  - id: 01881d9b-a273-4e4e-bd85-e098affad332
-    start: 00:06.54
-    end: 00:14.26
-    fields:
-      transcription: 電話をすれば家まで荷物を取りに来て、1日か2日のうちに 全国どこへでも届ける。
-      meaning: With a single phone call, it’s now possible to have a parcel picked up at one's home and delivered a day or two later to a location anywhere in Japan.
-    tags:
-      - iij09
   - id: ca437f9c-6a7d-48af-917b-bfd13f943c5f
-    start: 00:14.52
+    start: 00:06.54
     end: 00:17.72
     fields:
-      transcription: こういう宅配便がこの頃増えている。
-      meaning: Home delivery agencies offering services like these are on the rise.
+      transcription: |-
+        電話をすれば家まで荷物を取りに来て、1日か2日のうちに 全国どこへでも届ける。
+        こういう宅配便がこの頃増えている。
+      meaning: |-
+        With a single phone call, it’s now possible to have a parcel picked up at one's home and delivered a day or two later to a location anywhere in Japan.
+        Home delivery agencies offering services like these are on the rise.
     tags:
       - iij09
   - id: 9b35684f-290d-400e-a3ed-c8f15c72be51
@@ -2730,74 +2428,52 @@ clips:
       - iij09
   - id: 802ea9c3-58b5-4dd3-a15a-c723ab88bb1a
     start: 00:24.392
-    end: 00:30.32
-    fields:
-      transcription: ある大きな宅配便の会社の例を数日前テレビで紹介していた。
-      meaning: An example of one of the larger home delivery firms was presented on television a few days back.
-    tags:
-      - iij09
-  - id: bd448257-2a0d-4202-baaf-1fe6f1f661cf
-    start: 00:30.612
     end: 00:36.952
     fields:
-      transcription: この会社では最近、コンピューターで社員のトラックの動きを記録することにした。
-      meaning: The firm recently started using a computer to record the movements of its delivery vans.
-    tags:
-      - iij09
-  - id: 8bfdee66-08a5-46d3-8ec8-33fe39954dd7
-    start: 00:37.332
-    end: 00:43.432
-    fields:
-      transcription: 事務所のコンピューターに、何時何分にどこを通ったか、全部記録される。
-      meaning: Its office's computer records the position of each van down to the minute.
+      transcription: |-
+        ある大きな宅配便の会社の例を数日前テレビで紹介していた。
+        この会社では最近、コンピューターで社員のトラックの動きを記録することにした。
+      meaning: |-
+        An example of one of the larger home delivery firms was presented on television a few days back.
+        The firm recently started using a computer to record the movements of its delivery vans.
     tags:
       - iij09
   - id: 5de4f3cf-c7ee-4210-afe6-dbcb87fba5b3
-    start: 00:43.692
+    start: 00:37.332
     end: 00:47.432
     fields:
-      transcription: 運転手にとっては大変なプレッシャーであろう。
-      meaning: One can imagine the intense pressure the drivers must be under.
-    tags:
-      - iij09
-  - id: 09a62149-b291-4208-8b78-5ab9e3535268
-    start: 00:47.872
-    end: 00:54.0
-    fields:
-      transcription: しかも運転席のそばの機械が事務所からの指令を次々に打ち出す。
-      meaning: To make matters worse, a machine beside the driver's seat makes a continuous print-out of new instructions from the company.
+      transcription: |-
+        事務所のコンピューターに、何時何分にどこを通ったか、全部記録される。
+        運転手にとっては大変なプレッシャーであろう。
+      meaning: |-
+        Its office's computer records the position of each van down to the minute.
+        One can imagine the intense pressure the drivers must be under.
     tags:
       - iij09
   - id: 6f36fa3f-edfc-4199-8d97-36bfa26c5b24
-    start: 00:54.312
+    start: 00:47.872
     end: 00:58.872
     fields:
-      transcription: 車を停めて荷物を届けに行っている間にも指令が来る。
-      meaning: The instructions pour out of the machine even when the driver has stopped the van to deliver a parcel.
-    tags:
-      - iij09
-  - id: 52bb5ce6-dc80-4916-917e-f2871d01ecb4
-    start: 00:59.252
-    end: 01:11.492
-    fields:
-      transcription: 以前は運転手が車にいない時は指令を送ることができないので、注文を断っていたが、今度の方法で注文を受ける数が多いに増えたそうである。
-      meaning: Home delivery companies were formerly unable to convey instructions to their drivers when they were out of the van, forcing them to turn down orders from clients. This new technique has dra- matically increased the numbers of orders that the companies can handle.
-    tags:
-      - iij09
-  - id: 52ad117b-8c20-424b-ae6c-eda8492d2ca5
-    start: 01:12.212
-    end: 01:17.192
-    fields:
-      transcription: しかし、働く人の仕事も増え、疲れもひどくなる。
-      meaning: Nonetheless. the workloads of their employees have increased, and on-the-job fatigue is severe.
+      transcription: |-
+        しかも運転席のそばの機械が事務所からの指令を次々に打ち出す。
+        車を停めて荷物を届けに行っている間にも指令が来る。
+      meaning: |-
+        To make matters worse, a machine beside the driver's seat makes a continuous print-out of new instructions from the company.
+        The instructions pour out of the machine even when the driver has stopped the van to deliver a parcel.
     tags:
       - iij09
   - id: 25738df7-d07a-434e-b6d5-00a468f2542f
-    start: 01:17.432
+    start: 00:59.252
     end: 01:20.312
     fields:
-      transcription: 途中でやめる社員も多いそうだ。
-      meaning: Many employees have quit their jobs.
+      transcription: |-
+        以前は運転手が車にいない時は指令を送ることができないので、注文を断っていたが、今度の方法で注文を受ける数が多いに増えたそうである。
+        しかし、働く人の仕事も増え、疲れもひどくなる。
+        途中でやめる社員も多いそうだ。
+      meaning: |-
+        Home delivery companies were formerly unable to convey instructions to their drivers when they were out of the van, forcing them to turn down orders from clients. This new technique has dramatically increased the numbers of orders that the companies can handle.
+        Nonetheless. the workloads of their employees have increased, and on-the-job fatigue is severe.
+        Many employees have quit their jobs.
     tags:
       - iij09
   - id: ae0bd1f1-85f5-44ae-b04b-878e7586506d
@@ -2810,18 +2486,14 @@ clips:
       - iij09
   - id: 5b108bf5-fa27-417c-aad3-803bd788583b
     start: 01:31.832
-    end: 01:42.08
-    fields:
-      transcription: これだけコンピューターが進歩したのだから、トラックも無人にしてコンピューターで動かし、荷物はロボットが運ぶようにしたらどうだろう。
-      meaning: Since computers have improved so tremendously, why not put them in charge of a driverless van—and have a robot deliver the packages?
-    tags:
-      - iij09
-  - id: 3bddc73e-c7d5-44bb-a962-bda2e4767814
-    start: 01:42.272
     end: 01:52.812
     fields:
-      transcription: ピンポーンと鳴ったので玄関へ出てみると、黒猫のロボットが立っていて、お菓子の箱を差し出すなんて、想像すると楽しいではないか。
-      meaning: It's fun to imagine answering the doorbell and discovering a box of sweets delivered by a robotized black cat.
+      transcription: |-
+        これだけコンピューターが進歩したのだから、トラックも無人にしてコンピューターで動かし、荷物はロボットが運ぶようにしたらどうだろう。
+        ピンポーンと鳴ったので玄関へ出てみると、黒猫のロボットが立っていて、お菓子の箱を差し出すなんて、想像すると楽しいではないか。
+      meaning: |-
+        Since computers have improved so tremendously, why not put them in charge of a driverless van—and have a robot deliver the packages?
+        It's fun to imagine answering the doorbell and discovering a box of sweets delivered by a robotized black cat.
     tags:
       - iij09
 flashcardFieldsToSubtitlesTracks:
@@ -2849,6 +2521,12 @@ clips:
         便利なもんですね。
         でも、届ける人は大変でしょうね。
         そうですね。
+      meaning: |-
+        A: Home delivery is really quick.
+        B: Yes. Apparently they can deliver a parcel to anywhere in the country in a day or two.
+        A: That’s really convenient.
+        B: Still, the deliverer really has to struggle.
+        A: Yeah.
     tags:
       &a1
       - iij09
@@ -2861,6 +2539,13 @@ clips:
         ええ。注文をたくさん受けるために色々なことをしているそうです。
         そうですか。
         例えば、運転手が車を降りて荷物を届けに行っている間は、事務所から指令を送ることができませんね。
+        ええ。
+      meaning: |-
+        A: I guess companies have to worry about their competitors.
+        B: Right. They’ve even come up with some new techniques to handle large volumes of orders.
+        A: Oh?
+        B: For instance, the office can’t send new instructions to deliverers when they've left their van to make a drop-off, right?
+        A: Uh-huh...
     tags: *a1
   - id: 2294b2a4-f434-4819-b697-374ff9063336
     start: 00:39.96
@@ -2871,26 +2556,32 @@ clips:
         それで、運転手がいない間にも、事務所からの指令が行くようにしたんだそうです。
         そういう機械をつけたんですね。
         ええ。
+      meaning: |-
+        B: Which means that clients will take their orders to a different company.
+        A: Right.
+        B: Well, some companies have found a way to send orders to their drivers even when they’re outside of their vans.
+        A: By installing a special machine, I take it?
+        B: Exactly.
     tags:
       - iij09
-  - id: 0bc5f36d-e6a1-4a81-8279-18a9843d9045
+  - id: 80dda866-7b20-4373-af15-d6ba02bc6a47
     start: 00:52.88
-    end: 01:04.58
+    end: 01:10.46
     fields:
       transcription: |-
         それで大いに注文が増えたそうです。
         でも、働く人は大変でしょう。仕事が増えることになるから。
         ええ、そうですね。会社によっては半分以上の人が途中でやめるそうです。
-    tags:
-      - iij09
-  - id: 80dda866-7b20-4373-af15-d6ba02bc6a47
-    start: 01:05.0
-    end: 01:10.46
-    fields:
-      transcription: |-
         厳しいですね。
         便利な生活って、厳しい競争の産物なんですね。
-    tags: *a1
+      meaning: |-
+        B: Orders have dramatically increased.
+        A: But isn’t that tough on the deliverers? Their workload must have also increased.
+        B: Yes, that does seem to be the case. Over half the staff at some companies have already quit.
+        A: Gee. That’s really severe.
+        B: Well, aren’t everyday conveniences often the byproduct of intense competition?   
+    tags:
+      - iij09
 flashcardFieldsToSubtitlesTracks:
   transcription: f9953fd7-d453-471e-8d63-76c18f2bce9f
 ---
@@ -2916,6 +2607,12 @@ clips:
         トラックを運転して、荷物を運ぶでしょう。
         その途中に、いくつもチェックポイントがあって、そこを何時何分に通ったか、事務所の方にはわかるんですって、そういう機械があって。
         ふうん。
+      meaning: |-
+        Husband: Why?
+        Wife: Well, they have to drive a van, and haul packages, right?
+        Husband: Uh-huh.
+        Wife: Apparently they pass a couple of checkpoints on the way. The company uses these to verify their times. With a machine of some sort.
+        Husband: Oh.
     tags:
       &a1
       - iij09
@@ -2932,6 +2629,16 @@ clips:
         上の人に？
         それだけじゃない。
         誰に？
+      meaning: |-
+        Wife: It’s almost as if the driver is controlled by a machine.
+        Husband: I suppose so.
+        Wife: Well, don’t you think that’s really shocking?
+        Husband: Sure. But my life’s not all that different, when you think about it.
+        Wife: In what way?
+        Husband: I’m always under someone’s control.
+        Wife: Such as your higher-ups, for example?
+        Husband: Not just them.
+        Wife: Well, then who?
     tags:
       - iij09
   - id: ee55dada-6f5e-4cbb-ac2c-54feaed8c93c
@@ -2941,6 +2648,9 @@ clips:
       transcription: |-
         「お小遣い、この間1万円あげたでしょ。もうなくなったなんて、変だわ。何に使ったの」
         それは月給が少ないからよ。月給が多ければ、そんなこと言わないわ。
+      meaning: |-
+        Husband [mimicking his wife’s voice]: “I just gave you ¥10,000 in spending money. How could it vanish so quickly? What did you spend it on?”
+        Wife: That’s because your salary is too low. I wouldn’t speak to you in that way if you were given a better salary.
     tags:
       - iij09
   - id: 0a443604-e9db-4a99-8281-4cdd59f9bf72
@@ -2951,6 +2661,10 @@ clips:
         「今日は残業がないはずよ。どうしてこんなに遅いの」
         それは晩御飯が無駄になるからよ。
         分かった。
+      meaning: |-
+        Husband [mimicking his wifeis voice again]: “You weren’t supposed to have any overtime work today. What kept you out so late?”
+        Wife: I just don’t want to waste your supper, that’s all.
+        Husband: Okay, I get it.
     tags: *a1
   - id: 4b8d0d0f-640b-45d9-984d-6e162e2a8939
     start: 01:01.14
@@ -2962,6 +2676,12 @@ clips:
         お小遣いは1000円ずつ渡す。
         おいおい。
         晩御飯は帰るまで作らないことにするわ。
+      meaning: |-
+        Wife: I won’t say those things to you ever again.
+        Husband: Thank god.
+        Wife: Henceforth, I’ll give you ¥1,000 at a time in spending money...
+        Husband: Oh, no!
+        Wife: And I won’t start cooking dinner till you’ve walked through the door.   
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: 355f6bad-4a3c-49e7-a626-2ecc93463ccf
@@ -2988,64 +2708,51 @@ clips:
       meaning: The use of credit cards has increased. Credit cards are now used in place of cash when shopping.
     tags:
       - iij10
-  - id: 860e37de-5948-444f-a308-8146988db83a
+  - id: c6e0146a-60da-4e9b-9f9b-679cf6683214
     start: 00:12.72
-    end: 00:18.86
+    end: 00:25.8
     fields:
       transcription: |-
         銀行に預金があれば、手元に現金が全然なくても
         たくさんの買い物ができる。
-      meaning: As long as one has an account at the bank, many purchases can be made—even with no cash on hand.
-    tags:
-      - iij10
-  - id: c6e0146a-60da-4e9b-9f9b-679cf6683214
-    start: 00:19.28
-    end: 00:25.8
-    fields:
-      transcription: 細かい金が必要な時は、銀行の機会にカードを差し込めば、現金が出てくる。
-      meaning: When pocket money is necessary, cash can be obtained by placing a card in the bank’s automatic teller.
+        細かい金が必要な時は、銀行の機会にカードを差し込めば、現金が出てくる。
+      meaning: |-
+        As long as one has an account at the bank, many purchases can be made—even with no cash on hand.
+        When pocket money is necessary, cash can be obtained by placing a card in the bank’s automatic teller.
     tags:
       - iij10
   - id: f91745dd-f7a7-4dde-8699-bff69b78ead7
     start: 00:26.82
-    end: 00:39.08
+    end: 00:41.653
     fields:
       transcription: |-
         ある会社では、身分証明書が支払いカードを兼ねていて、社員食堂で食事をしてカードで払うと、
-        支払いの額が自動的に給料から引かれるそうである。
-      meaning: At one company. employee ID cards also function as charge cards; by presenting these cards at the end of a meal at the dining hall, payments are automatically deducted from employees' salaries.
+        支払いの額が自動的に給料から引かれるそうである。実に便利な時代になった。
+      meaning: At one company. employee ID cards also function as charge cards; by presenting these cards at the end of a meal at the dining hall, payments are automatically deducted from employees' salaries. Our is truly an age of convenience.
     tags:
       - iij10
   - id: 39a1201a-99a8-43a4-ac0f-ac20d09a7c4c
-    start: 00:39.48
-    end: 00:49.28
-    fields:
-      transcription: 実に便利な時代になった。現金を持っていると落とすこともあるし、泥棒もいるのだから、カードの方が安全である。
-      meaning: Ours is truly an age of convenience. Because cash can be dropped on the ground or stolen by thieves, credit cards have become the safer alternative.
-    tags:
-      - iij10
-  - id: b778d381-8926-4656-a8c4-f1f3c34dd426
-    start: 00:49.58
+    start: 00:42.3
     end: 00:54.86
     fields:
-      transcription: それに札を何枚も持つより、カードの方が小さくて軽い。
-      meaning: What's more, compared to carrying around a stack of bills. cards are small and light.
-    tags:
-      - iij10
-  - id: 6178fc58-abcd-40c5-a25a-b8b84cdecbe0
-    start: 00:55.6
-    end: 01:00.14
-    fields:
-      transcription: そんなに便利なカードであるが、問題がないわけではない。
-      meaning: Despite these conveniences, credit cards are not without their problems.
+      transcription: |-
+        現金を持っていると落とすこともあるし、泥棒もいるのだから、カードの方が安全である。
+        それに札を何枚も持つより、カードの方が小さくて軽い。
+      meaning: |-
+        Because cash can be dropped on the ground or stolen by thieves, credit cards have become the safer alternative.
+        What's more, compared to carrying around a stack of bills. cards are small and light.
     tags:
       - iij10
   - id: 5a1f8331-5e18-4da4-a702-bde730f8a2b9
-    start: 01:00.64
+    start: 00:55.6
     end: 01:10.58
     fields:
-      transcription: 数日前の新聞に、カードで買い物をするのは無駄遣いの原因になるから、自分は絶対にカードは使わないという投書が出ていた。
-      meaning: In the newspaper several days ago, there was a letter from a reader who vowed never to use credit cards because they lead to wasteful spending.
+      transcription: |-
+        そんなに便利なカードであるが、問題がないわけではない。
+        数日前の新聞に、カードで買い物をするのは無駄遣いの原因になるから、自分は絶対にカードは使わないという投書が出ていた。
+      meaning: |-
+        Despite these conveniences, credit cards are not without their problems.
+        In the newspaper several days ago, there was a letter from a reader who vowed never to use credit cards because they lead to wasteful spending.
     tags:
       - iij10
   - id: 2cdade9e-430a-4aff-9c8a-212e711747a3
@@ -3056,28 +2763,18 @@ clips:
       meaning: Watching bills and coins appear from one's wallet leaves a strong feeling of having spent money. encouraging economizing. This feeling isn't experienced with credit cards. That’s why credit cards make it easy to spend too much money.
     tags:
       - iij10
-  - id: 115f29cb-5a0d-4083-acf0-e545bda166eb
-    start: 01:28.38
-    end: 01:37.0
-    fields:
-      transcription: 現金でもカードでも、必要なものは買い、必要でないものは買わないのが、理性のある人間の行動である。
-      meaning: Whether they are using cash or credit cards, people who behave rationally will purchase what they need—and avoid what they don't.
-    tags:
-      - iij10
-  - id: d67626c2-69d8-4dbb-be77-54a8fc622458
-    start: 01:37.38
-    end: 01:42.64
-    fields:
-      transcription: しかし、いつも理性に従って行動することは難しいことである。
-      meaning: Still, it's often difficult for people to always behave according to the laws of rationality.
-    tags:
-      - iij10
   - id: 1b992de2-c478-4db9-98c3-affeefc7cc95
-    start: 01:43.04
+    start: 01:28.38
     end: 01:48.24
     fields:
-      transcription: カード 時代は人間に強さを要求する時代だといっても良いであろう。
-      meaning: The age of the card is an age in which. above everything else, strength of character is in greatest demand.
+      transcription: |-
+        現金でもカードでも、必要なものは買い、必要でないものは買わないのが、理性のある人間の行動である。
+        しかし、いつも理性に従って行動することは難しいことである。
+        カード 時代は人間に強さを要求する時代だといっても良いであろう。
+      meaning: |-
+        Whether they are using cash or credit cards, people who behave rationally will purchase what they need—and avoid what they don't.
+        Still, it's often difficult for people to always behave according to the laws of rationality.
+        The age of the card is an age in which. above everything else, strength of character is in greatest demand.
     tags:
       - iij10
 flashcardFieldsToSubtitlesTracks:
@@ -3234,8 +2931,7 @@ clips:
     fields:
       transcription: |-
         あの皿、高そうだよ。
-        大丈夫よ。
-        お金まだ残っているわ。
+        大丈夫よ。お金まだ残っているわ。
         預金のことかい？
         ええ。今朝銀行に行って確かめたの。
         それはえらい。
@@ -3253,7 +2949,7 @@ clips:
     fields:
       transcription: |-
         あと3000円ぐらい残るから、食堂で何か食べましょう。じゃ、ここ、払うわね。
-        ちょっとちょっと、それ、僕 のカードじゃないか。
+        ちょっとちょっと、それ、僕のカードじゃないか。
         そうよ。私のカードはもう残りがないもの。
       meaning: |-
         Wife: I've got about ¥3,000 left. How about something to eat at a restaurant? I'll pay.
@@ -3275,20 +2971,16 @@ subtitles:
       endCue: 6297.6
     name: 19 - Lesson 11 - Main Text.srt
 clips:
-  - id: 9a48e2f2-59e3-4f4d-8ebf-ce7a3d1fe6a3
-    start: 00:05.92
-    end: 00:09.74
-    fields:
-      transcription: ゴミの処理は多くの国で問題になっている
-      meaning: The disposal of garbage has become a problem in many countries.
-    tags:
-      - iij11
   - id: 0d1ca109-f12f-4e6b-8528-ca4fec937209
-    start: 00:10.38
+    start: 00:05.92
     end: 00:14.76
     fields:
-      transcription: 他の国にゴミを運んで処理を頼む場合もあるそうだ
-      meaning: Some places are even transporting their trash to other countries for disposal.
+      transcription: |-
+        ゴミの処理は多くの国で問題になっている
+        他の国にゴミを運んで処理を頼む場合もあるそうだ
+      meaning: |-
+        The disposal of garbage has become a problem in many countries.
+        Some places are even transporting their trash to other countries for disposal.
     tags:
       - iij11
   - id: 854262cb-0e87-4085-8848-87eadce55e65
@@ -3304,7 +2996,7 @@ clips:
     end: 00:40.08
     fields:
       transcription: 特にビニールやプラスチックのゴミは処理が難しく、地中に埋めることが多いが、埋める場所も限界に近づいている。
-      meaning: Vinyl and plastics are particularly hard to get rid of. Though both of these substances are usually buried in the ground, disposal sites are approaching a limit.
+      meaning: Vinyl and plastics are particularly hard to get rid of. Though both of these substances are usually buried in the ground, disposal sites are　approaching a limit.
     tags:
       - iij11
   - id: 4e7038cf-a74d-45c3-8eff-a1c93f6e11fd
@@ -3315,36 +3007,20 @@ clips:
       meaning: “With a little effort and attentiveness on the part of individuals," claimed an article in a recent issue of The Tokyo Information, “the garbage produced by households can be decreased.”
     tags:
       - iij11
-  - id: 8f8d830a-ae9a-4d06-867c-03383f8a1857
-    start: 00:53.92
-    end: 01:00.28
-    fields:
-      transcription: また、今朝の新聞には、北海道のある町の場合についての投書が出ていた。
-      meaning: This morning’s paper ran a letter on garbage disposal in a city in Hokkaido. 
-    tags:
-      - iij11
-  - id: 3aab282f-ef0e-4fdc-a72c-b5d59f73e4c5
-    start: 01:01.16
-    end: 01:08.46
-    fields:
-      transcription: ゴミを出す時は乾電池、生ゴミ、固形燃料など六種類に分けて出す。
-      meaning: "The city segregates its garbage into six types—batteries; food: solid fuels—before disposal."
-    tags:
-      - iij11
-  - id: 23195efc-3a71-477a-b2ba-2b9e4888ec0a
-    start: 01:08.86
-    end: 01:13.08
-    fields:
-      transcription: 乾電池は市中の数か所にあるポストに捨てる。
-      meaning: Batteries are dropped into receptacles in several places in the city.
-    tags:
-      - iij11
   - id: 1594b8d3-e377-4f87-9280-7677301d2088
-    start: 01:13.5
+    start: 00:53.92
     end: 01:19.54
     fields:
-      transcription: 生ゴミは処理して、老人のための施設で燃料として使うそうである。
-      meaning: Food is reconverted into fuel for institutions for the elderly.
+      transcription: |-
+        また、今朝の新聞には、北海道のある町の場合についての投書が出ていた。
+        ゴミを出す時は乾電池、生ゴミ、固形燃料など六種類に分けて出す。
+        乾電池は市中の数か所にあるポストに捨てる。
+        生ゴミは処理して、老人のための施設で燃料として使うそうである。
+      meaning: |-
+        This morning’s paper ran a letter on garbage disposal in a city in Hokkaido. 
+        The city segregates its garbage into six types—batteries; food: solid fuels—before disposal.
+        Batteries are dropped into receptacles in several places in the city.
+        Food is reconverted into fuel for institutions for the elderly.
     tags:
       - iij11
   - id: 62c2c392-069b-40bb-a899-5ec9e8e57c3d
@@ -3363,44 +3039,30 @@ clips:
       meaning: Thinking of ways like these to dispose of waste is important. Yet it’s also necessary to conserve on the garbage that we already throw away.
     tags:
       - iij11
-  - id: edf2b5cc-6bcd-4bad-91a2-dd6c4da46870
-    start: 01:37.02
-    end: 01:41.28
-    fields:
-      transcription: 買い物をするたびに包み紙を捨てなければならない。
-      meaning: Shopping trips always result in wrapping paper that needs to be disposed.
-    tags:
-      - iij11
-  - id: 6ef3970d-eb82-4e58-9360-0219444b133e
-    start: 01:41.78
-    end: 01:51.86
-    fields:
-      transcription: 贈り物をもらうと綺麗な包み紙の中にまた箱や感があって、結局、中のものと同じくらいのゴミが出る。
-      meaning: Presents are wrapped with elegant paper and contained in a box or can; we end up throwing away trash that's equivalent in volume to the present.
-    tags:
-      - iij11
   - id: b07e6178-a9c4-4f56-9a75-7bdbf323278e
-    start: 01:52.26
+    start: 01:37.02
     end: 01:57.76
     fields:
-      transcription: しかし、綺麗な包み紙がなければ、商品は売れないのが現実だ。
-      meaning: Yet products wouldn't sell were it not for their elegant wrapping paper.
-    tags:
-      - iij11
-  - id: 834963c3-873d-4e14-8823-8ef39c3ee8db
-    start: 01:58.5
-    end: 02:02.14
-    fields:
-      transcription: 「一人ひとりの努力」だけでは不十分である。
-      meaning: “Effort on the part of individuals” isn’t enough.
+      transcription: |-
+        買い物をするたびに包み紙を捨てなければならない。
+        贈り物をもらうと綺麗な包み紙の中にまた箱や感があって、結局、中のものと同じくらいのゴミが出る。
+        しかし、綺麗な包み紙がなければ、商品は売れないのが現実だ。
+      meaning: |-
+        Shopping trips always result in wrapping paper that needs to be disposed.
+        Presents are wrapped with elegant paper and contained in a box or can; we end up throwing away trash that's equivalent in volume to the present.
+        Yet products wouldn't sell were it not for their elegant wrapping paper.
     tags:
       - iij11
   - id: b32f52c9-6a82-4988-8d7a-97ea4d507a0d
-    start: 02:02.74
+    start: 01:58.5
     end: 02:09.6
     fields:
-      transcription: 商品の流通機構そのものを変えなければ、ゴミ問題の解決にはならないであろう。
-      meaning: "If we don’t revise our system of distributing goods. it’s unlikely that a solution will ever be found to the problem of waste disposal. "
+      transcription: |-
+        「一人ひとりの努力」だけでは不十分である。
+        商品の流通機構そのものを変えなければ、ゴミ問題の解決にはならないであろう。
+      meaning: |-
+        “Effort on the part of individuals” isn’t enough.
+        If we don’t revise our system of distributing goods. it’s unlikely that a solution will ever be found to the problem of waste disposal. 
     tags:
       - iij11
 flashcardFieldsToSubtitlesTracks:
@@ -3430,6 +3092,14 @@ clips:
         いつでもいいですか。
         生ゴミや紙なんか、燃えるゴミはいつでもいいです。
         はい。
+      meaning: |-
+        Woman: Err...
+        Superintendent: Huh?
+        Woman: Where is the place for throwing away trash?
+        Superintendent: There’s a trash area in the basement. Just take it there.
+        Woman: Whenever I want?
+        Superintendent: Yes—if it's burnable garbage, like food or paper.
+        Woman: I see.
     tags:
       &a1
       - iij09
@@ -3440,10 +3110,21 @@ clips:
       transcription: |-
         でも必ずバケツに入れて、蓋をしてくださいよ。はい。
         蓋をしないと、猫が中のものを出して食べますから。
-        はい、わかりました。
-        燃えないゴミ、プラスチックやなんかは、水曜日に建物の裏に置いて下さい。水曜日だけですよ。
+        はい、分かりました。
+        燃えないゴミ、プラスチックやなんかは、水曜日に建物の裏に置いてください。水曜日だけですよ。
         はい。
         空き缶とか瓶とかもね。
+        ええ。
+      meaning: |-
+        Superintendent: But be sure to put it in the trash can. And replace the lid.
+        Woman: Okay.
+        Superintendent: If you don’t put the lid back on, cats will take food out of the can and eat it.
+        Woman: Fine. I’ve got it.
+        Superintendent: Plastics and other non-burnable garbage should be placed at the back of the building on
+        Wednesdays. Got it? That’s Wednesdays only!
+        Woman: Right.
+        Superintendent: That includes garbage like empty cans and bottles, too.
+        Woman: Okay.
     tags: *a1
   - id: 1cad609c-99c4-4917-a4cf-2574e4a3cc2e
     start: 00:40.664
@@ -3457,6 +3138,13 @@ clips:
         ゴミは細かく分けて出した方が処理が楽なんですね。
         出す方は面倒ですけど。
         まあね。
+      meaning: |-
+        What about batteries?
+        Superintendent: Batteries?
+        Woman: In the town I used to live in, there were a couple of receptacles for batteries.
+        Superintendent: Well, I doubt if there are any around here.
+        Woman: Garbage that’s been minutely segregated is easier to dispose of. Of course, it’s inconvenient for the people who have to do the segregating.
+        Superintendent: True.
     tags:
       - iij09
   - id: 3a4d445e-66c1-4b9f-9250-177b006ff3e9
@@ -3467,6 +3155,9 @@ clips:
         ものが豊かになって
         ゴミが増えるから 処理が大変なんだそうですね
         そうですか
+      meaning: |-
+        Woman: Consumer goods are more lavish, and trash has increased. Taking care of all that added waste is no easy task, apparently.
+        Superintendent: Oh?
     tags: *a1
   - id: 30c90e31-5654-42b6-899f-3ac18e211ff5
     start: 01:07.569
@@ -3479,6 +3170,12 @@ clips:
         え？
         うちはもらえないから。
         あ、そうですか。じゃ、また。
+      meaning: |-
+        Woman: Don't you think that the tremendous amount of boxes and paper that comes with mid-year and year-end gifts is a real nuisance?
+        Superintendent: Nope. Not at all.
+        Woman: Huh?
+        Superintendent: In our home, we never get any mid-year or year-end gifts.
+        Woman: Oh. Well, see you later.
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: 2b5b86b8-17cc-46ad-b96e-61fa0d1ce8f8
@@ -3588,134 +3285,79 @@ subtitles:
 clips:
   - id: b634719b-0a46-4169-abac-0d97cf24a212
     start: 00:06.5
-    end: 00:15.18
-    fields:
-      transcription: |-
-        コピー食品が出回っている
-        コピー食品 というのは本物ではないが本物によく似ている食品である
-    tags:
-      - iij12
-  - id: 9ce8f369-654c-4ad9-a7db-629a53789ab4
-    start: 00:15.74
     end: 00:25.46
     fields:
       transcription: |-
-        例えばカニの足のように見えるが
-        実は安い魚で作ったものや
-        サラダオイルで作った いくらなど
-        たくさん出ている
-    tags:
-      - iij12
-  - id: 5b1b68dd-06c4-4204-8ec8-a2ac86565520
-    start: 00:26.06
-    end: 00:34.26
-    fields:
-      transcription: |-
-        本物よりずっと 安い材料を使ったり
-        普通なら捨てる部分を集めて
-        上等の肉のように作ったりする
+        コピー食品が出回っている。
+        コピー食品というのは、本物ではないが本物によく似ている食品である。
+        例えば、カニの足のように見えるが、実は安い魚で作ったものや、サラダオイルで作った いくらなど、たくさん出ている。
+      meaning: Imitation foods are growing more common. Though fakes, these foods closely resemble the real thing. Two typical examples are crab “legs” made out of cheap varieties of fish, and salmon roe made from salad oil.
     tags:
       - iij12
   - id: 32d25085-3565-4435-9eb1-bb5ac607f64e
-    start: 00:34.96
+    start: 00:26.06
     end: 00:37.8
     fields:
-      transcription: お客は安いと思って喜んで買う
+      transcription: |-
+        本物よりずっと安い材料を使ったり、普通なら捨てる部分を集めて、上等の肉のように作ったりする。
+        お客は安いと思って喜んで買う。
+      meaning: Some of these food products use materials vastly cheaper than their real counterparts; others assemble high-grade meat out of scraps that would ordinarily be thrown away. Lured by their low prices, customers immediately grab these products off the shelves.
     tags:
       - iij12
   - id: a3709a4e-399e-45cb-a535-6b0badf21ddc
     start: 00:38.68
-    end: 00:43.24
-    fields:
-      transcription: このようなコピー食品を作るには 高度な技術が必要である
-    tags:
-      - iij12
-  - id: 9aafa697-76b4-40d0-91e7-efca49b0ef50
-    start: 00:43.78
-    end: 00:54.2
-    fields:
-      transcription: |-
-        最近は 加工技術が進んだので
-        味
-        色
-        形から
-        かおり
-        はだわりまで
-        本物そっくりのものを作ることができる
-    tags:
-      - iij12
-  - id: 96bf9327-019c-4116-a21c-cb81ed82a4cc
-    start: 00:54.64
     end: 01:01.08
     fields:
       transcription: |-
-        しかし 安い材料を美味しくするためには
-        たくさんの食品添加物を使う
+        このようなコピー食品を作るには、高度な技術が必要である。
+        最近は、加工技術が進んだので、味、色、形から
+        かおり、歯ざわりまで、本物そっくりのものを作ることができる。
+        しかし、安い材料を美味しくするためには、たくさんの食品添加物を使う。
+      meaning: |-
+        Highly advanced technology is needed to manufacture imitation foods. Thanks to recent advances in food processing, it’s now possible to make copies whose taste, color, shape, fragrance and texture are exactly like the foods they resemble.
+        Yet to improve the flavor of cheap ingredients, many additives are needed.
     tags:
       - iij12
   - id: a60be966-7153-48b6-87c8-7b1c34f592b4
     start: 01:01.7
     end: 01:08.68
     fields:
-      transcription: |-
-        また大きな工場で大量に作るから
-        合成保存料なども たくさん使う必要がある
+      transcription: また、大きな工場で大量に作るから、合成保存料などもたくさん使う必要がある。
+      meaning: What’s more, the foods, which are mass-produced in giant factories, contain many preservatives.
     tags:
       - iij12
   - id: 0a581540-e071-4101-94f8-37dc7abb7d4e
     start: 01:09.66
-    end: 01:19.04
-    fields:
-      transcription: |-
-        こうして出来たコピー食品は
-        形が同じで
-        料理しやすいから
-        学校給食 や外食産業で使うのに向いている
-    tags:
-      - iij12
-  - id: d481b65f-912d-4d56-ba88-8cca7b6b7844
-    start: 01:19.62
     end: 01:25.56
     fields:
       transcription: |-
-        これから大きくなる子供たちが
-        コピー食品をたくさん食べるのは心配なことである
+        こうして出来たコピー食品は形が同じで、
+        料理しやすいから、学校給食や外食産業で使うのに向いている。
+        これから大きくなる子供たちが、コピー食品をたくさん食べるのは心配なことである。
+      meaning: |-
+        Imitation foods have the same shape as real food products, making cooking convenient. They are ideal for being used in school lunches and by the restaurant business.
+        Yet one worries about growing children who eat large quantities of these foods.
     tags:
       - iij12
   - id: b9829d3c-907a-4022-be35-4b410d2a0d1c
     start: 01:26.12
     end: 01:32.64
     fields:
-      transcription: |-
-        しかも本物の魚と違って
-        骨がないから喜んで食べる場合も多いそうだ
-    tags:
-      - iij12
-  - id: 7ccda4fd-7d9a-4671-8c8e-1a30bd58fae3
-    start: 01:33.6
-    end: 01:42.16
-    fields:
-      transcription: |-
-        偽物の食品は昔からあった
-        安い魚を高い魚の名前で売ったりすることは珍しくなかった
-    tags:
-      - iij12
-  - id: 491e5c3a-a3f8-4e32-bbeb-5220dd00dc9a
-    start: 01:42.32
-    end: 01:49.88
-    fields:
-      transcription: |-
-        しかし 現在は 加工技術の進歩のために
-        人間の体に悪いものが出回るようになった
+      transcription: しかも、本物の魚と違って、骨がないから喜んで食べる場合も多いそうだ。
+      meaning: Unlike real fish, imitation fish products don’t have bones—one reason why they are relished by many kids.
     tags:
       - iij12
   - id: 35b9bc63-3277-432a-802e-783eee814e19
-    start: 01:50.64
+    start: 01:33.6
     end: 01:55.68
     fields:
       transcription: |-
-        科学の進歩が
-        人間を苦しめるのは残念なことである
+        偽物の食品は昔からあった。安い魚を高い魚の名前で売ったりすることは珍しくなかった。
+        しかし現在は、 加工技術の進歩のために、人間の体に悪いものが出回るようになった。
+        科学の進歩が人間を苦しめるのは残念なことである。
+      meaning: |-
+        Fake food has been around for many years. It’s not unusual to find cheap fish sold under the names of more expensive varieties.
+        As an outcome of advances in food processing, harmful substances now flow through our bodies. It’s a sad fact that the progress of science has led to greater hardships for humankind.
     tags:
       - iij12
 flashcardFieldsToSubtitlesTracks:
@@ -3896,7 +3538,8 @@ clips:
       transcription: |-
         自然の食品じゃないんだ。工場で作るんだよ。
         そうね。
-        どんな添加物が入っているか分からないよ
+        どんな添加物が入っているか分からないよ。
+        そうね。
         合成保存料もたくさん入ってるよ、きっと。
       meaning: |-
         Husband: Because it isn't natural. It's made in a factory.
@@ -3914,6 +3557,7 @@ clips:
         そうね。じゃ、やめましょう。
         やめて、本物を買う？
         いいえ、本物のサラダオイルを買って…。
+        え？
         安いお魚のフライを作りましょう。
       meaning: |-
         Wife: You‘re probably right. Let's forget about buying it.
@@ -3938,30 +3582,19 @@ subtitles:
       endCue: 6080
     name: 07 - Lesson 13 - Main Text.srt
 clips:
-  - id: ea647df8-c1dd-4c8b-9c0b-ffa9e2804c1d
+  - id: bce1f5d3-353b-4d4a-9a21-b5415138be9f
     start: 00:06.24
-    end: 00:11.84
+    end: 00:23.5
     fields:
       transcription: |-
         会社へ行かないで自宅で仕事をすることを
         在宅勤務という。
-      meaning: Working at one's home rather than at a company is called zaitaku-kimmu ("home employment").
-    tags:
-      - iij13
-  - id: 2fcda3cb-a0a1-40c0-b589-bac7d81bb4d2
-    start: 00:12.62
-    end: 00:16.6
-    fields:
-      transcription: 在宅勤務を始めた会社がいくつかあるそうだ。
-      meaning: Several companies have started home employment programs for their workers.
-    tags:
-      - iij13
-  - id: bce1f5d3-353b-4d4a-9a21-b5415138be9f
-    start: 00:16.92
-    end: 00:23.5
-    fields:
-      transcription: 社員の家に機械を置いて、会社からファクシミリで仕事の指令を送る。
-      meaning: They install a machine in their employees’ homes to deliver instructions from the company via facsimile.
+        在宅勤務を始めた会社がいくつかあるそうだ。
+        社員の家に機械を置いて、会社からファクシミリで仕事の指令を送る。
+      meaning: |-
+        Working at one's home rather than at a company is called zaitaku-kimmu ("home employment").
+        Several companies have started home employment programs for their workers.
+        They install a machine in their employees’ homes to deliver instructions from the company via facsimile.
     tags:
       - iij13
   - id: 320cd06d-8003-490d-939e-7cd3d194e46b
@@ -3972,28 +3605,18 @@ clips:
       meaning: The employees carry out their work assignments according to the instructions they've received.
     tags:
       - iij13
-  - id: 0fbd53eb-6ef8-4306-9092-6dc3863f3894
-    start: 00:28.96
-    end: 00:40.36
-    fields:
-      transcription: 例えば販売の仕事の場合、普通は朝、会社へ行って仕事の指令を受け取ってから、小売の商店へ注文を取りに行く。
-      meaning: Most salespeople canvass retail stores for orders after picking up instructions at their office in the morning.
-    tags:
-      - iij13
-  - id: ae5c52e9-8492-4966-aa55-c9bcf3233221
-    start: 00:41.12
-    end: 00:47.44
-    fields:
-      transcription: ところが在宅勤務の場合は朝、自宅に指令のファクシミリが届く。
-      meaning: Home employees, on the other hand. receive their morning instructions via facsimile.
-    tags:
-      - iij13
   - id: 1144d78b-9f1c-4e85-8fc6-2bec0a51453b
-    start: 00:47.82
+    start: 00:28.96
     end: 00:58.58
     fields:
-      transcription: すぐそれを持って近所の商店へ行く。だから、他の会社の社員より早く商店へ行って、先に注文を取ることができる。
-      meaning: They quickly take these instructions to the nearest retail outlet. Since they arrive at stores earlier than other companies' salespeople, they beat them to orders.
+      transcription: |-
+        例えば販売の仕事の場合、普通は朝、会社へ行って仕事の指令を受け取ってから、小売の商店へ注文を取りに行く。
+        ところが在宅勤務の場合は朝、自宅に指令のファクシミリが届く。
+        すぐそれを持って近所の商店へ行く。だから、他の会社の社員より早く商店へ行って、先に注文を取ることができる。
+      meaning: |-
+        Most salespeople canvass retail stores for orders after picking up instructions at their office in the morning.
+        Home employees, on the other hand. receive their morning instructions via facsimile.
+        They quickly take these instructions to the nearest retail outlet. Since they arrive at stores earlier than other companies' salespeople, they beat them to orders.
     tags:
       - iij13
   - id: 87f60a48-7612-46b7-b149-f03e0571ef8d
@@ -4006,26 +3629,16 @@ clips:
       - iij13
   - id: 75a576a7-589e-4a62-b339-6d915a5d7323
     start: 01:06.58
-    end: 01:11.9
-    fields:
-      transcription: 会社へ行く必要がないのは、会社員にはありがたいことである。
-      meaning: For the employees, not having to show up at work is wonderful.
-    tags:
-      - iij13
-  - id: 8bb942f9-46d8-4aba-89cb-1fcf9a54bbec
-    start: 01:12.4
-    end: 01:16.78
-    fields:
-      transcription: 何よりも、満員電車に乗らなくてもいいのは嬉しい。
-      meaning: Above anything. employees are grateful for not having to ride on overcrowded trains.
-    tags:
-      - iij13
-  - id: d432d4da-af81-48da-8aaa-4d525c9c769c
-    start: 01:17.28
     end: 01:23.32
     fields:
-      transcription: 夕方早く家へ帰って家族と一緒に食事をすることができる。
-      meaning: They’re able to go home early in the evenings and have dinner with their families.
+      transcription: |-
+        会社へ行く必要がないのは、会社員にはありがたいことである。
+        何よりも、満員電車に乗らなくてもいいのは嬉しい。
+        夕方早く家へ帰って家族と一緒に食事をすることができる。
+      meaning: |-
+        For the employees, not having to show up at work is wonderful.
+        Above anything. employees are grateful for not having to ride on overcrowded trains.
+        They’re able to go home early in the evenings and have dinner with their families.
     tags:
       - iij13
   - id: 7581e4de-3e49-484f-b9bc-ecbec306a62e
@@ -4033,47 +3646,33 @@ clips:
     end: 01:30.58
     fields:
       transcription: 会社の方、社員があまり来ないのだから、大きな 事務所を持つ必要がない。
-      meaning: " And. because employees hardly ever come into work, companies aren’t forced to set up large offices."
-    tags:
-      - iij13
-  - id: ad2028ea-b3fb-4476-bafb-11607890e22d
-    start: 01:31.24
-    end: 01:39.74
-    fields:
-      transcription: しかし、いい事ばかりではないそうだ。いつも一人で仕事をしている社員は、なんとなく不安になる。
-      meaning: "Nonetheless. the system isn’t perfect. Employees, who always work alone, soon become plagued by anxieties. "
-    tags:
-      - iij13
-  - id: 5f3b16fc-8bfa-4e7c-b3e8-9b32e0a0b1e3
-    start: 01:39.88
-    end: 01:43.78
-    fields:
-      transcription: 一週間に一度ぐらいは、会社へ行きたくなる。
-      meaning: Eventually they start to feel an urge to go to their companies once a week.
+      meaning: And because employees hardly ever come into work, companies aren’t forced to set up large offices.
     tags:
       - iij13
   - id: 310e5419-75fc-4367-be81-88648e8f9484
-    start: 01:44.08
+    start: 01:31.24
     end: 01:49.02
     fields:
-      transcription: 会社へ行って同僚と話をすると安心するそうだ。
-      meaning: Going to the office to chat with colleagues is relaxing, apparently.
-    tags:
-      - iij13
-  - id: a7e924c1-5b74-40e4-8c87-fba6de0afa58
-    start: 01:49.6
-    end: 01:56.98
-    fields:
-      transcription: 地域の人たちと、あまり付き合いのないサラリーマンには、同僚との付き合いは重要なものである。
-      meaning: Communication with colleagues is especially crucial for those salarymen who have little contact with neighbors.
+      transcription: |-
+        しかし、いい事ばかりではないそうだ。いつも一人で仕事をしている社員は、なんとなく不安になる。
+        一週間に一度ぐらいは、会社へ行きたくなる。
+        会社へ行って同僚と話をすると安心するそうだ。
+      meaning: |-
+        Nonetheless. the system isn’t perfect. Employees, who always work alone, soon become plagued by anxieties. 
+        Eventually they start to feel an urge to go to their companies once a week.
+        Going to the office to chat with colleagues is relaxing, apparently.
     tags:
       - iij13
   - id: 98d623c2-54d1-4f49-9932-bbac4ad010ea
-    start: 01:57.44
+    start: 01:49.6
     end: 02:02.22
     fields:
-      transcription: 人間はやはり集団で行動する動物なのであろう。
-      meaning: People. in the end, are a group-oriented race.
+      transcription: |-
+        地域の人たちと、あまり付き合いのないサラリーマンには、同僚との付き合いは重要なものである。
+        人間はやはり集団で行動する動物なのであろう。
+      meaning: |-
+        Communication with colleagues is especially crucial for those salarymen who have little contact with neighbors.
+        People. in the end, are a group-oriented race.
     tags:
       - iij13
 flashcardFieldsToSubtitlesTracks:
@@ -4091,127 +3690,73 @@ subtitles:
       endCue: 3622.4
     name: 08 - Lesson 13 - KaiwaBun 1.srt
 clips:
-  - id: f973e7e7-e20d-4269-92f3-adc99af88376
+  - id: 8494b78d-f5d3-4df7-b8c7-4761d212d03e
     start: 00:09.68
-    end: 00:14.36
+    end: 00:33.2
     fields:
       transcription: |-
         お早うございます。
         あ、お早うございます。会社ですか。
         ええ。
-      meaning: |-
-        A: Morning!
-        B: Oh. good morning. Are you on your way to work?
-        A: Yes.
-    tags:
-      - iij13
-  - id: b437580c-bbdf-410b-9174-209636c5ecee
-    start: 00:14.52
-    end: 00:20.44
-    fields:
-      transcription: |-
         この頃、朝、ごゆっくりですね。
         ええ、実は在宅勤務ですので。
-      meaning: |-
-        B: You’re able to go to work late these days, aren’t you?
-        A: Yeah. Actually, I'm a home employee.
-    tags:
-      - iij13
-  - id: 8494b78d-f5d3-4df7-b8c7-4761d212d03e
-    start: 00:20.5
-    end: 00:27.04
-    fields:
-      transcription: |-
         在宅勤務？
         ええ。会社から家へ指令が来てから注文を取りに出かけるんです。
-      meaning: |-
-        B: A “home employee“?
-        A: Uh-huh. I wait for instructions from the office. Then I go out to pick up orders.
-    tags:
-      - iij13
-  - id: 8f0a68f9-594d-4932-8961-b3226fea083e
-    start: 00:27.12
-    end: 00:33.2
-    fields:
-      transcription: |-
         指令って、電話ですか。
         いいえ、ファックスです。
         ああ、そうですか。
       meaning: |-
+        A: Morning!
+        B: Oh. good morning. Are you on your way to work?
+        A: Yes.
+        B: You’re able to go to work late these days, aren’t you?
+        A: Yeah. Actually, I'm a home employee.
+        B: A “home employee“?
+        A: Uh-huh. I wait for instructions from the office. Then I go out to pick up orders.
         B: Do the instructions come to you by phone?
         A: No—by fax.
         8: Oh. I see.
     tags:
       - iij13
-  - id: d62c3b92-d662-4310-83aa-b2076044ec5b
-    start: 00:33.28
-    end: 00:40.06
-    fields:
-      transcription: 前は一度会社へ行ってから、店へ注文を取りに行っていたんですが、今度は家から直接行くんです。
-      meaning: "A: I used to go to pick up orders after checking in at work. But now I go to the stores directly from home."
-    tags:
-      - iij13
-  - id: 9a58d171-249a-4bc6-95a2-5d23ab3279c9
-    start: 00:40.2
-    end: 00:45.48
-    fields:
-      transcription: |-
-        そうですか。じゃ、会社へ行かなくてもいいんですね。
-        ええ、そうなんです。
-      meaning: |-
-        B: Really? So you don't have to go to your company?
-        A: Exactly.
-    tags:
-      - iij13
   - id: 276a3c9d-30f1-43c5-99f2-2bdbb48af347
-    start: 00:45.76
+    start: 00:33.28
     end: 00:54.34
     fields:
       transcription: |-
+        前は一度会社へ行ってから、店へ注文を取りに行っていたんですが、今度は家から直接行くんです。
+        そうですか。じゃ、会社へ行かなくてもいいんですね。
+        ええ、そうなんです。
         満員電車に乗らなくてもいいので、楽ですよ。
         それはいいですね。
         夕方も早く帰って子供と一緒に食事ができますし。
       meaning: |-
+        A: I used to go to pick up orders after checking in at work. But now I go to the stores directly from home.
+        B: Really? So you don't have to go to your company?
+        A: Exactly.
         A: And I don’t have to ride the crowded trains—which makes life much easier.
         B: That’s great.
         A: I can go home earlier, have supper with the kids...
     tags:
       - iij13
-  - id: 2158bd69-4dc3-4ff7-ba48-901c6d4b745d
+  - id: dea5c056-4539-4954-aa22-a4c8407c0de3
     start: 00:54.46
-    end: 01:05.58
+    end: 01:14.5
     fields:
       transcription: |-
         いいことばかりですね。
         いえ、そうでもありません。
         一人で仕事をしていると、なんとなく不安になって、会社へ行きたくなるんです。
         まあ、そうですか。
+        一週間に一度 会社へ行くんですが、それが楽しみになりました。
+        まあ、そうですか。
+        じゃあ これで。
+        行ってらっしゃい。
       meaning: |-
         B: Sounds like a perfect setup.
         A: Well not really. Since I work by myself. I sometimes get anxious—and feel an urge to go to my company.
         B: Oh. is that right?
-    tags:
-      - iij13
-  - id: 5e4d4428-a4be-4183-bafa-06fb9b57e900
-    start: 01:05.68
-    end: 01:11.28
-    fields:
-      transcription: |-
-        一週間に一度 会社へ行くんですが、それが楽しみになりました。
-        まあ、そうですか。
-      meaning: |-
         A: I go to the office once a week. I’ve started to really look forward to it.
         B: Oh. really?
-    tags:
-      - iij13
-  - id: dea5c056-4539-4954-aa22-a4c8407c0de3
-    start: 01:11.36
-    end: 01:14.5
-    fields:
-      transcription: |-
-        じゃあ これで。
-        行ってらっしゃい。
-      meaning: |-
         A: Well. see you later.
         B: Bye.
     tags:
@@ -4231,25 +3776,14 @@ subtitles:
       endCue: 3494.4
     name: 09 - Lesson 13 - KaiwaBun 2.srt
 clips:
-  - id: 3de60897-f443-414b-84c7-4af3de50d72e
+  - id: e4b35773-36c9-4eca-94f8-f3d77057a544
     start: 00:05.34
-    end: 00:11.26
+    end: 00:24.4
     fields:
       transcription: |-
         まだ出かけないの、今朝は。
         うん、まだファックスが来ないんだよ。
         そう。
-      meaning: |-
-        Wife: Isn't it about time for you to go to work?
-        Husband: Not yet. I’m still waiting for the fax.
-        Wife: Oh.
-    tags:
-      - iij13
-  - id: e4b35773-36c9-4eca-94f8-f3d77057a544
-    start: 00:11.52
-    end: 00:24.4
-    fields:
-      transcription: |-
         俺邪魔か。
         そうじゃないの。
         近所の人が嫌なこと言うのよ。
@@ -4257,6 +3791,9 @@ clips:
         お宅のご主人会社を辞めたんですかって。
         ああ、朝遅くて、早く帰るからね。
       meaning: |-
+        Wife: Isn't it about time for you to go to work?
+        Husband: Not yet. I’m still waiting for the fax.
+        Wife: Oh.
         Husband: What, am I in the way?
         Wife: That’s not what I'm driving at. It’s just that the neighbors annoy me with their remarks.
         Husband: What remarks?
@@ -4266,54 +3803,33 @@ clips:
       - iij13
   - id: 8125d260-9ef3-4d87-a637-7aac0f5fbfdc
     start: 00:24.46
-    end: 00:30.2
-    fields:
-      transcription: 在宅勤務ですよって説明するんだけど、なかなか分からない人もいるのよ。
-      meaning: |-
-        Wife: I tell them that you're a home employee. But many people don’t get the point.
-        Husband: Hmph.
-    tags:
-      - iij13
-  - id: d41b102a-b3c9-4b04-935b-280ea0af7278
-    start: 00:31.135
     end: 00:38.655
     fields:
       transcription: |-
+        在宅勤務ですよって説明するんだけど、なかなか分からない人もいるのよ。
+        ふうん。
         私に聞く人はいいけど、何も聞かないでひどいことを言う人もいるの。
         あそこのご主人は失業したんだろうって。
-      meaning: "Wife: Neighbors who ask me for an explanation are okay. It's the ones who don't that are a problem. They come up with the wildest remarks—like claiming that you're unemployed, for example."
+      meaning: |-
+        Wife: I tell them that you're a home employee. But many people don’t get the point.
+        Husband: Hmph.
+        Wife: Neighbors who ask me for an explanation are okay. It's the ones who don't that are a problem. They come up with the wildest remarks—like claiming that you're unemployed, for example.
     tags:
       - iij13
-  - id: a12a83a0-6575-4823-9b9a-ae510faaa588
+  - id: d4374571-ef67-4407-a0b6-8285f780f506
     start: 00:38.875
-    end: 00:42.855
+    end: 00:52.06
     fields:
       transcription: |-
         いいじゃないか、噂 なんか
         でもなんだか嫌だわ
-      meaning: |-
-        Husband: Who cares? They're just gossiping.
-        Wife: Well, they still bother me.
-    tags:
-      - iij13
-  - id: d4374571-ef67-4407-a0b6-8285f780f506
-    start: 00:43.14
-    end: 00:52.06
-    fields:
-      transcription: |-
         じゃ、会社を辞めて小説を書いているんですって、言えばいい。
         そうね。その方が分かりやすいわね。それに かっこいいし。
       meaning: |-
+        Husband: Who cares? They're just gossiping.
+        Wife: Well, they still bother me.
         Husband: In that case. just tell them that I've quit my job to write a novel.
         Wife: Yeah. That’s easier to come to terms with. And it has a good ring to it.
-        Husband: I've got it!
-        Wife: Huh?
-        Husband: What I'll do is actually quit my job someday, and write a novel. That’s as close to home employ-
-        ment as you can get.
-        Wife: But you'd get Ionely—anxious to see your friends at work.
-        Husband: You're right. But maybe just once a week...
-        Wife: . . . you'll get together with them?
-        Husband: Right. Get together with them—and go drinking.   
     tags:
       - iij13
   - id: b835ab71-0275-4e87-9f98-50c6839b28d3
@@ -4330,6 +3846,14 @@ clips:
         一週間に一度ぐらい…。
         会うの？
         うん、会って、飲むんだ
+      meaning: |-
+        Husband: I've got it!
+        Wife: Huh?
+        Husband: What I'll do is actually quit my job someday, and write a novel. That’s as close to home employment as you can get.
+        Wife: But you'd get Ionely—anxious to see your friends at work.
+        Husband: You're right. But maybe just once a week...
+        Wife: ...you'll get together with them?
+        Husband: Right. Get together with them—and go drinking.
     tags:
       - iij13
 flashcardFieldsToSubtitlesTracks:
@@ -4347,28 +3871,18 @@ subtitles:
       endCue: 6668.8
     name: 13 - Lesson 14 - Main Text.srt
 clips:
-  - id: fcedda2c-f5aa-4b31-ab1f-a7f428b2c94f
-    start: 00:05.64
-    end: 00:12.36
-    fields:
-      transcription: 米国のある大学で、体の不自由な人の世話をするサルを訓練しているそうである。
-      meaning: A certain university in the United States, it seems, is training monkeys to take care of people with physical disabilities.
-    tags:
-      - iij14
-  - id: 01790f39-76e9-40b5-b973-cbd3b44977dd
-    start: 00:13.48
-    end: 00:17.02
-    fields:
-      transcription: テレビ番組でその様子を紹介していた。
-      meaning: An actual view of the situation was presented on a television program.
-    tags:
-      - iij14
   - id: ccb6a616-ce6c-4e64-ad52-94b48a396ee8
-    start: 00:18.12
+    start: 00:06.1
     end: 00:24.74
     fields:
-      transcription: 交通事故などで体が不自由になった人のために、小さなサルが色々なことをする。
-      meaning: The small monkey does a variety of tasks for people who’ve become physically disabled due to a traffic accident or other mishap.
+      transcription: |-
+        米国のある大学で、体の不自由な人の世話をするサルを訓練しているそうである。
+        テレビ番組でその様子を紹介していた。
+        交通事故などで体が不自由になった人のために、小さなサルが色々なことをする。
+      meaning: |-
+        A certain university in the United States, it seems, is training monkeys to take care of people with physical disabilities.
+        An actual view of the situation was presented on a television program.
+        The small monkey does a variety of tasks for people who’ve become physically disabled due to a traffic accident or other mishap.
     tags:
       - iij14
   - id: 4fd78835-4864-4303-975d-19fba114f0a6
@@ -4389,28 +3903,18 @@ clips:
       meaning: As I watched the show, I was impressed to see all of this. I was particularly impressed with the process by which the monkey is trained.
     tags:
       - iij14
-  - id: 2800efdc-21b6-467b-ba1f-514fd4757261
-    start: 00:49.36
-    end: 00:54.38
-    fields:
-      transcription: 生まれたばかりのサルを子供のいない老人夫婦に預ける。
-      meaning: The newly-born monkey is entrusted to an elderly couple without children.
-    tags:
-      - iij14
-  - id: e2eb093e-9188-41cb-a7ac-96f6b514d48d
-    start: 00:55.06
-    end: 01:02.98
-    fields:
-      transcription: 老人夫婦は、ミルクを飲ませ、おむつをとりかえ、優しい言葉をかけ、大切に育てる。
-      meaning: The couple gives the monkey milk, changes her diapers, and speaks to her in a gentle language. They raise her with affection and care.
-    tags:
-      - iij14
   - id: 8df88477-292a-4cdd-877e-62cd899c30c2
-    start: 01:04.2
+    start: 00:49.36
     end: 01:08.68
     fields:
-      transcription: その可愛がりかたは、人間の赤ん坊に対する以上である。
-      meaning: The love they give to the infant monkey, in fact, is greater than the love parents give to their own babies.
+      transcription: |-
+        生まれたばかりのサルを子供のいない老人夫婦に預ける。
+        老人夫婦は、ミルクを飲ませ、おむつをとりかえ、優しい言葉をかけ、大切に育てる。
+        その可愛がりかたは、人間の赤ん坊に対する以上である。
+      meaning: |-
+        The newly-born monkey is entrusted to an elderly couple without children.
+        The couple gives the monkey milk, changes her diapers, and speaks to her in a gentle language. They raise her with affection and care.
+        The love they give to the infant monkey, in fact, is greater than the love parents give to their own babies.
     tags:
       - iij14
   - id: 20e21733-71d4-405a-8b26-6fac999fc30d
@@ -4421,44 +3925,30 @@ clips:
       meaning: Once the monkey has reached a particular age, a female researcher at a university takes over the training process. The researcher never scolds the monkey for her mistakes.
     tags:
       - iij14
-  - id: 294a066d-e8d4-4377-8ecb-0225bbc44a4d
-    start: 01:21.02
-    end: 01:27.84
-    fields:
-      transcription: よくできると必ず「いい子だ、いい子だ」とほめながら、サルの好きな食べ物を与える。
-      meaning: While praising the monkey for her accomplishments with “That's a good girl, That’s a good girl,” she gives her some of her favorite foods.
-    tags:
-      - iij14
   - id: 64a7a4e5-660d-45c3-8c0c-ba372aced7e8
-    start: 01:29.14
+    start: 01:21.02
     end: 01:32.0
     fields:
-      transcription: 実に優しく、我慢強い。
-      meaning: The woman is truly gentle—and patient.
-    tags:
-      - iij14
-  - id: e2d56ce9-e584-4f82-a42a-352537a699d2
-    start: 01:33.6
-    end: 01:39.42
-    fields:
-      transcription: 人間の世話ができるサルを育てるまでの苦労は、大変なものである。
-      meaning: The amount of work it takes to raise a monkey who can care for humans is astounding.
-    tags:
-      - iij14
-  - id: 7830af54-57ac-4046-afd4-8311e6b68f48
-    start: 01:40.94
-    end: 01:46.26
-    fields:
-      transcription: こんなに苦労してサルを訓練することには、疑問をもつ人もいるであろう。
-      meaning: Some people might question putting so much work into raising such a monkey.
+      transcription: |-
+        よくできると必ず「いい子だ、いい子だ」とほめながら、サルの好きな食べ物を与える。
+        実に優しく、我慢強い。
+      meaning: |-
+        While praising the monkey for her accomplishments with “That's a good girl, That’s a good girl,” she gives her some of her favorite foods.
+        The woman is truly gentle—and patient.
     tags:
       - iij14
   - id: e7fc1b27-a8c2-4c77-b0d2-0a4e29366f89
-    start: 01:47.38
+    start: 01:34.12
     end: 01:53.56
     fields:
-      transcription: サルを可愛がるだけの愛情と努力で人間の世話をする方が能率的かもしれない。
-      meaning: It might be more efficient to apply the love and effort that’s given to the monkey to the care of people.
+      transcription: |-
+        人間の世話ができるサルを育てるまでの苦労は、大変なものである。
+        こんなに苦労してサルを訓練することには、疑問をもつ人もいるであろう。
+        サルを可愛がるだけの愛情と努力で人間の世話をする方が能率的かもしれない。
+      meaning: |-
+        The amount of work it takes to raise a monkey who can care for humans is astounding.
+        Some people might question putting so much work into raising such a monkey.
+        It might be more efficient to apply the love and effort that’s given to the monkey to the care of people.
     tags:
       - iij14
   - id: d3089781-1366-46cd-9001-abd83be5ec1c
@@ -4483,31 +3973,23 @@ format: mp3
 duration: 01:17.087
 id: e1197a41-777a-46db-9a22-a2055f3150dc
 clips:
-  - id: 8df2416e-978f-48d5-a722-dc568861c63c
+  - id: 9d8aeb13-7ebe-4202-a2b6-757665023896
     start: 00:09.36
-    end: 00:17.66
+    end: 00:25.14
     fields:
       transcription: |-
         この間、テレビで面白い番組を見ました。
         どんな番組ですか。
         サルが人間の世話をするんです。
         へえ？
+        交通事故などで体が不自由になった人がいますね。
+        ええ、手や足が動かなくなった人など。
+        そうです。
       meaning: |-
         A: I just saw a fascinating show on TV.
         B: About what?
         A: About a monkey that takes care of humans.
         B: Really?
-    tags:
-      - iij14
-  - id: 9d8aeb13-7ebe-4202-a2b6-757665023896
-    start: 00:17.76
-    end: 00:25.14
-    fields:
-      transcription: |-
-        交通事故などで体が不自由になった人がいますね。
-        ええ、手や足が動かなくなった人など。
-        そうです。
-      meaning: |-
         A: There’re people who have become disabled in traffic accidents, aren’t there?
         B: Yes—people who have lost the use of their hands or feet...
         A: Right.
@@ -4530,24 +4012,17 @@ clips:
         A: Right.
     tags:
       - iij14
-  - id: 719719f7-416e-4ea7-8cc1-90e18c313d3a
+  - id: 76203dc0-32b1-445e-b90a-4f53e9227eb5
     start: 00:38.72
-    end: 00:43.06
+    end: 00:50.88
     fields:
       transcription: |-
         そこまで訓練するのは大変でしょうね。
         ええ、そうなんです。
+        大学の女性の研究者がやっていましたけど、それはそれは我慢強くて、優しいんです。
       meaning: |-
         B: It must be hard to train a monkey to do all of those things.
         A: It is.
-    tags:
-      - iij14
-  - id: 76203dc0-32b1-445e-b90a-4f53e9227eb5
-    start: 00:43.28
-    end: 00:50.88
-    fields:
-      transcription: 大学の女性の研究者がやっていましたけど、それはそれは我慢強くて、優しいんです。
-      meaning: |-
         A: A woman researcher at a university was doing the training. She was really patient, really gentle.
         B: Hmm.
     tags:
@@ -4638,8 +4113,7 @@ clips:
     end: 00:52.156
     fields:
       transcription: |-
-        彼女、人の世話をするのは好きじゃないんだよ。
-        猿と違って、今から訓練することはできないし。
+        彼女、人の世話をするのは好きじゃないんだよ。猿と違って、今から訓練することはできないし。
         でも、世話をしてもらう方も努力するのよ。
         猿が何かするたびに、「いい子だ、いい子だ」と言って、お菓子か何かやるんですって。
       meaning: |-
@@ -4679,136 +4153,94 @@ subtitles:
       endCue: 6438.4
     name: 19 - Lesson 15 - Main Text.srt
 clips:
-  - id: 996f274f-d340-4924-bd64-ee28b72d7225
+  - id: c916e4e7-08a6-410e-bef4-3ebefc055ee4
     start: 00:05.68
-    end: 00:12.12
+    end: 00:18.62
     fields:
-      transcription: 科学が進歩して洗剤なども 汚れを落とす力の強いものができた。
+      transcription: |-
+        科学が進歩して洗剤なども 汚れを落とす力の強いものができた。
+        少し使えば、風呂やトイレがきれいになるから、掃除も楽である。
       meaning: |-
         With the advance of science, powerful cleansers with the strength to dissolve dirt have appeared
         on the market.
-    tags:
-      - iij15
-  - id: c916e4e7-08a6-410e-bef4-3ebefc055ee4
-    start: 00:13.06
-    end: 00:18.62
-    fields:
-      transcription: 少し使えば、風呂やトイレがきれいになるから、掃除も楽である。
-      meaning: |-
         After just a little use, the bathtub or toilet becomes sparkling clean, easing the trials
         of scrubbing.
     tags:
       - iij15
   - id: e13bc5a4-052e-458d-9db5-03b9ae08e938
-    start: 00:19.88
-    end: 00:24.26
-    fields:
-      transcription: ところが最近、この洗剤のために事故が起きたそうである。
-      meaning: Recently, though, an accident was caused by one of these cleansers.
-    tags:
-      - iij15
-  - id: d80f9ce5-e603-4469-bb94-0f2d4a597f75
-    start: 00:26.66
-    end: 00:30.2
-    fields:
-      transcription: 風呂場の壁を掃除していた主婦が急に死んだ。
-      meaning: A housewife scrubbing the walls in her bathroom suddenly died.
-    tags:
-      - iij15
-  - id: 31572bf9-2bd9-4083-92bb-f67d85e874b2
-    start: 00:32.12
+    start: 00:20.183
     end: 00:41.26
     fields:
-      transcription: 壁のカビを取るための洗剤と風呂を洗うための洗剤が化学反応を起こし、有毒なガスが出たためらしい。
-      meaning: A chemical reaction between a cleanser for removing mold from the walls and a cleanser for cleaning the tub released poisonous gases, causing her death.
-    tags:
-      - iij15
-  - id: 1172fb7d-b697-44b7-8910-4b592d515189
-    start: 00:43.62
-    end: 00:53.52
-    fields:
-      transcription: このような事故は他にもある。美容院で石油ファンヒーターをつけたら、気分が悪くなった人がいた。
-      meaning: There have been other accidents as well.
+      transcription: |-
+        ところが最近、この洗剤のために事故が起きたそうである。
+        風呂場の壁を掃除していた主婦が急に死んだ。
+        壁のカビを取るための洗剤と風呂を洗うための洗剤が化学反応を起こし、有毒なガスが出たためらしい。
+      meaning: |-
+        Recently, though, an accident was caused by one of these cleansers.
+        A housewife scrubbing the walls in her bathroom suddenly died.
+        A chemical reaction between a cleanser for removing mold from the walls and a cleanser for cleaning the tub released poisonous gases, causing her death.
     tags:
       - iij15
   - id: 64d89635-bef1-4ea3-95ad-b353d48d7203
-    start: 00:54.74
+    start: 00:43.62
     end: 01:02.2
     fields:
-      transcription: 髪に使うスプレーがヒーターの熱で化学反応を起こし、有毒ガスが出たためである。
-      meaning: In one, a person began to feel sick when a kerosene heater was turned on in a beauty parlor. The heat from the heater reacted chemically with the parlor’s hair spray, giving rise to poisonous fumes.
-    tags:
-      - iij15
-  - id: 47751ac7-e79d-4acd-b345-4f365ee3fd7a
-    start: 01:04.52
-    end: 01:13.58
-    fields:
-      transcription: 二つの商品は、それぞれ別に使えば安全だが、同じ場所で同時に使うと、このような事故が起きる。
-      meaning: Used independently, products like these are safe. Used at the same time in the same place, and accidents like the above result.
+      transcription: |-
+        このような事故は他にもある。美容院で石油ファンヒーターをつけたら、気分が悪くなった人がいた。
+        髪に使うスプレーがヒーターの熱で化学反応を起こし、有毒ガスが出たためである。
+      meaning: |-
+        There have been other accidents as well. In one, a person began to feel sick when a kerosene heater was turned on in a beauty parlor. 
+        The heat from the heater reacted chemically with the parlor’s hair spray, giving rise to poisonous fumes.
     tags:
       - iij15
   - id: c23f707f-5b1e-4a55-98a4-a1ff3bf10d0a
-    start: 01:14.96
+    start: 01:04.52
     end: 01:20.54
     fields:
-      transcription: つまり、この場合、商品同士の相性が悪いのだそうである。
-      meaning: In these cases, in short, the compatibility of the two products was at fault.
-    tags:
-      - iij15
-  - id: 4a3bef11-9322-4c45-8414-b69f1389f0aa
-    start: 01:22.06
-    end: 01:27.76
-    fields:
-      transcription: 相性という言葉は、普通は人と人との関係によく使う。
-      meaning: The word “compatibility” usually talks about the relationship between two people.
-    tags:
-      - iij15
-  - id: 6ba86344-e977-4878-8a51-4c1df5ccd413
-    start: 01:28.5
-    end: 01:33.2
-    fields:
-      transcription: あの人とこの人は相性がいいとか、悪いとか言う。
-      meaning: A couple is described as either “compatible” or “incompatible.”
+      transcription: |-
+        二つの商品は、それぞれ別に使えば安全だが、同じ場所で同時に使うと、このような事故が起きる。
+        つまり、この場合、商品同士の相性が悪いのだそうである。
+      meaning: |-
+        Used independently, products like these are safe. Used at the same time in the same place, and accidents like the above result.
+        In these cases, in short, the compatibility of the two products was at fault.
     tags:
       - iij15
   - id: 47ace6c3-87fd-41ec-80a6-b16fbb4374ac
-    start: 01:34.52
+    start: 01:22.06
     end: 01:43.1
     fields:
-      transcription: 特に結婚の相手を選ぶときに、生まれた年や生まれた月になどで相性を考えることもある。
-      meaning: The day, month, and year of birth are sometimes taken into account when figuring out the compatibility of prospective marriage partners.
-    tags:
-      - iij15
-  - id: fd85a15c-162b-4537-83e4-d0597f5692d3
-    start: 01:44.46
-    end: 01:52.84
-    fields:
-      transcription: このような人間的な言葉が、生命のない商品について使われるのは、なんだか面白い感じがする。
-      meaning: It strikes me as somehow amusing that “compatibility,” a word that’s filled with humanity, should be used for lifeless goods.
+      transcription: |-
+        相性という言葉は、普通は人と人との関係によく使う。
+        あの人とこの人は相性がいいとか、悪いとか言う。
+        特に結婚の相手を選ぶときに、生まれた年や生まれた月になどで相性を考えることもある。
+      meaning: |-
+        The word “compatibility” usually talks about the relationship between two people.
+        A couple is described as either “compatible” or “incompatible.”
+        The day, month, and year of birth are sometimes taken into account when figuring out the compatibility of prospective marriage partners.
     tags:
       - iij15
   - id: 11b1d1c1-9c1d-4903-82ad-d6e78f501d63
-    start: 01:53.96
+    start: 01:44.46
     end: 01:57.94
     fields:
-      transcription: しか、面白がっているだけではいけない。
-      meaning: Just feeling a sense of amusement isn’t enough.
-    tags:
-      - iij15
-  - id: d4f4e6d4-5141-4532-9187-1d8eba858887
-    start: 01:58.68
-    end: 02:09.26
-    fields:
-      transcription: 事故を防ぐためには、商品を作る人もよく研究しなければならないが、使う人も説明書などをよく読む必要がある。
-      meaning: To prevent accidents, the makers of these goods should do a lot of research. But the users must read the products’ instruction booklets, too.
+      transcription: |-
+        このような人間的な言葉が、生命のない商品について使われるのは、なんだか面白い感じがする。
+        しか、面白がっているだけではいけない。
+      meaning: |-
+        It strikes me as somehow amusing that “compatibility,” a word that’s filled with humanity, should be used for lifeless goods.
+        Just feeling a sense of amusement isn’t enough.
     tags:
       - iij15
   - id: 4293e611-4362-4ed8-beb6-966e6bc84df1
-    start: 02:10.82
+    start: 01:58.68
     end: 02:15.42
     fields:
-      transcription: 注意深くなければ、安全に暮らすことはできないのである。
-      meaning: You can’t go through life safely without being careful.
+      transcription: |-
+        事故を防ぐためには、商品を作る人もよく研究しなければならないが、使う人も説明書などをよく読む必要がある。
+        注意深くなければ、安全に暮らすことはできないのである。
+      meaning: |-
+        To prevent accidents, the makers of these goods should do a lot of research. But the users must read the products’ instruction booklets, too.
+        You can’t go through life safely without being careful.
     tags:
       - iij15
 flashcardFieldsToSubtitlesTracks:
@@ -4826,98 +4258,69 @@ subtitles:
       endCue: 3686.4
     name: 20 - Lesson 15 - KaiwaBun 1.srt
 clips:
-  - id: 2c988b32-4637-4741-82f3-8e0ad5e3effe
+  - id: 591e31f7-23e9-4955-9628-5e15de5d1358
     start: 00:08.28
-    end: 00:18.54
+    end: 00:26.98
     fields:
       transcription: |-
         今朝の新聞に洗剤の話が出ていましたね。
         何か新しい商品ができたんですか。
         いえ、そうじゃなくて、洗剤の事故なんです。
+        事故と言いますと？
+        ある奥さんが風呂場で一生懸命掃除していたら、突然倒れて、死んでしまったんだそうです。
       meaning: |-
         A: Did you see that article in this morning’s paper? About cleansers?
         B: Did they invent a new product of some kind?
         A: No, nothing like that. There was an accident related to cleansers.
-    tags:
-      - iij15
-  - id: 591e31f7-23e9-4955-9628-5e15de5d1358
-    start: 00:18.8
-    end: 00:26.98
-    fields:
-      transcription: |-
-        事故と言いますと？
-        ある奥さんが風呂場で一生懸命掃除していたら、突然倒れて、死んでしまったんだそうです。
-      meaning: |-
         B: An accident...?
         A: A woman was scrubbing hard in her bathroom. When, all of a sudden, she fell over and died.
     tags:
       - iij15
-  - id: 3f42c3c4-cf70-49d4-a8ee-0314e94b76d1
+  - id: 4e2df3c8-e457-4386-9811-84f95e40e062
     start: 00:27.3
-    end: 00:34.6
+    end: 00:44.86
     fields:
       transcription: |-
         どうしたんでしょう。
         壁のカビを取る洗剤と、風呂を洗う洗剤を一緒に使ったらしいんです。
+        一緒に使うといけないんですか。
+        ええ。詳しいことはわかりませんけど、何かの化学反応で、悪い ガスが出るんだそうです。
       meaning: |-
         B: : What happened?
         A: She used a cleanser for removing mold from the walls at the same time as a cleanser for
         scrubbing the tub.
-    tags:
-      - iij15
-  - id: 4e2df3c8-e457-4386-9811-84f95e40e062
-    start: 00:34.88
-    end: 00:44.86
-    fields:
-      transcription: |-
-        一緒に使うといけないんですか。
-        ええ。詳しいことはわかりませんけど、何かの化学反応で、悪い ガスが出るんだそうです。
-      meaning: |-
         B: Were they products that shouldn’t be used at the same time?
         A: Uh-huh. I’m not clear on all the details. But it seems that a chemical reaction of some sort
         released dangerous gases.
     tags:
       - iij15
-  - id: 6f8f5eb2-6eb3-490f-b312-a496496b473b
+  - id: f03f120a-089b-4516-b0c3-7a02080033dc
     start: 00:45.08
-    end: 00:52.56
+    end: 01:00.44
     fields:
       transcription: |-
         怖いですね。
         ええ。二つの洗剤の相性が悪かったんだそうです。
         相性がね。
+        ええ。他にも色々、相性の悪いものがあるらしいんですよ。ヘアスプレーと石油ファンヒーターとか。
       meaning: |-
         B: That’s scary.
         A: Yeah—the two cleansers were incompatible.
         B: Incompatible?
-    tags:
-      - iij15
-  - id: f03f120a-089b-4516-b0c3-7a02080033dc
-    start: 00:52.66
-    end: 01:00.44
-    fields:
-      transcription: ええ。他にも色々、相性の悪いものがあるらしいんですよ。ヘアスプレーと石油ファンヒーターとか。
-      meaning: |-
         A: Right. It seems there’re all sorts of other products that are incompatible as well. Like hair
         sprays—hair sprays are incompatible with kerosene heaters.
     tags:
       - iij15
   - id: 3ee40c06-4c69-43ff-aa1e-d18bb053b1f1
     start: 01:00.94
-    end: 01:04.12
-    fields:
-      transcription: 使う時、説明書をよく読めばいいんでしょうね。
-      meaning: "B: I guess it’s a good idea to read the instruction booklet thoroughly before using a product"
-    tags:
-      - iij15
-  - id: 37d10040-89bf-493c-90d3-1d200ccfbff6
-    start: 01:04.18
     end: 01:14.24
     fields:
       transcription: |-
+        使う時、説明書をよく読めばいいんでしょうね。
         ええ。でも、どんどん商品が複雑になるから、絶対安全とはいえないそうですよ。
         そうですか。なんだか怖いですね。
       meaning: |-
+        B: I guess it’s a good idea to read the instruction booklet thoroughly before using a product
         A: Probably. But products are getting more complex. There’s no guarantee that you'll be com-
         pletely safe.
         B: Now that is scary.
@@ -4943,7 +4346,7 @@ clips:
     end: 00:20.735
     fields:
       transcription: |-
-        家の風呂、この頃 汚くなったね。
+        家の風呂、この頃汚くなったね。
         そうね。知ってたの。
         お風呂の洗剤、使わないことにしたの。
         どうして？

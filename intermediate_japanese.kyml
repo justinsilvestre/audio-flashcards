@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-03-30T12:44:04Z
+timestamp: 2020-03-31T22:19:53Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -4418,3 +4418,1561 @@ clips:
       - iij15
 flashcardFieldsToSubtitlesTracks:
   transcription: 2bbcd5ed-7f19-4143-96b3-80a51b436341
+---
+name: Tobira_L01-1_yomimono.mp3
+format: mp3
+duration: 04:40.294
+id: a51e8c45-0e55-4199-be90-ddbdfaecefbd
+subtitles:
+  - id: 47ae001c-7e38-4be3-9219-eeaf184e2599
+    type: External
+    chunksMetadata:
+      count: 67
+      endCue: 13849.55
+    name: Tobira_L01-1_yomimono.srt
+clips:
+  - id: 9eaeff76-5de7-4d95-b8a0-44cbaf84d5a4
+    start: 00:12.3
+    end: 00:24.44
+    fields:
+      transcription: |-
+        皆さんは日本の四つの大きな島の名前を知っていますか。
+        日本はユーラシア大陸の東にある島国で、国の70%は山です。
+      meaning: Do you know the names of Japan’s four large islands? Japan is an island nation located to the east of the Eurasian continent, and 70 percent of the country is mountainous.
+    tags:
+      &a1
+      - Tobira_L01-1_yomimono.mp3
+  - id: 0690e34f-ef61-4731-90e6-805c25d46ac2
+    start: 00:25.54
+    end: 00:38.4
+    fields:
+      transcription: |-
+        日本には東京のような世界によく知られている都市がたくさんありますが、皆さんはどんな都市の名前を聞いたことがありますか。
+        下の地図を見ながら探してみましょう
+      meaning: Japan has many cities, like Tokyo, which are well-known world-wide. What cities have you heard of? Let’s try searching for them using the map below.
+    tags: *a1
+  - id: 0d5e2152-6468-4af8-94ab-2febf1d24004
+    start: 00:40.165
+    end: 01:03.465
+    fields:
+      transcription: |-
+        日本の国土は北海道、本州、四国、九州と呼ばれる四つの大きい島と、6000以上の小さい島でできています。
+        全体の大きさはアメリカの1/25、オーストラリアの1/21ぐらいで、ニュージーランドやイギリスと同じぐらいです。
+      meaning: The territory of Japan consists of four large islands called Hokkaido, Honshu, Shikoku, and Kyushu, and over 6000 small islands. Its entire size is about 1/25th (of the size) of the United States, 1/21th (of the size) of Australia, and about the same size as New Zealand and the United Kingdom.
+    tags: *a1
+  - id: 1fcf9285-0a63-4b6e-9094-2f0431d59f66
+    start: 01:05.496
+    end: 01:28.096
+    fields:
+      transcription: |-
+        日本には47の都道府県（一都、一道、二府、四十三県）があります。
+        一都は東京都（首都、一道は北海道、二府は大阪府と京都府で、その他は、静岡県や広島県のように全部、県です。
+      meaning: "Japan has 47 prefectures (to-do-fu-ken): one to, one do, two fu, and 43 ken. One to refers to Tokyo-to (the capital), one do is Hokkai~d6, two fu are Osaka-fu and Kyoto-fu, and the other prefectures are all ken, such as Shizuoka-ken and Hiroshima-ken."
+    tags: *a1
+  - id: d361ba4c-af62-40e3-8193-2bcde9920e1f
+    start: 01:29.821
+    end: 01:40.341
+    fields:
+      transcription: 静岡県はお茶や富士山で有名で、広島県には戦争の恐ろしさと平和の大切さを伝える原爆ドームがあります。
+      meaning: Shizuoka Prefecture is famous for tea and Mt. Fuji, and Hiroshima Prefecture has the Atomic Bomb Dome, which conveys the horror of war and the importance of peace.
+    tags: *a1
+  - id: 6da3181d-79d1-4cef-8304-a1120022c4f0
+    start: 01:41.865
+    end: 02:02.365
+    fields:
+      transcription: |-
+        日本は南北に長い国なので、南と北では気候が大きく違い、
+        沖縄や九州で泳げる時に北海道では雪が降っていることもあります
+        それから同じ日の沖縄と北海道の気温の差が摂氏40度以上になる
+        なることもあります
+      meaning: Japan is a country that is long from north to south, so the climate varies greatly from south to north, and sometimes it happens that it is snowing in Hokkaido when people are able to swim in Okinawa or Kyushu. Furthermore, the gap in temperatures between Okinawa and Hokkaido on the same day may be greater than 40 degrees centigrade.
+    tags: *a1
+  - id: f0b11ec6-7e48-4dd1-b159-a18a379ade68
+    start: 02:03.04
+    end: 02:27.24
+    fields:
+      transcription: |-
+        だから日本人が大好きな桜の花が いつ頃咲く花は
+        場所によって違います
+        沖縄では1月の終わりに咲き始めますが
+        北海道では5月になってからです
+        桜の花が咲くと 人々はその木下でお酒を飲んだり 歌を歌ったりして
+        花見を楽しみます
+      meaning: Because of this, the time when Japan’s beloved cherry blossoms bloom varies depending on the location. In Okinawa, they begin to bloom at the end of January, but in Hokkaido they don’t bloom until May. When the cherry blossom trees bloom, people enjoy “cherry-blossom viewing,” doing things like drinking and singing under the trees.
+    tags:
+      - Tobira_L01-1_yomimono.mp3
+  - id: c48f85e1-abda-43f9-a281-2553238e3ce4
+    start: 02:29.76
+    end: 02:46.9
+    fields:
+      transcription: |-
+        日本には昔からの名所 もたくさんあります
+        例えば 兵庫県にある 姫路城は日本で最も美しいと言われている
+        お城で
+        1993年に
+        ユネスコの世界遺産に選ばれました
+      meaning: Japan also has many famous old sites. For example, Himeji Castle in Hyogo Prefecture is said to be the most beautiful castle in Japan; it was chosen as a World Heritage site by UNESCO in 1993.
+    tags: *a1
+  - id: 74959388-c9dd-4fd3-a85a-d6b895c3bbe7
+    start: 02:48.92
+    end: 03:10.5
+    fields:
+      transcription: |-
+        400年以上前の白い壁が残っていて
+        建物の形が
+        白鷺という 白い鳥が羽を広げて休んでいるように見えるので
+        白鷺城（白露城）とも呼ばれています
+        姫路城は昔の映画やドラマを撮影する時によく使われています
+      meaning: Its white walls still remain after 400 years, and the building’s shape looks like the bird called shirasagi (white egret) resting with spread wings, so it is also called Shirasagi Castle (or Hakuro Castle). Himeji Castle is often used when filming period films and television dramas.
+    tags: *a1
+  - id: 75fddfd2-3f02-4b00-b7fe-59733780efee
+    start: 03:12.72
+    end: 03:37.58
+    fields:
+      transcription: |-
+        日本の名所と言えば温泉も忘れることはできません
+        日本は火山が多いので日本中に温泉があります
+        温泉には観光や レジャーが目的で行く人が多く
+        温泉では大きいお風呂に入ったり
+        美味しい料理を食べたり
+        浴衣を着たりしてリラックスします
+      meaning: When speaking of Japan’s famous sites we shouldn’t forget to mention its hot springs. Japan has many volcanoes, so there are hot springs throughout Japan. Many peOple go to hot springs for the purpose of sightseeing or leisure, where they do such things as bathe in large hot spring. baths, eat delicious food, and relax wearing yukata (informal summer cotton kimono).
+    tags: *a1
+  - id: 92cb9c1d-b272-43f1-9bfb-b1c7c3b20f8e
+    start: 03:39.28
+    end: 03:47.88
+    fields:
+      transcription: |-
+        日本人はお風呂に入るのが大好きで
+        外の景色を見ながら入れる露天風呂は特に人気があります
+      meaning: Japanese people love taking hot spring baths, and outdoor baths, where they can bathe while viewing the scenery, are particularly popular.
+    tags: *a1
+  - id: 59039464-99bd-4376-8d50-43ddaaacd51c
+    start: 03:49.904
+    end: 04:14.204
+    fields:
+      transcription: |-
+        たくさんある温泉の中で
+        愛媛県松山市にある道後温泉は
+        日本で一番古い温泉で
+        3000年の歴史があると言われています
+        坊ちゃんや心という小説を書いた夏目漱石がよく行ったそうで
+        道後温泉にある旅館の3階には「坊ちゃんの間」という部屋があります
+      meaning: Of the many hot springs in Japan, the Dogo Hot Springs in Matsuyama City, Ehime Prefecture, is said to be the oldest, with a 3000-year history. Natsume Soseki, who wrote novels such as Bocchan and Kokoro, is said to have gone there often, and the third floor at one of the ryokan (traditional inn) at Dogo Hot Springs has a room called “Bocchan’s Room.”
+    tags: *a1
+  - id: 2556a822-23b9-4dbe-ba86-f9f1f1f7ee23
+    start: 04:15.668
+    end: 04:36.988
+    fields:
+      transcription: |-
+        皆さんは日本に行ったらどんなことをしてみたいですか
+        どこに行ってみたいですか
+        日本に行く前に日本の地理をよく調べて楽しい旅行をしてください
+        そして
+        お城を見学したり温泉に入ったりして
+        楽しい土産話を持って帰ってください
+      meaning: "What kinds of things would you like to do if you go to Japan? Where would you like to go? Before you go, research Japan’s geography carefully in order to have an enjoyable trip. Then, do things such as visit castles and bathe in hot springs, and bring many travel anecdotes back with you.   "
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 47ae001c-7e38-4be3-9219-eeaf184e2599
+---
+name: Tobira_L01-2_kaiwabun_1.mp3
+format: mp3
+duration: 03:37.26
+id: 9748a048-ced2-4448-aeb8-15308c9237da
+subtitles:
+  - id: 2f2f3f3a-5473-4243-9b06-c7173450bd8e
+    type: External
+    chunksMetadata:
+      count: 85
+      endCue: 10790.4
+    name: Tobira_L01-2_kaiwabun_1.srt
+clips:
+  - id: f9915497-bd3a-4f9a-a6b8-58d6fe0af396
+    start: 00:21.24
+    end: 00:40.12
+    fields:
+      transcription: |-
+        初めまして
+        私は文学を専攻しているモニカ ウエスト と申します
+        今日は先生に色々教えていただきたいと思います
+        どうぞよろしくお願いいたします
+        こちらこそよろしく
+        まず先生のご専門の
+        昔話についてお聞きしたいんですが
+    tags:
+      - Tobira_L01-2_kaiwabun_1.mp3
+  - id: 1516f77f-f50d-49f5-b66b-e7f1b833ed6e
+    start: 00:42.787
+    end: 01:04.267
+    fields:
+      transcription: |-
+        日本には
+        山 昔話があるそうですが
+        地方によって色々な昔話がありますよ
+        天井
+        地方という言葉は
+        時々聞きますが 田舎のことですか
+        田舎という意味もありますが
+        その間に 関東地方とか関西地方のように使うこともありま
+    tags:
+      &a1
+      - Tobira_L01-2_kaiwabun_1.mp3
+  - id: 6db91d9c-4551-4f7b-af2b-d6a9d02b963c
+    start: 01:05.067
+    end: 01:21.827
+    fields:
+      transcription: |-
+        関東地方というのは
+        東京のことですか
+        いや 東京だけでなく
+        横浜とか 千葉とか東京の周りの場所も入ります
+        関西地方 だったら
+        大阪屋 京都や 神戸屋
+        その周りですね
+    tags: *a1
+  - id: 4c2a8970-9c16-4585-aa3b-e75896d2dfc9
+    start: 01:23.711
+    end: 01:37.251
+    fields:
+      transcription: |-
+        昔話はどんな内容が多いんですか
+        そうですね
+        その地方の名所や地名や名物に関係がある話が多いですね
+        それから 伝統的な行事とかも
+    tags: *a1
+  - id: 51e36a4e-5e88-4f91-a878-fb3e93490124
+    start: 01:42.34
+    end: 01:54.64
+    fields:
+      transcription: |-
+        もう一度おっしゃっていただけませんか
+        伝統的な行事って言ったんですよ
+        行事というのは 歳や季節で決まった時に特別に何かを行うことです
+    tags: *a1
+  - id: f82578f2-80e6-4bfd-b965-356961ba6fd5
+    start: 02:08.52
+    end: 02:19.32
+    fields:
+      transcription: |-
+        じゃあ お正月は 伝統的な行事 何ですか
+        はい もちろんです
+        ひな祭りや こどもの日 や
+        七夕も伝統的な行事ですよ
+    tags: *a1
+  - id: 452e8e86-a6ab-496f-87bb-1de8594432e8
+    start: 02:22.74
+    end: 02:38.46
+    fields:
+      transcription: |-
+        昔話は
+        名所や地名に関係があるとおっしゃいましたけれど
+        そういう話は
+        その地方の人たちしか知らないんですか
+        いやそんなことはありません
+        一般的に知られている話もたくさんありますよ
+    tags: *a1
+  - id: 97cee041-6291-4954-b842-7dc1c7534fe4
+    start: 02:38.82
+    end: 02:48.2
+    fields:
+      transcription: |-
+        例えば 桃太郎とか
+        鶴の恩返しとか
+        桃太郎は 紙芝居で見たことがあります
+        歌も歌えます
+    tags: *a1
+  - id: c0140d03-18f3-4f09-b406-78b0e35b22ef
+    start: 02:55.576
+    end: 03:15.616
+    fields:
+      transcription: |-
+        日本の子供達は
+        紙芝居 とか 絵本で昔話を覚えるんですよ
+        私はもっと色々な昔話が知りたいです
+        じゃあ インターネットで調べてみたらどうですか
+        色々なサイトがエアーマンがと一緒に昔話を紹介していて楽しいですよ
+    tags:
+      - Tobira_L01-2_kaiwabun_1.mp3
+  - id: a942bddf-8456-462d-bb88-9696e6baae26
+    start: 03:18.036
+    end: 03:26.959
+    fields:
+      transcription: |-
+        先生
+        今日は色々教えて頂いてありがとうございました
+        大変勉強になりました
+        いいえどういたしまして
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 2f2f3f3a-5473-4243-9b06-c7173450bd8e
+---
+name: Tobira_L01-2_kaiwabun_2.mp3
+format: mp3
+duration: 01:54.077
+id: 9c1def5e-1a12-4bf5-8449-42d764b5450b
+subtitles:
+  - id: 69e70969-0560-4a64-acd8-591ef2a87b1c
+    type: External
+    chunksMetadata:
+      count: 39
+      endCue: 5452.8
+    name: Tobira_L01-2_kaiwabun_2.srt
+clips:
+  - id: 180452c5-18d0-4e6f-ba27-3f27ce5eb5d9
+    start: 00:11.58
+    end: 00:31.52
+    fields:
+      transcription: |-
+        雄太ってどこの出身
+        北海道
+        田舎だけど 自然が多くてとってもいいところだよ
+        北海道って気候が厳しいって聞いたけど
+        冬は雪が多くてとても寒いんだ
+        でも 夏は涼しくて気持ちがいいよ
+        梅雨もないし
+    tags:
+      &a1
+      - tobira01
+  - id: 12b5448d-f941-4351-be16-c6d4125a52d7
+    start: 00:32.8
+    end: 00:56.955
+    fields:
+      transcription: |-
+        何がないって
+        ごめん
+        あ、梅雨。雨がよく降る季節のこと
+        本州では5月の終わり頃から7月の初めまで
+        雨がたくさん降るんだけど
+        それを 梅雨 って言うんだ
+        湿度が高くてあまり気持ちのいい季節じゃないんだけど
+        北海道にはその梅雨がないんだ
+        ふーん そうか
+    tags:
+      - tobira01
+  - id: 00e0dee1-b561-4fd7-91b9-809f7ef6bf8d
+    start: 00:57.175
+    end: 01:13.94
+    fields:
+      transcription: |-
+        ところで
+        北海道の名物って何
+        雑誌にはラーメンが美味しい って書いてあったけど
+        ラーメン うまいよ
+        その他にも寿司とか魚とか肉とか
+        じゃがいも もうまいし
+        いいね
+        なんでも美味しそうだね
+    tags:
+      - tobira01
+  - id: c0b33463-f5d7-4c31-97da-e24847fb4fbc
+    start: 01:14.54
+    end: 01:32.12
+    fields:
+      transcription: |-
+        もし 夏に北海道に行くんだったら 東北地方まで行って 三大祭りを見てみたら
+        三大祭りってどんな祭り
+        秋田市の竿燈まつり
+        仙台市の七夕祭り
+        そして青森市のねぶた祭り
+    tags:
+      - tobira01
+  - id: a248815c-9cfa-4fa0-8917-b6d1fe32928f
+    start: 01:32.659
+    end: 01:49.019
+    fields:
+      transcription: |-
+        どの祭りもすごいスケール
+        毎年 日本だけじゃなくて海外からも 観光客がたくさん来るし
+        とても人気のある祭りだよ
+        それは面白そうだね
+        僕も見てみたいなぁ 絶対おすすめ
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 69e70969-0560-4a64-acd8-591ef2a87b1c
+---
+name: Tobira_L02-1_yomimono.mp3
+format: mp3
+duration: 09:47.703
+id: 664e3d86-3629-4591-8223-17c41f3a8203
+subtitles:
+  - id: 108656fc-bfc4-47fe-825f-71603cc142a6
+    type: External
+    chunksMetadata:
+      count: 168
+      endCue: 29324.75
+    name: Tobira_L02-1_yomimono.srt
+clips:
+  - id: b86d04e7-1002-46fa-babd-35b8b6b4320b
+    start: 00:14.351
+    end: 00:30.451
+    fields:
+      transcription: |-
+        皆さんはもう 敬語は勉強しましたか
+        家族や友達と話す時に使う カジュアルスピーチ
+        砕けた話し方も習いましたか
+        日本にはいろいろなスピーチ スタイルがあることは知っていますね
+    tags:
+      &a1
+      - tobira02
+  - id: 840d4766-4372-44c9-b54c-5fea347d7d5a
+    start: 00:31.24
+    end: 00:43.26
+    fields:
+      transcription: |-
+        実は日本語が話すときも 書くときも スタイルがとても複雑で
+        色々な決まりや 習慣があります
+        この課ではそれについて勉強してみましょう
+    tags: *a1
+  - id: d3005e27-19aa-4388-a869-fa52be041449
+    start: 00:45.3
+    end: 00:58.64
+    fields:
+      transcription: |-
+        1
+        スピーチレベル
+        丁寧さの使い分け
+        日本語はスピーチレベルが とても大切な言語 なので
+        話す相手によって話し方を変えなければいけないことがあります
+    tags: *a1
+  - id: 599fbc7c-c054-4f6a-837f-96b251dfb828
+    start: 00:59.44
+    end: 01:14.8
+    fields:
+      transcription: |-
+        例えば さようならと失礼しますが
+        見せてねと見せていただけませんか など スピーチレベルの使い分けは日本語を
+        勉強している人にとって最も難しいことのひとつだと言われています
+    tags: *a1
+  - id: d5eec82d-6468-453c-9eb2-30c3b4e00140
+    start: 01:15.32
+    end: 01:29.243
+    fields:
+      transcription: |-
+        スピーチ スタイルにはとても砕けた話し方からとても丁寧な話し方まで
+        色々なレベルがありますが どの部分が違うでしょうか
+        次の文を見て考えてみましょう
+    tags: *a1
+  - id: 1f97b305-0ecd-457c-be73-1fd1659799f4
+    start: 01:31.568
+    end: 01:49.808
+    fields:
+      transcription: |-
+        あいつ どこ住んでる
+        男性が使うことが多い
+        あの人どこに住んでるの
+        女性が使うことが多い
+        あの人はどこに住んでいますか
+        あの方はどちらに住んでいらっしゃいますか
+    tags: *a1
+  - id: 6001d656-bd3a-4c47-bdd6-e3039ccb7855
+    start: 01:51.78
+    end: 02:11.8
+    fields:
+      transcription: |-
+        皆さんは今までに何番の言い方を勉強しましたか
+        この四つの文を比べるとまず 文末に使われている言葉の形で
+        砕けた話し方か
+        丁寧な話し方が分かります
+        でも違いは 文末だけに現れるのではありません
+    tags: *a1
+  - id: f3540dc6-4e53-4ad4-9c6a-cfe6b36268cd
+    start: 02:12.58
+    end: 02:22.284
+    fields:
+      transcription: |-
+        「どこ」を「どちら」にすればもっと丁寧な言い方になります
+        あの人の代わりにあの方やあいつということもできます
+    tags: *a1
+  - id: 3fb5d879-736b-408f-9031-ed225c4021e6
+    start: 02:23.1
+    end: 02:34.58
+    fields:
+      transcription: |-
+        そして
+        どこに住んでるの
+        トイを言わなかったり
+        どこ住んでるの
+        土にを落として行ったりすると もっとくだけた感じになります
+    tags: *a1
+  - id: e5ebdbbe-9832-4c4e-965f-95f6fbb00065
+    start: 02:35.64
+    end: 02:53.38
+    fields:
+      transcription: |-
+        自然な話し方で話せるようになるためには
+        多くの日本人と色々な場面で話したり
+        日本の映画やドラマを見てどんな場面で
+        どんな人がどんな相手にどんな話し方をしているかをよく観察すると良いでしょう
+    tags: *a1
+  - id: a55de5ef-1d90-4b52-b442-a15b30e48b58
+    start: 02:54.0
+    end: 03:00.12
+    fields:
+      transcription: |-
+        次のページのいろいろなスピーチレベルの表を見て
+        言い方を比べてみてください
+    tags: *a1
+  - id: 4bd21053-7f18-4166-b3f3-af35f29ac6ef
+    start: 03:03.42
+    end: 03:23.54
+    fields:
+      transcription: |-
+        男性と女性の話し方の違い
+        日本語の小説を読んでいると
+        話し方で
+        男性と女性のどちらが話しているかわかることがあります
+        特に砕けた話し方では
+        男女の話し方に違いが見られます
+    tags: *a1
+  - id: 57ed8d8b-70d1-4e17-8a31-4ac167dda448
+    start: 03:24.484
+    end: 03:29.624
+    fields:
+      transcription: |-
+        下の会話は
+        男女 のどちらが話しているか
+        考えてみてください
+    tags: *a1
+  - id: c163dd76-4454-4635-92a7-f32dbf73f3f1
+    start: 03:31.46
+    end: 03:54.98
+    fields:
+      transcription: |-
+        あーお腹空いたなー
+        俺も 腹減った
+        この辺にうまいとんかつの店があるんだぜ
+        食いに行こうか
+        おごるよ
+        いやよ とんかつ は
+        カロリーが高いからなんだ
+        じゃあ俺一人で行く夫
+        あ 待って
+        砺波 せい 美味しいんでしょ
+        やっぱり私も行くわ
+        じゃあ今から行くぞ
+    tags: *a1
+  - id: 0f7ff5ac-ab1a-44d7-9951-6373c429ad68
+    start: 03:57.216
+    end: 04:06.836
+    fields:
+      transcription: |-
+        どうですか
+        言葉の使い方がずいぶん 違いますね
+        文字では分かりませんが
+        イントネーションもとても違います
+    tags: *a1
+  - id: e9465b46-00ef-4fc9-bea8-9742ec62a919
+    start: 04:07.896
+    end: 04:19.956
+    fields:
+      transcription: |-
+        友達や恋人や家族と話す時
+        男性は自分の事を僕とか俺といい
+        女性は大抵 私も使います
+    tags: *a1
+  - id: d96b79e4-9631-4771-893e-e0e3a4885d95
+    start: 04:20.72
+    end: 04:42.94
+    fields:
+      transcription: |-
+        最近は
+        男女の差が小さくなって
+        上の例のように
+        文末に
+        は
+        はよ
+        を使う女性や
+        瀬戸
+        を使う男性は少なくなっていますが
+        でも女性が
+        俺も 腹減った
+        を言ったり
+        男性が嫌よ と言ったら びっくりされてしまいます
+    tags: *a1
+  - id: c8ff1b55-fc0a-42f9-b6d2-31d8cf28a6d2
+    start: 04:44.003
+    end: 04:51.103
+    fields:
+      transcription: |-
+        話し方の差が小さくなっても
+        使わない方がいい 表現もあるということを言っておいてください
+    tags: *a1
+  - id: 5496596e-4976-4439-b4c0-d16eb77d9307
+    start: 04:53.726
+    end: 05:18.766
+    fields:
+      transcription: |-
+        3
+        文末の省略と言葉の短縮形
+        日本語のスピーチ スタイルを考える時
+        文を最後まで言わない スタイルも知っておいた方がいいでしょう
+        日本人の会話には下の例のように
+        けど
+        家
+        から
+        や市などで文を終わらせる 言い方が多く見られます
+    tags: *a1
+  - id: b8c32abd-fd81-4e51-b4a9-dfbb34777c1b
+    start: 05:20.3
+    end: 05:42.38
+    fields:
+      transcription: |-
+        読み方がわからないんですけど
+        教えてくれませんか
+        何回も電話をしたんですけど連絡がないので
+        困っています
+        私も忙しいし
+        できません
+        これは言いにくいことをハッキリ言わない言い方です
+    tags: *a1
+  - id: 60f7a5c2-a693-4a4c-b5c2-663830a54210
+    start: 05:42.77
+    end: 06:00.15
+    fields:
+      transcription: |-
+        例えば パーティーに誘われて断りたいとき
+        今週の土曜日は都合が悪くて行けません
+        というより今週の土曜日はちょっと
+        のようにあまり はっきり言わない方が相手の気分を悪くしません
+    tags: *a1
+  - id: 99c712cd-1170-41d4-b127-32b57faeac4c
+    start: 06:01.207
+    end: 06:20.407
+    fields:
+      transcription: |-
+        の部分で
+        お願いや理の意味を相手にわかってもらうのです
+        これは相手の気持ちを大切にする日本人の考え方が 日本語にあらわれている
+        表現の一つですから
+        が使えるようになると会話が上手に聞こえます
+    tags: *a1
+  - id: 8777e51b-378e-49aa-8cae-1f38e8c99015
+    start: 06:21.35
+    end: 06:30.78
+    fields:
+      transcription: |-
+        また話し言葉では言葉を簡単に短くしていう言い方もよく使われます
+        例えば 次のような例です
+    tags:
+      - tobira02
+  - id: 5ccf0b08-7ed5-47e2-9016-244fc35e83e5
+    start: 06:54.52
+    end: 07:15.4
+    fields:
+      transcription: |-
+        英語でも I want 都合が合えものは5となったり
+        Ask him gaskin
+        怒鳴ったりしますね
+        こういう言い方は英語ができない 外国人には慣れるまで大変です
+        同じように 日本語の短縮形 も使えるようになるためには時間がかかるのです
+    tags: *a1
+  - id: 41f5e3bb-e6f5-4089-b30f-b21a102e1ff5
+    start: 07:19.531
+    end: 07:26.571
+    fields:
+      transcription: |-
+        4
+        文の倒置
+        日本語の会話では文の倒置もよく見られます
+    tags: *a1
+  - id: fd6ed42d-e341-43b6-9b79-ea5120306772
+    start: 07:27.5
+    end: 07:48.32
+    fields:
+      transcription: |-
+        ごめん 連絡しなくて
+        今晩のパーティーには行けないんです 宿題があるので
+        傘持ってないんだ
+        雨降ってきたけど
+        上の文では一番言いたいことをはじめに言って
+        その後で 理由 や状況を説明しています
+    tags: *a1
+  - id: fbb797e7-a41f-4327-92fd-fb69d11f3632
+    start: 07:49.72
+    end: 07:53.26
+    fields:
+      transcription: このような話し方も 日本語の特徴の人って
+    tags: *a1
+  - id: 5d0a3440-a32c-4b66-aaed-92701127f7d0
+    start: 08:08.44
+    end: 08:26.54
+    fields:
+      transcription: |-
+        ご書き言葉 スタイル
+        話し言葉に色々なスタイルがあるように
+        書き言葉にも色々なスタイルがあります
+        日本語が上手になるためには
+        書くときにどんなスタイルを使ったらいいかも 勉強する必要があります
+    tags: *a1
+  - id: 60f96a45-8dfa-49c1-a5d8-b405d6cd31f6
+    start: 08:27.12
+    end: 08:49.4
+    fields:
+      transcription: |-
+        例えば携帯電話を使って友達に短いメッセージを送る時には
+        その友達と話す時のような 砕けた表現を使うかもしれません
+        手紙を書くときは普通ですます体
+        作文を書くときは ですます体を使うことも
+        堕胎を使うこともあるでしょう
+    tags: *a1
+  - id: a3e536d5-c18e-4cd4-86b8-67be3f6eed12
+    start: 08:50.175
+    end: 08:56.135
+    fields:
+      transcription: |-
+        また論文を書く場合には
+        大対レアル対を使うことが多いです
+    tags: *a1
+  - id: 5428bfd0-a197-4ded-975c-bbd830ccd0ae
+    start: 08:56.855
+    end: 09:09.155
+    fields:
+      transcription: |-
+        各スタイルは何を書くか
+        誰が読む かによって使い分けなくてはいけないため どのスタイルを選ぶかだけでな
+        言葉の選び方も大切です
+    tags: *a1
+  - id: c0ae344e-7165-472f-9c13-51d28a168ce7
+    start: 09:09.88
+    end: 09:32.98
+    fields:
+      transcription: |-
+        例えば大対レアル対の論文ではすごく面白いとか
+        とても面白いではなくて
+        大変興味深いと書いた方がいいのです
+        それはすごいやとてもより大変の方が そして
+        面白いより興味深いの方が 書き言葉的だからです
+    tags: *a1
+  - id: 2aa14bb8-fe38-4060-9ce6-fc2d3221f62f
+    start: 09:33.843
+    end: 09:46.303
+    fields:
+      transcription: |-
+        書くときには各スタイルに合った 書き言葉的表現
+        そして話す時には話す スタイルにあった
+        話し言葉的表現があることを覚えておいてください
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 108656fc-bfc4-47fe-825f-71603cc142a6
+---
+name: Tobira_L02-2_kaiwabun_1.mp3
+format: mp3
+duration: 01:22.573
+id: 2c27ad83-0312-4984-b51d-0d5456744352
+subtitles:
+  - id: 3d08097e-29e7-4552-9ef9-a59735de9308
+    type: External
+    chunksMetadata:
+      count: 33
+      endCue: 4032
+    name: Tobira_L02-2_kaiwabun_1.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 3d08097e-29e7-4552-9ef9-a59735de9308
+---
+name: Tobira_L02-2_kaiwabun_2.mp3
+format: mp3
+duration: 01:24.376
+id: 9fe8f277-744e-41fe-b9b9-7b86162167d5
+subtitles:
+  - id: 809d1840-6c29-492e-97cd-c14ab5ddf05d
+    type: External
+    chunksMetadata:
+      count: 34
+      endCue: 4172.8
+    name: Tobira_L02-2_kaiwabun_2.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 809d1840-6c29-492e-97cd-c14ab5ddf05d
+---
+name: Tobira_L03-1_yomimono.mp3
+format: mp3
+duration: 05:24.702
+id: 569c353c-2595-4105-b0b4-13e6224967fa
+subtitles:
+  - id: 549d749b-7b62-436c-9a03-84d95fd5531f
+    type: External
+    chunksMetadata:
+      count: 82
+      endCue: 16166.35
+    name: Tobira_L03-1_yomimono.srt
+clips:
+  - id: 2bcf7809-dc84-4c2c-a189-c6d8b1b6ebf6
+    start: 00:13.94
+    end: 00:18.26
+    fields:
+      transcription: 日本はロボットの技術が発達していることで有名だ
+    tags:
+      &a1
+      - tobira03
+  - id: 32049792-a0a7-4ffc-9632-0bb3857d06e1
+    start: 00:19.173
+    end: 00:34.673
+    fields:
+      transcription: |-
+        ロボットのイベント会場に行くと 似顔絵を書いてくれる ロボットや
+        注文を聞いて 飲み物を出してくれる ロボット
+        雲のように 天井や壁を歩くことができるロボット
+        手術をするロボットなどが見られる
+    tags:
+      - tobira03
+  - id: 2cf6e3b0-08f4-4741-a6f0-d6d8ab384ebd
+    start: 00:35.6
+    end: 01:00.388
+    fields:
+      transcription: |-
+        すでに実際に社会で活躍しているロボットもたくさんあって
+        留守番をしたり 重いものを運んだり
+        工場で車を作ったりして人間の代わりに色々な仕事をしている
+        また働くロボットの他にも人と一緒に生活するために作られたロボットもある
+        ロボットと暮らしている人たちの話を読んでみよう
+    tags:
+      - tobira03
+  - id: e1785fb7-be89-4dc9-98ea-c8476a16989f
+    start: 01:04.376
+    end: 01:18.596
+    fields:
+      transcription: |-
+        私の面白い家族
+        私は今 歳を取った人達が住んでいるケアハウスで暮らしています
+        同じくらいの歳の友達と一緒に家族のように生活しています
+    tags: *a1
+  - id: bafb5df5-492b-4019-90d3-723c4dd0aa9b
+    start: 01:19.84
+    end: 01:31.22
+    fields:
+      transcription: |-
+        私が住んでいる所には パロ という ちょっと面白い家族がいます
+        ちょっと面白いというのは
+        パロは実は人間ではなくてロボットだからです
+    tags: *a1
+  - id: e8261602-f5aa-4405-ac20-4e887b660b03
+    start: 01:32.34
+    end: 01:40.14
+    fields:
+      transcription: |-
+        パロはアザラシ型のロボットで
+        体には白い毛があってとてもきれいで触ると気持ちがいいんです
+    tags: *a1
+  - id: f231d3a6-ea70-4cc4-b0e1-a8e16f524253
+    start: 01:40.86
+    end: 01:52.96
+    fields:
+      transcription: |-
+        それに触ったり褒めたりしてやると
+        手とか足とか 首を動かしてとても可愛い声を出すのでパロの周りには
+        いつも人がたくさん集まっています
+    tags: *a1
+  - id: 724b69c0-6d53-4ddd-8bed-3fe167ae8a6b
+    start: 01:54.221
+    end: 02:01.881
+    fields:
+      transcription: |-
+        私は 動物のアレルギーがあるので
+        犬や猫を飼ったことはありませんが パロ なら触っても大丈夫です
+    tags: *a1
+  - id: 3a2caa15-5e21-43b5-a349-a413d8fb9440
+    start: 02:02.341
+    end: 02:09.021
+    fields:
+      transcription: |-
+        あ
+        でもパロは私達の大事な家族ですから ロボットだとは思っていませんよ
+    tags: *a1
+  - id: e37a16cf-aed7-41b0-984a-d0895eafda93
+    start: 02:10.08
+    end: 02:21.7
+    fields:
+      transcription: |-
+        パルは世界で最もセラピー効果があるロボットとしてギネスブックに載っていると聞きました
+        家族がギネスブックに載っているんですよ
+        すごいと思いませんか
+    tags: *a1
+  - id: d8e18312-0cba-49ad-b44b-bd0f0da0d8c4
+    start: 02:25.457
+    end: 02:43.14
+    fields:
+      transcription: |-
+        私の犬
+        私は犬が大好きです
+        でも子供の頃
+        私達家族はマンションに住んでいて
+        犬を飼うことができませんでした
+        そこでは
+        動物を飼ってはいけないことになっていたからです
+    tags:
+      - tobira03
+  - id: 92298a10-a65b-4caa-acd9-3c4d77e81bc7
+    start: 02:44.357
+    end: 02:50.257
+    fields:
+      transcription: |-
+        私は
+        犬が欲しいと言って泣いて
+        何度も 両親を困らせました
+    tags: *a1
+  - id: 2b9aedf8-c1c0-495e-9aba-b4c38fcadd08
+    start: 02:51.797
+    end: 03:04.337
+    fields:
+      transcription: |-
+        私が高校の入学試験に合格した時
+        両親は
+        おめでとう
+        子供の時から欲しがっていた犬を買ってあげたよ
+        と言ってお祝いをくれました
+    tags: *a1
+  - id: 7a5be4a3-f681-4371-9ad0-686fe424f41b
+    start: 03:05.441
+    end: 03:25.861
+    fields:
+      transcription: |-
+        中には 相棒という犬の形をしたロボットが入っていました
+        AIBO は 世界で初めて作られたペットロボットでした
+        初めは 本当の犬じゃなくてガッカリしたけれど
+        私はすぐ AIBO が好きになりました
+    tags: *a1
+  - id: d9e20b2c-c898-4796-9b9b-61b9832f3e83
+    start: 03:27.48
+    end: 03:45.64
+    fields:
+      transcription: |-
+        AIBO は最初は立つことのほかには何もできませんでしたが
+        すぐに歩くようになって
+        色々なことを覚えていきました
+        まず私がつけた
+        ポチという名前と
+        私と両親の顔覚えました
+    tags: *a1
+  - id: 01cab17d-e52b-4b71-8747-ce78d58a4be3
+    start: 03:47.349
+    end: 03:53.969
+    fields:
+      transcription: |-
+        それから
+        立ったり歩いたりし始めて
+        私が言ったことが理解できるようになりました
+    tags: *a1
+  - id: 5815e5d1-3ad2-4275-a78e-5ab4af814d24
+    start: 03:55.428
+    end: 04:10.048
+    fields:
+      transcription: |-
+        私は毎日学校から帰ると
+        ポチと話したり遊んだりしました
+        こっちは 私が家にいない時は
+        一人で部屋でボールで遊んだり寝たりしていたようです
+    tags: *a1
+  - id: 989a1665-b68a-4e74-b7f7-829e0f4d64de
+    start: 04:11.96
+    end: 04:20.46
+    fields:
+      transcription: |-
+        大学に入って家を出ることになった時も
+        ポチと一緒なら 寂しくないだろうと思ったので
+        連れて行きました
+    tags: *a1
+  - id: b97775eb-38a8-45fb-911d-76f62d2ec860
+    start: 04:21.688
+    end: 04:40.788
+    fields:
+      transcription: |-
+        ポチは3年前に動かなくなってしまったけれど
+        今も私のそばにはポチがいます
+        AIBO はもう作られていないそうで 残念ですが
+        これからはもっと色々なペットロボットが生まれて
+        人々を楽しませてくれると思います
+    tags: *a1
+  - id: a4e34675-a5a6-4186-8d4f-6cc4cdbca062
+    start: 04:43.607
+    end: 04:58.247
+    fields:
+      transcription: |-
+        パロ や AIBO は 一緒に住めるペットのようなロボットだが
+        その他にも 犬の散歩をするとかダンスをするとか
+        楽器を演奏するとか色々なことができる人型ロボットが作られている
+    tags: *a1
+  - id: 727b978d-818f-41b4-b812-5bca93efac0d
+    start: 04:58.767
+    end: 05:06.647
+    fields:
+      transcription: |-
+        それに
+        まだ 人形にはなっていないけれど
+        自分で考えたり 学習したりするロボットもあるそうだ
+    tags: *a1
+  - id: 2fd2f39d-674f-49f2-b046-03d3433ea66a
+    start: 05:07.217
+    end: 05:23.277
+    fields:
+      transcription: |-
+        近い将来私たちが 人型のロボットと生活して一緒にテレビを見てわら
+        笑ったり 食事をしたり
+        友達のように話したりする日が来るかもしれない
+        もちろん 掃除や洗濯もしてもらえたら最高だけど
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 549d749b-7b62-436c-9a03-84d95fd5531f
+---
+name: Tobira_L03-2_kaiwabun_1.mp3
+format: mp3
+duration: 01:56.976
+id: d36b9db3-6947-453e-8405-f75213159841
+subtitles:
+  - id: 3d436527-f8bf-4d4d-9c4c-f91a432f15a7
+    type: External
+    chunksMetadata:
+      count: 49
+      endCue: 5708.8
+    name: Tobira_L03-2_kaiwabun_1.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 3d436527-f8bf-4d4d-9c4c-f91a432f15a7
+---
+name: Tobira_L03-2_kaiwabun_2.mp3
+format: mp3
+duration: 01:43.706
+id: 79362505-bf8d-47a1-b026-36162eb88546
+subtitles:
+  - id: 31277229-cf42-4b53-9498-97ad4afbf6fe
+    type: External
+    chunksMetadata:
+      count: 39
+      endCue: 5120
+    name: Tobira_L03-2_kaiwabun_2.srt
+---
+name: Tobira_L03-2_kaiwabun_3.mp3
+format: mp3
+duration: 01:19.203
+id: 6a269f2c-b674-4bc9-9fbe-c77ed938aa5f
+subtitles:
+  - id: 4044c21f-dcd4-4525-b291-a030d9bac6ef
+    type: External
+    chunksMetadata:
+      count: 32
+      endCue: 3929.6
+    name: Tobira_L03-2_kaiwabun_3.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 4044c21f-dcd4-4525-b291-a030d9bac6ef
+---
+name: Tobira_L04-1_yomimono.mp3
+format: mp3
+duration: 06:21.597
+id: 6c724dfa-0edc-4a3e-a05e-f6c526ebd875
+subtitles:
+  - id: 6d781039-00e6-41b8-b406-e9428fc674ff
+    type: External
+    chunksMetadata:
+      count: 109
+      endCue: 18854.35
+    name: Tobira_L04-1_yomimono.srt
+clips:
+  - id: 0aab6132-b370-492a-967e-db0fdb23f772
+    start: 00:45.135
+    end: 00:58.175
+    fields:
+      transcription: テレビでも毎日のように、色々なスポーツ番組が見られるが、特に{{c1::代表的}}なものは野球、サッカー、ゴルフ、テニス、相撲などだ。
+    tags:
+      &a1
+      - tobira04
+  - id: 41cd2071-62a0-4f6f-931b-3be6e7084ecd
+    start: 00:59.648
+    end: 01:19.6
+    fields:
+      transcription: 日本国内の試合だけでなく、日本人野球選手が活躍しているアメリカのMLB、プロ野球のメジャーリーグや、サッカーのワールドカップ、オリンピックなども全てリアルタイムで見ることができ、スポーツ観戦はとても人気がある。
+    tags:
+      - tobira04
+  - id: 55d5bcc3-bc54-465c-af16-7fb48e6b10f7
+    start: 01:21.388
+    end: 01:32.068
+    fields:
+      transcription: |-
+        日本では試合で勝つことも大切だが
+        スポーツをすることで
+        人間として成長することが
+        それと同じぐらい大切だと考えられている
+    tags: *a1
+  - id: cb3fe445-1176-4924-82fa-38335aece18e
+    start: 01:33.144
+    end: 01:45.924
+    fields:
+      transcription: |-
+        例えば
+        日本の国技の相撲では
+        力士が相手力士に勝った時
+        土俵の上で笑顔を見せたり ガッツポーズをしたりするのは
+        いいことだと思われていない
+    tags: *a1
+  - id: a3121766-45ca-4612-8015-90266686525a
+    start: 01:47.208
+    end: 02:02.42
+    fields:
+      transcription: だから、勝って嬉しくて大声で叫びたい時でも、負けて悔しい時でも、土俵の上でその気持ちを表現したり、試合の後のインタビューでベラベラ話したりすることはあまりしない。
+    tags: *a1
+  - id: eafc8029-0599-4ba4-be93-299ad91c9f99
+    start: 02:03.392
+    end: 02:09.024
+    fields:
+      transcription: もちろん、相手を笑ったり、バカにしたジェスチャーをするなどは絶対にしてはいけない。
+    tags: *a1
+  - id: 4e28c633-be7e-4f67-adb6-8b7ab8988cb4
+    start: 02:11.072
+    end: 02:24.132
+    fields:
+      transcription: 柔道や剣道、空手や合気道など、日本に昔からある武道では、まず「礼に始まり礼に終わる」という考え方が大切だと教えられる。
+    tags: *a1
+  - id: 098655d4-e6a1-4e00-aaf9-9d7229064194
+    start: 02:25.84
+    end: 02:33.84
+    fields:
+      transcription: |-
+        そしてこの考え方は
+        ぶどうが スポーツとして世界中で楽しまれるようになっても変わっていない
+    tags: *a1
+  - id: 51df393c-a2b2-44b8-8bce-a0c1374efd4a
+    start: 02:35.668
+    end: 02:49.168
+    fields:
+      transcription: |-
+        例えば 武道を習う人は
+        まず道場に入る前に
+        道場に向かって礼をする
+        そして練習が始まる前には
+        先生に向かって礼をする
+    tags: *a1
+  - id: e2167e48-0101-437b-8bc6-789efed4efa4
+    start: 02:50.556
+    end: 03:03.116
+    fields:
+      transcription: |-
+        練習する相手ともお互いに礼をし会ってから始め
+        終わった時にも礼をする
+        そして
+        道場を出る時にも
+        礼をしなくてはいけない
+    tags: *a1
+  - id: 994ed3ef-a65d-4a5b-87cc-30ac500fe4e2
+    start: 03:04.519
+    end: 03:14.739
+    fields:
+      transcription: この礼は、挨拶の為だけにするのではなく、相手に向かって尊敬や感謝の気持ちを表すという意味が含まれているのだ。
+    tags: *a1
+  - id: 479a2c66-89ef-43cf-8443-b486e55a681c
+    start: 03:15.9
+    end: 03:24.22
+    fields:
+      transcription: そのため、子供が礼儀正しい人間に育つように、子供を武道の道場に通わせる親もいる。
+    tags:
+      - tobira04
+  - id: faf9b299-15a9-4a14-be26-f614a7adef4e
+    start: 03:25.984
+    end: 03:47.368
+    fields:
+      transcription: |-
+        日本のスポーツでは「心・技・体」という考え方もとても大切だ。
+        「心」は 精神力、「技」は運動の技術や能力、「体」は体力のことで、どんなスポーツでもこの三つがなければ上手にならないと考えられている。
+    tags:
+      - tobira04
+  - id: 783702dc-092d-4567-bf93-8e6ee5ad2cd1
+    start: 03:48.824
+    end: 03:57.644
+    fields:
+      transcription: 「心」には強い精神力という意味の他に、人が人として持たなければならない心という意味が含まれている。
+    tags: *a1
+  - id: b8b6639f-5eb9-4df9-afe9-61786b7a57a7
+    start: 03:59.676
+    end: 04:20.516
+    fields:
+      transcription: |-
+        日本のプロ野球で9年間プレーをして
+        今はアメリカの MLB で活躍しているある選手がインタビューに答えて
+        バッターが三振をした後に自分のバットを折ってしまったり
+        ピッチャーが打たれた後にグローブをロッカーに投げたりするのを見ると驚く
+    tags:
+      - tobira04
+  - id: 17c70cca-6219-410c-8802-45332c65b9dc
+    start: 04:21.32
+    end: 04:27.78
+    fields:
+      transcription: |-
+        それを作ってくれた人たちのことを考えたら
+        僕にはそんなことは絶対にできないと言っている
+    tags: *a1
+  - id: d9e9681a-e014-483e-b30c-ee2de390a94d
+    start: 04:29.64
+    end: 04:39.2
+    fields:
+      transcription: |-
+        試合や練習が終わって彼が一番最初にするのは
+        使った
+        バットやグローブやスパイクの手入れ だそうだ
+    tags: *a1
+  - id: b23493b4-ea8a-4299-973e-a78d280ec94d
+    start: 04:40.624
+    end: 04:50.644
+    fields:
+      transcription: |-
+        彼にとっては野球のプレーだけでなく
+        彼に野球をさせてくれるものや
+        その後ろにいる人たちも
+        とても大切なのだろう
+    tags: *a1
+  - id: e4cd4198-bf18-4899-a7b2-c74020667933
+    start: 04:52.42
+    end: 05:07.72
+    fields:
+      transcription: |-
+        その他 日本のプロ野球では
+        ピッチャーがバッターにデッドボール を与えてしまったら
+        帽子を脱いでバッターに謝るが
+        これも「心」を大切にする 例の一つだと言えるのではないだろうか
+    tags:
+      - tobira04
+  - id: 48a69fa8-db71-47e4-a713-abf687db1631
+    start: 05:09.719
+    end: 05:22.819
+    fields:
+      transcription: |-
+        1984年のロサンゼルスオリンピックで
+        金メダルを取った
+        柔道の山下泰裕 選手は
+        若い選手たちを育てるときにこんなことを言う そうだ
+    tags: *a1
+  - id: d33cedd3-9ed6-4715-b36f-a1d7f2fb6f4a
+    start: 05:23.96
+    end: 05:36.26
+    fields:
+      transcription: |-
+        バスや電車に乗っている時にお年寄りや 赤ちゃんのいる女性などが乗ってきたら
+        すぐに立って席を譲る
+        誰かが重いものを持っていたら代わりに守ってあげる
+    tags: *a1
+  - id: e56b8ba2-7116-4b22-b4b6-df5b87725670
+    start: 05:37.0
+    end: 05:46.94
+    fields:
+      transcription: |-
+        困っている人がいたら迷わず助けてあげる
+        道場で学んだことを そういうところで生かすのが 柔道の精神 なんだよ
+    tags: *a1
+  - id: c3aedd78-90ab-44ab-b4ba-c4e6f436d20b
+    start: 05:48.28
+    end: 06:02.78
+    fields:
+      transcription: |-
+        山下選手はこの考え方を柔道の精神 だと言っているが
+        実は彼の言葉は
+        日本人のスポーツについての一般的な考え方をわかりやすく表していると言えるだろう
+    tags: *a1
+  - id: eb94da20-dd06-47ac-b691-8c93eacac875
+    start: 06:04.504
+    end: 06:16.884
+    fields:
+      transcription: |-
+        日本人にとってスポーツで大切なことは
+        試合に勝つことや健康になることだけでなく
+        礼や 心についての考え方も学ぶことなのである
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 6d781039-00e6-41b8-b406-e9428fc674ff
+---
+name: Tobira_L04-2_kaiwabun_1.mp3
+format: mp3
+duration: 01:13.927
+id: d6ec019f-00bc-447d-91a7-cc1ace267f7f
+subtitles:
+  - id: 3d572979-b9f9-4ec2-b69f-5535e9a1ddc3
+    type: External
+    chunksMetadata:
+      count: 27
+      endCue: 3545.6
+    name: Tobira_L04-2_kaiwabun_1.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 3d572979-b9f9-4ec2-b69f-5535e9a1ddc3
+---
+name: Tobira_L04-2_kaiwabun_2.mp3
+format: mp3
+duration: 01:37.724
+id: 1790391a-49fc-4ced-bd8d-d32024feb8de
+subtitles:
+  - id: b9fdc0e5-1173-4f8a-aa16-7b9beca525c4
+    type: External
+    chunksMetadata:
+      count: 37
+      endCue: 4736
+    name: Tobira_L04-2_kaiwabun_2.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: b9fdc0e5-1173-4f8a-aa16-7b9beca525c4
+---
+name: Tobira_L04-2_kaiwabun_3.mp3
+format: mp3
+duration: 01:52.954
+id: dfccf81c-6c01-4841-ab57-45caa99c9243
+subtitles:
+  - id: 5f84e0ba-ccb0-4f9a-a085-be26721a8d87
+    type: External
+    chunksMetadata:
+      count: 42
+      endCue: 5555.2
+    name: Tobira_L04-2_kaiwabun_3.srt
+clips:
+  - id: 06306469-3588-48a6-ac3e-cc0f73650cd5
+    start: 00:35.077
+    end: 00:37.717
+    fields:
+      transcription: 主将の山田さんの日は 黒いですね
+    tags:
+      &a1
+      - tobira04
+  - id: a7681335-84b3-41a9-932f-ce5ceb88b8da
+    start: 00:55.16
+    end: 01:12.72
+    fields:
+      transcription: |-
+        佐藤さんはどうして空手を始めたんですか
+        そうですね
+        僕は本当は剣道部に入りたかったんだけど
+        剣道は道具にお金がかかるから
+        それを使わなくても楽しめる空手にしたんです
+        へー そうだったんですか
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 5f84e0ba-ccb0-4f9a-a085-be26721a8d87
+---
+name: Tobira_L05-1_yomimono.mp3
+format: mp3
+duration: 04:29.244
+id: ea88e91a-a5f8-4d78-ad2d-b1483394ab75
+subtitles:
+  - id: 698327c2-9ea1-4b5e-9fc2-f33150e8944f
+    type: External
+    chunksMetadata:
+      count: 84
+      endCue: 13247.95
+    name: Tobira_L05-1_yomimono.srt
+clips:
+  - id: 218d48a7-a730-4be2-be1c-de0a0b4e663d
+    start: 00:13.72
+    end: 00:31.52
+    fields:
+      transcription: |-
+        世界中の人々に広く親しまれている食べ物 インスタントラーメン
+        世界中の人々に広く親しまれている食べ物 インスタントラーメン
+        世界ラーメン協会のデータによると
+        2008年に
+        全世界で消費されたインスタントラーメンは
+        936.06億食だそうです
+    tags:
+      &a1
+      - tobira05
+  - id: 4eb7b1c8-b47f-4e2f-8d36-23df2ae4682f
+    start: 00:32.42
+    end: 01:00.013
+    fields:
+      transcription: |-
+        世界で一番インスタントラーメンをたくさん食べる国は中国で451.7億食
+        その次はインドネシアの137.0億食
+        日本の51.0億食
+        アメリカの43.2億食
+        ベトナムの39.1億食
+        韓国の33.4 億食 続きます
+  - id: 51f30065-68b6-4e56-a4b8-a6e784593ce2
+    start: 01:01.169
+    end: 01:18.38
+    fields:
+      transcription: |-
+        一人当たりの消費量が最も多いのは韓国で
+        韓国人一人が食べた インスタントラーメンは
+        1年に約69 食ということです
+        日本では
+        1年に一人当たり
+        約40食を食べています
+    tags:
+      - tobira05
+  - id: c7ed17c6-84bf-4b7d-915a-de6f365dba8e
+    start: 01:19.912
+    end: 01:32.992
+    fields:
+      transcription: |-
+        インスタントラーメンには
+        袋入りラーメンとカップラーメンがありますが
+        多く食べられているのはカップラーメンの方です
+        皆さんも一度は食べたことがあるのではないでしょうか
+    tags: *a1
+  - id: f741da2b-d4e3-4695-91af-15c3ae5f1a1c
+    start: 01:34.093
+    end: 01:54.533
+    fields:
+      transcription: |-
+        カップにお湯を入れて
+        3分待てば 食べられるカップラーメンは
+        値段の安さ
+        簡単さ
+        種類の多さ などで特に若者に人気が高く
+        一人暮らしをしている日本の学生の中には
+        カップラーメンに毎日のようにお世話になっている人もいる と聞きます
+    tags: *a1
+  - id: 7da224f6-e673-4e7e-ac1a-6956645d092f
+    start: 01:55.78
+    end: 02:11.0
+    fields:
+      transcription: |-
+        現在 東南アジアをはじめ
+        南米
+        ヨーロッパ アフリカなど
+        世界80カ国以上の国で食べられているカップラーメン ですが
+        皆さんはこれが
+        日本で出来たということを知っていましたか
+    tags: *a1
+  - id: b8bb47ae-56b9-4d90-ac06-2117a37f8681
+    start: 02:11.82
+    end: 02:25.34
+    fields:
+      transcription: |-
+        カップラーメンは今から30年以上も前に
+        安藤百福という人によって発明されました
+        安藤 が一番初めに作ったカップラーメンは
+        カップヌードルと言います
+    tags: *a1
+  - id: ea179252-1c9c-4c89-a86f-795d8e14e7cc
+    start: 02:26.96
+    end: 02:38.84
+    fields:
+      transcription: |-
+        安藤はカップヌードルを発明する 13年前に
+        世界で初めて 袋入りのインスタントラーメンも考えた人で
+        ラーメンの父 と呼ばれています
+    tags: *a1
+  - id: 75d14b97-3bf0-4d0e-8161-da7bf2321a91
+    start: 02:39.84
+    end: 02:56.4
+    fields:
+      transcription: |-
+        1910年に生まれた安藤は
+        戦後 あまり食べ物がない時代に
+        人々が ラーメンの屋台の前に
+        長い列を作っているのを見て
+        家でお湯さえあれば すぐ食べられるラーメンを作りたいと思ったそうです
+    tags: *a1
+  - id: edbaf7ec-4e21-442d-b299-777da2aa390c
+    start: 02:57.16
+    end: 03:10.877
+    fields:
+      transcription: |-
+        何回も失敗を繰り返しましたが
+        48歳の時
+        ついに チキンラーメン という 袋入り インスタントラーメンの商品化に成功し
+        そのラーメンは大ヒットしました
+    tags:
+      - tobira05
+  - id: cdb555c4-eb4a-4157-9562-7891e4f4ebbb
+    start: 03:11.488
+    end: 03:27.168
+    fields:
+      transcription: |-
+        ところが
+        安藤の成功を見て
+        他の会社でもインスタントラーメンを
+        作り始めたため
+        2年ぐらいの間に
+        インスタントラーメンを作る会社の数がとても増えて
+        競争が激しくなってしまいました
+    tags: *a1
+  - id: 49e503b3-0e81-4cb9-8b5f-2ea5764a0b40
+    start: 03:28.088
+    end: 03:32.588
+    fields:
+      transcription: それで 安藤は日本国内から世界に目を向けたのです
+    tags: *a1
+  - id: 890d52eb-47cf-47cd-b362-a4ac4094aec8
+    start: 03:34.221
+    end: 03:54.281
+    fields:
+      transcription: |-
+        おいしさに国境はないと信じた安藤は
+        インスタントラーメンは国際的な商品になるに違いないと思いました
+        しかし 文化が違えば
+        食習慣も違います
+        例えば 日本人は箸でラーメンを食べますが
+        箸を使わない国の人たちもいます
+    tags: *a1
+  - id: a456e131-7717-41f0-ab59-8d094c19aeb9
+    start: 03:54.908
+    end: 04:10.508
+    fields:
+      transcription: |-
+        文化 伝統
+        習慣の違いを理解しなければ
+        国境を越えられない
+        と考えた安藤は
+        インスタントラーメンを世界に広げる ヒントを見つけるため
+        1966年に
+        アメリカに行きました
+    tags: *a1
+  - id: 4071d52c-bfb4-4832-8b63-351eb79695d2
+    start: 04:11.308
+    end: 04:25.137
+    fields:
+      transcription: |-
+        そして
+        この旅行で得た ヒントを元に
+        5年後にカップラーメンを作り出したのです
+        では カップラーメンがどうやって生まれたか
+        この話の続きは漫画で読んでみましょう
+    tags:
+      - tobira05
+flashcardFieldsToSubtitlesTracks:
+  transcription: 698327c2-9ea1-4b5e-9fc2-f33150e8944f
+---
+name: Tobira_L05-2_kaiwabun_1.mp3
+format: mp3
+duration: 02:03.35
+id: eb7580be-5f75-4be6-a607-e4bb34dd565e
+subtitles:
+  - id: df47b4d7-7c4b-4f17-b51c-da733900f417
+    type: External
+    chunksMetadata:
+      count: 41
+      endCue: 5939.2
+    name: Tobira_L05-2_kaiwabun_1.srt
+clips:
+  - id: 07e59dab-221f-4fcb-b258-cbf5593e6f7a
+    start: 01:26.78
+    end: 01:37.384
+    fields:
+      transcription: |-
+        ご飯の上に何かのってるのを
+        「丼もの」って言うんだけど
+        日本人はこういう食べ方が好きなんだ
+        天丼とか カツ丼とか
+        親子丼とかね
+    tags:
+      - tobira05
+flashcardFieldsToSubtitlesTracks:
+  transcription: df47b4d7-7c4b-4f17-b51c-da733900f417
+---
+name: Tobira_L05-2_kaiwabun_2.mp3
+format: mp3
+duration: 02:25.763
+id: 93366025-25ac-4d27-b090-07a4f335f4ca
+subtitles:
+  - id: b3f5bac3-f461-4085-80ba-f84feb6a4adc
+    type: External
+    chunksMetadata:
+      count: 57
+      endCue: 7065.6
+    name: Tobira_L05-2_kaiwabun_2.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: b3f5bac3-f461-4085-80ba-f84feb6a4adc
+---
+name: Tobira_L06-1_yomimono_1.mp3
+format: mp3
+duration: 05:40.376
+id: bc067aa5-051f-452e-8e14-d73c88d31b7f
+subtitles:
+  - id: b7802a76-5add-4210-a702-43e01c24ee83
+    type: External
+    chunksMetadata:
+      count: 103
+      endCue: 16934.35
+    name: Tobira_L06-1_yomimono_1.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: b7802a76-5add-4210-a702-43e01c24ee83

@@ -6994,7 +6994,7 @@ clips:
     end: 00:49.82
     fields:
       transcription: 大きい家の大きい部屋に女の子がいます。
-      pronunciation: Ookíi ié-no oókíi heyá-ni onnanóko-ga imásu.
+      pronunciation: Ookíi ié-no ookíi heyá-ni onnanóko-ga imásu.
       meaning: In [a] big room of [the] big house, there is [a] little girl. (polite)
       notes: '"imásu" in plain form = "iru"'
     tags:
@@ -7198,7 +7198,7 @@ clips:
       meaning: |-
         There is [an] old man. (polite)
         OR
-        There is are old men. (polite)
+        There are old men. (polite)
       notes: imásu = iru
     tags:
       - jgr1-1-1
@@ -7285,7 +7285,7 @@ clips:
     start: 03:04.62
     end: 03:12.28
     fields:
-      transcription: ある日、男の子女の子に言いました。「はい、これ」
+      transcription: ある日、男の子は女の子に言いました。「はい、これ」
       pronunciation: Áru hi, otokónoko-wa onnanóko-ni iimáshita. "Hai, kore."
       meaning: 'One day, [the] boy said (polite) to [the] girl, "Here, [take] this." '
       notes: |-

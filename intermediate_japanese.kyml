@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-09-23T13:22:23Z
+timestamp: 2020-11-01T15:39:50Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -5762,6 +5762,8 @@ clips:
         2008年に
         全世界で消費されたインスタントラーメンは
         936.06億食だそうです
+    tags:
+      - tobira05
   - id: 4eb7b1c8-b47f-4e2f-8d36-23df2ae4682f
     start: 00:32.42
     end: 01:00.013
@@ -5773,6 +5775,8 @@ clips:
         アメリカの43.2億食
         ベトナムの39.1億食
         韓国の33.4 億食 続きます
+    tags:
+      - tobira05
   - id: 51f30065-68b6-4e56-a4b8-a6e784593ce2
     start: 01:01.169
     end: 01:18.38
@@ -5795,6 +5799,8 @@ clips:
         袋入りラーメンとカップラーメンがありますが
         多く食べられているのはカップラーメンの方です
         皆さんも一度は食べたことがあるのではないでしょうか
+    tags:
+      - tobira05
   - id: f741da2b-d4e3-4695-91af-15c3ae5f1a1c
     start: 01:34.093
     end: 01:54.533
@@ -5807,6 +5813,8 @@ clips:
         種類の多さ などで特に若者に人気が高く
         一人暮らしをしている日本の学生の中には
         カップラーメンに毎日のようにお世話になっている人もいる と聞きます
+    tags:
+      - tobira05
   - id: 7da224f6-e673-4e7e-ac1a-6956645d092f
     start: 01:55.78
     end: 02:11.0
@@ -5818,6 +5826,8 @@ clips:
         世界80カ国以上の国で食べられているカップラーメン ですが
         皆さんはこれが
         日本で出来たということを知っていましたか
+    tags:
+      - tobira05
   - id: b8bb47ae-56b9-4d90-ac06-2117a37f8681
     start: 02:11.82
     end: 02:25.34
@@ -5827,6 +5837,8 @@ clips:
         安藤百福という人によって発明されました
         安藤 が一番初めに作ったカップラーメンは
         カップヌードルと言います
+    tags:
+      - tobira05
   - id: ea179252-1c9c-4c89-a86f-795d8e14e7cc
     start: 02:26.96
     end: 02:38.84
@@ -5835,6 +5847,8 @@ clips:
         安藤はカップヌードルを発明する 13年前に
         世界で初めて 袋入りのインスタントラーメンも考えた人で
         ラーメンの父 と呼ばれています
+    tags:
+      - tobira05
   - id: 75d14b97-3bf0-4d0e-8161-da7bf2321a91
     start: 02:39.84
     end: 02:56.4
@@ -5845,6 +5859,8 @@ clips:
         人々が ラーメンの屋台の前に
         長い列を作っているのを見て
         家でお湯さえあれば すぐ食べられるラーメンを作りたいと思ったそうです
+    tags:
+      - tobira05
   - id: edbaf7ec-4e21-442d-b299-777da2aa390c
     start: 02:57.16
     end: 03:10.877
@@ -5868,11 +5884,15 @@ clips:
         2年ぐらいの間に
         インスタントラーメンを作る会社の数がとても増えて
         競争が激しくなってしまいました
+    tags:
+      - tobira05
   - id: 49e503b3-0e81-4cb9-8b5f-2ea5764a0b40
     start: 03:28.088
     end: 03:32.588
     fields:
       transcription: それで 安藤は日本国内から世界に目を向けたのです
+    tags:
+      - tobira05
   - id: 890d52eb-47cf-47cd-b362-a4ac4094aec8
     start: 03:34.221
     end: 03:54.281
@@ -5884,6 +5904,8 @@ clips:
         食習慣も違います
         例えば 日本人は箸でラーメンを食べますが
         箸を使わない国の人たちもいます
+    tags:
+      - tobira05
   - id: a456e131-7717-41f0-ab59-8d094c19aeb9
     start: 03:54.908
     end: 04:10.508
@@ -5896,6 +5918,8 @@ clips:
         インスタントラーメンを世界に広げる ヒントを見つけるため
         1966年に
         アメリカに行きました
+    tags:
+      - tobira05
   - id: 4071d52c-bfb4-4832-8b63-351eb79695d2
     start: 04:11.308
     end: 04:25.137
@@ -6726,6 +6750,7 @@ clips:
         キラー細胞が増えれば増えるほど
         多くの悪い細胞が減るのですが
         笑いには このキラー細胞を増やす効果があるということもわかりました
+      meaning: Furthermore, there are uniquely-named cells called “natural killer cells” within the blood. As their name indicates, these cells have the power to destroy viruses or cancer cells, and the more the natural killer cells increase, the fewer the bad cells. It was found that laughter had an effect of increasing the number of natural killer cells, too.
     tags: *a1
   - id: 5e6c3517-ec8b-4151-850f-5edd250e1f33
     start: 01:43.856
@@ -6763,6 +6788,7 @@ clips:
         嘘をついたり
         困ったりする様子を
         言葉や動作でユーモラスに表現しているのが 狂言です
+      meaning: In kyogen plays, various characters, such as masters and servants, parents and children, and yamabushi (itinerant Buddhist monks), appear, but all of the characters are ordinary people who can be seen anywhere, and there are no superhuman hero characters like Superman. Furthermore, there are also no characters like the main character of a tragedy. A kyogen play is something that expresses humorously, through words and actions, the state of these ordinary people, who fail, tell lies, and get into trouble.
     tags:
       - tobira08
   - id: d291a396-0930-4792-b44c-62951dde15a5
@@ -6780,6 +6806,7 @@ clips:
         偉そうにしていた親が子供にからかわれたり
         超人的な力を持っているはずの 山伏が
         実際は魅力で弱かったりするという話がよく出てきます
+      meaning: Additionally, in kyogen there is amusement of a satirical nature, in which the positions of strong people and weak people become reversed in the middle of the story. For example, in kyogen a master is easily deceived by his servant; and there are many stories in which an arrogant parent is teased by his child or a yamabushi, who ought to have superhuman powers, is in reality powerless and weak.
     tags: *a1
   - id: f198a2e9-6f5d-419f-8382-aa0179ac54e1
     start: 03:06.852
@@ -6791,13 +6818,14 @@ clips:
         しかし
         狂言の中では
         身分が高くて立派だと思われている人が
-        馬鹿なことをして身分が低い人に笑われる という話がよく出てきます
+        馬鹿なことをして身分が低い人に笑われるという話がよく出てきます
         昔の人々は
         狂言の中に
         偉い人や超人的な人が
         自分たちと変わらない
         普通の人として描かれている点に
         面白さを感じたのではないでしょうか
+      meaning: In old Japan, the gap in social positions was large, and there were strict superior-subordinate relationships. However, in many kyogen stories we see that high-ranked people, who are thought to be admirable, do foolish things and are laughed at by low-ranked people. The people of long ago probably felt amused by the fact that powerful or superhuman people were portrayed as ordinary people no different from themselves.
     tags: *a1
   - id: 7f1e2567-1ca7-43a4-bfc4-e6fb6f653fa1
     start: 03:38.24
@@ -6813,6 +6841,7 @@ clips:
         ますます 見たくなってしまった二人は
         我慢できずに
         桶の蓋を開けてみました
+      meaning: Let us introduce a representative kyogen, a story called Busu. One day, a master left his house after telling his two servants never to go near a bucket with a horrible poison called busu in it while he is out. However, the two servants, who really wanted to see it even more after being told “Don’t look,” couldn’t stand it any longer and opened the lid of the bucket (to see what was inside).
     tags: *a1
   - id: e17e7196-3b11-496c-b5b2-0592d9c2d129
     start: 04:06.52
@@ -6820,18 +6849,1874 @@ clips:
     fields:
       transcription: |-
         すると
-        OK の中から
+        桶の中から
         甘くて美味しそうな匂いがしてきました
         実は保険に入っていたのは
         恐ろしい毒ではなくて
         甘くて美味しい黒砂糖 だったのです
         もちろん二人はそれを全部食べてしまいました
         さて
-        二人は主人に誤ったと思いますか
+        二人は主人に謝ったと思いますか
         家
         二人は逆に
         主人が大切にしていた掛け軸を破ったり
         高い 茶碗を割ったりしました
+      meaning: |-
+        When they did this, a sweet, delicious smell came from inside the bucket. In fact, the contents of the bucket had not been horrible poison, but sweet and delicious brown sugar. Of course, the two ate all of it.
+        Now, do you think that the two apologized to their master? No, on the contrary, the two did things like tear their master’s prized hanging scroll and break his expensive bowl.
     tags: *a1
+  - id: 03890d7a-f288-4d61-9726-a18a4fdec356
+    start: 04:37.087
+    end: 05:05.747
+    fields:
+      transcription: |-
+        そして 主人が帰ってくると泣きながら
+        大変悪いことをしてしまったので
+        ブスを食べて死のうと思ったけれど死ねなかった
+        と言いました
+        自分が出かけている間に
+        黒砂糖を食べられないように
+        6だと言って家来を騙そうとした主人
+        しかし
+        逆に家来に黒砂糖を全部食べられてしまい
+        その上 大事な 掛け軸を破られた回 茶碗も破られてしまったのです
+      meaning: And, when their master came home, they cried while saying to him, “We did very terrible things, so we tried to kill ourselves by eating busu, but we weren’t able to die.” The master had tried to deceive his servants by telling them that the brown sugar was poison so that they wouldn’t eat it while he was out. However, contrary to his intention, all his brown sugar was eaten by his servants, and on top of that his precious hanging scroll was torn and his expensive bowl was broken as well.
+    tags:
+      - tobira08
+  - id: 936c8c09-1ade-45d6-9ce3-d3702131fb47
+    start: 05:06.939
+    end: 05:33.627
+    fields:
+      transcription: |-
+        皆さんはこの話のどんなところが面白いと思いますか
+        皆さんの体の中のキラー細胞は増えたでしょうか
+        このように
+        笑いは伝統芸能の中にも生きています
+        そして 芸術の中の笑いも
+        毎日の 日常生活の中で生まれる 笑いも効果は同じです
+        皆さんも身近な健康法として
+        笑いを見直してみませんか
+      meaning: What parts of this story do you think are funny? Did your body’s natural killer cells increase in number? In this way, laughter is an active element (lit. alive) in traditional arts, too. Also, both the laughter within the arts and the laughter occurring in everyday life have the same effect. Won't you try viewing laughter in a new light as a handy health-maintenance method?
+    tags:
+      - tobira08
 flashcardFieldsToSubtitlesTracks:
   transcription: 5c0c0282-07d3-429b-9b9b-42f449ac1b16
+---
+name: Tobira_L08-2_kaiwabun_story.mp3
+format: mp3
+duration: 02:38.198
+id: 2e6b09d5-8391-469c-ba0c-8c8b2a3d6ea5
+subtitles:
+  - id: bc739139-5a56-4e1d-bc1a-0ad1b8d1b8c2
+    type: External
+    chunksMetadata:
+      count: 44
+      endCue: 7680
+    name: Tobira_L08-2_kaiwabun_story.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: bc739139-5a56-4e1d-bc1a-0ad1b8d1b8c2
+---
+name: Tobira_L08-2_kaiwabun.mp3
+format: mp3
+duration: 02:59.174
+id: 74dbb018-7dc0-4a1b-996e-6f42d0ac2b09
+subtitles:
+  - id: cf2c8c66-234d-4883-80c9-868969e4d6ea
+    type: External
+    chunksMetadata:
+      count: 68
+      endCue: 8729.6
+    name: Tobira_L08-2_kaiwabun.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: cf2c8c66-234d-4883-80c9-868969e4d6ea
+---
+name: Tobira_L09-1_yomimono.mp3
+format: mp3
+duration: 09:42.296
+id: fba0ab6c-e323-402f-ba1c-48d00d07710b
+subtitles:
+  - id: d2e6e699-3f40-43a1-b44d-bf1ba9d08fbc
+    type: External
+    chunksMetadata:
+      count: 174
+      endCue: 28876.75
+    name: Tobira_L09-1_yomimono.srt
+clips:
+  - id: f00c2d68-7295-43fb-b737-e951354de088
+    start: 00:14.28
+    end: 00:33.62
+    fields:
+      transcription: |-
+        皆さんの国の教育制度は
+        現在
+        どのような制度になっていますか
+        どんな良い点
+        どんな問題点がありますか
+        自分たちが受けてきた教育に満足していますか
+        この課では
+        教育について考えてみましょう
+    tags:
+      &a1
+      - tobira09
+  - id: 5f532c2f-c28a-4f0b-b4c3-6df49f842bef
+    start: 00:34.796
+    end: 00:45.916
+    fields:
+      transcription: |-
+        まずはじめに
+        日本の教育制度や
+        現在の状況について紹介しますので
+        その後で
+        皆さんの次の教育について話し合ってみてください
+    tags: *a1
+  - id: 5a177b3c-7326-4a72-a1a3-7b62956d5c06
+    start: 00:47.836
+    end: 01:20.056
+    fields:
+      transcription: |-
+        日本の教育制度は
+        6・3・3・4歳と言われ
+        小学校が6年
+        中学校が3年
+        高校が3年
+        そして大学が四年となっている
+        それぞれに 公立と私立があり
+        小学校と中学校は義務教育 だが
+        高校からは
+        行っても行かなくても良い
+        しかし
+        高校進学率は約98%なので
+        実際には高校に行かない人はほとんどいない
+    tags: *a1
+  - id: 1dc4c29f-4fab-4ee1-ac52-953586fda096
+    start: 01:20.94
+    end: 01:34.76
+    fields:
+      transcription: |-
+        4年生の大学への進学率は大体 50%ぐらいだが
+        短大 や専門学校への進学率も含めると
+        80%近くの高校生が上の学校に進む
+    tags: *a1
+  - id: cefb5631-343d-40a5-bae9-6c5d4ded2073
+    start: 01:36.0
+    end: 01:58.84
+    fields:
+      transcription: |-
+        義務教育の後でも進学率が高い 日本だが
+        教育の現場には問題点も多く
+        特に以下の三つのことが挙げられる
+        1
+        学歴社会と受験戦争
+        2
+        いじめや 登校拒否
+        3
+        「偏差値教育」対「ゆとり教育」
+    tags: *a1
+  - id: 87d4a48c-5984-4584-8955-43b7df142829
+    start: 02:00.12
+    end: 02:23.94
+    fields:
+      transcription: |-
+        一番の受験戦争というのは
+        中学や 高校や大学の入学試験に合格するための競争は
+        戦争のようだ という意味だ
+        入学試験は普通 一年に一回しか受けられない
+        生徒たちはその
+        1回のチャンスのために
+        学校の後も 塾に通ったりして一生懸命に勉強する
+    tags: *a1
+  - id: 98c6c0db-a691-4f67-80cd-566420154aed
+    start: 02:24.94
+    end: 02:50.18
+    fields:
+      transcription: |-
+        そして
+        大学の入学試験に失敗した高校生は
+        もう一度 次の年の試験に挑戦するために
+        浪人生になることが多い
+        浪人 というのは もともと主人の居ない侍のことを意味したが
+        今は希望の大学に入れなかったために
+        予備校に行ったりしながら受験勉強をしている人たちのことを指す
+    tags:
+      - tobira09
+  - id: f95ba321-0580-48ce-a0ff-f2cca6fed1b9
+    start: 02:51.3
+    end: 03:14.86
+    fields:
+      transcription: |-
+        その他
+        受験の厳しさを表す言葉には
+        「四当五落」や
+        「受験地獄」という表現もある
+        前者は毎日4時間しか寝ずに勉強すれば大学に合格できるが
+        5時間以上寝たら試験に落ちるという意味
+        後者は受験で苦しむのは地獄のようだ という意味だ
+    tags:
+      - tobira09
+  - id: 0310614d-2486-48db-bec2-f831244f3c02
+    start: 03:15.76
+    end: 03:32.32
+    fields:
+      transcription: |-
+        そんな受験生がいる家庭では家族も必死に協力する
+        自分たちが見たいテレビを我慢したり
+        夜中まで勉強する子供のために
+        夜食を用意したりして
+        受験生が勉強しやすい環境を作るのだ
+    tags: *a1
+  - id: 972a8eae-807c-4e59-8d31-c8ce7157b6b7
+    start: 03:33.02
+    end: 03:45.02
+    fields:
+      transcription: |-
+        また受験に縁起の悪い言葉
+        滑る 落ちる などは使わないように気を付け
+        受験の神様が祀ってある神社に
+        言って 合格を祈ると言ったこともする
+    tags: *a1
+  - id: 2c64c4b2-c4d3-4ce9-80c3-66b2ae2a38cb
+    start: 03:46.2
+    end: 04:06.72
+    fields:
+      transcription: |-
+        では どうして日本ではこのような 厳しい 受験の状況が生まれたのだろうか
+        理由の一つとして 学歴社会が挙げられるだろう
+        日本では有名大学出身者は良い会社に就職しやすく
+        地位も早く上がり
+        給料もたくさんもらえるという傾向がある
+    tags: *a1
+  - id: 86d0de10-cdd5-42af-9fae-20fe4597335e
+    start: 04:07.42
+    end: 04:27.06
+    fields:
+      transcription: |-
+        一方 あまり有名でない大学を出た人
+        あるいは大学に入っていない人は
+        どんなに 能力のある人でも能力のあることをなかなか認めてもらえない
+        つまり
+        学歴社会とは
+        その人がどんな学校を卒業したかによって人生が決まる 社会
+    tags: *a1
+  - id: afea0eca-7738-4cda-b6a9-7e631f5299fc
+    start: 04:28.18
+    end: 04:47.54
+    fields:
+      transcription: |-
+        いい大学に入れば 将来
+        幸せになる可能性も高くなるという社会 なのだ
+        そこで 親たちは自分の子供を塾に行かせ
+        受験をしなくても有名私立大学に進める
+        エスカレーター式の小学校や
+        中学校に入れようとする
+    tags: *a1
+  - id: ab92f28d-4bbc-4e97-a476-c069bd86a75f
+    start: 04:48.46
+    end: 05:04.92
+    fields:
+      transcription: |-
+        2008年の文部科学省
+        文科省の統計では
+        小学生の 約37%
+        中学生の 約62%
+        高校生の 約43%が塾に通っているそうだ
+    tags: *a1
+  - id: 71ab8cb1-317a-49cf-a17a-2fa150fbf223
+    start: 05:06.391
+    end: 05:28.251
+    fields:
+      transcription: |-
+        このような現状がある一方
+        今のような学歴社会 をいいことだとは思っていない 日本人もたくさんいる
+        子供が学校や塾の勉強で忙しすぎて
+        子供らしく 外で遊ぶ時間がないことを心配する人
+        学歴だけで能力を判断されることを良くないと思っている人は多い
+    tags: *a1
+  - id: 56d83bac-0fdb-4e68-8266-e57c10415604
+    start: 05:28.891
+    end: 05:48.551
+    fields:
+      transcription: |-
+        日本では以前は首相になる人はほとんど 東京大学
+        東大出身者ばかりだったが
+        最近は
+        東大出身者以外の人も
+        首相になるようになった
+        このことを歓迎する人が多いのも 学歴社会が決して良く思われていないからだろう
+    tags: *a1
+  - id: fc31187f-7ce6-441b-9d4b-05c9d6327e84
+    start: 05:50.14
+    end: 06:30.0
+    fields:
+      transcription: |-
+        2番目の問題は
+        いじめと登校拒否だ
+        いじめではひどい場合はいじめられた子供が自殺してしまうことさえある
+        登校拒否というのはいじめられたとか学校の勉強についていけないというわけで
+        学校に行かなくなってしまうことだ
+        これらの問題の原因は たくさんあって複雑だが
+        日本社会の
+        他人と同じようであることが求められる
+        他人と違うことがあまり良い事だと思われないという意識と受験 教育のプレッシャーが
+        いじめや 登校拒否の主な原因だと言われている
+    tags: *a1
+  - id: a6a15096-7071-4528-9e6e-303ef5c88916
+    start: 06:31.22
+    end: 06:46.86
+    fields:
+      transcription: |-
+        上に挙げたような問題から
+        日本の教育制度 を見直そうと
+        1980年代に
+        ゆとり教育が取り入れられた
+        しかし
+        これが 別の大きな問題を生み出す 原因になってしまった
+    tags:
+      - tobira09
+  - id: 9c89c2af-6c1c-4561-9636-be666812569d
+    start: 06:47.66
+    end: 07:07.34
+    fields:
+      transcription: |-
+        受験のために 偏差値
+        学力を表す数字を上げることを目的とした教育に対して
+        もっと子供たちの心を成長させる
+        プレッシャーのない教育という考えで始められた ゆとり教育が
+        日本の子供たちの学力を低下させてしまったのだ
+    tags: *a1
+  - id: 4460778b-7466-4614-9eeb-ff0bd3a3a48e
+    start: 07:08.303
+    end: 07:32.64
+    fields:
+      transcription: |-
+        以前は世界でもトップレベルだった学力が
+        今では とても低くなってしまい
+        アジアの国で
+        4番目と5番目くらいにまで下がってしまった
+        ゆとり教育で学校で教える内容が減らされたため
+        その教育を受けた子供達は
+        常識的に誰でも知っているはずのことでさえ
+        知らないという現象も出てきた
+    tags:
+      - tobira09
+  - id: 9af3f3ad-3f38-47cf-8944-2f059e424111
+    start: 07:33.54
+    end: 07:44.66
+    fields:
+      transcription: |-
+        例えば 円周率は一般的には
+        3.14 だが
+        ゆとり教育では円周率は
+        3まで覚えておけば良いと言ったことを始めたのだ
+    tags: *a1
+  - id: 8a2ec62d-168e-4109-b7df-ce0bd6567133
+    start: 07:45.46
+    end: 08:12.42
+    fields:
+      transcription: |-
+        その結果 自分の子供達の学力低下を心配した親たちは
+        いい大学に合格するためには義務教育 だけに頼ることはできないと思い
+        ますます 子供を塾に送るようになった
+        悪循環と言えるだろう
+        そこで 2007年に
+        ゆとり教育 が見直されることになり
+        文科省で新しい教育の方法が話し合われている
+    tags: *a1
+  - id: 37ebfbac-c8ab-4cc5-b4df-66cb39961487
+    start: 08:14.02
+    end: 08:44.2
+    fields:
+      transcription: |-
+        以上述べたように
+        日本の教育には様々な問題が存在するが
+        良い点もある
+        それは日本国民である限り
+        誰でも
+        どこに住んでいても
+        どんな状況でも
+        義務教育が受けられるということだ
+        日本語の読み書きは大変難しいにもかかわらず
+        文字を読んだり書いたりできない日本人はほとんどいないし
+        計算ができない人も
+        0%に近い
+    tags: *a1
+  - id: 661e0f7f-ad5d-48a5-b018-8f11770eba5c
+    start: 08:45.26
+    end: 09:13.3
+    fields:
+      transcription: |-
+        また 義務教育で使われる教科書は全部国の検定を受けていて
+        日本国民に与えられる基本的な教育には
+        住む所などで大きいさは出ない
+        誰でも教育が平等に受けられるというのは
+        日本の教育制度の素晴らしい点の一つだ
+        問題はいろいろあるが
+        全体的には 日本の教育レベルは高いと言えるだろう
+    tags:
+      - tobira09
+  - id: ddb9e93b-9f3f-4d64-b3ae-974339d9715b
+    start: 09:15.22
+    end: 09:37.56
+    fields:
+      transcription: |-
+        教育の問題はどの国でも
+        最も難しい問題のひとつで
+        なかなかいい 解決方法は
+        見つからないようです
+        これを機会に
+        皆さんも自分の国の教育を見直して
+        良い点と問題点を挙げ
+        できればどうやって解決したらいいかも 考えてみてはどうでしょうか
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: d2e6e699-3f40-43a1-b44d-bf1ba9d08fbc
+---
+name: Tobira_L09-2_kaiwabun_1.mp3
+format: mp3
+duration: 01:04.94
+id: c4608985-1190-43c1-9a53-e2c2aba757c4
+subtitles:
+  - id: 19f7bd2f-b29a-49ab-95ac-e8bed8696660
+    type: External
+    chunksMetadata:
+      count: 23
+      endCue: 3046.4
+    name: Tobira_L09-2_kaiwabun_1.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 19f7bd2f-b29a-49ab-95ac-e8bed8696660
+---
+name: Tobira_L09-2_kaiwabun_2.mp3
+format: mp3
+duration: 01:27.066
+id: e79b1942-88bc-47a4-9b68-b1a9bee9092b
+subtitles:
+  - id: f14ae4ca-effe-45c3-a6bd-2b9924c3faf3
+    type: External
+    chunksMetadata:
+      count: 27
+      endCue: 4160
+    name: Tobira_L09-2_kaiwabun_2.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: f14ae4ca-effe-45c3-a6bd-2b9924c3faf3
+---
+name: Tobira_L09-2_kaiwabun_3.mp3
+format: mp3
+duration: 00:48.692
+id: fb826c65-369e-47b7-b1ed-96772f3ab5e8
+subtitles:
+  - id: 89ae0e26-5788-4512-80af-badbf4469e36
+    type: External
+    chunksMetadata:
+      count: 14
+      endCue: 2240
+    name: Tobira_L09-2_kaiwabun_3.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 89ae0e26-5788-4512-80af-badbf4469e36
+---
+name: Tobira_L09-2_kaiwabun_4.mp3
+format: mp3
+duration: 02:34.122
+id: bfc897f8-590b-44fd-bfd9-5724a85f791a
+subtitles:
+  - id: 433c9340-7f77-475b-89a4-3f991d6a017a
+    type: External
+    chunksMetadata:
+      count: 60
+      endCue: 7500.8
+    name: Tobira_L09-2_kaiwabun_4.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 433c9340-7f77-475b-89a4-3f991d6a017a
+---
+name: Tobira_L10-1_yomimono.mp3
+format: mp3
+duration: 08:01.724
+id: ba9d2d8e-f0e9-40c5-87b2-07b39a713dcb
+subtitles:
+  - id: 51912496-1f3d-4b99-9500-eb32367b9e58
+    type: External
+    chunksMetadata:
+      count: 138
+      endCue: 24012.75
+    name: Tobira_L10-1_yomimono.srt
+clips:
+  - id: 4342fd22-5555-41d4-9db9-fa701bac1d62
+    start: 00:14.18
+    end: 00:29.26
+    fields:
+      transcription: |-
+        東京の街を歩く
+        次々と 目に入ってくるカラフルなデザインの自動販売機
+        日本を訪れた外国人は自動販売機が町中にある風景に驚くらしい
+    tags:
+      &a1
+      - Tobira_L10-1_yomimono.mp3
+  - id: 297932eb-068b-48c4-adc5-741141a014d6
+    start: 00:30.42
+    end: 00:51.76
+    fields:
+      transcription: |-
+        アメリカでは 自動販売機は最低 建物の中にあって
+        外に置かれていることはほとんどないが
+        日本ではどこにでも 自動販売機がある
+        街の中だけでなく 田舎の誰も通らないような道や
+        山の中にさえ 自動販売機が置いてあるほどだ
+    tags: *a1
+  - id: b1aebafd-811e-4fd5-82e1-0a13407e6fa7
+    start: 00:53.16
+    end: 01:26.3
+    fields:
+      transcription: |-
+        自動販売機はどこの国でも発達しているわけではなく
+        100万台以上ある国は
+        世界でもアメリカと日本
+        そして ドイツだけだ
+        2005年のデータでは
+        アメリカが世界一
+        783 万代で
+        日本が世界に
+        558万台だったが
+        人口と国の広さを考えた場合
+        きゅうりとは 日本が世界一と言えるだろう
+    tags: *a1
+  - id: 0ffc9266-2882-46c3-8d66-4a2d7f2cc989
+    start: 01:27.296
+    end: 01:42.296
+    fields:
+      transcription: |-
+        自動販売機による売り上げも日本が世界一で
+        日本一忙しい自動販売機は
+        1代で1ヶ月に
+        25000本の飲み物を売る
+        その売り上げは 300万円にもなるという
+    tags: *a1
+  - id: b65a9977-8bc0-497f-a7ed-36ec9754ed62
+    start: 01:43.576
+    end: 02:08.236
+    fields:
+      transcription: |-
+        お茶を買ったら暖かかった
+        自動販売機が話してびっくりした
+        というのは
+        外国人からよく聞く 話だ
+        日本の自動販売機は
+        夏には冷たい飲み物
+        冬には温かい飲み物というように
+        気温の変化に合わせて
+        飲み物を冷たくしたり
+        暖かくしたりして出してくれる
+    tags: *a1
+  - id: 54a077cb-d100-47ec-b217-1335027d6576
+    start: 02:09.18
+    end: 02:41.84
+    fields:
+      transcription: |-
+        また話す 自動販売機 もある
+        例えば
+        ある飲み物のメーカーが関西地区においている
+        おしゃべり 自動販売機は
+        関西弁で話をするそうだ
+        お客が自動販売機の前に立つと
+        いらっしゃいませ ではなく
+        ライド
+        ポイ
+        お釣りがない時は すいません 今 釣り銭 切らしてますね
+        まるで 関西人のように話すらしい
+    tags: *a1
+  - id: a6f738a7-f59d-4966-8aa1-4de1757a1653
+    start: 02:44.1
+    end: 03:02.64
+    fields:
+      transcription: |-
+        この他にもひいたばかりの豆でコーヒーを入れるとか
+        冷凍食品を電子レンジで温めてから出す
+        カップラーメンにお湯を入れて出すと言った自動販売機 もあって
+        日本の自動販売機は驚くほど賢い
+    tags: *a1
+  - id: f4df2b40-26d4-4f94-8eca-352daa26cbe6
+    start: 03:03.74
+    end: 03:21.76
+    fields:
+      transcription: |-
+        自動販売機で売っている商品も色々で
+        飲み物や食品は言うまでもなく
+        タバコ から 漫画
+        週刊誌 CD
+        花
+        ネイルアート
+        ドッキング
+        おもちゃ
+        そして名刺 までもある
+    tags: *a1
+  - id: 1591f1e8-3dd9-4d22-b9d8-06176ac40fe9
+    start: 03:23.6
+    end: 03:55.1
+    fields:
+      transcription: |-
+        では日本では
+        なぜこのように広く 自動販売機が普及したのだろうか
+        一番の理由は
+        犯罪が少なくて安全だということだろう
+        泥棒にとって無人の販売機は
+        ここにはお金が入っているから盗んでくださいよ
+        と言っているように見える
+        従って 犯罪が多く危険なところでは
+        販売機は壊され
+        中の現金はすぐに盗まれてしまう
+    tags: *a1
+  - id: 7265bab3-b4c3-48da-ad73-2001d6d6c67a
+    start: 03:56.108
+    end: 04:14.048
+    fields:
+      transcription: |-
+        日本は以前ほど安全ではなくなったと言われているが
+        海外の多くの国と比べれば
+        まだそれほど危険というわけではない
+        だから
+        自動販売機が外に置いてあっても
+        壊されるようなことはほとんどないのだ
+    tags: *a1
+  - id: 103fc7c4-ea45-4af2-99eb-cdbf29ce0b5c
+    start: 04:16.428
+    end: 04:32.988
+    fields:
+      transcription: |-
+        自動販売機の文化史
+        という本の著者である
+        鷲巣力氏は
+        日本が自動販売機 大国となった理由として
+        技術に対する信頼感と
+        自動化を好む 社会の二つを挙げている
+    tags: *a1
+  - id: 1687b349-c097-4c39-bb83-1273ee19224d
+    start: 04:34.775
+    end: 04:51.375
+    fields:
+      transcription: |-
+        確かに 日本の高い技術力は世界的にも認められていて
+        日本製のものは
+        車でも冷蔵庫でも性能が良く
+        なかなか壊れない
+        したがって
+        機械に対する信頼も高い
+    tags: *a1
+  - id: 2880eaa0-0aec-4fc6-8f3e-b86ef143c4b3
+    start: 04:52.32
+    end: 05:13.68
+    fields:
+      transcription: |-
+        また日本人は自動化されたものが好きだというのも事実だろう
+        タクシーに乗れば
+        ドアが自動で開いたり閉まったりするし
+        電車の切符を自動改札機に入れれば
+        すぐに改札を通ることができるし
+        手をたたけば電気がつく 電気スタンドまでもある
+    tags: *a1
+  - id: 2c0b1750-1241-4b04-b853-f32481e8ee54
+    start: 05:15.579
+    end: 05:37.459
+    fields:
+      transcription: |-
+        ビジネスという点から考えると
+        コストがあまりかからないことも自動販売機が普及した理由の一つだ
+        自動販売機は
+        無人で24時間ものを売ることができる上に
+        街の中に置いてあるから 商品の宣伝にも役に立つ というわけだ
+    tags: *a1
+  - id: ee54c370-7f3e-4286-ba24-2add729ebb3b
+    start: 05:38.787
+    end: 05:57.587
+    fields:
+      transcription: |-
+        面白いことに
+        パリの街の主な通りには
+        自動販売機が1台もない そうだ
+        日本が自動販売機 大国になったのには
+        日本社会の特徴や日本人の考え方が
+        大きく影響しているのかもしれない
+    tags: *a1
+  - id: dd4eb841-6b02-4d55-ae3a-e94e40133ed5
+    start: 05:59.3
+    end: 06:30.44
+    fields:
+      transcription: |-
+        自動販売機はいつでも利用できて便利だと言う一方で
+        エネルギーの無駄遣いとか
+        未成年者でも酒やタバコが買えるなどといった 批判がある
+        だが
+        このような 批判に対しては
+        既に様々な対策がとられている
+        例えば
+        省エネ対策の代表的なものには
+        エコベンダーと呼ばれる
+        缶入りの飲み物のための自動販売機がある
+    tags: *a1
+  - id: 5e33449d-c361-42b4-8c21-1260293b4bc1
+    start: 06:32.58
+    end: 07:02.28
+    fields:
+      transcription: |-
+        エコベンダーは夏の間 7月から9月は
+        午前中に商品を冷やしておき
+        電力消費がピークになる午後には冷やすのを止めると言う
+        省エネ型自動販売機で
+        現在
+        ほとんど 日本全国で使われている
+        このシステムの導入によって
+        1年の電力消費量が
+        10%から15%減ったそうだ
+    tags: *a1
+  - id: de6d2d62-d9d2-4497-80a1-1bd023fb1fbd
+    start: 07:03.5
+    end: 07:34.1
+    fields:
+      transcription: |-
+        未成年に酒やタバコを売らない対策としては 深夜の販売を規制するとか
+        ID カードや特別な IC カードがないと買えないようにすると言ったことが
+        なわれている
+        日本中の どんな所にもあって
+        日本の特徴の一つと言える自動販売機
+        ある調査によると日本人の8割以上が 生活に必要なものだと答えている
+    tags:
+      - Tobira_L10-1_yomimono.mp3
+  - id: e363e0ea-e5b1-4dc7-be68-1d60cdc24879
+    start: 07:35.58
+    end: 08:00.32
+    fields:
+      transcription: |-
+        最近では飲み物を買うと募金ができる チャリティー 自販機も増えているそうだ
+        便利なだけでなく
+        楽しくて社会の役にも立つ 自動販売機
+        これからも日本の自動販売機は
+        どんどん進化を続けていくだろう
+        将来どんな自動販売機が出てくるか楽しみである
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 51912496-1f3d-4b99-9500-eb32367b9e58
+---
+name: Tobira_L10-2_kaiwabun_1.mp3
+format: mp3
+duration: 02:31.641
+id: c170c11a-e75d-4333-85fe-fa7e1ea7320b
+subtitles:
+  - id: 3a6082e2-c8a5-478b-b01d-d623ad3b9f5f
+    type: External
+    chunksMetadata:
+      count: 64
+      endCue: 7449.6
+    name: Tobira_L10-2_kaiwabun_1.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 3a6082e2-c8a5-478b-b01d-d623ad3b9f5f
+---
+name: Tobira_L10-2_kaiwabun_2.mp3
+format: mp3
+duration: 02:30.073
+id: 9a1285d5-5ffd-4586-887e-7e80b167100a
+subtitles:
+  - id: 1a6c13f9-069a-4aa2-af38-64bf9f6eb9be
+    type: External
+    chunksMetadata:
+      count: 57
+      endCue: 7244.8
+    name: Tobira_L10-2_kaiwabun_2.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 1a6c13f9-069a-4aa2-af38-64bf9f6eb9be
+---
+name: Tobira_L11-1_yomimono.mp3
+format: mp3
+duration: 08:38.322
+id: c0c343b4-d46b-4ef0-a41a-115cc030f231
+subtitles:
+  - id: c88a5ee3-b59c-4242-bc5c-1a81ce617c34
+    type: External
+    chunksMetadata:
+      count: 164
+      endCue: 25715.15
+    name: Tobira_L11-1_yomimono.srt
+clips:
+  - id: 58616dbe-1a61-4208-b1ac-c42d0d14d06a
+    start: 00:14.04
+    end: 00:39.42
+    fields:
+      transcription: |-
+        日本には
+        様々な文化や伝統的な習慣がありますが
+        それらのすべてが
+        日本で独自に生まれたものなのでしょうか
+        答えはいいえです
+        現在
+        一般的に
+        日本の伝統的習慣や
+        文化と考えられているものの中には
+        元々は外国から入ってきて
+        日本的に変化したものが少なくありません
+    tags:
+      &a1
+      - Tobira_L11-1_yomimono.mp3
+  - id: ce102a70-d51a-44c5-ae5d-771e8450e212
+    start: 00:40.44
+    end: 00:59.96
+    fields:
+      transcription: |-
+        例えば
+        ひらがな や カタカナは
+        古代中国から入ってきた
+        漢字をもとにして
+        日本人が作り出したものですし
+        和食の代表的な料理である X プラモ
+        ポルトガルの
+        天ペロという 揚げ物料理が
+        日本に伝わって変化したものなので
+    tags: *a1
+  - id: 74913018-dbbd-46ef-9d24-1a0f9e7778ce
+    start: 01:14.82
+    end: 01:27.3
+    fields:
+      transcription: |-
+        日本人が初めて外国から輸入したものは
+        こめだ と言えるかもしれない
+        米の発祥地は中国の雲南からインドのアッサム地方にかけてだと言われている
+    tags: *a1
+  - id: 39b5e4fd-5419-4ca1-a34f-c7a7d2aec2e4
+    start: 01:28.42
+    end: 01:48.0
+    fields:
+      transcription: |-
+        日本の時代で言うと 縄文時代の後期
+        約4000年前
+        の間に
+        中国や朝鮮半島を通って
+        日本に米の作り方 が伝わったそうだ
+        その後
+        弥生時代になって 各地に広がり
+        日本人の主食になった
+    tags: *a1
+  - id: bf67ceb4-e05d-456f-81de-34b311343273
+    start: 01:49.272
+    end: 02:05.152
+    fields:
+      transcription: |-
+        そして 米は主食になったばかりでなく
+        もっと後の時代には
+        税金として集められたり
+        給料として 武士に
+        支払われたりするようになり
+        日本の経済に
+        なくてはならないものになった
+    tags: *a1
+  - id: 9743465e-b1d6-4d31-ab1d-78da8afe454e
+    start: 02:06.148
+    end: 02:26.848
+    fields:
+      transcription: |-
+        日本人は季節や天候の変化を大変気にするが
+        これは日本人が米作りを非常に大事なことと考え
+        どうやって効率よく米を生産するかが
+        日本人の生活の仕方や考え方に強い影響を与えてきたこととか
+        関係があると言われている
+    tags: *a1
+  - id: 9f6eadb4-c5a3-40b2-bde7-890a3d152249
+    start: 02:28.62
+    end: 02:51.86
+    fields:
+      transcription: |-
+        弥生時代に続く 古墳時代から奈良時代にかけては
+        日本は中国や朝鮮の影響を強く受け
+        法律を始め
+        建築
+        服装
+        料理などを これらの国から輸入した
+        神道 中心だった 日本の宗教 大きく変えた仏教が変わったのも
+        この古墳時代だった
+    tags: *a1
+  - id: cb034825-3e21-49ad-9581-c10ee4831252
+    start: 02:52.68
+    end: 03:03.86
+    fields:
+      transcription: |-
+        日本の歴史書によると
+        朝鮮半島にあった百済という国の王が
+        日本に仏像と経典を送ったのが
+        日本での仏教の始まりだ そうだ
+    tags: *a1
+  - id: 604dd661-1cbc-4fc1-adbc-b20fa1f989bc
+    start: 03:05.2
+    end: 03:36.16
+    fields:
+      transcription: |-
+        奈良時代の次の平安時代は
+        外国との交流がほとんどなくなり
+        それまで日本に伝わった様々なものが
+        日本的に変化していった時代である
+        ひらがなができたのも この時代で
+        中国風の服装が着物に変化したり
+        仏教の新しい宗派が生まれたり
+        源氏物語というひらがな を用いた
+        世界一 古くて長いと言われている恋愛小説が書かれたのも
+        平安時代だった
+    tags: *a1
+  - id: ad1b8e0c-2fc1-453f-83e1-3f79c65b8f7f
+    start: 03:37.54
+    end: 04:04.12
+    fields:
+      transcription: |-
+        ところで
+        前という言葉を聞いたことがあるだろうか
+        前は 禅宗という仏教の宗派の一つなのだが
+        前と聞くと日本の国を思い浮かべる人は多いに違いない
+        しかし
+        実は前の始まりは日本ではなく 中国で
+        平安時代の終わり頃に中国に留学した
+        栄西という僧によって日本に紹介されたのだ
+    tags: *a1
+  - id: 09bff9f2-b11a-48f7-96e5-35b5d2c0d5f6
+    start: 04:04.747
+    end: 04:14.487
+    fields:
+      transcription: |-
+        その時
+        前とともに伝わったのがお茶を飲む習慣で
+        それが日本の代表的文化である茶道へと発展していった
+    tags: *a1
+  - id: 753b5791-33bf-46c7-b611-ebbf0673c9e7
+    start: 04:15.98
+    end: 04:39.92
+    fields:
+      transcription: |-
+        平安時代の次の鎌倉時代は武士の力が強くなった時代で
+        彼らが前とお茶を好んだため
+        日本全国に
+        前やお茶を飲む習慣が広がった
+        そしてその後
+        千利休によって作動が確立され
+        少しずつ変化しながら
+        現代のような茶道の形になったのである
+    tags: *a1
+  - id: 361b8ee2-eef9-4f21-9082-43931ae8ecce
+    start: 04:41.655
+    end: 05:06.995
+    fields:
+      transcription: |-
+        さて
+        古代から室町時代に至るまで
+        日本は 主にアジアの国々から強い影響を受けてきたが
+        日本中で多くの大名が戦った戦国時代から
+        16世紀後半の安土桃山時代になると
+        ポルトガル人やスペイン人が
+        キリスト教の布教や貿易を目的に日本を訪れるようになった
+    tags: *a1
+  - id: 3bafd6fe-d5ef-40da-94ef-a0f37716d31e
+    start: 05:07.983
+    end: 05:28.083
+    fields:
+      transcription: |-
+        そして
+        日本の文化の中にヨーロッパの影響が現れるようになった
+        その当時の日本人は彼らのことを何万人
+        つまり
+        南に住む野蛮な人々と呼んだので
+        その文化も南蛮文化 と呼ばれていた
+        今でいう 西洋文化のことだ
+    tags: *a1
+  - id: 8a705f89-f414-4603-8cab-56b4a477bd20
+    start: 05:29.5
+    end: 05:56.18
+    fields:
+      transcription: |-
+        戦国時代に日本統一を目指した
+        織田信長 という人物は
+        特に 南蛮文化に興味を持った大名で
+        キリスト教の布教を許し
+        ワインを飲んだり
+        マントを着たりして洋風の生活様式を積極的に生活の中に取り入れたそうだ
+        ヨーロッパから入ってきた鉄砲を大名同士の戦いに
+        最初に用いたのも 信長である
+    tags: *a1
+  - id: df37e831-9911-454c-a811-53deffa9457c
+    start: 05:57.475
+    end: 06:12.095
+    fields:
+      transcription: |-
+        次の江戸
+        徳川時代は鎖国の規制によって
+        長崎の出島という場所以外では
+        外国人が自由に日本を訪れたり
+        日本人が外国の物を輸入したりすることができなかった
+    tags: *a1
+  - id: 39f7e661-bc00-459a-a35d-9337904a2a0c
+    start: 06:13.539
+    end: 06:29.159
+    fields:
+      transcription: |-
+        江戸時代は約250年も続き
+        当時の 江戸
+        今の東京は世界中で一番人口の多い
+        独自の芸術文化が発達した
+        清潔で
+        文化レベルの高い年だったと言われている
+    tags: *a1
+  - id: 7c3fbb6e-e0f9-4bb6-badc-dd3e08de1612
+    start: 06:30.04
+    end: 06:47.72
+    fields:
+      transcription: |-
+        江戸時代が終わり 明治維新が始まると
+        日本は 洋服や靴
+        郵便制度
+        法律など
+        欧米のものや 制度や文化を積極的に取り入れ
+        近代化を目指した
+        その中の一つに 肉を食べることがある
+    tags:
+      - Tobira_L11-1_yomimono.mp3
+  - id: 086784e0-6e0d-4341-8f5b-417a42c28df0
+    start: 06:48.48
+    end: 07:16.3
+    fields:
+      transcription: |-
+        日本では仏教の影響で
+        平安時代から江戸時代までは特別な場合以外は
+        肉を食べることは禁止されていた
+        しかし
+        明治政府は日本人も欧米人のように 肉を食べるべきだと考え 国民
+        にんにくを食べることを勧めた
+        そんな状況の中で牛肉を使った日本の代表的な食べ物
+        すき焼きが生まれたのである
+    tags:
+      - Tobira_L11-1_yomimono.mp3
+  - id: bc3b3048-c7e1-4cfe-b9e7-79376e6f703c
+    start: 07:18.163
+    end: 07:46.847
+    fields:
+      transcription: |-
+        このように長い歴史の中で 日本は数多くの国々の影響を受けてきた
+        日本独特の習慣や文化に見えるものでも
+        実はその元になるものは外国から入ってきたものが少なくないのだ
+        今ではクリスマスやバレンタインデー なども
+        一般的な日本の行事になっているが
+        それらも欧米の習慣を取り入れながら
+        日本独自の方法で祝っている
+    tags:
+      - Tobira_L11-1_yomimono.mp3
+flashcardFieldsToSubtitlesTracks:
+  transcription: c88a5ee3-b59c-4242-bc5c-1a81ce617c34
+---
+name: Tobira_L11-2_kaiwabun_1.mp3
+format: mp3
+duration: 03:12.052
+id: 19a8cb03-70d5-4b19-9bb5-9ab3502bb027
+subtitles:
+  - id: c8dfba0b-d487-4f7f-8f0b-7e55f091ec16
+    type: External
+    chunksMetadata:
+      count: 69
+      endCue: 9446.4
+    name: Tobira_L11-2_kaiwabun_1.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: c8dfba0b-d487-4f7f-8f0b-7e55f091ec16
+---
+name: Tobira_L11-2_kaiwabun_2.mp3
+format: mp3
+duration: 03:02.857
+id: 2e82f5f3-e508-4c8c-939c-b3d50d913637
+subtitles:
+  - id: c844f615-438d-489a-9ef7-c0feb219e982
+    type: External
+    chunksMetadata:
+      count: 68
+      endCue: 9062.4
+    name: Tobira_L11-2_kaiwabun_2.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: c844f615-438d-489a-9ef7-c0feb219e982
+---
+name: Tobira_L12-1_yomimono.mp3
+format: mp3
+duration: 04:05.734
+id: 5694b7ba-f090-412b-9828-4a03913a63bf
+subtitles:
+  - id: 70df71b2-183e-4417-8428-e6f09ffc9897
+    type: External
+    chunksMetadata:
+      count: 70
+      endCue: 12108.8
+    name: Tobira_L12-1_yomimono.srt
+clips:
+  - id: 954e993d-4961-4cf7-a414-b829e1eacab1
+    start: 00:17.6
+    end: 00:41.12
+    fields:
+      transcription: |-
+        和紙のは という字にはいろいろな意味がありますが
+        その一つに
+        日本
+        日本風
+        日本製 という意味があります
+        例えば皆さんもよく知っている和室は
+        日本風の畳の部屋のことで
+        和服は日本の服
+        つまり 着物のことです
+        だから 和紙は日本の神ということになります
+    tags:
+      &a1
+      - Tobira_L12-1_yomimono.mp3
+  - id: b4df4bb1-48b2-4936-8b2b-6ba69c0b71e5
+    start: 00:48.916
+    end: 01:03.276
+    fields:
+      transcription: |-
+        紙は紀元前176から141年頃に中国で発明さ
+        されたとされています
+        この紙の作り方が 奈良時代に朝鮮半島から日本に伝わってきました
+    tags: *a1
+  - id: aab05df9-a7d6-413c-8023-1809f484644b
+    start: 01:04.819
+    end: 01:23.479
+    fields:
+      transcription: |-
+        中国で発明された紙がなぜ和紙と呼ばれるようになったかと言うと
+        日本にしかない植物を原料にしたり
+        日本独特の「流しすき」というやり方で紙を作ったりするようになって
+        原料や作り方が 日本風に変わってきたからです
+    tags: *a1
+  - id: 55b8b5a4-418a-4df3-8a16-74ea914215f9
+    start: 01:25.071
+    end: 01:45.771
+    fields:
+      transcription: |-
+        和紙の第1の特長は
+        薄くて強いことです
+        その強さに関するエピソードの一つに
+        江戸のある商人が火事の時
+        大事な帳簿が燃えないように 井戸の中に隠し
+        火が消えた後 井戸から出して乾かしてまた使ったという話が残っています
+    tags: *a1
+  - id: 79a2a8f4-169d-4244-9149-9a58b5866c65
+    start: 01:47.38
+    end: 02:02.5
+    fields:
+      transcription: |-
+        つまり
+        輪島 水に濡れても破れず
+        もう一度 乾かせば 前と同じように使えるほど強かったということです
+        これは現在私たちが 日常生活で使っている紙では考えられません
+    tags: *a1
+  - id: 0b819ead-b8d0-497d-a5aa-25065457eb8b
+    start: 02:04.459
+    end: 02:25.339
+    fields:
+      transcription: |-
+        和紙には強さだけでなく
+        柔らかさや 暖かさもあります
+        日本人は昔から
+        これらの和紙の特長を生かし
+        籠や 皿のような小さい生活用品から
+        箪笥などの大きい家具まで
+        日常生活に必要な 様々なものには和紙を 使ってきました
+    tags: *a1
+  - id: bd4d2b62-1756-43aa-a6cd-dc282e818211
+    start: 02:26.16
+    end: 02:56.703
+    fields:
+      transcription: |-
+        竹や木と和紙で作られた籠
+        皿
+        箪笥などはどれも軽くて丈夫な上に
+        手触りも良く
+        鷲の暖かさが感じられます
+        また
+        和紙を通した光は柔らかく 優しくなることから
+        障子や電気スタンドにも使われています
+        そして
+        何度も 閉じたり 広げたりしなければならない傘や扇子には
+        わしの強さと 柔らかさの両方の特長が生かされています
+    tags:
+      - Tobira_L12-1_yomimono.mp3
+  - id: 4ef1e1ba-1067-4d88-80ba-b41f94b55754
+    start: 02:57.647
+    end: 03:15.447
+    fields:
+      transcription: |-
+        和紙の使い方は時代と共に もっと多様になってきました
+        例えば わしの新しい利用法を開発しようとした技術者たちは
+        その薄さと強さをさらに改良し
+        電解コンデンサ 死というものを生み出しました
+    tags: *a1
+  - id: b9083d13-0eff-404e-8125-e0136b4a69db
+    start: 03:15.999
+    end: 03:30.199
+    fields:
+      transcription: |-
+        この電解コンデンサ氏は私たちが日常的に使っているテレビ
+        ビデオ
+        携帯電話
+        コンピューターなどに不可欠なもので
+        ほとんどの電気製品がこれなしでは動かないのだそうです
+    tags: *a1
+  - id: 373b3d51-7509-4fee-8eee-8dc707c5f4b5
+    start: 03:31.44
+    end: 03:52.38
+    fields:
+      transcription: |-
+        実は面白いことに
+        和紙の和の字には仲良くする
+        うまく混ざるという意味もあります
+        日本特有の神であり
+        仲良くしてうまく混ざるという意味を持つ 和紙は
+        昔も今もその特徴を活かしながら
+        他のものと上手に混ざり合って違うものに生まれ変わっています
+    tags: *a1
+  - id: 9b551a0f-8d73-4944-990c-bb37d55d23e6
+    start: 03:53.279
+    end: 04:02.179
+    fields:
+      transcription: |-
+        和紙のこの様なな 生かされ方を考えると
+        和紙は私たちに
+        調和のメッセージを送ってくれているような気がしませんか
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 70df71b2-183e-4417-8428-e6f09ffc9897
+---
+name: Tobira_L12-2_kaiwabun.mp3
+format: mp3
+duration: 04:52.075
+id: 5e438460-46cc-4748-990b-44dac4025f39
+subtitles:
+  - id: 38df93b8-0d81-4380-8e7b-bfce606a864c
+    type: External
+    chunksMetadata:
+      count: 111
+      endCue: 14527.95
+    name: Tobira_L12-2_kaiwabun.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 38df93b8-0d81-4380-8e7b-bfce606a864c
+---
+name: Tobira_L13-1_yomimono_1.mp3
+format: mp3
+duration: 03:22.762
+id: e9febc78-6b46-4001-b35e-3c34bb9f9416
+subtitles:
+  - id: cb2c9d84-1ee9-44d0-95cb-21eafcd07dd3
+    type: External
+    chunksMetadata:
+      count: 57
+      endCue: 9920
+    name: Tobira_L13-1_yomimono_1.srt
+clips:
+  - id: c1a9667b-2ae2-4011-8b19-2a8f67e4880f
+    start: 00:13.899
+    end: 00:44.684
+    fields:
+      transcription: |-
+        終戦の時 私は小学校の1年生でした
+        校舎が足りず
+        青空教室で勉強しました
+        印象に残っているのが 菊池先生と言って
+        小学校四年と5年の時の担任だった女の先生です
+        小さい20代の優しい先生でした
+        もんぺ姿だったかな
+        よく僕ん家の前を通りかかると
+        中を覗いては声をかけてくれたものです
+    tags:
+      - Tobira_L13-1_yomimono_1.mp3
+  - id: 69955696-b448-4751-94f4-e984d913da71
+    start: 00:45.82
+    end: 01:03.14
+    fields:
+      transcription: |-
+        暮れなずむ 秋の夕暮れ
+        その景色を作文に書いたことがある
+        だんだん 日が落ち
+        辺りが紫色から橙色に変わっていく 夕餉の煙りも
+        暗くなるにつれて刻一刻 変わる 自然描写をした
+    tags:
+      - Tobira_L13-1_yomimono_1.mp3
+  - id: 1d1d4686-54e6-4b6a-ad7a-67d17e6d89fc
+    start: 01:03.908
+    end: 01:31.748
+    fields:
+      transcription: |-
+        細かく観察してよく書いていますと先生はものすごく褒めてくれたんです
+        丸坊主の頭を撫でてくれた手は暖かかった
+        今でも思い出します
+        勝手なもので
+        褒められたことしか覚えていませんね
+        それで文章を書くことに興味を持った
+        教室でよく作文を読み上げられ
+        それじゃあ 小説家になろうというのが 僕の夢になった
+    tags:
+      &a1
+      - Tobira_L13-1_yomimono_1.mp3
+  - id: bb4a175f-f358-45c1-95bb-03ef7042c560
+    start: 01:32.9
+    end: 01:44.52
+    fields:
+      transcription: |-
+        中学に進んでからいたずらをして
+        両手にバケツを持ったまま立たされたことがある
+        怒られただけでその先生から何かを得たという印象はないですね
+    tags: *a1
+  - id: f873b9d6-f779-4598-b5bd-13b3cc39b24b
+    start: 01:45.72
+    end: 02:11.98
+    fields:
+      transcription: |-
+        高校を出て上京し
+        漫画家になるために 手塚治虫先生の所へ行った
+        最初に
+        君はコスモポリタンだねって言われたんです
+        どこの国に出しても通じるという意味の 最大の褒め言葉でした
+        僕は田舎から出てきたばかりで
+        東北訛りが気になり
+        コンプレックスを持っていたけど
+        それを全部ひっくり返してくれた
+    tags: *a1
+  - id: 28a02b4a-10fb-464c-9dc7-d17055231b03
+    start: 02:13.1
+    end: 02:38.54
+    fields:
+      transcription: |-
+        もう一つ
+        僕にとっての先生というのは
+        四季の移り変わりだったのではないかな
+        僕んちのそばに ちっちゃい小川が流れていた
+        春はメダカとかフナとかナマズもいた
+        秋になると落ち葉が流れてきて ものすごくきれいなんですね
+        冬は氷が張り
+        竹を割って スケートを作って滑ったりした
+    tags: *a1
+  - id: 181c4604-5cf6-4022-882a-3581058d1221
+    start: 02:39.52
+    end: 02:50.88
+    fields:
+      transcription: |-
+        学校の帰りがけに見た渡り鳥が横一列になって飛んでいく光景も思い出します
+        心の中で
+        しっかり 飛んで行けよと励ましていたんでしょうね
+    tags: *a1
+  - id: 12be9ba2-5883-4244-a722-91e931e16cc2
+    start: 02:51.72
+    end: 03:05.34
+    fields:
+      transcription: |-
+        自然の厳しさとか
+        相手に対する思いやり とか
+        そういった 自然との触れ合いで子供は育っていくんじゃないかな
+        あらゆる 感性を育ててくれたのは 故郷の四季だと思っている
+    tags: *a1
+  - id: e3b28512-4360-4f53-96d9-7d1ef111d0ab
+    start: 03:06.62
+    end: 03:18.42
+    fields:
+      transcription: |-
+        菊池先生は野山を駆け回る子供の姿を温かく見つめていてくれたのだと思います
+        あの人を含めた故郷 全体が 僕の先生だったということかな
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: cb2c9d84-1ee9-44d0-95cb-21eafcd07dd3
+---
+name: Tobira_L13-1_yomimono_2.mp3
+format: mp3
+duration: 08:25.887
+id: c275ac9f-8e3d-4254-bf02-d801898b28e9
+subtitles:
+  - id: 9debdd1f-d378-40db-9d0e-152e256e92c3
+    type: External
+    chunksMetadata:
+      count: 132
+      endCue: 25036.75
+    name: Tobira_L13-1_yomimono_2.srt
+clips:
+  - id: 177a57af-d869-4ca6-985b-1a90c0593f56
+    start: 00:10.0
+    end: 00:32.24
+    fields:
+      transcription: |-
+        皆さんは 俳句を作ったり鑑賞したりしたことがありますか
+        俳句は17の音だけで作られる世界で最も短い詩です
+        日本語だけでなく 色々な国の言葉で楽しまれていて
+        世界各国の小中学校の教科書にも紹介されています
+    tags:
+      &a1
+      - Tobira_L13-1_yomimono_2.mp3
+  - id: ffae12ab-5b93-4f30-8045-c86049480114
+    start: 00:33.66
+    end: 00:58.74
+    fields:
+      transcription: |-
+        あまりにも一般的になってしまい
+        俳句 がもともと日本のものだということを知らない人たちさえいるほどです
+        皆さんの中にも 小中学校の時に自分の国の言葉で俳句を作った
+        人がいるのではないでしょうか
+        最近は日本語を勉強している人たちが日本語で俳句を作ることも多くなりました
+    tags: *a1
+  - id: ea06c931-35f9-459d-b386-8f88a4875d00
+    start: 01:00.32
+    end: 01:26.8
+    fields:
+      transcription: |-
+        下に挙げたのはアメリカの大学生が日本語の授業で作った俳句の例です
+        静かだね
+        雪の音しか聞こえない
+        子が母が呼び合うごとく 蝉の鳴く
+        秋の歌
+        落ちた木の葉に書いてある
+        春の午後 ホームレス達 昼寝して
+    tags: *a1
+  - id: cb228639-18dd-4e0c-85a0-377f74ad15d7
+    start: 01:28.18
+    end: 01:57.28
+    fields:
+      transcription: |-
+        どうですか
+        それぞれの俳句からどんな情景が浮かんできますか
+        作った人のどんな気持ちが感じられますか
+        この俳句に詠まれている季節はいつでしょうか
+        自分達と同じように 日本語を勉強している若い人たちの俳句だと思うと
+        皆さんもちょっといい俳句 が作れるような気がしませんか
+    tags: *a1
+  - id: a51d0d38-8b02-44ce-8c2d-cad674454b17
+    start: 01:58.536
+    end: 02:31.736
+    fields:
+      transcription: |-
+        俳句を作るにはいくつか 規則がありますが
+        主なものは次の三つです
+        1
+        は＝はっとした感動、発見の喜び、想像の楽しさなどを読み込む
+        2
+        い＝いつ：季語 により 四季の自然や 季節感を表す
+        3
+        く＝組み立て：五七五の17音で表す
+    tags: *a1
+  - id: 1c0105dd-ff78-4578-9722-cf4cd635f081
+    start: 02:32.32
+    end: 02:57.38
+    fields:
+      transcription: |-
+        ①「はっとする」というのは
+        何かに突然気がつくとか 驚くとか
+        感動するといった意味のオノマトペ です
+        ②の「いつ」を表すのは俳句を作る時の最も大切な要素で
+        そのために 「季語」 と呼ばれる季節を表す俳句 独特の言葉があります
+    tags: *a1
+  - id: d30a7e0f-0e05-476d-bb35-18dbd1101624
+    start: 02:58.452
+    end: 03:52.06
+    fields:
+      transcription: |-
+        季語は俳句の中に必ず一つ入れなくてはいけないという決まりがあるのですが、だいたい次の四つのカテゴリーに分類できます。括弧の中の言葉はどの季節を表していると思いますか。
+        １）直接季節を示す（春の海、夏にいる、秋の宵）
+        ２）自然現象（残雪、枯れ野、五月晴れ、北風）
+        ３）動物・植物（赤とんぼ、猫の恋、木の芽、もみじ）
+        ４）行事・生活（田植え、鯉のぼり、お正月）
+    tags:
+      - Tobira_L13-1_yomimono_2.mp3
+  - id: b73f90cf-674e-44d5-b052-cc33d45f61ef
+    start: 03:54.66
+    end: 04:17.76
+    fields:
+      transcription: ③の「組み立て」で大切な五七五という音のリズムは、日本語の文の構成や語調に合っているようで、俳句だけでなく、短歌も五七五七七の決まりで詠まれ、諺、歌詞、標語などにも五七五のリズムがよく使われます。
+    tags: *a1
+  - id: 7d1ca4f9-3284-404d-8054-e4fa84d12d90
+    start: 04:18.495
+    end: 04:43.155
+    fields:
+      transcription: また、俳句には「かな」「けり」「や」といった言葉がよく見られますが、これらは「切れ字」と言って、俳句独特の表現です。切れ字は俳句のリズムにおける休みのようなもので、使っても使わなくてもいいのですが、季語と同じでひとつの俳句に一回しか使いません。
+    tags: *a1
+  - id: acd591a9-8701-43f3-bd46-d81afe61582d
+    start: 04:44.86
+    end: 05:00.36
+    fields:
+      transcription: |-
+        俳句の形式の例
+        古池や
+        かわず飛び込む水の音
+        松尾芭蕉
+        雪溶けて
+        村いっぱいの子どもかな
+        小林一茶
+    tags: *a1
+  - id: b907a430-2ec3-4fce-97da-0c4cdc07a974
+    start: 05:01.8
+    end: 05:16.04
+    fields:
+      transcription: |-
+        松尾芭蕉も小林一茶 も 江戸時代の俳人ですが
+        彼らの俳句は現在でも広く親しまれていて
+        多くの日本人が彼らの句をいくつか 暗唱できるほどです
+    tags: *a1
+  - id: 76cd62e2-cda2-4166-b60d-d0668c89d95a
+    start: 05:16.92
+    end: 05:44.44
+    fields:
+      transcription: |-
+        芭蕉は現代の俳句の形を作った人で
+        俳句の中に人生の「わび・さび」の心を表して
+        俳句を芸術性の高い文学として確立しました
+        上の句は山の中の古い 静かな 池が持つ 「わび・さび」と
+        それに対する新しい命の誕生 に感動した気持ちを表しています
+    tags:
+      - Tobira_L13-1_yomimono_2.mp3
+  - id: 3e8b61c2-29e0-4184-9165-a0f189556530
+    start: 05:45.303
+    end: 06:08.763
+    fields:
+      transcription: |-
+        一方 一茶 は 子供や動物など小さいもの 弱いものに対する
+        優しい気持ちを詠んだ句が多く
+        上の句も その一例です
+        皆さんの心の中には 一茶のこの句からどんな情景が浮かんできますか
+        一茶 のどんな気持ちを感じますか
+    tags: *a1
+  - id: 8dbfb8ad-7cae-4ef1-994a-7c02651c9351
+    start: 06:10.423
+    end: 06:34.083
+    fields:
+      transcription: |-
+        俳句は言葉の数が少ないため
+        理解や解釈が大変 難しいと言えます
+        俳句も含めて 詩の解釈というのは本来 個人の感性に頼った自由
+        自由なものですから どのように干渉してもいいのですが 作者が意図した意味を理解で
+        できるかどうか もまた とても大切なことです
+    tags: *a1
+  - id: 0e4c576c-f17b-491c-a95f-264848b87350
+    start: 06:35.283
+    end: 07:14.7
+    fields:
+      transcription: |-
+        それでは 俳句は何をもとに
+        どんなことに注意して鑑賞したらいいのでしょうか
+        次は 俳句 を鑑賞する時に注意すべき点です
+        １）どんな場所 情景が目に浮かぶか
+        ２）季節はいつか
+        それはどの言葉でわかるか
+        ３）作者が見たり聞いたりしている物事は何か
+        ４）作者はどんなことに感動したと思うか
+        ５）作者の どんな気持ちが伝わってくるか
+      meaning: |-
+        So, when we appreciate haiku, what kinds of things should we pay attention to and on what basis? The following are points that we should pay attention to when appreciating haiku.
+        1) What kind of place or scenery do you see (lit. comes to your eye)?
+        2) What season is it? Which word lets you know this? 3) What things is the author looking at or listening to?
+        aie
+    tags:
+      - Tobira_L13-1_yomimono_2.mp3
+  - id: bc048e44-9b22-42e2-b8c4-7dde6d517d18
+    start: 07:15.62
+    end: 07:37.74
+    fields:
+      transcription: |-
+        6）作者の どんな性格が現れているか
+        7）どんなメタファーが使われているか
+        8）面白い うまいと思った表現は
+        この鑑賞の仕方は自分で俳句を作る時にも参考になります
+      meaning: |-
+        What do you think moved the author?
+        What feelings of the author are conveyed to you? What aspect of the author’s personality comes out? What kind of metaphors are used?
+        Are there any expressions you thought were interesting or well done?
+        This method of appreciating haiku can also serve as a reference when making your own haiku.
+    tags: *a1
+  - id: 927b0604-e950-4c2a-8399-8a76e4d9bf6f
+    start: 07:39.08
+    end: 07:59.76
+    fields:
+      transcription: |-
+        日本では俳句は昔から人気があって
+        老若男女 様々な人たちが 俳句を作って楽しんでいます
+        携帯電話で俳句を送りあって遊ぶ若者もいますし
+        外国人が日本人 以上に素晴らしい俳句 を発表することもあります
+      meaning: In Japan, haiku have been popular since the old days, and various people, men and women of all ages, have been writing and enjoying them. Some young people have fun by sending haiku back and forth using cellular phones, and sometimes foreigners present their own haiku that are more wonderful than those of Japanese people,
+    tags: *a1
+  - id: 41828750-b2b6-467b-bb28-9c62e3ecb661
+    start: 08:00.867
+    end: 08:20.96
+    fields:
+      transcription: |-
+        皆さんもこれを機会にいろいろな俳句 を鑑賞してみてはどうでしょうか
+        そして自分でも作ってみませんか
+        世界一短い詩の面白さを味わうことで
+        日本語を学ぶ喜びや楽しみがまた一つ増えると思います
+      meaning: Taking this as an opportunity, why don’t you try appreciating various haiku? And, try making your own as well. We think that by appreciating what is interesting about “the world’s shortest poems,” you'll have another reason to have fun and enjoy learning Japanese.
+    tags:
+      - Tobira_L13-1_yomimono_2.mp3
+flashcardFieldsToSubtitlesTracks:
+  transcription: 9debdd1f-d378-40db-9d0e-152e256e92c3
+---
+name: Tobira_L13-2_kaiwabun.mp3
+format: mp3
+duration: 04:14.067
+id: 2fe29438-6adf-4b41-b197-58eeca3cd6f8
+subtitles:
+  - id: a14e6b9a-5493-4644-9a19-2e9f4bf2e937
+    type: External
+    chunksMetadata:
+      count: 93
+      endCue: 12646.4
+    name: Tobira_L13-2_kaiwabun.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: a14e6b9a-5493-4644-9a19-2e9f4bf2e937
+---
+name: Tobira_L14-1_yomimono.mp3
+format: mp3
+duration: 07:45.737
+id: 607161d4-8d5e-46ff-84e8-b7fd7d0cf8d2
+subtitles:
+  - id: e6741391-0918-4512-bb33-8f6270f710b2
+    type: External
+    chunksMetadata:
+      count: 139
+      endCue: 23039.95
+    name: Tobira_L14-1_yomimono.srt
+clips:
+  - id: 5254f806-a1c8-4717-976a-8db190f0f953
+    start: 00:14.58
+    end: 00:37.14
+    fields:
+      transcription: |-
+        あなたは今の日本の総理大臣の名前が言えるだろうか
+        他の日本の政治家の名前は
+        残念ながら おそらく 多くの外国人は日本の政治家の名前をあまり知らないだろう
+        アジアの一部の国を除いて
+        日本の政治家は国外ではほとんど知られていないようである
+    tags:
+      - Tobira_L14-1_yomimono.mp3
+  - id: 2cc9692f-a278-4299-9240-7e333159ff43
+    start: 00:38.32
+    end: 01:00.36
+    fields:
+      transcription: |-
+        なぜ国際的に知られている日本の政治家は少ないのだろうか
+        それには二つの理由が考えられる
+        一つは 外国では日本の経済状況には関心が持たれるけれど
+        政治への関心は低いために
+        メディアが日本の政治について あまり報道しないということがある
+    tags:
+      &a1
+      - Tobira_L14-1_yomimono.mp3
+  - id: a684ff76-1857-42d1-b96b-8e162c5797fb
+    start: 01:01.18
+    end: 01:21.6
+    fields:
+      transcription: |-
+        もう一つの理由としては
+        日本の政治家の関心は国内に向けられることが多く
+        地球温暖化や貧困地域の子供の教育 など
+        世界的問題に関して リーダーシップを取れる人物がいない
+        つまり
+        世界的に注目される政治家がいないということである
+    tags: *a1
+  - id: 0ffe26dc-2616-4799-b6a1-c1011ec0e369
+    start: 01:22.844
+    end: 01:57.204
+    fields:
+      transcription: |-
+        さて 日本ではどんな人が政治家になる
+        あるいはなれるのだろうか
+        日本の政治の基本は 議会制民主主義で
+        国会は衆議院と参議院で構成されている
+        人々から政治家として認められる一番の方法は
+        選挙で選ばれて この衆議院議員か
+        参議院議員になることだ
+        しかし
+        このような国会議員になることはとても難しく
+        選挙戦
+        すなわち
+        選挙のための 厳しい戦いに勝たなければならない
+    tags:
+      - Tobira_L14-1_yomimono.mp3
+  - id: fe25ddc3-5e64-4a8a-90ba-a0279dd49bfd
+    start: 01:58.68
+    end: 02:22.94
+    fields:
+      transcription: |-
+        ではどうすれば この戦いに勝てるのだろう
+        日本では昔から
+        選挙に勝つためには
+        地盤
+        看板 鞄の三つが大切だと言われてきた
+        まず 地盤というのは
+        立候補する地域のことで
+        候補者がその場所に
+        遅延や血縁 などの縁があれば 選挙に勝てるという意味である
+    tags: *a1
+  - id: aba33d09-db45-443c-bcbd-2727fa9cf86b
+    start: 02:24.292
+    end: 02:39.492
+    fields:
+      transcription: |-
+        縁というのは
+        何かとのつながりといった意味で
+        地盤があるというのはすなわち 出身地や 出身校
+        知り合い
+        友達
+        親戚などを通してその地域に強いネットワークを持っているということだ
+    tags: *a1
+  - id: 85e28a72-ec7c-44a7-8bbc-1bd0473be557
+    start: 02:40.588
+    end: 03:01.548
+    fields:
+      transcription: |-
+        次の看板は
+        看板 のことで
+        候補者が有名人である
+        いい学歴や経歴がある など
+        国民に強くアピールする個人的な条件のことを言う
+        例えば テレビタレントやスポーツ選手 や
+        大学教授がよく選挙に出るのは
+        強い 看板を持っているからだ
+    tags: *a1
+  - id: 1c89d420-e77c-43cc-9c33-974a3e8baec8
+    start: 03:02.168
+    end: 03:36.928
+    fields:
+      transcription: |-
+        そして
+        最後のカバンはカバンの中に入っているお金
+        つまり
+        選挙のために使えるお金のことである
+        選挙に使うことができるお金は
+        一応 法律によって決められているが
+        実際はそれ以上のお金が必要で
+        以前は2頭 一楽 と言って
+        2億円で当選
+        1億円で落選 と言われてきた
+        現在は 選挙制度や法律が改正され
+        昔ほどお金がかからなくなったが
+        それでもたくさんのお金が必要なのは事実だ
+    tags:
+      - Tobira_L14-1_yomimono.mp3
+  - id: d9f800c8-fa88-4f41-95fd-919e5a84adbd
+    start: 03:38.06
+    end: 04:08.84
+    fields:
+      transcription: |-
+        ここまで読んで 少し不思議に思った人がいるかもしれない
+        選挙で勝つための条件の中に
+        国民にとって一番大切なはずの制作が入っていないからだ
+        もちろん 候補者は選挙演説で議員になったらどのような政治をしたいか
+        政治家として何を目指しているか といったことを話すが
+        残念ながら
+        日本で選挙の結果を左右するのは
+        政策よりもやはり どのぐらい強い3番があるか なのだ
+    tags: *a1
+  - id: 0492cc46-31b9-4e5d-a3a6-9ee7952f3bf5
+    start: 04:09.9
+    end: 04:25.78
+    fields:
+      transcription: |-
+        そのため
+        強い 3番を持っていて
+        何回も当選したことのある有名議員が
+        政治家を辞める時には
+        その子供が 跡を継いで立候補するということがよくあり
+        そういう人たちは二世議員と呼ばれる
+    tags: *a1
+  - id: 3b8b5467-2ce6-4f38-abed-9caf75cc3638
+    start: 04:26.419
+    end: 05:02.299
+    fields:
+      transcription: |-
+        また
+        議員の中には二世議員 ばかりでなく 世襲議員も多く見られる
+        例えば
+        戦後 総理大臣になった鳩山一郎の場合は
+        子供も孫達も政治家になったし
+        最近では 最も長く 総理大臣を務めた
+        小泉純一郎もそんな世襲議員の一人で
+        祖父 父ともに政治家であった
+        驚いたことに 2000年の衆議院議員選挙で当選した 候補者の約7割が
+        二世議員や 世襲議員だったというデータもある
+    tags: *a1
+  - id: e11fc4d3-e704-488d-9b87-d07a140a7625
+    start: 05:03.395
+    end: 05:45.723
+    fields:
+      transcription: |-
+        しかし 21世紀に入り
+        日本でもようやく 製作の大切さが問題にされるようになってきた
+        そのため
+        政党や議員候補者たちは マニフェスト
+        政権公約を発表して選挙を戦うようになった
+        マニフェスト というのは
+        政策の具体的な実行計画で
+        目標を数値で示し
+        どこからお金をもらってくるのか
+        何時までに実行するのか など
+        国民に分かりやすく 約束するものである
+        最近では 国政選挙 だけでなく
+        知事や市長などが立候補する地方の選挙でも
+        このマニフェストが発表されるようになった
+    tags:
+      - Tobira_L14-1_yomimono.mp3
+  - id: 45cc61bf-0e88-46d0-b59d-93bf981e2979
+    start: 05:47.44
+    end: 06:26.76
+    fields:
+      transcription: |-
+        このように 日本の政治家たちの選挙活動の仕方や内容は
+        少しずつ変わってきている
+        しかし 未だに
+        地盤 看板 カバンに頼る 候補者が少なくないのも事実だ
+        選挙のたびに政治経験のない有名人
+        例えば テレビタレントやスポーツ選手などが候補者になったり
+        引退する議員の子供が
+        親に変わって立候補したりする
+        そして
+        毎回お金に関係した選挙違反のニュースも流れる
+        いかに 日本の選挙が
+        地盤 看板 鞄と結びついているかということだ
+    tags: *a1
+  - id: a06018b1-10ac-4e29-88fd-f4348f3d5b09
+    start: 06:28.743
+    end: 06:55.183
+    fields:
+      transcription: |-
+        もちろん二世議員や 世襲議員
+        あるいは 有名人から気になった人でも
+        政治家として立派な人はたくさんいる
+        しかしながら
+        政治は国民みんなの生活を左右するものであるから
+        父や家族が議員だったから
+        テレビで有名になったからという理由だけで
+        その人たちが 政治家になれるとしたらかなり問題があるのではないだろうか
+    tags: *a1
+  - id: de42ed61-024c-49ab-924e-4f8a865e1e86
+    start: 06:55.883
+    end: 07:17.191
+    fields:
+      transcription: |-
+        また議員を選ぶ側も
+        政治家の子供だから
+        有名人だからという理由だけで投票するといった態度を考え直す必要があると思う
+        今のままの状態が続くと
+        将来
+        日本の政治は
+        ある一部の人だけのものになってしまい
+        ますます 国民から離れてしまう
+    tags:
+      - Tobira_L14-1_yomimono.mp3
+  - id: 6911029d-d0e7-4eec-8d00-bb8091a60dbd
+    start: 07:18.699
+    end: 07:40.939
+    fields:
+      transcription: |-
+        日本はせっかく 民主主義の国 なのだから
+        政治家は国民一人一人が責任をもって選んでいかなければならない
+        いつか日本人政治家の中にも世界で尊敬され
+        名前を知られるような人物が現れるようになるには
+        まず日本国民一人一人の意識を変えるべきなのだろう
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: e6741391-0918-4512-bb33-8f6270f710b2
+---
+name: Tobira_L14-2_touron.mp3
+format: mp3
+duration: 06:32.072
+id: d2f86a12-1aa0-4933-a3d9-a1be7291f029
+subtitles:
+  - id: 5a6f38a1-76b5-4eef-86e0-cb94a4418832
+    type: External
+    chunksMetadata:
+      count: 149
+      endCue: 19481.55
+    name: Tobira_L14-2_touron.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 5a6f38a1-76b5-4eef-86e0-cb94a4418832

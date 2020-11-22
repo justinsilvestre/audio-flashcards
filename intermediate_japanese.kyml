@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-11-01T15:39:50Z
+timestamp: 2020-11-20T22:42:07Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -4443,7 +4443,7 @@ clips:
       meaning: Do you know the names of Japan’s four large islands? Japan is an island nation located to the east of the Eurasian continent, and 70 percent of the country is mountainous.
     tags:
       &a1
-      - Tobira_L01-1_yomimono.mp3
+      - tobira01
   - id: 0690e34f-ef61-4731-90e6-805c25d46ac2
     start: 00:25.54
     end: 00:38.4
@@ -4469,7 +4469,7 @@ clips:
       transcription: |-
         日本には47の都道府県（一都、一道、二府、四十三県）があります。
         一都は東京都（首都、一道は北海道、二府は大阪府と京都府で、その他は、静岡県や広島県のように全部、県です。
-      meaning: "Japan has 47 prefectures (to-do-fu-ken): one to, one do, two fu, and 43 ken. One to refers to Tokyo-to (the capital), one do is Hokkai~d6, two fu are Osaka-fu and Kyoto-fu, and the other prefectures are all ken, such as Shizuoka-ken and Hiroshima-ken."
+      meaning: "Japan has 47 prefectures (to-do-fu-ken): one to, one do, two fu, and 43 ken. One to refers to Tokyo-to (the capital), one do is Hokkaido, two fu are Osaka-fu and Kyoto-fu, and the other prefectures are all ken, such as Shizuoka-ken and Hiroshima-ken."
     tags: *a1
   - id: d361ba4c-af62-40e3-8193-2bcde9920e1f
     start: 01:29.821
@@ -4485,8 +4485,7 @@ clips:
       transcription: |-
         日本は南北に長い国なので、南と北では気候が大きく違い、
         沖縄や九州で泳げる時に北海道では雪が降っていることもあります
-        それから同じ日の沖縄と北海道の気温の差が摂氏40度以上になる
-        なることもあります
+        それから同じ日の沖縄と北海道の気温の差が摂氏40度以上になることもあります
       meaning: Japan is a country that is long from north to south, so the climate varies greatly from south to north, and sometimes it happens that it is snowing in Hokkaido when people are able to swim in Okinawa or Kyushu. Furthermore, the gap in temperatures between Okinawa and Hokkaido on the same day may be greater than 40 degrees centigrade.
     tags: *a1
   - id: f0b11ec6-7e48-4dd1-b159-a18a379ade68
@@ -4502,7 +4501,7 @@ clips:
         花見を楽しみます
       meaning: Because of this, the time when Japan’s beloved cherry blossoms bloom varies depending on the location. In Okinawa, they begin to bloom at the end of January, but in Hokkaido they don’t bloom until May. When the cherry blossom trees bloom, people enjoy “cherry-blossom viewing,” doing things like drinking and singing under the trees.
     tags:
-      - Tobira_L01-1_yomimono.mp3
+      - tobira01
   - id: c48f85e1-abda-43f9-a281-2553238e3ce4
     start: 02:29.76
     end: 02:46.9
@@ -4603,23 +4602,21 @@ clips:
         まず先生のご専門の
         昔話についてお聞きしたいんですが
     tags:
-      - Tobira_L01-2_kaiwabun_1.mp3
+      - tobira01
   - id: 1516f77f-f50d-49f5-b66b-e7f1b833ed6e
     start: 00:42.787
     end: 01:04.267
     fields:
       transcription: |-
-        日本には
-        山 昔話があるそうですが
+        日本には、たくさん昔話があるそうですが
         地方によって色々な昔話がありますよ
-        天井
-        地方という言葉は
+        先生、地方という言葉は
         時々聞きますが 田舎のことですか
         田舎という意味もありますが
         その間に 関東地方とか関西地方のように使うこともありま
     tags:
       &a1
-      - Tobira_L01-2_kaiwabun_1.mp3
+      - tobira01
   - id: 6db91d9c-4551-4f7b-af2b-d6a9d02b963c
     start: 01:05.067
     end: 01:21.827
@@ -4630,7 +4627,7 @@ clips:
         いや 東京だけでなく
         横浜とか 千葉とか東京の周りの場所も入ります
         関西地方 だったら
-        大阪屋 京都や 神戸屋
+        大阪や 京都や 神戸や
         その周りですね
     tags: *a1
   - id: 4c2a8970-9c16-4585-aa3b-e75896d2dfc9
@@ -4657,7 +4654,7 @@ clips:
     end: 02:19.32
     fields:
       transcription: |-
-        じゃあ お正月は 伝統的な行事 何ですか
+        じゃあ お正月は 伝統的な行事なんですか
         はい もちろんです
         ひな祭りや こどもの日 や
         七夕も伝統的な行事ですよ
@@ -4693,9 +4690,9 @@ clips:
         紙芝居 とか 絵本で昔話を覚えるんですよ
         私はもっと色々な昔話が知りたいです
         じゃあ インターネットで調べてみたらどうですか
-        色々なサイトがエアーマンがと一緒に昔話を紹介していて楽しいですよ
+        色々なサイトが絵や漫画と一緒に昔話を紹介していて楽しいですよ
     tags:
-      - Tobira_L01-2_kaiwabun_1.mp3
+      - tobira01
   - id: a942bddf-8456-462d-bb88-9696e6baae26
     start: 03:18.036
     end: 03:26.959
@@ -4772,7 +4769,7 @@ clips:
     end: 01:32.12
     fields:
       transcription: |-
-        もし 夏に北海道に行くんだったら 東北地方まで行って 三大祭りを見てみたら
+        もし 夏に北海道に行くんだったら 東北地方まで行って 三大祭りを見てみたらいいよ
         三大祭りってどんな祭り
         秋田市の竿燈まつり
         仙台市の七夕祭り
@@ -4875,7 +4872,7 @@ clips:
         皆さんは今までに何番の言い方を勉強しましたか
         この四つの文を比べるとまず 文末に使われている言葉の形で
         砕けた話し方か
-        丁寧な話し方が分かります
+        丁寧な話し方かが分かります
         でも違いは 文末だけに現れるのではありません
     tags: *a1
   - id: f3540dc6-4e53-4ad4-9c6a-cfe6b36268cd
@@ -4884,7 +4881,7 @@ clips:
     fields:
       transcription: |-
         「どこ」を「どちら」にすればもっと丁寧な言い方になります
-        あの人の代わりにあの方やあいつということもできます
+        「あの人」の代わりに「あの方」や「あいつ」ということもできます
     tags: *a1
   - id: 3fb5d879-736b-408f-9031-ed225c4021e6
     start: 02:23.1
@@ -4892,10 +4889,8 @@ clips:
     fields:
       transcription: |-
         そして
-        どこに住んでるの
-        トイを言わなかったり
-        どこ住んでるの
-        土にを落として行ったりすると もっとくだけた感じになります
+        「どこに住んでるの」と「い」を言わなかったり、
+        「どこ住んでる」の「と」を落として行ったりすると もっとくだけた感じになります
     tags: *a1
   - id: e5ebdbbe-9832-4c4e-965f-95f6fbb00065
     start: 02:35.64
@@ -4947,12 +4942,10 @@ clips:
         食いに行こうか
         おごるよ
         いやよ とんかつ は
-        カロリーが高いからなんだ
-        じゃあ俺一人で行く夫
-        あ 待って
-        砺波 せい 美味しいんでしょ
-        やっぱり私も行くわ
-        じゃあ今から行くぞ
+        カロリーが高いから
+        なんだ、じゃ、俺、一人で行こうっと
+        あ、待って！その店、美味しいんでしょ。やっぱり私も行くわ！
+        じゃ、今から行くぞ
     tags: *a1
   - id: 0f7ff5ac-ab1a-44d7-9951-6373c429ad68
     start: 03:57.216
@@ -4960,45 +4953,26 @@ clips:
     fields:
       transcription: |-
         どうですか
-        言葉の使い方がずいぶん 違いますね
-        文字では分かりませんが
-        イントネーションもとても違います
+        言葉の使い方が随分違いますね。
+        文字では分かりませんが、イントネーションもとても違います
     tags: *a1
   - id: e9465b46-00ef-4fc9-bea8-9742ec62a919
     start: 04:07.896
     end: 04:19.956
     fields:
-      transcription: |-
-        友達や恋人や家族と話す時
-        男性は自分の事を僕とか俺といい
-        女性は大抵 私も使います
+      transcription: 友達や恋人や家族と話す時、男性は自分の事を「僕」とか「俺」と言い、女性は大抵「私」を使います。
     tags: *a1
   - id: d96b79e4-9631-4771-893e-e0e3a4885d95
     start: 04:20.72
     end: 04:42.94
     fields:
-      transcription: |-
-        最近は
-        男女の差が小さくなって
-        上の例のように
-        文末に
-        は
-        はよ
-        を使う女性や
-        瀬戸
-        を使う男性は少なくなっていますが
-        でも女性が
-        俺も 腹減った
-        を言ったり
-        男性が嫌よ と言ったら びっくりされてしまいます
+      transcription: 最近は、男女の差が小さくなって、上の例のように、文末に「わ」「わよ」を使う女性や「ぜ」「ぞ」を使う男性は少なくなっていますが、でも、女性が「俺も腹減った」を言ったり、男性が「嫌よ」と言ったら、びっくりされてしまいます。
     tags: *a1
   - id: c8ff1b55-fc0a-42f9-b6d2-31d8cf28a6d2
     start: 04:44.003
     end: 04:51.103
     fields:
-      transcription: |-
-        話し方の差が小さくなっても
-        使わない方がいい 表現もあるということを言っておいてください
+      transcription: 話し方の差が小さくなっても、使わない方がいい表現もあるということを知っておいてください。
     tags: *a1
   - id: 5496596e-4976-4439-b4c0-d16eb77d9307
     start: 04:53.726
@@ -5008,54 +4982,47 @@ clips:
         3
         文末の省略と言葉の短縮形
         日本語のスピーチ スタイルを考える時
-        文を最後まで言わない スタイルも知っておいた方がいいでしょう
-        日本人の会話には下の例のように
-        けど
-        家
-        から
-        や市などで文を終わらせる 言い方が多く見られます
+        文を最後まで言わない スタイルも知っておいた方がいいでしょう。
+        日本人の会話には下の例のように、「〜けど」や「〜から」や「〜し」などで文を終わらせる言い方が多く見られます。
     tags: *a1
   - id: b8c32abd-fd81-4e51-b4a9-dfbb34777c1b
     start: 05:20.3
     end: 05:42.38
     fields:
       transcription: |-
-        読み方がわからないんですけど
-        教えてくれませんか
-        何回も電話をしたんですけど連絡がないので
-        困っています
-        私も忙しいし
-        できません
-        これは言いにくいことをハッキリ言わない言い方です
+        「読み方がわからないんですけど…」（教えてくれませんか）
+        何回も電話をしたんですけど連絡がないので…」（困っています）
+        「私も忙しいし…」（できません）
+        これは言いにくいことをはっきり言わない言い方です
     tags: *a1
   - id: 60f7a5c2-a693-4a4c-b5c2-663830a54210
     start: 05:42.77
     end: 06:00.15
     fields:
-      transcription: |-
-        例えば パーティーに誘われて断りたいとき
-        今週の土曜日は都合が悪くて行けません
-        というより今週の土曜日はちょっと
-        のようにあまり はっきり言わない方が相手の気分を悪くしません
+      transcription: 例えば、パーティーに誘われて断りたいとき、「今週の土曜日は都合が悪くて行けません」というより「今週の土曜日はちょっと…」のようにあまりはっきり言わない方が相手の気分を悪くしません。
     tags: *a1
   - id: 99c712cd-1170-41d4-b127-32b57faeac4c
     start: 06:01.207
     end: 06:20.407
     fields:
-      transcription: |-
-        の部分で
-        お願いや理の意味を相手にわかってもらうのです
-        これは相手の気持ちを大切にする日本人の考え方が 日本語にあらわれている
-        表現の一つですから
-        が使えるようになると会話が上手に聞こえます
+      transcription: 「…」の部分で、お願いや断りの意味を相手にわかってもらうのです。これは相手の気持ちを大切にする日本人の考え方が日本語に現れている表現の一つですから、「…」が使えるようになると会話が上手に聞こえます。
     tags: *a1
   - id: 8777e51b-378e-49aa-8cae-1f38e8c99015
     start: 06:21.35
-    end: 06:30.78
+    end: 06:53.423
     fields:
       transcription: |-
-        また話し言葉では言葉を簡単に短くしていう言い方もよく使われます
-        例えば 次のような例です
+        また、話し言葉では、言葉を簡単に短くしていう言い方もよく使われます。例えば 次のような例です。
+        ユネスコというのは何ですか
+        ユネスコって何ですか
+        忘れてしまった
+        忘れちゃった
+        飲んでしまう
+        飲んじゃう
+        買っておいた
+        買っといた
+        見せてあげる
+        見せたげる
     tags:
       - tobira02
   - id: 5ccf0b08-7ed5-47e2-9016-244fc35e83e5
@@ -5063,11 +5030,9 @@ clips:
     end: 07:15.4
     fields:
       transcription: |-
-        英語でも I want 都合が合えものは5となったり
-        Ask him gaskin
-        怒鳴ったりしますね
-        こういう言い方は英語ができない 外国人には慣れるまで大変です
-        同じように 日本語の短縮形 も使えるようになるためには時間がかかるのです
+        英語でも "I want to go"が　"I wanna go"　となったり、"Ask him"が　"Ask'im"となったりしますね。
+        こういう言い方は英語ができない 外国人には慣れるまで大変です。
+        同じように、日本語の短縮形も使えるようになるためには時間がかかるのです。
     tags: *a1
   - id: 41f5e3bb-e6f5-4089-b30f-b21a102e1ff5
     start: 07:19.531
@@ -5094,66 +5059,46 @@ clips:
     start: 07:49.72
     end: 07:53.26
     fields:
-      transcription: このような話し方も 日本語の特徴の人って
+      transcription: このような話し方も日本語の特徴のーつです。
     tags: *a1
   - id: 5d0a3440-a32c-4b66-aaed-92701127f7d0
     start: 08:08.44
     end: 08:26.54
     fields:
       transcription: |-
-        ご書き言葉 スタイル
-        話し言葉に色々なスタイルがあるように
-        書き言葉にも色々なスタイルがあります
-        日本語が上手になるためには
-        書くときにどんなスタイルを使ったらいいかも 勉強する必要があります
+        ５．書き言葉スタイル
+        話し言葉に色々なスタイルがあるように、書き言葉にも色々なスタイルがあります。
+        日本語が上手になるためには、書く時にどんなスタイルを使ったらいいかも勉強する必要があります。
     tags: *a1
   - id: 60f96a45-8dfa-49c1-a5d8-b405d6cd31f6
     start: 08:27.12
     end: 08:49.4
     fields:
-      transcription: |-
-        例えば携帯電話を使って友達に短いメッセージを送る時には
-        その友達と話す時のような 砕けた表現を使うかもしれません
-        手紙を書くときは普通ですます体
-        作文を書くときは ですます体を使うことも
-        堕胎を使うこともあるでしょう
+      transcription: 例えば、携帯電話を使って友達に短いメッセージを送る時には、その友達と話す時のような砕けた表現を使うかもしれません。手紙を書くときは普通「です・ます体」、作文を書くときは「です・ます体」を使うことも「だ体」を使うこともあるでしょう。
     tags: *a1
   - id: a3e536d5-c18e-4cd4-86b8-67be3f6eed12
     start: 08:50.175
     end: 08:56.135
     fields:
-      transcription: |-
-        また論文を書く場合には
-        大対レアル対を使うことが多いです
+      transcription: また、論文を書く場合には、「だ体／である体」を使うことが多いです。
     tags: *a1
   - id: 5428bfd0-a197-4ded-975c-bbd830ccd0ae
     start: 08:56.855
     end: 09:09.155
     fields:
-      transcription: |-
-        各スタイルは何を書くか
-        誰が読む かによって使い分けなくてはいけないため どのスタイルを選ぶかだけでな
-        言葉の選び方も大切です
+      transcription: 書くスタイルは、何を書くか、誰が読むかによって使い分けなくてはいけないため、どのスタイルを選ぶかだけでなく、言葉の選び方も大切です。
     tags: *a1
   - id: c0ae344e-7165-472f-9c13-51d28a168ce7
     start: 09:09.88
     end: 09:32.98
     fields:
-      transcription: |-
-        例えば大対レアル対の論文ではすごく面白いとか
-        とても面白いではなくて
-        大変興味深いと書いた方がいいのです
-        それはすごいやとてもより大変の方が そして
-        面白いより興味深いの方が 書き言葉的だからです
+      transcription: 例えば、「だ体／である体」の論文では、「すごく面白い」とか「とても面白い」ではなくて、「大変興味深い」と書いた方がいいのです。それは「すごい」や「とても」より「大変」の方が、そして「面白い」より「興味深い」の方が書き言葉的だからです。
     tags: *a1
   - id: 2aa14bb8-fe38-4060-9ce6-fc2d3221f62f
     start: 09:33.843
     end: 09:46.303
     fields:
-      transcription: |-
-        書くときには各スタイルに合った 書き言葉的表現
-        そして話す時には話す スタイルにあった
-        話し言葉的表現があることを覚えておいてください
+      transcription: 書くときには各スタイルに合った 書き言葉的表現、そして、話す時には話すスタイルに合った話し言葉的表現があることを覚えておいてください。
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: 108656fc-bfc4-47fe-825f-71603cc142a6
@@ -5213,7 +5158,7 @@ clips:
       transcription: |-
         ロボットのイベント会場に行くと 似顔絵を書いてくれる ロボットや
         注文を聞いて 飲み物を出してくれる ロボット
-        雲のように 天井や壁を歩くことができるロボット
+        くものように 天井や壁を歩くことができるロボット
         手術をするロボットなどが見られる
     tags:
       - tobira03
@@ -5285,7 +5230,7 @@ clips:
     end: 02:21.7
     fields:
       transcription: |-
-        パルは世界で最もセラピー効果があるロボットとしてギネスブックに載っていると聞きました
+        パロは世界で最もセラピー効果があるロボットとしてギネスブックに載っていると聞きました
         家族がギネスブックに載っているんですよ
         すごいと思いませんか
     tags: *a1
@@ -5328,7 +5273,7 @@ clips:
     end: 03:25.861
     fields:
       transcription: |-
-        中には 相棒という犬の形をしたロボットが入っていました
+        中には AIBOという犬の形をしたロボットが入っていました
         AIBO は 世界で初めて作られたペットロボットでした
         初めは 本当の犬じゃなくてガッカリしたけれど
         私はすぐ AIBO が好きになりました
@@ -5343,7 +5288,7 @@ clips:
         色々なことを覚えていきました
         まず私がつけた
         ポチという名前と
-        私と両親の顔覚えました
+        私と両親の顔を覚えました
     tags: *a1
   - id: 01cab17d-e52b-4b71-8747-ce78d58a4be3
     start: 03:47.349
@@ -5361,7 +5306,7 @@ clips:
       transcription: |-
         私は毎日学校から帰ると
         ポチと話したり遊んだりしました
-        こっちは 私が家にいない時は
+        ポチは 私が家にいない時は
         一人で部屋でボールで遊んだり寝たりしていたようです
     tags: *a1
   - id: 989a1665-b68a-4e74-b7f7-829e0f4d64de
@@ -5407,8 +5352,7 @@ clips:
     end: 05:23.277
     fields:
       transcription: |-
-        近い将来私たちが 人型のロボットと生活して一緒にテレビを見てわら
-        笑ったり 食事をしたり
+        近い将来私たちが 人型のロボットと生活して一緒にテレビを見て笑ったり 食事をしたり
         友達のように話したりする日が来るかもしれない
         もちろん 掃除や洗濯もしてもらえたら最高だけど
     tags: *a1
@@ -5507,7 +5451,7 @@ clips:
     start: 01:47.208
     end: 02:02.42
     fields:
-      transcription: だから、勝って嬉しくて大声で叫びたい時でも、負けて悔しい時でも、土俵の上でその気持ちを表現したり、試合の後のインタビューでベラベラ話したりすることはあまりしない。
+      transcription: だから、勝って嬉しくて大声で叫びたい時でも、負けて悔しい時でも、土俵の上でその気持ちを表現したり、試合の後のインタビューでべらべら話したりすることはあまりしない。
     tags: *a1
   - id: eafc8029-0599-4ba4-be93-299ad91c9f99
     start: 02:03.392
@@ -5527,7 +5471,7 @@ clips:
     fields:
       transcription: |-
         そしてこの考え方は
-        ぶどうが スポーツとして世界中で楽しまれるようになっても変わっていない
+        武道が スポーツとして世界中で楽しまれるようになっても変わっていない
     tags: *a1
   - id: 51df393c-a2b2-44b8-8bce-a0c1374efd4a
     start: 02:35.668
@@ -7348,7 +7292,7 @@ clips:
         日本を訪れた外国人は自動販売機が町中にある風景に驚くらしい
     tags:
       &a1
-      - Tobira_L10-1_yomimono.mp3
+      - tobira10
   - id: 297932eb-068b-48c4-adc5-741141a014d6
     start: 00:30.42
     end: 00:51.76
@@ -7576,7 +7520,7 @@ clips:
         日本の特徴の一つと言える自動販売機
         ある調査によると日本人の8割以上が 生活に必要なものだと答えている
     tags:
-      - Tobira_L10-1_yomimono.mp3
+      - tobira10
   - id: e363e0ea-e5b1-4dc7-be68-1d60cdc24879
     start: 07:35.58
     end: 08:00.32
@@ -7650,7 +7594,7 @@ clips:
         日本的に変化したものが少なくありません
     tags:
       &a1
-      - Tobira_L11-1_yomimono.mp3
+      - tobira11
   - id: ce102a70-d51a-44c5-ae5d-771e8450e212
     start: 00:40.44
     end: 00:59.96
@@ -7866,7 +7810,7 @@ clips:
         近代化を目指した
         その中の一つに 肉を食べることがある
     tags:
-      - Tobira_L11-1_yomimono.mp3
+      - tobira11
   - id: 086784e0-6e0d-4341-8f5b-417a42c28df0
     start: 06:48.48
     end: 07:16.3
@@ -7881,7 +7825,7 @@ clips:
         そんな状況の中で牛肉を使った日本の代表的な食べ物
         すき焼きが生まれたのである
     tags:
-      - Tobira_L11-1_yomimono.mp3
+      - tobira11
   - id: bc3b3048-c7e1-4cfe-b9e7-79376e6f703c
     start: 07:18.163
     end: 07:46.847
@@ -7895,7 +7839,7 @@ clips:
         それらも欧米の習慣を取り入れながら
         日本独自の方法で祝っている
     tags:
-      - Tobira_L11-1_yomimono.mp3
+      - tobira11
 flashcardFieldsToSubtitlesTracks:
   transcription: c88a5ee3-b59c-4242-bc5c-1a81ce617c34
 ---
@@ -7956,7 +7900,7 @@ clips:
         だから 和紙は日本の神ということになります
     tags:
       &a1
-      - Tobira_L12-1_yomimono.mp3
+      - tobira12
   - id: b4df4bb1-48b2-4936-8b2b-6ba69c0b71e5
     start: 00:48.916
     end: 01:03.276
@@ -8028,7 +7972,7 @@ clips:
         何度も 閉じたり 広げたりしなければならない傘や扇子には
         わしの強さと 柔らかさの両方の特長が生かされています
     tags:
-      - Tobira_L12-1_yomimono.mp3
+      - tobira12
   - id: 4ef1e1ba-1067-4d88-80ba-b41f94b55754
     start: 02:57.647
     end: 03:15.447
@@ -8116,7 +8060,7 @@ clips:
         よく僕ん家の前を通りかかると
         中を覗いては声をかけてくれたものです
     tags:
-      - Tobira_L13-1_yomimono_1.mp3
+      - tobira13
   - id: 69955696-b448-4751-94f4-e984d913da71
     start: 00:45.82
     end: 01:03.14
@@ -8128,7 +8072,7 @@ clips:
         辺りが紫色から橙色に変わっていく 夕餉の煙りも
         暗くなるにつれて刻一刻 変わる 自然描写をした
     tags:
-      - Tobira_L13-1_yomimono_1.mp3
+      - tobira13
   - id: 1d1d4686-54e6-4b6a-ad7a-67d17e6d89fc
     start: 01:03.908
     end: 01:31.748
@@ -8144,7 +8088,7 @@ clips:
         それじゃあ 小説家になろうというのが 僕の夢になった
     tags:
       &a1
-      - Tobira_L13-1_yomimono_1.mp3
+      - tobira13
   - id: bb4a175f-f358-45c1-95bb-03ef7042c560
     start: 01:32.9
     end: 01:44.52
@@ -8236,7 +8180,7 @@ clips:
         世界各国の小中学校の教科書にも紹介されています
     tags:
       &a1
-      - Tobira_L13-1_yomimono_2.mp3
+      - tobira12
   - id: ffae12ab-5b93-4f30-8045-c86049480114
     start: 00:33.66
     end: 00:58.74
@@ -8309,7 +8253,7 @@ clips:
         ３）動物・植物（赤とんぼ、猫の恋、木の芽、もみじ）
         ４）行事・生活（田植え、鯉のぼり、お正月）
     tags:
-      - Tobira_L13-1_yomimono_2.mp3
+      - tobira13
   - id: b73f90cf-674e-44d5-b052-cc33d45f61ef
     start: 03:54.66
     end: 04:17.76
@@ -8355,7 +8299,7 @@ clips:
         上の句は山の中の古い 静かな 池が持つ 「わび・さび」と
         それに対する新しい命の誕生 に感動した気持ちを表しています
     tags:
-      - Tobira_L13-1_yomimono_2.mp3
+      - tobira13
   - id: 3e8b61c2-29e0-4184-9165-a0f189556530
     start: 05:45.303
     end: 06:08.763
@@ -8398,7 +8342,7 @@ clips:
         2) What season is it? Which word lets you know this? 3) What things is the author looking at or listening to?
         aie
     tags:
-      - Tobira_L13-1_yomimono_2.mp3
+      - tobira13
   - id: bc048e44-9b22-42e2-b8c4-7dde6d517d18
     start: 07:15.62
     end: 07:37.74
@@ -8436,7 +8380,7 @@ clips:
         日本語を学ぶ喜びや楽しみがまた一つ増えると思います
       meaning: Taking this as an opportunity, why don’t you try appreciating various haiku? And, try making your own as well. We think that by appreciating what is interesting about “the world’s shortest poems,” you'll have another reason to have fun and enjoy learning Japanese.
     tags:
-      - Tobira_L13-1_yomimono_2.mp3
+      - tobira13
 flashcardFieldsToSubtitlesTracks:
   transcription: 9debdd1f-d378-40db-9d0e-152e256e92c3
 ---
@@ -8477,7 +8421,7 @@ clips:
         アジアの一部の国を除いて
         日本の政治家は国外ではほとんど知られていないようである
     tags:
-      - Tobira_L14-1_yomimono.mp3
+      - tobira14
   - id: 2cc9692f-a278-4299-9240-7e333159ff43
     start: 00:38.32
     end: 01:00.36
@@ -8490,7 +8434,7 @@ clips:
         メディアが日本の政治について あまり報道しないということがある
     tags:
       &a1
-      - Tobira_L14-1_yomimono.mp3
+      - tobira14
   - id: a684ff76-1857-42d1-b96b-8e162c5797fb
     start: 01:01.18
     end: 01:21.6
@@ -8521,7 +8465,7 @@ clips:
         すなわち
         選挙のための 厳しい戦いに勝たなければならない
     tags:
-      - Tobira_L14-1_yomimono.mp3
+      - tobira14
   - id: fe25ddc3-5e64-4a8a-90ba-a0279dd49bfd
     start: 01:58.68
     end: 02:22.94
@@ -8582,7 +8526,7 @@ clips:
         昔ほどお金がかからなくなったが
         それでもたくさんのお金が必要なのは事実だ
     tags:
-      - Tobira_L14-1_yomimono.mp3
+      - tobira14
   - id: d9f800c8-fa88-4f41-95fd-919e5a84adbd
     start: 03:38.06
     end: 04:08.84
@@ -8645,7 +8589,7 @@ clips:
         知事や市長などが立候補する地方の選挙でも
         このマニフェストが発表されるようになった
     tags:
-      - Tobira_L14-1_yomimono.mp3
+      - tobira14
   - id: 45cc61bf-0e88-46d0-b59d-93bf981e2979
     start: 05:47.44
     end: 06:26.76
@@ -8692,7 +8636,7 @@ clips:
         ある一部の人だけのものになってしまい
         ますます 国民から離れてしまう
     tags:
-      - Tobira_L14-1_yomimono.mp3
+      - tobira14
   - id: 6911029d-d0e7-4eec-8d00-bb8091a60dbd
     start: 07:18.699
     end: 07:40.939
@@ -8720,3 +8664,563 @@ subtitles:
     name: Tobira_L14-2_touron.srt
 flashcardFieldsToSubtitlesTracks:
   transcription: 5a6f38a1-76b5-4eef-86e0-cb94a4418832
+---
+name: Tobira_L15-1_yomimono_1.mp3
+format: mp3
+duration: 05:34.838
+id: 7a3821b6-d2d0-4462-a698-2917f77daf58
+subtitles:
+  - id: c29785a1-d906-405b-af7b-7cfea32d9e19
+    type: External
+    chunksMetadata:
+      count: 92
+      endCue: 16652.75
+    name: Tobira_L15-1_yomimono_1.srt
+clips:
+  - id: d67e2d01-f5a6-43e3-b9c0-1cd8ccce3a08
+    start: 00:39.16
+    end: 00:58.34
+    fields:
+      transcription: |-
+        しかしこの疑問に答えることは簡単ではない
+        明るい未来を予測する人もいれば
+        暗い未来を予測する人もいる
+        未来は決まっているものではなく
+        現在の私たちの行動次第で
+        明るくもなれば暗くもなる
+      meaning: However, answering these questions is not easy. Some people predict a bright future while others predict a dark future. The future is not already decided, but it could become bright or dark, depending on our actions today.
+    tags:
+      &a1
+      - tobira15
+  - id: a56f9d80-aad2-4bdb-bb83-5e189f827872
+    start: 01:22.62
+    end: 01:29.9
+    fields:
+      transcription: |-
+        世界には 67億人の人がいますが もしそれを100人の村に縮めると
+        どうなるでしょう
+      meaning: "There are 6.7 billion people in the world, but what would happen if we shrank that down to a village of 100 people? "
+    tags: *a1
+  - id: d22e7c59-895b-4d39-a9ba-7e7d8158da97
+    start: 01:30.84
+    end: 01:50.48
+    fields:
+      transcription: |-
+        100人のうち 50人が女性です
+        50人が男性です
+        28人が子供で72人が大人です
+        そのうち7人がお年寄りです 90人が異性愛者で10
+        10人が同性愛者です
+      meaning: |-
+        Out of the 100 people, 50 are female. 50 are male.
+        28 are children, and 72 are adults. Out of those, 7 are seniors.
+        90 people are heterosexual, and 10 people are homosexual.
+    tags: *a1
+  - id: 78f30e1d-6726-452d-8bcd-4fbb660f1959
+    start: 01:50.768
+    end: 02:11.188
+    fields:
+      transcription: |-
+        83人が 有色人種で
+        17人が白人です
+        60人がアジア人です
+        14人がアフリカ人
+        14人が南北アメリカ人
+        11人がヨーロッパ人
+        後は 南太平洋地域の人です
+      meaning: |-
+        83 people are non-Caucasian, and 17 people are Caucasian.
+        60 people are Asian. 14 people are African, 14 people are South and North American, 11 people are European, and the others are from the South Pacific Ocean region.
+    tags: *a1
+  - id: f48a956a-3863-4ec0-a9a3-2a940697ea2e
+    start: 02:11.996
+    end: 02:36.716
+    fields:
+      transcription: |-
+        33人がキリスト教
+        20人がイスラム教 13人が ヒンドゥー教 6人が仏教
+        今日を信じています
+        5人は木や石などすべての自然に霊魂があると信じています
+        23人は他の様々な宗教を信じているか あるいは 何も信じていません
+      meaning: |-
+        33 people believe in Christianity, 20 people believe in Islam, 13 people believe in Hinduism, and 6 people believe in Buddhism.
+        5 people believe that there are spirits in all of nature, such as trees and stones.
+        23 people believe in various other religions or do not believe in anything.
+    tags:
+      - tobira15
+  - id: 6bb266dd-a692-4550-b44e-fc899d3a4a4a
+    start: 02:38.42
+    end: 03:07.74
+    fields:
+      transcription: |-
+        17人は中国語を喋り
+        8人は英語を
+        8人はヒンディー語
+        7人はスペイン語
+        四人はロシア語を
+        四人はアラビア語をしゃべります
+        これでようやく 村人の半分です
+        あとの半分は ベンガル語
+        ポルトガル語
+        インドネシア語
+        日本語
+        ドイツ語
+        フランス語などを喋ります
+      meaning: 17 people speak Chinese, 8 people speak English, 8 people speak Hindi, 7 people speak Spanish, 4 people speak Russian, and 4 people speak Arabic. This is barely half of the people in the village. The other half speaks languages such as Bengali, Portuguese, Indonesian, Japanese, German, and French.
+    tags: *a1
+  - id: a1467f11-f06f-4cfa-a988-6d57852f22d5
+    start: 03:09.42
+    end: 03:21.66
+    fields:
+      transcription: |-
+        色々な人がいるこの村では
+        あなたとは違う人を理解すること
+        相手をあるがままに受け入れること
+        そして何より そういうことを知ることがとても大切です
+      meaning: In this village, where many different people live, it is important for you to understand people who are different from you, to accept others as they are, and most of all. to know this (that there are many different people living in the same village).
+    tags: *a1
+  - id: 55aa654a-5d4e-4704-8c25-eec057270845
+    start: 03:23.18
+    end: 03:38.64
+    fields:
+      transcription: |-
+        また こんな風にも考えてみてください
+        村に住む人々の100人のうち
+        14人は栄養が十分ではなく
+        一人は死にそうなほどです
+        でも 14人は太りすぎです
+      meaning: In addition, please imagine this (lit. try to think this way). Out of the 100 people who live in the village, 14 are malnourished (lit. have insufficient nutrition) to the extent that one is about to die, On the other hand, 14 are overweight.
+    tags:
+      - tobira15
+  - id: dc8c10f3-d532-4ebe-bb26-9cb8d0d83fb2
+    start: 03:40.076
+    end: 03:52.22
+    fields:
+      transcription: |-
+        全ての富のうち
+        一人が40%を持っていて
+        49人が51%
+        50人がたったの1%を分け合っています
+      meaning: Out of all the wealth, one person owns 40%, 49 people own 51%, and 50 people share only 1%.
+    tags: *a1
+  - id: 41e8ac3a-d48f-4e3f-8620-d26e3cc07da5
+    start: 03:53.08
+    end: 04:02.6
+    fields:
+      transcription: |-
+        全てのエネルギーのうち19人が54%を使い
+        81人が 46%を分け合っています
+      meaning: " Out of all the energy, 19 people use 54%, and 81 people share 46%."
+    tags: *a1
+  - id: 1b585c13-d63f-4c73-9004-1d726834373e
+    start: 04:03.64
+    end: 04:18.0
+    fields:
+      transcription: |-
+        82人は食べ物の蓄えがあり
+        雨露をしのぐところがあります
+        でも あとの18人はそうではありません
+        18人は綺麗で安全な水を飲めません
+      meaning: 82 people have an adequate supply of food and a place to stay dry. But, this is not so for the other 18 people. 18 people cannot drink clean, safe water.
+    tags: *a1
+  - id: 364192d2-5233-4e2a-82bd-cea56e4bd545
+    start: 04:19.759
+    end: 04:30.199
+    fields:
+      transcription: |-
+        村人の家一人が大学の教育を受け 18人がインターネットを使っています
+        けれど 20人は文字が読めません
+      meaning: Out of the villagers, one person has a university education and 18 people use the Internet. However, 20 people cannot read.
+    tags: *a1
+  - id: 0b9ae28a-8a11-4624-a1f9-585d6e821746
+    start: 04:31.88
+    end: 04:47.26
+    fields:
+      transcription: もしもあなたが嫌がらせや 逮捕 や拷問や死を恐れずに 信条や信号、良心に従って何かをし、ものが言えるなら、そうではない 48人より 恵まれています
+      meaning: If you are able to do or say things according to your principles, faith, or conscience without fear of harassment, arrest, physical torture or death, you are more blessed than the 48 people for whom that is not so.
+    tags:
+      - tobira15
+  - id: 5fd6d044-4e03-4366-b6de-203564e88047
+    start: 04:47.707
+    end: 05:00.307
+    fields:
+      transcription: |-
+        もしもあなたが空爆 や 襲撃 や 地雷による殺戮や 武装集
+        集団のレイプやら家に怯えていなければ
+        そうではない 20人より 恵まれています
+      meaning: If you are not frightened of slaughter by aerial bombings, raids, or landmines, or by rape or abduction by an armed group, you are more blessed than the 20 people for whom that is not so.
+    tags: *a1
+  - id: af1357de-6c8e-461c-8e0c-81ecb9b36d81
+    start: 05:01.567
+    end: 05:12.399
+    fields:
+      transcription: |-
+        1年の間に裏では1人がなくなります
+        でも一年に二人 赤ちゃんが生まれるので
+        来年 村人は 101人になります
+      meaning: Every year, one person in the village dies. However, every year two babies are born, so next year there will be 101 villagers.
+    tags:
+      - tobira15
+  - id: 024be7cd-6f9d-4990-9c6e-8056ebfa4ee3
+    start: 05:13.343
+    end: 05:33.027
+    fields:
+      transcription: |-
+        もしもこのメールを読めたなら この瞬間あなたの幸せは2倍にも3倍にも
+        にもなります
+        なぜならあなたには
+        あなたのことを思って これを送ってくれた 誰かがいるだけでなく 文字も読めるからです
+        けれど何よりあなたは生きているからです
+      meaning: If you are able to read this e-mail now, in this moment your happiness will increase by two or three times. This is not only because there is someone who thought of you and sent it to you, but because you are able to read. But, more than anything, it is because you are alive.
+    tags:
+      - tobira15
+flashcardFieldsToSubtitlesTracks:
+  transcription: c29785a1-d906-405b-af7b-7cfea32d9e19
+---
+name: Tobira_L15-1_yomimono_2.mp3
+format: mp3
+duration: 06:45.551
+id: ad9908fc-0004-4e1c-8013-fceb0badf3de
+subtitles:
+  - id: 3385fafd-1778-4d5e-a33b-b00db9417d26
+    type: External
+    chunksMetadata:
+      count: 105
+      endCue: 20070.35
+    name: Tobira_L15-1_yomimono_2.srt
+clips:
+  - id: f5ae02d2-c93f-4b39-8c20-3c7ba7bc9f88
+    start: 00:10.26
+    end: 00:43.14
+    fields:
+      transcription: |-
+        もし日本が100人の小さな村だったらどうなるでしょう
+        例えば 日本 村に100人 住んでいたとしたら
+        村の外には約4700人の人たちが生活していることになります
+        韓国村の人口 37人
+        中国 村は989人
+        アメリカ村 は213人
+        ほらほんのちょっと見方を変えれば
+        色々なことがはっきりと分かってきます
+    tags:
+      - tobira15
+  - id: bfb5481d-467d-49c2-82a9-733b7b656d5f
+    start: 00:43.98
+    end: 00:53.54
+    fields:
+      transcription: |-
+        日本 村に住む100人 中
+        男性は49人
+        女性は51人で子供は14人です
+    tags:
+      &a1
+      - tobira15
+  - id: 91009bde-75d7-4788-87a4-b44c56d5de86
+    start: 00:54.56
+    end: 01:07.08
+    fields:
+      transcription: |-
+        若い人達や働き盛りの人たちは 67人
+        高齢者は19人
+        日本ぐらわん
+        お年寄りがたくさんいる村です
+    tags: *a1
+  - id: 560fbb43-4a46-44bf-8502-39d86d7c3e69
+    start: 01:08.64
+    end: 01:27.02
+    fields:
+      transcription: |-
+        日本村 は世界一の長生き村です
+        21世紀に入ってから男性は 79歳ぐらい
+        女性は86歳ぐらいまで寿命が延びて
+        国連からお年寄りの国という名前をもらいました
+    tags: *a1
+  - id: d148c771-1bc2-489e-ba3d-3c71ad28a61b
+    start: 01:28.42
+    end: 02:00.6
+    fields:
+      transcription: |-
+        あなたにとって一番大切なものは何
+        という質問に
+        日本 村でも世界のあちこちの村でも
+        ほとんどのおばあちゃんが
+        家族と答えました
+        2番目に大切なものは何
+        という質問には
+        何と答えたでしょうか
+        日本の外の村では進行という答えが返ってきました
+        しかし 日本 村のおばあちゃんたちの答えは
+        近所付き合いでした
+    tags: *a1
+  - id: a5a3545e-cd2e-492e-a656-fc670d72ebb5
+    start: 02:02.14
+    end: 02:32.84
+    fields:
+      transcription: |-
+        人類にとって 21世紀は希望のある社会になると思いますか
+        韓国村 中国 村
+        アメリカ村 日本 村の高校生に聞いてみました
+        韓国村とアメリカ村 は6割
+        中国 村では9割の高校生がはいと答えました
+        しかし 日本 村の高校生でそう答えたのはたったの3割 でした
+    tags: *a1
+  - id: 202af81e-4a2c-485a-ac10-f727743df532
+    start: 02:34.14
+    end: 02:56.36
+    fields:
+      transcription: |-
+        将来のことより今を楽しむことの方が大切ですか
+        この質問に
+        韓国村と中国 村の高校生は
+        3割しかはいと答えませんでした
+        ところが アメリカ村 は6割
+        日本村 は9割がそうそう 今が楽しければいいんだと答えました
+    tags: *a1
+  - id: 99cb9928-f7d9-45e8-9018-d3dda93a2c64
+    start: 02:57.76
+    end: 03:18.76
+    fields:
+      transcription: |-
+        日本 村の生活の中で 悩みや不安を感じている人は
+        65人もいます
+        男女とも40代50代が多く
+        その悩みの内容は
+        老後の生活
+        自分や家族の健康
+        収入や財産についてなどです
+    tags: *a1
+  - id: 47ab135e-328c-4211-a58b-c3df021c5921
+    start: 03:20.1
+    end: 03:35.08
+    fields:
+      transcription: |-
+        日本 村の住民は長生き すればするほど
+        健康が心配になり
+        生活が豊かになればなるほど
+        今の快適な暮らしがなくなってしまうのではないかと
+        不安で不安で仕方がなくなるので
+    tags: *a1
+  - id: 73330b7a-6f68-44ca-b6ff-23b10d970ba2
+    start: 03:35.92
+    end: 03:53.68
+    fields:
+      transcription: |-
+        日本 村の村人はとても勤勉で誠実な性格だったので
+        労働と貯金に励み
+        ついに長生きと 富の両方を手に入れました
+        こんなことは 日本 村が始まって以来
+        初めてのことです
+    tags: *a1
+  - id: f21583b2-7c39-46f8-9843-f2b5348c3f26
+    start: 03:55.26
+    end: 04:15.06
+    fields:
+      transcription: |-
+        村人たちの仲間意識が
+        村人 全てを幸せにしたのです
+        村の人たち みんなが幸せになれるなんて
+        昔は一度もなかったことです
+        この村は安全で
+        衛生的で
+        何から何まであらゆることが平等です
+    tags: *a1
+  - id: 3bea33e9-6e16-4c65-824d-916e220bf8b2
+    start: 04:16.0
+    end: 04:28.96
+    fields:
+      transcription: |-
+        日本村 はとても住みやすい村になったのです
+        しかし 上江洲川 数
+        戦争で死ぬ危険もない社会では
+        うつ病や自殺が増えています
+    tags: *a1
+  - id: 04e6d67f-01db-40e4-9be2-4488448bec56
+    start: 04:30.32
+    end: 04:49.92
+    fields:
+      transcription: |-
+        日本村は
+        豊かになるために物を求めた物質の時代から
+        いろいろ 満たされることによって却えって悩んでしまう 精神の時代に入りました
+        日本村は今
+        悩み苦しみ 迷路の中をさまよっているのです
+    tags: *a1
+  - id: 2c2ca25a-762b-49c3-80fe-21fbe8812f95
+    start: 04:51.22
+    end: 05:13.54
+    fields:
+      transcription: |-
+        日本 村の中には問題が山積みですが
+        日本の外のブラはもっともっと多くの大変な問題を抱えています
+        しかし 日本 村の人々はそれらに真剣に目を向けようとしていません
+        今日本 村に求められていることは
+        もっと世界に目を向けること かもしれません
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 3385fafd-1778-4d5e-a33b-b00db9417d26
+---
+name: Tobira_L15-1_yomimono_3.mp3
+format: mp3
+duration: 03:37.208
+id: 7b9552c8-3908-4d70-ac21-c0d13237eb70
+subtitles:
+  - id: 457551aa-4904-48d9-b083-23efcefe433b
+    type: External
+    chunksMetadata:
+      count: 64
+      endCue: 10636.8
+    name: Tobira_L15-1_yomimono_3.srt
+clips:
+  - id: df7fe6e4-4647-4043-b7ca-6fb62009c89a
+    start: 00:15.64
+    end: 00:37.9
+    fields:
+      transcription: |-
+        2004年に環境分野で初のノーベル平和賞を受賞した ケニア人 女性
+        ワンガリマータイさん
+        マータイさんが2005年に来日した時に
+        最も感動した言葉がもったいないという日本語でした
+        環境
+        3 R +レスペクト
+        =モッタイナイ
+      meaning: |-
+        Ms. Wangari Maathai is a Kenyan woman who was awarded the first Nobel Peace Prize in the field of environmental protection in 2004. When Ms. Maathai visited Japan in 2005, the word that most moved her was the Japanese word mottainai.
+        “The three R's of the environment + Respect = mottainai”
+    tags:
+      &a1
+      - tobira15
+  - id: d02612c1-0f92-4fd9-b01f-9543ab390dfa
+    start: 00:38.96
+    end: 01:08.5
+    fields:
+      transcription: |-
+        リデュース
+        ゴミ削減
+        Reuse
+        再利用
+        リサイクル
+        再資源化
+        という環境活動の3 R を たった一言で表せるだけでなく
+        大切な 地球資源に対するリスペクト
+        尊敬の気持ちが込められている言葉 もったいない
+        マータイさんはこの美しい日本語環境を守る世界の共通語
+        もったいないとして広めることにしました
+      meaning: |-
+        Mottainai is a word that not only expresses the 3
+        R’s of the environmental movement, Reduce, Reuse and Recycle, in a single word; it also incorporates Respect for our precious natural resources. Ms. Maathai decided to promote this beautiful Japanese word MOTTAINAI as a common world slogan to protect the environment.
+    tags: *a1
+  - id: 04910c90-92b1-4636-b0bd-f55ee588e6f7
+    start: 01:09.7
+    end: 01:25.68
+    fields:
+      transcription: |-
+        日本に昔からある もったいない の精神が世界に広まれば
+        地球環境問題の改善に役立つ ばかりでなく
+        資源の分配が平等になり
+        テロや戦争の抑止にもつながると考えたそうです
+      meaning: It is said that she thought that if the spirit of mottainai, which has existed from early times in Japan, was spread to the world, it would be useful not only for the improvement of environmental problems; it would also equalize the distribution of resources and would even lead to the deterrence of terrorism or war.
+    tags: *a1
+  - id: b16d991b-1246-4054-b0e8-56a29db48901
+    start: 01:26.54
+    end: 01:34.98
+    fields:
+      transcription: |-
+        マータイさんのおかげで 日本で生まれた もったいないという言葉が
+        世界をつなぐ 合言葉
+        もったいないになったのです
+      meaning: Thanks to Ms. Maathai, the word mottainai, which originated in Japan, has become MOTTAINAI, a password to unite the world.
+    tags: *a1
+  - id: 54906f15-597f-4e8f-8d1c-d646c8d93703
+    start: 01:36.38
+    end: 01:53.68
+    fields:
+      transcription: |-
+        ワンガリマータイさんは
+        1940年
+        ケニアの農家に生まれました
+        6人兄弟で家は決して裕福ではなく
+        他の多くのアフリカ女性と同じように学校教育を受けられる環境ではありませんでした
+      meaning: Ms. Maathai was born in 1940 to a farming family in Kenya. She was one of 6 siblings and her family was far from wealthy, and like many other females in Africa, she was not in an environment where she could receive schooling.
+    tags: *a1
+  - id: 56fc1b34-00ef-42e8-ac34-bf5c7e49dc92
+    start: 01:54.216
+    end: 02:18.556
+    fields:
+      transcription: |-
+        しかし マータイさんの兄が両親を説得して学校に通わせてくれ
+        60年に政府 留学生に選ばれました
+        その後
+        米ピッツバーグ大学で修士号を取得
+        ドイツに留学した後
+        71年にナイロビ大学で
+        生物 分析学の博士号を取得しました
+      meaning: However, her older brother persuaded her parents to let her go to school, and in 1960 she was chosen as a governmental exchange student. After that, she acquired a master’s degree from the University of Pittsburgh in the United States. After studying abroad in Germany, in 1971 she acquired a PhD in bioanalysis at the University of Nairobi.
+    tags: *a1
+  - id: 9a8cda83-2603-4ba9-bfbd-b3297b4d6dff
+    start: 02:19.72
+    end: 02:34.04
+    fields:
+      transcription: |-
+        一方で マータイさんは
+        祖国の貧困や
+        環境破壊に心を痛め
+        1977年
+        貧しい女性達と
+        グリーンベルト運動という植林活動を開始しました
+      meaning: At the same time, Ms. Maathai felt distress about the poverty and environmental damage in her homeland, and in 1977 she began the “Green Belt Movement,” a forestation movement, along with poor women.
+    tags: *a1
+  - id: 02a07ac4-4ece-460f-bac8-b979a709d60a
+    start: 02:35.14
+    end: 02:57.6
+    fields:
+      transcription: |-
+        植林活動というのは 地球環境の保護のために
+        砂漠 などに木を植えて 森林を作る活動のことです
+        グリーンベルト運動は環境の保護だけでなく
+        土地の砂漠化の防止
+        貧困からの脱却
+        女性の地位向上
+        ケニア 社会の民主化にも大きく貢献しました
+      meaning: A forestation movement is a movement in which forests are created by planting trees in deserts and other areas for the purpose of protecting the global environment. The “Green Belt Movement” not only contributed to environmental protection; it also contributed greatly to the prevention of the desertification of the land, relief from poverty, improvement in the status of women, and the democratization of Kenyan society.
+    tags: *a1
+  - id: ab6bbeab-5b7e-4954-ac58-b190218a65e3
+    start: 02:58.34
+    end: 03:19.2
+    fields:
+      transcription: |-
+        これまでアフリカ大陸全土で
+        4000万本を超える木を植えており
+        職員の参加者は女性を中心に
+        延べ10万人になるそうです
+        この運動によって マータイさんは 環境分野で初めて
+        そして アフリカの女性としても 初めてノーベル賞を受賞しました
+      meaning: So far, it is said that over 40 million trees have been planted throughout the entire African continent, and the tree-planting participants, mainly women, number 10,000,000 in total. Because of this movement, Ms. Maathai was awarded the first Nobel Prize in the field of environmental protection, and also this was the first award for an African woman,
+    tags:
+      - tobira15
+  - id: 71e90895-f201-4007-ae8e-31fc81d3622e
+    start: 03:20.5
+    end: 03:32.78
+    fields:
+      transcription: |-
+        マータイさんは今も世界中を飛び回ってもったいないを広める活動に努めています
+        もったいないという日本語はいつか世界中の辞書に載るようになるかもしれません
+      meaning: |-2
+         Ms. Maathai is still traveling around the world and working hard in the movement to spread MOTTAINAI.
+        The Japanese word MOTTAINAI may someday appear in dictionaries throughout the world.
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 457551aa-4904-48d9-b083-23efcefe433b
+---
+name: Tobira_L15-2_touron.mp3
+format: mp3
+duration: 03:42.067
+id: 57bf93ba-3f93-4d47-85e6-b9c4179350ff
+subtitles:
+  - id: 200c125d-b183-44d1-946a-6c9fff747527
+    type: External
+    chunksMetadata:
+      count: 87
+      endCue: 10918.4
+    name: Tobira_L15-2_touron.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 200c125d-b183-44d1-946a-6c9fff747527

@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-11-20T22:42:07Z
+timestamp: 2020-11-27T21:22:45Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -4493,7 +4493,7 @@ clips:
     end: 02:27.24
     fields:
       transcription: |-
-        だから日本人が大好きな桜の花が いつ頃咲く花は
+        だから日本人が大好きな桜の花が いつ頃咲くかは
         場所によって違います
         沖縄では1月の終わりに咲き始めますが
         北海道では5月になってからです
@@ -5589,7 +5589,7 @@ clips:
       transcription: |-
         バスや電車に乗っている時にお年寄りや 赤ちゃんのいる女性などが乗ってきたら
         すぐに立って席を譲る
-        誰かが重いものを持っていたら代わりに守ってあげる
+        誰かが重いものを持っていたら代わりに持ってあげる
     tags: *a1
   - id: e56b8ba2-7116-4b22-b4b6-df5b87725670
     start: 05:37.0
@@ -5700,7 +5700,6 @@ clips:
     end: 00:31.52
     fields:
       transcription: |-
-        世界中の人々に広く親しまれている食べ物 インスタントラーメン
         世界中の人々に広く親しまれている食べ物 インスタントラーメン
         世界ラーメン協会のデータによると
         2008年に
@@ -8866,8 +8865,7 @@ clips:
     end: 05:33.027
     fields:
       transcription: |-
-        もしもこのメールを読めたなら この瞬間あなたの幸せは2倍にも3倍にも
-        にもなります
+        もしもこのメールを読めたなら この瞬間あなたの幸せは2倍にも3倍にもなります
         なぜならあなたには
         あなたのことを思って これを送ってくれた 誰かがいるだけでなく 文字も読めるからです
         けれど何よりあなたは生きているからです
@@ -9224,3 +9222,1596 @@ subtitles:
     name: Tobira_L15-2_touron.srt
 flashcardFieldsToSubtitlesTracks:
   transcription: 200c125d-b183-44d1-946a-6c9fff747527
+---
+name: mimi kara bunpou N3 -耳から覚える文法トレーニングN3.mp4
+format: mov,mp4,m4a,3gp,3g2,mj2
+duration: 44:06.866
+id: cf417419-3c32-4d3d-8b80-eb33841ae11a
+subtitles:
+  - id: d4860080-244d-4a28-b706-43e7d24fb1a0
+    type: External
+    chunksMetadata:
+      count: 464
+      endCue: 131622.35
+    name: mimi kara bunpou N3 -耳から覚える文法トレーニングN3.srt
+clips:
+  - id: 23a76103-a17d-41a6-b401-65fabcbeef06
+    start: 04:09.208
+    end: 04:14.148
+    fields:
+      transcription: 子供が習いたいと言うのでピアノを習わせることにした
+    tags:
+      &a1
+      - mimi_kara_grammar_n3
+    image:
+      type: VideoStill
+  - id: e9ae222d-a69f-4803-b346-40b4b807cb1b
+    start: 04:21.887
+    end: 04:27.047
+    fields:
+      transcription: 冷蔵庫に肉があるのを忘れていて腐らせてしまった
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5acf2b11-1a3c-4c7a-b608-1ddd68ab7153
+    start: 04:39.703
+    end: 04:44.943
+    fields:
+      transcription: すみません 体調が悪いので早く帰らせてください
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 061577de-f011-4cc0-a1f6-b7082ace4d3d
+    start: 04:52.963
+    end: 04:58.543
+    fields:
+      transcription: 今日は素晴らしいお話を聞かせて頂き 本当にありがとうございます
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 6fa414af-8e2a-44a0-8e30-b855cf66dc4d
+    start: 05:49.183
+    end: 05:54.303
+    fields:
+      transcription: 道が混んでいる これでは間に合わないのではないだろうか
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 82aac03a-7f50-4b45-9a5d-a782bf17c110
+    start: 06:07.611
+    end: 06:13.951
+    fields:
+      transcription: 木村さん 遅いね もしかしたら 約束を忘れているんじゃない
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c71ea2e3-5c74-4981-9d9d-14485b92730b
+    start: 07:50.015
+    end: 07:56.159
+    fields:
+      transcription: この辺りでは4月から5月にかけて 色々な花が咲く
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 700571f5-ac2b-4a06-a000-c62274280e00
+    start: 08:08.959
+    end: 08:12.799
+    fields:
+      transcription: 数学の答案は間違いだらけだった
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e5d3ec7f-81a3-4415-9046-a1ea8a4fafa2
+    start: 08:25.087
+    end: 08:30.463
+    fields:
+      transcription: 仕事が早く済んだのは 友達が手伝ってくれたおかげだ
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e592289f-e56d-48ed-89ae-f0be558f4af1
+    start: 08:43.007
+    end: 08:46.591
+    fields:
+      transcription: あの人のせいでみんなが迷惑している
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e3e3615e-c66c-4421-97d2-66a110641512
+    start: 08:57.087
+    end: 09:01.439
+    fields:
+      transcription: 気のせいか 最近父は元気がないようだ
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 490783a2-ef6d-4663-bcaf-4dfb0dbfbe62
+    start: 09:53.407
+    end: 09:57.747
+    fields:
+      transcription: 申し込み手続きに関してお伺いしたいのですが
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 17dd7b2f-66fa-4ea0-8258-1e0727194c0d
+    start: 10:11.071
+    end: 10:15.423
+    fields:
+      transcription: 昼間に比べて 深夜は電気料金が安い
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c82532ec-5274-441e-9df5-51871077d81d
+    start: 10:48.211
+    end: 10:55.051
+    fields:
+      transcription: |-
+        あの二人は双子なのに
+        兄は大人しいのに対して弟はよく喋る
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: bff16428-513e-4d91-a38d-47af7a102c33
+    start: 11:27.103
+    end: 11:32.223
+    fields:
+      transcription: たとえ少々高くても質の良いものが買いたい
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8eab0e92-65c6-4493-b3e6-df14bb7af6fc
+    start: 12:17.535
+    end: 12:20.607
+    fields:
+      transcription: 風邪くらいで仕事を休めない
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 1bcaff61-6dfa-4f98-8a0f-4df742b95a4e
+    start: 12:35.199
+    end: 12:40.319
+    fields:
+      transcription: 途中でやめるくらいなら初めから やらないほうがいい
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 776019b9-7d65-41c0-8881-910e3e46b64c
+    start: 13:29.527
+    end: 13:37.147
+    fields:
+      transcription: |-
+        駅前を中心に再開発が進められ 新しいビルが次々と
+        建てられている
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 59d47bce-d729-46aa-aea2-0e35621eb1a4
+    start: 13:50.471
+    end: 13:56.971
+    fields:
+      transcription: 最近の携帯電話にはカメラをはじめとして 色々な機能が付いている
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: bde85650-fab8-4482-9119-e41b05c9790c
+    start: 14:28.607
+    end: 14:33.215
+    fields:
+      transcription: 近代工業はヨーロッパにおいて誕生した
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f49cc597-cf96-4cfd-9bef-abb729d283d8
+    start: 14:48.319
+    end: 14:54.463
+    fields:
+      transcription: 国立競技場では2週間にわたって 熱戦が繰り広げられた
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a0112ac7-5a13-43aa-b8bb-ac79c83fd76f
+    start: 15:34.911
+    end: 15:39.519
+    fields:
+      transcription: 今度の台風による被害は1億円に上る
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 04b46438-0869-4e32-a4aa-08e62e059e04
+    start: 15:47.199
+    end: 15:51.039
+    fields:
+      transcription: 電話によるお問い合わせはご遠慮ください
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 964fb63f-8a78-4d67-8403-7311c29a8b07
+    start: 17:21.919
+    end: 17:26.015
+    fields:
+      transcription: 一口食べた途端 まずくて吐き出した
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 4b3235cf-4a69-4fa1-91ed-23e58165e4f2
+    start: 17:38.815
+    end: 17:43.935
+    fields:
+      transcription: 試験が近づくにつれて だんだん心配になってきた
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 1ec4abde-be4c-4a77-9fe6-836bcd68a5e0
+    start: 17:59.039
+    end: 18:04.415
+    fields:
+      transcription: 北半球では北へ行くにしたがって気温が下がる
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 552f642d-f08e-4214-80d8-e5bf31d518a3
+    start: 18:17.727
+    end: 18:22.591
+    fields:
+      transcription: 着替えをしている最中に玄関のチャイムが鳴った
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: be98155a-ae1b-4b83-bbe0-3f4a25e65c51
+    start: 18:40.255
+    end: 18:45.375
+    fields:
+      transcription: 実物を見てからでないと買うかどうかは決められない
+      meaning: Only once you've seen the real thing can you decide whether or not to buy it.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0f3ba21c-29d6-4046-8e72-3f482bd123bd
+    start: 18:58.175
+    end: 19:04.063
+    fields:
+      transcription: 日本へ来て以来 忙しくてまだ一度も帰国していない
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d5c63493-d5d8-4ae6-9632-16ec134adc09
+    start: 19:17.119
+    end: 19:23.263
+    fields:
+      transcription: 不況のせいで収入が減った。貯金も減る一方だ。
+      meaning: Because of the recession, my income decreased. My savings just kept decreasing, too.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 4b0d76f4-a451-4949-91b5-60d3bbe79f8e
+    start: 20:24.499
+    end: 20:29.539
+    fields:
+      transcription: 用事で都心へ出たついでに 美術館を覗いてみた
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 33050b26-28d8-4fc2-9373-5de65aadf92c
+    start: 21:18.464
+    end: 21:23.84
+    fields:
+      transcription: 時間は十分にあるからそんなに急ぐことはありませんよ
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 6973e01e-787c-4c75-9584-ee7bc32025d5
+    start: 21:36.384
+    end: 21:41.76
+    fields:
+      transcription: 明日は8時までに来ること 時間に遅れないこと
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f3859251-3175-4926-8442-0f06455482dd
+    start: 21:57.12
+    end: 22:02.24
+    fields:
+      transcription: 無理をすれば買えないこともないが やはり やめておこう
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3b0c7689-d82e-48bd-8262-3da08b7dda1a
+    start: 22:36.644
+    end: 22:44.424
+    fields:
+      transcription: |-
+        なぜ遅刻したのですか
+        すみません 事故で電車が止まってしまったものですから
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ac019cf3-0bb3-4ba7-b933-a4ec8259adf7
+    start: 22:57.02
+    end: 23:00.34
+    fields:
+      transcription: あんなまずい店 二度と行くものか
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8993459d-b319-40a1-ac94-2a3a2dfc454a
+    start: 23:13.152
+    end: 23:18.528
+    fields:
+      transcription: 先生にお願いしたところ 快く引き受けてくださった
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 1d6291ed-e468-4fb4-838f-20d028039e77
+    start: 23:36.96
+    end: 23:41.312
+    fields:
+      transcription: 家を出ようとしたところに電話がかかってきた
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 24c98cbc-bd60-4aee-84db-d27e708bd8c1
+    start: 23:54.112
+    end: 24:00.256
+    fields:
+      transcription: 出かける時 急いでいたのでもう少しで財布を忘れるところだった
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 09681963-5cd2-4b0b-be40-d6862ca3d902
+    start: 24:08.14
+    end: 24:13.28
+    fields:
+      transcription: |-
+        あと少しで書き終わるところだったのに
+        ベルが鳴ってしまった
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: bbfda833-1194-43c5-8d8e-60a6b6bcfca2
+    start: 24:26.112
+    end: 24:28.928
+    fields:
+      transcription: 夜も眠れないほど悩んだ
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3323228d-6690-4872-b311-cef5919f3c9f
+    start: 24:36.608
+    end: 24:40.96
+    fields:
+      transcription: これほど面白い本は今まで読んだことがない
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 28a32e44-42be-40a0-8a79-669c813dedf9
+    start: 24:54.528
+    end: 25:00.416
+    fields:
+      transcription: 外国語は誰でも練習すればするほど上手になる
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 1684cde8-50ac-4477-95ae-070ce5209c79
+    start: 25:12.96
+    end: 25:16.8
+    fields:
+      transcription: 魚は新鮮なものほど美味しい
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0961a9b1-8331-473d-9f66-f7f9518081fa
+    start: 26:06.976
+    end: 26:10.304
+    fields:
+      transcription: 彼が犯人だなんて信じられない
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: cf724ca3-21cc-4f57-897c-016f49dd1004
+    start: 26:22.848
+    end: 26:27.2
+    fields:
+      transcription: やると決めたからには 最後まで頑張るつもりです
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9a5f01b3-7a41-43b4-933c-455f2be45d14
+    start: 26:39.488
+    end: 26:45.12
+    fields:
+      transcription: 全員 力を出し切って戦ったが試合には負けてしまった
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0c614180-7747-4ad0-8821-1bd4479f83ed
+    start: 26:53.056
+    end: 26:57.152
+    fields:
+      transcription: あなたならできると母は言い切った
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 107c085f-c0e5-4f77-9d6b-ca27c8a04160
+    start: 27:09.696
+    end: 27:13.792
+    fields:
+      transcription: この23日 風邪気味で調子が悪い
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c33cf116-c65d-49f0-a03d-dca3844b8849
+    start: 27:26.592
+    end: 27:30.944
+    fields:
+      transcription: 年のせいか、母は最近病気がちだ。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f809c190-6909-4de8-9c9b-23a78a421a7d
+    start: 27:43.232
+    end: 27:50.592
+    fields:
+      transcription: |-
+        最近、職業に関しては、男性向きとか女性向きとか
+        言えなくなってきた。
+    tags:
+      - mimi_kara_grammar_n3
+    image:
+      type: VideoStill
+  - id: 3bd326e0-2521-4e27-8c4e-5fbac60debd4
+    start: 28:03.2
+    end: 28:08.32
+    fields:
+      transcription: この工場では主にアメリカ向けの車を作っている
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 416990a6-6ba1-41ed-80fa-0101b9c808e8
+    start: 28:16.0
+    end: 28:22.144
+    fields:
+      transcription: 来週のスピーチコンテストに向けて 毎日 1時間以上 練習している
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3e1ef21b-2173-4fda-85b3-e50900e444fb
+    start: 28:36.736
+    end: 28:40.832
+    fields:
+      transcription: 彼女とは サークルの先輩を通して知り合った
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 64d52cdb-ccb2-46f8-864e-9522b8a781e6
+    start: 28:48.512
+    end: 28:53.376
+    fields:
+      transcription: 京都には年間を通じて 観光客が訪れる
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3f7e46c6-3640-4867-a302-209cfe466953
+    start: 29:48.416
+    end: 29:53.792
+    fields:
+      transcription: 日本語のレベルが上がるとともに勉強が楽しくなってきた
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5689f762-23f2-4e7b-8b78-9f7d35af6414
+    start: 30:08.64
+    end: 30:13.76
+    fields:
+      transcription: 会社の倒産に伴って 多くの社員が失業した
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c0d92c1c-ebc7-4293-862a-d9771c2e0723
+    start: 30:29.632
+    end: 30:33.728
+    fields:
+      transcription: そんなの嘘に決まっている 信じられない
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 7a1d3ee6-4f7e-4090-b3f2-75242fe46945
+    start: 31:15.456
+    end: 31:21.344
+    fields:
+      transcription: 皆さん 今から私が言うように体を動かしてください
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e9951bef-decc-4ce5-bfb1-d1fcf4d47cff
+    start: 31:29.024
+    end: 31:33.888
+    fields:
+      transcription: 9時の新幹線に間に合うように8時に家を出た
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 056848df-dd40-440c-9d4e-3f058719e838
+    start: 31:46.944
+    end: 31:53.856
+    fields:
+      transcription: 手紙に彼の住所が書いてない。これでは返事の出しようがない。
+    tags:
+      - mimi_kara_grammar_n3
+    image:
+      type: VideoStill
+  - id: 3bee7c76-b0cd-43a5-84c1-ed0209b2b0a2
+    start: 32:06.4
+    end: 32:10.496
+    fields:
+      transcription: ドアが開かないはずだ 鍵が違っていた
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 83668beb-371a-4642-8310-661b2501c5b3
+    start: 32:53.052
+    end: 33:02.172
+    fields:
+      transcription: |-
+        私は毎日8時間 寝ている つまり 人生の
+        ３分の１をベッドで過ごす わけだ。
+      meaning: I spend 8 hours a day sleeping. So, that means I spend 1/3 of my life in bed.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a18b3429-2fe3-4e91-8f88-a529a31366d1
+    start: 33:09.888
+    end: 33:14.24
+    fields:
+      transcription: テレビがつかないわけだ コンセントが抜けている
+      meaning: The TV won't turn on, then. The plug has come out.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 797468e8-471e-43d5-a0c6-1da5e04b0602
+    start: 33:42.912
+    end: 33:48.544
+    fields:
+      transcription: この問題はまだ習っていないのだからできるわけがない
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 4f93752a-9268-4417-9404-b598093a5dbc
+    start: 34:01.6
+    end: 34:06.464
+    fields:
+      transcription: " 日本人が皆 日本文化に詳しいわけではない"
+      meaning: All Japanese people aren't necessarily that knowledgable about Japanese culture.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 32754e61-69b8-4afc-8bb4-5f8ce11d704b
+    start: 34:19.776
+    end: 34:25.152
+    fields:
+      transcription: 明日は大事な試験があるから休むわけにはいかない
+      meaning: I have an important test tomorrow, so it's not like I can afford to take a break.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ebc5f3dd-55a7-4e50-935a-eac176f9474b
+    start: 34:38.976
+    end: 34:44.096
+    fields:
+      transcription: 行くと約束したからには行かないわけにはいかないだろう
+      meaning: Since I promised I'd go, it's not like I can just not go.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d22aefad-e0d2-403c-beb4-9dfd3941a390
+    start: 35:25.824
+    end: 35:31.712
+    fields:
+      transcription: あの店は 味も雰囲気もいいかわり、値段も安くはない。
+      meaning: That restaurant has good food and a nice atmosphere, sure, but it's not cheap.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b84ab10b-e6d2-4d9e-a060-ca2798eb2a20
+    start: 35:44.768
+    end: 35:49.376
+    fields:
+      transcription: 入院中の母に代わって姉が家事をしている
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 2dad48c4-d404-4147-852b-7f438c0b6dff
+    start: 36:54.4
+    end: 36:59.008
+    fields:
+      transcription: 痩せているからといって 体が弱いとは限らない
+      meaning: They may be thin, but that doesn't mean they're weak.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b285201f-e9ba-4939-a883-0ac25847451f
+    start: 37:06.688
+    end: 37:11.04
+    fields:
+      transcription: 寒いからと言って家にばかりいるのは良くない
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3bedc61d-e262-46cb-84a6-fd2f4f558df8
+    start: 37:24.096
+    end: 37:29.984
+    fields:
+      transcription: |-
+        A チームが勝つだろうという予想に反して
+        B チームが勝った
+    tags:
+      - mimi_kara_grammar_n3
+    image:
+      type: VideoStill
+  - id: 0e4f877e-67a2-4ef0-8117-9f4b0ff864be
+    start: 37:45.344
+    end: 37:50.464
+    fields:
+      transcription: この映画は実際にあった事件に基づいて作られた
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 1e1d1368-27e3-4d99-9f85-c7096499e716
+    start: 38:03.52
+    end: 38:08.384
+    fields:
+      transcription: この映画は実際にあった事件をもとに作られた
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 6c299875-6bec-436b-ba0d-a41bc3c3a7a9
+    start: 38:21.184
+    end: 38:27.072
+    fields:
+      transcription: この新しい薬はよく効く 反面 副作用も強い
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3a4b6cc4-16d2-4b69-9de5-8a2d5f9455ca
+    start: 38:58.816
+    end: 39:02.912
+    fields:
+      transcription: 会いたくてたまらないのに会えないのは辛い
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 99b3c894-3ede-4a5b-af78-a030c575ddbf
+    start: 39:15.968
+    end: 39:20.832
+    fields:
+      transcription: 希望通りの会社に就職でき嬉しくてならない
+      meaning: I'm ever so happy to have acquired a post at the company I was hoping.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b0bdc641-3bf2-4836-b6df-c7076a95be6e
+    start: 39:52.832
+    end: 39:56.416
+    fields:
+      transcription: 試験が終わったら好きなだけ 遊びたい
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0f7e411e-bae9-439c-a309-186812e4cffd
+    start: 40:09.472
+    end: 40:14.336
+    fields:
+      transcription: 彼女は英語ばかりでなく フランス語や ドイツ語も話せる
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 6c303931-f9b7-4e48-951e-fe066c03dfb8
+    start: 40:28.16
+    end: 40:31.744
+    fields:
+      transcription: やりかけたことは最後までちゃんとやりなさい
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c091d747-43ca-4c9c-810c-c1ede1dd5e37
+    start: 40:44.544
+    end: 40:49.408
+    fields:
+      transcription: 母の誕生日に心を込めて編んだセーターを贈った
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ae46a822-2eb1-430c-aa60-c80022484e68
+    start: 41:01.952
+    end: 41:08.096
+    fields:
+      transcription: 山田さんは 留学経験がない割に英語の発音が綺麗ですね
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 68edde14-7f35-4d09-b39f-8283a7291dfb
+    start: 41:20.64
+    end: 41:24.992
+    fields:
+      transcription: 母は歌が下手なくせにマイクを持つと離さない
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3a82a147-cd61-40f3-8c2c-64e8e72de032
+    start: 41:37.536
+    end: 41:44.448
+    fields:
+      transcription: 言葉で説明するのが難しいことでも、実際にやって見せればすぐにわかる。
+    tags:
+      - mimi_kara_grammar_n3
+    image:
+      type: VideoStill
+  - id: 85d52933-a519-42e7-9b8c-0966b49502d1
+    start: 42:13.631
+    end: 42:17.983
+    fields:
+      transcription: 大学入学をきっかけに 一人暮らしを始めた
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8522baf7-0cf9-4d7f-ad48-2485474d3238
+    start: 42:30.527
+    end: 42:38.627
+    fields:
+      transcription: 太陽を直径１メートルの球だとします。すると地球は１０ミリくらいです。
+    tags:
+      - mimi_kara_grammar_n3
+    image:
+      type: VideoStill
+  - id: 20284ea4-3ab5-40b4-a44e-e2436851ed72
+    start: 42:52.799
+    end: 42:56.895
+    fields:
+      transcription: お見舞いに行くとしたら何時頃がいいだろうか
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 84cb2363-1e76-462a-995a-80b46a62ca7a
+    start: 43:07.391
+    end: 43:14.235
+    fields:
+      transcription: チャレンジ精神 こそ大切だ もし 失敗したとしても後悔はしないぞ。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b2e1ead3-6f01-43cf-94f0-76705a5da289
+    start: 43:28.895
+    end: 43:34.271
+    fields:
+      transcription: 今度日本へいらっしゃった際には是非 我が家にお泊りください
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: bb3ab505-fa03-4dfd-b039-84a805c4bbc7
+    start: 43:47.071
+    end: 43:52.447
+    fields:
+      transcription: この薬は副作用の恐れがあるので注意しなければならない
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: d4860080-244d-4a28-b706-43e7d24fb1a0
+---
+name: JLPT N3 文法！3時間 これでＮ３文法が終わる！ All N3 grammar 3 hours video.mp4
+format: mov,mp4,m4a,3gp,3g2,mj2
+duration: 2:31:39.459
+id: 2affacc9-9f11-4895-b22c-ddcc602fa06b
+subtitles:
+  - id: 1a510078-afd6-4ce1-a076-dbca591880a7
+    type: External
+    chunksMetadata:
+      count: 3165
+      endCue: 454860.8
+    name: JLPT N3 文法！3時間 これでＮ３文法が終わる！ All N3 grammar 3 hours video.srt
+clips:
+  - id: 7ba1a2f0-9d33-4b4f-b75e-ebdd7189f2b2
+    start: 01:46.572
+    end: 02:00.612
+    fields:
+      transcription: |-
+        あの先生さ、授業ごとに宿題が出るよね。
+        うん、そうだよね。授業のたびにいっぱい 宿題出るよね。大嫌い！
+    tags:
+      &a1
+      - nihongonomori_grammar_n3
+    image:
+      type: VideoStill
+  - id: 9601b1d6-742d-4810-aaaf-04122f605bc8
+    start: 04:45.339
+    end: 04:54.139
+    fields:
+      transcription: |-
+        この本は
+        1ページごとに
+        面白くなる
+        1ページごとに 面白い
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 429f934e-5fec-4cc7-b82b-8550a3429c5f
+    start: 05:36.347
+    end: 05:46.507
+    fields:
+      transcription: |-
+        日本の電車は
+        10分ごとに来る
+        日本の電車は
+        10分おきに来ます
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c1b02a0b-72e5-4de5-a68e-b8c3b7d7de28
+    start: 06:34.72
+    end: 06:37.98
+    fields:
+      transcription: 1年ごとに日本に来んだよね
+      meaning: I go to Japan once a year.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f44357b3-22f0-404b-a0d8-8954ab01c0bf
+    start: 06:40.48
+    end: 06:44.2
+    fields:
+      transcription: 1年おきに 日本に行きます
+      meaning: I go to Japan every other year.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9d4a1f6a-b1db-481a-8a8d-89477922e01e
+    start: 12:45.222
+    end: 13:04.642
+    fields:
+      transcription: |-
+        で、その後、しんしん先生に「怒ってますか」聞きました。
+        その時に「怒ってる」っていうふうに言いましたね。 本人か聞いたことなので、「怖いらしい」 とか「怖いそうだ」「怒ってるらしい」「怒ってるそうだ」っていう風に使います。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b72428ae-012e-44d8-834f-1bf5cd3caf1c
+    start: 14:24.687
+    end: 14:51.987
+    fields:
+      transcription: |-
+        はい 自分がそれを目で見ましたね。目で見てすごく
+        ラブラブですね。イチャイチャしてました。
+        すごくくっついてました。
+        それを見たから、「あの二人は、付き合ってるんじゃないかな」って思って、それをしんしん先生に「付き合ってるみたいだよ」っていう風に言いました。
+        まだその時は彼らが付き合ってるかどうか僕は分からないです。
+        想像です。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3f7254db-4a0d-4f49-8f91-1e8774270a90
+    start: 14:52.526
+    end: 15:11.146
+    fields:
+      transcription: |-
+        その後の二人に聞きました。
+        そしたら、「付き合っている」っていう風に言われました。
+        その時、僕はしんしん先生に「しんしん先生、あの二人は付き合ってるらしいよ！付き合ってるそうだよ！」っていうふうに言いました。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b4d657d8-c264-4883-9867-3d2f7912f862
+    start: 18:39.287
+    end: 19:04.407
+    fields:
+      transcription: |-
+        例えば、まカラー先生がけがをして痛そうにしていました。
+        昨日です。過去です。
+        それを見て、今日、僕が他の人に「マカラー先生は、けがをしたみたいだったよ」とか「マカラー先生は、けがをしたらしかったよ」っていう風にに使います。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c1f986ba-d5fc-4e10-b510-a386d7bded72
+    start: 21:01.115
+    end: 21:11.095
+    fields:
+      transcription: |-
+        例えばお城みたいな家だね
+        お城のような家ですね
+        っていうふうに言います。
+        意味は同じです
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0828f5e0-0d33-422b-8259-f37dfd4b9297
+    start: 22:16.24
+    end: 22:21.02
+    fields:
+      transcription: 男らしい人だよねそうね
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a5471e3d-d283-43a2-948a-fd41cf485962
+    start: 22:50.052
+    end: 22:59.592
+    fields:
+      transcription: |-
+        あの人、髪の毛長いですね。
+        そうですね。
+        男なのに女みたいな人だ。でも、かわいいね。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 35aa43f4-13b6-4877-a480-3f3fed7430b2
+    start: 23:50.735
+    end: 24:02.255
+    fields:
+      transcription: |-
+        暑い暑い暑い。まだ４月だけど、夏みたいな天気だね。
+        夏みたいな天気だね。まだ 夏じゃないのに
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 4915a054-fe32-4d3b-bcba-6bcc060d21c2
+    start: 28:02.104
+    end: 28:06.984
+    fields:
+      transcription: こんな簡単な問題、猿さえ解けるよ。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a475679c-0dc9-4063-89bf-4f5f7ad386f7
+    start: 28:31.28
+    end: 28:34.4
+    fields:
+      transcription: こんな簡単な問題、猿すら解けます。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b9b4e59d-7cf7-44ef-9a47-4f6e4bc6c3d1
+    start: 28:55.367
+    end: 29:00.707
+    fields:
+      transcription: 宿題が多くて、日曜日さえ遊べないよ。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9ee807f7-1992-46cd-acd5-1f1a955b91f4
+    start: 29:38.459
+    end: 29:46.899
+    fields:
+      transcription: パソコン欲しいなあ。安くさえあれば、どんなパソコンでもいいです。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: eae9abd8-678e-4b10-9677-7f2845e3af0c
+    start: 30:21.576
+    end: 30:25.676
+    fields:
+      transcription: 綺麗でさえあれば、どんな女の子でもいいです。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 1db115a6-37e0-46cc-99d4-c1eca4304d37
+    start: 31:32.3
+    end: 31:36.24
+    fields:
+      transcription: もし君さえいてくれれば幸せだよ。
+    tags:
+      - nihongonomori_grammar_n3
+    image:
+      type: VideoStill
+  - id: 48974f5e-b0da-4f18-a934-92d2124614f2
+    start: 31:59.72
+    end: 32:04.7
+    fields:
+      transcription: |-
+        勉強してさえいれば
+        合格していたのに
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 51776027-ceb6-4784-ab1f-13c8b9cb79bf
+    start: 33:20.04
+    end: 33:28.36
+    fields:
+      transcription: |-
+        ちょっとまだ
+        喋るの 自信ないけど
+        辞書さえあれば
+        理解できます。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5805349d-a9e9-4481-9915-66e440d74789
+    start: 35:54.0
+    end: 36:04.08
+    fields:
+      transcription: |-
+        僕が
+        店員
+        しん先生はお客様
+        なので 僕は
+        お帰りの際はお気を付けください っていう風にいます
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 02f0d270-9d95-4e54-ac20-dbca3fa1a688
+    start: 37:16.316
+    end: 37:21.096
+    fields:
+      transcription: |-
+        この際
+        テストの勉強しないで
+        遊びましょう
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: aff959b9-a0d5-42b2-bd15-3338307f13c6
+    start: 44:23.883
+    end: 44:28.763
+    fields:
+      transcription: けんと先生のせいでびしょびしょだよ。けんと先生のせいで
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: cce54178-7784-4e35-b0b0-f03aa9316dd4
+    start: 44:46.727
+    end: 44:52.327
+    fields:
+      transcription: |-
+        ハニー
+        君のおかげで
+        僕は毎日
+        幸せです
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3d88e8f3-0557-4553-abed-79d27564fcb1
+    start: 46:53.58
+    end: 46:58.3
+    fields:
+      transcription: |-
+        テストが簡単だったおかげで
+        100点だったよ
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 7069242c-929f-4827-bfd3-42dbd0000f8d
+    start: 47:15.458
+    end: 47:20.678
+    fields:
+      transcription: |-
+        テストが難しかったせいで
+        0点だった
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e4101c84-4f8e-4cbc-873c-b112742da2dc
+    start: 49:26.64
+    end: 49:41.86
+    fields:
+      transcription: |-
+        気持ちを悪く 意地悪く相手の悪口とか悪い
+        ことを言う時
+        相手の悪いことを言う時
+        皮肉
+        っていうものを使います
+        悪いことを言うと
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9c380c96-7d9c-4948-91d2-913b27e1bede
+    start: 55:34.11
+    end: 55:51.394
+    fields:
+      transcription: |-
+        日本に来たばかりの時は って言ったら
+        1年
+        1年間でも大丈夫です
+        その反対に
+        日本に来た途端 大変だった
+        っていうときね
+        おかんっていう風に使ったら
+        日本に来てすぐです
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 265cc45d-99c1-4186-b743-cf68cf4f45e7
+    start: 55:59.598
+    end: 56:09.378
+    fields:
+      transcription: |-
+        日本に着いて 荷物がなくなった
+        そういう時に
+        日本に来た途端
+        大変だったよ
+        っていうふうに言います。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: bbe06336-d541-48b0-a804-198d45dd3c8b
+    start: 1:06:18.967
+    end: 1:06:29.227
+    fields:
+      transcription: |-
+        忘れた日が少し多かったな ねちょっと多かった
+        少し
+        少しの時に忘れ気味だな っていう風に言います
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 50aa2cc3-3ec7-4986-98e4-fe44dfabaeba
+    start: 1:06:34.4
+    end: 1:06:45.88
+    fields:
+      transcription: |-
+        もう忘れることがとても多かった
+        すごく多かった
+        あーなんか最近 忘れがちだなあ 毎日忘れてるよ
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c4f8b5a2-b8fe-4d77-875b-65bf5128e307
+    start: 1:11:17.197
+    end: 1:11:24.577
+    fields:
+      transcription: |-
+        去年はお金がなくて
+        本当に大変だった
+        すごく苦労したんだよね
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 146b47f7-7833-4b30-b145-07586bd08769
+    start: 1:13:53.1
+    end: 1:13:56.04
+    fields:
+      transcription: 夜ご飯を食べないで寝たんだよね
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c72c00a6-9a27-449d-96f7-08b948ebfc16
+    start: 1:15:22.235
+    end: 1:15:24.775
+    fields:
+      transcription: 化粧をしないで学校に行った
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 547aa7dc-8d90-49cc-aeed-0d36acfa85d5
+    start: 1:16:15.743
+    end: 1:16:20.443
+    fields:
+      transcription: |-
+        東京に行かないで
+        大阪に行ったんだよね
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 6bb35c48-ac79-4b3a-ad4b-d2adb72efbad
+    start: 1:17:34.219
+    end: 1:17:39.979
+    fields:
+      transcription: 国語とか数学とかの宿題が多くて本当に忙しいんだよね
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 859b4908-b061-4aea-b09f-bd4d77204877
+    start: 1:18:04.331
+    end: 1:18:09.231
+    fields:
+      transcription: 国語だったり数学だったりの宿題が多くて忙しいな
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ea210bf9-139a-4346-b8b5-85af523a5920
+    start: 1:19:29.651
+    end: 1:19:35.071
+    fields:
+      transcription: |-
+        平日は
+        学校へ行くとか働くとかしています
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 6217f8bf-c93b-453c-a11f-209c4f6092e5
+    start: 1:20:53.56
+    end: 1:20:59.76
+    fields:
+      transcription: |-
+        ジュースをこぼしちゃったり
+        慌てて
+        変な声を出しちゃったりした
+    tags:
+      - nihongonomori_grammar_n3
+    image:
+      type: VideoStill
+  - id: 7ae8f5e7-47a8-4496-8caf-ecdec001fab4
+    start: 1:21:49.568
+    end: 1:21:54.988
+    fields:
+      transcription: |-
+        のりこ先生は
+        綺麗だったり 面白かったりする
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 244daf1d-b685-4308-95f4-9cf38ab7199e
+    start: 1:25:30.176
+    end: 1:25:48.296
+    fields:
+      transcription: |-
+        ねえねえ 明日さ 10時くらいに会おうよ
+        Ok じゃあ 10時頃に会いましょう
+        この二つ
+        くらいにと
+        頃に っていうのは 同じ意味です
+        両方同じように言えます
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 27615131-54d9-4c71-933f-13122761e4e2
+    start: 1:28:07.2
+    end: 1:28:17.7
+    fields:
+      transcription: |-
+        荷物が届くまで
+        だいたい一週間くらいかな
+        はい
+        荷物が届くまで 一週間ほどかかります
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: dbb4a88a-681c-40e0-9b9a-3e0db21b7a14
+    start: 1:32:57.9
+    end: 1:33:02.38
+    fields:
+      transcription: 東京と大阪は同じくらい便利だ
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5a18f8a0-b59b-4bb8-b7ad-1ed620539ab7
+    start: 1:33:53.68
+    end: 1:33:56.64
+    fields:
+      transcription: 食べるほど幸せなことはないです
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 16ff8144-3c40-4be8-8f1d-e539a5492a59
+    start: 1:34:34.428
+    end: 1:34:37.348
+    fields:
+      transcription: 食べることくらい幸せなことはない
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 4b04fc54-a1fd-4465-a63a-50f0a3552c79
+    start: 1:35:27.488
+    end: 1:35:31.408
+    fields:
+      transcription: |-
+        合格する
+        ために勉強する
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e5bff9d3-342b-46f8-aa19-add05bc8b301
+    start: 1:37:09.928
+    end: 1:37:13.068
+    fields:
+      transcription: |-
+        働けるように
+        大学を卒業しました
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d1b011a8-1f41-4ffd-b789-26cbea390fde
+    start: 1:37:33.1
+    end: 1:37:37.32
+    fields:
+      transcription: |-
+        彼が
+        見えるように
+        手を振った
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 41de3abb-20bd-47ee-8fb3-7226cee54706
+    start: 1:38:16.58
+    end: 1:38:21.38
+    fields:
+      transcription: |-
+        ちゃんと忘れないように
+        復讐してください
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 03bbef89-fa0f-4f73-aa87-24a1bff5dfbf
+    start: 1:41:03.824
+    end: 1:41:07.064
+    fields:
+      transcription: |-
+        外国人にしては
+        日本語うまいよね
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c3eaaf15-21dd-46f9-b43a-96e4287700e5
+    start: 1:41:25.552
+    end: 1:41:30.892
+    fields:
+      transcription: |-
+        外国人の
+        わりには日本語うまいよね
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 1c7475f2-691c-4d29-a4f8-b1df29ba2361
+    start: 1:42:52.652
+    end: 1:42:56.872
+    fields:
+      transcription: |-
+        このラーメンは
+        値段の割に美味しいよね
+      meaning: This ramen is good for the price.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0706b5d5-a706-4a29-a523-8f6433e83d26
+    start: 1:43:04.84
+    end: 1:43:09.568
+    fields:
+      transcription: |-
+        このラーメンは
+        安い値段にしては美味しい
+      meaning: This ramen is good for such a cheap price.
+    tags:
+      - nihongonomori_grammar_n3
+    image:
+      type: VideoStill
+  - id: 6848a7e1-a612-4d57-8e40-d4e2d974a851
+    start: 1:45:25.284
+    end: 1:45:27.964
+    fields:
+      transcription: 初めてやった割にはうまいじゃん
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 7c069651-51e3-4d30-88a1-1fda307436bb
+    start: 1:45:42.34
+    end: 1:45:48.46
+    fields:
+      transcription: 初めてやったにしてはうまいねっていう風に使うこともできます
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a7f4cdfd-5ace-4f5c-93eb-12eb0c5dc38d
+    start: 1:46:03.78
+    end: 1:46:08.38
+    fields:
+      transcription: この海は綺麗な割には人が少ないね
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9de2e068-5546-4b55-b56c-247bf22a100f
+    start: 1:47:01.109
+    end: 1:47:03.029
+    fields:
+      transcription: 安い割には美味しいよ
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c4eda768-b127-4afb-8bdd-a010a7ac354d
+    start: 1:47:52.62
+    end: 1:48:01.1
+    fields:
+      transcription: |-
+        ねえ今日バイトでさ
+        お仕事中
+        ずっとたちっぱなしだったの
+        ずっと立っていた
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e87f3a00-1a09-46ef-8d19-02953fcdc091
+    start: 1:48:14.02
+    end: 1:48:17.84
+    fields:
+      transcription: 立ったままで風に使っても OK です
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 147b1933-cc6e-4584-8777-b7ec68b5a13f
+    start: 1:48:30.572
+    end: 1:48:35.352
+    fields:
+      transcription: |-
+        エアコンを
+        つけたままで
+        外に
+        出ちゃった
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b6b2c8be-53b3-4e0c-8e1a-766385dcf24d
+    start: 1:48:49.132
+    end: 1:48:54.092
+    fields:
+      transcription: つけっぱなしで外に出ちゃったよっていうふうに使うのも OK です
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 891db5a1-e54b-4c62-a09b-97943e23a85f
+    start: 1:49:29.1
+    end: 1:49:31.84
+    fields:
+      transcription: 勉強したまま
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a873971c-9e24-47db-98f8-a31d1aa24986
+    start: 1:50:49.06
+    end: 1:50:58.58
+    fields:
+      transcription: |-
+        話す
+        って言葉 見えないし
+        動作 残らないですよね
+        なので
+        話したままっていうのは間違いです。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 882ba0ac-ebe0-498b-8a6b-160c5a758abf
+    start: 1:51:01.605
+    end: 1:51:05.625
+    fields:
+      transcription: |-
+        ずっと話している時に
+        はなしっぱなし
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c0315873-7afd-4d3a-b088-1d79bd64c9a7
+    start: 1:52:31.38
+    end: 1:52:36.28
+    fields:
+      transcription: |-
+        肉は
+        生のまま食べちゃダメ お腹壊します
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5436bbd3-af12-4f72-8f0f-ea09d3b3d100
+    start: 1:54:29.38
+    end: 1:54:38.56
+    fields:
+      transcription: 仮定っていうのは、「もしこうだったら、多分こうなるな」とか「こうしたいな」っていう時に仮定を使います。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ada8e333-e589-4ed4-bddc-71883e98ddf5
+    start: 2:07:07.74
+    end: 2:07:13.54
+    fields:
+      transcription: こんなにも勉強したから、JLPT に受かるはずだ！
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 4461811f-4a5e-42ea-9b3e-7d8440648864
+    start: 2:07:34.872
+    end: 2:07:43.052
+    fields:
+      transcription: JLPTに受かりたいなら、もっともっとたくさん勉強するべきだよ！
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 37c34bbc-923d-4b43-931d-7747eb2a883d
+    start: 2:09:03.788
+    end: 2:09:07.188
+    fields:
+      transcription: ムーズは日本に来て働くべきだよ。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ef888371-1896-4a57-a3a1-333a06b6bd49
+    start: 2:11:33.936
+    end: 2:11:37.676
+    fields:
+      transcription: あんなに食べたら太るわけだ。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a13ea21a-1c0c-4224-805e-957192c79c89
+    start: 2:11:51.1
+    end: 2:11:54.56
+    fields:
+      transcription: あんなに食べたら太るはずだ なるほどな
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a00b3c0f-8589-4377-87d9-253511a0ee33
+    start: 2:12:20.12
+    end: 2:12:24.5
+    fields:
+      transcription: |-
+        「なるほどな」って納得する時はこの
+        二つを使います。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5e3ec8b1-4c4e-49c6-bf97-ff75f70efbac
+    start: 2:14:58.28
+    end: 2:15:01.34
+    fields:
+      transcription: 大きい割に力が弱い
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 59a176da-b919-426f-84b8-ef7c7ca2537f
+    start: 2:15:03.4
+    end: 2:15:07.24
+    fields:
+      transcription: 大きいくせに力が弱い。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d19e6dd2-9cf6-4bab-b35f-1fd81dfe4482
+    start: 2:21:17.76
+    end: 2:21:21.88
+    fields:
+      transcription: 日本にいるのもあと1日きりだ。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8654999a-64bc-4bc3-9549-9b7da8770504
+    start: 2:21:52.632
+    end: 2:21:54.932
+    fields:
+      transcription: 二人きりで行こうよ
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 6688ee17-1b40-4b1d-9590-d823f1041ccf
+    start: 2:22:52.54
+    end: 2:22:55.22
+    fields:
+      transcription: イケメンだけが得をするのか イケメンだけが得をするのか
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: cd622250-46a0-4822-a519-7e91c8290cc9
+    start: 2:24:27.74
+    end: 2:24:34.64
+    fields:
+      transcription: |-
+        かっこいいだけじゃだめなんだよ
+        優しいだけじゃ 女の子は飽きちゃう しね
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 136ddb67-02e5-4e9d-b8df-b49879cecc52
+    start: 2:26:39.5
+    end: 2:26:43.32
+    fields:
+      transcription: いくら 花束あげたって無駄だよ この時のびっくらは
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 15d02252-234b-46e7-869c-de4518c8b487
+    start: 2:28:21.872
+    end: 2:28:28.832
+    fields:
+      transcription: |-
+        おかしいなぁ。どんなに電話しても全然繋がらないや。
+        クッキー 何してるんだろう。
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 1a510078-afd6-4ce1-a076-dbca591880a7
+---
+name: mimi kara bunpou N2　－ 耳から覚える 文法 N2.mp4
+format: mov,mp4,m4a,3gp,3g2,mj2
+duration: 44:14.041
+id: 1c936978-9262-4577-a76e-0ac1cf50e788

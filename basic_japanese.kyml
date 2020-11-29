@@ -3,7 +3,7 @@
 name: Basic Japanese
 noteType: Transliteration
 createdAt: 2020-02-04T17:14:00Z
-timestamp: 2020-11-29T14:14:51Z
+timestamp: 2020-11-29T16:01:10Z
 id: 396cb23e-87fa-491c-a0f2-c7fc5022d80a
 ---
 name: Japanese Listening (N5-N4-N3) - Shadowing lets speak Japanese beginner to intermediate (N5 N4 N3).mp4
@@ -14233,6 +14233,15 @@ name: JGR 2-3-1 nihon no ofuro.mp3
 format: mp3
 duration: 10:46.269
 id: 3a1a8d64-e9d5-465b-94e0-cfa5a4d5ca57
+subtitles:
+  - id: 3d11da41-6293-4aa7-a00e-5ab7c662f2cd
+    type: External
+    chunksMetadata:
+      count: 144
+      endCue: 32140.75
+    name: JGR 2-3-1 nihon no ofuro.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 3d11da41-6293-4aa7-a00e-5ab7c662f2cd
 ---
 name: JGR 2-3-2 houi to chana.mp3
 format: mp3
@@ -14252,6 +14261,15 @@ name: JGR 2-3-3 gonkitsune.mp3
 format: mp3
 duration: 11:31.775
 id: 7547cb4e-9b2d-471b-92e1-f61ce458aa0f
+subtitles:
+  - id: e9987eab-5265-4684-a41b-b71571159f0d
+    type: External
+    chunksMetadata:
+      count: 225
+      endCue: 34406.35
+    name: JGR 2-3-3 gonkitsune.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: e9987eab-5265-4684-a41b-b71571159f0d
 ---
 name: JGR 2-3-4 soopii no fuyu no ie.mp3
 format: mp3
@@ -14272,6 +14290,15 @@ name: JGR 2-3-5 ikkyuusan sono ni 3 obousan no kimono.mp3
 format: mp3
 duration: 05:18.694
 id: 8ff9ca61-cc5b-4a77-a89e-6abc70ebf3ae
+subtitles:
+  - id: 703fafe4-0954-4a6f-9e8b-beec2ef90728
+    type: External
+    chunksMetadata:
+      count: 102
+      endCue: 15833.55
+    name: JGR 2-3-5 ikkyuusan sono ni 3 obousan no kimono.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 703fafe4-0954-4a6f-9e8b-beec2ef90728
 ---
 name: Shirokuma Cafe.mkv
 format: matroska,webm
@@ -14361,3 +14388,495 @@ clips:
   - id: b878e0bb-e1d1-4d95-a021-182cbb0c7b50
     start: 22:04.98
     end: 22:07.58
+---
+name: WGR 1 kitakaze to taiyou.mp3
+format: mp3
+duration: 06:32.02
+id: 66a1be90-1097-405f-8fbd-6fde4cd8271e
+subtitles:
+  - id: 140d825a-eee9-4cfa-9ea1-10fe6d3a38da
+    type: External
+    chunksMetadata:
+      count: 81
+      endCue: 19532.75
+    name: WGR 1 kitakaze to taiyou.srt
+clips:
+  - id: 94d13b8a-1b3f-4020-81b7-c786a410a63c
+    start: 00:01.024
+    end: 00:03.072
+    fields:
+      transcription: 北風と太陽
+      meaning: The North Wind and the Sun
+    tags:
+      &a1
+      - WGR_1_kitakaze_to_taiyou.mp3
+  - id: 4abd0a2c-866f-4281-8042-9405d7722d39
+    start: 00:04.864
+    end: 00:06.656
+    fields:
+      transcription: 「おれの方が強い。」「いいや、ぼくの方が強い。」北風と太陽の声が聞こえます。二人はどちらの力が強いかでケンカをしているようです。「太陽が毎日元気だから、暑くてみんな困っているよ。おれが涼しい風を吹くと、みんな嬉しそうだ。おれの方がみんなの役に立っているよ。」「でも、ぼくがいないと、木や野菜は育たないよ。冬は北風の吹く風が冷たくて、とても寒かった。みんな外に出られなかったよね？最近は暖かいから、みんな喜んでいるよ。」「いいや、あそこを見て。太陽が強く照らすから、川の水がもうすぐ無くなりそうだ。水がないと、みんな生活できないよ。」
+      meaning: “I’m stronger.” “No, I’m stronger.” The voice of the North Wind and the Sun were heard. It seemed that they were arguing about which power was stronger. “Since you (the Sun) are energetic every day, it’s hot and everyone is troubled. When I blow the cool wind, everyone looks happy. I’m more helpful to them all.” “But, if I’m not here, trees and vegetables don’t grow. In the winter, since the wind you (the North Wind) blew was cold, it was very cold. Everyone was unable to go out, isn’t that right? These days, it’s warm and everyone is glad.” “No, look at over there. Since you shine strongly, the water in the river is going to disappear soon. Without the water, everyone cannot live.”
+    tags: *a1
+  - id: 58d667a2-5f5e-4782-8837-2d9b912dc943
+    start: 01:20.896
+    end: 01:26.784
+    fields:
+      transcription: 二人とも自分の話ばかりして、人の話を聞きません。二人は毎日ケンカをしていました。ある日、北風はいつものように言いました。「ケンカは終わりにしよう。おれの方が強いんだから。」太陽もいつものように言います。「うん、ケンカは終わりにしよう。けど、僕の方が強いと思うよ。」その日もケンカは終わりそうにありません。そのとき、北風はマントを着た若い男が歩いているのを見つけました。北風は言いました。「あの人のマントをどちらが早く脱がせることができると思う？これでどちらが強いかを決めよう。強ければ簡単にマントを脱がせることができるはずだ。」「それはいい。よし、やってみよう。」 二人は男のマントを脱がせることにしました。
+      meaning: Both of them just spoke their own story and didn’t listen to the other person’s one. They were arguing every day. One day, the North Wind said as usual, “Let’s finish the argument because I’m stronger.” The Sun also said as usual, “Yeah, let’s finish the argument, but I think I’m stronger.” On that day, it seemed that the argument wouldn’t finish as well. At the time, the North Wind found a young man walking with a cloak. The North Wind said, “What do you think, which of us can make the person take off his cloak earlier? By this, let’s decide which is stronger. If you’re strong, you should be able to make him take off his cloak easily.” “Sounds good. Well, let’s try.” They decided to make him take off his cloak.
+    tags: *a1
+  - id: 5d56810d-0c15-4c2e-ba28-265fe9ee015b
+    start: 02:44.352
+    end: 02:46.912
+    fields:
+      transcription: 「最初におれがやってみるよ」。北風はそう言って、強い風を吹きました。男は急に吹いた強い風におどろきました。北風はどんどん風を吹きます。風を吹いて、マントを飛ばすつもりです。「寒い！どうして急に風が強くなったんだ？」男はそう言うと、もう一枚マントを出して、急いで着ました。北風は二枚のマントを脱がせるために、もっと強く風を吹きました。男はマントが飛ばないように、しっかりと手で持ちました。北風がいくら強く風を吹いても、男は一生懸命手でマントを持っています。北風は言いました。「だめだ。おれの力ではマントを脱がせることができない。」
+      meaning: “First, I will try,” the North Wind said and blew the strong wind. The man was surprised by the wind blowing suddenly. The North Wind steadily blew the wind. He planned to make it fly off by blowing the wind. “It’s cold! Why has the wind suddenly become so strong?” the man said, and then took out another cloak, and wore it in a hurry. The North Wind blew the wind more strongly to make him take off his two cloaks. The man tightly held the cloaks to prevent them from flying away. Even if the North Wind strongly blew the wind, the man was holding the cloaks very hard. The North Wind said, “I can’t. My power can’t make him take off his cloaks.
+    tags: *a1
+  - id: b331fbf9-180f-4619-8b5c-ba86dd636387
+    start: 03:58.336
+    end: 04:01.152
+    fields:
+      transcription: 「じゃあ、次はぼくがやってみるよ。」太陽はそう言うと、ゆっくりと男を照らしました。「あぁ、やっと暖かくなった。」太陽が出てきたので、男は少し安心したようです。男はマントを手で持つのをやめました。次に、太陽は照らす力を少し強くしました。「ちょっと暑くなってきた。」男はそう言うと、マントを一枚脱ぎました。「よし、今だ！」太陽は男がマントを脱ぐのを見て、照らす力をもっと強くしました。「暑い。急に暑くなってきた。」男はそう言って、もう一枚のマントも脱ぎました。「やった！」太陽は喜びました。それから、太陽は力を弱くして、やさしく男を照らし続けました。
+      meaning: “Well, next I will try,” the Sun said and then slowly shined on the man. “Ah, it has become warm at last.” Since the Sun appeared, the man looked relieved a little. The man stopped holding his cloaks. Next, the Sun strengthened the power to shine a little. “It’s getting a little hot,” the man said and then took off his cloak. “Now or never!” the Sun looked at the man taking off his cloak and then strengthened the power to shine more. “It’s hot. It’s getting hot suddenly,” the man said, and then took off another cloak. “Yes!” the Sun was glad. Then, the Sun weakened the power and continued to softly shine on the man.
+    tags: *a1
+  - id: 5274d3af-c8a0-4750-b392-0c690de415a0
+    start: 05:19.231
+    end: 05:21.791
+    fields:
+      transcription: 北風はおどろきました。太陽がマントを簡単に脱がせたからです。おれの風では脱がせることが出来なかったのに、なぜ太陽はマントを脱がせることができたんだ？太陽は言いました。「北風は男の気持ちを考えていなかったよね？力を使うだけだと人は動かないよ。人の気持ちを考えないといけないんだ。」北風はそれを聞いて、言いました。「わかった。君はおれより強いよ。」とうとう二人の長かったケンカは終わりました。人に何かをさせるときや、お願いするときは、北風のように力を見せるだけではうまくいきません。太陽のように人の気持ちを考えることが大切です。
+      meaning: The North Wind was surprised because the Sun easily made him take off his cloaks. [The North Wind thought] “my wind was unable to make him take it off. Why was the Sun able to make him take off his cloaks?” The Sun said, “You didn’t guess his feelings, did you? If you just use your power, people don’t move. You have to guess people’s feelings.” The North Wind listened to it and then said, “Okay. You are stronger than me.” The long argument finally finished. When you make people do something or request for something, just showing your power doesn’t work well like the North Wind. It’s important to guess people’s feelings like the Sun.
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 140d825a-eee9-4cfa-9ea1-10fe6d3a38da
+---
+name: WGR 2 jakku to mame no ki.mp3
+format: mp3
+duration: 07:49.316
+id: 564192ed-a574-42a3-99dd-d10ca3cc9aee
+subtitles:
+  - id: b2ac6fbf-b411-4afc-8f56-07f984d177d4
+    type: External
+    chunksMetadata:
+      count: 85
+      endCue: 23398.35
+    name: WGR 2 jakku to mame no ki.srt
+clips:
+  - id: e0c679d4-8c2e-4476-a2b0-5887a06ac9f0
+    start: 00:00.768
+    end: 00:02.56
+    fields:
+      transcription: ジャックと豆の木
+      meaning: Jack and the Beanstalk
+    tags:
+      &a1
+      - WGR_2_jakku_to_mame_no_ki.mp3
+  - id: a3675742-94e4-400d-8463-f81af66ad412
+    start: 00:04.352
+    end: 00:09.728
+    fields:
+      transcription: むかしあるところに、ジャックという男の子がいました。ジャックはお母さんと一緒に小さな家に住んでいました。二人は牛のミルクを売って生活していましたが、あまりお金を持っていません。ある日、牛からミルクが出なくなって、とうとう牛を売ることにしました。「必ず高く売ってきて。」お母さんはジャックに言いました。「もちろん。」ジャックはそう言って、お店へ向かいました。お店への道の途中で、ジャックはふしぎなおじいさんに会いました。おじいさんは言いました。「おはよう、ジャック。どこに行くの？」ジャックは、なんでぼくの名前を知っているの？と思いながら答えました。「この牛を売りにお店へ行くんだよ。」
+      meaning: Once upon a time, there was a boy named Jack. Jack lived with his mother in a little house. They lived on selling milk given by a cow, but they have little money. One day, the cow gave no milk and they finally decided to sell the cow. “Make sure to sell it at a good price.” Jack’s mother said to him. “Sure,” Jack said and headed toward a shop. On his way to the shop, Jack met a mysterious old man. The old man said, “Good morning, Jack. Where are you going?” While Jack was wondering why the old man knew his name, he replied, “I’m going to the shop to sell this cow.”
+    tags: *a1
+  - id: 08bcba55-8c9f-4add-8197-89a5edd8b3bc
+    start: 01:18.336
+    end: 01:23.968
+    fields:
+      transcription: すると、おじいさんは何かをポケットから出しました。「ジャック、その牛と交かんでこの豆をあげるよ。これはまほうの豆で、一日で空までのびるんだ。」「わかった。」ジャックは牛を豆と交かんして家に帰りました。ジャックが家に着くと、お母さんは聞きました。「牛はいくらで売れたの？」「牛はこのまほうの豆と交かんしたよ。」ジャックが豆のことを話すと、お母さんは怒り始めました。「お前はなんてバカなんだ。どうして大事な牛をこんな豆と交かんしたんだ！」お母さんは豆を取ると、窓から外に投げてしまいました。
+      meaning: Then, the old man took something out. “Jack, I will give you this bean in exchange for your cow. This is a magic bean and it will grow into a beanstalk that touches the sky for a day.” “Okay.” Jack exchanged the cow for the bean and went home. When Jack arrived at his house, his mother asked, “How much did you sell the cow for?” “I exchanged the cow for this magic bean.” Jack told his mother about the bean and then she started getting angry. “How foolish! Why did you exchange our important cow for such a bean!?” His mother took the bean and tossed it out the window to the outside.
+    tags: *a1
+  - id: bddb6c4a-c8a1-4e8b-adba-db22c0ddc31b
+    start: 02:28.48
+    end: 02:34.624
+    fields:
+      transcription: 次の日の朝、ジャックが起きると、いつもと何かが違います。庭にとても大きな豆の木があったのです。「あのおじいさんの話は本当だったんだ！」ジャックはおどろいて、窓から外に出ました。そして、豆の木を登り始めました。一日登った後、ジャックは空の上に着きました。空の上には、大きくてきれいなお城がありました。お腹が空いていたジャックはお城に向かって言いました。「すみません、何か食べるものをもらえませんか？」すると、女の人がお城から出てきて、ジャックにパンと牛乳をくれました。そして、こう聞きました。「どうやってここに来たの？このお城は人食い巨人の家だよ。早く自分の家に帰った方がいいよ。」
+      meaning: When Jack got up the next morning, something was unusual. There was a very big beanstalk in the yard. “That old man’s story is true!” Jack was surprised and went out the window. Then, he started climbing the beanstalk. After climbing for a whole day, Jack reached a place in the sky. There was a big and beautiful castle in the sky. Jack, who was hungry, said toward the castle, “Excuse me. Could I have something to eat?” Then, a woman appeared from the castle and gave Jack bread and a glass of milk. And, she asked, “How did you come here? This castle is the house of a giant who eats people. You should go home soon.”
+    tags: *a1
+  - id: cd67e6da-797d-4010-af58-743fb758a209
+    start: 03:53.472
+    end: 03:57.056
+    fields:
+      transcription: その時、大きな音が聞こえました。巨人が帰ってきたのです。女の人は急いでジャックを部屋の中に隠しました。「ここに隠れて！見つかると巨人に食べられるよ。」巨人はお城の中に入ると、言いました。「今日は疲れたから、すぐに寝よう。」巨人はお金を机に置いて、自分の部屋に行きました。ジャックは巨人が寝たのを見ると、隠れるのを止めました。そして、机の上のお金を取って逃げました。お城から豆の木まで走り、豆の木をすべって家に帰りました。それからジャックとお母さんはそのお金で生活しました。しかし、しばらくすると、そのお金をすべて使ってしまいました。だから、ジャックはもういちど、豆の木を登ることにしました。
+      meaning: At the time, a big sound was heard. The giant was back. The woman hid Jack in a room in a hurry. “Hide here! If you are found, you will be eaten by the giant.” When the giant entered the castle, he said, “I’m tired today, so I’m going to bed right away.” The giant put his money on a desk and went to his room. When Jack saw that the giant went to bed, he stopped hiding himself. And, he took the money on the desk and ran away. He ran from the castle to the beanstalk and slid down the beanstalk and went home. Then, Jack and his mother lived on the money. But, after a while, they used up all the money. So, Jack decided to climb the beanstalk once again.
+    tags: *a1
+  - id: 707870f7-2889-4e8f-b737-95745b6832cd
+    start: 05:21.279
+    end: 05:26.655
+    fields:
+      transcription: ジャックは前よりも早く空の上に着きました。ジャックはあの女の人を探しましたが、見つけられません。お城のドアは開いていました。ジャックがお城の中に入ると、巨人が鳥と話をしていました。「金のたまごを作れ。」巨人は言いました。すると、鳥は金のたまごを作りました。鳥は金のたまごを作ることができたのです。巨人は鳥に金のたまごを３つ作らせました。それからトイレに行きました。その間に、ジャックは金のたまごを取ろうとしました。しかし、今度は巨人に見つかってしまいました。巨人はジャックをつかまえようとしました。ジャックは急いで逃げました。巨人も一生懸命走りました。
+      meaning: Jack arrived on the sky earlier than before. Jack looked for that woman, but couldn’t find her. The door of the castle was open. When Jack entered the castle, the giant was talking with a bird. “Make a golden egg,” the giant said. Then, the bird made a golden egg. The bird was able to make golden eggs. The giant made the bird make three golden eggs. Then, the giant went to the bathroom. During that time, Jack tried to take a golden egg. But, this time, Jack was found by the giant. The giant tried to catch Jack. Jack ran away in a hurry. The giant ran very hard, too.
+    tags: *a1
+  - id: 6d87edd2-437f-403d-9840-f4f00df92c72
+    start: 06:41.407
+    end: 06:47.551
+    fields:
+      transcription: ジャックが豆の木を降りていると、自分の家が見えてきました。ジャックは大きな声で言いました。「お母さん、刀を持ってきて。豆の木を切って。」お母さんは刀で豆の木を切りました。すると、豆の木は大きな音を立てて倒れました。巨人は豆の木から落ちて死んでしまいました。ジャックも豆の木から落ちて怪我をしました。お母さんは言いました。「ジャック、人のものを取るのを止めなさい。誰かのお金で生活しても、私たちは幸せになれません。」ジャックは死んだ巨人に謝りました。それからジャックは真面目に働き始めました。
+      meaning: When Jack was going down the beanstalk, his house came into sight. Jack said with a loud voice, “Mom, bring a sword. Cut down this beanstalk.” His mother cut down the beanstalk with the sword. Then, the beanstalk made a big sound and fell down. The giant fell out of the beanstalk and died. Jack also fell out of the beanstalk and got injured. His mother said, “Jack, stop taking people’s things. Even if you lived on someone’s money, we cannot become happy.” Jack apologized to the dead giant. Then, Jack started working seriously.
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: b2ac6fbf-b411-4afc-8f56-07f984d177d4
+---
+name: WGR 3 tsuru no ongaeshi.mp3
+format: mp3
+duration: 08:27.376
+id: 1f40cbc2-c647-4219-a1e5-d72c34b361e1
+subtitles:
+  - id: 34d8b54f-07f2-4043-a969-e01133a8d02d
+    type: External
+    chunksMetadata:
+      count: 98
+      endCue: 25305.55
+    name: WGR 3 tsuru no ongaeshi.srt
+clips:
+  - id: 1b7a7c17-ce99-41b2-87d8-06fa5b9618b3
+    start: 00:01.024
+    end: 00:02.816
+    fields:
+      transcription: 鶴の恩返し
+      pronunciation: The Crane of Gratitude
+    tags:
+      &a1
+      - WGR_3_tsuru_no_ongaeshi.mp3
+  - id: dbf4cb62-a8fa-433a-9281-2a25da92449e
+    start: 00:04.608
+    end: 00:10.24
+    fields:
+      transcription: むかしむかし、若い男が一人で山に住んでいました。男はお金がないので、山の木を売って生活しています。ある冬の日、男が家に帰っていると、変な音が聞こえました。「これは何の音だ？」男は音がする場所にゆっくりと向かいました。すると、雪の上で休んでいるツルを見つけました。変な音はツルが鳴いた声だったのです。ツルは疲れて動けないようでした。 男はそれを見ると、急いで家に帰りました。そして、自分の夜ごはんを持って、ツルがいるところに向かいました。「これを食べて。」男はそう言って、ツルの横にごはんを置きました。ツルがごはんを食べている間に、男は静かに家に帰りました。
+      meaning: Once upon a time, a young man lived in a mountain alone. The man didn’t have money, so he lived on selling trees in the mountain. One day in winter, when he was going home, a strange sound was heard. “What is this sound?” The man slowly headed toward the place making the sound. Then, he found a crane taking a rest on the snow. The strange sound was the voice the crane sang. She looked tired and unable to move. The man looked at it and then went home in a hurry. And, he took his dinner and headed toward the place where she was. “Eat this,” the man said and put the meal beside her. While the crane was eating the meal, the man quietly went home.
+    tags: *a1
+  - id: 955df61f-b163-4880-b79d-25b9898154fc
+    start: 01:23.968
+    end: 01:30.112
+    fields:
+      transcription: 次の日の夜、男の家に、若くて美しい女がたずねてきました。雪がたくさん降っていて、とても寒い夜でした。女は白い服を着ています。白い雪がきれいな黒い髪についていました。男は女の美しさにおどろきました。女は男に聞きました。「道が分からなくなりました。今日の夜、ここに泊まってもいいですか？」男はすぐに答えました。「いいですよ。」男は女にとなりの部屋を使わせることにしました。朝、男が起きると、女は朝ごはんを作っていました。男のために用意していたのです。男はとてもうれしくなりました。そして、こんなにきれいでやさしい人と結婚したいと思いました。「結婚してください。」「はい。」二人は結婚することにしました。
+      meaning: The next night, a young beautiful woman visited his house. It was a night when it snowed a lot and was very cold. The woman wore white clothes. The white snow was on her beautiful black hair. The man was surprised by her beauty. The woman asked the man, “I have lost my way. May I stay here this night?” The man replied quickly, “Sure.” The man decided to let her use the next room. The next morning, when the man got up, the woman was making breakfast. She prepared it for the man. The man had become very happy. And, he thought that he wanted to get married to such a beautiful and kind person. “Please marry me.” “Yes.” They decided to marry.
+    tags: *a1
+  - id: ebe343bb-a9ab-4c4a-8459-246b4abd5603
+    start: 02:54.592
+    end: 02:57.152
+    fields:
+      transcription: |+
+        二人はとても幸せでした。しかし、男はお金を持っていません。ごはんを食べられない日がたまにありました。すると、女は言いました。「私はきれいな布を作ることができます。その布を街で売ったらどうですか？」女が布を作ると、男はおどろきました。今までに見たことがない、とてもきれいな布だったのです。男はすぐ街に行きました。街に着くと、男は店の人に聞きました。「この布はいくらで売れますか？」すると、店の人もおどろきました。「こんなきれいな布は見たことがない。よし、１００万円はらいましょう。」男はまたおどろきました。男はいつも木を１万円で売っていたからです。
+
+      meaning: They were very happy. However, the man didn’t have money. Once in a while, there were days when they could not eat meals. Then, the woman said, “I can make beautiful cloth. How about selling the cloth in a town?” When the woman made the cloth, the man was surprised because it was the most beautiful cloth that he had ever seen. The man went to the town quickly. When the man arrived at the town, he asked a person in a shop, “How much can I sell this cloth for?” Then, the person in the shop was also surprised, “I have never seen such beautiful cloth. Well, I will pay one million yen for this.” The man was surprised again because he usually sold a tree for 10.000 yen.
+    tags: *a1
+  - id: 368de83a-0dcd-4b42-a0f0-33bdc40ab4d8
+    start: 04:15.488
+    end: 04:20.351
+    fields:
+      transcription: 男は家に帰ると、女にたのみました。「もっとたくさん布を作ってくれ。」女は答えました。「いいですよ。」そのあと、女は真面目な顔をして言いました。「でも、一つお願いがあります。私が布を作っている間、決して部屋の中を見ないでください。」「わかった。約束するよ。」女は毎日布を作りました。女が布を１枚作ると、男はすぐ街に行って、それを売ります。女は毎日働いたので、だんだんと元気がなくなっていきました。布はたくさんの人から人気があって、いつも高く売れました。ある日、街の人が言いました。「この布は本当にきれいだ。１０００万円はらうので、布の作り方を教えてくれませんか？」男は考ました。女が布を作っているときに、部屋の中を見て、作り方をおぼえてしまおう。
+      meaning: When the man came back home, he asked her, “Make a lot more cloth.” The woman replied, “Sure.” After that, she said with a serious face, “But, I have a request. Please don’t look at the inside of the room while I’m making cloth.” “Alright. I promise.” The woman made cloth every day. Once the woman made a piece of cloth, the man went to the town right away and sold it. Since the woman worked every day, she was losing her energy gradually. The cloth was popular from among a lot of people, and he could always sell it at a high price. One day, a person in the town said, “This cloth is really beautiful. I will pay ten million yen, so could you tell me how to make the cloth?” The man thought that he would try to memorize how to make it by looking at the inside of the room while she is making the cloth.
+    tags: *a1
+  - id: 4e9b402f-f5ae-4077-9b63-c1cb9d83b14f
+    start: 05:51.487
+    end: 05:56.607
+    fields:
+      transcription: しかし、男が家に帰ると、女は言いました。「病気になってしまいました。もう布を作れません。男は言いました。「あと１枚作って欲しい。それから、しばらく休みなさい。」その日の夜、女は最後の１枚を作り始めました。「部屋の中を見るのは、今日しかない。」男は部屋の前に行って、ゆっくりとドアをあけました。しかし、部屋の中にあの美しい女はいません。そこにいたのは、羽がほとんどない１羽のツルでした。ツルは自分の羽で布を作っていたのです。「うわぁー！」男はおどろいて大きな声を出しました。ツルは男に気がつくと、人間の体になって言いました。「部屋の中を見ないと約束したのに…。」
+      meaning: However, when the man came back home, the woman said, “I got sick. I cannot make the cloth anymore.” The man said, “I want you to make one last piece of cloth. Then, rest for a while.” In the night of the day, the woman started making the last piece. “There will be no other chance to look at the inside of the room, but today.” The man went in front of the room and slowly opened the door. However, the beautiful woman was not there. Who was there was a crane who had almost no feathers. The crane made the cloth by her own feather. “Gosh!” the man was surprised and exclaimed. The crane noticed the man, and then changed her appearance to human body and said, “You promised not to look at the inside of the room…”
+    tags: *a1
+  - id: 9fa5a388-100e-4b8a-b9bf-45228667a5ec
+    start: 07:12.383
+    end: 07:16.223
+    fields:
+      transcription: 男はなにも言うことができませんでした。「私はあなたにごはんをもらったツルです。あの日、私のためにごはんを用意してくれて、本当にうれしかった。だから、あなたにお礼をするために、この家に来ました。でも、私がツルだということを見られたので、もうここにいることはできません。」そう言うと、女はツルの体に戻って、家を出ていきました。「待って。待ってくれ。」男は女に言いましたが、女は返事をしません。女がいなくなったあと、男は女にひどいことをしたと気がつきました。それから男は女が帰って来るのを毎日待ちました。しかし、女は二度と男の家には帰って来ませんでした。
+      meaning: The man couldn’t say anything. “I’m the crane who received the meal from you. That day, you prepared the meal for me and I was really glad with that. So, I came to this house to do something for you. However, I was found that I was a crane, so I cannot be here any longer,” the woman said, and then she return to the crane body and left the house. “Wait. Wait,” the man said to the woman, but she didn’t reply. After the woman left, the man realized that he did heartless things to her. Since then, the man was waiting for her to come back every day. However, the woman never came back his house.
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 34d8b54f-07f2-4043-a969-e01133a8d02d
+---
+name: WGR 4 chuumon no ooi ryouriten.mp3
+format: mp3
+duration: 12:34.077
+id: ea68040a-c524-4733-98ad-bf311a08aa4a
+subtitles:
+  - id: 520dde8b-ae9a-4638-80aa-9241fdcd0617
+    type: External
+    chunksMetadata:
+      count: 147
+      endCue: 37644.75
+    name: WGR 4 chuumon no ooi ryouriten.srt
+clips:
+  - id: 5985b016-e180-43e1-8cc3-f69a72f52ce5
+    start: 00:00.768
+    end: 00:03.328
+    fields:
+      transcription: 注文の多い料理店
+      meaning: The Restaurant That Has Many Orders
+    tags:
+      &a1
+      - WGR_4_chuumon_no_ooi_ryouriten.mp3
+  - id: 0eb6f284-2b1a-4428-8789-3927efd2ec04
+    start: 00:05.12
+    end: 00:10.24
+    fields:
+      transcription: 冬のある日、二人の若い男が山にいました。二人は新しい銃を持って、犬と一緒でした。「この山は変だ。鳥や動物がいない。私は早くこの新しい銃を使いたいよ。」「大きな動物をこの銃で殺したら、きっと楽しいはずだ。」二人はこんな話をしながら、山を歩いていました。しかし、たくさん歩いても、動物を見つけることが出来ません。「お腹が空いたから、今日は家に帰ろう。」「うん、そうしよう。」二人は山を降りることにしました。しかし、二人とも帰りの道を覚えていません。二人は道に迷ってしまいました。夕方になると、風が強くなって、雪も降ってきました。あまりに寒くなったので、犬はどこかに逃げてしまいました。
+      meaning: One day in winter, there were two young men in the mountain. They had new guns and were with dogs. “This mountain looks strange. There is not a bird nor an animal. I want to use this new gun soon.” “If I kill a big animal by this gun, it should certainly be fun.” While they were talking about these kinds of things, they were walking in the mountain. But, although they walked a lot, they could not find an animal. “I have become hungry, so let’s go home today.” “Yes, let’s.” They decided that they would go down the mountain. But, both of them didn’t remember the way home. They lost their way. When it became evening, the wind became strong and it started snowing, too. Since it became too cold, the dogs ran away somewhere.
+    tags: *a1
+  - id: 904c9eee-71b9-4e3c-b7d7-f8bb28ac23ad
+    start: 01:27.552
+    end: 01:32.672
+    fields:
+      transcription: |-
+        「困った。寒いし、私はお腹も空いている。」「僕も何か食べたいよ。夜になると死んでしまうよ。」二人がそんな話をしていると、山猫レストランというレストランを見つけました。「これはいい。中に入ろう。」「しかし、こんな山の中にレストランがあるのは少し変だね。」「いいから行こう。私はもうお腹が空いて、死にそうなんだ。」「うん、僕も暖かい部屋で休みたいよ。」二人がドアを開けようとすると、ドアに何か書いてあるのを見つけました。
+
+        “いらっしゃいませ。遠慮なく入ってください。”
+
+        二人は喜びました。「すごい。今日はたくさん歩いて大変だったけど、夜はお金を払わずにごはんが食べられる！」「そうだね。『遠慮なく』というのは『タダで』ということだよね。」
+      meaning: |-
+        “We have got a problem. It’s cold and I am also hungry.” “I want to eat something, too. If it becomes night, we’re going to die.” While they were talking about such things, they found a restaurant named WILDCAT RESTAURANT. “This sounds good. Let’s get inside.” “But, it’s strange that there is a restaurant even in the mountain, isn’t it?” “Don’t worry. Come on. I’m already hungry and I feel I’m going to die.” “Yeah, I want to take a rest in a warm room, too.“ When they tried to open the door, they found that something was written on the door;
+
+        “Welcome. Feel free to come in.”
+
+        They were glad. “Amazing! It’s a tough day, we have been walking a lot, but we can eat a meal without paying money at night.” “You are right. “Feel free” must be “For free”, mustn’t it?”
+    tags: *a1
+  - id: 5db0324b-883d-445b-82f9-d7e7cf18c740
+    start: 02:53.312
+    end: 02:55.872
+    fields:
+      transcription: |-
+        二人はドアを開けました。すると、ドアの裏にはこう書いてありました。
+
+        “太った人、若い人は、特に来てくれてありがとう。”
+
+        二人はとても喜びました。なぜなら二人とも若くて太っていたからです。「いいレストランに来ることができて幸せだ。」二人が廊下を歩いていくと、青いドアがありました。「変だね。どうしてこのレストランにはドアがたくさんあるんだ？」「ここが山の中だからだよ。寒い場所や山の中は、建物にドアがたくさんあるんだ。」二人が青いドアを開けようとすると、今度はこう書いてあるのを見つけました。
+
+        “ここは注文の多いレストランですが、よろしくお願いします。”
+      meaning: |-
+        They opened the door. Then, what was written on the back of the door was this;
+
+        “Thank you for coming, especially fat and young people.”
+
+        They were very glad because both of them were young and fat. “We’re very happy to be able to come to this good restaurant.” They walked the corridor and there was a blue door. “It’s strange. Why are there many doors in this restaurant?” “Because here is in the mountain. As for a cold place or a place in the mountain, there are many doors in a building.” When they tried to open the blue door, this time they found that this was written;
+
+        “Here is a restaurant which has many orders. Please understand.”
+    tags: *a1
+  - id: 92d74290-0764-43d9-b9db-3b0ab5bbdd45
+    start: 04:07.808
+    end: 04:12.928
+    fields:
+      transcription: |-
+        「山の中なのに、このレストランは人気があるみたいだ。」「そうみたいだ。ごはんを食べるのが楽しみだ。」二人はそう言って青いドアを開けました。すると、青いドアの裏にはこう書いてありました。
+
+        “注文が多いですが、我慢してください。”
+
+        「これはどういう意味だ？」「このレストランは注文が多いから、ごはんを作るのに時間がかかるということだよ。」「ああ、たぶんそうだ。早く暖かい部屋に入りたいね。」
+        「うん、僕はいすに座りたいよ。」しかし、また別のドアがありました。ドアに鏡がついています。
+
+        “服や靴をきれいにしてください。”
+
+        「うん、服をきれいにするのは大切だよね。」「そうだね。さあ、きれいにしよう。」
+      meaning: |-
+        “Even though it’s in the mountain, it seems that this restaurant is popular.” “It seems so. I’m looking forward to eating a meal.” They said that and then opened the blue door. Then, this was written on the back of the blue door;
+
+        “Please be patient, as we have many orders.”
+
+        “What does this mean?” “It means that this restaurant has many orders, so it takes some time to make a meal.” “Maybe that’s true. I want to enter a warm room soon.” “Yeah, I want to sit down on a chair.” But, there was another door. The door had a mirror.
+
+        “Please clean your clothes and shoes.”
+
+        “Right, it’s important to clean clothes.” “That’s right. Let’s clean.”
+    tags: *a1
+  - id: 145144b2-85b7-488d-8ae6-ff8fd0b6cc4f
+    start: 05:27.167
+    end: 05:33.311
+    fields:
+      transcription: |-
+        二人は服をきれいにした後、ドアを開けて中に入りました。またドアの裏に何か書いてありました。
+
+        “銃はここに置いてください。”
+
+        ドアの横に机がありました。「なるほど。銃を持ってごはんを食べるのは確かによくない。」「そうだね。他のお客さんが驚くかもしれない。」今度は黒いドアがありました。
+
+        “帽子と靴を脱いでください。“
+
+        「どうして脱がないといけないんだ？」「わからないけど、脱ぎましょう。」二人は帽子と靴を脱いで、次の部屋に入りました。黒いドアの裏にはこう書いてありました。
+
+        “メガネと財布はこの箱に入れてください。”
+
+        ドアの横に箱が鍵と一緒に置いてありました。「こういうものはごはんと関係ないけど、どうして？」「帰る時に、ここでお金を払うからだと思うよ。」「なるほど。」
+      meaning: |-
+        After they cleaned their clothes, they opened the door and got inside. Again, something was written on the back of the door.
+
+        “Please put your gun here.”
+
+        There was a table at the side of the door. “Indeed, it’s certainly not good to eat a meal while having a gun.” “Well, other guests may be surprised.” Next, there was a black door.
+
+        “Please take off your hat and shoes.”
+
+        “Why do we have to take them off?” “I don’t know, but let’s take them off.” They took off their hat and shoes and entered the next room. This was written on the back of the black door;
+
+        “Please put your glasses and wallet in this box.”
+
+        A box with a key was placed at the side of the door. “These kind of items have nothing to do with a meal, but why?” “Because we will pay the money here when we return, I guess.” “I see.”
+    tags: *a1
+  - id: 2480c291-d89f-4a94-a575-c463894f64e0
+    start: 06:54.975
+    end: 06:59.327
+    fields:
+      transcription: |-
+        二人はメガネと財布を箱の中に入れました。それから少し歩くと、赤いドアがありました。
+
+        “この薬を顔や体にぬってください。“
+
+        薬がドアの前に置いてありました。「どうして薬をぬらないといけないんだ？」「うーん、わからない。けど、これで体もきれいにできるよ。」「そうだね。体もきれいにしておこう。」二人は薬を体にぬってドアを開けました。赤いドアの裏にはこう書いてありました。
+
+        “薬を耳にぬるのを忘れないでください。”
+
+        「おっと、薬を耳にぬるのを忘れていた。このレストランの人はとても細かいね。」「僕も耳にぬるのを忘れていた。しかし、ごはんはいつ食べられるんだ？もうお腹が空いているのに。」
+      meaning: |+
+        They put their glasses and wallet into the box. Then, they walked a little and there was a red door.
+
+        “Please apply this medicine on your face and body.”
+
+        There was medicine placed in front of the door. “Why do we have to apply the medicine?” “Um, I have no idea. But, because of this, we can clean our body as well.” “You’re right. Let’s clean our body as well.” They applied the medicine on their body and opened the door. What was written on the back of the red door was this;
+
+        “Don’t forget to apply the medicine to your ears.”
+
+        “Oh, I forgot to apply the medicine to my ears. People in this restaurant are very sensitive, aren’t they?” “I also forgot to apply that to my ears. But, when can we eat a meal. I’m already hungry.”
+
+    tags: *a1
+  - id: 30575f6f-eb87-4d03-a021-5157bf759804
+    start: 08:15.103
+    end: 08:20.479
+    fields:
+      transcription: |-
+        二人は急いで耳に薬をぬって、廊下を進みました。次は黄色のドアがありました。ドアにはこう書いてあります。
+
+        “ごはんは１５分後です。この水を飲んで部屋に入ってください。”
+
+        「やっとごはんが食べられる。さあ水を飲もう。」「この水は変だ。お酢の味がするよ。」「たぶんレストランの人が間違えたんだよ。」二人はお酢の味の水を飲んで部屋に入りました。黄色のドアの裏にはこう書いてありました。
+
+        “注文が多くてすみませんでした。これが最後の注文です。塩を体につけてください。”
+
+        二人はドアの横に塩があるのを見つけました。「これはやはり変だ。」「僕もそう思う。」
+      meaning: |-
+        They applied the medicine to their ears in a hurry and went on the corridor. Next, there was a yellow door. What was written on the yellow door was this;
+
+        “Meals will be ready in fifteen minutes. Please drink this water and enter the room.”
+
+        “We can eat a meal at last. Let’s drink the water.” “This water is strange. It tastes like vinegar.” “Maybe, people in the restaurant made a mistake.” They drank the water which tasted like vinegar and entered the room. This was written on the back of the yellow door;
+
+        “Sorry for so many orders. This is the last order. Please spread salt on your body.”
+
+        They found that there was salt at the side of the door. “This sounds strange after all.” “I think so, too.”
+    tags: *a1
+  - id: a5a63cb4-f978-4500-bf70-df96c019d198
+    start: 09:31.647
+    end: 09:38.781
+    fields:
+      transcription: |-
+        「注文が多いというのは、レストランが私たちに注文をしているんだ。だから、このレストランは来た人にごはんを食べさせないんだ。来た人をごはんにして食べるんだ。…だから、私たちが食べられるということなんだ。」二人はとても怖くなりました。「逃げよう。」「うん、そうしよう。」しかし、黄色いドアを開けることができません。代わりに、二人は別のドアを見つけました。そのドアにはこう書いてあります。
+
+        “よくできました。遠慮なく入ってください。”
+
+        ドアの後ろから大きな化け物が二人を見ています。二人は泣き始めてしまいました。すると、化け物がこう言いました。「だめだ。あの二人は体に塩をつけていない。書き方を失敗したのかもしれない。日本語は難しい。」
+      meaning: |
+        “Many orders means that the restaurant orders us. So, this restaurant won’t let people coming in eat a meal. This restaurant will make people coming in a meal and eat them. …So, we will be eaten.” They became very scared. “Let’s run away.” “Yes, let’s.” But, they could not open the yellow door. Instead, they found another door. This was written on the door;
+
+        “You did very well. Don’t hesitate to enter.”
+
+        A big monster was looking at them from behind the door. They started crying. Then, the monster said, “Darn it! They didn’t spread salt on their body. I might have failed with writing. Japanese is difficult.”
+    tags:
+      - WGR_4_chuumon_no_ooi_ryouriten.mp3
+  - id: c50551e3-6f0d-42bb-abdf-600498c226a4
+    start: 10:57.663
+    end: 11:02.527
+    fields:
+      transcription: そして、化け物は二人に話し始めました。「お客さん、用意はもう終わっているよ。こちらに来なさい。」二人は怖くて、歩くことができません。大きな声で泣いていました。化け物は言います。「そんなに泣いたら不味くなってしまうよ。俺はもうナイフとフォークを持っているんだ。いつでも食べられるよ。」二人は動くことができません。その時、急に大きな音がしました。あの逃げた犬が壁を壊して部屋に入ってきたのです。犬は二人の手を取って逃げました。二人は泣きながら犬についていきました。そして、犬は二人を近くの街まで送っていきました。二人は泣いて喜びました。「ありがとう、ありがとう。」二人は犬に何度も言いました。二人はやっと自分の家に帰ることができました。しかし、それから二人の泣き顔は二度と普通の顔には戻りませんでした。
+      meaning: Then, the monster started talking to them. “Hi guests, the preparation is already done. Come on here.” They were scared and couldn’t walk. They were crying with a loud voice. The monster said, “If you cry like that, you will start to taste bad. I already have a knife and a fork. I can eat you anytime.” They couldn’t move. At the time, a big sound suddenly was heard. Those dogs who had run away broke the wall and entered the room. The dogs took their hands and ran away. They followed the dogs while crying. Then, the dogs took them to a nearby town. They cried with happiness. “Thank you. Thank you.” They said to the dogs many times. They could finally go home. But, since then, their crying faces would never return to normal.
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 520dde8b-ae9a-4638-80aa-9241fdcd0617
+---
+name: WGR 5 hashire merosu.mp3
+format: mp3
+duration: 13:00.095
+id: e9ede702-ff80-4475-b717-1795adf82f73
+subtitles:
+  - id: ea8e7a3a-7731-41e0-8aa5-675ce0a0ca48
+    type: External
+    chunksMetadata:
+      count: 151
+      endCue: 38681.55
+    name: WGR 5 hashire merosu.srt
+clips:
+  - id: f0986690-d3e5-4907-aa80-ccfcc871e5ea
+    start: 00:00.768
+    end: 00:02.304
+    fields:
+      transcription: 走れメロス
+      pronunciation: Run, Melos!
+    tags:
+      &a1
+      - WGR_5_hashire_merosu.mp3
+  - id: 113b1d22-a46c-40ca-a87e-f96c1fda85d3
+    start: 00:04.096
+    end: 00:05.888
+    fields:
+      transcription: メロスは怒った。悪い王様を許せないと思いました。メロスは難しいことがわかりません。メロスは村で楽しく生活をしていました。しかし、メロスは悪いことを許せません。メロスは村からシクラスという街に来ました。メロスにはお父さんもお母さんもいません。奥さんもいません。１６歳の妹と二人で生活をしています。妹はもうすぐ結婚します。メロスは結婚式の用意のために買い物をしに街に来たのです。街を歩いていると、メロスは街がおかしいと思いました。前に来た時より、街がとても静かなのです。そこで、メロスは街の人に聞きました。「なぜ街が静かなのですか？」
+      meaning: Melos was angry. He thought that he could not forgive the bad king. Melos didn’t understand difficult things. Melos was living a happy life in a village. However, Melos could not forgive bad things. Melos came to the town named Syracuse from the village. Melos had no father, mother nor wife. He was living with his sixteen-year-old younger sister. She would get married soon. Melos came to the town to go shopping to prepare for the wedding. While he was walking in the town, Melos thought that the town was strange. The town was much quieter than when he came before. So, Melos asked a person in the town, “Why is the town quiet?”
+    tags: *a1
+  - id: c43aa86a-7c65-498e-b0a8-68dd740a1dc1
+    start: 01:22.944
+    end: 01:27.552
+    fields:
+      transcription: 街の人は小さな声でメロスに答えました。「王様が人を殺すからです。王様の子供や妹も殺されました。王様は人を信じることができません。今日は６人が殺されました。」メロスはとても怒りました。メロスは怒って、王様の住むお城へ向かって行きました。お城に入るとメロスはすぐに捕まってしまいました。メロスが小さな刀を持っていたからです。王様はメロスに厳しく聞きました。「なぜお城に来たのだ？」メロスは答えました。「悪い王様から街を助けるためです。」王様は笑って言いました。「お前に街を助けることができるのか？お前は私の気持ちがわからない。」
+      meaning: The person in the town replied to Melos with a small voice, “Because the king kills people. The children and younger sisters of the king were killed. The king cannot trust people. Six people have been killed today.” Melos got very angry. Melos angrily headed towards the castle where the king lived. When Melos entered the castle, he was caught soon because he had a small sword. The king sternly asked Melos, “Why did you come to the castle?” Melos replied, “I’m here to save the town from you.” The king laughed and said, “Can you save the town? You cannot understand my mind.”
+    tags: *a1
+  - id: a31ce54b-061a-4432-baed-98d0eda2dfc7
+    start: 02:40.512
+    end: 02:42.56
+    fields:
+      transcription: |
+        メロスは言いました。「王様は人を信じていません。人を信じないことは、とても恥ずかしいことです。」王様は言いました。「人は口ではきれいなことを言うことができる。私は人の本当の気持ちがわかる。お前が私に殺されるとき、泣いて謝っても許さないぞ。」「私は怖くありません。王様が許してくれると思っていません。しかし、私に３日間だけ時間をもらえませんか？妹の結婚式をしたいのです。３日間のうちに、妹の結婚式をして、必ず帰って来ます。」「嘘をつくな！」王様は低い声で笑いました。「逃げた鳥が帰って来ることはない。」「帰って来ます。」メロスは一生懸命言いました。
+      meaning: Melos said, “You don’t trust people. Not to trust people is a very shameful thing.” The king said, “People can say beautiful things on the surface. I can understand people’s real minds. When you are killed by me, I will not forgive you even if you apologized with tears.” ”I’m not scared. I don’t expect you to forgive me. But, could you give me just three days’ time? I would like to hold my younger sister’s wedding. Within three days, I will hold the wedding and definitely come back.” ”Don’t lie to me!” The king sneered with a low voice. “Birds that fly away will never come back.” “I will be back.” Melos said very hard.
+    tags: *a1
+  - id: 1f5f65e3-8eaf-4724-9dfd-88d3a8893bfe
+    start: 04:03.2
+    end: 04:05.76
+    fields:
+      transcription: 「私は約束を守ります。私を３日間だけ自由にしてください。妹が私を待っています。代わりに、セリヌンティウスという大切な友達をお城に置いていきます。もし私が帰って来なかったら、私の代わりにセリヌンティウスを殺してください。」王様は笑いました。嘘だ。メロスは帰って来ない。それなら、３日後にセリヌンティウスを殺してしまおう。王様は言いました。「わかった。セリヌンティウスを呼びなさい。メロス、３日目の夕方までに帰って来なさい。もし遅れたらセリヌンティウスを殺す。」友達のセリヌンティウスは、夜遅くにお城に呼ばれました。メロスは王様との約束を説明しました。セリヌンティウスは何も言いませんでした。メロスはお城を出ました。夏の夜の空には、たくさんの星が光っていました。
+      meaning: “I will keep my promise. Please let me free for just three days. My younger sister is waiting for me. Instead, I will leave my dear friend Selinuntius in the castle. If I don’t come back, please kill Selinuntius instead of me.” The king laughed. [The king thought] “That’s a lie. Melos won’t come back. In that case, I will kill Selinuntius three days later.” The king said, “All right. Call Selinuntius. Melos, come back by evening on the third day. If you are late, I will kill Selinuntius.” The friend, Selinuntius, was called into the castle late at night. Melos explained his promise to the king. Selinuntius didn’t say anything. Melos left the castle. In the summer night sky, a lot of stars shined.
+    tags: *a1
+  - id: acec773f-c5e9-46a3-8908-0458cacaa09e
+    start: 05:34.335
+    end: 05:38.687
+    fields:
+      transcription: その日、メロスは眠らずに村へ帰りました。村に着いたのは、次の日の午前でした。もう村の人は外で仕事を始めていました。メロスの妹も仕事をしていました。妹は疲れているメロスを見て驚きました。メロスは言いました。「大丈夫だ。ところで、街にまだ用事がある。またすぐに街へ戻らなければならない。明日、お前の結婚式をしよう。きれいな服も買ってきた。さあ、村の人に明日結婚式をすると知らせに行きなさい。」妹はとても喜びました。メロスは家に帰り、結婚式の用意をしました。メロスはベッドに倒れて眠ってしまいました。
+      meaning: On that day, Melos went back to the village without sleeping. When he arrived at the village it was the next morning. People in the village had already started working outside. Melos’ younger sister was also working. She was surprised by seeing the tired Melos. Melos said, “All right. By the way, I still have things to do in town. I have to be back in town soon. Tomorrow, let’s hold your wedding. I bought beautiful clothes. Now, go let people in the village know that we’re going to hold your wedding tomorrow. ” She was very glad. Melos went home and prepare the wedding. Melos fell down on the bed and went to sleep.
+    tags: *a1
+  - id: e8b8939a-4a05-48be-96ff-926402c5a5cd
+    start: 06:47.807
+    end: 06:51.903
+    fields:
+      transcription: 次の日、結婚式が行われました。その日は強い雨が降りました。メロスは村の人と一緒におめでとうと言いました。結婚式の次の日の朝、メロスは街に向けて走り始めました。私は今日の夜に殺される。私は殺されるために走るのだ。友達のために走るのだ。メロスは一生懸命走りました。その時、メロスは、大きな川を見つけました。昨日の強い雨で、川の水が増えて、橋が壊れてしまったのです。メロスは大きな声で泣きました。「この川を渡らないと友達を助けることができない。神様、お願いです。川の水を止めてください。」しかし、メロスの声は、神様に届きません。
+      meaning: The next day, the wedding was held. That day, it rained hard. Melos and the people of the village said together, “Congratulations.” In the morning on the day after the wedding, Melos started running toward the town. [Melos thought] “I will be killed this night. I will run to be killed. I will run for my friend.” Melos ran very hard. This time, Melos found a big river. Due to the hard rain the day before, the water in the river increased and the bridge was broken. Melos cried with a loud voice, “Without crossing this river, I cannot save my friend. Please God, stop the water in the river. But, Melos’ voice didn’t reach God.
+    tags: *a1
+  - id: 0910d838-265f-4e58-b129-d68eddfdfffa
+    start: 08:06.655
+    end: 08:11.519
+    fields:
+      transcription: メロスはこの大きい川に入ることを決めました。一生懸命泳いで、川を渡ることができました。それからメロスは、山をのぼり、山をくだり、走り続けました。ずっと走っていたので、メロスは疲れてしまいました。もう走ることができません。メロスはとうとう道に倒れてしまいました。間に合わない。私はセリヌンティウスを助けることができない。一生懸命走ったが間に合わなかった。許してくれ、セリヌンティウス。メロスは眠ってしまいました。メロスは起きると少し元気になりました。メロスはまた走り始めました。もうすぐ夕方になってしまいます。メロスは一生懸命走りました。
+      meaning: Melos decided that he would enter this big river. He swam very hard and could cross the river. Then, Melos went up and down the mountain and continued running. Since he was running for a long time, Melos got tired. He couldn’t run any longer. Melos fell down on the road at last. [Melos thought] “I will not make it in time. I cannot save Selinuntius. I have run very hard, but have not made it in time. Selinuntius, please forgive me.” Melos fell asleep. When he got up, he felt a little better. Melos started running again. It would turn to evening soon. Melos ran very hard.
+    tags: *a1
+  - id: 39a2c96f-f6ae-487e-aa8c-0699642d4c56
+    start: 09:23.199
+    end: 09:28.063
+    fields:
+      transcription: 「メロスさん。」誰かがメロスに話しかけました。「誰だ？」メロスは走りながら聞きました。「フィロストラトスです。セリヌンティウスの友達です。走るのをやめて下さい。もう間に合いません。セリヌンティウスを助けることはできません。」「まだ間に合う。」メロスは太陽を見ながら答えました。「やめて下さい。走るのをやめて下さい。今はあなたの命が大事です。セリヌンティウスはメロスさんを信じていました。王様にメロスは来ますと答えていました。」 「だから、走るのだ。信じられているから走るのだ。」メロスは走りました。メロスは何も考えずに走り続けました。
+      meaning: “Melos,” someone spoke to Melos. “Who’s there?” Melos asked while running. “My name is Philostratus. I’m Selinuntius’s friend. Please stop running. You will already not be in time. You cannot save Selinuntius.” “I will still be in time,” Melos replied while looking at the sun. “Please stop. Please stop running. Now, your life is important. Selinuntius trusted you. He was responding to the king[‘s question], telling him that you would come.” “That’s why I will run. I will run because I’m trusted.” Melos ran. Melos continued running without thinking anything.
+    tags: *a1
+  - id: 88429490-7525-4407-be87-312be9f93cef
+    start: 10:37.439
+    end: 10:42.303
+    fields:
+      transcription: 太陽が消える前に、メロスはお城に着きました。メロスは間に合ったのです。「待て。その人を殺してはいけない。メロスが帰って来た。いま帰って来た。」メロスはそう言おうとしましたが、とても疲れていて、話すことができません。メロスはもう一度言いました。「待て。殺されるのは私だ。メロスだ。」メロスはセリヌンティウスに向かって走りました。メロスはとうとうセリヌンティウスを助けることができました。メロスは泣きながら言いました。「私を叩け。私は途中で一度、悪い夢を見た。私は一度あなたを助けることをあきらめた。」
+      meaning: Before the sun disappeared, Melos arrived at the castle. Melos was in time. “Wait. You must not kill him. I’m back. I’m back now,” Melos tried to say, but he was very tired and couldn’t speak. Melos said once again, “Wait. I am the one who will be killed. It’s Melos.” Melos ran toward Selinuntius. Melos could finally save Selinuntius. Melos said while crying, “Slap me. I had a bad dream on the way. I gave up saving you for a while.”
+    tags: *a1
+  - id: 6c6bb75c-55b6-41c1-b3e0-5ef541864590
+    start: 11:47.327
+    end: 11:51.423
+    fields:
+      transcription: セリヌンティウスはメロスの顔を叩きました。そして、優しく笑いました。「メロス、私を叩け。私はこのに３日間、一度君を信じることができなかった。初めて君を信じることができなかった。」メロスもセリヌンティウスの顔を叩きました。「メロス！」「セリヌンティウス！」二人は声を出して泣きました。周りの人も声を上げて喜んでいました。王様が顔を赤くして、言いました。「二人は助かった。二人は人を信じることを教えてくれた。私を二人の友達にしてくれないか？」王様は二人を褒めました。周りの人は王様と二人を褒めました。
+      meaning: Selinuntius slapped Melos’s face, and he smiled softly. “Melos, slap me. I haven’t been able to trust you once for these three days. I couldn’t trust you for the first time.” Melos slapped Selinuntius’s face. “Melos!” “Selinuntius!” They cried loudly. The surrounding people cheered loudly, too. The king’s face turned red and he said, “You all have been saved. You have taught me to trust people. Will you let me be your friend?” The king praised them. The surrounding people praised the king and them.
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: ea8e7a3a-7731-41e0-8aa5-675ce0a0ca48

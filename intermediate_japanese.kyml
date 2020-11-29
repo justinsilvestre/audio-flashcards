@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-11-28T22:28:32Z
+timestamp: 2020-11-29T21:06:14Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -6787,14 +6787,11 @@ clips:
     end: 00:33.62
     fields:
       transcription: |-
-        皆さんの国の教育制度は
-        現在
-        どのような制度になっていますか
-        どんな良い点
-        どんな問題点がありますか
-        自分たちが受けてきた教育に満足していますか
-        この課では
-        教育について考えてみましょう
+        皆さんの国の教育制度は、現在、どのような制度になっていますか。
+        どんな良い点、どんな問題点がありますか。
+        自分たちが受けてきた教育に満足していますか。
+        この課では、教育について考えてみましょう。
+      meaning: What kind of system is the education system in your country now? What kinds of good points and problems does it have? Are you satisfied with the education you have received? In this lesson, let’s think about education.
     tags:
       &a1
       - tobira09
@@ -6802,81 +6799,60 @@ clips:
     start: 00:34.796
     end: 00:45.916
     fields:
-      transcription: |-
-        まずはじめに
-        日本の教育制度や
-        現在の状況について紹介しますので
-        その後で
-        皆さんの次の教育について話し合ってみてください
+      transcription: まずはじめに、日本の教育制度や現在の状況について紹介しますので、その後で皆さんの次の教育について話し合ってみて下さい。
+      meaning: First, the Japanese education system and its present state will be introduced. Afterwards, please discuss the education (system) in your country.
     tags: *a1
   - id: 5a177b3c-7326-4a72-a1a3-7b62956d5c06
     start: 00:47.836
     end: 01:20.056
     fields:
       transcription: |-
-        日本の教育制度は
-        6・3・3・4歳と言われ
-        小学校が6年
-        中学校が3年
-        高校が3年
-        そして大学が四年となっている
-        それぞれに 公立と私立があり
-        小学校と中学校は義務教育 だが
-        高校からは
-        行っても行かなくても良い
-        しかし
-        高校進学率は約98%なので
-        実際には高校に行かない人はほとんどいない
+        日本の教育制度は、6・3・3・4制と言われ、小学校が6年、中学校が3年、高校が3年、そして、大学が四年となっている。
+        それぞれに公立と私立があり、小学校と中学校は義務教育だが、高校からは行っても行かなくても良い。
+        しかし、高校進学率は約98%なので、実際には高校に行かない人はほとんどいない。
+      meaning: "Japan’s education system is called a 6-3-3-4 system: elementary school is 6 years, junior high school is 3 years, senior high school is 3 years, and university is 4 years. Each level has public and private schools. Elementary school and junior high school are compulsory education, but (education is) optional from high school onwards (lit. it is all right either to attend or not). However, the rate of those attending high school is 98%, so in actuality there are almost no people who do not attend high school."
     tags: *a1
   - id: 1dc4c29f-4fab-4ee1-ac52-953586fda096
     start: 01:20.94
     end: 01:34.76
     fields:
-      transcription: |-
-        4年生の大学への進学率は大体 50%ぐらいだが
-        短大 や専門学校への進学率も含めると
-        80%近くの高校生が上の学校に進む
+      transcription: 4年生の大学への進学率は大体 50%ぐらいだが、短大や専門学校への進学率も含めると、80%近くの高校生が上の学校に進む。
+      meaning: The rate of those attending four-year universities is about 50%, but if we include junior colleges and vocational or technical schools, nearly 80% of high school students go on to higher education.
     tags: *a1
   - id: cefb5631-343d-40a5-bae9-6c5d4ded2073
     start: 01:36.0
     end: 01:58.84
     fields:
-      transcription: |-
-        義務教育の後でも進学率が高い 日本だが
-        教育の現場には問題点も多く
-        特に以下の三つのことが挙げられる
-        1
-        学歴社会と受験戦争
-        2
-        いじめや 登校拒否
-        3
-        「偏差値教育」対「ゆとり教育」
+      transcription: "義務教育の後でも進学率が高い日本だが、教育の現場には問題点も多く、特に以下の三つのことが挙げられる。
+
+        \x1d①「学歴社会」と「受験戦争」
+
+        ②「いじめ」や「登校拒否」
+
+        ③「偏差値教育」対「ゆとり教育」"
+      meaning: |-
+        Although Japan has a high rate of school attendance even after compulsory education, there are still (lit. also) many problems with the present state of education. Particularly, the following three can be mentioned (as major problems).
+        (1) “the academic background society” and “the entrance exam war”
+        (2) “bullying” and “refusal to go to school”
+        (3) “deviation-score education” vs. “less demanding education”
     tags: *a1
   - id: 87d4a48c-5984-4584-8955-43b7df142829
     start: 02:00.12
     end: 02:23.94
     fields:
       transcription: |-
-        一番の受験戦争というのは
-        中学や 高校や大学の入学試験に合格するための競争は
-        戦争のようだ という意味だ
-        入学試験は普通 一年に一回しか受けられない
-        生徒たちはその
-        1回のチャンスのために
-        学校の後も 塾に通ったりして一生懸命に勉強する
+        一番の受験戦争というのは、中学や高校や大学の入学試験に合格するための競争は戦争のようだ という意味だ。
+        入学試験は普通 一年に一回しか受けられない。生徒たちはその1回のチャンスのために、学校の後も塾に通ったりして一生懸命に勉強する。
+      meaning: The “entrance examination war” in (1) means that the competition to pass the entrance examinations of junior high schools, senior high schools, and universities is like a war. Entrance examinations can usually be taken only once a year. Students study with utmost effort for this one chance, doing things like after regular school going to cram schools as well.
     tags: *a1
   - id: 98c6c0db-a691-4f67-80cd-566420154aed
     start: 02:24.94
     end: 02:50.18
     fields:
       transcription: |-
-        そして
-        大学の入学試験に失敗した高校生は
-        もう一度 次の年の試験に挑戦するために
-        浪人生になることが多い
-        浪人 というのは もともと主人の居ない侍のことを意味したが
-        今は希望の大学に入れなかったために
-        予備校に行ったりしながら受験勉強をしている人たちのことを指す
+        そして、大学の入学試験に失敗した高校生は、もう一度、次の年の試験に挑戦するために「浪人生」になることが多い。
+        「浪人」というのは、もともと主人の居ない侍のことを意味したが、今は、希望の大学に入れなかったために、予備校に行ったりしながら受験勉強をしている人たちのことを指す。
+      meaning: And, many high school students who have failed university entrance exams become roninsei in order to try the next year’s exams once again. Ronin originally meant “a samurai without a master,” but today it refers to people who are studying for entrance exams while doing things like going to university preparatory schools because they weren’t able to enter the university they had hoped to enter.
     tags:
       - tobira09
   - id: f95ba321-0580-48ce-a0ff-f2cca6fed1b9
@@ -6884,13 +6860,10 @@ clips:
     end: 03:14.86
     fields:
       transcription: |-
-        その他
-        受験の厳しさを表す言葉には
-        「四当五落」や
-        「受験地獄」という表現もある
-        前者は毎日4時間しか寝ずに勉強すれば大学に合格できるが
-        5時間以上寝たら試験に落ちるという意味
-        後者は受験で苦しむのは地獄のようだ という意味だ
+        その他、受験の厳しさを表す言葉には「四当五落」や「受験地獄」という表現もある。
+        前者は、毎日4時間しか寝ずに勉強すれば大学に合格できるが、5時間以上寝たら試験に落ちるという意味。
+        後者は受験で苦しむのは地獄のようだという意味だ。
+      meaning: Besides these phrases, there are phrases that express the harshness of entrance examinations, such as yonto goraku (four=pass, five=fail) and juken jigoku (entrance examination hell). The former means that if you study with only four hours of sleep every day you can enter university, but if you sleep for five hours or more, you fail the exam. The latter means that suffering through entrance examinations is like hell.
     tags:
       - tobira09
   - id: 0310614d-2486-48db-bec2-f831244f3c02
@@ -6898,199 +6871,143 @@ clips:
     end: 03:32.32
     fields:
       transcription: |-
-        そんな受験生がいる家庭では家族も必死に協力する
-        自分たちが見たいテレビを我慢したり
-        夜中まで勉強する子供のために
-        夜食を用意したりして
-        受験生が勉強しやすい環境を作るのだ
+        そんな受験生がいる家庭では、家族も必死に協力する。
+        自分たちが見たいテレビを我慢したり、夜中まで勉強する子供のために夜食を用意したりして、受験生が勉強しやすい環境を作るのだ。
+      meaning: In households with students preparing for examinations, their families also cooperate in every possible way. They create an environment in which it is easy for the students preparing for exams to study, giving up the television programs they want to watch and preparing night meals for their children, who study until the middle of the night.
     tags: *a1
   - id: 972a8eae-807c-4e59-8d31-c8ce7157b6b7
     start: 03:33.02
     end: 03:45.02
     fields:
-      transcription: |-
-        また受験に縁起の悪い言葉
-        滑る 落ちる などは使わないように気を付け
-        受験の神様が祀ってある神社に
-        言って 合格を祈ると言ったこともする
+      transcription: また受験に縁起の悪い言葉「滑る」「落ちる」などは使わないように気を付け、受験の神様が祭ってある神社に行って合格を祈ると言ったこともする。
+      meaning: Furthermore, the family members are also careful not to use words like “slip” and “fall” (also meaning “to fail”), which are unlucky phrases for entrance exams, and they go to shrines devoted to the entrance examination gods and pray that the students pass.
     tags: *a1
   - id: 2c64c4b2-c4d3-4ce9-80c3-66b2ae2a38cb
     start: 03:46.2
     end: 04:06.72
     fields:
       transcription: |-
-        では どうして日本ではこのような 厳しい 受験の状況が生まれたのだろうか
-        理由の一つとして 学歴社会が挙げられるだろう
-        日本では有名大学出身者は良い会社に就職しやすく
-        地位も早く上がり
-        給料もたくさんもらえるという傾向がある
+        では、どうして日本ではこのような厳しい受験の状況が生まれたのだろうか。理由の一つとして「学歴社会」が挙げられるだろう。
+        日本では、有名大学出身者は良い会社に就職しやすく、地位も早く上がり、給料もたくさんもらえるという傾向がある。
+      meaning: Well then, why has such a harsh entrance examination situation come into existence in Japan? One reason that can be given is “the academic background society.” In Japan, graduates of famous universities tend to have an easy time finding employment at good companies, get promoted quickly, and receive a high salary.
     tags: *a1
   - id: 86d0de10-cdd5-42af-9fae-20fe4597335e
     start: 04:07.42
-    end: 04:27.06
+    end: 04:34.207
     fields:
-      transcription: |-
-        一方 あまり有名でない大学を出た人
-        あるいは大学に入っていない人は
-        どんなに 能力のある人でも能力のあることをなかなか認めてもらえない
-        つまり
-        学歴社会とは
-        その人がどんな学校を卒業したかによって人生が決まる 社会
-    tags: *a1
+      transcription: 一方、あまり有名でない大学を出た人、あるいは、大学に入っていない人は、どんなに 能力のある人でも、能力のあることをなかなか認めてもらえない。つまり、学歴社会とは、その人がどんな学校を卒業したかによって人生が決まる社会、いい大学に入れば将来、幸せになる可能性も高くなるという社会なのだ。
+      meaning: On the other hand, graduates of universities that are not very famous or those who have not attended a university have a hard time getting their abilities recognized, no matter how competent they are. In other words, an academic background society is a society in which a person’s life is decided based on which school s/he graduated from or a society in which a person’s chances of becoming happy in the future increase if they enter a good university.
+    tags:
+      - tobira09
   - id: afea0eca-7738-4cda-b6a9-7e631f5299fc
-    start: 04:28.18
+    start: 04:34.94
     end: 04:47.54
     fields:
-      transcription: |-
-        いい大学に入れば 将来
-        幸せになる可能性も高くなるという社会 なのだ
-        そこで 親たちは自分の子供を塾に行かせ
-        受験をしなくても有名私立大学に進める
-        エスカレーター式の小学校や
-        中学校に入れようとする
+      transcription: そこで 、親たちは自分の子供を塾に行かせ、受験をしなくても有名私立大学に進めるエスカレーター式の小学校や中学校に入れようとする。
+      meaning: So, parents send their children to cram schools and try to get them into escalator-style elementary schools or junior high schools, from which they can enter famous private universities without taking entrance exams.
     tags: *a1
   - id: ab92f28d-4bbc-4e97-a476-c069bd86a75f
     start: 04:48.46
     end: 05:04.92
     fields:
-      transcription: |-
-        2008年の文部科学省
-        文科省の統計では
-        小学生の 約37%
-        中学生の 約62%
-        高校生の 約43%が塾に通っているそうだ
+      transcription: 2008年の文部科学省（文科省）の統計では、小学生の約37%、中学生の約62%、高校生の約43%が塾に通っているそうだ。
+      meaning: According to 2008 statistics from the Ministry of Education, Culture, Sports, Science, and Technology (shortened to Monkashō), about 37% of elementary school students, about 62% of junior high school students, and about 43% of high school students attend cram schools.
     tags: *a1
   - id: 71ab8cb1-317a-49cf-a17a-2fa150fbf223
     start: 05:06.391
     end: 05:28.251
     fields:
       transcription: |-
-        このような現状がある一方
-        今のような学歴社会 をいいことだとは思っていない 日本人もたくさんいる
-        子供が学校や塾の勉強で忙しすぎて
-        子供らしく 外で遊ぶ時間がないことを心配する人
-        学歴だけで能力を判断されることを良くないと思っている人は多い
+        このような現状がある一方、今のような学歴社会をいいことだとは思っていない日本人もたくさんいる。
+        子供が学校や塾の勉強で忙しすぎて、子供らしく外で遊ぶ時間がないことを心配する人、学歴だけで能力を判断されることを良くないと思っている人は多い。
+      meaning: While this kind of situation does exist, there are many Japanese people who do not think that an academic background society like the current one is a good thing. There are many people who worry that children are too busy studying at school and cram school and don’t have time to play outside as children should do, and many people who think it is bad that people’s competence is Judged solely based on their academic background.
     tags: *a1
   - id: 56d83bac-0fdb-4e68-8266-e57c10415604
     start: 05:28.891
     end: 05:48.551
     fields:
       transcription: |-
-        日本では以前は首相になる人はほとんど 東京大学
-        東大出身者ばかりだったが
-        最近は
-        東大出身者以外の人も
-        首相になるようになった
-        このことを歓迎する人が多いのも 学歴社会が決して良く思われていないからだろう
+        日本では以前は、首相になる人はほとんど東京大学（東大）出身者ばかりだったが、最近は東大出身者以外の人も首相になるようになった。
+        このことを歓迎する人が多いのも学歴社会が決して良く思われていないからだろう。
+      meaning: In the past in Japan, the people who became prime ministers were almost all alumni of the University of Tokyo (Tōdai), but recently people who are not Tōdai alumni sometimes become prime ministers. The reason there are many people who welcome this is probably because they think that an academic background society is not good at all.
     tags: *a1
   - id: fc31187f-7ce6-441b-9d4b-05c9d6327e84
     start: 05:50.14
     end: 06:30.0
     fields:
       transcription: |-
-        2番目の問題は
-        いじめと登校拒否だ
-        いじめではひどい場合はいじめられた子供が自殺してしまうことさえある
-        登校拒否というのはいじめられたとか学校の勉強についていけないというわけで
-        学校に行かなくなってしまうことだ
-        これらの問題の原因は たくさんあって複雑だが
-        日本社会の
-        他人と同じようであることが求められる
-        他人と違うことがあまり良い事だと思われないという意識と受験 教育のプレッシャーが
-        いじめや 登校拒否の主な原因だと言われている
+        2番目の問題は「いじめ」と「登校拒否」だ。
+        「いじめ」では、ひどい場合はいじめられた子供が自殺してしまうことさえある。
+        「登校拒否」というのはいじめられたとか学校の勉強についていけないという理由で、学校に行かなくなってしまうことだ。
+        これらの問題の原因はたくさんあって複雑だが、日本社会の
+        他人と同じようであることが求められる。
+        他人と違うことがあまり良い事だと思われないという意識と受験教育のプレッシャーが、いじめや登校拒否の主な原因だと言われている。
+      meaning: The second problem is “bullying” and “refusal to go to school.” With bullying, in severe cases, there are even times when children who were bullied end up committing suicide. Refusal to go to school means that children stop attending school for reasons such as being bullied or not being able to keep up with their schoolwork. The causes of these problems are many and are complex. But, it is said that the main causes of bullying and refusal to go to school are feelings like “I’m expected to be the same as other people” or “being different from others is frowned upon,” and the pressure of entrance examination education.
     tags: *a1
   - id: a6a15096-7071-4528-9e6e-303ef5c88916
     start: 06:31.22
     end: 06:46.86
     fields:
-      transcription: |-
-        上に挙げたような問題から
-        日本の教育制度 を見直そうと
-        1980年代に
-        ゆとり教育が取り入れられた
-        しかし
-        これが 別の大きな問題を生み出す 原因になってしまった
+      transcription: 上に挙げたような問題から、日本の教育制度を見直そうと1980年代に「ゆとり教育」が取り入れられた。しかし、これが 別の大きな問題を生み出す原因になってしまった。
+      meaning: Because of the problems given above, yutori kyoiku (less demanding education) was adopted in the 1980's with the intention of re-examining Japan’s educational system. However, this ended up giving rise to a another major problem.
     tags:
       - tobira09
   - id: 9c89c2af-6c1c-4561-9636-be666812569d
     start: 06:47.66
     end: 07:07.34
     fields:
-      transcription: |-
-        受験のために 偏差値
-        学力を表す数字を上げることを目的とした教育に対して
-        もっと子供たちの心を成長させる
-        プレッシャーのない教育という考えで始められた ゆとり教育が
-        日本の子供たちの学力を低下させてしまったのだ
+      transcription: 「受験のために偏差値（学力を表す数字）を上げることを目的とした教育」に対して、もっと子供たちの心を成長させる「プレッシャーのない教育」という考えで始められた「ゆとり教育」が、日本の子供たちの学力を低下させてしまったのだ。
+      meaning: Yutori kyoiku, which was started with the idea of “education free from pressure which allows a child’s spirit and mind to develop further” in contrast to “education aiming to raise the student’s deviation score (a number expressing their academic ability),” ended up causing Japanese children’s academic abilities to decline.
     tags: *a1
   - id: 4460778b-7466-4614-9eeb-ff0bd3a3a48e
     start: 07:08.303
     end: 07:32.64
     fields:
       transcription: |-
-        以前は世界でもトップレベルだった学力が
-        今では とても低くなってしまい
-        アジアの国で
-        4番目と5番目くらいにまで下がってしまった
-        ゆとり教育で学校で教える内容が減らされたため
-        その教育を受けた子供達は
-        常識的に誰でも知っているはずのことでさえ
-        知らないという現象も出てきた
+        以前は世界でもトップレベルだった学力が、今ではとても低くなってしまい、アジアの国で、4番目と5番目くらいにまで下がってしまった。
+        ゆとり教育で学校で教える内容が減らされたため、その教育を受けた子供達は常識的に誰でも知っているはずのことでさえ知らないという現象も出てきた。
+      meaning: Japan’s academic abilities, which in the past had been at the top level in the world, had now become very low, falling as low as 4th or 5th place among Asian countries. Because the amount taught in schools was reduced by yutori kyoiku, a phenomenon emerged where children who had received yutori kyoiku did not know even common-sense things that everyone ought to know.
     tags:
       - tobira09
   - id: 9af3f3ad-3f38-47cf-8944-2f059e424111
     start: 07:33.54
     end: 07:44.66
     fields:
-      transcription: |-
-        例えば 円周率は一般的には
-        3.14 だが
-        ゆとり教育では円周率は
-        3まで覚えておけば良いと言ったことを始めたのだ
+      transcription: 例えば、円周率は一般的には3.14だが、「ゆとり教育」では円周率は3まで覚えておけばいいと言ったことを始めたのだ。
+      meaning: For example, with yutori kyoiku it began to be said that it is OK to remember 3 for pi, although pi is generally (taught as) 3.14.
     tags: *a1
   - id: 8a2ec62d-168e-4109-b7df-ce0bd6567133
     start: 07:45.46
     end: 08:12.42
     fields:
       transcription: |-
-        その結果 自分の子供達の学力低下を心配した親たちは
-        いい大学に合格するためには義務教育 だけに頼ることはできないと思い
-        ますます 子供を塾に送るようになった
-        悪循環と言えるだろう
-        そこで 2007年に
-        ゆとり教育 が見直されることになり
-        文科省で新しい教育の方法が話し合われている
+        その結果、自分の子供達の学力低下を心配した親たちは、いい大学に合格するためには義務教育だけに頼ることはできないと思い、ますます子供を塾に送るようになった。
+        悪循環と言えるだろう。
+        そこで2007年に「ゆとり教育」が見直されることになり、文科省で新しい教育の方法が話し合われている。
+      meaning: Because of this, parents who worried about their children’s decline in academic abilities thought that they could not rely on compulsory education alone in order to be accepted into good universities, and increasingly sent their children to cram schools. We could say it was a vicious circle. So, in 2007 it was decided that yutori kyoiku should be re-examined, and new educational methods are now being discussed at the Ministry of Education.
     tags: *a1
   - id: 37ebfbac-c8ab-4cc5-b4df-66cb39961487
     start: 08:14.02
     end: 08:44.2
     fields:
       transcription: |-
-        以上述べたように
-        日本の教育には様々な問題が存在するが
-        良い点もある
-        それは日本国民である限り
-        誰でも
-        どこに住んでいても
-        どんな状況でも
-        義務教育が受けられるということだ
-        日本語の読み書きは大変難しいにもかかわらず
-        文字を読んだり書いたりできない日本人はほとんどいないし
-        計算ができない人も
-        0%に近い
+        以上述べたように、日本の教育には様々な問題が存在するが
+        いい点もある。
+        それは、日本国民である限り、誰でも、どこに住んでいても、どんな状況でも、義務教育が受けられるということだ。日本語の読み書きは大変難しいにもかかわらず、文字を読んだり書いたりできない日本人はほとんどいないし、
+        計算ができない人も0%に近い。
+      meaning: |-
+        As stated above, there are various problems in
+        Japanese education, but there are good points as well. (For one thing), as long as they are Japanese citizens, everyone can receive compulsory education, no matter who they are, where they live, or what their situation is. There are almost no Japanese people who can’t read or write, even though reading and writing Japanese is very difficult, and the number of people who can’t calculate (numbers) is also close to 0%.
     tags: *a1
   - id: 661e0f7f-ad5d-48a5-b018-8f11770eba5c
     start: 08:45.26
     end: 09:13.3
     fields:
       transcription: |-
-        また 義務教育で使われる教科書は全部国の検定を受けていて
-        日本国民に与えられる基本的な教育には
-        住む所などで大きいさは出ない
-        誰でも教育が平等に受けられるというのは
-        日本の教育制度の素晴らしい点の一つだ
-        問題はいろいろあるが
-        全体的には 日本の教育レベルは高いと言えるだろう
+        また、義務教育で使われる教科書は全部国の検定を受けていて、日本国民に与えられる基本的な教育には、住む所などで大きいさは出ない。
+        誰でも教育が平等に受けられるというのは、日本の教育制度の素晴らしい点の一つだ。
+        問題はいろいろあるが、全体的には 日本の教育レベルは高いと言えるだろう。
+      meaning: Also, all textbooks used for compulsory education are inspected by the national government, so in terms of the basic education given to Japanese citizens, there is no large gap based on things such as where people live. The fact that anyone can receive an equal education is one of the wonderful points of the Japanese education system. Although it has various problems, we could probably say that, as a whole, Japan’s educational level is high.
     tags:
       - tobira09
   - id: ddb9e93b-9f3f-4d64-b3ae-974339d9715b
@@ -7098,14 +7015,9 @@ clips:
     end: 09:37.56
     fields:
       transcription: |-
-        教育の問題はどの国でも
-        最も難しい問題のひとつで
-        なかなかいい 解決方法は
-        見つからないようです
-        これを機会に
-        皆さんも自分の国の教育を見直して
-        良い点と問題点を挙げ
-        できればどうやって解決したらいいかも 考えてみてはどうでしょうか
+        教育の問題はどの国でも最も難しい問題のひとつで、なかなかいい解決方法は見つからないようです。
+        これを機会に、皆さんも自分の国の教育を見直して、良い点と問題点を挙げ、できればどうやって解決したらいいかも考えてみてはどうでしょうか。
+      meaning: Problems with education are some of the most difficult problems in any country, and it seems that it is not easy to find a good way to solve them. Taking this opportunity, why don’t you try re-examining your country’s education, listing its good points and problems, and, if possible, thinking about how you should resolve the problems.
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: d2e6e699-3f40-43a1-b44d-bf1ba9d08fbc
@@ -10712,3 +10624,12 @@ name: mimi kara bunpou N2　－ 耳から覚える 文法 N2.mp4
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 44:14.041
 id: 1c936978-9262-4577-a76e-0ac1cf50e788
+subtitles:
+  - id: 392cbfe5-6e85-4176-8cba-57f0a2809cb4
+    type: External
+    chunksMetadata:
+      count: 464
+      endCue: 132185.55
+    name: mimi kara bunpou N2　－ 耳から覚える 文法 N2.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 392cbfe5-6e85-4176-8cba-57f0a2809cb4

@@ -3,7 +3,7 @@
 name: Basic Japanese
 noteType: Transliteration
 createdAt: 2020-02-04T17:14:00Z
-timestamp: 2020-02-05T17:14:00Z
+timestamp: 2020-11-29T12:52:40Z
 id: 396cb23e-87fa-491c-a0f2-c7fc5022d80a
 ---
 name: Japanese Listening (N5-N4-N3) - Shadowing lets speak Japanese beginner to intermediate (N5 N4 N3).mp4
@@ -856,7 +856,7 @@ clips:
         鈴木さんはどんな人ですか？
         親切な人ですよ。
       pronunciation: |-
-        Suzuki-san-wa dónna hito-desu ka?
+        Suzuki-san-wa dónna hitó-desu ka?
         Shínsetsu-na hitó-desu yo.
       meaning: |-
         What kind of person is Suzuki?
@@ -1135,7 +1135,7 @@ clips:
         田中さんのうちはどこですか？
         新宿です。学校に近いです。
       pronunciation: |-
-        Tanaka-san-no uchí-wa dóko-desu ka?
+        Tanaka-san-no uchi-wa dóko-desu ka?
         Shinjuku-désu. Gakkou-ni chikái-desu.
       meaning: |-
         Where is your house, Tanaka-san? (polite)
@@ -1447,10 +1447,10 @@ clips:
         終電？
         ええ。電車は明日の朝まで来ません。
       pronunciation: |-
-        Ano, sumimasén. Tsugí-no densha-wa nán-ji-ni kimásu ka?
+        Ano, sumimasén. Tsugí-nó densha-wa nán-ji-ni kimásu ka?
         A, íma-no densha-ga shuuden-désu.
         Shuuden?
-        Ée. Densha-wa ashitá-no ása-made kimasén.
+        Ée. Densha-wa ashitá-nó ása-made kimasén.
       meaning: |-
         Um, excuse me. What time does the next train come?
         Ah, the train [here] now is the last train of the day.
@@ -1472,7 +1472,7 @@ clips:
       pronunciation: |-
         Tanaka-san-no tanjóubi-wa ítsu-desu ka?
         Juu-gatsú juu-gó-nichi-desu.
-        E! Watashi-wa juu-shichí-nichi-desu. Chikái-desu ne.
+        E! Watashi-wa juu-shichi-níchi-desu. Chikái-desu ne.
       meaning: |-
         When is Tanaka-san's birthday? (polite)
         October 10th. (polite)
@@ -1930,7 +1930,7 @@ clips:
       transcription: ねー、一緒にお昼食べない？
       pronunciation: |-
         Née, issho-ni o-híru tabénai?
-        A, chótto mátte. Taberu máe-ni tomodachi-ni denwa shitai-n-da.
+        A, chótto mátte. Taberu máe-ni tomodachi-ni denwa shitái-n-da.
       meaning: |-
         Hey, want to eat lunch together? (casual)
         Oh, wait just a second. I'd like to call a friend before we eat. (casual)
@@ -2078,7 +2078,7 @@ clips:
         う〜ん、今日はおなかの調子があまり良くないんです。
       pronunciation: |-
         Are? Anmari tabénai nee.
-        Ún. Kyóu-wa onaka-no chóushi-ga amari yóku nái-n-desu.
+        Ún. Kyóu-wa onaka-no choushi-ga amari yóku nái-n-desu.
       meaning: |-
         Huh? You aren't eating much, are you? (casual)
         Yeah. My stomach isn't in very good shape. (casual)
@@ -2282,7 +2282,7 @@ clips:
         ここは勉強するところですから、寝る人は別の部屋へ行ってください。
         わかりました…。
       pronunciation: |-
-        Koko-wa benkyou suru tokoro-désu-kara, neru hitó-wa betsu-no heyá-e itte-kudasái.
+        Koko-wa benkyou suru tokoró-desu-kara, neru hitó-wa betsu-no heyá-e itte-kudasái.
         Wakarimáshita.
       meaning: |-
         As this is a place to study, will people sleeping please go to another room? (polite)
@@ -2328,8 +2328,8 @@ clips:
         いつも日曜日、何をしているの？
         うーん、テレビ見たり漫画読んだり…。ゴロゴロしてるよ。
       pronunciation: |-
-        Ítsumo nichiyóubi, náni-o shite iru no?
-        Uun, térebi mítari, manga yóndari... Górogoro shite ru yo.
+        Ítsumo nichiyóubi, náni-o shite irú-no?
+        Uun, térebi mítari, manga yóndari... Górogoro shite rú-yo.
       meaning: |-
         What do you do every Sunday? (casual)
         Hm, watch  TV, read comics... I just relax, really. (casual)
@@ -2671,7 +2671,7 @@ clips:
         来週の土曜、映画に行くけど、一緒に行きませんか？
         あ、土曜日はちょっと…。
       pronunciation: |-
-        Raishuu-no doyóu, eiga-ni iku kedo, issho-ni ikimasén ka?
+        Raishuu-no doyóu, eiga-ni ikú-kedo, issho-ni ikimasén ka?
         A, doyóubi-wa chótto.
       meaning: |-
         I'm going to a movie next Friday; want to come with? (polite)
@@ -2703,8 +2703,8 @@ clips:
         ふふ。昨日ねー、愛子さんとデートしたんだ。
         え〜、すごい！で、楽しかった？どこ行って何したの？
       pronunciation: |-
-        Fufu. Kinou née, Áiko-san-to déeto shita-n-da.
-        Ee, sugói! Dé, tanóshikatta? Dóko ítte náni shita no?
+        Fufu. Kinou née, Áiko-san-to déeto shitá-n-da.
+        Ee, sugói! Dé, tanóshikatta? Dóko ítte náni shitá-no?
       meaning: |-
         Hehe. You know, yesterday, I went on a date with Aiko-san. (casual)
         Whoa, amazing! So, did you have fun? Where did you go, and what did you do? (casual)
@@ -2752,7 +2752,7 @@ clips:
         うん、私のと同じだけど。
       pronunciation: |-
         Are? Kono tokei, átte ru?
-        Ún, watashi-nó-to onaji-dá kedo.
+        Ún, watashi-nó-to onaji-dá-kedo.
       meaning: |-
         Huh? Is this watch right?
         Yeah, it's the same as mine.
@@ -2769,7 +2769,7 @@ clips:
         レポート、これでいいですか？
         はい、いいようですね。がんばりましたね。
       pronunciation: |-
-        Repóoto, kore-dé íi-desu ka?
+        Repóoto, kore-de íi-desu ka?
         Íi yóu-desu ne. Ganbarimáshita ne.
       meaning: |-
         Is this report OK?
@@ -2789,8 +2789,8 @@ clips:
         明日の飲み会、来られる？
         うん、ちょっと遅れて行くよ。
       pronunciation: |-
-        Ashita-no nomikai, koraréru?
-        Ún, chótto okurete iku yo.
+        Ashitá-nó nomikai, koraréru?
+        Ún, chótto okurete ikú-yo.
       meaning: |-
         Can you come to the drinking party tomorrow? (casual)
         Yeah, I'll be going a bit late. (casual)
@@ -2807,7 +2807,7 @@ clips:
         駅に着いたら、電話して。迎えに行くよ。
         ありがとう。よろしく！
       pronunciation: |-
-        Éki-ni tsúitara, denwa shite. Mukae-ni iku yo.
+        Éki-ni tsúitara, denwa shite. Mukae-ni ikú-yo.
         Arígatou. Yoroshiku!
       meaning: |-
         When you've arrived at the station, give [me] a phone call. I'll go pick you up. (casual)
@@ -2845,7 +2845,7 @@ clips:
         うん、今日はまだ終われないんだ。
       pronunciation: |-
         Máda shigoto?
-        Ún, kyóu-wa máda owarenai-n-dá.
+        Ún, kyóu-wa máda owarenái-n-da.
       meaning: |-
         Work still? (casual)
         Yeah, I can't finish yet today. (casual)
@@ -2913,7 +2913,7 @@ clips:
         貸してあげるよ。
       pronunciation: |-
         A, saifu wasurechátta.
-        Kashite-ageru yo.
+        Kashite-agerú-yo.
       meaning: |-
         Oh, I forgot my wallet. (casual)
         [I'll] lend you [some money]. (casual)
@@ -3068,9 +3068,11 @@ clips:
     start: 23:08.31
     end: 23:14.35
     fields:
-      transcription: 水曜日にパーティーをしようと思っています。
+      transcription: |-
+        水曜日にパーティーをしようと思っています。
+        はい！他には誰が行きますか？
       pronunciation: |-
-        Suiyóubi-ni páatii-o shiyóu to omótte imasu. Kíte-kudasai ne.
+        Suiyóubi-ni páatii-o shiyóu to omótte imasu. Kíte kudasai ne.
         Hai! Hoka-ní-wa dáre-ga ikimásu ka?
       meaning: |-
         I'm thinking of throwing a party on Wednesday. Please come. (polite)
@@ -3512,11 +3514,12 @@ clips:
     start: 27:52.95
     end: 28:00.27
     fields:
-      transcription: これ何？シャドーイング？これなんのためにしてるの？
+      transcription: |-
+        これ何？シャドーイング？これなんのためにしてるの？
+        うん、すらすら話せるようになるんだって。
       pronunciation: |-
         Kore náni? Shadooingu? Kore nán-no tamé-ni shite rú-no?
         Ún, súrasura hanaséru yóu-ni náru-n-da tte.
-        うん、すらすら話せるようになるんだって。
       meaning: |-
         What's this? Shadowing? What are you doing this for? (casual)
         Yeah, they say it's to get you speaking smoothly.
@@ -3576,7 +3579,7 @@ clips:
         あ、ごめん。今シャワー浴びていたところなんだ。後で電話していい？
       pronunciation: |-
         Móshimoshi, Yamada-san? Íma, hanashí shite daijóubu?
-        A, gomen. Íma sháwaa abite ita tokoro-ná-n-da. Áto-de denwa shite íi?
+        A, gomen. Íma sháwaa abite ita tokoró-na-n-da. Áto-de denwa shite íi?
       meaning: |-
         Hello, Yamada-san? Is it a good time for a chat? (casual)
         Oh, sorry. I was just in the shower. Is it alright if I call you later? (casual)
@@ -3606,7 +3609,7 @@ clips:
         あれ？ビデオデッキに変なビデオが入っていますね。
         本当だ。だれが入れたんでしょうね。
       pronunciation: |-
-        Are? Bideodékki-ni hén-na bideo-ga háitte imásu ne.
+        Are? Bideodékki-ni hén-na bídeo-ga háitte imásu ne.
         Hontou-dá. Dáre-ga iretá-n-deshou ne.
       meaning: |-
         Huh? There's a strange video in the VCR. (polite)
@@ -3621,7 +3624,8 @@ clips:
         ねー、もっときれいに書いてください。これなんて書いてあるんですか？
         あー、何でしょう…。私も読めません…。
       pronunciation: |-
-        Ne, mótto kírei-ni káite-kudasai. Kore nán-te káite-aru-n-desu ka?
+        Ne, mótto kírei-ni káite-kudasai. Kore nán-te káite 
+        áru-n-desu ka?
         A, nán-deshou. Watashi-mo yomemasén.
       meaning: |-
         Hey, please write more neatly. What's this written here? (polite)
@@ -3636,8 +3640,8 @@ clips:
         ねー、飛行機の予約してある？
         あ、ごめんなさい。今、しておきます。
       pronunciation: |-
-        Ne, hikóuki-no yoyaku shite-áru?
-        A, gomen nasai. Íma, shite-okimásu.
+        Ne, hikóuki-no yoyaku shite áru?
+        A, gomen nasái. Íma, shite-okimásu.
       meaning: |-
         Hey, are those plane reservations all made? (casual)
         Oh, I'm sorry. I'll get it done now. (polite)
@@ -3666,7 +3670,7 @@ clips:
         今度、ご飯でもいかがですか？
         あ、ぜひ。
       pronunciation: |-
-        Kóndo, góhan-de-mo ikága-desu ka?
+        Kóndo, góhan-demo ikága-desu ka?
         A, zéhi.
       meaning: |-
         How about a meal next time? (polite)
@@ -3682,7 +3686,7 @@ clips:
         はい。飲みすぎないようにします。
       pronunciation: |-
         Kenkou-no tamé-ni nánika shite ru?
-        Hai. Nomi-sugínai yóu-ni shite-imásu.
+        Hai. Nomi-sugínai yóu-ni shite imásu.
       meaning: |-
         Are you doing anything for your health? (casual)
         Yes. I'm making sure not to drink too much. (polite)
@@ -3697,7 +3701,7 @@ clips:
         ええ、初めて外国で１人暮らしですから。
       pronunciation: |-
         Nihón-ni kúru tokí, kinchou shimáshita ka?
-        Ée, hajímete gaikoku-de hitori-gurashi-desu-kara.
+        Ée, hajímete gaikoku-de hitori-gúrashi-desu-kara.
       meaning: |-
         When you were coming to Japan, were you nervous? (polite)
         Yes, it was the first time I was living abroad on my own. (polite)
@@ -3711,7 +3715,7 @@ clips:
         メールが送れないんだけど、だれかわかる人いない？
         よくわかんないんだよね。山田さんが入ればわかるけど。
       pronunciation: |-
-        Meeru-ga okurenaí-n-dá kedo, dáreka wakáru hitó inai?
+        Meeru-ga okurenaí-n-da kedo, dáreka wakáru hitó inai?
         Yóku wakánnai-n-da yo ne. Yamada-san-ga iréba wakáru kedo.
       meaning: |-
         I can't send an e-mail; is there anyone around who knows how? (casual)
@@ -3726,7 +3730,7 @@ clips:
         昨日、帰ったら家族から手紙が来ていたんだ。お金送ってくれるって。
         へー、よかったね。
       pronunciation: |-
-        Kinou, káettara kázoku-kara tegami-ga kíte-ita-n-da. O-kane okutte kurerú-tte.
+        Kinou, káettara kázoku-kara tegami-ga kíte itá-n-da. O-kane okutte kurerú-tte.
         Hee, yókatta ne.
       meaning: |-
         Yesterday, when I got home a letter from my family had arrived. They said they're going to send me some money. (casual)
@@ -3741,7 +3745,7 @@ clips:
         田中さん、明日までに書類作っておいてくださいね。
         はい。わかりました。
       pronunciation: |-
-        Tanaka-san, ashitá-made-ni shorui tsukútte-oite kudasai ne.
+        Tanaka-san, ashitá-made-ni shorui tsukútte-oite-kudasai ne.
         Hai. Wakarimáshita.
       meaning: |-
         Tanaka-san, will you please get the document prepared by tomorrow? (polite)
@@ -3802,7 +3806,7 @@ clips:
         辞書のことなら、パクさんに聞いたら？この前新しいの買ってたよ。
       pronunciation: |-
         Jísho-o sagashite irú-n-da kedo, náni-ka osusume shitte ru?
-        Jísho no kotó-nara, Páku-san-ni kiitára? Kono máe atarashíi-no katte-ta yo.
+        Jísho-no kotó-nara, Páku-san-ni kiitára? Kono máe atarashíi-no katte-tá-yo.
       meaning: |-
         I'm looking for a dictionary; do you know any recommended ones? (casual)
         If it's about a dictionary, how about you ask Pak-san? He bought a new one earlier, you know. (casual)
@@ -3812,7 +3816,9 @@ clips:
     start: 31:09.92
     end: 31:15.26
     fields:
-      transcription: ちょっと会わないうちにずいぶん日本語が上手になったね。
+      transcription: |-
+        ちょっと会わないうちにずいぶん日本語が上手になったね。
+        またまた。
       pronunciation: |-
         Chótto awánai uchi-ni zúibun nihongo-ga joozú-ni nátta ne.
         Matamata.
@@ -3846,7 +3852,7 @@ clips:
         ううん。漢字を調べてるの。
       pronunciation: |-
         Keitai-de meeru káite ru no?
-        Úun, kanji-o shirabete ru no.
+        Úun, kanji-o shirábete ru no.
       meaning: |-
         Are you writing an e-mail on your phone? (casual)
         Nope, I'm checking a kanji. (casual)
@@ -3918,7 +3924,7 @@ clips:
     fields:
       transcription: |-
         韓国料理を食べるなら、絶対新大久保だよね。
-        そうそう。新大久保って韓国みたいだもんね。
+        そうそう。新大久保って韓国みたいだもんね。本場の味だよ！
       pronunciation: |-
         Kankoku-ryóuri-o tabéru-nara, zettai Shin-óokubo-da yo ne.
         Sóu sóu. Shin-óokubo-tte kánkoku-mitai-da-mon-ne. Honba-no aji-dá yo!
@@ -3950,7 +3956,7 @@ clips:
         今晩、何食べたい？
         う〜ん。カレーは？
       pronunciation: |-
-        Kónban, náni tabétai?
+        Kónban, náni tabetái?
         Un. Karee-wa?
       meaning: |-
         What do you want to eat tonight? (casual)
@@ -3981,7 +3987,7 @@ clips:
         本当。だから今のうちにやりたいことやっておかなくちゃね。
       pronunciation: |-
         Áa, áto hantoshí-de sotsugyou. Shi-gatsú-kara shakáijin-da yo.
-        Hontou. Dákara íma-no uchi-ni yaritai kotó yatte okánakucha ne.
+        Hontou. Dákara íma-no uchi-ni yaritai-kotó yatte okánakucha ne.
       meaning: |-
         Aw, a half year and then we'll graduate. We'll be working adults starting April. (casual)
         It's true. So while we still can, we've got to get the things we want to do done! (casual)
@@ -3996,7 +4002,7 @@ clips:
         えっ、困るな。もっと早く行ってくれないと…。
       pronunciation: |-
         Ano, sumimasén. Ashitá kuni-ni káeru-no-de, baito is-shúu-kan yasumásete itadakemasén-ka?
-        E', komáru na. Mótto háyaku itte kurenai to...
+        E', komarú na. Mótto háyaku itte kurenai to...
       meaning: |-
         Um, excuse me. I'm going to my home country tomorrow; would you let me take a week off? (humble)
         Oh, this is tricky. If only you would tell me earlier... (casual)
@@ -4055,7 +4061,7 @@ clips:
         明日の飲み会、行こうかな、やめようかな、どうしようかな。
         もう、行くって行ってあるんでしょ？じゃー、行かなきゃ。
       pronunciation: |-
-        Ashita-no nomikai, ikóu ka na, yameyóu ka na, dóu shiyóu ka na.
+        Ashita-nó nomikai, ikóu ka na, yameyóu ka na, dóu shiyóu ka na.
         Móu ikú-tte itte áru-n-desho? Jáa, ikanákya.
       meaning: |-
         Should I go to the drinking party tomorrow, or should I cancel? I don't know what to do. (casual)
@@ -4086,7 +4092,7 @@ clips:
         ブランドのこと、知ってそうで、いがいと知らなんだね。
       pronunciation: |-
         Gútchi-tte náni?
-        Burando-no kotó-o shitte-sóu-de, igai-to shiranái-n-da ne.
+        Burando-no-kóto-o shitte-sóu-de, igai-to shiranái-n-da ne.
       meaning: |-
         What's Gucci? (casual)
         You seem to know about brands; what a surprise that you don't know. (casual)
@@ -4206,7 +4212,7 @@ clips:
         もしもし、俺だけど。今何してるの？
         ん？今テレビ見てたとこ。
       pronunciation: |-
-        Móshimoshi, ore-dá kedo, íma náni shite ru no?
+        Móshimoshi, ore-dá-kedo, íma náni shite ru no?
         N? Íma térebi míte-ta toko.
       meaning: |-
         Hello, it's me; what are you doing right now? (casual)
@@ -4236,7 +4242,7 @@ clips:
         どうしたの？勉強に集中できてないようだけど。
         はい、木になることがあって…。
       pronunciation: |-
-        Dóu shita no? Benkyou-ni shuuchuu dékite nai yóu-da kedo.
+        Dóu shita no? Benkyou-ni shuuchuu dékite nái yóu-da kedo.
         Hai, ki-ni náru kotó-ga átte...
       meaning: |-
         What's the matter? You look like you can't concentrate on your studies. (casual)
@@ -4252,7 +4258,7 @@ clips:
         もう、ひどいよ。一時間も待たせて。
       pronunciation: |-
         Gomen, gomen. Mátta?
-        Móu, hidói yo. Ichi-jí-kan-mo matásete.
+        Móu, hidói-yo. Ichi-jí-kan-mo matásete.
       meaning: |-
         Sorry, sorry. Were you waiting long? (casual)
         Come on, you're terrible, making me wait a whole hour. (casual)
@@ -4282,7 +4288,7 @@ clips:
         う〜ん、カレーは？
         カレー？マンネリじゃない？
       pronunciation: |-
-        Kónban, náni tabetai?
+        Kónban, náni tabetái?
         Uun. Karee-wa?
         Karee? Manneri-ja nái?
       meaning: |-
@@ -4318,7 +4324,7 @@ clips:
         あ、ごめんなさい。今します。
         うん、ちゃんとしといてね。
       pronunciation: |-
-        Ne, ashita-no júnbi shite áru?
+        Ne, ashita-nó júnbi shite áru?
         A, gomen nasai. Íma shimásu.
         Ún, chanto shitóite ne.
       meaning: |-
@@ -4338,7 +4344,7 @@ clips:
         えーとね。バクテリアを殺す薬です。
       pronunciation: |-
         Ún, kaze-désu ne. Kouseibússhitsu-o dáshite okimásu.
-        E, kouseibússhitsu-to íu-no-wa nán-deshou?
+        E, kouseibússhitsu-to iú-no-wa nán-deshou?
         Eeto ne. Bakuteria-o korosu kusuri-désu.
       meaning: |-
         Yup, it's a cold. I'll prescribe some antibiotics. (polite)
@@ -4410,7 +4416,7 @@ clips:
         木村さんってどんな人？
         うん、明るくて社交的な人だよ。
       pronunciation: |-
-        Kimura-san-tte dónna hitó?
+        Kimura-san-tte dónna hito?
         Ún, akarúkute shakouteki-na hitó-da yo.
       meaning: |-
         What kind of person is Kimura-san? (casual)
@@ -4441,7 +4447,7 @@ clips:
         そうですか。
       pronunciation: |-
         Sumimasén. Shukudai-o wasurete shimaimáshita.
-        Sóu desu ka!
+        Sóu-desu ka!
       meaning: |-
         I'm sorry, I forgot my homework. (polite)
         I see. (polite)
@@ -4592,7 +4598,7 @@ clips:
         うん、絶対これ買いだよね。
       pronunciation: |-
         Wa, kono pasokon, nana-man-en-dá-tte. Yasúi yo ne.
-        Ún, zettai kore kai-dá yo ne.
+        Ún, zettai kore kai-dá-yo ne.
       meaning: |-
         Whoa, it says this computer is 70,000 yen. That's so cheap, isn't it? (casual)
         Yeah, I'm definitely buying this. (casual)
@@ -4712,7 +4718,7 @@ clips:
         このセーター、どうかな？この色いいよね？
         うん、その色似合うね。
       pronunciation: |-
-        Kono séetaa, dóu ka na? Kono iró íi yo ne?
+        Kono séetaa, dóu ka na? Kono iró íi-yo ne?
         Ún, sono iró ni-áu ne.
       meaning: |-
         How's this sweater? This is a nice color, isn't it? (casual)
@@ -4728,7 +4734,7 @@ clips:
         遠くを見た方がいいよ。緑を見たり…。 
       pronunciation: |-
         Aa, mé-ga tsukáreta.
-        Tookú-o míta-hou-ga íi yo. Mídori-o mítari...
+        Tookú-o míta hóu-ga íi yo. Mídori-o mítari...
       meaning: |-
         Aw, I'm tired. (casual)
         You'd better look into the distance. And see some green... (casual)
@@ -4743,8 +4749,8 @@ clips:
         なんだか、北村さん、最近怒りっぽくない？
         うん、ストレスたまってんだよ。
       pronunciation: |-
-        Nándaka, Kitamura-san, saikin okorippóku nai?
-        Ún, sutóresu tamatte n-dá yo.
+        Nándaka, Kitamura-san, saikin okorippóku nái?
+        Ún, sutóresu tamatté-n-da-yo.
       meaning: |-
         Kitamura-san has been kind of irritable lately, no? (casual)
         Yeah, he's been really stressed. (casual)
@@ -4888,7 +4894,7 @@ clips:
         あ、よかった。気にしないで。
       pronunciation: |-
         A, dóumo sumimasén. Tasukarimáshita.
-        A, yokátta. Ki-ni shinái-de.
+        A, yókatta. Ki-ni shinái-de.
       meaning: |-
         Oh thank you so much. It really helped. (polite)
         Oh, I'm glad. Don't worry about it. (casual)
@@ -5010,7 +5016,7 @@ clips:
         うーん、大したことなかった。
       pronunciation: |-
         Ano eiga, dóu-datta?
-        Un, táishita kotó nákatta.
+        Un, táishita-koto nákatta.
       meaning: |-
         How was that movie?
         Eh, it wasn't any big deal.
@@ -5024,7 +5030,7 @@ clips:
         昨日のテスト、大したことなかったね。
         え〜、難しかったよ。
       pronunciation: |-
-        Kinou-no tésuto, táishita kotó nákatta ne.
+        Kinou-no tésuto, táishita-koto nákatta ne.
         E, muzukáshikatta yo.
       meaning: |-
         The test yesterday wasn't so bad, was it? (casual)
@@ -5056,7 +5062,7 @@ clips:
         ええ、こっちの方が機能が良くて、料金も安いから。
       pronunciation: |-
         Keitai-dénwa, kaetá-no?
-        Ée, kotchi-no hóu-ga kínou-ga yókute, ryóukin-mo yasúi kara.
+        Ée, kotchi-no hóu-ga kínou-ga yókute, ryóukin-mo yasúi-kara.
       meaning: |-
         Did you change your phone? (casual)
         Yeah, this one has better features, and the fares are cheaper. (casual)
@@ -5084,7 +5090,7 @@ clips:
       transcription: ＤＶＤを買いたいんだけど…。
       pronunciation: |-
         Diiviidíi-o kaitaí-n-da kedo...
-        Jáa, Nishi-shínjuku-no kamera-ya-ni itte mítara? Akihábara-yori yasúi yo.
+        Jáa, Nishi-shínjuku-no kamera-ya-ni itte mítara? Akihábara-yori yasúi-yo.
       meaning: |-
         I'd like to buy a DVD... (casual)
         Why not go to a camera shop in Nishi-Shinjuku, then? It's cheaper than Akihabara. (casual)
@@ -5098,8 +5104,8 @@ clips:
         そのカメラ、ずいぶん古いね。
         そうなんだ。丈夫で長持ちだよ。
       pronunciation: |-
-        Sono kámera, zúibun furúi ne.
-        Sóu-na-n-da. Joubu-de naga-móchi-da yo.
+        Sono kámera, zúibun furúi-ne.
+        Sóu-na-n-da. Joubu-de naga-móchi-da-yo.
       meaning: |-
         That camera is pretty old. (casual)
         It is. It's pretty sturdy and long-lasting, you know. (casual)
@@ -5143,7 +5149,7 @@ clips:
         あなたの国ではどうですか？
         うーん、実は、しばらく帰ってないので、よくわからないんです。
       pronunciation: |-
-        Anáta-no kuni-dé-wa, dóu-desu ka?
+        Anáta-no kuní-de-wa, dóu-desu ka?
         Ún, jitsú-wa, shibáraku káette nái-no-de, yóku wakaránai-n-desu.
       meaning: |-
         How is it in your country? (polite)
@@ -5193,7 +5199,7 @@ clips:
         あ、本当〜。あいつにすれば、まあ、よくやったんじゃん？
       pronunciation: |-
         Kono máe-no taikai, Tákuya, Yón-i-da-tte.
-        A, hontou. Aitsu-ni suréba, máa, yoku yattá-n-jan?
+        A, hontou. Aitsu-ni suréba, máa, yóku yattá-n-jan?
       meaning: |-
         I heard Takuya was 4th place in the tournament before. (casual)
         Oh, really? Well, that's quite good for him, isn't it!
@@ -5223,7 +5229,7 @@ clips:
         お、そうだろ〜。それ、おばあちゃんが送ってくれたんだよ。
       pronunciation: |-
         Kono tsukemono, ikeru ne.
-        O, sóu daró. Sore, o-báa-chan-ga okutte kuretá-n-da yo.
+        O, sóu-daro. Sore, o-báa-chan-ga okutte kuretá-n-da yo.
       meaning: |-
         These pickles are really tasty. (casual)
         Oh, right? My grandma sent those to me. (casual)
@@ -5284,7 +5290,7 @@ clips:
         あ、僕まだ１６なんです。
       pronunciation: |-
         Kuruma-no ménkyo-to-ka mótte nái-no?
-        A, bóku máda juu-rokú-ná-n-desu.
+        A, bóku máda juu-rokú-na-n-desu.
       meaning: |-
         Don't you have a driver's license or anything? (casual)
         Oh, I'm still 16. (polite)
@@ -5298,7 +5304,7 @@ clips:
         あ〜あ、どうしてあんなことしちゃったんだろう。
         まあ、そう言うなって。誰にしろ、そういう瞬間あるんだから。
       pronunciation: |-
-        A, dóu shite anna kóto shichattá-n-darou.
+        A, dóu shite anna kotó shichattá-n-darou.
         Máa, sóu iúna-tte. Dáre-nishiro, sou-iu shunkan áru-n-da kara.
       meaning: |-
         Aw, why did I go and do that? (casual)
@@ -5311,7 +5317,7 @@ clips:
     fields:
       transcription: |-
         田中さんの結婚パーティー、いつでしたっけ？
-        えーと、確か１０日
+        えーと、確か１０日の午後三時からです。
       pronunciation: |-
         Tanaka-san-no kekkon-páatii, ítsu-deshita kke?
         Eeto, táshika tooka-no gógo sán-ji-kara-desu.
@@ -5324,7 +5330,9 @@ clips:
     start: 47:12.03
     end: 47:16.0
     fields:
-      transcription: 当日、どんな服を
+      transcription: |-
+        当日、どんな服を来て行きますか。
+        平伏でいいみたいですよ。
       pronunciation: |-
         Toujitsu, dónna fukú-wo kíte ikimásu ka?
         Heifuku-de íi-mitai-desu yo.
@@ -5342,7 +5350,7 @@ clips:
         色々考えたけど、お金を包むことにしました。
       pronunciation: |-
         Purézento-wa dóu shimásu ka?
-        Iroiro kangáeta kedo, o-kane-o tsutsúmu-koto-ni shimáshita.
+        Iroiro kangáeta-kedo, o-kane-o tsutsúmu-koto-ni shimáshita.
       meaning: |-
         What are you doing for a present? (polite)
         I thought of a few things, but I decided to give money. (polite)
@@ -5357,8 +5365,8 @@ clips:
         結婚式の時、新郎新婦になんて言えばいいんですか？
         そうですね、「ご結婚おめでとうございます。お幸せに！」が一般的ですね。
       pronunciation: |-
-        Kekkón-shiki-no tóki, shinrou-shínpu-ni nán-te iéba íi-n-desu ka?
-        Sóu-desu ne, "Go-kekkon omedetou gozaimásu. O-shiawase-ní!"-ga ippanteki-désu ne.
+        Kekkón-shiki-no-toki, shinrou-shínpu-ni nán-te iéba íi-n-desu ka?
+        Sóu-desu ne, "Go-kekkon omedetou gozaimásu. O-shiawase-ni!"-ga ippanteki-désu ne.
       meaning: |-
         At the wedding ceremony, what should I say to the newlyweds? (polite)
         Let's see, "Congratulations on your marriage. [I wish you a] happy [life together]!"
@@ -5417,7 +5425,7 @@ clips:
         バケツの中の水、捨ててください。
         はーい。じゃー、庭に撒いておきます。
       pronunciation: |-
-        Baketsu-no náka-no mizú, sutete-kudasái.
+        Baketsu-no náka-no mizú, sutete kudasái.
         Hai. Ja, niwa-ni máite okimásu.
       meaning: |-
         Please throw away the water in this bucket. (polite)
@@ -5447,8 +5455,8 @@ clips:
         コンサートのチケット、電話予約して置いたから。
         じゃー、すぐにお金振り込まなくちゃね。
       pronunciation: |-
-        Kónsaato-no chikétto, denwa-yóyaku shite óita kara.
-        Já, súgu-ni o-kane furikománakucha ne.
+        Kónsaato-no chikétto, denwa-yóyaku shite óita-kara.
+        Já, súgu-ni o-kane furikománakucha-ne.
       meaning: |-
         I reserved the concert tickets over the phone. (casual)
         I'll have to transfer the money right away, then. (casual)
@@ -5462,8 +5470,8 @@ clips:
         明日、時間通りに来てね。
         大丈夫、１０分前に来ますから。
       pronunciation: |-
-        Ashitá, jikan-dóori-ni kíte ne.
-        Daijóubu, jup-pun-máe-ni kimásu kara.
+        Ashitá, jikan-dóori-ni kíte-ne.
+        Daijóubu, jup-pun-máe-ni kimásu-kara.
       meaning: |-
         Come on time tomorrow, okay? (casual)
         It's alright, I'll come 10 minutes early. (polite)
@@ -5477,8 +5485,8 @@ clips:
         どこで乗り換えるんでしたっけ？
         新宿が便利ですよ。
       pronunciation: |-
-        Dóko-de nori-káeru-n-deshita kke?
-        Shinjuku-ga bénri-desu yo.
+        Dóko-de nori-káeru-n-deshita-kke?
+        Shinjuku-ga bénri-desu-yo.
       meaning: |-
         Where did you have to transfer again? (polite)
         Shinjuku is the most convenient. (polite)
@@ -5493,7 +5501,7 @@ clips:
         ぎりぎりかな。急がなくちゃ。
       pronunciation: |-
         Shuuden-ni ma-ni áu?
-        Gírigiri ka na. Isogánakucha.
+        Gírigiri-ka na. Isogánakucha.
       meaning: |-
         Will you make it to the last train? (casual)
         It might be really close. I'll have to hurry. (casual)
@@ -5522,8 +5530,8 @@ clips:
         この電車は渋谷に行きますか？
         ええ。でも、銀座線の方が早いですよ。
       pronunciation: |-
-        Kono densha-wa Shibuya-ni ikimásu ka?
-        Ée. Démo, Ginza-sen-no hóu-ga hayái-desu yo.
+        Kono densha-wa Shibuya-ni ikimásu-ka?
+        Ée. Démo, Ginza-sen-no hóu-ga hayái-desu-yo.
       meaning: |-
         Does this train go to Shibuya station? (polite)
         Yes. The Ginza line is faster, though. (polite)
@@ -5538,7 +5546,7 @@ clips:
         ６ですよ。
       pronunciation: |-
         Júu-go hiku kyúu-wa íkutsu?
-        Rokú-desu yo.
+        Rokú-desu-yo.
       meaning: |-
         50 minus 9 is how much? (casual)
         It's 6. (polite)
@@ -5583,7 +5591,7 @@ clips:
         とんでもないです。
       pronunciation: |-
         Wázawaza arígatou gozaimáshita.
-        Tondemonai-désu.
+        Tondemonái-desu.
       meaning: |-
         Thanks for going through the trouble. (polite)
         Not at all, [don't mention it]. (polite)
@@ -5649,7 +5657,7 @@ clips:
         あ、はい。次の休み時間までに調べておきます。
         じゃ、よろしくお願いします。
       pronunciation: |-
-        Sumimasén. Shusseki-rítsu-o shirábete itadaki-tái-n-desu ga.
+        Sumimasén. Shusseki-rítsu-o shirábete itadakitái-n-desu ga.
         A, hai. Tsugí-no yasumi-jíkan-made-ni shirábete okimasu.
         Ja, yoroshiku o-negai shimásu.
       meaning: |-
@@ -5667,7 +5675,7 @@ clips:
         このあいだの旅行の写真。え、どこ行ったの？
       pronunciation: |-
         Kobayashi-san, náni míte rú-no?
-        Kono aida-no ryokóu-no shashin.
+        Kono aida-no ryokou-no shashin.
         E, dóko ittá-no?
       meaning: |-
         Kobayashi-san, what are you looking at? (casual)
@@ -5684,7 +5692,7 @@ clips:
         あ、はい。どうぞ。
         ありがとうございます。
       pronunciation: |-
-        Sumimasén, kópii-o sasete itadaité-mo yoroshíi-desu ka?
+        Sumimasén, kópii-o sasete itadaité-mo yoroshíi-desu-ka?
         A, hai. Dóuzo.
         Arígatou gozaimásu.
       meaning: |-
@@ -5719,9 +5727,9 @@ clips:
         卒業したらどうするんですか？
         外資系の会社に就職することが決まったんです。
       pronunciation: |-
-        Sotsugyou shitára dóu surú-n-desu ka?
+        Sotsugyou shitára dóu surú-n-desu-ka?
         Gaishikei-no kaisha-ni shuushoku suru-kóto-ga kimattá-n-desu.
-        A, sore-wa yókatta-desu ne.
+        A, sore-wa yókatta-desu-ne.
       meaning: |-
         What will you do after you graduate? (polite)
         I've decided to look for a job at a foreign company. (polite)
@@ -5740,7 +5748,7 @@ clips:
       pronunciation: |-
         Sou iéba, kinou Tanaka-san-ni átta yo.
         He, génki-datta?
-        Ún. Zenzen kawaranai yo.
+        Ún. Zenzen kawaranai-yo.
       meaning: |-
         Speaking of which, I saw Tanaka-san yesterday.
         Really! Was he doing all right?
@@ -5757,9 +5765,9 @@ clips:
         うん。もうちょっと待ってて。
         じゃ、入れとくね。
       pronunciation: |-
-        Kirí-ga yókattara kotchi-de koohíi nománai?
+        Kirí-ga yókattara kotchí-de koohíi nománai?
         Ún. Mou-chótto mátte te.
-        Ja, íretoku ne.
+        Ja, iretoku ne.
       meaning: |-
         Whenever you're ready, would you like to have a cofee here? (casual)
         Yeah. In just a bit, ok? casual
@@ -5838,7 +5846,7 @@ clips:
       pronunciation: |-
         Dóu? Kyóu, yakiniku-ni ikanai?
         Yakiniku-ka, ototói, tabe-hóudai-de, iyá-tte iuu hodo nikú-o tábeta-n-desu yo.
-        He, ii na. Ja, kyóu-mo soko ikanai?
+        He, íi-na. Ja, kyóu-mo soko ikanai?
         Dá-kara!
       meaning: |-
         How about it? Want to go for yakiniku today? (casual)
@@ -5856,8 +5864,8 @@ clips:
         あ、本当？肩揉んであげようか。
         本当？いいの？
       pronunciation: |-
-        Nándaka saikin netémo tsukaré-ga torénai-n-da yo ne.
-        A, hontou? Káta monde ageyóu ka.
+        Nándaka saikin neté-mo tsukaré-ga torénai-n-da-yo ne.
+        A, hontou? Káta monde ageyóu-ka.
         Hontou? Íi-no?
       meaning: |-
         Lately, now much I sleep, I just can't shake off this fatigue. (casual)
@@ -5874,9 +5882,9 @@ clips:
         そうですね、普通だけど、花にしようか？
         ええ、切り花でしたよね。
       pronunciation: |-
-        O-mimai-ni iku-tóki, náni-o motte-ikimashóu ka.
-        Sóu-desu ne, futsuu-dá-kedo, haná-ni shiyóu ka.
-        Ee, kiríbana-deshita yo ne.
+        O-mimai-ni iku-tóki, náni-o motte-ikimashóu-ka.
+        Sóu-desu ne, futsuu-dá-kedo, haná-ni shiyóu-ka.
+        Ee, kiríbana-deshita-yo ne.
       meaning: |-
         When we go to visit [him] in the hospital, what shall we take along? (polite)
         Hm, it's kind of ordinary, but why not go with flowers? (polite)
@@ -5892,8 +5900,8 @@ clips:
         え〜。また〜。そのうちね。
         そのうちっていつ？
       pronunciation: |-
-        Ne, kóndo matá dizuniirándo-ni ikóu yo.
-        E. Matá. Sono uchi ne.
+        Ne, kóndo matá dizuniirándo-ni ikóu-yo.
+        E. Matá. Sono uchi-ne.
         Sono uchi-tte ítsu?
       meaning: |-
         Hey, let's go to Disneyland this time.
@@ -5911,7 +5919,7 @@ clips:
         あ、そうですか。
       pronunciation: |-
         Dóko-no byouin-ni nyuuin shitá-n-desu ka?
-        Nishi-shínjuku-no daigaku-byóuin-mitai-desu yo.
+        Nishi-shínjuku-no daigaku-byóuin mítai-desu yo.
         A, sóu-desu ka.
       meaning: |-
         What hospital did he go to? (polite)
@@ -5947,10 +5955,10 @@ clips:
         まだ、開いていますかね。
         ええ、２４時間営業だから大丈夫ですよ。
       pronunciation: |-
-        Kono hen-ni hyaku-en-shóppu-wa arimásu ka?
+        Kono hen-ni hyaku-en-shóppu-wa arimásu-ka?
         Hai. Kono michi-o massúgu ikú-to, konbini-ga arimásu. Sono tonari-désu.
-        Máda, aite imásu ka ne.
-        Ée, ní-juu yoji-kan-éigyou-da-kara daijóubu-desu yo.
+        Máda, aite imásu-ka-ne.
+        Ée, ní-juu yoji-kan-éigyou-da-kara daijóubu-desu-yo.
       meaning: |-
         Is there a 100-yen shop in the area? (polite)
         Yes. If you go straight through this street, there will be a convenience store. It's next door. (polite)
@@ -5969,7 +5977,7 @@ clips:
       pronunciation: |-
         Saikin, de-ai-ga nái yo ne.
         Ún. Gou-kon shite míru?
-        Ma, damemoto-de shite míru ka.
+        Ma, damemóto-de shite míru ka.
       meaning: |-
         I haven't met anyone recently, you know? (casual)
         Hm. Try a group date? (casual)
@@ -6005,7 +6013,7 @@ clips:
       pronunciation: |-
         Ne, há-ni norí tsúite nai?
         Ún, daijóubu. Watashi-wa?
-        A, nánka, migi-no hóu-ni tsúite ru yo.
+        A, nánka, migi-no hóu-ni tsúite rú-yo.
       meaning: |-
         Hey, I don't have nori in my teeth, do I? (casual)
         No, you're fine. What about me? (casual)
@@ -6040,9 +6048,9 @@ clips:
         駅の向こう側。ちょっと説明難しいな。
         じゃ、今日、帰りに教えてよ。
       pronunciation: |-
-        Kinou itta misé, tabe-hóudai, nomi-hóudai-de nisén kyúu-haku hachi-júu-en-datta yo.
-        Sore-tte kékkou yasúi ne. Sono misé dóko-ni áru-n-desu ka?
-        Éki no mukou-gawa. Chótto setsumei muzukashíi na.
+        Kinou itta misé, tabe-hóudai, nomi-hóudai-de nisén kyúu-haku hachi-júu-en-datta-yo.
+        Sore-tte kékkou yasúi-ne. Sono misé dóko-ni áru-n-desu-ka?
+        Éki no mukou-gawa. Chótto setsumei muzukashíi-na.
         Ja, kyóu, kaerí-ni oshieté-yo.
       meaning: |-
         At the place we went to yesterday, it was 2980 yen for all-you-can-eat and all-you-can-drink! (casual)
@@ -6060,9 +6068,9 @@ clips:
         えー、確か１０日の３時からです。
         え、１０日でしたっけ？
       pronunciation: |-
-        Tanaka-san-no kekkon-páatii-tte ítsu-deshita kke?
+        Tanaka-san-no kekkon-páatii-tte ítsu-deshita-kke?
         E, táshika too-ka-no sánji-kara-desu.
-        E, tooka-déshita kke?
+        E, tooka-déshita-kke?
       meaning: |-
         When was Tanaka-san's wedding party again? (polite)
         Uh, I'm pretty sure it's on the 10th, starting at 3. (polite) 
@@ -6078,9 +6086,9 @@ clips:
         へー。でもよく間に合ったね。
         うん。でも焦ったよ。
       pronunciation: |-
-        Kyóu ne-sugóshite bikkúri shita yo. Ókitara móu hachí-ji-ná-n-da mon.
-        He. Démo yóku ma-ni átta ne.
-        Ún. Démo asétta yo.
+        Kyóu ne-sugóshite bikkúri shitá-yo. Ókitara móu hachí-ji-ná-n-da-mon.
+        He. Démo yóku ma-ni átta-ne.
+        Ún. Démo asétta-yo.
       meaning: |-
         Today I overslept and really startled myself. When I woke up it was already 8, can you imagine! (casual)
         Whoa, but you made it right on time. (casual)
@@ -6098,7 +6106,7 @@ clips:
         あー、本当気持ちよかった。軽くなった。
       pronunciation: |-
         Sugói káta-da ne. Kótte ru ne. Dóu?
-        A, sugóku kimochi íi. A, móu íi yo. Dóumo arigatou.
+        A, sugóku kimochi íi. A, móu íi-yo. Dóumo arigatou.
         Ie ie.
         A, hontou kimochi yókatta. Karuku nátta.
       meaning: |-
@@ -6118,8 +6126,8 @@ clips:
         そう？でも、こっちの方が良くない？
         なーんだ！人に聞いといて、もう決まってるんだ。
       pronunciation: |-
-        Ne, shátsu míte. Kore-to kore, kyóu dótchi-no hóu-ga íi to omóu?
-        Dochira-ká-tte iéba, kotchi ka na.
+        Ne, shátsu míte. Kore-to kore, kyóu dótchi-no hóu-ga íi-to omóu?
+        Dochira-ká-tte iéba, kotchí-ka-na.
         Sóu? Démo, kotchi-no hóu-ga yókunai?
         Nán-da! Hito-ni kiitóite, móu kimatte rú-n-da.
       meaning: |-
@@ -6157,7 +6165,7 @@ clips:
         ちょっとハワイ？
       pronunciation: |-
         Uwa, hiyake shita ne. Dóko ittá-no?
-        Ún, chótto Háwai-ni ne.
+        Ún, chótto Háwai-ni-ne.
         Chótto háwai?
       meaning: |-
         Whoa, you got sunburnt, eh? Where did you go? (casual)
@@ -6176,7 +6184,7 @@ clips:
       pronunciation: |-
         Irasshaimáse.
         Sumimasén, kore kuríiningu onegai shimásu.
-        Hai. Eeto, waishatsu sán-mai-to zúbon-o íp-pon-desu ne.
+        Hai. Eeto, waishatsu sán-mai-to zúbon-o íp-pon-desu-ne.
       meaning: |-
         Welcome. (polite)
         Excuse me, I'd like to have this cleaned, please. (polite)
@@ -6193,10 +6201,10 @@ clips:
         かしこまりました。
         あのー、この写真の髪型みたいにできますか？
       pronunciation: |-
-        Kyóu-wa, dóu nasaimásu ka?
+        Kyóu-wa, dóu nasaimásu-ka?
         Kátto-o onegai shimásu.
         Kashikomarimáshita.
-        Ano, kono shashin-no kamigata-mítai-ni dekimásu ka?
+        Ano, kono shashin-no kamigata mítai-ni dekimásu-ka?
       meaning: |-
         What will you go for today? (polite)
         I'd like a haircut, please. (polite)
@@ -6216,8 +6224,8 @@ clips:
       pronunciation: |-
         Kore, eaméeru-de onegai shi-tái-n-desu kedo.
         Hai. Eeto, Itaria-désu-kara hyaku-juu-en désu ne.
-        Dono-kurai-de tsukimásu ka?
-        Is-shuu-kan-kúrai-deshou ka ne.
+        Dono-kurai-de tsukimásu-ka?
+        Is-shuu-kan-kúrai-deshou-ka-ne.
       meaning: |-
         I'd like [to send] this by airmail. (polite)
         Sure. All right, since it's Italy, it will be 100 yen. (polite)
@@ -6235,9 +6243,9 @@ clips:
         できれば、今日がいいんですけど。
         わかりました。じゃ、夕方５時ごろまでにやっておきます。
       pronunciation: |-
-        Kono kutsú, naorimásu ka?
-        Ee, daijóubu-desu yo. Ashitá-made-de íi-desu ka?
-        Dekíreba, kyóu-ga íi-n-desu kedo.
+        Kono kutsú, naorimásu-ka?
+        Ee, daijóubu-desu yo. Ashitá-made-de íi-desu-ka?
+        Dekíreba, kyóu-ga íi-n-desu-kedo.
         Wakarimáshita. Ja, yuugata go-ji-góro-made-ni yatte okimásu.
       meaning: |-
         Are these shoes the kind of thing you can fix? (polite)
@@ -6257,10 +6265,10 @@ clips:
         あのー、漢字が難しくて読めないんですけど…。
         じゃー、質問を読みますから、それに答えてくださいね。
       pronunciation: |-
-        Ano, hajímete-na-n-desu kedo.
+        Ano, hajímete-na-n-desu-kedo.
         Hai. Dé-wa, kochira-no monshinhyou-ni go-kinyuu kudasái.
         Ano, kanji-ga muzukáshikute yoménai-n-desu kedo...
-        Ja, shitsumon-o yomimásu-kara, sore-ni kotáete kudasái ne.
+        Ja, shitsumon-o yomimásu-kara, sore-ni kotáete kudasái-ne.
       meaning: |-
         Um, it's my first time here. (polite)
         All right. Then please fill out this form. (polite)
@@ -6279,9 +6287,9 @@ clips:
         包装紙はどちらにいたしましょうか。
         じゃー、この無地のにしてください。
       pronunciation: |-
-        O-ríbon-wa nani-iró-ni nasaimásu ka?
+        O-ríbon-wa nani-iró-ni nasaimásu-ka?
         Pínku-de onegai shimásu.
-        Housóushi-wa dóchira-ni itashimashóu ka.
+        Housóushi-wa dóchira-ni itashimashóu-ka.
         Ja, kono múji-no-ni shite kudasái.
       meaning: |-
         Which ribbon will you go with? (honorific)
@@ -6300,10 +6308,10 @@ clips:
         昨日の午後３時頃です。届いてますか？
         ちょっと待ってください。今調べますから。
       pronunciation: |-
-        Ano, téiki, otóshichatta-mitai-na-n-desu kedo...
+        Ano, téiki, otóshichatta mítai-na-n-desu-kedo...
         Ítsu-desu ka?
-        Kinou-no gógo san-ji-góro-desu. Todóite másu ka?
-        Chótto mátte kudasái. Íma shirabemásu kara.
+        Kinou-no gógo san-ji-góro-desu. Todóite másu-ka?
+        Chótto mátte kudasái. Íma shirabemásu-kara.
       meaning: |-
         Um, I seem to have dropped my ticket... (polite)
         When was that? (polite)
@@ -6320,9 +6328,9 @@ clips:
         こちらは郵便局専用の払込み用紙になってますので…。
         あー、そうですか。じゃー、これは大丈夫ですか？
       pronunciation: |-
-        Kore, haraemásu ka?
+        Kore, haraemásu-ka?
         Kochira-wa yuubínkyoku senyou-no haraikomi-yóushi-ni nátte másu-no-de...
-        A, sóu-desu ka. Ja, kore-wa daijóubu-desu ka?
+        A, sóu-desu ka. Ja, kore-wa daijóubu-desu-ka?
       meaning: |-
         Can I pay for this [here]? (polite)
         This is a payment form especially for use at the post office... (polite)
@@ -6381,10 +6389,10 @@ clips:
         にゅうこく…。
         にゅう、こく、かん、り、きょく。短く言うと、にゅうかん。
       pronunciation: |-
-        Senséi, bíza-o enchou-suru-tokoró-wa, nán-to iu-n-desu ka?
-        A, sore-wa nyuukoku-kanríkyoku-desu yo.
+        Senséi, bíza-o enchou-suru-tokoró-wa, nán-to iu-n-desu-ka?
+        A, sore-wa nyuukoku-kanríkyoku-desu-yo.
         Nyuukoku...
-        Nyuu, koku, kan, rí, kyoku. Mijíkaku iu to, nyuukan.
+        Nyuu, koku, kan, rí, kyoku. Mijíkaku iú-to, nyuukan.
       meaning: |-
         Sensei, what do you call the place where you extend your visa? (polite)
         Ah, that's the immigration office.
@@ -6437,7 +6445,7 @@ clips:
         いえ、特には…。
         じゃ、悪いところを削っていきます。痛かったら手を上げてください。
       pronunciation: |-
-        A, ókuba-ga mushiba-ni nátte másu ne. Itamimásu ka?
+        A, ókuba-ga mushiba-ni nátte másu-ne. Itamimásu-ka?
         Ie, tóku-ni-wa...
         Ja, warúi-tokoró-o kezutte ikimásu. Itákattara té-o agete kudasái.
       meaning: |-
@@ -6456,7 +6464,7 @@ clips:
         先生のおかげです。本当にありがとうございました。
       pronunciation: |-
         Senséi, goukaku shimáshita!
-        Wa, omedetou. Yóku ganbarimáshita ne.
+        Wa, omedetou. Yóku ganbarimáshita-ne.
         Senséi-no okage-désu. Hontou-ni arígatou gozaimáshita.
       meaning: |-
         Sensei, I passed! (polite)
@@ -6477,7 +6485,7 @@ clips:
         Iroiro o-séwa-ni narimáshita. Ashitá, kuni-ni kaerimásu.
         Sóu-desu ka. Sabíshiku narimásu ne.
         Zéhi, asobi-ni kíte kudasái. Go-annai shimásu-kara.
-        Ún, iku-tóki-wa kanarazu renraku shimásu ne.
+        Ún, iku-tóki-wa kanarazu renraku shimásu-ne.
       meaning: |-
         You've helped me out a lot. I'm going back to my country tomorrow. (polite)
         I see. It won't be the same [without you]!  (polite)
@@ -6516,10 +6524,10 @@ clips:
         うん、入ってるのに、変だなー。
         ＣDの向きは大丈夫ですか？
       pronunciation: |-
-        Are? Otó-ga dénai na. Kowárete-n-no ka na?
-        Kónsento, háitte másu ka?
-        Ún, háitte rú-no-ni hén-da na.
-        Shiidíi-no múki-wa daijóubu-desu ka?
+        Are? Otó-ga dénai-na. Kowárete-n-no-ka na?
+        Kónsento, háitte másu-ka?
+        Ún, háitte rú-no-ni hén-da-na.
+        Shiidíi-no múki-wa daijóubu-desu-ka?
       meaning: |-
         Huh? There's no sound coming out. I wonder if it's broken. (casual)
         Is it plugged into the outlet? (casual)
@@ -6538,8 +6546,8 @@ clips:
         慌てなくていいから、気をつけて来てくださいね。
       pronunciation: |-
         Móshimoshi, sore-dé-desu ne. Densha-ga ítsu ugóku-ka wakaránai sóu-na-n-de...
-        Wakarimáshita. Ja, káigi saki-ni hajimete másu ne.
-        Awatenákute íi kara, ki-o tsúkete kíte kudasái ne.
+        Wakarimáshita. Ja, káigi saki-ni hajimete másu-ne.
+        Awatenákute íi-kara, ki-o tsúkete kíte kudasái-ne.
       meaning: |-
         Hello, yes, well, they don't know when the train will be moving, so... (polite)
         I understand. We'll start the meeting ahead of you, then. (polite)
@@ -6557,8 +6565,8 @@ clips:
         わかった。探してみるね。ちょっと待ってて。
       pronunciation: |-
         A, dénchi-ga owari-sóu. Dóu shiyóu.
-        Chíkaku-ni koushuu-dénwa nái? Mitsukete, kake-náoshite yo.
-        Wakátta. Sagashite míru ne. Chótto mátte te.
+        Chíkaku-ni koushuu-dénwa nái? Mitsukete, kake-náoshite-yo.
+        Wakátta. Sagashite míru-ne. Chótto mátte te.
       meaning: |-
         Ah, the batteries are about to run out. What should I do? (casual)
         Isn't there a public phone nearby? Find one and call me back! (casual)
@@ -6575,10 +6583,10 @@ clips:
         そうですか、ありがとうございます。
         急ぐなら、自動販売機でも買えますよ。
       pronunciation: |-
-        Ano, teikiken-úriba-wa dóko deshou ka?
+        Ano, teikiken-úriba-wa dóko-deshou-ka?
         A, mídori-no madóguchi-no tonari-désu.
         Sóu-desu ka, arígatou gozaimásu.
-        Isógu-nara, jidouhanbáiki-de-mo kaemásu yo.
+        Isógu-nara, jidouhanbáiki-de-mo kaemásu-yo.
       meaning: |-
         Um, where is the counter for fixed-term [commuter] passes? (polite)
         Ah, next to the green ticket window. (polite)
@@ -6596,7 +6604,7 @@ clips:
         じゃー、急に病気になった時は？
         火事の時と同じ１１９番です。
       pronunciation: |-
-        Keisatsu-wa hyaku-tóu-ban-desu yo ne.
+        Keisatsu-wa hyaku-tóu-ban-desu-yo-ne.
         Sóu-desu yo.
         Ja, kyuu-ni byouki-ni nátta-toki-wa?
         Káji-no tokí-to onaji ichi-íchi kyúu-ban-desu. 
@@ -6654,9 +6662,9 @@ clips:
         はい、何時ごろの予約がよろしいでしょうか。
         そうですね、じゃ、３時でお願いします。
       pronunciation: |-
-        Sumimasén, kyóu, shánpuu-to kátto shi-tái-n-desu ga...
-        Hai, nan-ji-góro-no yoyaku-ga yoroshíi-deshou ka.
-        Sóu-desu ne. Ja, sán-ji-de onegai shimásu.
+        Sumimasén, kyóu, shánpuu-to kátto shi-tái-n-desu-ga...
+        Hai, nan-ji-góro-no yoyaku-ga yoroshíi-deshou-ka.
+        Sóu-desu-ne. Ja, sán-ji-de onegai shimásu.
       meaning: |-
         Excuse me, I'd like a shampoo and a cut today. (polite)
         All right, what time would you like your reservation? (polite)
@@ -6691,8 +6699,8 @@ clips:
         うーん、どうしようかな、あ、今日はやめときます。
       pronunciation: |-
         Higawari-béntou, góhan oomori-de onegai shimásu.
-        Hai, arígatou gozaimásu. Miso-shíru-wa tsukemásu ka?
-        Un, dóu shiyóu ka na, a, kyóu-wa yametokimásu.
+        Hai, arígatou gozaimásu. Miso-shíru-wa tsukemásu-ka?
+        Un, dóu shiyóu-ka-na, a, kyóu-wa yametokimásu.
       meaning: |-
         I'd like the daily special lunch box, with a large serving of rice, please. (polite)
         Thank you very much. Would you like some miso soup with that? (polite)
@@ -6709,7 +6717,7 @@ clips:
         はい、じゃ、大きいのを４本と小さいのを３本で。
       pronunciation: |-
         Kono baasudee-kéeki-o kudasái.
-        Hai, arígatou gozaimásu. Rousóku-o tsukemásu ka?
+        Hai, arígatou gozaimásu. Rousóku-o tsukemásu-ka?
         Hai, ja, ookíi-no-o yón-hon-to chiisái-no-o sán-bon-de.
       meaning: |-
         I'd like this birthday cake, please. (polite)
@@ -6727,9 +6735,9 @@ clips:
         う〜ん、１万５０００円くらいかな、交通費込みで。
         それでは、こちらなどいかがでしょう。
       pronunciation: |-
-        Ip-paku futsu-ka-de ikeru íi onsen arimásu ka?
+        Ip-paku futsu-ka-de ikeru íi onsen arimásu-ka?
         Go-yósan-wa dore-gurai-o o-kangae-déshou.
-        Un, ichi-mán go-sen-en-kúrai ka na, koutsúu-hi kómi-de.
+        Un, ichi-mán go-sen-en-kúrai-ka-na, koutsúu-hi kómi-de.
         Sore-dé-wa, kochira-nádo ikága deshou.
       meaning: |-
         Is there a hot spring we could go for one night (and two days)? (polite)
@@ -6748,10 +6756,10 @@ clips:
         東京駅からです。
         じゃ、３６０円ですね。
       pronunciation: |-
-        Sumimasén, kippu-o otóshichatta-n-desu ga.
-        Dóchira-kara norimáshita ka?
+        Sumimasén, kippu-o otóshichatta-n-desu-ga.
+        Dóchira-kara norimáshita-ka?
         Toukyou-éki-kara desu.
-        Ja, sán-byaku roku-juu-én-desu ne.
+        Ja, sán-byaku roku-juu-én-desu-ne.
       meaning: |-
         Excuse me, I dropped my ticket. (polite)
         Where did you get on? (polite)
@@ -6768,7 +6776,7 @@ clips:
         はい、５キロから配達します。
         じゃ、お願いします。
       pronunciation: |-
-        Sumimasén, kochira-dé-wa o-komé, haitatsu shite moraemásu ka?
+        Sumimasén, kochira-dé-wa o-kome, haitatsu shite moraemásu ka?
         Hai, go-kíro-kara haitatsu shimásu.
         Ja, onegai shimásu.
       meaning: |-
@@ -6787,10 +6795,10 @@ clips:
         何だか、値段の安いものばかりですね。
         そうそう、贅沢しなくても健康になれるんだよね。
       pronunciation: |-
-        Tei-károrii-de kenkou-ni íi tabemóno-tte nán-deshou ka?
+        Tei-károrii-de kenkou-ni íi tabemóno-tte nán-deshou-ka?
         Sóu-desu ne, konnyáku-to-ka toufu-tó-ka...
-        Nándaka, nedan-no yasúi-mono bákari-desu ne.
-        Sóu sóu, zeitáku shinakuté-mo kenkou-ni naréru-n-da yo ne.
+        Nándaka, nedan-no yasúi-mono bákari-desu-ne.
+        Sóu sóu, zeitáku shinakuté-mo kenkou-ni naréru-n-da-yo-ne.
       meaning: |-
         What would be a low-calorie, healthy food? (polite)
         Let's see, something like konnyaku or tofu. (polite)
@@ -6807,9 +6815,9 @@ clips:
         え、そうなんですか？
         前の住所に来た手紙も、ちゃんと新しいところまで届けてくれるんですよ。
       pronunciation: |-
-        Hikkoshi suru-tóki-wa, yuubínkyoku-ni atarashíi júusho-o todokéru-to bénri-desu yo.
-        E, sóu-na-n-desu ka?
-        Máe-no júusho-ni kíta tegami-mo, chanto atarashíi tokoró-made todókete kurerú-n-desu yo.
+        Hikkoshi suru-tóki-wa, yuubínkyoku-ni atarashíi júusho-o todokéru-to bénri-desu-yo.
+        E, sóu-na-n-desu-ka?
+        Máe-no júusho-ni kíta tegami-mo, chanto atarashíi tokoró-made todókete kurerú-n-desu-yo.
       meaning: |-
         It's really convenient if you report your new address to the post office when you move. (polite)
         Huh, is it? (polite)
@@ -6825,8 +6833,8 @@ clips:
         そうそう！
         この前、かばんの取っ手が壊れた時、すぐに直してくれたしね。
       pronunciation: |-
-        Burando-hin-wa yappári afutaakéa-ga íi yo ne.
-        Kono máe, kaban-no totte-ga kowáreta-toki, súgu-ni naóshite kuretá-shi ne.
+        Burando-hin-wa yappári afutaakéa-ga íi-yo-ne.
+        Kono máe, kaban-no totte-ga kowáreta-toki, súgu-ni naóshite kuretá-shi-ne.
       meaning: |-
         Brand-name goods really do have good after-sales service. (casual)
         Yeah, they really do! (casual)
@@ -6842,9 +6850,9 @@ clips:
         マンションの前に高いビルが建ったからかな〜。
         あー、そうかも！
       pronunciation: |-
-        Saikin, térebi-no utsurí-ga warúi ne.
-        Mánshon-no máe-ni takái bíru-ga tátta-kara ka na.
-        A, sóu kamo!
+        Saikin, térebi-no utsurí-ga warúi-ne.
+        Mánshon-no máe-ni takái bíru-ga tátta-kara-ka-na.
+        A, sóu-kamo!
       meaning: |-
         The TV image quality has been really bad recently, hasn't it? (casual)
         I wonder if it's since they built the tall building in front of the apartment building. (casual)
@@ -6860,8 +6868,8 @@ clips:
         写真屋さんにデジカメを持っていけばしてくれますよ。
         へ〜、そうなんだ。
       pronunciation: |-
-        Dejikame-de tótta shashin, purinto shi-tái-n-da kedo.
-        Shashin-ya-san-ni dejikame-o motte-ikéba shite kuremásu yo.
+        Dejikame-de tótta shashin, purinto shi-tái-n-da-kedo.
+        Shashin-ya-san-ni dejikame-o motte-ikéba shite kuremásu-yo.
         He, sóu-na-n-da.
       meaning: |-
         I'd like to print a photo I took with my digital camera. (polite)
@@ -6878,8 +6886,8 @@ clips:
         どのくらいまで切りますか？
         眉毛が隠れるぐらいまで、切ってください。
       pronunciation: |-
-        Ano, mae-gami-o mijikáku shi-tái-n-desu ga.
-        Dono-kurai-máde kirimásu ka
+        Ano, mae-gami-o mijikáku shi-tái-n-desu-ga.
+        Dono-kurai-máde kirimásu-ka
         Máyuge-ga kakuréru gúrai-made, kítte kudasái.
       meaning: |-
         So um, I'd like my bangs a little shorter. (polite)
@@ -6897,7 +6905,7 @@ clips:
         あのー、できればこの写真みたいにしてください。
         はい、わかりました！
       pronunciation: |-
-        Kamí-ni yurume-no káaru-o tsuke-tái-n-desu ga.
+        Kamí-ni yurume-no káaru-o tsuke-tái-n-desu-ga.
         Hai, wakarimáshita.
         Ano, dekiréba kono shashin-mítai-ni shite kudasái.
         Hai, wakarimáshita.
@@ -6919,8 +6927,8 @@ clips:
       pronunciation: |-
         Keeki-kyóushitsu-ni moushi-komi-tái-n-desu.
         E, sugoi! Démo, dóu shite.
-        Nihongo-mo oboeraréru shi, keeki-tsúkuri-mo jouzú-ni náru-kara-desu.
-        Sore-wa, is-seki-ní-chou-tte kotó-desu ne.
+        Nihongo-mo oboeraréru-shi, keeki-tsúkuri-mo jouzú-ni náru-kara-desu.
+        Sore-wa, is-seki-ní-chou-tte kotó-desu-ne.
       meaning: |-
         I've been wanting to apply for a cake class. (polite)
         Whoa, awesome! But why?
@@ -6938,7 +6946,7 @@ clips:
         じゃ、一石三鳥ですよ。そこでボーイフレンドも見つけるつもりですから。
         す、すごい！
       pronunciation: |-
-        Is-seki-ní-chou, sore-wa dóu iuu ími-desu ka?
+        Is-seki-ní-chou, sore-wa dóu iu ími-desu ka?
         Hitótsu-no kotó-o shitára, futatsú nánika íi kotó-ga áru-tte kotó-desu yo.
         Ja, is-seki-sán-chou-desu yo. Soko-de booifuréndo-mo mitsukeru-tsumori-désu-kara.
         Su, sugói!
@@ -6949,7 +6957,6 @@ clips:
         Wh-whoa! (polite)
     tags:
       - shad5-7
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: JGR 1-1-1 onna no ko.m4a
 format: mov,mp4,m4a,3gp,3g2,mj2
@@ -7336,7 +7343,6 @@ clips:
         iimásu = iu
     tags:
       - jgr1-1-1
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: JGR 1-1-2 hachi no hanashi.m4a
 format: mov,mp4,m4a,3gp,3g2,mj2
@@ -7505,7 +7511,7 @@ clips:
 
         Wan, wan.
 
-        Senséi-wa daigaku-e ikimashita.
+        Senséi-wa daigaku-e ikimáshita.
       meaning: |-
         Hachi, I'm going now; see you later.
 
@@ -7567,7 +7573,7 @@ clips:
     start: 02:23.8
     end: 02:29.16
     fields:
-      pronunciation: Háchi-wa máinichi yuugata Shibuya-eki-e ikimáshita.
+      pronunciation: Háchi-wa máinichi yuugata Shibuya-éki-e ikimáshita.
       meaning: Hachi went to Shibuya Station every evening. (polite)
     tags:
       - jgr1-1-2
@@ -7679,7 +7685,6 @@ clips:
       meaning: Now, in front of Shibuya Station, there is a statue of Hachi. (polite)
     tags:
       - jgr1-1-2
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: JGR 1-1-3 jonsan nihon e.m4a
 format: mov,mp4,m4a,3gp,3g2,mj2
@@ -7693,8 +7698,6 @@ clips:
       pronunciation: Jon-san Nihón-e
       meaning: John [goes] to Japan
       notes: This "-e" meaning "to, towards" is written with the kana for "he".
-    tags:
-      - jgr1-1-3
   - id: 0adb6b3e-e184-4d07-81f3-4bc8097fee3c
     start: 00:09.22
     end: 00:12.9
@@ -8224,17 +8227,24 @@ clips:
         waraimásu = warau
     tags:
       - jgr1-1-3
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: JGR 1-1-4 urashima tarou.m4a
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 07:46.791
 id: 73cd9935-fea8-40e3-8cfb-179c026c87f6
+subtitles:
+  - id: c3f3e2ea-543a-44cd-b5e0-b7b6b8261ab5
+    type: External
+    chunksMetadata:
+      count: 118
+      endCue: 23116.75
+    name: JGR 1-1-4 urashima tarou.srt
 clips:
   - id: 96646e3a-1e27-47d0-a3f0-b858a21ea237
     start: 00:07.62
     end: 00:11.62
     fields:
+      transcription: 浦島太郎は日本の古い話です。
       pronunciation: Urashima Tarou-wa Nihon-no furúi hanashí-desu.
       meaning: Urashima Tarou is an old Japanese story. (polite)
       notes: |-
@@ -8246,6 +8256,7 @@ clips:
     start: 00:14.2
     end: 00:16.74
     fields:
+      transcription: ここは海の近くです。
       pronunciation: Koko-wa úmi-no chíkaku-desu.
       meaning: This is near the sea. (polite)
       notes: Literally, "Here is near the sea".
@@ -8255,6 +8266,7 @@ clips:
     start: 00:18.72
     end: 00:21.26
     fields:
+      transcription: 太郎とお母さんうちがあります。
       pronunciation: Tárou-to o-káa-san-no uchi-ga arimásu.
       meaning: There's Tarou and [his] mother's home. (polite)
     tags:
@@ -8263,6 +8275,7 @@ clips:
     start: 00:23.54
     end: 00:26.7
     fields:
+      transcription: 太郎は毎日海へ行きます。
       pronunciation: Tárou-wa máinichi úmi-e ikimásu.
       meaning: Tarou goes to the beach every day. (polite)
       notes: Literally, "As for Tarou, [he] goes to [the] sea every day."
@@ -8272,6 +8285,7 @@ clips:
     start: 00:28.22
     end: 00:30.9
     fields:
+      transcription: そして、魚を取ります。
       pronunciation: Soshite, sakana-o torimásu.
       meaning: Then, [he] catches fish.
       notes: torimásu = tóru
@@ -8281,6 +8295,7 @@ clips:
     start: 00:34.08
     end: 00:37.24
     fields:
+      transcription: 今日も太郎は海へ行きました。
       pronunciation: Kyóu-mo Tárou-wa úmi-e ikimáshita.
       meaning: Today, Tarou went to the beach again. (polite)
       notes: |-
@@ -8292,6 +8307,7 @@ clips:
     start: 00:39.48
     end: 00:41.82
     fields:
+      transcription: 海に子供がたくさんいます。
       pronunciation: Úmi-ni kodomo-ga takusan imásu.
       meaning: There are lots of children at the beach. (polite)
     tags:
@@ -8300,6 +8316,7 @@ clips:
     start: 00:44.06
     end: 00:47.62
     fields:
+      transcription: 子供たちが、棒で何かを叩きました。
       pronunciation: Kodomó-tachi-ga, bou-de nánika-o tatakimáshita.
       meaning: The children were hitting something with a stick. (polite)
       notes: tatakimásu = tatáku
@@ -8309,6 +8326,7 @@ clips:
     start: 00:49.46
     end: 00:55.86
     fields:
+      transcription: 亀です。子供達は棒で亀を叩きます。
       pronunciation: Káme-desu. Kodomó-tachi-wa bou-de káme-o tatakimásu.
       meaning: It's a turtle. The children hit the turtle with sticks. (polite)
     tags:
@@ -8317,6 +8335,7 @@ clips:
     start: 00:57.58
     end: 01:03.8
     fields:
+      transcription: 「痛い！痛い！」亀は泣きました。
       pronunciation: '"Itái! Itái!" Káme-wa nakimáshita.'
       meaning: '"Ow! It hurts!" cried the turtle. (polite)'
       notes: nakimásu = naku
@@ -8326,7 +8345,10 @@ clips:
     start: 01:04.98
     end: 01:14.28
     fields:
-      pronunciation: Tárou-wa kodomó-tachi-ni iimashita. "Okane-o agemashóu. Watashi-ni kono káme-o kudasái."
+      transcription: |-
+        太郎は子供たちに言いました。
+        「お金をあげましょう。私にこの亀をください。」
+      pronunciation: Tárou-wa kodomó-tachi-ni iimáshita. "Okane-o agemashóu. Watashi-ni kono káme-o kudasái."
       meaning: Tarou said to the children, "I'll give you some money. Please give me this turtle."
       notes: |-
         agemashóu = ageyou
@@ -8337,6 +8359,7 @@ clips:
     start: 01:15.98
     end: 01:18.38
     fields:
+      transcription: 「本当？いいよ。」
       pronunciation: Hontou? Íi yo.
       meaning: Really? Okay!
     tags:
@@ -8345,6 +8368,7 @@ clips:
     start: 01:20.34
     end: 01:23.62
     fields:
+      transcription: 子供達は亀を太郎にあげました。
       pronunciation: Kodomó-tachi-wa káme-o Tárou-ni agemáshita.
       meaning: The children gave Tarou the turtle.
       notes: |-
@@ -8356,6 +8380,7 @@ clips:
     start: 01:25.54
     end: 01:31.32
     fields:
+      transcription: 「どうもありがとうございました。」亀は言いました。
       pronunciation: '"Dóumo arígatou gozaimáshita." Káme-wa iimáshita.'
       meaning: '"Thank you very much," said the turtle.'
     tags:
@@ -8364,6 +8389,7 @@ clips:
     start: 01:33.28
     end: 01:35.54
     fields:
+      transcription: そして、海に帰りました。
       pronunciation: Soshite, úmi-ni kaerimáshita.
       meaning: Then, [he] went back to the sea. (polite)
       notes: |-
@@ -8375,6 +8401,7 @@ clips:
     start: 01:39.18
     end: 01:41.3
     fields:
+      transcription: それから一週間。
       pronunciation: Sore-kara is-shúu-kan.
       meaning: 1 week after that.
       notes: |-
@@ -8386,6 +8413,7 @@ clips:
     start: 01:43.04
     end: 01:45.94
     fields:
+      transcription: 太郎は今日も海へ行きます。
       pronunciation: Tárou-wa kyóu-mo úmi-e ikimásu.
       meaning: Tarou went to the sea again today. (polite)
     tags:
@@ -8394,6 +8422,7 @@ clips:
     start: 01:47.78
     end: 01:49.38
     fields:
+      transcription: いい天気です。
       pronunciation: Íi ténki-desu.
       meaning: The weather is nice. (polite)
     tags:
@@ -8402,6 +8431,7 @@ clips:
     start: 01:50.98
     end: 01:53.42
     fields:
+      transcription: 太郎は今日も魚を取ります。
       pronunciation: Tárou-wa kyóu-mo sakana-o torimásu.
       meaning: Tarou catches fish again today. (polite)
     tags:
@@ -8410,6 +8440,7 @@ clips:
     start: 01:55.6
     end: 01:57.54
     fields:
+      transcription: そこに彼が来ました亀が来ました。
       pronunciation: Soko-ni káme-ga kimáshita.
       meaning: Then, the turtle came. (polite)
     tags:
@@ -8418,6 +8449,7 @@ clips:
     start: 01:59.62
     end: 02:06.74
     fields:
+      transcription: 亀が言いました。「あの時はどうもありがとうございました。」
       pronunciation: Káme-ga iimáshita. "Ano-tóki-wa dóumo arígatou gozaimáshita."
       meaning: The turtle said, "Thank you very much for [your help] before." (polite)
       notes: ano-tóki = that time
@@ -8427,6 +8459,7 @@ clips:
     start: 02:08.06
     end: 02:11.28
     fields:
+      transcription: 海の中に楽しいところがあります。
       pronunciation: Úmi-no náka-ni tanoshíi tokoró-ga arimásu.
       meaning: There's a really fun place in the sea. (polite)
     tags:
@@ -8435,6 +8468,7 @@ clips:
     start: 02:12.46
     end: 02:14.8
     fields:
+      transcription: 私と一緒に行きましょう。
       pronunciation: Watashi-to issho-ni ikimashóu.
       meaning: Go along with me. (polite)
       notes: |-
@@ -8446,6 +8480,9 @@ clips:
     start: 02:15.92
     end: 02:22.28
     fields:
+      transcription: |-
+        「さあ、どうぞ。」
+        太郎は亀に乗りました。
       pronunciation: |-
         "Sáa, dóuzo."
 
@@ -8460,6 +8497,7 @@ clips:
     start: 02:24.24
     end: 02:26.72
     fields:
+      transcription: 亀は海の中に入りました。
       pronunciation: Káme-wa úmi-no náka-ni hairimáshita.
       meaning: The turtle went into the sea. (polite)
       notes: hairimásu = háiru
@@ -8469,6 +8507,7 @@ clips:
     start: 02:28.88
     end: 02:31.32
     fields:
+      transcription: きれいな魚がたくさんいます。
       pronunciation: Kírei-na sakana-ga takusan imásu.
       meaning: There are lots of pretty fish. (polite)
     tags:
@@ -8477,6 +8516,7 @@ clips:
     start: 02:33.22
     end: 02:36.98
     fields:
+      transcription: 「うわー、海の中は綺麗だなぁ。」
       pronunciation: Uwaa, úmi-no náka-wa kírei-da naa.
       meaning: Whoa, it's so pretty inside the sea.
     tags:
@@ -8485,6 +8525,7 @@ clips:
     start: 02:39.1
     end: 02:43.04
     fields:
+      transcription: 亀と太郎は大きい城の前に来ました。
       pronunciation: Káme-to Tárou-wa ookíi shiro-no máe-ni kimáshita.
       meaning: The turtle and Tarou came to the front of a big castle.
       notes: |-
@@ -8496,6 +8537,9 @@ clips:
     start: 02:44.54
     end: 02:53.72
     fields:
+      transcription: |-
+        「ここは竜宮城ですよ。」亀が言いました。
+        龍宮城 はとても綺麗です。
       pronunciation: '"Koko-wa Ryuuguujou-désu yo." Káme-ga iimáshita. Ryuuguujou-wa totemo kírei-desu.'
       meaning: '"This is the Dragon Palace Castle!" said the turtle. The Dragon Palace Castle is very pretty. (polite)'
     tags:
@@ -8504,6 +8548,7 @@ clips:
     start: 02:55.66
     end: 03:00.16
     fields:
+      transcription: 太郎は亀と一緒に竜宮城の中へ入りました。
       pronunciation: Tárou-wa káme-to issho-ni Ryuuguujou-no náka-e hairimáshita.
       meaning: Tarou entered into the Dragon Palace Castle along with the turtle.
       notes: |-
@@ -8515,7 +8560,8 @@ clips:
     start: 03:01.94
     end: 03:05.38
     fields:
-      pronunciation: Soko-ní-wa totemo kírei-na onna-no-hitó-ga imáshita.
+      transcription: そこにはとてもきれいな女の人がいました。
+      pronunciation: Soko-ní-wa totemo kírei-na onnanohitó-ga imáshita.
       meaning: There, there was a very beautiful woman. (polite)
     tags:
       - jgr1-1-4
@@ -8523,6 +8569,7 @@ clips:
     start: 03:07.08
     end: 03:13.92
     fields:
+      transcription: 太郎は彼に聞きました。「あの綺麗な女の人は誰ですか。」
       pronunciation: Tárou-wa káme-ni kikimashita. "Ano kírei-na onnanohitó-wa dáre-desu ka?
       meaning: Tarou asked the turtle, "Who's that beautiful woman?" (polite)
     tags:
@@ -8531,6 +8578,7 @@ clips:
     start: 03:14.98
     end: 03:19.34
     fields:
+      transcription: 「乙姫様ですよ。」亀は答えました。
       pronunciation: '"Otóhime-sama-desu yo." Káme-wa kotaemáshita.'
       meaning: "\"It's Otohime-sama,\" replied the turtle. (polite)"
       notes: |-
@@ -8544,6 +8592,7 @@ clips:
     start: 03:21.68
     end: 03:31.34
     fields:
+      transcription: 「あなたが太郎さんですね。さあ、こちらへどうぞ。」乙姫様は太郎に言いました。
       pronunciation: '"Anáta-ga Tárou-san-desu ne. Sáa, kochira-e dóuzo." Otóhime-sama-wa Tárou-ni iimáshita.'
       meaning: "\"You're Tarou, aren't you? Here, please [come] this way,\" said Otóhime-sama to Tarou. (polite)"
     tags:
@@ -8552,6 +8601,7 @@ clips:
     start: 03:33.04
     end: 03:38.28
     fields:
+      transcription: 竜宮城には美味しい食べ物屋お酒がたくさんあります。
       pronunciation: Ryuuguujou-ní-wa oishii tabémono-ya o-sake-ga takusan arimásu.
       meaning: At the Dragon Palace Castle, there is lots of delicious food and sake. (polite)
     tags:
@@ -8560,6 +8610,7 @@ clips:
     start: 03:39.9
     end: 03:43.86
     fields:
+      transcription: 太郎は毎日乙姫様と遊びました。
       pronunciation: Tárou-wa máinichi Otóhime-sama-to asobimáshita.
       meaning: Tarou had fun with Otohime-sama every day.
       notes: |-
@@ -8571,6 +8622,7 @@ clips:
     start: 03:45.0
     end: 03:49.02
     fields:
+      transcription: そして、美味しい食べ物をたくさん食べました。
       pronunciation: Soshite, oishii tabémono-o takusan tabemáshita.
       meaning: And [they] ate lots of good food. (polite)
       notes: |-
@@ -8582,6 +8634,7 @@ clips:
     start: 03:50.58
     end: 03:53.52
     fields:
+      transcription: 美味しいお酒もたくさん飲みました。
       pronunciation: Oishii o-sake-mo takusan nomimáshita.
       meaning: "[They] drank lots of delicious sake, too. (polite)"
       notes: |-
@@ -8593,6 +8646,7 @@ clips:
     start: 03:55.04
     end: 03:57.22
     fields:
+      transcription: 毎日とても楽しいです。
       pronunciation: Máinichi totemo tanoshíi-desu.
       meaning: It was very fun every day. (polite)
     tags:
@@ -8601,6 +8655,7 @@ clips:
     start: 03:59.02
     end: 04:01.48
     fields:
+      transcription: 一週間、2週間…
       pronunciation: Is-shúu-kan, ni-shúu-kan...
       meaning: One week, two weeks...
     tags:
@@ -8609,6 +8664,7 @@ clips:
     start: 04:02.94
     end: 04:05.24
     fields:
+      transcription: 1ヶ月、2ヶ月…
       pronunciation: Ik-ká-getsu, ni-ká-getsu...
       meaning: One month, two months...
     tags:
@@ -8617,6 +8673,7 @@ clips:
     start: 04:07.04
     end: 04:09.0
     fields:
+      transcription: 1年、2年…
       pronunciation: Ichí-nen, ní-nen...
       meaning: One year, two years...
     tags:
@@ -8625,6 +8682,7 @@ clips:
     start: 04:11.28
     end: 04:14.18
     fields:
+      transcription: ある日、乙姫様が言いました。
       pronunciation: Áru hi, Otóhime-sama-ga iimáshita.
       meaning: One day, Otohime-sama said,
     tags:
@@ -8633,6 +8691,7 @@ clips:
     start: 04:15.48
     end: 04:18.14
     fields:
+      transcription: 「太郎さん、元気がありませんね。」
       pronunciation: Tárou-san, génki-ga arimasén ne.
       meaning: Tarou-san, you're not feeling very well, are you?
       notes: Literally, "There is not cheer/liveliness."
@@ -8642,6 +8701,7 @@ clips:
     start: 04:18.96
     end: 04:20.68
     fields:
+      transcription: 「あまり食べませんね。」
       pronunciation: Amari tabemasén ne.
       meaning: You aren't eating well. (polite)
       notes: |-
@@ -8653,6 +8713,7 @@ clips:
     start: 04:21.56
     end: 04:22.94
     fields:
+      transcription: 「どうしましたか。」
       pronunciation: Dóu shimáshita ka?
       meaning: What's the matter? (polite)
       notes: |-
@@ -8668,6 +8729,7 @@ clips:
     start: 04:24.48
     end: 04:31.98
     fields:
+      transcription: " 太郎は言いました。「乙姫様、私はもう家へ帰ります。」"
       pronunciation: Tárou-wa iimáshita. "Otóhime-sama, watashi-wa, móu, uchi-e kaerimásu."
       meaning: Tarou said, "Otohime-sama, I'm going home now." (polite)
     tags:
@@ -8676,6 +8738,7 @@ clips:
     start: 04:33.64
     end: 04:39.28
     fields:
+      transcription: 「え？どうしてですか？」 乙姫様は言いました。
       pronunciation: '"E? Dóu shite désu ka?" Otóhime-sama-wa iimáshita.'
       meaning: '"Huh? Why?" said Otohime-sama. (polite)'
     tags:
@@ -8684,6 +8747,7 @@ clips:
     start: 04:41.34
     end: 04:46.0
     fields:
+      transcription: 「家に母が一人でいますから。」たろうは言いました。
       pronunciation: '"Uchi-ni háha-ga hitóri de imásu-kara." Tárou-wa iimáshita.'
       meaning: My mother is all by herself at home," said Tarou.
       notes: háha = [my] humble mother
@@ -8693,6 +8757,7 @@ clips:
     start: 04:47.58
     end: 04:50.56
     fields:
+      transcription: 「そうですか。分かりました。」
       pronunciation: Sóu-desu ka. Wakarimáshita.
       meaning: Oh, I understand. (polite)
     tags:
@@ -8701,6 +8766,7 @@ clips:
     start: 04:52.28
     end: 04:54.28
     fields:
+      transcription: 「じゃあ、これをどうぞ。」
       pronunciation: Jáa, kore-o dóuzo.
       meaning: Well then, please [take] this. (polite)
     tags:
@@ -8709,6 +8775,7 @@ clips:
     start: 04:56.2
     end: 04:59.42
     fields:
+      transcription: 乙姫様は太郎に箱をあげました。
       pronunciation: Otóhime-sama-wa Tárou-ni hako-o agemáshita.
       meaning: Otohime-sama gave Tarou a box. (polite)
     tags:
@@ -8717,6 +8784,7 @@ clips:
     start: 05:00.44
     end: 05:03.44
     fields:
+      transcription: それはとてもきれいな箱でした
       pronunciation: Sore-wa totemo kírei-na hako-déshita.
       meaning: It (that) was a very beautiful box. (polite)
       notes: hako-déshita = hako-dátta
@@ -8726,6 +8794,9 @@ clips:
     start: 05:05.16
     end: 05:10.52
     fields:
+      transcription: |-
+        「ありがとうございます。」
+        太郎は箱をもらいました 。
       pronunciation: '"Arígatou gozaimásu." Tárou-wa hako-o moraimáshita.'
       meaning: '"Thank you veyr much." Tarou received the box. (polite)'
       notes: |-
@@ -8737,6 +8808,7 @@ clips:
     start: 05:21.86
     end: 05:24.34
     fields:
+      transcription: 太郎は亀に乗りました。
       pronunciation: Tárou-wa káme-ni norimáshita
       meaning: Tarou climbed onto the turtle. (polite)
       notes: norimásu = noru
@@ -8746,6 +8818,7 @@ clips:
     start: 05:27.86
     end: 05:29.64
     fields:
+      transcription: 太郎のうちの近くです。
       pronunciation: Tárou-no uchi-no chíkaku-desu.
       meaning: "[They are] near Tarou's home. (polite)"
     tags:
@@ -8754,6 +8827,7 @@ clips:
     start: 05:30.8
     end: 05:33.2
     fields:
+      transcription: 太郎は亀から降りました。
       pronunciation: Tárou-wa káme-kara orimáshita.
       meaning: Tarou got off from the turtle. (polite)
     tags:
@@ -8762,6 +8836,7 @@ clips:
     start: 05:46.32
     end: 05:49.22
     fields:
+      transcription: 亀は竜宮城に帰りました。
       pronunciation: Káme-wa Ryuuguujou-ni kaerimáshita.
       meaning: The turtle returned to Dragon Palace Castle.
       notes: |-
@@ -8773,6 +8848,7 @@ clips:
     start: 05:51.64
     end: 05:54.02
     fields:
+      transcription: 太郎はうちの方へ行きました。
       pronunciation: Tárou-wa uchi-no hóu-e ikimáshita.
       meaning: Tarou went in the direction of [his] home. (polite)
     tags:
@@ -8781,6 +8857,7 @@ clips:
     start: 05:55.58
     end: 05:57.4
     fields:
+      transcription: でも、うちがありません。
       pronunciation: Démo, uchi-ga arimasén.
       meaning: However, there is no house. (polite)
       notes: arimasén = nái
@@ -8790,6 +8867,7 @@ clips:
     start: 05:58.74
     end: 06:01.94
     fields:
+      transcription: 「あれ？私のうちがありません。」
       pronunciation: Are? Watashi-no uchi-ga arimasén.
       meaning: Huh? My house is gone. (polite)
       notes: arimasén = nái
@@ -8799,6 +8877,9 @@ clips:
     start: 06:03.16
     end: 06:16.42
     fields:
+      transcription: |-
+        太郎は 近くの人に聞きました。
+        「私のうちがありません。私の母もいません。私のうちはどこですか。母はどこですか。」
       pronunciation: |-
         Tárou-wa chíkaku-no hito-ni kikimashita.
 
@@ -8813,6 +8894,7 @@ clips:
     start: 06:18.54
     end: 06:22.62
     fields:
+      transcription: その人は言いました。「分かりません。」
       pronunciation: Sonó-hito-wa iimáshita. "Wakarimasén."
       meaning: That person said, "I don't know."
       notes: |-
@@ -8824,6 +8906,7 @@ clips:
     start: 06:23.42
     end: 06:29.32
     fields:
+      transcription: 「百年前、ここにうちがありました。でも、今はありません。」
       pronunciation: Hyaku-nen-máe, koko-ni uchi-ga arimáshita. Démo, íma-wa arimasén.
       meaning: There was a house here 100 years ago. But there isn't any now. (polite)
       notes: |-
@@ -8835,6 +8918,7 @@ clips:
     start: 06:31.06
     end: 06:36.24
     fields:
+      transcription: 太郎は言いました。「百年前？」
       pronunciation: Tárou-wa iimáshita. "E', hyaku-nen-máe?"
       meaning: Tarou said (polite), "Huh? One hundred years ago?"
     tags:
@@ -8843,6 +8927,7 @@ clips:
     start: 06:38.06
     end: 06:40.38
     fields:
+      transcription: 「私は百年も竜宮城に…？」
       pronunciation: Watashi-wa hyakú-nen-mo Ryuuguujou-ni...?
       meaning: I [was] at the Dragon Palace Castle a whole one hundred years?
     tags:
@@ -8851,6 +8936,9 @@ clips:
     start: 06:42.24
     end: 06:47.98
     fields:
+      transcription: |-
+        太郎には、もう、うちがありません。
+        お母さんもいません。
       pronunciation: Tárou-ni-wa móu uchi-ga arimasén. O-káa-san-mo imasén.
       meaning: Tarou doesn't have a home anymore. [He] doesn't have a mother, either. (polite)
     tags:
@@ -8859,6 +8947,7 @@ clips:
     start: 06:50.08
     end: 06:52.9
     fields:
+      transcription: 太郎には、もう、何もありません。
       pronunciation: Tárou-ni-wa móu nanimo arimasén.
       meaning: Tarou doesn't have anything anymore. (polite)
     tags:
@@ -8867,6 +8956,9 @@ clips:
     start: 06:54.7
     end: 06:58.06
     fields:
+      transcription: |-
+        あっ、あります。
+        一つだけあります。
       pronunciation: A', arimásu. Hitotsu-dake arimásu.
       meaning: Oh, he does (have). [He] has just one thing.
     tags:
@@ -8875,6 +8967,9 @@ clips:
     start: 06:59.36
     end: 07:04.12
     fields:
+      transcription: |-
+        箱があります。
+        あのきれいな箱です。
       pronunciation: Hako-ga arimásu. Ano kírei-na hako-désu.
       meaning: "[He] has a box. That beautiful box. (polite)"
     tags:
@@ -8883,6 +8978,7 @@ clips:
     start: 07:05.48
     end: 07:07.36
     fields:
+      transcription: 乙姫様からもらいました。
       pronunciation: Otóhime-sama-kara moraimáshita.
       meaning: He got [it] from Otohime-sama.
       notes: |-
@@ -8894,6 +8990,7 @@ clips:
     start: 07:09.56
     end: 07:11.52
     fields:
+      transcription: 箱の中は何でしょう。
       pronunciation: Hako-no náka-wa nán-deshou?
       meaning: What could be inside the box? (polite)
     tags:
@@ -8902,6 +8999,7 @@ clips:
     start: 07:13.66
     end: 07:15.98
     fields:
+      transcription: 太郎は箱を開けました。
       pronunciation: Tárou-wa hako-o akemáshita.
       meaning: Tarou opened the box. (polite)
       notes: |-
@@ -8913,6 +9011,7 @@ clips:
     start: 07:17.34
     end: 07:24.02
     fields:
+      transcription: 「わーっ！」煙です。中から白い煙が出ました。
       pronunciation: " \"Waa'!\" Kemuri-désu. Náka-kara shirói kemuri-ga demáshita."
       meaning: "\"Whaaa!\" It's smoke. White smoke came out from inside. (polite)"
     tags:
@@ -8921,6 +9020,7 @@ clips:
     start: 07:26.4
     end: 07:29.12
     fields:
+      transcription: 太郎は、もう、若くありません。
       pronunciation: Tárou-wa móu wákaku arimasén.
       meaning: Tarou is no longer young. (polite)
       notes: |-
@@ -8932,6 +9032,7 @@ clips:
     start: 07:30.36
     end: 07:32.38
     fields:
+      transcription: 白い髪のおじいさんです。
       pronunciation: Shirói kami-no o-jíi-san-desu.
       meaning: "[He] is a white-haired old man. (polite)"
     tags:
@@ -8940,6 +9041,7 @@ clips:
     start: 07:35.26
     end: 07:38.08
     fields:
+      transcription: それから、太郎はどこへ行きましたか。
       pronunciation: Sore-kara Tárou-wa dóko-e ikimáshita ka?
       meaning: Where did Tárou go after that? (polite)
     tags:
@@ -8948,11 +9050,13 @@ clips:
     start: 07:39.52
     end: 07:42.34
     fields:
+      transcription: それは、誰も分かりません。
       pronunciation: Sore-wa dare-mo wakarimasén.
       meaning: Nobody knows that. (polite)
     tags:
       - jgr1-1-4
-flashcardFieldsToSubtitlesTracks: {}
+flashcardFieldsToSubtitlesTracks:
+  transcription: c3f3e2ea-543a-44cd-b5e0-b7b6b8261ab5
 ---
 name: JGR 1-1-5 waraibanashi.m4a
 format: mov,mp4,m4a,3gp,3g2,mj2
@@ -9932,7 +10036,6 @@ clips:
       meaning: I'm fine with the shop. I want to work at the shop again! (polite)
     tags:
       - jgr1-1-5
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: JGR 1-3-1 basu.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
@@ -10480,17 +10583,24 @@ clips:
       pronunciation: Soshite, "Maruyama-Higashí"-no basu-tei-de, kyóu-mo iimásu. "O-báa-chan, arígatou!"
     tags:
       - jgr1-3-1
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: JGR 1-3-2 kimono.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 06:31.915
 id: a5048c86-e1d2-4375-a0b8-5834249fcdbc
+subtitles:
+  - id: 7241ac46-ac48-441d-9102-47d3d024d831
+    type: External
+    chunksMetadata:
+      count: 73
+      endCue: 19455.95
+    name: JGR 1-3-2 kimono.srt
 clips:
   - id: 59616256-5d4e-49a6-a547-12ae1d6041de
     start: 00:08.747
     end: 00:10.206
     fields:
+      transcription: 着物のいろいろ
       pronunciation: Kimono-no iroiro
     tags:
       - jgr1-3-2
@@ -10498,6 +10608,7 @@ clips:
     start: 00:12.685
     end: 00:17.635
     fields:
+      transcription: わあ 綺麗 色々な着物がありますね
       pronunciation: Waa, kírei! Iroiro-na kimono-ga, arimásu ne.
     tags:
       - jgr1-3-2
@@ -10505,6 +10616,7 @@ clips:
     start: 00:20.863
     end: 00:22.653
     fields:
+      transcription: 着物はいつから
       pronunciation: Kimono-wa, ítsu-kara?
     tags:
       - jgr1-3-2
@@ -10512,6 +10624,7 @@ clips:
     start: 00:24.996
     end: 00:29.31
     fields:
+      transcription: 日本の着物は平安時代に生まれました
       pronunciation: Nihon-no kimono-wa, Heian-jídai-ni umaremáshita.
       notes: |-
         umaremáshita = umareta
@@ -10522,6 +10635,9 @@ clips:
     start: 00:31.627
     end: 00:41.687
     fields:
+      transcription: |-
+        この時代男の人も女の人も一番下に白い
+        着物を着ました 小袖です
       pronunciation: Kono jidai, otokonohitó-mo onnanohitó-mo, ichí-ban shita-ni shirói kimono-o kimáshita. "Kosode"-désu.
       notes: |-
         kimáshita = kita
@@ -10534,6 +10650,7 @@ clips:
     start: 00:43.86
     end: 00:47.803
     fields:
+      transcription: そしてその上に袴をはきました
       pronunciation: Soshite, sono ué-ni, hakamá-o hakimáshita.
       notes: |-
         hakimáshita = haita
@@ -10544,6 +10661,7 @@ clips:
     start: 00:50.31
     end: 00:55.973
     fields:
+      transcription: 女の人は小袖の上に着物をたくさん来ました
       pronunciation: Onnanohitó-wa, kosode-no ué-ni, kimono-o takusan kimáshita.
     tags:
       - jgr1-3-2
@@ -10551,6 +10669,7 @@ clips:
     start: 00:58.307
     end: 01:03.661
     fields:
+      transcription: 夏は5枚くらい冬は 20枚くらい来ました
       pronunciation: Natsu-wa go-mai-kúrai, fuyú-wa ni-juu-mai-kúrai kimáshita.
     tags:
       - jgr1-3-2
@@ -10558,6 +10677,7 @@ clips:
     start: 01:06.246
     end: 01:11.1
     fields:
+      transcription: 一番下の小袖が今の着物の始まりです
       pronunciation: Ichi-ban-shita-no "kosode"-ga íma-no kimono-no hajimari-désu.
     tags:
       - jgr1-3-2
@@ -10565,6 +10685,9 @@ clips:
     start: 01:14.075
     end: 01:21.186
     fields:
+      transcription: |-
+        鎌倉時代や 室町時代には女の人は
+        袴をはきませんでした
       pronunciation: Kamakura-jídai-ya muromachi-jídai-ni-wa, onnanohitó-wa, hakamá-o hakimasén-deshita.
     tags:
       - jgr1-3-2
@@ -10572,13 +10695,17 @@ clips:
     start: 01:23.714
     end: 01:27.472
     fields:
-      pronunciation: Kírei-na kosode-o, ichi-ban ué-ni kimáshita.
+      transcription: "綺麗な小袖を一番上に着ました "
+      pronunciation: Kírei-na kosode-o, ichi-ban ue-ni kimáshita.
     tags:
       - jgr1-3-2
   - id: bb66ce87-6084-4972-9966-5c327fe5a502
     start: 01:28.779
     end: 01:31.885
     fields:
+      transcription: |-
+        そして
+        小袖に帯をしました
       pronunciation: Soshite, kosode-ni, óbi-o shimáshita.
     tags:
       - jgr1-3-2
@@ -10586,6 +10713,9 @@ clips:
     start: 01:34.504
     end: 01:41.536
     fields:
+      transcription: |-
+        安土桃山時代には 小袖の上にもう一枚 小袖
+        を着きました
       pronunciation: Ázuchi Momoyama-jídai-ni-wa, kosode-no ué-ni, mou ichí-mai, kosode-o kimáshita.
     tags:
       - jgr1-3-2
@@ -10593,6 +10723,9 @@ clips:
     start: 01:43.775
     end: 01:48.667
     fields:
+      transcription: |-
+        江戸時代は長いですから 着物
+        どうも色々あります
       pronunciation: Edo-jídai-wa nagái-desu-kara, kimono-mo iroiro arimásu.
     tags:
       - jgr1-3-2
@@ -10600,6 +10733,7 @@ clips:
     start: 01:51.331
     end: 01:57.714
     fields:
+      transcription: この時代の終わりには 今の着物や帯と同じものもあります
       pronunciation: Kono jidai-no owari-ní-wa, íma-no kimono-ya óbi-to onaji monó-mo arimáshita.
     tags:
       - jgr1-3-2
@@ -10607,6 +10741,7 @@ clips:
     start: 02:00.015
     end: 02:04.751
     fields:
+      transcription: 明治時代にヨーロッパから洋服が来ました
       pronunciation: Meiji-jídai-ni, Yooróppa-kara, youfuku-ga kimáshita.
     tags:
       - jgr1-3-2
@@ -10614,6 +10749,9 @@ clips:
     start: 02:07.165
     end: 02:15.005
     fields:
+      transcription: |-
+        でも明治時代 大正時代には まだ着物の人
+        人がたくさんいました
       pronunciation: Démo, Meiji-jídai, Taishou-jídai-ni-wa, máda, kimono-no hitó-ga takusan imáshita.
     tags:
       - jgr1-3-2
@@ -10621,6 +10759,7 @@ clips:
     start: 02:17.654
     end: 02:24.657
     fields:
+      transcription: 今日本人はあまり着物を着ません洋服を着ます では着物はいつ着ますか
       pronunciation: Íma, nihonjín-wa, amari kimono-o kimasén. Youfuku-o kimásu.
     tags:
       - jgr1-3-2
@@ -10628,6 +10767,7 @@ clips:
     start: 02:26.065
     end: 02:29.212
     fields:
+      transcription: では着物はいつ着ますか
       pronunciation: Déwa, kimono-wa, ítsu kimásu ka?
     tags:
       - jgr1-3-2
@@ -10635,6 +10775,7 @@ clips:
     start: 02:32.422
     end: 02:34.265
     fields:
+      transcription: いつ着物を着ますか
       pronunciation: Ítsu kimono-o kimásu ka?
     tags:
       - jgr1-3-2
@@ -10642,6 +10783,7 @@ clips:
     start: 02:36.734
     end: 02:37.786
     fields:
+      transcription: お宮参り
       pronunciation: O-miya-máiri
     tags:
       - jgr1-3-2
@@ -10649,6 +10791,7 @@ clips:
     start: 02:40.558
     end: 02:43.383
     fields:
+      transcription: 1ヶ月の赤ちゃん おめでとう
       pronunciation: Ik-ká-getsu-no áka-chan, omedetou!
     tags:
       - jgr1-3-2
@@ -10656,6 +10799,9 @@ clips:
     start: 02:44.73
     end: 02:48.784
     fields:
+      transcription: |-
+        お父さんとお母さんと
+        神社へ行きます
       pronunciation: O-tóu-san-to o-káa-san-to, jínja-e ikimásu.
     tags:
       - jgr1-3-2
@@ -10663,6 +10809,7 @@ clips:
     start: 02:51.928
     end: 02:52.888
     fields:
+      transcription: 七五三
       pronunciation: Shichi-go-san
     tags:
       - jgr1-3-2
@@ -10670,6 +10817,7 @@ clips:
     start: 02:55.409
     end: 02:57.743
     fields:
+      transcription: 11月15日です
       pronunciation: Juu-ichi-gatsú júu gó-nichi-desu.
     tags:
       - jgr1-3-2
@@ -10677,6 +10825,9 @@ clips:
     start: 03:00.088
     end: 03:08.643
     fields:
+      transcription: |-
+        3歳の女の子5歳の男の子7歳の
+        女の子 おめでとう
       pronunciation: Sán-sai-no onnanóko, gó-sai-no otokónoko, naná-sai-no onnanóko, omedetou!
     tags:
       - jgr1-3-2
@@ -10684,6 +10835,7 @@ clips:
     start: 03:10.571
     end: 03:12.601
     fields:
+      transcription: みんな神社へ行きます
       pronunciation: Minna, jínja-e ikimásu.
     tags:
       - jgr1-3-2
@@ -10691,6 +10843,7 @@ clips:
     start: 03:15.672
     end: 03:16.776
     fields:
+      transcription: 成人式
       pronunciation: Sei-jín-shiki
     tags:
       - jgr1-3-2
@@ -10698,6 +10851,7 @@ clips:
     start: 03:18.988
     end: 03:21.639
     fields:
+      transcription: 1月の第2日曜日です
       pronunciation: Ichi-gatsu-no dai-ni-nichiyóubi-desu.
     tags:
       - jgr1-3-2
@@ -10705,6 +10859,7 @@ clips:
     start: 03:23.881
     end: 03:25.411
     fields:
+      transcription: 二十歳おめでとう
       pronunciation: Hátachi, omedetou!
     tags:
       - jgr1-3-2
@@ -10712,6 +10867,9 @@ clips:
     start: 03:26.486
     end: 03:32.398
     fields:
+      transcription: |-
+        二十歳は大人です
+        もう子供じゃありません お酒もタバコもいいです
       pronunciation: Hátachi-wa, otona-désu. Móu, kodomo-ja arimasén.
     tags:
       - jgr1-3-2
@@ -10719,6 +10877,7 @@ clips:
     start: 03:33.732
     end: 03:36.489
     fields:
+      transcription: もう子供じゃありません お酒もタバコもいいです
       pronunciation: O-sake-mo tabako-mo íi-desu yo.
     tags:
       - jgr1-3-2
@@ -10726,6 +10885,7 @@ clips:
     start: 03:39.678
     end: 03:41.74
     fields:
+      transcription: 大学の卒業式
       pronunciation: Daigaku-no sotsugyóu-shiki.
     tags:
       - jgr1-3-2
@@ -10733,6 +10893,7 @@ clips:
     start: 03:44.028
     end: 03:45.054
     fields:
+      transcription: 3月です
       pronunciation: Sán-gatsu-desu.
     tags:
       - jgr1-3-2
@@ -10740,6 +10901,7 @@ clips:
     start: 03:46.52
     end: 03:47.935
     fields:
+      transcription: 卒業おめでとう
       pronunciation: Sotsugyou omedetou!
     tags:
       - jgr1-3-2
@@ -10747,6 +10909,7 @@ clips:
     start: 03:49.264
     end: 03:54.594
     fields:
+      transcription: 大変な 勉強も楽しいこともたくさんありました
       pronunciation: Taihen-na benkyou-mo, tanoshíi kotó-mo, takusan arimáshita.
     tags:
       - jgr1-3-2
@@ -10754,6 +10917,7 @@ clips:
     start: 03:57.82
     end: 03:58.842
     fields:
+      transcription: 結婚式
       pronunciation: Kekkón-shiki
     tags:
       - jgr1-3-2
@@ -10761,6 +10925,7 @@ clips:
     start: 04:01.1
     end: 04:03.45
     fields:
+      transcription: 結婚おめでとうございます
       pronunciation: Kekkon, omedetou gozaimásu!
     tags:
       - jgr1-3-2
@@ -10768,6 +10933,7 @@ clips:
     start: 04:05.036
     end: 04:12.072
     fields:
+      transcription: 花嫁さんは打ち掛け。花婿さんは、羽織袴。
       pronunciation: Hanáyome-san-wa, uchikake. Hanámuko-san-wa, haori - hakama.
     tags:
       - jgr1-3-2
@@ -10775,6 +10941,7 @@ clips:
     start: 04:13.986
     end: 04:16.44
     fields:
+      transcription: お母さん達は 留袖
       pronunciation: O-káa-san-tachi-wa, tomesode.
     tags:
       - jgr1-3-2
@@ -10782,6 +10949,7 @@ clips:
     start: 04:18.365
     end: 04:21.179
     fields:
+      transcription: お父さん達だけ洋服です
       pronunciation: O-tóu-san-tachi-dake, youfuku-désu.
     tags:
       - jgr1-3-2
@@ -10789,6 +10957,7 @@ clips:
     start: 04:22.443
     end: 04:23.921
     fields:
+      transcription: モーニング おきます
       pronunciation: Móoningu-o kimásu.
     tags:
       - jgr1-3-2
@@ -10796,6 +10965,7 @@ clips:
     start: 04:27.022
     end: 04:28.583
     fields:
+      transcription: 着物を作ります
       pronunciation: Kimono-o tsukurimásu!
     tags:
       - jgr1-3-2
@@ -10803,6 +10973,7 @@ clips:
     start: 04:31.041
     end: 04:34.665
     fields:
+      transcription: "着物は一枚の布から作ります "
       pronunciation: Kimono-wa ichí-mai-no nuno-kara tsukurimásu.
       notes: tsukurimásu = tsukúru
     tags:
@@ -10811,6 +10982,7 @@ clips:
     start: 04:36.854
     end: 04:39.3
     fields:
+      transcription: ①布を切ります
       pronunciation: "Ichi: nuno-o kirimásu."
     tags:
       - jgr1-3-2
@@ -10818,6 +10990,7 @@ clips:
     start: 04:41.236
     end: 04:43.228
     fields:
+      transcription: ②縫います
       pronunciation: "Ni: nuimásu."
       notes: nuimásu = núu
     tags:
@@ -10826,6 +10999,7 @@ clips:
     start: 04:46.38
     end: 04:47.793
     fields:
+      transcription: 着物を着ましょう
       pronunciation: Kimono-o kimashóu.
     tags:
       - jgr1-3-2
@@ -10833,6 +11007,9 @@ clips:
     start: 04:49.915
     end: 04:55.474
     fields:
+      transcription: |-
+        女の人
+        ①足袋を履きます
       pronunciation: "Onnanohitó. Ichi: tábi-o hakimásu."
       notes: hakimásu = haku
     tags:
@@ -10841,6 +11018,7 @@ clips:
     start: 04:57.489
     end: 05:00.23
     fields:
+      transcription: ②裾除けを着ます
       pronunciation: "Ni: susoyoke-o kimásu."
     tags:
       - jgr1-3-2
@@ -10848,6 +11026,7 @@ clips:
     start: 05:02.147
     end: 05:05.07
     fields:
+      transcription: ③肌襦袢を着ます
       pronunciation: "San: hadajúban-o kimásu."
     tags:
       - jgr1-3-2
@@ -10855,6 +11034,7 @@ clips:
     start: 05:07.183
     end: 05:09.822
     fields:
+      transcription: ④タオルを入れます
       pronunciation: "Yón: táoru-o iremásu."
     tags:
       - jgr1-3-2
@@ -10862,6 +11042,7 @@ clips:
     start: 05:11.827
     end: 05:14.507
     fields:
+      transcription: ⑤長襦袢を着ます
       pronunciation: "Go: nagajúban-o kimásu."
     tags:
       - jgr1-3-2
@@ -10869,6 +11050,7 @@ clips:
     start: 05:16.512
     end: 05:19.174
     fields:
+      transcription: ⑥着物を着ます
       pronunciation: "Rokú: kimono-o kimásu."
     tags:
       - jgr1-3-2
@@ -10876,6 +11058,7 @@ clips:
     start: 05:21.293
     end: 05:25.424
     fields:
+      transcription: ⑦帯をします綺麗ですね
       pronunciation: "Nána: óbi-o shimásu. Kírei-desu ne."
     tags:
       - jgr1-3-2
@@ -10883,6 +11066,9 @@ clips:
     start: 05:28.565
     end: 05:35.846
     fields:
+      transcription: |-
+        男の人
+        1から6まで女の人と同じです
       pronunciation: Otokonohitó. Ichí-kara rokú-made, onnanohitó-to onaji-désu.
     tags:
       - jgr1-3-2
@@ -10890,6 +11076,7 @@ clips:
     start: 05:38.028
     end: 05:40.627
     fields:
+      transcription: 7 袴をはきます
       pronunciation: "Nána: hakama-o hakimásu."
     tags:
       - jgr1-3-2
@@ -10897,6 +11084,7 @@ clips:
     start: 05:42.791
     end: 05:47.427
     fields:
+      transcription: ⑧ 羽織を着ますかっこいいですね
       pronunciation: "Hachi: haori-o kimásu. Kakkoíi-desu ne."
     tags:
       - jgr1-3-2
@@ -10904,6 +11092,7 @@ clips:
     start: 05:50.61
     end: 05:53.515
     fields:
+      transcription: いいですか だめですか
       pronunciation: Íi-desu ka? Damé-desu ka?
     tags:
       - jgr1-3-2
@@ -10911,6 +11100,7 @@ clips:
     start: 05:56.442
     end: 05:57.889
     fields:
+      transcription: 右前に着ます
       pronunciation: Migimae-ni kimásu.
     tags:
       - jgr1-3-2
@@ -10918,6 +11108,7 @@ clips:
     start: 06:00.065
     end: 06:01.344
     fields:
+      transcription: 髪を上げます
       pronunciation: Kamí-o agemásu.
     tags:
       - jgr1-3-2
@@ -10925,6 +11116,7 @@ clips:
     start: 06:03.298
     end: 06:04.645
     fields:
+      transcription: 腕を出しません
       pronunciation: Udé-o dashimasén.
       notes: |-
         dashimasén = dasánai
@@ -10935,6 +11127,7 @@ clips:
     start: 06:06.561
     end: 06:08.794
     fields:
+      transcription: 小さく 静かに歩きます
       pronunciation: Chíisaku shízuka-ni arukimásu.
       notes: arukimásu = arúku
     tags:
@@ -10943,6 +11136,7 @@ clips:
     start: 06:12.005
     end: 06:13.553
     fields:
+      transcription: 浴衣を着ましょう
       pronunciation: Yukata-o kimashóu.
     tags:
       - jgr1-3-2
@@ -10950,6 +11144,7 @@ clips:
     start: 06:16.006
     end: 06:18.642
     fields:
+      transcription: 浴衣は夏の着物です
       pronunciation: Yukata-wa, natsu-nó kimono-désu.
     tags:
       - jgr1-3-2
@@ -10957,6 +11152,7 @@ clips:
     start: 06:20.381
     end: 06:22.658
     fields:
+      transcription: さあ 浴衣を着ましょう
       pronunciation: Sáa, yukata-o kimashóu.
     tags:
       - jgr1-3-2
@@ -10964,16 +11160,13 @@ clips:
     start: 06:25.703
     end: 06:28.982
     fields:
+      transcription: そして 花火大会に行きましょう
       pronunciation: Soshite, hanabi-táikai-ni ikimashóu.
       notes: ikimashóu = ikóu
     tags:
       - jgr1-3-2
-  - id: 1c12a2ed-5dd4-4c0c-89df-3891febf4d9b
-    start: 06:31.915
-    end: 06:31.915
-    tags:
-      - jgr1-3-2
-flashcardFieldsToSubtitlesTracks: {}
+flashcardFieldsToSubtitlesTracks:
+  transcription: 7241ac46-ac48-441d-9102-47d3d024d831
 ---
 name: JGR 1-3-3 doushite ebi no karada wa magatta.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
@@ -11191,7 +11384,6 @@ clips:
       pronunciation: Sore-kara, ebi-no karada-wa magarimáshita.
     tags:
       - jgr1-3-3
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: JGR 1-3-4 doushite nekodoshi ga nai.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
@@ -11604,7 +11796,6 @@ clips:
       pronunciation: Soshite, íma-mo, néko-wa, nezumi-ga kirai-désu.
     tags:
       - jgr1-3-4
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: JGR 1-3-5 shitakiri suzume.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
@@ -12121,13 +12312,11 @@ clips:
     end: 08:33.019
     tags:
       - jgr1-3-5
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: JGR 1-3-6 jon san no natsuyasumi.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 08:58.436
 id: 0937d045-0011-4b9b-9bc6-23ee437cb336
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: genki 01 atarashii tomodachi.mp3
 format: mp3
@@ -12259,115 +12448,105 @@ clips:
     end: 01:47.249
     tags:
       - genki-01
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: genki 02 kaimono.mp3
 format: mp3
 duration: 04:16.687
 id: cb484ed8-ab6f-46b8-b534-b6aca4940d61
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: genki 03 deeto no yakusoku.mp3
 format: mp3
 duration: 03:27.237
 id: a83b5e14-fae6-472e-bf9c-98de935c793a
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: genki 04 hajimete no deeto.mp3
 format: mp3
 duration: 04:55.348
 id: 27152550-922b-4b91-9e76-05ee29248cf3
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: genki 05 okinawa ryokou.mp3
 format: mp3
 duration: 04:22.878
 id: 977f821d-0797-441a-8b91-2e0e110b7a69
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: genki 06 robaato san no ichinichi.mp3
 format: mp3
 duration: 04:58.901
 id: 8b828800-e216-4d91-ab51-d74e68ba60f0
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: genki 07 kazoku no shashin.mp3
 format: mp3
 duration: 04:43.931
 id: 0e7344b3-d45d-430f-ab23-4d8aa2f620fa
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: genki 08 babekkyuu.mp3
 format: mp3
 duration: 03:24.624
 id: 166bb448-4565-4be6-9d1a-56282cdf5a25
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: genki 09 kabuki.mp3
 format: mp3
 duration: 03:44.189
 id: 762f4125-2de0-4b03-ad52-bf365d2f724b
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: genki 10 fuyuyasumi no yotei.mp3
 format: mp3
 duration: 04:07.83
 id: 397a83b6-9841-4639-ab77-b3a09ab411ca
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: genki 11 yasumi no ato.mp3
 format: mp3
 duration: 04:38.263
 id: 7fb0d9e0-ca51-481c-ab34-a9ca2dd9a4e6
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: genki 12 byouki.mp3
 format: mp3
 duration: 03:37.685
 id: 959449c9-0eb6-41ed-a5b4-275933b822bd
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: JGR 2-3-1 nihon no ofuro.mp3
 format: mp3
 duration: 10:46.269
 id: 3a1a8d64-e9d5-465b-94e0-cfa5a4d5ca57
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: JGR 2-3-2 houi to chana.mp3
 format: mp3
 duration: 10:51.363
 id: 187f4f83-7498-4535-937d-0319483b8db2
-flashcardFieldsToSubtitlesTracks: {}
+subtitles:
+  - id: 6d7d5abe-a225-481b-b559-cf5d9b0e300c
+    type: External
+    chunksMetadata:
+      count: 162
+      endCue: 32383.95
+    name: JGR 2-3-2 houi to chana.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 6d7d5abe-a225-481b-b559-cf5d9b0e300c
 ---
 name: JGR 2-3-3 gonkitsune.mp3
 format: mp3
 duration: 11:31.775
 id: 7547cb4e-9b2d-471b-92e1-f61ce458aa0f
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: JGR 2-3-4 soopii no fuyu no ie.mp3
 format: mp3
 duration: 11:58.942
 id: b4119e57-282c-412c-85a7-1daa0d8e03f4
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: JGR 2-3-5 ikkyuusan sono ni 1 rousoku.mp3
 format: mp3
 duration: 03:36.268
 id: a89170d6-0777-489b-b5be-a7a9a2b215d4
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: JGR 2-3-5 ikkyuusan sono ni 2 hashi.mp3
 format: mp3
 duration: 02:59.383
 id: da7c8cba-b021-4b40-a523-0bb3fb17819e
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: JGR 2-3-5 ikkyuusan sono ni 3 obousan no kimono.mp3
 format: mp3
 duration: 05:18.694
 id: 8ff9ca61-cc5b-4a77-a89e-6abc70ebf3ae
-flashcardFieldsToSubtitlesTracks: {}
 ---
 name: Shirokuma Cafe.mkv
 format: matroska,webm
@@ -12457,4 +12636,3 @@ clips:
   - id: b878e0bb-e1d1-4d95-a021-182cbb0c7b50
     start: 22:04.98
     end: 22:07.58
-flashcardFieldsToSubtitlesTracks: {}

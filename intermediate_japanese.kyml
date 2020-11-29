@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-11-27T21:22:45Z
+timestamp: 2020-11-28T22:28:32Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -4537,7 +4537,7 @@ clips:
         温泉では大きいお風呂に入ったり
         美味しい料理を食べたり
         浴衣を着たりしてリラックスします
-      meaning: When speaking of Japan’s famous sites we shouldn’t forget to mention its hot springs. Japan has many volcanoes, so there are hot springs throughout Japan. Many peOple go to hot springs for the purpose of sightseeing or leisure, where they do such things as bathe in large hot spring. baths, eat delicious food, and relax wearing yukata (informal summer cotton kimono).
+      meaning: When speaking of Japan’s famous sites we shouldn’t forget to mention its hot springs. Japan has many volcanoes, so there are hot springs throughout Japan. Many people go to hot springs for the purpose of sightseeing or leisure, where they do such things as bathe in large hot spring. baths, eat delicious food, and relax wearing yukata (informal summer cotton kimono).
     tags: *a1
   - id: 92cb9c1d-b272-43f1-9bfb-b1c7c3b20f8e
     start: 03:39.28
@@ -5411,19 +5411,28 @@ subtitles:
       endCue: 18854.35
     name: Tobira_L04-1_yomimono.srt
 clips:
+  - id: 68ed7beb-447e-4071-bfb1-12a3ce0a9a19
+    start: 00:15.06
+    end: 00:43.8
+    fields:
+      transcription: 現代の日本人は、野球、サッカー、ゴルフ、スキーなど、色々なスポーツを楽しんでいる。若い人たちだけでなく、子供からお年寄りまで スポーツを楽しみ、そして、種類も、海や山のスポーツ、夏や冬のスポーツ、一人でするスポーツ、チームでするスポーツ、健康のためのスポーツなど、何でもある。
+      meaning: "Present-day Japanese people enjoy many different sports, such as baseball, soccer, golf, and skiing. Not only young people but (people of all ages) from children to the elderly enjoy sports, and there are all types of sports, such as ocean, mountain, summer and winter sports, one-person sports, team sports, and sports for health. "
+    tags:
+      &a1
+      - tobira04
   - id: 0aab6132-b370-492a-967e-db0fdb23f772
     start: 00:45.135
     end: 00:58.175
     fields:
       transcription: テレビでも毎日のように、色々なスポーツ番組が見られるが、特に{{c1::代表的}}なものは野球、サッカー、ゴルフ、テニス、相撲などだ。
-    tags:
-      &a1
-      - tobira04
+      meaning: On television, as well, a variety of sports programs can also be viewed almost every day, but particularly popular (lit. representative) are baseball, soccer, golf, tennis, and sumo wrestling.
+    tags: *a1
   - id: 41cd2071-62a0-4f6f-931b-3be6e7084ecd
     start: 00:59.648
     end: 01:19.6
     fields:
       transcription: 日本国内の試合だけでなく、日本人野球選手が活躍しているアメリカのMLB、プロ野球のメジャーリーグや、サッカーのワールドカップ、オリンピックなども全てリアルタイムで見ることができ、スポーツ観戦はとても人気がある。
+      meaning: You can view in real time not only games within Japan but also games such as America’s MLB (professional major-league baseball), where Japanese baseball players play; the soccer World Cup; and the Olympics. Watching sports is very popular.
     tags:
       - tobira04
   - id: 55d5bcc3-bc54-465c-af16-7fb48e6b10f7
@@ -5431,81 +5440,72 @@ clips:
     end: 01:32.068
     fields:
       transcription: |-
-        日本では試合で勝つことも大切だが
-        スポーツをすることで
-        人間として成長することが
-        それと同じぐらい大切だと考えられている
+        日本では試合で勝つことも大切だが、スポーツをすることで、
+        人間として成長することが、それと同じぐらい大切だと考えられている。
+      meaning: In Japan, while winning at sports matches is thought to be important, maturing as a person by playing sports is thought to be almost as important.
     tags: *a1
   - id: cb3fe445-1176-4924-82fa-38335aece18e
     start: 01:33.144
     end: 01:45.924
     fields:
-      transcription: |-
-        例えば
-        日本の国技の相撲では
-        力士が相手力士に勝った時
-        土俵の上で笑顔を見せたり ガッツポーズをしたりするのは
-        いいことだと思われていない
+      transcription: 例えば、日本の国技の相撲では、力士が相手力士に勝った時、土俵の上で笑顔を見せたりガッツポーズをしたりするのは、いいことだと思われていない。
+      meaning: For example, in Japan’s national sport, sumo wrestling, after a sumo wrestler defeats an opponent, it is frowned upon if he smiles or raises his fist in triumph inside the ring.
     tags: *a1
   - id: a3121766-45ca-4612-8015-90266686525a
     start: 01:47.208
     end: 02:02.42
     fields:
       transcription: だから、勝って嬉しくて大声で叫びたい時でも、負けて悔しい時でも、土俵の上でその気持ちを表現したり、試合の後のインタビューでべらべら話したりすることはあまりしない。
+      meaning: Therefore, whether a sumo wrestler wants to shout for joy at winning or is frustrated at losing, he rarely expresses that feeling while he is in the ring or talks glibly about it in interviews after a match.
     tags: *a1
   - id: eafc8029-0599-4ba4-be93-299ad91c9f99
     start: 02:03.392
     end: 02:09.024
     fields:
       transcription: もちろん、相手を笑ったり、バカにしたジェスチャーをするなどは絶対にしてはいけない。
+      meaning: Of course, laughing at or making mocking gestures toward an opponent is absolutely forbidden.
     tags: *a1
   - id: 4e28c633-be7e-4f67-adb6-8b7ab8988cb4
     start: 02:11.072
     end: 02:24.132
     fields:
       transcription: 柔道や剣道、空手や合気道など、日本に昔からある武道では、まず「礼に始まり礼に終わる」という考え方が大切だと教えられる。
+      meaning: In judo, kendo, karate, aikido, and other martial arts that have existed for centuries in Japan, the concept of “beginning and ending with a bow” is the first to be taught as important.
     tags: *a1
   - id: 098655d4-e6a1-4e00-aaf9-9d7229064194
     start: 02:25.84
     end: 02:33.84
     fields:
-      transcription: |-
-        そしてこの考え方は
-        武道が スポーツとして世界中で楽しまれるようになっても変わっていない
+      transcription: そして、この考え方は、武道がスポーツとして世界中で楽しまれるようになっても変わっていない。
+      meaning: Even though martial arts have come to be enjoyed as sports throughout the world, this way of thinking has not changed.
     tags: *a1
   - id: 51df393c-a2b2-44b8-8bce-a0c1374efd4a
     start: 02:35.668
     end: 02:49.168
     fields:
-      transcription: |-
-        例えば 武道を習う人は
-        まず道場に入る前に
-        道場に向かって礼をする
-        そして練習が始まる前には
-        先生に向かって礼をする
+      transcription: 例えば、武道を習う人は、まず道場に入る前に、道場に向かって礼をする。そして練習が始まる前には、先生に向かって礼をする。
+      meaning: For example, before martial arts learners enter the training hall, they bow first toward the hall. Then, before they begin practice, they bow toward their teacher.
     tags: *a1
   - id: e2167e48-0101-437b-8bc6-789efed4efa4
     start: 02:50.556
     end: 03:03.116
     fields:
-      transcription: |-
-        練習する相手ともお互いに礼をし会ってから始め
-        終わった時にも礼をする
-        そして
-        道場を出る時にも
-        礼をしなくてはいけない
+      transcription: 練習する相手とも、お互いに礼をし会ってから始め、終わった時にも礼をする。そして道場を出る時にも、礼をしなくてはいけない。
+      meaning: When they practice with a partner, they begin after bowing to each other, and bow again when they are finished. And, they also must bow when they leave the hall.
     tags: *a1
   - id: 994ed3ef-a65d-4a5b-87cc-30ac500fe4e2
     start: 03:04.519
     end: 03:14.739
     fields:
       transcription: この礼は、挨拶の為だけにするのではなく、相手に向かって尊敬や感謝の気持ちを表すという意味が含まれているのだ。
+      meaning: This bowing is not done just as a greeting but also has the meaning of expressing respect and feelings of gratitude toward your opponent.
     tags: *a1
   - id: 479a2c66-89ef-43cf-8443-b486e55a681c
     start: 03:15.9
     end: 03:24.22
     fields:
       transcription: そのため、子供が礼儀正しい人間に育つように、子供を武道の道場に通わせる親もいる。
+      meaning: Because of this, some parents send their children to martial arts training schools so that they grow up to be courteous human beings.
     tags:
       - tobira04
   - id: faf9b299-15a9-4a14-be26-f614a7adef4e
@@ -5515,6 +5515,7 @@ clips:
       transcription: |-
         日本のスポーツでは「心・技・体」という考え方もとても大切だ。
         「心」は 精神力、「技」は運動の技術や能力、「体」は体力のことで、どんなスポーツでもこの三つがなければ上手にならないと考えられている。
+      meaning: "In Japanese sports, the idea of shin-gi-tai (spirit, technique, and physical strength) is very important as well. Shin (spirit) means emotional strength, gi (technique) means athletic technique and ability, and tai (physical strength) means physical endurance; it is　thought that no matter what the sport, without these three things, a person won’t become skilled. "
     tags:
       - tobira04
   - id: 783702dc-092d-4567-bf93-8e6ee5ad2cd1
@@ -5522,54 +5523,43 @@ clips:
     end: 03:57.644
     fields:
       transcription: 「心」には強い精神力という意味の他に、人が人として持たなければならない心という意味が含まれている。
+      meaning: Besides the meaning “powerful emotional strength,” shin also means the “human spirit” that all of us must have as human beings.
     tags: *a1
   - id: b8b6639f-5eb9-4df9-afe9-61786b7a57a7
     start: 03:59.676
     end: 04:20.516
     fields:
-      transcription: |-
-        日本のプロ野球で9年間プレーをして
-        今はアメリカの MLB で活躍しているある選手がインタビューに答えて
-        バッターが三振をした後に自分のバットを折ってしまったり
-        ピッチャーが打たれた後にグローブをロッカーに投げたりするのを見ると驚く
+      transcription: 日本のプロ野球で9年間プレーをして、今はアメリカの MLB で活躍しているある選手がインタビューに答えて、バッターが三振をした後に自分のバットを折ってしまったり、ピッチャーが打たれた後にグローブをロッカーに投げたりするのを見ると驚く、
+      meaning: One baseball player who played professional baseball in Japan for nine years and is now active in American Major League Baseball said in an interview that he is surprised whenever he sees a batter breaking his bat after being struck out or a pitcher throwing his glove at his locker after (a batter) hit his pitch.
     tags:
       - tobira04
   - id: 17c70cca-6219-410c-8802-45332c65b9dc
     start: 04:21.32
     end: 04:27.78
     fields:
-      transcription: |-
-        それを作ってくれた人たちのことを考えたら
-        僕にはそんなことは絶対にできないと言っている
+      transcription: それを作ってくれた人たちのことを考えたら、僕にはそんなことは絶対にできないと言っている。
+      meaning: "He said that when he thinks about the people who made those bats and gloves, there is no way he could do something like that. "
     tags: *a1
   - id: d9e9681a-e014-483e-b30c-ee2de390a94d
     start: 04:29.64
     end: 04:39.2
     fields:
-      transcription: |-
-        試合や練習が終わって彼が一番最初にするのは
-        使った
-        バットやグローブやスパイクの手入れ だそうだ
+      transcription: 試合や練習が終わって彼が一番最初にするのは、使ったバットやグローブやスパイクの手入れ だそうだ。
+      meaning: He said that after a game or a practice ends the first thing he does is care for the bats, gloves, and spikes that he’s just used.
     tags: *a1
   - id: b23493b4-ea8a-4299-973e-a78d280ec94d
     start: 04:40.624
     end: 04:50.644
     fields:
-      transcription: |-
-        彼にとっては野球のプレーだけでなく
-        彼に野球をさせてくれるものや
-        その後ろにいる人たちも
-        とても大切なのだろう
+      transcription: 彼にとっては野球のプレーだけでなく、彼に野球をさせてくれるものや、その後ろにいる人達も、とても大切なのだろう。
+      meaning: To him, it’s not only playing baseball that’s important, but probably it’s also all the things and people behind him that allow him to play that are important.
     tags: *a1
   - id: e4cd4198-bf18-4899-a7b2-c74020667933
     start: 04:52.42
     end: 05:07.72
     fields:
-      transcription: |-
-        その他 日本のプロ野球では
-        ピッチャーがバッターにデッドボール を与えてしまったら
-        帽子を脱いでバッターに謝るが
-        これも「心」を大切にする 例の一つだと言えるのではないだろうか
+      transcription: その他、日本のプロ野球では、ピッチャーがバッターにデッドボール を与えてしまったら、帽子を脱いでバッターに謝るが、これも「心」を大切にする 例の一つだと言えるのではないだろうか。
+      meaning: Additionally, in Japanese professional baseball when a batter is hit by a pitch, the pitcher removes his hat and apologizes to the batter. We could say that this is another example of the importance of “spirit.”
     tags:
       - tobira04
   - id: 48a69fa8-db71-47e4-a713-abf687db1631
@@ -5577,45 +5567,40 @@ clips:
     end: 05:22.819
     fields:
       transcription: |-
-        1984年のロサンゼルスオリンピックで
-        金メダルを取った
-        柔道の山下泰裕 選手は
-        若い選手たちを育てるときにこんなことを言う そうだ
+        1984年のロサンゼルスオリンピックで金メダルを取った
+        柔道の山下泰裕選手は、若い選手たちを育てる時にこんなことを言うそうだ。
+      meaning: |-
+        When training young players, judo’s Yamashita
+        Yasuhiro, winner of a gold medal in the 1984 Los
+        Angeles Olympics, is said to say something like this:
     tags: *a1
   - id: d33cedd3-9ed6-4715-b36f-a1d7f2fb6f4a
     start: 05:23.96
     end: 05:36.26
     fields:
-      transcription: |-
-        バスや電車に乗っている時にお年寄りや 赤ちゃんのいる女性などが乗ってきたら
-        すぐに立って席を譲る
-        誰かが重いものを持っていたら代わりに持ってあげる
+      transcription: 「バスや電車に乗っている時にお年寄りや 赤ちゃんのいる女性などが乗ってきたら、すぐに立って席を譲る、誰かが重いものを持っていたら代わりに持ってあげる、
+      meaning: " “When riding on a bus or train, if an elderly person or a woman holding a baby gets on, you immediately stand up and give them your seat;"
     tags: *a1
   - id: e56b8ba2-7116-4b22-b4b6-df5b87725670
     start: 05:37.0
     end: 05:46.94
     fields:
-      transcription: |-
-        困っている人がいたら迷わず助けてあげる
-        道場で学んだことを そういうところで生かすのが 柔道の精神 なんだよ
+      transcription: 困っている人がいたら迷わず助けてあげる。道場で学んだことを そういうところで生かすのが柔道の精神 なんだよ」。
+      meaning: if someone is carrying a heavy object, you carry it for him; if someone is in trouble, you help him without hesitation. Using what you have learned through judo in this way is the spirit of judo.” Yamashita calls this way of thinking “the spirit of judo,” but in fact we could say his words express in easy-to-understand terms a general way of thinking about Japanese sports, For Japanese people, the important part of sports is not only winning matches or becoming healthy, but also learning how to think about etiquette and spirit.
     tags: *a1
   - id: c3aedd78-90ab-44ab-b4ba-c4e6f436d20b
     start: 05:48.28
     end: 06:02.78
     fields:
-      transcription: |-
-        山下選手はこの考え方を柔道の精神 だと言っているが
-        実は彼の言葉は
-        日本人のスポーツについての一般的な考え方をわかりやすく表していると言えるだろう
+      transcription: 山下選手はこの考え方を「柔道の精神」だと言っているが、実は彼の言葉は、日本人のスポーツについての一般的な考え方をわかりやすく表していると言えるだろう。
+      meaning: Yamashita calls this way of thinking “the spirit of judo,” but in fact we could say his words express in easy-to-understand terms a general way of thinking about Japanese sports.
     tags: *a1
   - id: eb94da20-dd06-47ac-b691-8c93eacac875
     start: 06:04.504
     end: 06:16.884
     fields:
-      transcription: |-
-        日本人にとってスポーツで大切なことは
-        試合に勝つことや健康になることだけでなく
-        礼や 心についての考え方も学ぶことなのである
+      transcription: 日本人にとってスポーツで大切なことは、試合に勝つことや健康になることだけでなく、「礼」や「心」についての考え方も学ぶことなのである。
+      meaning: For Japanese people, the important part of sports is not only winning matches or becoming healthy, but also learning how to think about etiquette and spirit.
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: 6d781039-00e6-41b8-b406-e9428fc674ff
@@ -5699,38 +5684,24 @@ clips:
     start: 00:13.72
     end: 00:31.52
     fields:
-      transcription: |-
-        世界中の人々に広く親しまれている食べ物 インスタントラーメン
-        世界ラーメン協会のデータによると
-        2008年に
-        全世界で消費されたインスタントラーメンは
-        936.06億食だそうです
+      transcription: 世界中の人々に広く親しまれている食べ物、インスタントラーメン。世界ラーメン協会のデータによると、2008年に全世界で消費されたインスタントラーメンは、936.0億食だそうです。
+      meaning: "Instant ramen: a food widely popular among people throughout the world. According to data from the World Ramen Association, the amount of instant ramen consumed in the entire world in 2008 was 93 billion 600 million servings."
     tags:
       - tobira05
   - id: 4eb7b1c8-b47f-4e2f-8d36-23df2ae4682f
     start: 00:32.42
     end: 01:00.013
     fields:
-      transcription: |-
-        世界で一番インスタントラーメンをたくさん食べる国は中国で451.7億食
-        その次はインドネシアの137.0億食
-        日本の51.0億食
-        アメリカの43.2億食
-        ベトナムの39.1億食
-        韓国の33.4 億食 続きます
+      transcription: 世界で一番インスタントラーメンをたくさん食べる国は中国で451.7億食、その次はインドネシアの137.0億食、日本の51.0億食、アメリカの43.2億食、ベトナムの39.1億食、韓国の33.4億食と続きます。
+      meaning: The country where the most instant ramen is eaten is China with 45 billion 170 million servings; following that is Indonesia’s 13 billion 700 million servings, Japan’s 5 billion 100 million servings, the US’s 4 billion 320 million servings, Vietnam’s 3 billion 910 million servings, and South Korea’s 3 billion 340 million servings.
     tags:
       - tobira05
   - id: 51f30065-68b6-4e56-a4b8-a6e784593ce2
     start: 01:01.169
     end: 01:18.38
     fields:
-      transcription: |-
-        一人当たりの消費量が最も多いのは韓国で
-        韓国人一人が食べた インスタントラーメンは
-        1年に約69 食ということです
-        日本では
-        1年に一人当たり
-        約40食を食べています
+      transcription: 一人当たりの消費量が最も多いのは韓国で、韓国人一人が食べた インスタントラーメンは1年に約69食ということです。日本では、1年に一人当たり約40食を食べています。
+      meaning: The country with the greatest consumption amount per capita is South Korea, with one South Korean eating approximately 69 servings of instant ramen per year. In Japan, one person eats about 40 servings of instant ramen per year.
     tags:
       - tobira05
   - id: c7ed17c6-84bf-4b7d-915a-de6f365dba8e
@@ -5738,95 +5709,65 @@ clips:
     end: 01:32.992
     fields:
       transcription: |-
-        インスタントラーメンには
-        袋入りラーメンとカップラーメンがありますが
-        多く食べられているのはカップラーメンの方です
-        皆さんも一度は食べたことがあるのではないでしょうか
+        インスタントラーメンには袋入りラーメンとカップラーメンがありますが、多く食べられているのはカップラーメンの方です。
+        皆さんも一度は食べたことがあるのではないでしょうか。
+      meaning: Instant ramen comes in either packages or cups, but cup ramen is eaten in greater volume. You must have eaten cup ramen at least once before.
     tags:
       - tobira05
   - id: f741da2b-d4e3-4695-91af-15c3ae5f1a1c
     start: 01:34.093
     end: 01:54.533
     fields:
-      transcription: |-
-        カップにお湯を入れて
-        3分待てば 食べられるカップラーメンは
-        値段の安さ
-        簡単さ
-        種類の多さ などで特に若者に人気が高く
-        一人暮らしをしている日本の学生の中には
-        カップラーメンに毎日のようにお世話になっている人もいる と聞きます
+      transcription: カップにお湯を入れて3分待てば 食べられるカップラーメンは、値段の安さ、簡単さ、種類の多さなどで、特に若者に人気が高く、一人暮らしをしている日本の学生の中には、カップラーメンに毎日のようにお世話になっている人もいると聞きます。
+      meaning: Cup ramen, which can be eaten after pouring hot water into the cup and waiting three minutes, is particularly popular among young people because of its low price, ease of preparation and number of varieties—one hears that there are some Japanese students living by themselves who rely on (lit. are indebted to) cup ramen almost every day.
     tags:
       - tobira05
   - id: 7da224f6-e673-4e7e-ac1a-6956645d092f
     start: 01:55.78
     end: 02:11.0
     fields:
-      transcription: |-
-        現在 東南アジアをはじめ
-        南米
-        ヨーロッパ アフリカなど
-        世界80カ国以上の国で食べられているカップラーメン ですが
-        皆さんはこれが
-        日本で出来たということを知っていましたか
+      transcription: 現在、東南アジアをはじめ南米、ヨーロッパ 、アフリカなど世界80カ国以上の国で食べられているカップラーメンですが、皆さんはこれが日本で出来たということを知っていましたか。
+      meaning: Cup ramen is currently eaten in over 80 countries throughout the world, from Southeast Asia to South America, Europe, and Africa, but did you know it was first made in Japan?
     tags:
       - tobira05
   - id: b8bb47ae-56b9-4d90-ac06-2117a37f8681
     start: 02:11.82
     end: 02:25.34
     fields:
-      transcription: |-
-        カップラーメンは今から30年以上も前に
-        安藤百福という人によって発明されました
-        安藤 が一番初めに作ったカップラーメンは
-        カップヌードルと言います
+      transcription: カップラーメンは今から30年以上も前に安藤百福という人によって発明されました。安藤が一番初めに作ったカップラーメンは「カップヌードル」と言います。
+      meaning: Cup ramen was invented over 30 years ago by a person called Ando Momofuku. The first cup ramen Ando made was (lit. is) called “Cup Noodle.”
     tags:
       - tobira05
   - id: ea179252-1c9c-4c89-a86f-795d8e14e7cc
     start: 02:26.96
     end: 02:38.84
     fields:
-      transcription: |-
-        安藤はカップヌードルを発明する 13年前に
-        世界で初めて 袋入りのインスタントラーメンも考えた人で
-        ラーメンの父 と呼ばれています
+      transcription: 安藤は「カップヌードル」を発明する13年前に、世界で初めて 袋入りのインスタントラーメンも考えた人で、「ラーメンの父」と呼ばれています。
+      meaning: Ando is also the first person in the world to come up with the idea of instant ramen in a pouch, which was thirteen years before he invented Cup Noodle, so he is called “the father of ramen.”
     tags:
       - tobira05
   - id: 75d14b97-3bf0-4d0e-8161-da7bf2321a91
     start: 02:39.84
     end: 02:56.4
     fields:
-      transcription: |-
-        1910年に生まれた安藤は
-        戦後 あまり食べ物がない時代に
-        人々が ラーメンの屋台の前に
-        長い列を作っているのを見て
-        家でお湯さえあれば すぐ食べられるラーメンを作りたいと思ったそうです
+      transcription: 1910年に生まれた安藤は、戦後あまり食べ物がない時代に人々が ラーメンの屋台の前に長い列を作っているのを見て、家でお湯さえあればすぐ食べられるラーメンを作りたいと思ったそうです。
+      meaning: After seeing people making long lines in front of ramen stalls after the war when people didn’t have much to eat, it is said that Ando, who was born in 1910, thought that he wanted to make ramen which could be eaten at home just using hot water.
     tags:
       - tobira05
   - id: edbaf7ec-4e21-442d-b299-777da2aa390c
     start: 02:57.16
     end: 03:10.877
     fields:
-      transcription: |-
-        何回も失敗を繰り返しましたが
-        48歳の時
-        ついに チキンラーメン という 袋入り インスタントラーメンの商品化に成功し
-        そのラーメンは大ヒットしました
+      transcription: 何回も失敗を繰り返しましたが、48歳の時、ついに「チキンラーメン という」袋入り インスタントラーメンの商品化に成功し、そのラーメンは大ヒットしました。
+      meaning: He failed countless times, but at the age of 48 he finally succeeded in commercializing an instant ramen in a pouch called “Chikin Ramen,” and it became a big hit.
     tags:
       - tobira05
   - id: cdb555c4-eb4a-4157-9562-7891e4f4ebbb
     start: 03:11.488
     end: 03:27.168
     fields:
-      transcription: |-
-        ところが
-        安藤の成功を見て
-        他の会社でもインスタントラーメンを
-        作り始めたため
-        2年ぐらいの間に
-        インスタントラーメンを作る会社の数がとても増えて
-        競争が激しくなってしまいました
+      transcription: ところが、安藤の成功を見て他の会社でもインスタントラーメンを作り始めたため、2年ぐらいの間にインスタントラーメンを作る会社の数がとても増えて、競争が激しくなってしまいました。
+      meaning: But, because other companies, after seeing Ando’s success, began to make instant ramen as well, within about two years the number of companies making instant ramen had greatly increased and the competition had become intense.
     tags:
       - tobira05
   - id: 49e503b3-0e81-4cb9-8b5f-2ea5764a0b40
@@ -5834,33 +5775,23 @@ clips:
     end: 03:32.588
     fields:
       transcription: それで 安藤は日本国内から世界に目を向けたのです
+      meaning: Because of this, Ando switched his focus (lit. turned his eyes) from Japan to the world.
     tags:
       - tobira05
   - id: 890d52eb-47cf-47cd-b362-a4ac4094aec8
     start: 03:34.221
     end: 03:54.281
     fields:
-      transcription: |-
-        おいしさに国境はないと信じた安藤は
-        インスタントラーメンは国際的な商品になるに違いないと思いました
-        しかし 文化が違えば
-        食習慣も違います
-        例えば 日本人は箸でラーメンを食べますが
-        箸を使わない国の人たちもいます
+      transcription: 「おいしさに国境はない」と信じた安藤は、インスタントラーメンは国際的な商品になるに違いないと思いました。しかし、文化が違えば、食習慣も違います。例えば、日本人は箸でラーメンを食べますが、箸を使わない国の人たちもいます。
+      meaning: Ando, who believed “deliciousness knows no national borders,” thought that instant ramen would surely become an international product. However, as cultures vary, so do eating habits. For example, Japanese people eat ramen with chopsticks, but some people live in countries where chopsticks are not used.
     tags:
       - tobira05
   - id: a456e131-7717-41f0-ab59-8d094c19aeb9
     start: 03:54.908
     end: 04:10.508
     fields:
-      transcription: |-
-        文化 伝統
-        習慣の違いを理解しなければ
-        国境を越えられない
-        と考えた安藤は
-        インスタントラーメンを世界に広げる ヒントを見つけるため
-        1966年に
-        アメリカに行きました
+      transcription: 「文化、伝統、習慣の違いを理解しなければ、国境を越えられない」と考えた安藤は、インスタントラーメンを世界に広げる ヒントを見つけるため、1966年にアメリカに行きました。
+      meaning: Ando, who thought that he couldn’t market outside Japan (lit. go beyond the border) without understanding differences in culture, traditions, and customs, went to the United States in 1966 to look for hints on how to spread instant ramen throughout the world.
     tags:
       - tobira05
   - id: 4071d52c-bfb4-4832-8b63-351eb79695d2
@@ -5868,11 +5799,11 @@ clips:
     end: 04:25.137
     fields:
       transcription: |-
-        そして
-        この旅行で得た ヒントを元に
-        5年後にカップラーメンを作り出したのです
-        では カップラーメンがどうやって生まれたか
-        この話の続きは漫画で読んでみましょう
+        そして、この旅行で得たヒントを元に、5年後にカップラーメンを作り出したのです。
+        では、カップラーメンがどうやって生まれたか、この話の続きは漫画で読んでみましょう。
+      meaning: |-
+        He created cup ramen five years later, based on a hint he had gained on this trip.
+        Well then, let's read the continuation of the story in manga form as to how cup ramen was born.
     tags:
       - tobira05
 flashcardFieldsToSubtitlesTracks:
@@ -5941,6 +5872,7 @@ clips:
         神様仏様どうか助けてくださいと言って
         一生懸命お願いするけれど
         何もない時は神様や仏様のことはあまり考えていないという意味である
+      meaning: In Japanese, there’s a phrase “Men pray to the gods only when they are in trouble.” It means that when there is an agonizing or troublesome situation, people pray very hard, saying, “Gods, Buddha, please help me,” but they don’t think very much about the gods or the Buddha when they have no problems.
     tags:
       &a1
       - tobira06
@@ -5954,6 +5886,7 @@ clips:
         どちらも置いてあって
         朝晩 神様と仏様の両方に
         お祈りをする人々もいる
+      meaning: Furthermore, there are some people who have both a household Shinto shrine and a Buddhist altar in their homes and pray to both Shinto gods and the Buddha in the morning and evening.
     tags:
       - tobira06
   - id: 26037d95-545b-4792-88b3-a17db3ceceaa
@@ -5966,6 +5899,7 @@ clips:
         一神教の人がこの事を聞いたら
         どうして神様と仏様を同時に祭ることができるのか
         不思議に思うかもしれない
+      meaning: (This means that) Shinto and Buddhism coexist in everyday life. When people from monotheistic religions, who believe in one god alone, hear about this, they may wonder how people can deify Shinto gods and the Buddha simultaneously.
     tags: *a1
   - id: 4cc88710-a858-4bf2-89ab-0d8cb1cebba4
     start: 01:05.14
@@ -5982,6 +5916,7 @@ clips:
         財布の中に入れたりして
         不幸が起きないように
         幸福が来るようにと願う
+      meaning: When you look at Japanese people’s lives, you will probably notice that besides having Shinto shrines and Buddhist altars, they have a variety of other religious customs and events. First of all, on New Year’s Day people go to visit shrines or temples and receive good luck charms and talismans; this is called hatsumōde. Then, they put these charms and talismans in their cars or inside their wallets, wishing for bad luck not to happen and for happiness to come.
     tags:
       - tobira06
   - id: 61c3254e-5f7a-4266-a1ba-439c710892f0
@@ -5995,6 +5930,7 @@ clips:
         と大声で叫びながら豆をまく
         これは幸福は家の中に
         不幸は外にと祈る行事だ
+      meaning: In February, there is an event called Setsubun, when people scatter beans while shouting in a loud voice, “Devils out! Fortune it!” This is an event when people pray for good luck to come inside the house and bad luck to go outside.
     tags: *a1
   - id: bd0c652f-3413-469c-80d1-b7ce4017ea93
     start: 01:49.2
@@ -6004,6 +5940,7 @@ clips:
         また
         春と秋のお彼岸 や 8月のお盆は
         先祖を敬う人して多くの人がお墓参りに行く
+      meaning: Then, during the equinoctial weeks in spring and autumn and Obon (the Festival of the Dead) in August, many people visit graves in order to honor their deceased ancestors.
     tags: *a1
   - id: 5e7ab6e2-baa5-40a2-a145-272b43ce067b
     start: 01:58.824
@@ -6019,6 +5956,7 @@ clips:
         親が子供を神社に連れて行く
         元気な子供に育ったことを神様に感謝し
         そしてこれからも健康に育つようにと 神様に祈るのだ
+      meaning: Besides that, there is an event called Shichi-go-san (Seven-five-three), when parents take their children to Shinto shrines—for boys, at the ages of three and five and for girls, at the ages of three and seven. The parents thank the gods that their children have grown up to be healthy and pray to the gods that they continue to grow up in good health in the future, too.
     tags: *a1
   - id: 06066ceb-660f-44bc-ad4f-f93f90c6d84c
     start: 02:24.06
@@ -6032,6 +5970,7 @@ clips:
         また結婚する時には
         式を教会で挙げる人もいれば
         お寺や神社で挙げる人もいる
+      meaning: In December, people enjoy Christmas events. Even people who are not followers of Christianity celebrate Christmas, doing things such as decorating Christmas trees or exchanging Christmas presents. Furthermore, when they get married, some people hold their ceremony in a church, while others hold their ceremony in a temple or shrine.
     tags: *a1
   - id: 631bc61f-2e65-4cc3-934d-2d49c4c717e9
     start: 02:46.02
@@ -6040,6 +5979,7 @@ clips:
       transcription: |-
         そして
         死んだら大抵 仏教式のお葬式をしてもらってお墓に入る
+      meaning: Finally, after someone dies, they are usually buried after having a Buddhist funeral.
     tags: *a1
   - id: a5ab7c6e-cfc3-490e-a5e9-b633077d4acd
     start: 02:53.26
@@ -6051,6 +5991,9 @@ clips:
         神道というのは 多神教で
         日本では昔から 海や山や木や石など
         周りの色々な物や場所に神様がいると考えられてきた
+      meaning: |-
+        We wonder why various religions can coexist in
+        Japan like this, We may understand this if we think about Shinto, which has existed in Japan since ancient times. Shinto is a polytheistic religion, and in Japan it has long been believed that there are gods in many different things and places around us, such as the sea, mountains, trees, and stones.
     tags: *a1
   - id: 28077983-b217-49bb-ac0f-a19b3cb91ebb
     start: 03:19.42
@@ -6062,6 +6005,7 @@ clips:
         その神話の神様たちは
         楽しく歌ったり踊ったり
         怒って喧嘩したりしてとても人間的だ
+      meaning: There are many stories about those gods in Nihon Shoki, an old history book which was written in the year 720 A.D. The gods of these myths are very humanlike, doing things like singing and dancing merrily or becoming angry and fighting.
     tags: *a1
   - id: 2dbaace6-f083-4aee-9200-6a6c96a180de
     start: 03:38.164
@@ -6070,6 +6014,7 @@ clips:
       transcription: |-
         日本全国にはそんな神様を祭った神社がたくさんあって
         日本人は何かがあるとその色々な神様の所にお参りに行く
+      meaning: There are many shrines devoted to these kinds of gods throughout Japan, and Japanese people visit the shrines of these gods on various occasions.
     tags: *a1
   - id: 660cfc91-f4f6-4d61-bc6f-236723af0f0d
     start: 03:50.164
@@ -6082,12 +6027,14 @@ clips:
         いい高校や大学に合格したい時は受験の神様に
         恋人が欲しい時は
         縁結びの神様のところに行ってお祈りをする
+      meaning: For example, people go to (the shrine of) the land gods when constructing a house or a building, to (the shrine of) the exam gods when they want to be accepted into a good high school or university, and to (the shrine of) the matchmaking gods when they want a sweetheart.
     tags: *a1
   - id: 9b1b2803-c317-48f2-bb19-f099dd1b74dd
     start: 04:06.004
     end: 04:10.264
     fields:
       transcription: 目的によって それぞれ お参りに行く 神様が違うのだ
+      meaning: The gods they visit differ depending on their purpose.
     tags: *a1
   - id: a7d13b7c-f9f6-4118-8eaa-f1c28b761e6c
     start: 04:11.32
@@ -6096,6 +6043,7 @@ clips:
       transcription: |-
         最近ではインターネットビジネスのための it の神様
         なんていう神様も現れたらしい
+      meaning: Recently, it is even said that a god dedicated to IT business, called the “IT God,” has appeared.
     tags: *a1
   - id: 0bc86596-ecf4-4dc0-ab77-8a3f25ad4bc9
     start: 04:19.48
@@ -6104,6 +6052,7 @@ clips:
       transcription: |-
         このように、神道は自然や場所、物など、あらゆるところに神様が存在するという日本人の宗教的意識を作ったと考えられる。
         だから、 外国から他の宗教や新しい神様が入ってきても、自然に受け入れられたのかもしれない。
+      meaning: In this way, Shinto is thought to have formed the Japanese religious consciousness, in which gods exist everywhere, such as in nature, places, and things. Therefore, even though other religions and new gods entered Japan from abroad, that might explain why they were accepted naturally.
     tags:
       - tobira06
   - id: 331c2727-5406-4af2-b0c6-fe7bbf9ba6f2
@@ -6111,6 +6060,7 @@ clips:
     end: 04:51.983
     fields:
       transcription: そして、神道が人々の生活の中で生き続けてきたように、仏教や キリスト教の行事なども、日本人の生活の一部になっているのだ。
+      meaning: And, just as Shinto has continued to be alive within people’s daily lives, so too have Buddhist events, Christian events, etc., become a part of Japanese people's daily lives.
     tags: *a1
   - id: 6433ba5d-7cbd-4562-91a5-a80702cea15a
     start: 04:53.24
@@ -6125,19 +6075,23 @@ clips:
         9%だけだったらしい
         それでは
         91%の人は宗教を全然 信じていないと言えるだろうか
+      meaning: In a survey on religion, the percentage of people who answered “yes” to the question “Do you devoutly believe in any religion?” was only 9% of all Japanese citizens. If that is so, does that mean 91% of the people do not believe in religion at all?
     tags: *a1
   - id: 76fa1af8-ae21-4164-8b4e-3f35230dcbee
-    start: 05:15.16
+    start: 05:15.095
     end: 05:38.78
     fields:
       transcription: |-
+        実は
         日本人は宗教を強く信じているという意識はなくても
         毎日の生活の中でお参りしたり
         祈ったり
         祝ったりするなど 宗教的習慣や行事を大切にしている
         そして そんな人々の生活が
         神様や仏様が一緒に存在できる社会を作っていると言えるのではないだろうか
-    tags: *a1
+      meaning: Actually, even though Japanese people do not have any awareness of believing strongly in religion, during everyday life they still value religious customs and events, such as visiting temples and shrines, praying, and celebrating. We could say that this kind of daily life is what forms a society in which religions such as Shinto and Buddhism can coexist.
+    tags:
+      - tobira06
 flashcardFieldsToSubtitlesTracks:
   transcription: b7802a76-5add-4210-a702-43e01c24ee83
 ---
@@ -6161,6 +6115,7 @@ clips:
         日本の神話にはギリシャ神話のように人間的な神様がたくさん出てきて活躍する面白い話が多く残っている
         その中に天照大神という神様についての有名な話がある
         どんな話から読んでみよう
+      meaning: In Japanese mythology, just as in Greek mythology, many interesting stories remain in which many humanlike gods appear and play active roles. Among these, there is a famous story about the goddess called Amaterasu-Ōmikami. Let’s read and see what kind of story it is.
     tags:
       &a1
       - tobira06
@@ -6169,12 +6124,14 @@ clips:
     end: 00:44.1
     fields:
       transcription: 昔々、大昔、日本には天照大御神という、神様の中で最も偉い太陽の神様がいて、高天原という昔の日本を治めていました。
+      meaning: Long ago, in ancient times in Japan there was a sun goddess called Amaterasu-Ōmikami, who was the highest ranking of all the gods and who ruled over ancient Japan, which was called Takamagahara.
     tags: *a1
   - id: 48268204-a7b4-48c7-9a2c-fdf37f31fe42
     start: 00:45.488
     end: 00:59.248
     fields:
       transcription: 天照大御神には須佐之男命という弟の神様がいたのですが、須佐之男はとても乱暴で悪いことばかりするので、人々はとても困っていました。
+      meaning: Amaterasu-Ōmikami had a younger brother god named Susano 'o-no-mikoto, but because Susano’o was very violent and did nothing but bad things, the people were very troubled.
     tags:
       - tobira06
   - id: 2075df98-2fb0-4799-a413-26fdf5e9e6d8
@@ -6184,6 +6141,7 @@ clips:
       transcription: |-
         ある日、須佐之男は天照の侍女を間違って殺してしまいました。
         それを知った天照は弟の乱暴に怒って岩の中に隠れてしまい、昼だった世界は急に夜のように暗くなってしまいました。
+      meaning: One day, Susano’o killed Amaterasu’s lady attendant by mistake. Amaterasu, after finding out about this, became angry at her brother’s violence and hid herself away inside a rock (cave) so that the world, which had been in daylight, suddenly became as dark as night.
     tags:
       - tobira06
   - id: 54c47dc8-0314-4bb4-b51e-5a0f1e30e312
@@ -6194,6 +6152,7 @@ clips:
         太陽の神様の 天照が岩の中に隠れて外に出てこないため
         世界は
         何日も真っ暗な日が続きました
+      meaning: Because Amaterasu, the sun goddess, hid inside the rock (cave) and did not come out, several days of complete darkness continued in the world.
     tags: *a1
   - id: b5359410-3560-4400-951f-8e1f416edc86
     start: 01:33.064
@@ -6204,6 +6163,7 @@ clips:
         天照に岩の外に出てきてもらおうと
         彼女が隠れている 岩戸の前でお酒を飲みながら歌ったり踊ったり笑ったりして
         大騒ぎはしました
+      meaning: The other gods, who were at a loss, tried to get Amaterasu to come out by drinking, singing, dancing, and making a great noise in front of the rock door where she was hiding.
     tags: *a1
   - id: 461c6b05-a603-481d-8866-46d7daf03340
     start: 01:49.88
@@ -6213,6 +6173,7 @@ clips:
         そうすれば
         アマテラスはみんなが 何をしているんだろうと思って
         外に出てくると考えたわけです
+      meaning: They thought that by doing so Amaterasu would wonder what everyone was doing and come outside.
     tags: *a1
   - id: 35e6cfb5-6050-4d1f-b580-9bdfa9489707
     start: 01:58.34
@@ -6221,6 +6182,7 @@ clips:
       transcription: |-
         神様たちは
         真っ暗な中で一生懸命歌ったり踊ったり笑ったりしました
+      meaning: The gods sang, danced, and laughed with utmost effort in complete darkness.
     tags: *a1
   - id: 5afaa74e-3263-4045-b26b-dae64857d99d
     start: 02:06.12
@@ -6232,6 +6194,7 @@ clips:
         その瞬間を待っていた 力持ちの神様が
         岩戸を全部開けて
         天照を今の外に出してしまいました
+      meaning: Thinking the great noise outside was strange, Amaterasu opened the rock door only a little bit; then, a mighty god, who had been waiting for that moment, opened the rock door all the way and pulled Amaterasu out of the rock.
     tags: *a1
   - id: 731e6f23-896d-4a9f-b773-06b7ea42ffb0
     start: 02:22.56
@@ -6241,6 +6204,7 @@ clips:
         天照が外に出てきたので
         世界は明るくなって
         また 昼が戻ってきたそうです
+      meaning: Because Amaterasu came outside, the world was said to have become bright, and daylight returned once again.
     tags: *a1
   - id: e456010d-1883-421e-9359-8c5e623958fa
     start: 02:30.44
@@ -6249,12 +6213,14 @@ clips:
       transcription: |-
         この話は昔の人が日食を説明するために作った神話ではないかと言われている
         何も知らなかった昔の人々にとって日食はとても怖いことだったのだろう
+      meaning: It is said that this story was probably a myth that ancient people created to explain a solar eclipse. To ancient people who did not know anything about them, solar eclipses must have been very frightening things.
     tags: *a1
   - id: 20cb8601-6838-468f-a374-f7564a27a934
     start: 02:44.076
     end: 02:56.996
     fields:
-      transcription: また、この神話からもわかるように、昔から神様は日本人にとって、人間と同じように 笑ったり、怒ったり、喧嘩したりする親しみやすい 存在だったのだ。
+      transcription: また、この神話からもわかるように、昔から神様は日本人にとって、人間と同じように笑ったり、怒ったり、喧嘩したりする親しみやすい存在だったのだ。
+      meaning: In addition, as we understand from this myth, since early times the gods, who did things like laugh, get angry, and fight like human beings, were approachable to Japanese people.
     tags: *a1
   - id: b6962cad-d0ea-41cf-b0bd-6d5b1f0c38ce
     start: 02:57.78
@@ -6263,6 +6229,7 @@ clips:
       transcription: |-
         この天照大神を祭る神社は、日本全国に18000ぐらいあると言われていて、毎年多くの人々がお参りに訪れる。
         天照大神は21世紀の現在でも大忙し！ということだ。
+      meaning: There are said to be around 18,000 shrines throughout Japan dedicated to Amaterasu-Ōmikami, and every year many people go to visit them. This means that even today in the 21st century Amaterasu-Ōmikami is very busy!
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: 6fd5a82d-e2d7-4ed5-b011-c46ef503e068
@@ -6346,8 +6313,8 @@ clips:
     fields:
       transcription: |-
         今、世界中で日本の漫画、アニメ、ゲーム、キャラクターグッズ、Jポップなどのポップカルチャー・ファンが増えている。
-        海外で漫画といえば、日本マンガのことを
-        アニメといえばディズニーなどのアニメーションではなく日本アニメのことを言う。
+        海外で「MANGA」といえば、日本マンガのことを「ANIME」といえばディズニーなどのアニメーションではなく日本アニメのことを言う。
+      meaning: Currently, throughout the world, fans of Japanese popular culture, such as Japanese manga, anime, games, pop character merchandise, and Japanese pop music, are increasing in number. Overseas, manga refers to Japanese comics, and anime refers not to animation such as Disney’s but to Japanese animation.
     tags:
       &a1
       - tobira07
@@ -6355,48 +6322,53 @@ clips:
     start: 00:35.0
     end: 00:40.62
     fields:
-      transcription: |-
-        また、日本で生まれた テレビゲームも
-        ビデオゲームとして世界中に広まった。
+      transcription: また、日本で生まれた テレビゲームも「VIDEO GAME」として世界中に広まった。
+      meaning: Also, TV games, which originated in Japan, have spread throughout the world as video games.
     tags: *a1
   - id: 4df95e3d-d0e9-404f-b097-cd0decd71196
     start: 00:41.52
     end: 01:01.02
     fields:
       transcription: |-
-        日本のポップカルチャーは様々な国の経済や文化や ファッションに影響を与え、ビジネスとしても大きいマーケットになっているのだ。
-        では、そのポップカルチャーの元になっているものは何だろうか。それは、日本のストーリー 漫画だと言えるかもしれない。
+        日本のポップカルチャーは様々な国の経済や文化やファッションに影響を与え、ビジネスとしても大きいマーケットになっているのだ。
+        では、そのポップカルチャーの元になっているものは何だろうか。それは、日本のストーリーマンガだと言えるかもしれない。
+      meaning: Japanese popular culture has influenced the economy, culture, and fashion of many different countries, and those products create (lit. become) a big market from a business standpoint as well. So, what is the origin of this pop culture? We could say it is Japanese story manga (manga which tells a story).
     tags:
       - tobira07
   - id: 11867ce4-48f4-466e-a833-c56870c408bd
     start: 01:01.94
     end: 01:14.78
     fields:
-      transcription: 今、日本のストーリー 漫画は世界中で楽しまれていて、アジア、オセアニア、ヨーロッパ など色々な国の言葉に翻訳されて本になり、読者を広げている。
+      transcription: 今、日本のストーリーマンガは世界中で楽しまれていて、アジア、オセアニア、ヨーロッパ など色々な国の言葉に翻訳されて本になり、読者を広げている。
+      meaning: "Right now, Japanese story manga are enjoyed throughout the world: they are translated into many different languages, such as those of Asia, Oceania, and Europe; made into books; and read by a growing number of readers."
     tags: *a1
   - id: 9a2a4536-e138-461d-87e9-82c0c8e5b306
     start: 01:16.3
     end: 01:33.64
     fields:
       transcription: そして、多くのアニメやテレビ番組やゲームなどが漫画の原作をもとにして作られるため、漫画、アニメ、映画、ドラマ、ゲームなどのファンがそれぞれお互いに影響を与え合いながら、ファンを増やしている。
+      meaning: Also, because many anime, television programs, games, and other things are made based on original manga, the fans of manga, anime, film, television dramas, and games all influence each other and thereby bring in new fans.
     tags: *a1
   - id: abd33139-113d-415a-b0ae-34342566dc37
     start: 01:34.517
     end: 01:40.377
     fields:
-      transcription: 日本のストーリー 漫画はメディアコンテンツとして、大きいビジネスになっているのだ。
+      transcription: 日本のストーリーマンガはメディアコンテンツとして、大きいビジネスになっているのだ。
+      meaning: Japanese story manga, as an example of media content, have become a big business.
     tags: *a1
   - id: 427778df-a87c-45bd-bcf5-8e91a16af2c2
     start: 01:41.617
     end: 01:47.297
     fields:
       transcription: その上、日本の漫画は欧米人の本の読み方さえ変えようとしている。
+      meaning: On top of that, Japanese manga are even changing the way that Europeans and Americans read books.
     tags: *a1
   - id: f1dba3eb-ddf3-4aed-b2ab-69b4c3a51e12
     start: 01:48.248
     end: 01:57.748
     fields:
       transcription: アメリカでは2002年に日本の少年漫画週刊誌、次の年には少女向けの漫画週刊誌が出版された。
+      meaning: In the US, a Japanese manga weekly for young boys was published in 2002, and a (Japanese) manga weekly aimed at young girls was published in the following year.
     tags: *a1
   - id: 87d34be9-9413-499f-a5ae-a772418f7de0
     start: 01:58.8
@@ -6406,21 +6378,20 @@ clips:
         それまで欧米の本や雑誌は右から左にページをめくる 読み方が一般的だったが、漫画ファンの
         「右上から左下に読む日本の漫画と同じスタイルにしてほしい」というリクエストで、アメリカで売られる日本の漫画雑誌も、日本と同じように
         左から右にページを開くスタイルで作られるようになったのだ。
-    tags: *a1
-  - id: e5ec9313-45a6-4e4b-b37f-a198bbaab89b
-    start: 02:24.42
-    end: 02:27.26
-    fields:
-      transcription: それでは、日本マンガの魅力はなんだろうか。
+      meaning: Until then, European and American books and magazines were generally read by flipping the pages from right to left, but, because of requests from manga fans who said, “We want you to make them in the same style as Japanese manga, reading from top right to bottom left,” the Japanese manga magazines sold in the US began to be made in the style in which the pages open from left to right, the same as in Japan.
     tags: *a1
   - id: 611726c9-f69a-4f7c-bb63-d369dfb7c82e
-    start: 02:27.92
+    start: 02:24.42
     end: 02:54.24
     fields:
       transcription: |-
+        それでは、日本マンガの魅力はなんだろうか。
         そのことを考える時、一番初めに思い浮かぶのが手塚治虫の名前だ。
         昔は日本でも漫画は子供のためのものと思われていたが、手塚はそれを小説や映画と同じような物語の表現方法の一つとして確立し、大人でも楽しんで読めるものに変えた。
-        現在の日本のストーリー漫画の元を作ったのだ。
+        現在の日本のストーリーマンガの元を作ったのだ。
+      meaning: |-
+        What is the appeal of Japanese manga, then?
+        The first thing that comes to mind when thinking about that subject is the name Tezuka Osamu. Long ago, even in Japan, manga was thought of as something for children, but Tezuka established it as a method of presenting a story similar to a novel or film, and changed it so that even adults could read and enjoy it. He created the prototype for the Japanese story manga of today.
     tags:
       - tobira07
   - id: b30a6bc0-2391-4ce9-9b9b-9167e8823258
@@ -6430,6 +6401,7 @@ clips:
       transcription: |-
         手塚治虫は第二次世界対戦後、医学部を卒業して医学博士になったが、医者にはならずに漫画家になった。
         そして、1989年に60歳で亡くなるまで700以上の作品を残した。
+      meaning: After World War II, Tezuka Osamu graduated from medical school and received a Doctor of Medicine degree, but he became a manga artist instead of becoming a physician. When he died in 1989 at the age of 60, he left over 700 manga stories.
     tags: *a1
   - id: f412dd71-b350-4706-bf99-55ede8e8cfbc
     start: 03:14.66
@@ -6438,12 +6410,14 @@ clips:
       transcription: |-
         本名は治だが、子供の頃から虫が好きだったので
         ペンネームを治虫にしたそうだ。
+      meaning: His real name was Osamu (written with the character meaning “healing”) but it is said he decided on his pen name, Osamu (written with the characters meaning “healing” and “bug”), because he had liked insects since his childhood.
     tags: *a1
   - id: 89efe7fb-5f75-4164-b5e1-8f9385039f84
     start: 03:22.672
     end: 03:32.232
     fields:
       transcription: ベレー帽をかぶり丸い眼鏡をかけた丸い鼻がトレードマークで、彼の漫画には、自分と同じような人物がよく出てくる。
+      meaning: His trademark was his beret and his round glasses on his round nose, and figures resembling him often appear in his manga.
     tags: *a1
   - id: 8e966af8-9bd4-4b5f-8b37-8e067511e0c3
     start: 03:34.281
@@ -6452,6 +6426,9 @@ clips:
       transcription: |-
         手塚が描いた漫画の中で初めてテレビアニメになったのは、「鉄腕アトム」という少年ロボットが活躍するSF漫画だ。
         60年代に子供たちの人気を集め、その後の日本のSFアニメブームのきっかけにもなった。
+      meaning: |-
+        
+        The first of his manga to become a television animation was a science fiction manga about a young boy robot called “Tetsuwan Atomu.” In the 1960’s, it became popular with children and also triggered the subsequent boom in science fiction anime.
     tags:
       - tobira07
   - id: cad7bb72-273e-43c7-88d3-5787ad8828c0
@@ -6459,24 +6436,28 @@ clips:
     end: 04:00.321
     fields:
       transcription: アジアの国々や、ヨーロッパ、アメリカのテレビでも放送されたので、知っている人も多いはずだ。
+      meaning: It was broadcast on television in countries in Asia, Europe, and the US as well, so there are probably many people who know of it.
     tags: *a1
   - id: 14acfa29-c94f-4550-bf5e-fb9d17c46213
     start: 04:01.248
     end: 04:17.848
     fields:
       transcription: その他にも、『ジャングル大帝』『リボンの騎士『どろろ』『火の鳥』『ブッダ』『ブラックジャック』『アドルフに告ぐ』など、アニメや映画になったり、世界中の言葉に翻訳された手塚作品は沢山ある。
+      meaning: Besides that, there are many other Tezuka works which were made into anime or films and translated into various languages all over the world, including Janguru Taitei (Kimba the White Lion), Ribon no Kishi (Princess Knight), Dororo, Hi no Tori (Phoenix), Budda (Buddha), Burakkujakku (Black Jack), and Adorufu ni Tsugu (Adolf).
     tags: *a1
   - id: fab94b1b-7180-44d7-a195-72c6107c9ef8
     start: 04:19.051
     end: 04:45.231
     fields:
       transcription: 手塚の漫画には、宗教、哲学、医学、芸術、歴史、SF、宇宙、自然など様々なテーマがあり、難しい言葉や理論ではなくて、面白くて楽しい絵と分かりやすい言葉で、命の大切さ、自然の大きさ、戦争の無意味さ、人類の未来などについて教えてくれる。
+      meaning: Tezuka’s manga contain various themes including religion, philosophy, medicine, the arts, history, science fiction, the universe, and nature; they teach about the value of life, the greatness of nature, the meaninglessness of war, and the future of mankind through interesting and entertaining drawings and easy-to-understand language, instead of difficult language or theories.
     tags: *a1
   - id: b187886a-eccf-4699-a9a2-8b29c3cc6602
     start: 04:46.779
     end: 05:00.159
     fields:
       transcription: 手塚の漫画の特徴であるオノマトペがたくさん入った漫画を笑いながら読んでいるうちに、読者は 人間が生きることや死ぬことについて深く考えさせられてしまうのだ。
+      meaning: When laughing while reading a manga full of Tezuka’s characteristic onomatopoeia, the reader is also made to think deeply about the fact that humans live and die.
     tags: *a1
   - id: 13735939-6fa9-40a4-9d8b-86d2d7ef8d87
     start: 05:01.36
@@ -6485,6 +6466,7 @@ clips:
       transcription: |-
         手塚が素晴らしいのは、漫画を書くだけでなく、自分の後に続く漫画家達も育てたことだ。
         彼は漫画家になるのを夢見て自分の所に集まってきた若者に、住む場所や仕事の世話などをして、多くの漫画家を育て、世の中に送り出した。
+      meaning: Tezuka was wonderful because not only did he draw manga, he also nurtured the manga artists who would follow him. He took care of the young people who gathered around him dreaming of becoming manga artists by helping them find places to live or jobs; he trained many of them to become manga artists and then sent them out into the world.
     tags: *a1
   - id: 0c449a20-d531-4da1-86bf-aa5e8e535a66
     start: 05:22.459
@@ -6493,6 +6475,7 @@ clips:
       transcription: |-
         そして、手塚家 手塚に育てられた人たちの漫画を読んで、次の世代の漫画家たちが育っていた。
         現在の日本人漫画家で手塚の影響を受けていない人はいないはずだ。
+      meaning: And, the following generation of manga artists grew up reading the manga of Tezuka and those artists he had trained. There is probably no Japanese manga artist today who has not been influenced by Tezuka.
     tags:
       - tobira07
   - id: 24197c43-8376-4b42-b548-cb8c631cb802
@@ -6502,6 +6485,7 @@ clips:
       transcription: |-
         人々は、愛情と尊敬と、人間を超えた才能を持った人という気持ちを込めて、手塚治虫を『漫画の神様』と呼ぶ。もし、手塚治虫が存在しなかったら、今のアニメや漫画のブームはなかったかもしれない。
         手塚の残したものが今世界中に影響を与えていることを、彼は空の上でどう思っているだろうか。
+      meaning: People call Tezuka Osamu “the God of Manga” with love and respect and also with the feeling that he was a person with talent surpassing that of a human. If Tezuka Osamu had not existed, we may not have had the current boom in anime and manga. We wonder what Tezuka, up in the sky, would be thinking about the fact that the things he left behind are now having an impact throughout the world.
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: 17ed7bca-b143-4cab-b1e4-a68ac718555b
@@ -6641,13 +6625,9 @@ clips:
     end: 00:35.92
     fields:
       transcription: |-
-        日本語では笑いは様々な表現で表されます
-        例えば 大声で笑うときは ゲラゲラ笑い
-        恥ずかしそうに 小さい声で笑う時は クスクス笑います
-        他にも
-        キャッキャッ と 笑ったり わははと笑ったりしますが
-        皆さんは これらの笑いには不思議な力があることを
-        知っていますか
+        日本語では、笑いは様々な表現で表されます。
+        例えば、大声で笑うときは「ゲラゲラ」笑い、恥ずかしそうに小さい声で笑う時は「クスクス」笑います。他にも「きゃっきゃっ」と 笑ったり、「ワハハ」と笑ったりしますが、皆さんは これらの笑いには不思議な力があることを知っていますか。
+      meaning: In Japanese, laughter is expressed using a variety of expressions. For example, when someone laughs loudly, it’s expressed as geragera warau (guffaw), and when someone laughs in a shy, quiet manner, it’s kusukusu warau (giggle). Besides these, people also laugh in ways such as kyakkya or wahaha, That said, do you know that laughter like this has a mysterious power?
     tags:
       &a1
       - tobira08
@@ -6655,59 +6635,35 @@ clips:
     start: 00:36.6
     end: 00:44.32
     fields:
-      transcription: |-
-        実は笑いは人間の健康と深い関係があり
-        その効果は科学的にも証明されているのです
+      transcription: 実は、「笑い」は人間の健康と深い関係があり、その効果は科学的にも証明されているのです。
+      meaning: In fact, laughter is deeply connected to human health, and, what’s more, this effect has been scientifically proven.
     tags: *a1
   - id: f44b1492-242c-4dca-b30c-a8bb2c4a9a74
     start: 00:45.368
     end: 01:03.108
     fields:
-      transcription: |-
-        糖尿病という病気は
-        血液中の血糖値が高くなることによって起こる病気ですが
-        ある科学者が面白い話を聞かせた後の患者と
-        難しい 講義を聞かせた後の患者の血糖値を比べるという実験をしてみました
+      transcription: 糖尿病という病気は、血液中の血糖値が高くなることによって起こる病気ですが、ある科学者が、面白い話を聞かせた後の患者と難しい講義を聞かせた後の患者の血糖値を比べるという実験をしてみました。
+      meaning: Diabetes is a disease caused by a rise in sugar levels in the blood. (Regarding that,) one scientist did an experiment that compared the blood sugar levels of patients after they had heard a funny story with those of patients after they had heard a difficult lecture.
     tags: *a1
   - id: 1d7e07fd-7227-4b0b-975f-9437a71eabf2
     start: 01:04.156
     end: 01:19.376
     fields:
-      transcription: |-
-        すると
-        難しい 講義を聞いた後では
-        平均123 MG も上がった 血糖値が
-        面白い話を聞いて笑った後では
-        平均
-        77 MG しか上がらなかったという結果が出たそうです
+      transcription: すると、難しい 講義を聞いた後では平均123ミリグラムも上がった血糖値が、面白い話を聞いて笑った後では、平均77ミリグラムしか上がらなかったという結果が出たそうです。
+      meaning: Then, the results, it is said, were that the patients’ blood sugar levels, which rose by as much 123 milligrams on average after listening to the difficult lecture, only rose by 77 milligrams on average after listening to the funny story and laughing.
     tags: *a1
   - id: 86b9ad34-2f46-4671-9dbc-0c44487a9af9
     start: 01:20.06
     end: 01:42.96
     fields:
-      transcription: |-
-        また血液の中には キラー細胞と呼ばれる ユニークな名前の細胞があります
-        この細胞は 名前の通り
-        ウィルスやがん細胞を壊す
-        力を持っていて
-        キラー細胞が増えれば増えるほど
-        多くの悪い細胞が減るのですが
-        笑いには このキラー細胞を増やす効果があるということもわかりました
+      transcription: また、血液の中にはキラー細胞と呼ばれるユニークな名前の細胞があります。この細胞は名前の通り、ウィルスやがん細胞を壊す力を持っていて、キラー細胞が増えれば増えるほど、多くの悪い細胞が減るのですが、「笑い」にはこのキラー細胞を増やす効果があるということもわかりました。
       meaning: Furthermore, there are uniquely-named cells called “natural killer cells” within the blood. As their name indicates, these cells have the power to destroy viruses or cancer cells, and the more the natural killer cells increase, the fewer the bad cells. It was found that laughter had an effect of increasing the number of natural killer cells, too.
     tags: *a1
   - id: 5e6c3517-ec8b-4151-850f-5edd250e1f33
     start: 01:43.856
     end: 02:05.216
     fields:
-      transcription: |-
-        さて
-        人間の健康にとって大切な行為である 「笑い」
-        これを取り入れた日本の伝統芸能といえば
-        一番に「狂言」が挙げられます
-        狂言というのは
-        歌や踊りがあまり出てこない
-        言葉を中心とした劇で
-        14世紀頃に激の形が完成しました
+      transcription: さて、人間の健康にとって大切な行為である「笑い」、これを取り入れた日本の伝統芸能といえば、一番に「狂言」が挙げられます。狂言というのは、歌や踊りがあまり出てこない、言葉を中心とした劇で、14世紀頃に激の形が完成しました。
       meaning: |-2
         
          Well, now, laughter is an important act for the health of human beings, and when speaking of traditional Japanese arts that take in (this concept), the best example that can be provided is kyogen. Kyogen are plays where words are dominant and there isn’t much singing or  dancing. The form of these plays was fully established around the 14th century. 
@@ -6717,20 +6673,9 @@ clips:
     end: 02:37.7
     fields:
       transcription: |-
-        狂言には主人と家来
-        親と子
-        山伏 など色々な人物が登場しますが
-        どの人物も
-        どこにでもいる
-        普通の人達ばかりで
-        スーパーマンのような超人的なヒーローは出てきません
-        また
-        悲劇の主人公のような人物も出てきません
-        この普通の人たちが
-        失敗したり
-        嘘をついたり
-        困ったりする様子を
-        言葉や動作でユーモラスに表現しているのが 狂言です
+        狂言には、主人と家来、親と子、山伏など色々な人物が登場しますが、どの人物もどこにでもいる普通の人達ばかりで、スーパーマンのような超人的なヒーローは出てきません。
+        また、悲劇の主人公のような人物も出てきません。
+        この普通の人たちが、失敗したり、嘘をついたり、困ったりする様子を、言葉や動作でユーモラスに表現しているのが狂言です。
       meaning: In kyogen plays, various characters, such as masters and servants, parents and children, and yamabushi (itinerant Buddhist monks), appear, but all of the characters are ordinary people who can be seen anywhere, and there are no superhuman hero characters like Superman. Furthermore, there are also no characters like the main character of a tragedy. A kyogen play is something that expresses humorously, through words and actions, the state of these ordinary people, who fail, tell lies, and get into trouble.
     tags:
       - tobira08
@@ -6739,16 +6684,8 @@ clips:
     end: 03:05.408
     fields:
       transcription: |-
-        また
-        狂言には
-        話の途中で
-        強い人と弱い人の立場が逆になってしまうと言う
-        風刺的な面白さ もあります
-        例えば
-        主人は自分の家来に簡単に騙されてしまいますし
-        偉そうにしていた親が子供にからかわれたり
-        超人的な力を持っているはずの 山伏が
-        実際は魅力で弱かったりするという話がよく出てきます
+        また、狂言には、話の途中で強い人と弱い人の立場が逆になってしまうと言う風刺的な面白さもあります。
+        例えば、「主人」は自分の「家来」に簡単に騙されてしまいますし、偉そうにしていた「親」が「子供」にからかわれたり、超人的な力を持っているはずの山伏が実際は魅力で弱かったりするという話がよく出てきます。
       meaning: Additionally, in kyogen there is amusement of a satirical nature, in which the positions of strong people and weak people become reversed in the middle of the story. For example, in kyogen a master is easily deceived by his servant; and there are many stories in which an arrogant parent is teased by his child or a yamabushi, who ought to have superhuman powers, is in reality powerless and weak.
     tags: *a1
   - id: f198a2e9-6f5d-419f-8382-aa0179ac54e1
@@ -6756,18 +6693,9 @@ clips:
     end: 03:36.952
     fields:
       transcription: |-
-        昔の日本は身分の差が大きく
-        厳しい 上下関係がありました
-        しかし
-        狂言の中では
-        身分が高くて立派だと思われている人が
-        馬鹿なことをして身分が低い人に笑われるという話がよく出てきます
-        昔の人々は
-        狂言の中に
-        偉い人や超人的な人が
-        自分たちと変わらない
-        普通の人として描かれている点に
-        面白さを感じたのではないでしょうか
+        昔の日本は身分の差が大きく厳しい 上下関係がありました。
+        しかし、狂言の中では、身分が高くて立派だと思われている人が、馬鹿なことをして身分が低い人に笑われるという話がよく出てきます。
+        昔の人々は、狂言の中に偉い人や超人的な人が自分たちと変わらない普通の人として描かれている点に、面白さを感じたのではないでしょうか
       meaning: In old Japan, the gap in social positions was large, and there were strict superior-subordinate relationships. However, in many kyogen stories we see that high-ranked people, who are thought to be admirable, do foolish things and are laughed at by low-ranked people. The people of long ago probably felt amused by the fact that powerful or superhuman people were portrayed as ordinary people no different from themselves.
     tags: *a1
   - id: 7f1e2567-1ca7-43a4-bfc4-e6fb6f653fa1
@@ -6775,15 +6703,8 @@ clips:
     end: 04:05.76
     fields:
       transcription: |-
-        代表的な狂言の一つ
-        「ぶす」という話を紹介しましょう
-        ある日、主人が二人の家来に
-        自分の留守中に
-        ぶす」という名前の恐ろしい毒が入っている桶には絶対に近づかないようにと言って出かけます
-        しかし 見てはいけないと言われて
-        ますます 見たくなってしまった二人は
-        我慢できずに
-        桶の蓋を開けてみました
+        代表的な狂言の一つ、「ぶす」という話を紹介しましょう・
+        ある日、主人が二人の家来に、自分の留守中に「ぶす」という名前の恐ろしい毒が入っている桶には絶対に近づかないようにと言って出かけます。しかし「見てはいけない」と言われてますます見たくなってしまった二人は、我慢できずに、桶の蓋を開けてみました。
       meaning: Let us introduce a representative kyogen, a story called Busu. One day, a master left his house after telling his two servants never to go near a bucket with a horrible poison called busu in it while he is out. However, the two servants, who really wanted to see it even more after being told “Don’t look,” couldn’t stand it any longer and opened the lid of the bucket (to see what was inside).
     tags: *a1
   - id: e17e7196-3b11-496c-b5b2-0592d9c2d129
@@ -6791,19 +6712,9 @@ clips:
     end: 04:36.3
     fields:
       transcription: |-
-        すると
-        桶の中から
-        甘くて美味しそうな匂いがしてきました
-        実は保険に入っていたのは
-        恐ろしい毒ではなくて
-        甘くて美味しい黒砂糖 だったのです
-        もちろん二人はそれを全部食べてしまいました
-        さて
-        二人は主人に謝ったと思いますか
-        家
-        二人は逆に
-        主人が大切にしていた掛け軸を破ったり
-        高い 茶碗を割ったりしました
+        すると、桶の中から、甘くて美味しそうな匂いがしてきました。実は、保険に入っていたのは「恐ろしい毒」ではなくて「甘くて美味しい黒砂糖」だったのです。もちろん、二人はそれを全部食べてしまいました。
+        さて、二人は主人に謝ったと思いますか。
+        いいえ、二人は逆に、主人が大切にしていた掛け軸を破ったり、高い 茶碗を割ったりしました。
       meaning: |-
         When they did this, a sweet, delicious smell came from inside the bucket. In fact, the contents of the bucket had not been horrible poison, but sweet and delicious brown sugar. Of course, the two ate all of it.
         Now, do you think that the two apologized to their master? No, on the contrary, the two did things like tear their master’s prized hanging scroll and break his expensive bowl.
@@ -6812,17 +6723,7 @@ clips:
     start: 04:37.087
     end: 05:05.747
     fields:
-      transcription: |-
-        そして 主人が帰ってくると泣きながら
-        大変悪いことをしてしまったので
-        ブスを食べて死のうと思ったけれど死ねなかった
-        と言いました
-        自分が出かけている間に
-        黒砂糖を食べられないように
-        6だと言って家来を騙そうとした主人
-        しかし
-        逆に家来に黒砂糖を全部食べられてしまい
-        その上 大事な 掛け軸を破られた回 茶碗も破られてしまったのです
+      transcription: そして、主人が帰ってくると泣きながら「大変悪いことをしてしまったので、ぶすを食べて死のうと思ったけれど死ねなかった」と言いました。自分が出かけている間に黒砂糖を食べられないように、毒だと言って家来を騙そうとした主人。しかし、逆に家来に黒砂糖を全部食べられてしまい、その上、大事な掛け軸を破られ、高い茶碗も破られてしまったのです。
       meaning: And, when their master came home, they cried while saying to him, “We did very terrible things, so we tried to kill ourselves by eating busu, but we weren’t able to die.” The master had tried to deceive his servants by telling them that the brown sugar was poison so that they wouldn’t eat it while he was out. However, contrary to his intention, all his brown sugar was eaten by his servants, and on top of that his precious hanging scroll was torn and his expensive bowl was broken as well.
     tags:
       - tobira08
@@ -6831,14 +6732,10 @@ clips:
     end: 05:33.627
     fields:
       transcription: |-
-        皆さんはこの話のどんなところが面白いと思いますか
-        皆さんの体の中のキラー細胞は増えたでしょうか
-        このように
-        笑いは伝統芸能の中にも生きています
-        そして 芸術の中の笑いも
-        毎日の 日常生活の中で生まれる 笑いも効果は同じです
-        皆さんも身近な健康法として
-        笑いを見直してみませんか
+        皆さんはこの話のどんなところが面白いと思いますか。
+        皆さんの体の中のキラー細胞は増えたでしょうか。
+        このように「笑い」は伝統芸能の中にも生きています。
+        そして、芸術の中の「笑い」も、毎日の 日常生活の中で生まれる「笑い」も、効果は同じです。皆さんも身近な健康法として、「笑い」を見直してみませんか。
       meaning: What parts of this story do you think are funny? Did your body’s natural killer cells increase in number? In this way, laughter is an active element (lit. alive) in traditional arts, too. Also, both the laughter within the arts and the laughter occurring in everyday life have the same effect. Won't you try viewing laughter in a new light as a handy health-maintenance method?
     tags:
       - tobira08

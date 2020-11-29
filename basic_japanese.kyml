@@ -3,7 +3,7 @@
 name: Basic Japanese
 noteType: Transliteration
 createdAt: 2020-02-04T17:14:00Z
-timestamp: 2020-11-29T12:52:40Z
+timestamp: 2020-11-29T14:14:51Z
 id: 396cb23e-87fa-491c-a0f2-c7fc5022d80a
 ---
 name: Japanese Listening (N5-N4-N3) - Shadowing lets speak Japanese beginner to intermediate (N5 N4 N3).mp4
@@ -9062,11 +9062,19 @@ name: JGR 1-1-5 waraibanashi.m4a
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 10:46.281
 id: 7060cc64-72c1-419d-bc2c-996a4a519dbf
+subtitles:
+  - id: a871e775-489a-472b-9f67-734cf17ba8f0
+    type: External
+    chunksMetadata:
+      count: 192
+      endCue: 31513.55
+    name: JGR 1-1-5 waraibanashi.srt
 clips:
   - id: 97e4b821-f177-4049-bfe9-920aac07b5a6
     start: 00:00.0
     end: 00:01.681
     fields:
+      transcription: 笑い話
       pronunciation: Warai-bánashi
       meaning: Funny stories
     tags:
@@ -9075,6 +9083,7 @@ clips:
     start: 00:08.246
     end: 00:09.203
     fields:
+      transcription: 星を取る
       pronunciation: Hoshi-o tóru
       meaning: To catch the stars
     tags:
@@ -9083,6 +9092,7 @@ clips:
     start: 00:11.338
     end: 00:11.963
     fields:
+      transcription: 夜です
       pronunciation: Yóru-desu.
       meaning: It's night. (polite)
     tags:
@@ -9091,6 +9101,7 @@ clips:
     start: 00:13.679
     end: 00:15.21
     fields:
+      transcription: 庭に子供がいます
       pronunciation: Niwa-ni kodomo-ga imásu.
       meaning: There is a child in the garden. (polite)
     tags:
@@ -9099,6 +9110,7 @@ clips:
     start: 00:17.138
     end: 00:18.72
     fields:
+      transcription: 空に星があります
       pronunciation: Sóra-ni hoshi-ga arimásu.
       meaning: There are stars in the sky. (polite)
     tags:
@@ -9107,6 +9119,7 @@ clips:
     start: 00:20.757
     end: 00:22.036
     fields:
+      transcription: たくさんあります
       pronunciation: Takusan arimásu.
       meaning: There are many [of them]. (polite)
     tags:
@@ -9115,6 +9128,7 @@ clips:
     start: 00:23.919
     end: 00:25.169
     fields:
+      transcription: とても綺麗です
       pronunciation: Totemo kírei-desu.
       meaning: "[They] are very beautiful. (polite)"
     tags:
@@ -9123,6 +9137,7 @@ clips:
     start: 00:27.683
     end: 00:29.269
     fields:
+      transcription: 子供は空を見ます
       pronunciation: Kodomo-wa sóra-o mimásu.
       meaning: The child looks at the sky. (polite)
     tags:
@@ -9131,6 +9146,7 @@ clips:
     start: 00:31.489
     end: 00:33.693
     fields:
+      transcription: わー 綺麗な星
       pronunciation: Waa, kírei-na hoshi!
       meaning: Whoa, pretty stars!
     tags:
@@ -9139,6 +9155,7 @@ clips:
     start: 00:36.669
     end: 00:38.378
     fields:
+      transcription: 子供は星が欲しいです
       pronunciation: Kodomo-wa hoshi-ga hoshíi-desu.
       meaning: The child wants the stars.
       notes: Literally, "As for the child, [the] stars are wanted [by him]."
@@ -9148,6 +9165,7 @@ clips:
     start: 00:40.009
     end: 00:41.274
     fields:
+      transcription: 星が取りたいです
       pronunciation: Hoshi-ga tori-tái-desu.
       meaning: "[He] wants to catch the stars. (polite)"
       notes: |-
@@ -9161,6 +9179,7 @@ clips:
     start: 00:43.191
     end: 00:44.256
     fields:
+      transcription: 棒で取ります
       pronunciation: Bou-de torimásu.
       meaning: "[He] catches [them] with a stick."
       notes: torimásu = tóru
@@ -9170,6 +9189,7 @@ clips:
     start: 00:45.935
     end: 00:47.019
     fields:
+      transcription: 長い棒です
       pronunciation: Nagái bou-désu.
       meaning: It's a long stick. (polite)
     tags:
@@ -9178,6 +9198,7 @@ clips:
     start: 00:49.304
     end: 00:52.348
     fields:
+      transcription: 星が欲しい 星が取りたい
       pronunciation: Hoshi-ga hoshíi! Hoshi-ga tori-tái!
       meaning: I want the stars! I want to catch the stars!
     tags:
@@ -9186,6 +9207,11 @@ clips:
     start: 00:54.553
     end: 01:01.256
     fields:
+      transcription: |-
+        お父さんが来ます
+        そして
+        言います
+        だめだめ
       pronunciation: |-
         O-tóu-san-ga kimásu. Soshite, iimásu.
 
@@ -9200,6 +9226,7 @@ clips:
     start: 01:02.504
     end: 01:06.013
     fields:
+      transcription: その棒は長くない短いよ
       pronunciation: Sono bou-wa nágaku nái. Mijikái yo.
       meaning: That stick isn't long. [It]'s short!
       notes: |-
@@ -9211,6 +9238,9 @@ clips:
     start: 01:07.943
     end: 01:11.648
     fields:
+      transcription: |-
+        星は遠いよ
+        だからだめだめ
       pronunciation: "Hoshi-wa tooi yo. Dá-kara, damé damé. "
       meaning: The stars are far away! So that won't do. (polite)
     tags:
@@ -9219,6 +9249,9 @@ clips:
     start: 01:12.868
     end: 01:18.608
     fields:
+      transcription: |-
+        そこはだめ
+        屋根の上がいいよ
       pronunciation: Soko-wa damé. Yáne-no ue-ga íi yo.
       meaning: You can't [stand] there. The top of the roof would be better!
     tags:
@@ -9227,6 +9260,7 @@ clips:
     start: 01:22.739
     end: 01:23.899
     fields:
+      transcription: 誰が早い
       pronunciation: Dáre-ga hayái?
       meaning: Who is early?
     tags:
@@ -9235,6 +9269,7 @@ clips:
     start: 01:26.067
     end: 01:28.275
     fields:
+      transcription: うぐいすは春の鳥です
       pronunciation: Ugúisu-wa háru-no tori-désu.
       meaning: The nightingale is a spring bird. (polite)
     tags:
@@ -9243,6 +9278,7 @@ clips:
     start: 01:30.032
     end: 01:31.124
     fields:
+      transcription: 春に泣きます
       pronunciation: Háru-ni nakimásu.
       meaning: "[The bird] sings during the spring. (polite)"
     tags:
@@ -9251,6 +9287,10 @@ clips:
     start: 01:33.565
     end: 01:40.869
     fields:
+      transcription: |-
+        うぐいすの声は
+        ホーホケキョ
+        とても綺麗な声です
       pronunciation: Ugúisu-no kóe-wa, "Hoo-hokékkyo"-desu. Totemo kírei-na kóe-desu.
       meaning: The nightingale's call goes, "Hoo-hokekkyo." It's a very beautiful call. (polite)
     tags:
@@ -9259,6 +9299,7 @@ clips:
     start: 01:43.315
     end: 01:46.678
     fields:
+      transcription: みんな早く うぐいすの声が聞きたいです
       pronunciation: Minna, háyaku ugúisu-no kóe-ga kikitái-desu.
       meaning: Everyone wants to hear the nightingale's call early. (polite)
     tags:
@@ -9267,6 +9308,7 @@ clips:
     start: 01:48.888
     end: 01:50.579
     fields:
+      transcription: 今年も春が来ました
       pronunciation: Kotoshi-mo háru-ga kimáshita.
       meaning: Spring came again this year. (polite)
     tags:
@@ -9275,6 +9317,11 @@ clips:
     start: 01:52.859
     end: 01:59.973
     fields:
+      transcription: |-
+        一郎の家に
+        二郎三郎
+        四郎
+        五郎が来ました
       pronunciation: Ichirou-no ié-ni, Jírou, Saburou, Shírou, Górou-ga kimáshita.
       meaning: Jirou, Saburou, Shirou, and Girou came to Ichirou's house. (polite)
     tags:
@@ -9283,6 +9330,7 @@ clips:
     start: 02:01.905
     end: 02:04.462
     fields:
+      transcription: 5人は一緒にお酒を飲みます
       pronunciation: Gonín-wa issho-ni osake-wo nomimásu.
       meaning: The five of them drink sake together. (polite)
     tags:
@@ -9291,6 +9339,10 @@ clips:
     start: 02:06.874
     end: 02:14.754
     fields:
+      transcription: |-
+        一郎が言いました
+        私は今朝
+        うぐいすの声を聞きましたよ
       pronunciation: Ichirou-ga iimáshita. Watashi-wa késa, ugúisu-no kóe-o kikimáshita yo.
       meaning: Ichirou said, "This morning, I heard the nightingale's call." (polite)
       notes: |-
@@ -9302,6 +9354,9 @@ clips:
     start: 02:16.838
     end: 02:19.929
     fields:
+      transcription: |-
+        今年は
+        私が一番早い
       pronunciation: Kotoshi-wa, watashi-ga ichi-ban-hayái.
       meaning: This year, I'm the earliest. (polite)
     tags:
@@ -9310,6 +9365,10 @@ clips:
     start: 02:22.319
     end: 02:28.389
     fields:
+      transcription: |-
+        二郎が言いました
+        いいえ
+        それは早くないですよ
       pronunciation: Jírou-ga iimáshita. "Iie. Sore-wa háyaku nái-desu yo."
       meaning: Jirou said, "No, that's not early." (polite)
     tags:
@@ -9318,6 +9377,7 @@ clips:
     start: 02:30.184
     end: 02:32.926
     fields:
+      transcription: 私は昨日の朝 聞きましたよ
       pronunciation: Watashi-wa kinou-no ása kikimáshita yo.
       meaning: I heard [it] yesterday morning. (polite)
     tags:
@@ -9326,6 +9386,7 @@ clips:
     start: 02:34.323
     end: 02:36.01
     fields:
+      transcription: 私が一番早い
       pronunciation: Watashi-ga ichi-ban-hayái.
       meaning: I'm the earliest.
     tags:
@@ -9334,6 +9395,11 @@ clips:
     start: 02:38.348
     end: 02:45.34
     fields:
+      transcription: |-
+        次に
+        三郎が言いました
+        いいえ
+        それは早くないですよ
       pronunciation: Tsugí-ni Saburo-ga iimáshita. "Iie. Sore-wa háyaku nái-desu yo."
       meaning: Next, Saburo said, "No. That's not fast."
     tags:
@@ -9342,6 +9408,7 @@ clips:
     start: 02:46.828
     end: 02:49.607
     fields:
+      transcription: 私は一週間前に聞きましたよ
       pronunciation: Watashi-wa is-shuu-kan-máe-ni kikimáshita yo.
       meaning: I heard [it] a week ago.
     tags:
@@ -9350,6 +9417,9 @@ clips:
     start: 02:55.022
     end: 02:59.558
     fields:
+      transcription: |-
+        四郎が言いました
+        それは早くない
       pronunciation: Shírou-ga iimáshita. "Sore-wa háyaku nái."
       meaning: Shirou said, "That's not fast."
     tags:
@@ -9358,6 +9428,7 @@ clips:
     start: 03:00.978
     end: 03:03.338
     fields:
+      transcription: 私は1ヶ月前に聞きました
       pronunciation: Watashi-wa ik-ka-getsu-máe-ni kikimáshita.
       meaning: I heard [it] a month ago. (polite)
     tags:
@@ -9366,6 +9437,10 @@ clips:
     start: 03:09.497
     end: 03:16.389
     fields:
+      transcription: |-
+        五郎が言いました
+        みんな早くない早くない
+        遅い遅い
       pronunciation: Górou-ga iimáshita. "Minna háyaku nái. Háyaku nái. Osoi, osoi."
       meaning: Gorou said, "None of you are early. You're not early! You're late, you're late."
       notes: Literally, "Every one [of you] isn't early."
@@ -9375,6 +9450,7 @@ clips:
     start: 03:17.692
     end: 03:20.241
     fields:
+      transcription: 私は去年の春に聞きましたよ
       pronunciation: Watashi-wa kyónen-no háru-ni kikimáshita yo.
       meaning: I heard [it] last spring! (polite)
     tags:
@@ -9383,6 +9459,7 @@ clips:
     start: 03:24.399
     end: 03:25.814
     fields:
+      transcription: お金がありません
       pronunciation: Okane-ga arimasén.
       meaning: "[I] have no money. (polite)"
     tags:
@@ -9391,6 +9468,7 @@ clips:
     start: 03:28.142
     end: 03:30.617
     fields:
+      transcription: これは秋夫と春子の家です
       pronunciation: Kore-wa Akio-to Háruko-no uchi-désu.
       meaning: This is Akio and Haruko's house. (polite)
     tags:
@@ -9399,6 +9477,7 @@ clips:
     start: 03:32.671
     end: 03:34.652
     fields:
+      transcription: 家の近くに川があります
       pronunciation: Uchi-no chíkaku-ni kawá-ga arimásu.
       meaning: There is a river near the house. (polite)
     tags:
@@ -9407,6 +9486,9 @@ clips:
     start: 03:36.529
     end: 03:41.492
     fields:
+      transcription: |-
+        そこに舟があります
+        秋夫の舟です
       pronunciation: Soko-ni fúne-ga arimásu. Akio-no fúne-desu.
       meaning: There, there's a boat. It's Akio's boat. (polite)
     tags:
@@ -9415,6 +9497,10 @@ clips:
     start: 03:43.657
     end: 03:52.857
     fields:
+      transcription: |-
+        毎日
+        たくさんの人が 秋夫の舟に乗ります
+        そして秋夫はお金をもらいます
       pronunciation: Máinichi, takusan-no hitó-ga Akio-no fúne-ni norimásu. Soshite, Akio-wa okane-o moraimásu.
       meaning: Every day, lots of people get in Akio's boat. Then, Akio gets money. (polite)
       notes: |-
@@ -9426,6 +9512,9 @@ clips:
     start: 03:55.33
     end: 04:02.261
     fields:
+      transcription: |-
+        これが秋夫の仕事です
+        はるこはうちの仕事をします
       pronunciation: Kore-ga Akio-no shigoto-désu. Háruko-wa uchi-no shigoto-o shimásu.
       meaning: This Akio's job. (polite)
       notes: shimásu = suru
@@ -9435,6 +9524,7 @@ clips:
     start: 04:03.874
     end: 04:05.424
     fields:
+      transcription: 毎日掃除をします
       pronunciation: Máinichi souji-o shimásu.
       meaning: "[She] cleans every day. (polite)"
     tags:
@@ -9443,6 +9533,7 @@ clips:
     start: 04:06.622
     end: 04:07.732
     fields:
+      transcription: 洗濯をします
       pronunciation: Sentaku-o shimásu.
       meaning: "[She] does the laundry. (polite)"
     tags:
@@ -9451,6 +9542,7 @@ clips:
     start: 04:08.985
     end: 04:10.27
     fields:
+      transcription: ご飯を作ります
       pronunciation: Góhan-o tsukurimásu.
       meaning: She makes food. (polite)
       notes: tsukurimásu = tsukúru
@@ -9460,6 +9552,9 @@ clips:
     start: 04:12.527
     end: 04:16.469
     fields:
+      transcription: |-
+        秋夫と春子は
+        20年前に結婚しました
       pronunciation: Akio-to Háruko-wa ni-juu-nen-máe-ni kekkon shimáshita.
       meaning: Ankio and Haruko got married twenty years ago. (polite)
       notes: kekkon shimásu = kekkon suru
@@ -9469,6 +9564,9 @@ clips:
     start: 04:18.48
     end: 04:21.439
     fields:
+      transcription: |-
+        春子は20年前
+        綺麗でした
       pronunciation: Háruko-wa ni-juu-nen-máe kírei-deshita.
       meaning: Haruko was beautiful twenty years ago. (polite)
     tags:
@@ -9477,6 +9575,7 @@ clips:
     start: 04:22.955
     end: 04:25.196
     fields:
+      transcription: 今は若くないです
       pronunciation: Démo, íma-wa wákaku nái-desu.
       meaning: However, now, she's not young. (polite)
       notes: |-
@@ -9488,6 +9587,7 @@ clips:
     start: 04:26.599
     end: 04:28.673
     fields:
+      transcription: もう 綺麗じゃありません
       pronunciation: Mou kírei-ja arimasén.
       meaning: "[She] is no longer beautiful. (polite)"
       notes: |-
@@ -9499,6 +9599,9 @@ clips:
     start: 04:31.142
     end: 04:34.328
     fields:
+      transcription: |-
+        秋夫はもう
+        春子は好きじゃありません
       pronunciation: Akio-wa móu, Háruko-ga sukí-ja arimasén.
       meaning: Akio no longer loves Haruko. (polite)
       notes: |-
@@ -9510,6 +9613,11 @@ clips:
     start: 04:37.389
     end: 04:50.05
     fields:
+      transcription: |-
+        ある日秋夫は 春子に言いました
+        あなたはもう 綺麗じゃありません
+        私はもう
+        あなたが好きじゃありません
       pronunciation: Áru-hi, Akio-wa Háruko-ni iimashita. "Anáta-wa móu, kírei-ja arimasén. Watashi-wa móu, anáta-ga sukí-ja arimasén."
       meaning: One day, Akio said to Haruko, "You aren't beautiful anymore. I don't love you anymore."
     tags:
@@ -9518,7 +9626,12 @@ clips:
     start: 04:52.112
     end: 04:59.552
     fields:
-      pronunciation: Háruko-wa iimáshita. "Wakarimáshita. Dé-wa, watashi-wa kono uchi-o demásu.
+      transcription: |-
+        春子は言いました
+        わかりました
+        では
+        私はこのうちを出ます
+      pronunciation: Háruko-wa iimáshita. "Wakarimáshita. Dé-wa, watashi-wa kono uchí-o demásu.
       meaning: Haruko said, "I understand. Then I will leave this house." (polite)
       notes: demásu = déru
     tags:
@@ -9527,7 +9640,12 @@ clips:
     start: 05:01.041
     end: 05:07.345
     fields:
-      pronunciation: Watashi-no háha-wa máda génki-desu.
+      transcription: |-
+        私の母はまだ元気です
+        私は母のうちへ行きます
+      pronunciation: |-
+        Watashi-no háha-wa máda génki-desu.
+        Watashi-wa háha-no uchí-e ikimasu.
       meaning: My mother is still well. I'll go to my mother's house. (polite)
     tags:
       - jgr1-1-5
@@ -9535,6 +9653,7 @@ clips:
     start: 05:10.429
     end: 05:13.258
     fields:
+      transcription: 春子は綺麗な着物を着ました
       pronunciation: Háruko-wa kírei-na kimono-o kimáshita.
       meaning: Haruko put on a beautiful kimono. (polite)
     tags:
@@ -9543,6 +9662,9 @@ clips:
     start: 05:14.653
     end: 05:19.346
     fields:
+      transcription: |-
+        化粧もしました
+        今はとても綺麗です
       pronunciation: Keshóu-mo shimáshita. Íma-wa totemo kírei-desu.
       meaning: "[She] put on make-up, too. Now, she's very beautiful. (polite)"
     tags:
@@ -9551,6 +9673,10 @@ clips:
     start: 05:21.272
     end: 05:26.086
     fields:
+      transcription: |-
+        春子は言いました
+        じゃあ
+        さようなら
       pronunciation: Háruko-wa iimáshita. "Ja, sayounara."
       meaning: Haruko said, "Well then, farewell."
     tags:
@@ -9559,6 +9685,7 @@ clips:
     start: 05:28.302
     end: 05:30.329
     fields:
+      transcription: 秋夫は 春子を見ました
       pronunciation: Akio-wa Háruko-o mimáshita.
       meaning: Akio looked at Haruko.
     tags:
@@ -9567,6 +9694,9 @@ clips:
     start: 05:31.755
     end: 05:37.651
     fields:
+      transcription: |-
+        そして 小さい声で言いました
+        春子はとても綺麗だ
       pronunciation: Soshite, chiisái kóe-de iimáshita. "Háruko-wa totemo kírei-da."
       meaning: Then, [he] said quietly, "Haruko is very beautiful."
     tags:
@@ -9575,6 +9705,7 @@ clips:
     start: 05:39.815
     end: 05:43.53
     fields:
+      transcription: 春子は今からお母さんのうちへ行きます
       pronunciation: Démo, Háruko-wa íma-kara o-káa-san-no uchi-e ikimásu.
       meaning: But Haruko is going to her mother's house now. (polite)
     tags:
@@ -9583,7 +9714,8 @@ clips:
     start: 05:45.145
     end: 05:47.841
     fields:
-      pronunciation: Móu, kono uchi-ní-wa kaerimasén.
+      transcription: この家には帰りません
+      pronunciation: Móu, kono uchí-ni-wa kaerimasén.
       meaning: She won't come back to this house anymore. (polite)
       notes: |-
         kaerimasén = kaeránai
@@ -9594,6 +9726,9 @@ clips:
     start: 05:50.438
     end: 05:54.749
     fields:
+      transcription: |-
+        私が悪かった
+        秋夫は言いました
       pronunciation: Watashi-ga wárukatta. Akio-wa iimáshita.
       meaning: '"I was bad," said Akio. (polite)'
     tags:
@@ -9602,6 +9737,7 @@ clips:
     start: 05:56.977
     end: 05:59.115
     fields:
+      transcription: 私も川まで一緒に行きます
       pronunciation: Watashi-mo kawa-máde issho-ni ikimásu.
       meaning: I'll go along [with her] until the river. (polite)
     tags:
@@ -9610,7 +9746,8 @@ clips:
     start: 06:01.067
     end: 06:02.827
     fields:
-      pronunciation: Futarí-wa kawa-máde ikimáshita.
+      transcription: 二人は川まで行きました
+      pronunciation: Futarí-wa kawá-made ikimáshita.
       meaning: The two of them got to the river. (polite)
     tags:
       - jgr1-1-5
@@ -9618,6 +9755,7 @@ clips:
     start: 06:05.105
     end: 06:09.705
     fields:
+      transcription: いつも 秋夫の舟で春子のお母さんのうちへ行きます
       pronunciation: Ítsumo Akio-no fúne-de Háruko-no o-káa-san-no uchi-e ikimásu.
       meaning: "[They] would always go to Haruko's mothers house in Akio's boat. (polite) "
     tags:
@@ -9626,6 +9764,9 @@ clips:
     start: 06:11.977
     end: 06:14.535
     fields:
+      transcription: |-
+        春子は
+        秋夫の舟に乗りました
       pronunciation: Háruko-wa Akio-no fúne-ni norimáshita.
       meaning: Haruko got on Akio's boat. (polite)
       notes: |-
@@ -9637,6 +9778,9 @@ clips:
     start: 06:17.031
     end: 06:22.245
     fields:
+      transcription: |-
+        秋夫は 春子に言いました
+        お金をください
       pronunciation: Akio-wa Háruko-ni iimáshita. "Okane-o kudasái."
       meaning: Akio said to Haruko, "My money, please." (polite)
     tags:
@@ -9645,6 +9789,9 @@ clips:
     start: 06:23.848
     end: 06:29.525
     fields:
+      transcription: |-
+        春子が言いました
+        私はお金がありません
       pronunciation: Háruko-ga iimáshita. "E? Watashi-wa, okane-ga arimasén."
       meaning: Haruko said, "Huh? I don't have any money." (polite)
     tags:
@@ -9653,6 +9800,10 @@ clips:
     start: 06:31.246
     end: 06:37.605
     fields:
+      transcription: |-
+        秋夫が言いました
+        お金がありません
+        そうですか
       pronunciation: Akio-ga iimáshita. "Okane-ga arimasén? Sóu-desu ka."
       meaning: Akio said, "You don't have any money? I see." (polite)
     tags:
@@ -9661,6 +9812,9 @@ clips:
     start: 06:39.473
     end: 06:42.128
     fields:
+      transcription: |-
+        それではだめです
+        帰りますよ
       pronunciation: Sore-dé-wa damé-desu. Kaerimásu yo.
       meaning: Then, that won't do. [We]'re going back. (polite)
     tags:
@@ -9669,6 +9823,7 @@ clips:
     start: 06:44.796
     end: 06:48.523
     fields:
+      transcription: 秋夫は 春子と一緒に家へ帰りました
       pronunciation: Akio-wa Háruko-to issho-ni uchi-e kaerimáshita.
       meaning: Akio went back home with Haruko. (polite)
     tags:
@@ -9677,6 +9832,7 @@ clips:
     start: 06:50.653
     end: 06:52.903
     fields:
+      transcription: 秋夫はとても嬉しいです
       pronunciation: Akio-wa totemo ureshíi-desu.
       meaning: Akio is very happy. (polite)
     tags:
@@ -9685,6 +9841,7 @@ clips:
     start: 06:57.198
     end: 06:58.533
     fields:
+      transcription: 店は大変
       pronunciation: Misé-wa taihen?
       meaning: A rough time at the shop?
     tags:
@@ -9693,6 +9850,7 @@ clips:
     start: 07:00.771
     end: 07:02.237
     fields:
+      transcription: 大きい店があります
       pronunciation: Ookíi misé-ga arimásu.
       meaning: There is a big shop. (polite)
     tags:
@@ -9701,6 +9859,7 @@ clips:
     start: 07:03.847
     end: 07:06.043
     fields:
+      transcription: たくさんの人が店で働きます
       pronunciation: Takusán-no hitó-ga misé-de hatarakimásu.
       meaning: Lots of people work at the shop. (polite)
       notes: hatarakimásu = hataraku
@@ -9710,6 +9869,7 @@ clips:
     start: 07:08.052
     end: 07:09.769
     fields:
+      transcription: 太郎も店で働きます
       pronunciation: Tárou-mo misé-de hatarakimásu.
       meaning: Tarou works at the shop, too. (polite)
     tags:
@@ -9718,6 +9878,7 @@ clips:
     start: 07:11.525
     end: 07:13.521
     fields:
+      transcription: 店はとても忙しいです
       pronunciation: Misé-wa totemo isogashíi-desu.
       meaning: The shop is very busy. (polite)
     tags:
@@ -9726,6 +9887,9 @@ clips:
     start: 07:15.637
     end: 07:19.988
     fields:
+      transcription: |-
+        太郎は毎日毎日
+        たくさん働きます
       pronunciation: Tárou-wa máinichi máinichi takusan hatarakimásu.
       meaning: Tarou works hard every single day. (polite)
     tags:
@@ -9734,6 +9898,7 @@ clips:
     start: 07:22.133
     end: 07:24.155
     fields:
+      transcription: 朝から夜まで働きます
       pronunciation: Ása-kara yóru-made hatarakimásu.
       meaning: "[He] works from morning till night. (polite)"
     tags:
@@ -9742,6 +9907,7 @@ clips:
     start: 07:25.929
     end: 07:27.075
     fields:
+      transcription: とても疲れます
       pronunciation: Totemo tsukaremásu.
       meaning: "[He] gets very tired. (polite)"
       notes: tsukaremásu = tsukaréru
@@ -9751,6 +9917,9 @@ clips:
     start: 07:29.059
     end: 07:31.892
     fields:
+      transcription: |-
+        でも
+        お金はあまりもらいません
       pronunciation: Démo, o-kane-wa amari moraimasén.
       meaning: However, [he] doesn't get much money. (polite)
       notes: moraimásu = morau
@@ -9760,6 +9929,7 @@ clips:
     start: 07:33.437
     end: 07:34.445
     fields:
+      transcription: 少しだけです
       pronunciation: Sukoshi-dake-désu.
       meaning: It's only a little bit. (polite)
     tags:
@@ -9768,6 +9938,9 @@ clips:
     start: 07:36.749
     end: 07:42.044
     fields:
+      transcription: |-
+        太郎は小さい声で言いました
+        楽しくないなあ
       pronunciation: Tárou-wa chiisái kóe-de iimáshita. "Tanóshiku nai na."
       meaning: Tarou said in a quiet voice (polite), "This sure isn't fun."
     tags:
@@ -9776,6 +9949,7 @@ clips:
     start: 07:43.207
     end: 07:45.121
     fields:
+      transcription: もう働きたくないなぁ
       pronunciation: Móu hataraki-táku nai naa.
       meaning: "I don't want to work anymore. "
     tags:
@@ -9784,6 +9958,9 @@ clips:
     start: 07:47.571
     end: 07:49.901
     fields:
+      transcription: |-
+        太郎は夜
+        店で寝ます
       pronunciation: Tárou-wa yóru, misé-de nemásu.
       meaning: "Tarou sleeps in the shop at night. (polite) "
       notes: nemásu = néru
@@ -9793,6 +9970,7 @@ clips:
     start: 07:51.727
     end: 07:53.613
     fields:
+      transcription: 他の人たちと一緒に寝ます
       pronunciation: Hoka-no hito-tachí-to issho-ni nemásu.
       meaning: "[He] sleeps together with the other people. (polite)"
     tags:
@@ -9801,6 +9979,7 @@ clips:
     start: 07:55.808
     end: 07:59.316
     fields:
+      transcription: 太郎は家で一人で休みたいです
       pronunciation: Tárou-wa, uchi-de, hitóri-de yasumi-tái-desu.
       meaning: Tarou wants to rest at home by himself. (polite)
       notes: yasúmu
@@ -9810,6 +9989,7 @@ clips:
     start: 08:01.056
     end: 08:02.301
     fields:
+      transcription: 一人で寝たいです
       pronunciation: Hitóri-de ne-tái-desu.
       meaning: He wants to sleep by himself.
       notes: neru
@@ -9819,6 +9999,11 @@ clips:
     start: 08:04.789
     end: 08:14.268
     fields:
+      transcription: |-
+        次の日
+        太郎は店の人に言いました
+        私は病気です
+        家に帰ります
       pronunciation: Tsugí-no hi, Tárou-wa mise-nó hitó-ni iimáshita. "Watashi-wa byouki-désu. Uchi-ni kaerimásu."
       meaning: The next day, Tarou said to the people at the shop,   "I'm very ill. I'm going home." (polite)
     tags:
@@ -9827,6 +10012,9 @@ clips:
     start: 08:18.057
     end: 08:24.104
     fields:
+      transcription: |-
+        今太郎は家にいます
+        家は山の近くにあります
       pronunciation: Íma, Tárou-wa uchi-ni imásu. Uchi-wa yama-nó chíkaku-ni arimásu.
       meaning: Now, Tarou is at [his] house. [His] house is near the mountains. (polite)
     tags:
@@ -9835,6 +10023,7 @@ clips:
     start: 08:25.68
     end: 08:26.91
     fields:
+      transcription: とても静かです
       pronunciation: Totemo shízuka-desu.
       meaning: It's very quiet. (polite)
     tags:
@@ -9843,6 +10032,9 @@ clips:
     start: 08:29.0
     end: 08:31.576
     fields:
+      transcription: |-
+        太郎は夜
+        一人で寝ました
       pronunciation: Tárou-wa, yóru, hitóri-de nemáshita.
       meaning: Tarou slept alone at night. (polite)
       notes: |-
@@ -9854,6 +10046,7 @@ clips:
     start: 08:33.854
     end: 08:34.572
     fields:
+      transcription: 次の日
       pronunciation: Tsugí-no hi.
       meaning: The next day.
     tags:
@@ -9862,6 +10055,7 @@ clips:
     start: 08:37.654
     end: 08:38.905
     fields:
+      transcription: 太郎は起きました
       pronunciation: Tárou-wa okimáshita.
       meaning: Tarou got up. (polite)
     tags:
@@ -9870,6 +10064,7 @@ clips:
     start: 08:40.706
     end: 08:41.966
     fields:
+      transcription: もう昼です
       pronunciation: Móu, hirú-desu.
       meaning: It's already noon. (polite)
     tags:
@@ -9878,6 +10073,10 @@ clips:
     start: 08:43.634
     end: 08:51.76
     fields:
+      transcription: |-
+        太郎は言いました
+        お茶が飲みたいなぁ
+        でも お茶がありません
       pronunciation: Tárou-wa iimáshita. "Ocha-ga nomi-tái naa." Démo, ocha-ga arimasén.
       meaning: Tarou said, "I sure would like to drink some tea." However, he has no tea. (polite)
     tags:
@@ -9886,6 +10085,9 @@ clips:
     start: 08:53.911
     end: 08:59.173
     fields:
+      transcription: |-
+        ご飯も食べたいなー
+        でもご飯がありません
       pronunciation: '"Góhan-mo tabe-tái naa." Démo, góhan-ga arimasén.'
       meaning: "\"I'd really like to to eat some food, too.\" However, he has no food. (polite)"
     tags:
@@ -9894,6 +10096,7 @@ clips:
     start: 09:00.958
     end: 09:02.159
     fields:
+      transcription: 何もありません
       pronunciation: Nanimo arimasén.
       meaning: He doesn't have any of it. (polite)
     tags:
@@ -9902,6 +10105,9 @@ clips:
     start: 09:05.354
     end: 09:09.609
     fields:
+      transcription: |-
+        太郎は川へ行きます
+        魚を取ります
       pronunciation: Tárou-wa kawá-e ikimásu. Sakana-o torimásu.
       meaning: Tarou goes to the river. He catches fish. (polite)
     tags:
@@ -9910,6 +10116,7 @@ clips:
     start: 09:11.373
     end: 09:13.196
     fields:
+      transcription: 太郎は山へ行きます
       pronunciation: Tárou-wa yamá-e ikimásu.
       meaning: Tarou goes to the mountains. (polite)
     tags:
@@ -9918,6 +10125,7 @@ clips:
     start: 09:14.576
     end: 09:15.802
     fields:
+      transcription: 果物を取ります
       pronunciation: Kudámono-o torimásu.
       meaning: He picks fruit. (polite)
       notes: torimásu = tóru
@@ -9927,6 +10135,7 @@ clips:
     start: 09:17.477
     end: 09:19.207
     fields:
+      transcription: そして家へ帰ります
       pronunciation: Soshite, uchi-e kaerimásu.
       meaning: Then, he goes back home. (polite)
       notes: kaerimásu = kaéru
@@ -9936,6 +10145,7 @@ clips:
     start: 09:20.751
     end: 09:21.728
     fields:
+      transcription: 料理をします
       pronunciation: Ryóuri-o shimásu.
       meaning: He cooks. (polite)
     tags:
@@ -9944,6 +10154,7 @@ clips:
     start: 09:23.939
     end: 09:25.193
     fields:
+      transcription: 料理は大変です
       pronunciation: Ryóuri-wa taihen-désu.
       meaning: Cooking is hard. (polite)
     tags:
@@ -9952,6 +10163,9 @@ clips:
     start: 09:26.688
     end: 09:29.64
     fields:
+      transcription: |-
+        1時間
+        2時間
       pronunciation: Ichi-jí-kan... Ni-jí-kan...
       meaning: 1 hour... 2 hours...
     tags:
@@ -9960,6 +10174,7 @@ clips:
     start: 09:33.396
     end: 09:34.174
     fields:
+      transcription: いただきます
       pronunciation: Itadakimásu.
       meaning: I humbly receive.
     tags:
@@ -9968,6 +10183,9 @@ clips:
     start: 09:37.438
     end: 09:43.637
     fields:
+      transcription: |-
+        次の日から 太郎は毎日 川へ行きます
+        山へ行きます
       pronunciation: Tsugi-no hi-kara, Tárou-wa máinichi kawá-e ikimásu. Yamá-e ikimásu.
       meaning: From the next day on, Tarou goes to the river every day. He goes to the mountains. (polite)
     tags:
@@ -9976,6 +10194,9 @@ clips:
     start: 09:45.049
     end: 09:48.744
     fields:
+      transcription: |-
+        料理をします
+        掃除もします
       pronunciation: Ryóuri-o shimásu. Souji-mo shimásu.
       meaning: He cooks. He cleans, as well. (polite)
     tags:
@@ -9984,6 +10205,7 @@ clips:
     start: 09:50.227
     end: 09:51.463
     fields:
+      transcription: 洗濯もします
       pronunciation: Sentaku-mo shimásu.
       meaning: He does the laundry, too. (polite)
     tags:
@@ -9992,6 +10214,9 @@ clips:
     start: 09:53.158
     end: 09:57.038
     fields:
+      transcription: |-
+        とても大変です
+        楽しくないです
       pronunciation: Totemo taihen-désu. Tanóshiku nái-desu.
       meaning: It's a really rough time. It's not fun. (polite)
     tags:
@@ -10000,6 +10225,12 @@ clips:
     start: 10:00.341
     end: 10:11.146
     fields:
+      transcription: |-
+        太郎はいいます
+        店には
+        いつも水があります
+        お茶もあります
+        ご飯もあります
       pronunciation: Tárou-wa iimásu. "Misé-ni-wa, ítsumo mizu-ga arimásu. Ocha-mo arimásu. Góhan-mo arimásu."
       meaning: Tarou says, "There's always water at the shop. There's tea, too. There's food, too." (polite)
     tags:
@@ -10008,6 +10239,7 @@ clips:
     start: 10:13.062
     end: 10:15.131
     fields:
+      transcription: だから私は彼は行きません
       pronunciation: Dá-kara watashi-wa kawá-e ikimasén.
       meaning: So I will not go to the river. (polite)
     tags:
@@ -10016,6 +10248,7 @@ clips:
     start: 10:16.275
     end: 10:17.514
     fields:
+      transcription: 山へも行きません
       pronunciation: Yamá-e-mo ikimasén.
       meaning: "[I] won't go to the mountains, either. (polite)"
     tags:
@@ -10024,6 +10257,9 @@ clips:
     start: 10:18.733
     end: 10:22.093
     fields:
+      transcription: |-
+        料理もしません
+        掃除もしません
       pronunciation: Ryóuri-mo shimasén. Souji-mo shimasén.
       meaning: "[I] won't cook, either. [I] won't clean, either. (polite)"
     tags:
@@ -10032,10 +10268,15 @@ clips:
     start: 10:24.057
     end: 10:30.078
     fields:
+      transcription: |-
+        私は店がいいです
+        私はまた店で働きたい
       pronunciation: Watashi-wa, misé-ga íi-desu. Watashi-wa, mata misé-de hataraki-tái!
       meaning: I'm fine with the shop. I want to work at the shop again! (polite)
     tags:
       - jgr1-1-5
+flashcardFieldsToSubtitlesTracks:
+  transcription: a871e775-489a-472b-9f67-734cf17ba8f0
 ---
 name: JGR 1-3-1 basu.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
@@ -11389,11 +11630,19 @@ name: JGR 1-3-4 doushite nekodoshi ga nai.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 06:35.99
 id: fbbe14ba-3ba9-40d5-8bf4-f82fe02927c5
+subtitles:
+  - id: f14797b3-2950-43f7-9014-4ad5d074f14f
+    type: External
+    chunksMetadata:
+      count: 94
+      endCue: 19673.55
+    name: JGR 1-3-4 doushite nekodoshi ga nai.srt
 clips:
   - id: cc1db3ec-804d-4d4d-96b5-98f12ec80ea4
     start: 00:00.0
     end: 00:02.714
     fields:
+      transcription: どうして猫年がない
       pronunciation: Dóu shite neko-doshi-ga nái.
     tags:
       - jgr1-3-4
@@ -11401,6 +11650,7 @@ clips:
     start: 00:05.893
     end: 00:08.861
     fields:
+      transcription: あなたは何年に生まれましたか
       pronunciation: Anáta-wa, nán-nen-ni umaremáshita ka?
       notes: |-
         umaremáshita = umareta
@@ -11411,6 +11661,7 @@ clips:
     start: 00:10.59
     end: 00:12.917
     fields:
+      transcription: 1994年です
       pronunciation: Sén kyúu-haku kyúu-juu yo-nen-desu.
     tags:
       - jgr1-3-4
@@ -11418,6 +11669,7 @@ clips:
     start: 00:14.816
     end: 00:16.206
     fields:
+      transcription: いぬ年生まれですよ 私は1992年に
       pronunciation: Inu-doshi-úmare-desu yo.
     tags:
       - jgr1-3-4
@@ -11425,6 +11677,9 @@ clips:
     start: 00:17.29
     end: 00:23.509
     fields:
+      transcription: |-
+        私は1992年に
+        生まれましたから　さる年です
       pronunciation: Watashi-wa, sén kyúu-hyaku kyúu-juu ní-nen-ni umaremáshita-kara, saru-doshi-désu.
     tags:
       - jgr1-3-4
@@ -11432,6 +11687,7 @@ clips:
     start: 00:26.067
     end: 00:31.723
     fields:
+      transcription: いぬ？さる？年に動物の名前？
       pronunciation: Inú? Sáru? Toshí-ni, doubutsu-no namae?
     tags:
       - jgr1-3-4
@@ -11439,6 +11695,7 @@ clips:
     start: 00:34.969
     end: 00:39.483
     fields:
+      transcription: 日本では年に動物の名前があります
       pronunciation: Nihón-de-wa, toshí-ni doubutsu-no namae-ga arimásu.
     tags:
       - jgr1-3-4
@@ -11446,6 +11703,7 @@ clips:
     start: 00:40.734
     end: 00:43.363
     fields:
+      transcription: 皆さんの国でもありますか
       pronunciation: Mina-san-no kuní-de-mo, arimásu ka?
     tags:
       - jgr1-3-4
@@ -11453,6 +11711,7 @@ clips:
     start: 00:46.377
     end: 00:49.355
     fields:
+      transcription: 動物は全部で12です
       pronunciation: Doubutsu-wa, zénbu-de juu-ní-desu.
     tags:
       - jgr1-3-4
@@ -11460,6 +11719,10 @@ clips:
     start: 00:51.305
     end: 00:55.857
     fields:
+      transcription: |-
+        ねずみ
+        うし
+        とら
       pronunciation: Nezumi, ushi, tora.
     tags:
       - jgr1-3-4
@@ -11467,6 +11730,10 @@ clips:
     start: 00:57.459
     end: 01:02.262
     fields:
+      transcription: |-
+        うさぎ
+        たつ
+        へび
       pronunciation: Usagi, tatsu, hébi.
     tags:
       - jgr1-3-4
@@ -11474,6 +11741,10 @@ clips:
     start: 01:03.937
     end: 01:08.92
     fields:
+      transcription: |-
+        うま
+        ひつじ
+        さる
       pronunciation: Umá, hitsuji, sáru.
     tags:
       - jgr1-3-4
@@ -11481,6 +11752,10 @@ clips:
     start: 01:10.615
     end: 01:16.02
     fields:
+      transcription: |-
+        とり
+        いぬ
+        いのしし です
       pronunciation: Tori, inú, inoshíshi-desu.
     tags:
       - jgr1-3-4
@@ -11488,6 +11763,7 @@ clips:
     start: 01:18.352
     end: 01:21.656
     fields:
+      transcription: 12の中に「ねこ」はいません
       pronunciation: Juu-ní-no náka-ni, "néko"-wa imasén.
     tags:
       - jgr1-3-4
@@ -11495,6 +11771,7 @@ clips:
     start: 01:22.918
     end: 01:24.995
     fields:
+      transcription: それはどうしてでしょう
       pronunciation: Sore-wa, dóu shite deshóu?
     tags:
       - jgr1-3-4
@@ -11502,6 +11779,7 @@ clips:
     start: 01:28.101
     end: 01:30.091
     fields:
+      transcription: とても古い話です
       pronunciation: Totemo furúi hanashí-desu.
     tags:
       - jgr1-3-4
@@ -11509,6 +11787,9 @@ clips:
     start: 01:32.338
     end: 01:42.354
     fields:
+      transcription: |-
+        一年の終わり 12月31日の朝
+        神様が動物たちに言いました
       pronunciation: Ichí-nen-no owari, juu-ni-gatsú sán-juu ichi-nichí-no ása, kámi-sama-ga doubutsú-tachi-ni iimáshita.
     tags:
       - jgr1-3-4
@@ -11516,6 +11797,9 @@ clips:
     start: 01:44.159
     end: 01:47.446
     fields:
+      transcription: |-
+        明日は
+        1月1日です
       pronunciation: Ashitá-wa, ichi-gatsú tsuitachí-desu.
     tags:
       - jgr1-3-4
@@ -11523,6 +11807,7 @@ clips:
     start: 01:48.853
     end: 01:51.174
     fields:
+      transcription: 新しい年が始まります
       pronunciation: Atarashíi toshí-ga hajimarimásu.
       notes: hajimarimásu = hajimaru
     tags:
@@ -11531,6 +11816,7 @@ clips:
     start: 01:53.341
     end: 01:57.412
     fields:
+      transcription: 明日の朝 私の家へ皆来なさい
       pronunciation: Ashita-nó ása, watashi-no ié-e minna ki-nasái.
       notes: ki-nasái = kítte kudasái, with a parental tone
     tags:
@@ -11539,6 +11825,7 @@ clips:
     start: 01:58.827
     end: 01:59.905
     fields:
+      transcription: 早く来なさい
       pronunciation: Háyaku ki-nasái.
     tags:
       - jgr1-3-4
@@ -11546,6 +11833,9 @@ clips:
     start: 02:02.318
     end: 02:06.833
     fields:
+      transcription: |-
+        一番の動物に
+        新しい年を あげます
       pronunciation: Ichí-ban-no doubutsu-ni, atarashíi toshí-o agemásu.
       notes: agemásu = ageru
     tags:
@@ -11554,6 +11844,7 @@ clips:
     start: 02:08.865
     end: 02:12.801
     fields:
+      transcription: 2番の動物に 次の年をあげます
       pronunciation: Ní-ban-no doubutsu-ni, tsugí-no toshí-o agemásu.
     tags:
       - jgr1-3-4
@@ -11561,6 +11852,9 @@ clips:
     start: 02:14.623
     end: 02:19.149
     fields:
+      transcription: |-
+        3番の動物に
+        その次の年をあげます
       pronunciation: San-ban-no doubutsu-ni, sono tsugí-no toshí-o age
     tags:
       - jgr1-3-4
@@ -11568,6 +11862,7 @@ clips:
     start: 02:21.442
     end: 02:25.228
     fields:
+      transcription: 12番の動物まで年をあげます
       pronunciation: Juu-ní-ban-no doubutsu-máde, toshí-o agemásu.
     tags:
       - jgr1-3-4
@@ -11575,6 +11870,7 @@ clips:
     start: 02:28.393
     end: 02:32.736
     fields:
+      transcription: 動物たちは神様の話を聞きました
       pronunciation: Doubutsú-tachi-wa, kámi-sama-no hanashí-o kikimáshita.
     tags:
       - jgr1-3-4
@@ -11582,6 +11878,7 @@ clips:
     start: 02:34.034
     end: 02:35.985
     fields:
+      transcription: でも猫は
       pronunciation: Démo, néko-wa...
     tags:
       - jgr1-3-4
@@ -11589,6 +11886,7 @@ clips:
     start: 02:39.137
     end: 02:41.911
     fields:
+      transcription: 猫が起きました
       pronunciation: Kámi-sama-no hanashí-ga owarimáshita.
     tags:
       - jgr1-3-4
@@ -11596,6 +11894,7 @@ clips:
     start: 02:43.228
     end: 02:45.005
     fields:
+      transcription: 猫が起きました
       pronunciation: Néko-ga okimáshita.
       notes: |-
         okimáshita = ókita
@@ -11606,6 +11905,11 @@ clips:
     start: 02:46.416
     end: 02:55.371
     fields:
+      transcription: |-
+        猫は鼠に聞きました
+        ねずみさん
+        神様の話は
+        何でしたか
       pronunciation: Néko-wa, nezumi-ni kikimáshita. "Nezumi-san, kámi-sama-no hanashí-wa, nán-deshita ka?"
     tags:
       - jgr1-3-4
@@ -11613,6 +11917,10 @@ clips:
     start: 02:57.827
     end: 03:12.604
     fields:
+      transcription: |-
+        ねずみはこたえました年の話でした
+        12の動物が年をもらいます
+        十二そうです12です 1月2
       pronunciation: Nezumi-wa, kotaemáshita. "Toshi-nó hanashí-deshita. Juu-ní-no doubutsu-ga, toshí-o moraimásu." "Juu-ní?" "Sóu-desu. Juu-ní-desu."
       notes: |-
         kotaemáshita = kotáeta
@@ -11623,6 +11931,10 @@ clips:
     start: 03:13.643
     end: 03:24.865
     fields:
+      transcription: |-
+        十二そうです12です 1月2
+        土地に家 1月2日に
+        みんな神様の家へ行きます
       pronunciation: Ichi-gatsú tsuitachí-ni... A', iie. Ichi-gatsú futsu-ka-ni, minna, kámi-sama-no ié-e ikimásu.
     tags:
       - jgr1-3-4
@@ -11630,6 +11942,7 @@ clips:
     start: 03:25.901
     end: 03:31.449
     fields:
+      transcription: 1番から12までの動物が年をもらいます
       pronunciation: Ichí-ban-kara juu-ní-ban-made-no doubutsu-ga, toshí-o moraimásu.
     tags:
       - jgr1-3-4
@@ -11637,6 +11950,10 @@ clips:
     start: 03:32.631
     end: 03:38.34
     fields:
+      transcription: |-
+        そうですか
+        1月2日ですね
+        ありがとう
       pronunciation: Sóu-desu ka. Ichi-gatsú futsu-ka-désu ne. Arígatou.
     tags:
       - jgr1-3-4
@@ -11644,6 +11961,7 @@ clips:
     start: 03:41.404
     end: 03:45.159
     fields:
+      transcription: 12月31日の夜です
       pronunciation: Juu-ni-gatsú san-júu ichi-nichi-nó yóru-desu.
     tags:
       - jgr1-3-4
@@ -11651,6 +11969,9 @@ clips:
     start: 03:46.477
     end: 03:53.514
     fields:
+      transcription: |-
+        牛が言いました
+        僕はこれから家を出ます
       pronunciation: Ushi-ga, iimáshita. "Bóku-wa, kore-kara, ié-o demásu."
       notes: demásu = déru
     tags:
@@ -11659,6 +11980,7 @@ clips:
     start: 03:54.714
     end: 03:57.175
     fields:
+      transcription: ゆっくり歩きますから
       pronunciation: Yukkúri arukimásu-kara.
     tags:
       - jgr1-3-4
@@ -11666,6 +11988,9 @@ clips:
     start: 03:58.62
     end: 04:08.291
     fields:
+      transcription: |-
+        ねずみは屋根の上で牛の言葉を聞きました
+        そして牛に乗りました
       pronunciation: Nezumi-wa, yáne-no ué-de, ushi-no kotobá-o kikimáshita. Soshite, ushi-ni norimáshita.
       notes: |-
         kikimáshita = kiita
@@ -11676,6 +12001,9 @@ clips:
     start: 04:11.603
     end: 04:19.198
     fields:
+      transcription: |-
+        1月1日の朝です 神様の家の前に
+        牛がいます
       pronunciation: Ichi-gatsú tsuitachi-nó ása-desu. Kámi-sama-no ie-nó máe-ni, ushi-ga imásu.
     tags:
       - jgr1-3-4
@@ -11683,6 +12011,7 @@ clips:
     start: 04:21.562
     end: 04:23.145
     fields:
+      transcription: 門が開きました
       pronunciation: Món-ga akimáshita.
       notes: |-
         akimáshita = aita
@@ -11693,6 +12022,7 @@ clips:
     start: 04:25.367
     end: 04:28.294
     fields:
+      transcription: ねずみが 牛から降りました
       pronunciation: Nezumi-ga, ushi-kara orimáshita.
       notes: |-
         orimáshita = órita
@@ -11703,6 +12033,9 @@ clips:
     start: 04:29.398
     end: 04:32.768
     fields:
+      transcription: |-
+        そして
+        門の中に入りました
       pronunciation: Soshite, món-no náka-ni hairimáshita.
       notes: |-
         hairimáshita = háitta
@@ -11713,6 +12046,9 @@ clips:
     start: 04:34.545
     end: 04:44.513
     fields:
+      transcription: |-
+        ねずみが一番です 次が
+        牛です 3番は虎でした
       pronunciation: Nezumi-ga ichí-ban-desu. Tsugí-ga, ushi-désu. San-ban-wa, tora-déshita.
     tags:
       - jgr1-3-4
@@ -11720,6 +12056,17 @@ clips:
     start: 04:46.631
     end: 05:04.869
     fields:
+      transcription: |-
+        それから
+        兎
+        竜
+        蛇
+        馬
+        羊
+        猿
+        鳥
+        犬
+        猪が来ました
       pronunciation: Sore-kara, usagi, tatsu, hébi, umá, hitsuji, sáru, tori, inú, inoshíshi-ga kimáshita.
       notes: |-
         kimáshita = kíta
@@ -11730,6 +12077,9 @@ clips:
     start: 05:08.026
     end: 05:14.179
     fields:
+      transcription: |-
+        神様は言いました
+        あなた達に年をあげます
       pronunciation: Kámi-sama-wa iimáshita."Anáta-tachi-ni, toshí-o agemásu."
     tags:
       - jgr1-3-4
@@ -11737,6 +12087,7 @@ clips:
     start: 05:17.294
     end: 05:23.99
     fields:
+      transcription: 次の日 1月2日の朝早く 猫が来ました。
       pronunciation: Tsugí-no hi, ichi-gatsú futsu-ka-no ása háyaku, néko-ga kimáshita.
     tags:
       - jgr1-3-4
@@ -11744,6 +12095,10 @@ clips:
     start: 05:25.442
     end: 05:33.811
     fields:
+      transcription: |-
+        猫は神様に言いました
+        神様
+        私が一番ですね
       pronunciation: Néko-wa, kámi-sama-ni iimáshita. "Kámi-sama, watashi-ga ichí-ban-desu ne."
     tags:
       - jgr1-3-4
@@ -11751,6 +12106,10 @@ clips:
     start: 05:35.38
     end: 05:42.557
     fields:
+      transcription: |-
+        神様は言いました
+        いいえ
+        一番はねずみですよ
       pronunciation: Kámi-sama-wa iimáshita. "Iie, ichí-ban-wa nezumi-désu yo."
     tags:
       - jgr1-3-4
@@ -11758,6 +12117,9 @@ clips:
     start: 05:43.972
     end: 05:46.683
     fields:
+      transcription: |-
+        今年は
+        ねずみの年です
       pronunciation: Kotoshi-wa, nezumi-no toshí-desu.
     tags:
       - jgr1-3-4
@@ -11765,6 +12127,9 @@ clips:
     start: 05:47.942
     end: 05:54.239
     fields:
+      transcription: |-
+        猫は言いました
+        私は2番ですね
       pronunciation: Néko-wa iimáshita. "Ja, watashi-wa, ní-ban-desu ne."
     tags:
       - jgr1-3-4
@@ -11772,6 +12137,10 @@ clips:
     start: 05:55.779
     end: 06:03.319
     fields:
+      transcription: |-
+        いいえ
+        みんな昨日来ましたよ
+        あなたは来ませんでしたね
       pronunciation: Iie, minna, kinou kimáshita yo. Anáta-wa kimasén-deshita ne.
     tags:
       - jgr1-3-4
@@ -11779,6 +12148,11 @@ clips:
     start: 06:04.982
     end: 06:18.471
     fields:
+      transcription: |-
+        昨日ですか
+        猫はすぐにねずみの家行きました こら
+        ねずみ
+        わあーっ、猫だ‼︎
       pronunciation: "\"E? Kinou-désu-ka?\" Néko-wa, súgu-ni, nezumi-mo ié-e ikimáshita. \"Kora', nezumi!!\" \"Waa', néko-da!\""
     tags:
       - jgr1-3-4
@@ -11786,6 +12160,7 @@ clips:
     start: 06:21.626
     end: 06:25.669
     fields:
+      transcription: ですからねこの年はありません
       pronunciation: Désu-kara, néko-no toshí-wa, arimasén.
     tags:
       - jgr1-3-4
@@ -11793,24 +12168,41 @@ clips:
     start: 06:27.601
     end: 06:33.167
     fields:
+      transcription: そして今も猫はねずみが嫌いです
       pronunciation: Soshite, íma-mo, néko-wa, nezumi-ga kirai-désu.
     tags:
       - jgr1-3-4
+flashcardFieldsToSubtitlesTracks:
+  transcription: f14797b3-2950-43f7-9014-4ad5d074f14f
 ---
 name: JGR 1-3-5 shitakiri suzume.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 08:33.019
 id: 5b0a1bfa-59e9-4b77-af38-c6daf14f460e
+subtitles:
+  - id: 69d4f249-477a-46d4-917a-ddb5450a70fc
+    type: External
+    chunksMetadata:
+      count: 136
+      endCue: 25510.35
+    name: JGR 1-3-5 shitakiri suzume.srt
 clips:
   - id: bffe9cea-5fe5-4b6c-b966-0e9145f6315e
     start: 00:00.0
     end: 00:01.811
+    fields:
+      transcription: 舌切り雀
+      pronunciation: Shita-kiri-súzume
     tags:
+      &a1
       - jgr1-3-5
   - id: 70410584-ed42-414e-8161-9e788821202d
     start: 00:10.3
     end: 00:13.678
     fields:
+      transcription: |-
+        これは
+        日本の古い話です
       pronunciation: Kore-wa Nihon-nó furúi hanashí-desu.
     tags:
       - jgr1-3-5
@@ -11818,6 +12210,9 @@ clips:
     start: 00:16.362
     end: 00:21.429
     fields:
+      transcription: |-
+        あるところに
+        おじいさんとおばあさんがいました
       pronunciation: Áru tokoró-ni, o-jíi-san-to o-báa-san-ga imáshita.
     tags:
       - jgr1-3-5
@@ -11825,6 +12220,7 @@ clips:
     start: 00:24.098
     end: 00:27.857
     fields:
+      transcription: おじいさんは毎日 山へ行きます
       pronunciation: O-jíi-san-wa, máinichi, máinichi, yamá-e ikimásu.
     tags:
       - jgr1-3-5
@@ -11832,6 +12228,7 @@ clips:
     start: 00:29.977
     end: 00:33.004
     fields:
+      transcription: 山には雀がたくさんいます
       pronunciation: Yamá-ni-wa, suzume-ga takusan imásu.
     tags:
       - jgr1-3-5
@@ -11839,472 +12236,742 @@ clips:
     start: 00:35.859
     end: 00:40.261
     fields:
+      transcription: |-
+        一羽の雀が
+        おじいさんの近く 焼きました
       pronunciation: Ichí-wa-no suzume-ga, ojíi-san-no chíkaku-e kimáshita.
     tags:
       - jgr1-3-5
+  - id: 5358462c-6c06-4152-8734-5d36ac411342
+    start: 00:41.984
+    end: 00:45.056
+    fields:
+      transcription: チュン、チュン
+    tags: *a1
   - id: bfdf844a-2833-4910-ab0e-98387cf92945
     start: 00:45.701
     end: 00:51.495
+    fields:
+      transcription: |-
+        おじいさんは言いました
+        可愛い 雀だ
     tags:
       - jgr1-3-5
   - id: a68d8eeb-a377-4571-b05e-7a54cefd2986
     start: 00:53.61
     end: 00:57.308
+    fields:
+      transcription: おじいさんは 雀と家へ帰りました
     tags:
       - jgr1-3-5
   - id: 6f57385f-b801-4835-8a05-96561b5e5c6b
     start: 00:59.809
     end: 01:03.612
+    fields:
+      transcription: おじいさんは毎日 雀と遊びます
     tags:
       - jgr1-3-5
   - id: c0ae4f85-8c75-4b8e-a6eb-88c2e6425586
     start: 01:05.193
     end: 01:09.332
+    fields:
+      transcription: |-
+        でも
+        おばあさんは雀が嫌いでした
     tags:
       - jgr1-3-5
   - id: 6eb7219b-e80e-4abc-921b-0a656bebbe3f
     start: 01:12.186
     end: 01:15.539
+    fields:
+      transcription: |-
+        おじいさんは
+        今日も 山へ行きます
     tags:
       - jgr1-3-5
   - id: 447f205e-4bf2-4ffd-b2d7-d22dae6ce5f4
     start: 01:17.272
     end: 01:19.843
+    fields:
+      transcription: おばあさんは洗濯をします
     tags:
       - jgr1-3-5
   - id: 750a2820-e43c-4880-bb2e-cd8795682819
     start: 01:22.082
     end: 01:26.531
+    fields:
+      transcription: おばあさん はご飯 で洗濯のりを作りました
     tags:
       - jgr1-3-5
   - id: 72a85dc4-dacb-4b50-9cc5-654773c5a4bd
     start: 01:28.121
     end: 01:32.084
+    fields:
+      transcription: そして 洗濯のりを着物につけました
     tags:
       - jgr1-3-5
   - id: 5c80e864-78ff-49db-aca0-8c49f0e4a2b2
     start: 01:34.489
     end: 01:35.287
+    fields:
+      transcription: チュン、チュン
     tags:
       - jgr1-3-5
   - id: b8933291-55cf-4b87-a43d-815d15d22aee
     start: 01:36.48
     end: 01:39.14
+    fields:
+      transcription: 雀は家の近くで遊びます
     tags:
       - jgr1-3-5
   - id: 9f2dc711-776a-44b1-9066-ec2d92abb6bb
     start: 01:40.829
     end: 01:44.483
+    fields:
+      transcription: |-
+        雀は
+        おばあさんの洗濯のりを見ました
     tags:
       - jgr1-3-5
   - id: 4fd1456b-2d5c-409f-a471-b958fa0922e4
     start: 01:45.9
     end: 01:48.65
+    fields:
+      transcription: あ、いいものがありますね。
     tags:
       - jgr1-3-5
   - id: 0cf61267-305b-404f-9383-437a9223ed3b
     start: 01:49.891
     end: 01:53.693
+    fields:
+      transcription: 雀は洗濯のりを少し食べました
     tags:
       - jgr1-3-5
   - id: 151c5696-ae84-4144-960b-15f3ad409dfd
     start: 01:55.017
     end: 01:55.966
+    fields:
+      transcription: 美味しい
     tags:
       - jgr1-3-5
   - id: 6155e39e-2911-47a5-90f7-cf3442afffdf
     start: 01:57.492
     end: 02:01.426
+    fields:
+      transcription: |-
+        スズメは洗濯のりを
+        もっと食べました
     tags:
       - jgr1-3-5
   - id: fbf49242-f2e4-4ec7-9efc-a550b0a9c6e9
     start: 02:02.581
     end: 02:04.742
+    fields:
+      transcription: おいしい、おいっし
     tags:
       - jgr1-3-5
   - id: a5db389c-7422-4a8f-bb6c-c94f766aab65
     start: 02:07.098
     end: 02:09.794
+    fields:
+      transcription: |-
+        おばあさんが
+        後ろを見ました
     tags:
       - jgr1-3-5
   - id: 52ab904c-ac8f-4761-8a83-ebac01a021f2
     start: 02:11.317
     end: 02:12.42
+    fields:
+      transcription: 雀がいます
     tags:
       - jgr1-3-5
   - id: 2bfaf44f-f747-47ad-bb7d-1c023d7ab016
     start: 02:13.516
     end: 02:20.016
+    fields:
+      transcription: こらっ！私の洗濯のりを食べましたね 悪い 雀だ
     tags:
       - jgr1-3-5
   - id: 8c1ed587-adb3-46f3-b41a-aa6a15bab298
     start: 02:21.576
     end: 02:24.904
+    fields:
+      transcription: |-
+        おばあさんは
+        雀の舌を切りました
     tags:
       - jgr1-3-5
   - id: a0d25377-acb4-4b25-bb65-480af87bc3c1
     start: 02:25.927
     end: 02:27.739
+    fields:
+      transcription: 痛い痛い
     tags:
       - jgr1-3-5
   - id: dda78f55-5a2f-48aa-9e3e-7bb686a24075
     start: 02:29.237
     end: 02:32.052
+    fields:
+      transcription: |-
+        雀は
+        山へ帰りました
     tags:
       - jgr1-3-5
   - id: d85c700c-a976-43a3-b48c-726bd10f17bf
     start: 02:35.3
     end: 02:38.391
+    fields:
+      transcription: |-
+        おじいさんが
+        山から帰りました
     tags:
       - jgr1-3-5
   - id: 87a49fb6-d379-4121-99da-3b146c6848cb
     start: 02:39.948
     end: 02:41.141
+    fields:
+      transcription: 雀がいません
     tags:
       - jgr1-3-5
   - id: cc540ab2-5941-4e91-8b1c-177ca0013962
     start: 02:43.18
     end: 02:46.43
+    fields:
+      transcription: |-
+        おじいさんは
+        おばあさんに聞きました
     tags:
       - jgr1-3-5
   - id: ad14b51a-1962-4a8a-b963-5662116c8f5a
     start: 02:48.634
     end: 02:50.915
+    fields:
+      transcription: 雀はどこですか
     tags:
       - jgr1-3-5
   - id: 66b3459a-a942-4a0f-810c-b31f5f1de00f
     start: 02:53.121
     end: 02:54.984
+    fields:
+      transcription: "おばあさんは言いました "
     tags:
       - jgr1-3-5
   - id: f86955a0-8708-438b-a0f4-8f80ddef5004
     start: 02:56.248
     end: 03:03.204
+    fields:
+      transcription: |-
+        雀はもういませんよ。
+        あの雀は悪い雀です
     tags:
       - jgr1-3-5
   - id: a8e208df-4d9a-4b1f-8e36-6bfd9778599d
     start: 03:04.257
     end: 03:07.306
+    fields:
+      transcription: |-
+        私の洗濯のりを
+        食べました
     tags:
       - jgr1-3-5
   - id: 1e688f79-7d3e-46b6-bc3c-d686fd9d1dba
     start: 03:08.362
     end: 03:11.003
+    fields:
+      transcription: だから舌を切りました
     tags:
       - jgr1-3-5
   - id: 4e53d90c-59d0-4d67-a132-a8d9baa6b262
     start: 03:12.589
     end: 03:13.289
+    fields:
+      transcription: えっ‼︎
     tags:
       - jgr1-3-5
   - id: f602ec95-a1f6-4d2e-ad63-464158ff1bf4
     start: 03:15.54
     end: 03:18.765
+    fields:
+      transcription: |-
+        おじいさんは
+        大きい声を出しました
     tags:
       - jgr1-3-5
   - id: fa4991ea-3697-4c84-a9dc-1eea0854a8c8
     start: 03:21.457
     end: 03:24.095
+    fields:
+      transcription: |-
+        おじいさんは
+        山へ行きました
     tags:
       - jgr1-3-5
   - id: 3da68258-8ca3-437a-89df-1146848029bc
     start: 03:26.116
     end: 03:30.358
+    fields:
+      transcription: |-
+        雀さん 雀さん
+        どこにいますか
     tags:
       - jgr1-3-5
   - id: 24154c71-fd07-44af-adcd-e774e2088deb
     start: 03:32.215
     end: 03:33.365
+    fields:
+      transcription: 雀はいません
     tags:
       - jgr1-3-5
   - id: 5f4a3094-b581-4afc-81a2-b5a50ea78fff
     start: 03:34.729
     end: 03:37.197
+    fields:
+      transcription: おじいさんは また言いました
     tags:
       - jgr1-3-5
   - id: c9be1ae6-07b6-4e00-b24b-7bfaa6b77a3f
     start: 03:38.747
     end: 03:43.068
+    fields:
+      transcription: |-
+        雀さん 雀さん
+        どこにいますか
     tags:
       - jgr1-3-5
   - id: a2406453-e7be-42c8-bcec-9041461dadef
     start: 03:44.391
     end: 03:47.962
+    fields:
+      transcription: おじいさん ここですここです
     tags:
       - jgr1-3-5
   - id: 82f14346-43b0-4f72-99fa-7d676633060a
     start: 03:49.304
     end: 03:50.579
+    fields:
+      transcription: 雀が来ました
     tags:
       - jgr1-3-5
   - id: 9d91aea5-fb32-4453-b03a-d34e3acf1c34
     start: 03:51.738
     end: 03:52.842
+    fields:
+      transcription: あの雀です
     tags:
       - jgr1-3-5
   - id: 9ed0d82c-0d12-4a82-bdb9-4c6997a96692
     start: 03:54.628
     end: 03:56.457
+    fields:
+      transcription: |-
+        おじいさんは
+        言いました
     tags:
       - jgr1-3-5
   - id: 6fac77e6-88f4-41bf-b088-ec0d8f7f4c75
     start: 03:58.339
     end: 04:00.984
+    fields:
+      transcription: |-
+        雀さん
+        大丈夫ですか
     tags:
       - jgr1-3-5
   - id: 6155a5ca-7956-44a1-a3e6-119e615862c6
     start: 04:02.872
     end: 04:04.271
+    fields:
+      transcription: 雀は言いました
     tags:
       - jgr1-3-5
   - id: 72068a3b-8a44-4015-86b6-df75de0c111c
     start: 04:05.446
     end: 04:10.118
+    fields:
+      transcription: |-
+        はい もう大丈夫です
+        ありがとうございます おじいちゃん
     tags:
       - jgr1-3-5
   - id: 9216e422-f9bb-453f-afa5-12e62a732251
     start: 04:11.235
     end: 04:14.452
+    fields:
+      transcription: |-
+        ありがとうございます おじいちゃん
+        私の家 どうぞ
     tags:
       - jgr1-3-5
   - id: 0d21890f-6706-45c5-826f-5638be47fecd
     start: 04:16.342
     end: 04:19.54
+    fields:
+      transcription: おじいさんは 雀の家へ行きました
     tags:
       - jgr1-3-5
   - id: 8abe0ad6-61b5-41c1-9ffd-b6ee3bc0c912
     start: 04:22.739
     end: 04:25.269
+    fields:
+      transcription: お菓子もどうぞ
     tags:
       - jgr1-3-5
   - id: 5ddaec2d-4ee5-4771-9081-8af5d29d0d46
     start: 04:26.454
     end: 04:27.734
+    fields:
+      transcription: おじいちゃんお茶をどうぞ
     tags:
       - jgr1-3-5
   - id: 689454ed-13f8-4602-9b4c-444ed9323048
     start: 04:29.212
     end: 04:32.063
+    fields:
+      transcription: おじいさんはお茶を飲みました
     tags:
       - jgr1-3-5
   - id: fc30f71d-9a18-4656-9a92-0fa2bb7460d6
     start: 04:33.417
     end: 04:34.872
+    fields:
+      transcription: お菓子も食べました
     tags:
       - jgr1-3-5
   - id: aaad11ec-b398-4d76-bfe5-0d8a2f2f18e2
     start: 04:37.379
     end: 04:39.458
+    fields:
+      transcription: 美味しい
     tags:
       - jgr1-3-5
   - id: 218f372b-5e58-4c39-b953-5e25bf0788e7
     start: 04:41.899
     end: 04:45.016
+    fields:
+      transcription: 家の中には雀がたくさんいます
     tags:
       - jgr1-3-5
   - id: 06edb199-1a3a-4faa-b9c9-32c2f8791931
     start: 04:46.813
     end: 04:49.489
+    fields:
+      transcription: |-
+        雀たちは
+        歌を歌います
     tags:
       - jgr1-3-5
   - id: 0ff2efa6-323e-4697-a70b-edb6040d2725
     start: 04:50.744
     end: 04:52.193
+    fields:
+      transcription: 踊りを踊ります
     tags:
       - jgr1-3-5
   - id: 38bd0e86-086b-48b1-bfef-9b220cf94df4
     start: 04:55.057
     end: 04:56.942
+    fields:
+      transcription: おじいさんは言いました
     tags:
       - jgr1-3-5
   - id: dd26d1fa-9ea9-4563-9a37-e99e217c5a13
     start: 04:59.239
     end: 05:03.158
+    fields:
+      transcription: |-
+        あー楽しかった
+        ありがとう
     tags:
       - jgr1-3-5
   - id: 89b1e631-87f8-4296-a018-2a90f20bb3eb
     start: 05:04.648
     end: 05:06.146
+    fields:
+      transcription: もう夕方ですね 私は家へ帰ります
     tags:
       - jgr1-3-5
   - id: d845b41b-d470-4caf-be05-886fff3e6098
     start: 05:07.384
     end: 05:09.642
+    fields:
+      transcription: もう夕方ですね 私は家へ帰ります
     tags:
       - jgr1-3-5
   - id: 77f51b11-c879-4e58-9551-730af64a6b1d
     start: 05:12.234
     end: 05:14.797
+    fields:
+      transcription: 雀がおじいさんの前へ来ました
     tags:
       - jgr1-3-5
   - id: 87cfa304-3db1-409c-8cdf-d97b8a057ea4
     start: 05:16.36
     end: 05:17.432
+    fields:
+      transcription: あの雀です
     tags:
       - jgr1-3-5
   - id: 40d9b3cf-cfa4-4471-8e9c-5e91ae5b489d
     start: 05:19.174
     end: 05:20.667
+    fields:
+      transcription: 雀は言いました
     tags:
       - jgr1-3-5
   - id: 5fa899db-338a-4bf2-b65d-1ce58f731c83
     start: 05:23.164
     end: 05:25.786
+    fields:
+      transcription: おじいさん これをどうぞ
     tags:
       - jgr1-3-5
   - id: d4e8db87-e12d-4e18-8682-a6d45aac5ca9
     start: 05:26.821
     end: 05:29.807
+    fields:
+      transcription: ここに箱が二つあります
     tags:
       - jgr1-3-5
   - id: 207d1d6d-5c8d-4cd7-9442-bae03a21de64
     start: 05:30.918
     end: 05:35.948
+    fields:
+      transcription: |-
+        大きい箱がいいですか
+        小さい箱がいいですか
     tags:
       - jgr1-3-5
   - id: 68a139a2-9501-4078-96ba-357addcacec7
     start: 05:37.224
     end: 05:42.475
+    fields:
+      transcription: |-
+        小さい箱がいいです
+        大きい箱は重いですから
     tags:
       - jgr1-3-5
   - id: 7322349e-74bf-4608-b430-c029548e38f7
     start: 05:44.375
     end: 05:47.789
+    fields:
+      transcription: |-
+        おじいさんは
+        小さい箱をもらいました
     tags:
       - jgr1-3-5
   - id: 47d6860a-3eb0-425c-ade6-6773d6acf8b0
     start: 05:50.466
     end: 05:53.163
+    fields:
+      transcription: |-
+        おじいさんは
+        家へ 帰りました
     tags:
       - jgr1-3-5
   - id: bca46437-7a17-404d-a806-5619b2197562
     start: 05:54.531
     end: 05:57.047
+    fields:
+      transcription: |-
+        そして
+        箱を開けました
     tags:
       - jgr1-3-5
   - id: a2a718e6-db2c-40fe-a347-cf8872aa6991
     start: 05:59.424
     end: 06:04.283
+    fields:
+      transcription: 中には お金や綺麗な着物がたくさんありました
     tags:
       - jgr1-3-5
   - id: ed311bef-0672-43c4-bd0b-eaa211692a36
     start: 06:06.351
     end: 06:08.799
+    fields:
+      transcription: おばあさんはそれを見ました
     tags:
       - jgr1-3-5
   - id: 3642506b-fc1f-4351-8524-a73779e027ac
     start: 06:10.451
     end: 06:14.354
+    fields:
+      transcription: おじいさん どこで これを
     tags:
       - jgr1-3-5
   - id: dce7481a-c472-43b3-9372-81645754a0d3
     start: 06:15.575
     end: 06:18.853
+    fields:
+      transcription: |-
+        おじいさんは
+        雀の話をしました
     tags:
       - jgr1-3-5
   - id: 0924cba8-3128-4a33-ad5c-511bde8b4839
     start: 06:20.145
     end: 06:24.394
+    fields:
+      transcription: 私も雀の家行きます
     tags:
       - jgr1-3-5
   - id: 4d7954ae-caa6-42e3-9b54-f3546ab0f8cd
     start: 06:26.744
     end: 06:36.218
+    fields:
+      transcription: |-
+        おばあさんは
+        山へ行きました
+        雀さん
+        雀さんどこにいますか
     tags:
       - jgr1-3-5
   - id: 76afa86b-8300-4c0d-bf83-fd4ad6d50560
     start: 06:37.87
     end: 06:39.308
+    fields:
+      transcription: 雀はいません
     tags:
       - jgr1-3-5
   - id: d13d406c-5509-4e05-a8d1-34a7d0feb11d
     start: 06:41.283
     end: 06:49.892
+    fields:
+      transcription: |-
+        おばあさんがまた言いました
+        雀さん 雀さんどこにいますか
     tags:
       - jgr1-3-5
   - id: 06ae9d12-3894-4498-9deb-a262f113cc91
     start: 06:52.103
     end: 06:55.187
+    fields:
+      transcription: おばさん ここですここです
     tags:
       - jgr1-3-5
   - id: 107e3aa3-e504-4693-80b5-e81c5b741cf9
     start: 06:56.478
     end: 06:57.743
+    fields:
+      transcription: 雀が来ました
     tags:
       - jgr1-3-5
   - id: ba76ba72-7873-43b7-a7de-1096a2a65534
     start: 06:58.961
     end: 07:00.12
+    fields:
+      transcription: あの雀です
     tags:
       - jgr1-3-5
   - id: 133cf74a-1a4b-40eb-b2ba-c7e91650f7ce
     start: 07:02.07
     end: 07:05.144
+    fields:
+      transcription: 雀はおばあさんに言いました
     tags:
       - jgr1-3-5
   - id: 6c8b0c10-e719-4787-8293-2210bb48c0e4
     start: 07:06.678
     end: 07:09.745
+    fields:
+      transcription: |-
+        おばあさん
+        私の家へどうぞ
     tags:
       - jgr1-3-5
   - id: e06d0840-5507-465a-84b0-8923b58830fe
     start: 07:12.269
     end: 07:15.583
+    fields:
+      transcription: |-
+        おばあさんは
+        雀の家へ行きました
     tags:
       - jgr1-3-5
   - id: fa423913-94ee-43a4-9c6f-33a25d2b41c8
     start: 07:16.829
     end: 07:21.106
+    fields:
+      transcription: おばあさん お茶どうぞ お菓子もどうぞ
     tags:
       - jgr1-3-5
   - id: 34f2541f-5fac-444d-be3c-a47ccb58bc32
     start: 07:22.964
     end: 07:27.591
+    fields:
+      transcription: |-
+        私はお茶も お菓子も
+        欲しくないです
     tags:
       - jgr1-3-5
   - id: fd50412d-588f-4552-8302-dbe7aa12c20a
     start: 07:28.655
     end: 07:32.889
+    fields:
+      transcription: 箱が欲しいです 早く箱をください
     tags:
       - jgr1-3-5
   - id: 1d624b17-0ae7-4d62-a3a1-4d3c9f888f18
     start: 07:34.711
     end: 07:43.131
+    fields:
+      transcription: |-
+        わかりました
+        おばあさん 大きい箱がいいですか
+        小さい箱がいいですか
     tags:
       - jgr1-3-5
   - id: 83549e39-9810-4d32-891c-77149613a66b
     start: 07:45.079
     end: 07:49.904
+    fields:
+      transcription: 大きい箱がいいです 大きい箱を ください
     tags:
       - jgr1-3-5
   - id: 43039b69-0130-4d72-ae54-20cba0395d79
     start: 07:51.234
     end: 07:54.921
+    fields:
+      transcription: おばあさんは大きい箱をもらいました
     tags:
       - jgr1-3-5
   - id: 6bb462e7-1f87-4120-a1c8-d92911e5371c
     start: 07:58.149
     end: 08:00.976
+    fields:
+      transcription: うーん、重い！
     tags:
       - jgr1-3-5
   - id: d4dd8f54-420a-489a-9751-27027103e20a
     start: 08:02.053
     end: 08:12.283
+    fields:
+      transcription: |-
+        大きい箱はとても
+        重い、重い。もう、だめだ！
     tags:
       - jgr1-3-5
   - id: e8632035-00f1-40d0-8572-4369342ad08b
     start: 08:15.077
     end: 08:19.271
+    fields:
+      transcription: おばあさんは山の中で箱を開けました
     tags:
       - jgr1-3-5
   - id: 0c05c5ba-9005-48d5-93c6-f2b8183854ba
     start: 08:20.681
     end: 08:22.498
+    fields:
+      transcription: わああー
     tags:
       - jgr1-3-5
   - id: 51814d28-9bf7-4ed6-bdff-da9fa46f805b
     start: 08:25.673
     end: 08:29.943
+    fields:
+      transcription: |-
+        箱の中には
+        お化けがたくさんいました
     tags:
       - jgr1-3-5
   - id: 9b2bb99c-27a8-4cd0-aa70-2314508bdb82
@@ -12312,11 +12979,1069 @@ clips:
     end: 08:33.019
     tags:
       - jgr1-3-5
+flashcardFieldsToSubtitlesTracks:
+  transcription: 69d4f249-477a-46d4-917a-ddb5450a70fc
 ---
 name: JGR 1-3-6 jon san no natsuyasumi.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 08:58.436
 id: 0937d045-0011-4b9b-9bc6-23ee437cb336
+subtitles:
+  - id: 8891c965-949b-4c79-abcc-9f1dc222001e
+    type: External
+    chunksMetadata:
+      count: 177
+      endCue: 26751.95
+    name: JGR 1-3-6 jon san no natsuyasumi.srt
+clips:
+  - id: d861303c-0bc2-4a72-848e-56b420288b51
+    start: 00:10.752
+    end: 00:13.824
+    fields:
+      transcription: ジョンさんの学校は今
+    tags:
+      &a1
+      - jgr1-3-6
+  - id: e84e4f4d-e9ed-4ddf-9213-e36f6b7bfdcb
+    start: 00:14.08
+    end: 00:15.616
+    fields:
+      transcription: 夏休みです
+    tags: *a1
+  - id: 61363c02-f807-4608-9c81-b6790914c105
+    start: 00:16.896
+    end: 00:18.176
+    fields:
+      transcription: 夏休みは
+    tags: *a1
+  - id: 922087cc-2a12-40f8-bac6-1cc13e87f7d6
+    start: 00:18.432
+    end: 00:23.296
+    fields:
+      transcription: 8月1日から31日までです
+    tags: *a1
+  - id: 7b4ac60e-5256-43fa-ba3b-49fc6a8cbb18
+    start: 00:26.112
+    end: 00:28.928
+    fields:
+      transcription: 今日は8月5日です
+    tags: *a1
+  - id: cac368a8-f994-4701-ba80-dbc8d36d36f1
+    start: 00:29.952
+    end: 00:34.304
+    fields:
+      transcription: ジョンさんはこれから仙台へ行きます
+    tags: *a1
+  - id: 0e81a4bb-1528-4bd1-b910-ff88968f8bf0
+    start: 00:35.328
+    end: 00:40.704
+    fields:
+      transcription: 森さんの家に 8日までホームステイをします
+    tags: *a1
+  - id: f4971d9d-d28f-4ee3-bb93-bd0d979ea3fe
+    start: 00:41.984
+    end: 00:43.264
+    fields:
+      transcription: 東京から
+    tags: *a1
+  - id: ab9531c7-64e2-4bbf-a03f-14fec2a8ea20
+    start: 00:43.52
+    end: 00:46.592
+    fields:
+      transcription: 新幹線で仙台へ行きます
+    tags: *a1
+  - id: 8233aaef-2326-4ed5-9f20-432c2fa058c9
+    start: 00:49.408
+    end: 00:52.224
+    fields:
+      transcription: ここは 仙台駅です
+    tags: *a1
+  - id: 2ffe4681-6a9e-47d4-9c4e-db8ef4848b8f
+    start: 00:53.248
+    end: 00:54.784
+    fields:
+      transcription: 仙台駅で
+    tags: *a1
+  - id: af875e67-3b8d-4036-91cd-dde8b17c767b
+    start: 00:55.04
+    end: 00:56.832
+    fields:
+      transcription: 森さんに会います
+    tags: *a1
+  - id: 21cdb668-ac2c-448d-8de3-1bd9de1148e5
+    start: 00:58.112
+    end: 00:59.028
+    fields:
+      transcription: えーと
+    tags: *a1
+  - id: 9d8ba1ae-7250-44dd-8942-9bd482b358c1
+    start: 00:59.648
+    end: 01:01.184
+    fields:
+      transcription: 森さんは
+    tags: *a1
+  - id: 5a0f27a5-9f92-4dc7-9b87-785dad615702
+    start: 01:02.976
+    end: 01:04.256
+    fields:
+      transcription: 青いシャツの
+    tags: *a1
+  - id: ca15d8a0-fd5d-4558-bc99-c0391d8418bd
+    start: 01:04.768
+    end: 01:06.304
+    fields:
+      transcription: 背が高い人
+    tags: *a1
+  - id: bb508660-9633-4309-82ee-425a69b0aa7d
+    start: 01:08.864
+    end: 01:09.888
+    fields:
+      transcription: あの人
+    tags: *a1
+  - id: 11f13e69-d1cd-4200-aa30-39f2a4d00ca1
+    start: 01:11.168
+    end: 01:12.704
+    fields:
+      transcription: 改札の前に
+    tags: *a1
+  - id: 3f5d7693-bb26-417d-b8ba-248b07376c21
+    start: 01:13.216
+    end: 01:14.496
+    fields:
+      transcription: 青いシャツの
+    tags: *a1
+  - id: ad942f79-b4af-4749-bc2a-e1cc9767306c
+    start: 01:14.752
+    end: 01:17.824
+    fields:
+      transcription: 背が高い女の人がいます
+    tags: *a1
+  - id: 99e3ee5d-0a31-42a1-845d-58621c56d767
+    start: 01:18.592
+    end: 01:19.616
+    fields:
+      transcription: うわー
+    tags: *a1
+  - id: d3b2a824-8f71-4e64-bce9-c8e0520fbb10
+    start: 01:20.128
+    end: 01:21.152
+    fields:
+      transcription: 綺麗な人
+    tags: *a1
+  - id: c0403fe6-100c-4cab-bd2b-7d3c554edc49
+    start: 01:23.456
+    end: 01:26.784
+    fields:
+      transcription: ジョンさんはその人に言いました
+    tags: *a1
+  - id: c8dd26e5-2aaa-44f3-b03c-9f019099e462
+    start: 01:28.064
+    end: 01:29.344
+    fields:
+      transcription: 初めまして
+    tags: *a1
+  - id: 5ad47fbf-2989-4757-94f6-2cb33968910f
+    start: 01:30.112
+    end: 01:30.88
+    fields:
+      transcription: ジョンです
+    tags: *a1
+  - id: 38dede73-278c-4903-9028-e8c30d49d37f
+    start: 01:32.16
+    end: 01:33.696
+    fields:
+      transcription: どうぞよろしく
+    tags: *a1
+  - id: 8c1dce46-15a0-4ef2-83a2-9e522901a586
+    start: 01:34.72
+    end: 01:35.488
+    fields:
+      transcription: でも
+    tags: *a1
+  - id: 16a4d5f5-2130-433f-863e-c82eeef56838
+    start: 01:35.744
+    end: 01:38.816
+    fields:
+      transcription: 女の人は何も言いません
+    tags: *a1
+  - id: 4b66bde7-b713-4d84-81f5-46c394b159f0
+    start: 01:43.424
+    end: 01:44.448
+    fields:
+      transcription: すみません
+    tags: *a1
+  - id: e88f6296-c1d2-47d2-b6d0-238f37afee9a
+    start: 01:46.752
+    end: 01:49.056
+    fields:
+      transcription: 男の人が来ました
+    tags: *a1
+  - id: c2ae1f3a-1f72-47b2-a9d0-03ea98ddab8c
+    start: 01:49.824
+    end: 01:51.872
+    fields:
+      transcription: そして言いました
+    tags: *a1
+  - id: b58a1284-ea03-44df-9923-f914da81b4df
+    start: 01:53.152
+    end: 01:54.176
+    fields:
+      transcription: あのー
+    tags: *a1
+  - id: ba21b1c3-1bf0-4d2b-8d9f-c65486114e18
+    start: 01:54.688
+    end: 01:56.224
+    fields:
+      transcription: ジョンさんですか
+    tags: *a1
+  - id: 65d098b5-f964-4e60-a99f-e5749c8cd518
+    start: 02:00.064
+    end: 02:00.576
+    fields:
+      transcription: はい
+    tags: *a1
+  - id: a6b23084-f610-40a1-b995-85747cb1fc1c
+    start: 02:01.344
+    end: 02:02.112
+    fields:
+      transcription: ジョンです
+    tags: *a1
+  - id: 44de614e-6c1e-4b55-ad87-0cd18214f973
+    start: 02:03.136
+    end: 02:06.464
+    fields:
+      transcription: ジョンさんは男の人を見ました
+    tags: *a1
+  - id: f33088d7-997f-4bad-9ff8-a60117da7edd
+    start: 02:07.488
+    end: 02:08.768
+    fields:
+      transcription: 青いシャツの
+    tags: *a1
+  - id: 15ca69b0-25fb-4b9b-a6c4-858b2b45348a
+    start: 02:09.024
+    end: 02:11.84
+    fields:
+      transcription: 背が高い男の人です
+    tags: *a1
+  - id: ad2f5d93-9ece-4e59-8e9a-49ab2e5f4ddf
+    start: 02:13.632
+    end: 02:15.936
+    fields:
+      transcription: ジョンさんは言いました
+    tags: *a1
+  - id: f1ee8cf7-56e6-44ab-a9e8-4a5a5b5fbd5f
+    start: 02:17.216
+    end: 02:18.752
+    fields:
+      transcription: 森さんですか
+    tags: *a1
+  - id: 2c36f840-c141-46f5-b435-185e8b6342cf
+    start: 02:20.288
+    end: 02:21.312
+    fields:
+      transcription: 初めまして
+    tags: *a1
+  - id: e6bce264-8165-46b7-b3b6-671263081b74
+    start: 02:22.592
+    end: 02:24.64
+    fields:
+      transcription: どうぞよろしくお願いします
+    tags: *a1
+  - id: f10b5946-ae93-4130-8df6-1657a3eac067
+    start: 02:25.664
+    end: 02:27.712
+    fields:
+      transcription: 森さんが言いました
+    tags: *a1
+  - id: c181df68-2154-46ac-9d1a-5cb3521d1c87
+    start: 02:28.48
+    end: 02:29.76
+    fields:
+      transcription: こちらこそ
+    tags: *a1
+  - id: 37e7dba4-4906-4540-ac38-5b5a7e78a38b
+    start: 02:30.016
+    end: 02:31.296
+    fields:
+      transcription: どうぞよろしく
+    tags: *a1
+  - id: caec1f4d-2696-4e15-b44c-6f571709d246
+    start: 02:33.6
+    end: 02:36.416
+    fields:
+      transcription: 二人は 森さんの車で
+    tags: *a1
+  - id: cc8b515b-4c9b-45cf-9b24-236fd7ba1639
+    start: 02:36.672
+    end: 02:38.976
+    fields:
+      transcription: 森さんの家へ行きます
+    tags: *a1
+  - id: 313678b0-768a-4671-8469-486d1f48aa0f
+    start: 02:39.488
+    end: 02:42.56
+    fields:
+      transcription: ジョンさんは今日から
+    tags: *a1
+  - id: 1fe55e46-992d-419e-a9b9-e5c273aa84fe
+    start: 02:42.816
+    end: 02:44.352
+    fields:
+      transcription: 森さんの家に
+    tags: *a1
+  - id: 990a8242-9419-4fb8-a088-fa5f6b789d95
+    start: 02:44.608
+    end: 02:46.4
+    fields:
+      transcription: ホームステイをします
+    tags: *a1
+  - id: 88f2a863-af18-4fe9-9cd4-387b90ecd1b7
+    start: 02:49.216
+    end: 02:50.24
+    fields:
+      transcription: 夜です
+    tags: *a1
+  - id: 53db51ad-1562-4715-a32c-bd9fab91eb22
+    start: 02:51.264
+    end: 02:52.288
+    fields:
+      transcription: これから
+    tags: *a1
+  - id: 84d62248-aca4-4d0f-8bf1-80836f162c6c
+    start: 02:52.544
+    end: 02:55.104
+    fields:
+      transcription: みんなで晩御飯を食べます
+    tags: *a1
+  - id: 01650d67-baa3-42c9-9284-de5904fc14cd
+    start: 02:56.128
+    end: 02:59.456
+    fields:
+      transcription: 森さんの家族は4人です
+    tags: *a1
+  - id: 71c68700-08f9-4d92-b524-552e3b719700
+    start: 03:00.224
+    end: 03:01.248
+    fields:
+      transcription: 森さん
+    tags: *a1
+  - id: 3c81858a-cb68-4f6b-b81e-d9b2c29bf65a
+    start: 03:02.016
+    end: 03:04.064
+    fields:
+      transcription: 奥さんの京子さん
+    tags: *a1
+  - id: bfe2741f-467c-4ea9-bec4-77cb3f831fe5
+    start: 03:05.088
+    end: 03:06.88
+    fields:
+      transcription: 子供の広君
+    tags: *a1
+  - id: 3f1aa6a3-bf5c-4904-bd93-b03abdc14606
+    start: 03:07.136
+    end: 03:08.672
+    fields:
+      transcription: 7歳
+    tags: *a1
+  - id: c811d222-576d-4728-949a-256cdd52d5f7
+    start: 03:08.928
+    end: 03:09.952
+    fields:
+      transcription: そして
+    tags: *a1
+  - id: 22f4278a-e4b3-4c0e-87ad-2546fe487c9b
+    start: 03:10.208
+    end: 03:12.512
+    fields:
+      transcription: おばあちゃんの雅子さん
+    tags: *a1
+  - id: a2180477-c96e-42e6-9843-0262323e8c8a
+    start: 03:15.072
+    end: 03:16.096
+    fields:
+      transcription: みんなで
+    tags: *a1
+  - id: aeae668a-3cac-422d-a543-582cb42c42e1
+    start: 03:16.352
+    end: 03:18.4
+    fields:
+      transcription: 色々な話をしました
+    tags: *a1
+  - id: fb9250f2-8dbd-4fb3-a3f8-48e6ac3926fc
+    start: 03:19.936
+    end: 03:24.544
+    fields:
+      transcription: そして美味しい料理をたくさん食べました
+    tags: *a1
+  - id: 59d87100-038e-4059-b6d5-b07f2ee641d1
+    start: 03:26.848
+    end: 03:28.896
+    fields:
+      transcription: とても美味しかったです
+    tags: *a1
+  - id: 6efe96fe-6bad-4260-b28f-46de25d75037
+    start: 03:29.664
+    end: 03:31.456
+    fields:
+      transcription: ごちそうさまでした
+    tags: *a1
+  - id: d72a3316-7f6d-4918-9e06-60ae40d7687c
+    start: 03:32.224
+    end: 03:34.272
+    fields:
+      transcription: お父さん 今日は
+    tags: *a1
+  - id: 62869662-9c56-4cb0-a34f-bee2c5302ebc
+    start: 03:34.528
+    end: 03:36.064
+    fields:
+      transcription: 花火の日だよ
+    tags: *a1
+  - id: b82d3dd7-7883-4bdf-8c10-b28905de3730
+    start: 03:37.6
+    end: 03:38.368
+    fields:
+      transcription: そうだね
+    tags: *a1
+  - id: e3a80a5c-59f9-4a14-a8b5-7f650f08f7a1
+    start: 03:38.624
+    end: 03:41.184
+    fields:
+      transcription: じゃあ みんなで行きましょう
+    tags: *a1
+  - id: 03fbc570-d962-4cfe-86a4-6041adfc32a0
+    start: 03:42.464
+    end: 03:43.488
+    fields:
+      transcription: 花火ですか
+    tags: *a1
+  - id: ebcbaa9d-c991-410b-8816-8132cf5bef5b
+    start: 03:43.744
+    end: 03:45.536
+    fields:
+      transcription: いいですね
+    tags: *a1
+  - id: cc4d8541-b4e7-42c1-b58e-07a5efd5ad61
+    start: 03:45.792
+    end: 03:46.816
+    fields:
+      transcription: ジョンさん
+    tags: *a1
+  - id: 504ac3ea-5209-40f1-904b-c1a33f184879
+    start: 03:47.072
+    end: 03:48.864
+    fields:
+      transcription: 早く早く
+    tags: *a1
+  - id: c7716eea-79ba-405c-a04a-3d9aaee6e59b
+    start: 03:49.12
+    end: 03:49.888
+    fields:
+      transcription: はい
+    tags: *a1
+  - id: 7d6e3c09-81a5-4f0d-9178-4472b1f4121d
+    start: 03:50.912
+    end: 03:51.424
+    fields:
+      transcription: あれ
+    tags: *a1
+  - id: 54d4e6d8-a764-4d01-b159-804376d1da0c
+    start: 03:51.936
+    end: 03:52.96
+    fields:
+      transcription: 足が
+    tags: *a1
+  - id: bcaa0ee0-fe47-4461-bd52-e77680c3f44e
+    start: 03:53.984
+    end: 03:56.032
+    fields:
+      transcription: わ、足が
+    tags: *a1
+  - id: 93b70899-6040-4e4b-b556-f9fb2f67cf5a
+    start: 03:56.544
+    end: 03:58.592
+    fields:
+      transcription: ジョンさん 大丈夫
+    tags: *a1
+  - id: b431dd8a-791c-434a-b618-e60ef153fbcf
+    start: 03:59.104
+    end: 04:01.152
+    fields:
+      transcription: 大丈夫じゃありません
+    tags: *a1
+  - id: e3a1d32e-9c14-445c-a456-48e1c1c47228
+    start: 04:03.712
+    end: 04:05.76
+    fields:
+      transcription: みんなで花火を見ます
+    tags: *a1
+  - id: a59ce0ac-ef57-4f3b-a800-a9eb0532a240
+    start: 04:09.856
+    end: 04:12.16
+    fields:
+      transcription: わーきれい
+    tags: *a1
+  - id: e275bd22-0cbf-444b-bca7-2897d815cea9
+    start: 04:12.672
+    end: 04:15.232
+    fields:
+      transcription: うわー 大きい
+    tags: *a1
+  - id: 4d79f220-c997-4758-8fb3-cf491b5a356b
+    start: 04:17.28
+    end: 04:20.351
+    fields:
+      transcription: 今日は8月7日です
+    tags: *a1
+  - id: 1ff4aa4f-0ba2-4919-b5b3-e9af1f1d6e47
+    start: 04:21.119
+    end: 04:22.655
+    fields:
+      transcription: 七夕の日です
+    tags: *a1
+  - id: 71f86db5-1684-4284-a948-8d60496a4cf5
+    start: 04:23.935
+    end: 04:25.471
+    fields:
+      transcription: 七夕の日は
+    tags: *a1
+  - id: 4413df22-a518-401f-8b3a-c67dd327f0e2
+    start: 04:25.727
+    end: 04:31.871
+    fields:
+      transcription: 東京では7月7日ですが仙台では8月
+    tags: *a1
+  - id: 6f585531-ae4c-44fc-ad34-c4b50a3987db
+    start: 04:32.127
+    end: 04:32.639
+    fields:
+      transcription: 7日です
+    tags: *a1
+  - id: 21a4d6f1-8fca-4b3c-bd8b-cdcb3f0e7848
+    start: 04:34.431
+    end: 04:37.247
+    fields:
+      transcription: 仙台の七夕祭りは
+    tags: *a1
+  - id: d6fc6aaa-2812-45c4-ba15-ef8f6b55d9e4
+    start: 04:37.503
+    end: 04:40.319
+    fields:
+      transcription: とても有名です
+    tags: *a1
+  - id: 932b2874-4ee0-4154-8a50-add878c809ca
+    start: 04:40.575
+    end: 04:42.367
+    fields:
+      transcription: 七夕の話は
+    tags: *a1
+  - id: 0d8a99ff-d0f7-4bf0-a31b-54e12ecdeaf4
+    start: 04:42.623
+    end: 04:44.671
+    fields:
+      transcription: 中国から来ました
+    tags: *a1
+  - id: d58e1792-d8b0-4954-bafa-0fd1fbdb8358
+    start: 04:45.951
+    end: 04:47.231
+    fields:
+      transcription: 女の星
+    tags: *a1
+  - id: 87e142e6-0008-45d5-a410-ce8dd7a4e02a
+    start: 04:47.487
+    end: 04:49.023
+    fields:
+      transcription: 織姫と
+    tags: *a1
+  - id: 37bb2d81-6207-4c30-a743-5cf753f33440
+    start: 04:49.279
+    end: 04:52.351
+    fields:
+      transcription: 男の星 彦星が
+    tags: *a1
+  - id: 4b32e5c2-9c63-4f1b-b331-237ae1bc3eff
+    start: 04:52.863
+    end: 04:54.655
+    fields:
+      transcription: 一年に一回
+    tags: *a1
+  - id: 1e4e6c0a-35ee-467e-a73e-e378c85a76f9
+    start: 04:54.911
+    end: 04:56.959
+    fields:
+      transcription: 天の川で会います
+    tags: *a1
+  - id: 64a5f855-fa1d-4885-b102-1971c8d75433
+    start: 04:58.495
+    end: 04:59.519
+    fields:
+      transcription: その日が
+    tags: *a1
+  - id: 9edae563-d6d0-4272-b874-8069822bbdec
+    start: 04:59.775
+    end: 05:01.311
+    fields:
+      transcription: 七夕の日です
+    tags: *a1
+  - id: a16bde2f-5964-494a-b633-142ad4891a87
+    start: 05:03.103
+    end: 05:08.223
+    fields:
+      transcription: 七夕に日本では家に笹を置きます
+    tags: *a1
+  - id: f8cf2b45-99c9-4677-9e25-dbe3c54f84e8
+    start: 05:08.991
+    end: 05:11.807
+    fields:
+      transcription: そして 短冊に
+    tags: *a1
+  - id: be1a9442-9e50-4173-8f97-19dbd7162579
+    start: 05:12.063
+    end: 05:13.855
+    fields:
+      transcription: お願いを書きます
+    tags: *a1
+  - id: 4838d6a1-c175-4cba-8edd-fb5995be59cf
+    start: 05:14.879
+    end: 05:16.159
+    fields:
+      transcription: ジョンさんも
+    tags: *a1
+  - id: 1397e6f3-c27f-4f79-a38f-3cf242c87e8b
+    start: 05:16.415
+    end: 05:17.183
+    fields:
+      transcription: 昨日
+    tags: *a1
+  - id: ac8d8fb1-8fda-4cdd-b446-239eb3559c96
+    start: 05:17.439
+    end: 05:18.463
+    fields:
+      transcription: 短冊に
+    tags: *a1
+  - id: 3146ecc9-c38a-46e1-984e-d396116c4088
+    start: 05:18.719
+    end: 05:20.767
+    fields:
+      transcription: お願いを書きました
+    tags: *a1
+  - id: c4fffa30-a504-48e9-867d-01adb982ed8f
+    start: 05:22.559
+    end: 05:25.119
+    fields:
+      transcription: 女の友達が欲しい
+    tags: *a1
+  - id: c8e0d308-016b-4b30-8e7f-c9756ad91c09
+    start: 05:27.679
+    end: 05:29.471
+    fields:
+      transcription: 七夕祭りの日
+    tags: *a1
+  - id: 9b108950-2aa1-49f9-95b4-646aaa408bb0
+    start: 05:29.983
+    end: 05:30.751
+    fields:
+      transcription: 町は
+    tags: *a1
+  - id: cd3bf6a9-06a8-4dc9-885b-0a0b74847f6e
+    start: 05:31.007
+    end: 05:32.799
+    fields:
+      transcription: とても賑やかです
+    tags: *a1
+  - id: 4a1a357a-5a32-41fc-a34c-281c8855f97c
+    start: 05:35.359
+    end: 05:38.687
+    fields:
+      transcription: 森さんの家族と ジョンさんは
+    tags: *a1
+  - id: e9edc14a-b940-4704-9052-fa8bdde0bb85
+    start: 05:38.943
+    end: 05:40.223
+    fields:
+      transcription: 町へ行きます
+    tags: *a1
+  - id: ea47a2bf-5ddd-4cc0-a6a7-0d5906957740
+    start: 05:41.759
+    end: 05:42.783
+    fields:
+      transcription: 夕方
+    tags: *a1
+  - id: f9a26718-a28a-4160-a10a-dfd26c419e3c
+    start: 05:43.039
+    end: 05:47.391
+    fields:
+      transcription: ジョンさんは 森さんの家族と家を出ました
+    tags: *a1
+  - id: 81da2e99-3916-4461-a80c-c92cfe5c963e
+    start: 05:48.415
+    end: 05:51.487
+    fields:
+      transcription: 家の前に 笹があります
+    tags: *a1
+  - id: 49eea087-92b1-4678-bb6e-94642f3f4e88
+    start: 05:52.511
+    end: 05:55.071
+    fields:
+      transcription: みんなの 短冊があります
+    tags: *a1
+  - id: 7b5fb37c-b7ab-41ea-b4b4-9b505aa7b394
+    start: 05:56.095
+    end: 06:00.703
+    fields:
+      transcription: ジョンさんは広君の短冊を見ました
+    tags: *a1
+  - id: e8f70ec8-109a-4324-b650-729cb457f536
+    start: 06:02.239
+    end: 06:04.543
+    fields:
+      transcription: 大きい犬が欲しい
+    tags: *a1
+  - id: b437029a-e733-41ad-8143-b84ba2d215d2
+    start: 06:06.847
+    end: 06:11.967
+    fields:
+      transcription: ジョンさんと 森さんの家族は町に来ました
+    tags: *a1
+  - id: 39420467-351d-4cab-bbee-05dc7c9f1dd1
+    start: 06:12.735
+    end: 06:14.783
+    fields:
+      transcription: 人がたくさんいます
+    tags: *a1
+  - id: db0502fc-d42a-408e-a2e9-cd02e78232cc
+    start: 06:15.551
+    end: 06:17.343
+    fields:
+      transcription: とても賑やかです
+    tags: *a1
+  - id: a6462aea-1042-4356-a3ca-5404d022df8e
+    start: 06:18.367
+    end: 06:20.927
+    fields:
+      transcription: 町はとても綺麗です
+    tags: *a1
+  - id: 51a4c0cb-b36a-44a7-866d-53b67efc1aac
+    start: 06:23.743
+    end: 06:25.279
+    fields:
+      transcription: 綺麗ですね
+    tags: *a1
+  - id: 6d652cec-55a7-43fd-a37f-82a6ea64c26f
+    start: 06:28.095
+    end: 06:30.655
+    fields:
+      transcription: ジョンさんと広君は
+    tags: *a1
+  - id: 5991df4d-11f4-4dc8-bfa4-cf407a1d7241
+    start: 06:30.911
+    end: 06:32.959
+    fields:
+      transcription: かき氷を食べました
+    tags: *a1
+  - id: d40ae6a7-3d5e-4bef-aa27-3d3084afc126
+    start: 06:33.983
+    end: 06:36.031
+    fields:
+      transcription: 森さんと奥さんは
+    tags: *a1
+  - id: b228a954-3f23-4e6e-88bb-7bacdf137382
+    start: 06:36.287
+    end: 06:38.079
+    fields:
+      transcription: ビールを飲みました
+    tags: *a1
+  - id: 24a5eb1b-f02e-4a6b-9ad9-4f22b264cfd9
+    start: 06:39.359
+    end: 06:40.639
+    fields:
+      transcription: おばあさんは
+    tags: *a1
+  - id: 251c7fb5-7f26-40df-a326-2ab15bb2c79e
+    start: 06:40.895
+    end: 06:42.687
+    fields:
+      transcription: すいかを食べました
+    tags: *a1
+  - id: 86ee5391-bba7-4588-80d0-20d9a021c54f
+    start: 06:45.247
+    end: 06:47.039
+    fields:
+      transcription: 8月8日です
+    tags: *a1
+  - id: c4ab9ce1-0396-4536-a0ed-55628fc3cec0
+    start: 06:48.575
+    end: 06:49.599
+    fields:
+      transcription: 森さん
+    tags: *a1
+  - id: bc43b56e-772c-410c-9e89-aeb1d1d6e192
+    start: 06:50.623
+    end: 06:51.391
+    fields:
+      transcription: 京子さん
+    tags: *a1
+  - id: 923c5d35-0c03-48e6-868b-825b8b4d9734
+    start: 06:52.671
+    end: 06:53.439
+    fields:
+      transcription: 広君
+    tags: *a1
+  - id: 9fb26054-2a5e-4c97-8122-b32ddb729b92
+    start: 06:54.719
+    end: 06:55.743
+    fields:
+      transcription: おばあちゃん
+    tags: *a1
+  - id: 16fa1264-4eab-4705-b193-fbc8358340c5
+    start: 06:56.767
+    end: 06:58.559
+    fields:
+      transcription: ありがとうございました
+    tags: *a1
+  - id: d54f8803-e135-4cf5-b324-35e460a6f567
+    start: 06:59.583
+    end: 07:01.375
+    fields:
+      transcription: とても楽しかったです
+    tags: *a1
+  - id: 5acb9bd5-1de5-470f-84ce-7999ec82b750
+    start: 07:02.143
+    end: 07:03.423
+    fields:
+      transcription: 皆さん
+    tags: *a1
+  - id: d9f1a077-d6a2-4116-9614-bcf3528b9029
+    start: 07:04.191
+    end: 07:05.215
+    fields:
+      transcription: さようなら
+    tags: *a1
+  - id: ac1577a6-e6a4-4ad9-8501-6cb467922655
+    start: 07:06.751
+    end: 07:09.567
+    fields:
+      transcription: ジョンソン サヨナラ
+    tags: *a1
+  - id: e3cb429a-8173-40c9-b000-3238ff2c8306
+    start: 07:09.823
+    end: 07:12.383
+    fields:
+      transcription: 元気でね
+    tags: *a1
+  - id: acde2627-e983-4e93-89bc-5915edf636f7
+    start: 07:12.639
+    end: 07:13.919
+    fields:
+      transcription: 43は
+    tags: *a1
+  - id: a66daff8-b8f4-417f-af4c-acfab76e46ba
+    start: 07:14.175
+    end: 07:15.967
+    fields:
+      transcription: 東京へ帰ります
+    tags: *a1
+  - id: 1deefc25-1129-402d-a29a-bbf296ede87b
+    start: 07:18.783
+    end: 07:19.551
+    fields:
+      transcription: 今
+    tags: *a1
+  - id: 917c3461-2f9f-4522-bba2-9bae0b6b83a7
+    start: 07:19.807
+    end: 07:20.831
+    fields:
+      transcription: ジョンさんは
+    tags: *a1
+  - id: 58217ab4-f0bd-4725-90d9-ba92c74add4f
+    start: 07:21.343
+    end: 07:24.415
+    fields:
+      transcription: 東京の東西 デパートにいます
+    tags: *a1
+  - id: a0dcd624-3927-4cb4-9c2d-ef6275a287cf
+    start: 07:25.439
+    end: 07:27.487
+    fields:
+      transcription: 大きい犬を買います
+    tags: *a1
+  - id: 50602092-c721-4178-9e37-7f4d838623ac
+    start: 07:28.511
+    end: 07:31.071
+    fields:
+      transcription: 大きい犬のぬいぐるみです
+    tags: *a1
+  - id: 517cf545-e2ac-4107-8389-cace3d97ad88
+    start: 07:32.095
+    end: 07:33.887
+    fields:
+      transcription: 広君にあげます
+    tags: *a1
+  - id: e3254eee-a179-4844-83db-da5158154b86
+    start: 07:35.167
+    end: 07:36.191
+    fields:
+      transcription: ジョンさんは
+    tags: *a1
+  - id: fa6fa544-a4e4-40b6-bab5-a827f82b9de2
+    start: 07:36.447
+    end: 07:39.007
+    fields:
+      transcription: デパートの人に言いました
+    tags: *a1
+  - id: 744cf40f-031b-491c-b20b-9b019f460b8c
+    start: 07:40.031
+    end: 07:41.055
+    fields:
+      transcription: すみません
+    tags: *a1
+  - id: 10f4153a-f61d-4735-a94b-23b14aea42dc
+    start: 07:41.823
+    end: 07:44.895
+    fields:
+      transcription: これを 仙台に送りたいんですが
+    tags: *a1
+  - id: 4178b517-41ef-4eb0-98e0-5401e0ff4aef
+    start: 07:45.407
+    end: 07:46.175
+    fields:
+      transcription: はい
+    tags: *a1
+  - id: 6c89e99b-ca69-4616-805f-d3f04f2f5a10
+    start: 07:46.431
+    end: 07:51.551
+    fields:
+      transcription: では ここにご住所とお名前をお願いします
+    tags: *a1
+  - id: 55eeccf8-e023-4833-92d0-d19e59a641e0
+    start: 07:52.063
+    end: 07:52.575
+    fields:
+      transcription: はい
+    tags: *a1
+  - id: 6bec40fb-bde2-4253-ba10-ede9f8f2c0af
+    start: 07:53.599
+    end: 07:54.879
+    fields:
+      transcription: ジョンさんは
+    tags: *a1
+  - id: 5ac7c05c-8b8d-4584-add6-3d97399c3c50
+    start: 07:55.135
+    end: 07:57.951
+    fields:
+      transcription: 住所と名前を書きました
+    tags: *a1
+  - id: 7b181323-6372-45ce-982d-c73f92a13eee
+    start: 08:00.767
+    end: 08:02.303
+    fields:
+      transcription: 二日後です
+    tags: *a1
+  - id: 912e86e0-0cc4-4c21-ae9a-c4ffbc02704a
+    start: 08:04.095
+    end: 08:05.887
+    fields:
+      transcription: ジョンさんの家に
+    tags: *a1
+  - id: 05e81d3e-3e56-40ef-a6ba-6b203eeb438e
+    start: 08:06.143
+    end: 08:07.679
+    fields:
+      transcription: 誰か来ました
+    tags: *a1
+  - id: b6e8d025-980e-46f5-a94f-214b884d01a3
+    start: 08:08.703
+    end: 08:10.239
+    fields:
+      transcription: ピンポーン
+    tags: *a1
+  - id: f2961eb0-4289-410f-9557-535b23033697
+    start: 08:11.007
+    end: 08:12.543
+    fields:
+      transcription: ピンポーン
+    tags: *a1
+  - id: 696491a4-c808-4935-91c4-89356536053e
+    start: 08:13.311
+    end: 08:14.335
+    fields:
+      transcription: はーい
+    tags: *a1
+  - id: 628c8c1d-6b5f-4d7e-bcea-a81cf8d35200
+    start: 08:16.639
+    end: 08:18.175
+    fields:
+      transcription: 東西 デパートです
+    tags: *a1
+  - id: bfecad24-b73b-47ad-8c19-4ec122836c2b
+    start: 08:19.455
+    end: 08:22.527
+    fields:
+      transcription: ジョンさんはドアを開けました
+    tags: *a1
+  - id: a6b15314-d0bd-4106-b259-e309875bdb29
+    start: 08:23.295
+    end: 08:25.343
+    fields:
+      transcription: 男の人の手に
+    tags: *a1
+  - id: 6c02bfc4-58ef-4d25-a3a0-bb23172aece5
+    start: 08:25.599
+    end: 08:27.647
+    fields:
+      transcription: 大きい箱があります
+    tags: *a1
+  - id: 6a17bad4-f413-4126-b7e8-0363962c87da
+    start: 08:28.671
+    end: 08:30.975
+    fields:
+      transcription: 東西 デパートの箱です
+    tags: *a1
+  - id: a36bd338-9003-4978-8c09-8db12301d1b2
+    start: 08:34.815
+    end: 08:36.351
+    fields:
+      transcription: 東西 デパート
+    tags: *a1
+  - id: d50b5f85-f1c5-472b-907d-19eb7cf9fc7e
+    start: 08:37.631
+    end: 08:38.399
+    fields:
+      transcription: あれ
+    tags: *a1
+  - id: 861b2287-53e4-4fc6-bc5e-60607736a26f
+    start: 08:39.423
+    end: 08:40.447
+    fields:
+      transcription: これは
+    tags: *a1
+  - id: d63130dd-1929-4518-a7aa-a69bbfd97b3a
+    start: 08:41.983
+    end: 08:42.751
+    fields:
+      transcription: これは
+    tags: *a1
+  - id: 639f7a5b-4157-4e2a-8e2d-3086c57690c8
+    start: 08:43.263
+    end: 08:44.799
+    fields:
+      transcription: 仙台に
+    tags: *a1
+  - id: 69399aa3-7dc4-4643-a391-ec42b057988b
+    start: 08:46.079
+    end: 08:47.615
+    fields:
+      transcription: ここじゃないですよ
+    tags: *a1
+  - id: 74781c56-b485-4fb6-979f-772e66e05d8f
+    start: 08:50.431
+    end: 08:55.039
+    fields:
+      transcription: 仙台の森広様から東京のジョン様へですよ
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 8891c965-949b-4c79-abcc-9f1dc222001e
 ---
 name: genki 01 atarashii tomodachi.mp3
 format: mp3

@@ -3,7 +3,7 @@
 name: Basic Japanese
 noteType: Transliteration
 createdAt: 2020-02-04T17:14:00Z
-timestamp: 2020-12-06T12:24:04Z
+timestamp: 2020-12-06T16:55:01Z
 id: 396cb23e-87fa-491c-a0f2-c7fc5022d80a
 ---
 name: Japanese Listening (N5-N4-N3) - Shadowing lets speak Japanese beginner to intermediate (N5 N4 N3).mp4
@@ -7348,13 +7348,6 @@ name: JGR 1-1-2 hachi no hanashi.m4a
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 03:45.559
 id: a5e2a7ad-d47c-4750-8dab-2e628a98abf5
-subtitles:
-  - id: a2e23633-9129-4e82-987a-8923d41c4312
-    type: External
-    chunksMetadata:
-      count: 53
-      endCue: 11046.4
-    name: JGR 1-1-2 hachi no hanashi.srt
 clips:
   - id: 8142d631-1711-4e31-b386-d2c38e4274bc
     start: 00:00.56
@@ -7748,20 +7741,11 @@ clips:
       meaning: Now, in front of Shibuya Station, there is a statue of Hachi. (polite)
     tags:
       - jgr1-1-2
-flashcardFieldsToSubtitlesTracks:
-  transcription: a2e23633-9129-4e82-987a-8923d41c4312
 ---
 name: JGR 1-1-3 jonsan nihon e.m4a
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 07:05.924
 id: 052e4cc5-3f48-4230-be5e-cd093c64e0e0
-subtitles:
-  - id: d14af559-177f-40de-a3cb-6fdad4b8a22a
-    type: External
-    chunksMetadata:
-      count: 111
-      endCue: 21068.75
-    name: JGR 1-1-3 jonsan nihon e.srt
 clips:
   - id: 11337e7d-9a4c-484c-b47c-454e89516020
     start: 00:00.48
@@ -8399,20 +8383,11 @@ clips:
         waraimásu = warau
     tags:
       - jgr1-1-3
-flashcardFieldsToSubtitlesTracks:
-  transcription: d14af559-177f-40de-a3cb-6fdad4b8a22a
 ---
 name: JGR 1-1-4 urashima tarou.m4a
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 07:46.791
 id: 73cd9935-fea8-40e3-8cfb-179c026c87f6
-subtitles:
-  - id: c3f3e2ea-543a-44cd-b5e0-b7b6b8261ab5
-    type: External
-    chunksMetadata:
-      count: 118
-      endCue: 23116.75
-    name: JGR 1-1-4 urashima tarou.srt
 clips:
   - id: 96646e3a-1e27-47d0-a3f0-b858a21ea237
     start: 00:07.62
@@ -9229,20 +9204,11 @@ clips:
       meaning: Nobody knows that. (polite)
     tags:
       - jgr1-1-4
-flashcardFieldsToSubtitlesTracks:
-  transcription: c3f3e2ea-543a-44cd-b5e0-b7b6b8261ab5
 ---
 name: JGR 1-1-5 waraibanashi.m4a
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 10:46.281
 id: 7060cc64-72c1-419d-bc2c-996a4a519dbf
-subtitles:
-  - id: a871e775-489a-472b-9f67-734cf17ba8f0
-    type: External
-    chunksMetadata:
-      count: 192
-      endCue: 31513.55
-    name: JGR 1-1-5 waraibanashi.srt
 clips:
   - id: 97e4b821-f177-4049-bfe9-920aac07b5a6
     start: 00:00.0
@@ -10401,20 +10367,11 @@ clips:
       meaning: I'm fine with the shop. I want to work at the shop again! (polite)
     tags:
       - jgr1-1-5
-flashcardFieldsToSubtitlesTracks:
-  transcription: a871e775-489a-472b-9f67-734cf17ba8f0
 ---
 name: JGR 1-3-1 basu.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 07:39.912
 id: ed6b282b-d3bf-40ee-a10d-1290f75fc13e
-subtitles:
-  - id: 6bf60d18-bd89-4769-8002-9dcd944a1293
-    type: External
-    chunksMetadata:
-      count: 109
-      endCue: 22847.95
-    name: JGR 1-3-1 basu.srt
 clips:
   - id: dbe0f969-e308-4905-9aeb-9a88809194f5
     start: 00:40.169
@@ -11048,20 +11005,11 @@ clips:
       pronunciation: Soshite, "Maruyama-Higashí"-no basu-tei-de, kyóu-mo iimásu. "O-báa-chan, arígatou!"
     tags:
       - jgr1-3-1
-flashcardFieldsToSubtitlesTracks:
-  transcription: 6bf60d18-bd89-4769-8002-9dcd944a1293
 ---
 name: JGR 1-3-2 kimono.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 06:31.915
 id: a5048c86-e1d2-4375-a0b8-5834249fcdbc
-subtitles:
-  - id: 7241ac46-ac48-441d-9102-47d3d024d831
-    type: External
-    chunksMetadata:
-      count: 73
-      endCue: 19455.95
-    name: JGR 1-3-2 kimono.srt
 clips:
   - id: 59616256-5d4e-49a6-a547-12ae1d6041de
     start: 00:08.747
@@ -11617,20 +11565,11 @@ clips:
       notes: ikimashóu = ikóu
     tags:
       - jgr1-3-2
-flashcardFieldsToSubtitlesTracks:
-  transcription: 7241ac46-ac48-441d-9102-47d3d024d831
 ---
 name: JGR 1-3-3 doushite ebi no karada wa magatta.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 03:04.242
 id: 01e9fb9f-3277-4108-ae4b-d239b433d8e4
-subtitles:
-  - id: 1f312a09-3889-402c-9a8d-abcc5bb6dda5
-    type: External
-    chunksMetadata:
-      count: 38
-      endCue: 9062.4
-    name: JGR 1-3-3 doushite ebi no karada wa magatta.srt
 clips:
   - id: 44c08e50-c997-4d89-8d0a-c176f20e4de0
     start: 00:15.356
@@ -11872,20 +11811,11 @@ clips:
       pronunciation: Sore-kara, ebi-no karada-wa magarimáshita.
     tags:
       - jgr1-3-3
-flashcardFieldsToSubtitlesTracks:
-  transcription: 1f312a09-3889-402c-9a8d-abcc5bb6dda5
 ---
 name: JGR 1-3-4 doushite nekodoshi ga nai.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 06:35.99
 id: fbbe14ba-3ba9-40d5-8bf4-f82fe02927c5
-subtitles:
-  - id: f14797b3-2950-43f7-9014-4ad5d074f14f
-    type: External
-    chunksMetadata:
-      count: 94
-      endCue: 19673.55
-    name: JGR 1-3-4 doushite nekodoshi ga nai.srt
 clips:
   - id: cc1db3ec-804d-4d4d-96b5-98f12ec80ea4
     start: 00:00.0
@@ -12391,20 +12321,11 @@ clips:
       pronunciation: Soshite, íma-mo, néko-wa, nezumi-ga kirai-désu.
     tags:
       - jgr1-3-4
-flashcardFieldsToSubtitlesTracks:
-  transcription: f14797b3-2950-43f7-9014-4ad5d074f14f
 ---
 name: JGR 1-3-5 shitakiri suzume.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 08:33.019
 id: 5b0a1bfa-59e9-4b77-af38-c6daf14f460e
-subtitles:
-  - id: 69d4f249-477a-46d4-917a-ddb5450a70fc
-    type: External
-    chunksMetadata:
-      count: 136
-      endCue: 25510.35
-    name: JGR 1-3-5 shitakiri suzume.srt
 clips:
   - id: bffe9cea-5fe5-4b6c-b966-0e9145f6315e
     start: 00:00.0
@@ -13229,20 +13150,11 @@ clips:
     end: 08:33.019
     tags:
       - jgr1-3-5
-flashcardFieldsToSubtitlesTracks:
-  transcription: 69d4f249-477a-46d4-917a-ddb5450a70fc
 ---
 name: JGR 1-3-6 jon san no natsuyasumi.m4v
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 08:58.436
 id: 0937d045-0011-4b9b-9bc6-23ee437cb336
-subtitles:
-  - id: 8891c965-949b-4c79-abcc-9f1dc222001e
-    type: External
-    chunksMetadata:
-      count: 177
-      endCue: 26751.95
-    name: JGR 1-3-6 jon san no natsuyasumi.srt
 clips:
   - id: d861303c-0bc2-4a72-848e-56b420288b51
     start: 00:10.752
@@ -13974,8 +13886,6 @@ clips:
       transcription: え？仙台の森広様から東京のジョン様へですよ。
       pronunciation: E? Séndai-no Mori Híroshi-sama-kara Toukyou-no Jón-sama-e désu-yo.
     tags: *a1
-flashcardFieldsToSubtitlesTracks:
-  transcription: 8891c965-949b-4c79-abcc-9f1dc222001e
 ---
 name: genki 01 atarashii tomodachi.mp3
 format: mp3
@@ -14168,71 +14078,3961 @@ format: mp3
 duration: 10:46.269
 id: 3a1a8d64-e9d5-465b-94e0-cfa5a4d5ca57
 subtitles:
-  - id: 3d11da41-6293-4aa7-a00e-5ab7c662f2cd
+  - id: 3e65957f-f9e0-41fd-8fca-30ffdd9a1b5e
     type: External
     chunksMetadata:
       count: 144
       endCue: 32140.75
     name: JGR 2-3-1 nihon no ofuro.srt
+clips:
+  - id: df3cfec8-c148-40a2-af5d-208f03cb006b
+    start: 00:40.192
+    end: 00:42.24
+    fields:
+      transcription: お風呂が好きな日本人
+    tags:
+      &a1
+      - JGR_2-3-1_nihon_no_ofuro.mp3
+  - id: ed65ce83-fdda-4efe-9606-0ef1a2ef4406
+    start: 00:44.515
+    end: 00:51.935
+    fields:
+      transcription: 日本人は、お風呂が大好きです。毎日お風呂に入る人が多いです。
+    tags: *a1
+  - id: fe64a5f2-7df3-4709-93ac-604695752045
+    start: 00:52.992
+    end: 00:58.624
+    fields:
+      transcription: 日本は、夏は暑くて冬は寒い国です。
+    tags: *a1
+  - id: 9f939d97-2836-41be-a841-14a95ea5d475
+    start: 00:59.648
+    end: 01:04.0
+    fields:
+      transcription: だから、いつでもお風呂に入りたくなるのです。
+    tags: *a1
+  - id: b44d21ff-c103-4b98-ba0b-9fe11bda5e6d
+    start: 01:05.28
+    end: 01:12.448
+    fields:
+      transcription: 一日の終わりにお風呂にゆっくり入ると、とても気持ちが良くて元気が出ます。
+    tags:
+      - JGR_2-3-1_nihon_no_ofuro.mp3
+  - id: b4c81cd0-d006-4058-a0c0-0dbcd46af54e
+    start: 01:14.24
+    end: 01:17.568
+    fields:
+      transcription: 日本のお風呂はシャワーだけではありません。
+    tags: *a1
+  - id: bdbf29ea-02d2-4395-9e2e-d5a443898300
+    start: 01:18.848
+    end: 01:27.263
+    fields:
+      transcription: 体を洗ってから、湯船のお湯の中に入ります。それが、日本のお風呂です
+    tags:
+      - JGR_2-3-1_nihon_no_ofuro.mp3
+  - id: f922874d-9031-4083-9cf3-72a68fc163cb
+    start: 01:28.832
+    end: 01:34.72
+    fields:
+      transcription: 小さな子供は、お父さんやお母さんと一緒に、お風呂に入ります。
+    tags:
+      - JGR_2-3-1_nihon_no_ofuro.mp3
+  - id: dbc26a7a-719d-47fc-a954-329ee3400144
+    start: 01:36.407
+    end: 01:44.22
+    fields:
+      transcription: あまり熱くないお湯に入って、長い時間、本を読んだり、テレビを見たりする人もいます。
+    tags:
+      - JGR_2-3-1_nihon_no_ofuro.mp3
+  - id: fe528c23-b142-4eec-9104-9cec8a98f449
+    start: 01:46.496
+    end: 01:50.08
+    fields:
+      transcription: お風呂の時間はとても大切な時間です。
+    tags: *a1
+  - id: 4df9aabe-71b8-4915-8887-3e59aec16a7a
+    start: 01:52.896
+    end: 01:54.944
+    fields:
+      transcription: お風呂の昔と今
+    tags: *a1
+  - id: 831fea09-9c25-4fca-b831-09e28ae6e773
+    start: 02:00.76
+    end: 02:04.672
+    fields:
+      transcription: 日本には、温泉がたくさんあります。
+    tags: *a1
+  - id: 6a000ab9-ea28-4e1a-ada9-ac13a4c67638
+    start: 02:06.464
+    end: 02:14.656
+    fields:
+      transcription: 温泉に入ると、とても気持ちが良くて体にもいいことを、昔の人は知っていました。
+    tags:
+      - JGR_2-3-1_nihon_no_ofuro.mp3
+  - id: 56bba334-0b28-46c4-868b-b75acc4c0413
+    start: 02:16.448
+    end: 02:22.336
+    fields:
+      transcription: 熊や鹿や猿など、動物も温泉に入りました。
+    tags:
+      - JGR_2-3-1_nihon_no_ofuro.mp3
+  - id: af2f3120-a2db-400a-9417-2d2089e17d1c
+    start: 02:24.128
+    end: 02:31.808
+    fields:
+      transcription: 「熊の湯」や「鹿の湯」など、動物の名前の温泉が、今も色々な所にあります。
+    tags:
+      - JGR_2-3-1_nihon_no_ofuro.mp3
+  - id: 7eaf9107-99bf-417c-a4fe-f00a4c0331e1
+    start: 02:38.208
+    end: 02:44.096
+    fields:
+      transcription: 温泉がないところに住んでいる人は、どんなお風呂に入っていたのでしょうか？
+    tags:
+      - JGR_2-3-1_nihon_no_ofuro.mp3
+  - id: 354a7f68-433e-4f89-94d9-06b4d60564d0
+    start: 02:46.4
+    end: 02:50.752
+    fields:
+      transcription: 昔は、水をたくさん使うことができませんでした。
+    tags: *a1
+  - id: bb8f4c5b-56d7-4c4b-bdb9-7c53680b9b41
+    start: 02:52.032
+    end: 02:56.64
+    fields:
+      transcription: ですから、昔の人は蒸し風呂に入りました。
+    tags: *a1
+  - id: d73edb34-cbfd-4c21-8c6d-40e13cfbac72
+    start: 02:58.432
+    end: 03:04.064
+    fields:
+      transcription: 蒸し風呂は、お湯から出る蒸気を浴びて、体を洗うお風呂です。
+    tags: *a1
+  - id: b7d6df1c-1e30-4387-b5b9-6dbd8b747940
+    start: 03:06.88
+    end: 03:08.16
+    fields:
+      transcription: お寺のお風呂
+    tags: *a1
+  - id: e2585888-cf52-45ca-8a9b-12ff30532608
+    start: 03:10.464
+    end: 03:13.28
+    fields:
+      transcription: お寺にも、お風呂がありました。
+    tags: *a1
+  - id: ed040f69-6da8-4298-9023-66f519383024
+    start: 03:14.872
+    end: 03:21.728
+    fields:
+      transcription: 仏教では、「体を洗って、きれいにしなければならない」と教えていたからです。
+    tags:
+      - JGR_2-3-1_nihon_no_ofuro.mp3
+  - id: 23510f3f-d66b-41df-8a8e-ceb8d3516f7d
+    start: 03:23.851
+    end: 03:30.944
+    fields:
+      transcription: |-
+        お坊さんだけではなくて、色々な人がお寺に来て、
+        お風呂に入ることができました
+    tags:
+      - JGR_2-3-1_nihon_no_ofuro.mp3
+  - id: d9083998-c3fc-4ae9-8c64-7505b8184db2
+    start: 03:33.66
+    end: 03:36.6
+    fields:
+      transcription: これが、銭湯の始まりです
+    tags: *a1
+  - id: 1027d452-7f56-4d46-8bdd-59ddbf72ba25
+    start: 03:42.936
+    end: 03:50.436
+    fields:
+      transcription: 江戸時代（一六〇三年から〜一八六八年）の銭湯
+    tags: *a1
+  - id: 4de72bed-0027-49c0-bc8d-137a5458bf07
+    start: 03:52.716
+    end: 03:59.016
+    fields:
+      transcription: 今から四百年ぐらい前、江戸時代に「銭湯」ができました。
+    tags: *a1
+  - id: c894f05c-7a68-4531-b58d-bc8c52c914ca
+    start: 04:00.64
+    end: 04:04.736
+    fields:
+      transcription: 銭湯は、お金を払って入るお風呂です。
+    tags: *a1
+  - id: c3daaa5e-6ce2-42dc-b715-6126bd5cb6cf
+    start: 04:06.784
+    end: 04:12.672
+    fields:
+      transcription: まだ、家にお風呂がありませんでしたから、みんな、銭湯へ行きました。
+    tags:
+      - JGR_2-3-1_nihon_no_ofuro.mp3
+  - id: ce03505b-0be5-4bb8-999e-962619694e84
+    start: 04:14.72
+    end: 04:16.768
+    fields:
+      transcription: どんなお風呂だったのでしょうか？
+    tags: *a1
+  - id: 6ec34057-dc52-42d5-9bef-a92b67e2f7e6
+    start: 04:18.815
+    end: 04:26.495
+    fields:
+      transcription: 狭い部屋の中に、湯船があります。湯船には、お湯が少し入っています。
+    tags:
+      - JGR_2-3-1_nihon_no_ofuro.mp3
+  - id: 79388f83-1e8f-46ce-ad3b-b9ddad0fb433
+    start: 04:28.134
+    end: 04:36.014
+    fields:
+      transcription: その部屋に、下着を一枚だけ着て、男の人も女の人も、一緒に入ります。
+    tags: *a1
+  - id: c66712dd-dc90-46d3-b4c6-bfb46a394d71
+    start: 04:37.247
+    end: 04:38.783
+    fields:
+      transcription: 混浴です。
+    tags: *a1
+  - id: 09211e70-fb6e-4664-a86e-01b875d3cc23
+    start: 04:40.771
+    end: 04:44.771
+    fields:
+      transcription: 戸を閉めると、その部屋は、とても暗いです。
+    tags: *a1
+  - id: 95179334-4aa7-44fe-a95e-f5a030d7712a
+    start: 04:47.231
+    end: 04:53.631
+    fields:
+      transcription: お湯の中に足を入れて、体は、そのお湯から出る蒸気を浴びます。
+    tags:
+      - JGR_2-3-1_nihon_no_ofuro.mp3
+  - id: 0ef2589e-d446-47f0-bcaf-1fc031bc0ca6
+    start: 04:54.911
+    end: 04:58.751
+    fields:
+      transcription: その後、部屋の外で体を洗います。
+    tags: *a1
+  - id: 9d377847-98bf-42be-964d-f379eb6beee4
+    start: 05:01.567
+    end: 05:06.687
+    fields:
+      transcription: 銭湯に行く人が多くなって、銭湯が、たくさんできました。
+    tags: *a1
+  - id: 234d3b91-056a-4e0b-acf0-7e44b689f4ee
+    start: 05:08.479
+    end: 05:12.063
+    fields:
+      transcription: だんだん、湯船のお湯が多くなりました。
+    tags: *a1
+  - id: 78b09936-5c9d-46f0-a9af-297808a7c0f0
+    start: 05:13.599
+    end: 05:17.951
+    fields:
+      transcription: 湯船も体を洗うところも、広くなりました。
+    tags: *a1
+  - id: 70e41f54-1cd1-43d6-8d47-fda6dfde0ae6
+    start: 05:19.231
+    end: 05:24.863
+    fields:
+      transcription: この頃、何も着ないで、裸で入る人が多くなりました。
+    tags: *a1
+  - id: 8553d31b-bee2-425a-96e8-019a57788e14
+    start: 05:26.911
+    end: 05:38.991
+    fields:
+      transcription: 江戸（今の東京）では、男の人はお風呂から出ると、銭湯の二階で遊んだり、お酒を飲んだりしました。
+    tags:
+      - JGR_2-3-1_nihon_no_ofuro.mp3
+  - id: 59e93e6a-1409-4a59-840a-07d2e4d24b89
+    start: 05:41.778
+    end: 05:49.958
+    fields:
+      transcription: 明治時代（一八六八〜一九一二年）からの銭湯
+    tags: *a1
+  - id: be0ff219-d73d-45ef-9376-ae3f84e2b87a
+    start: 05:52.222
+    end: 05:56.282
+    fields:
+      transcription: 明治時代になると、今の銭湯ができました。
+    tags: *a1
+  - id: 54645895-84fe-4d97-8a35-23831173318f
+    start: 05:57.887
+    end: 05:59.935
+    fields:
+      transcription: 混浴はなくなりました。
+    tags: *a1
+  - id: 35847b53-cd30-4441-b92d-002407c2b84d
+    start: 06:01.471
+    end: 06:07.615
+    fields:
+      transcription: 男の人は「男湯」、女の人は「女湯」に入ります。
+    tags: *a1
+  - id: 9d389bc1-6aaa-4207-ba4c-70236e170bcc
+    start: 06:08.895
+    end: 06:11.967
+    fields:
+      transcription: 湯船がもっと大きくなりました。
+    tags: *a1
+  - id: d8e7a6e6-9622-4edf-920f-359f850376f9
+    start: 06:12.735
+    end: 06:15.551
+    fields:
+      transcription: たくさんのお湯に入ることができます。
+    tags: *a1
+  - id: c080c05c-a1da-4497-809a-64a105568d70
+    start: 06:16.831
+    end: 06:22.719
+    fields:
+      transcription: まだ、お風呂がない家が多かったですから、みんな銭湯へ行きました。
+    tags:
+      - JGR_2-3-1_nihon_no_ofuro.mp3
+  - id: 14d04114-eeb8-421f-a9bd-a23ca291d785
+    start: 06:24.511
+    end: 06:28.095
+    fields:
+      transcription: 銭湯は、お寺のお風呂から始まりました。
+    tags: *a1
+  - id: ff48c396-192e-4f50-861f-8c52def47181
+    start: 06:29.44
+    end: 06:35.48
+    fields:
+      transcription: ですから、入り口は、お寺のお風呂の入り口と、同じところが多いです。
+    tags: *a1
+  - id: 92fd8d95-11e1-4aaf-899d-e3cf01effa45
+    start: 06:37.34
+    end: 06:40.14
+    fields:
+      transcription: 中に入ると、番台があります。
+    tags: *a1
+  - id: 4dbd8eee-ee48-4742-bfda-bc85a3089cb8
+    start: 06:41.407
+    end: 06:44.991
+    fields:
+      transcription: 番台に座っている人に、お金を払います。
+    tags: *a1
+  - id: 89044525-8f2c-4b26-b35d-35c49ec61bc3
+    start: 06:46.783
+    end: 06:50.879
+    fields:
+      transcription: お風呂の壁には、大きな絵があります。
+    tags: *a1
+  - id: 163ba124-11f8-4c45-bbe0-f9e5644a0bdd
+    start: 06:51.522
+    end: 06:53.482
+    fields:
+      transcription: 富士山の絵が多いです
+    tags: *a1
+  - id: a7ca34e3-e40c-4c0e-bdf0-c3d903f7f88a
+    start: 06:54.97
+    end: 07:00.79
+    fields:
+      transcription: 近くに住んでいる人たちが みんな一緒に楽しくお風呂に入りました
+    tags: *a1
+  - id: 958ce730-047e-4073-ae61-e17dbcbf2efd
+    start: 07:07.523
+    end: 07:15.283
+    fields:
+      transcription: |-
+        1970年頃までは
+        どこでも銭湯がありましたが
+        今は少なくなりました
+    tags: *a1
+  - id: 2cd2bc10-c48d-45fc-94fc-cb7590fdf323
+    start: 07:16.603
+    end: 07:19.263
+    fields:
+      transcription: 家にお風呂ができたからです
+    tags: *a1
+  - id: af732a91-e228-477a-9a75-fc81fa42f925
+    start: 07:20.942
+    end: 07:26.902
+    fields:
+      transcription: でも 2000年頃から新しい銭湯が町の中にできました
+    tags: *a1
+  - id: 47530903-d767-40ec-a2d1-c124f6971281
+    start: 07:28.738
+    end: 07:34.898
+    fields:
+      transcription: 家のお風呂は小さいですから日本人は大きいお風呂に入りたいのです
+    tags: *a1
+  - id: 3291c957-e009-42ef-9993-55167af9d3b4
+    start: 07:36.754
+    end: 07:42.994
+    fields:
+      transcription: |-
+        新しい銭湯には
+        温泉や サウナ
+        岩盤風呂などもあります
+    tags: *a1
+  - id: c367e22c-79e3-4097-b9fb-56ad40ccf573
+    start: 07:45.919
+    end: 07:48.619
+    fields:
+      transcription: 外国人が見た日本のお風呂
+    tags: *a1
+  - id: 968f5951-320a-4993-bed0-183dfb05cf6b
+    start: 07:50.919
+    end: 08:01.319
+    fields:
+      transcription: |-
+        お母さんやお父さんと一緒にお風呂に入るんですか
+        私の国では
+        子供も一人で入りますよ
+    tags: *a1
+  - id: a7299df2-43a3-4616-be12-19aed5be2c6b
+    start: 08:03.94
+    end: 08:11.48
+    fields:
+      transcription: |-
+        湯船に蓋がありますね
+        面白い
+        蓋を開けてから入るんですね
+    tags: *a1
+  - id: 7cf6335e-6b35-44f4-a34b-f378b74217e3
+    start: 08:14.02
+    end: 08:20.74
+    fields:
+      transcription: |-
+        お湯はとても暑いです
+        熱くて長く入っていることができませんでした
+    tags: *a1
+  - id: e3c72737-ed2d-4d3c-b956-47d356dfb45f
+    start: 08:23.591
+    end: 08:32.291
+    fields:
+      transcription: |-
+        家族がみんな同じ お湯に入るんですね
+        汚くないですか 私は嫌だなあ
+    tags: *a1
+  - id: 6cc99752-bd5c-4904-8e62-ae91c4d22838
+    start: 08:35.071
+    end: 08:37.631
+    fields:
+      transcription: 温泉がいっぱい
+    tags: *a1
+  - id: c2622dc7-ddab-4c20-9ba0-1a8203dba029
+    start: 08:39.167
+    end: 08:43.519
+    fields:
+      transcription: 日本は火山が多いですから 温泉 もたくさんあります
+    tags: *a1
+  - id: 3753fae1-7efa-4c25-9c69-d0456256890f
+    start: 08:44.799
+    end: 08:46.591
+    fields:
+      transcription: どのくらいあるのでしょう
+    tags: *a1
+  - id: 2832bce1-90ba-4679-b016-37e53525d504
+    start: 08:47.94
+    end: 08:51.1
+    fields:
+      transcription: 全部で2500ぐらいあります
+    tags: *a1
+  - id: 96822fcb-2130-4d08-af16-40eae06b739d
+    start: 08:53.759
+    end: 08:55.807
+    fields:
+      transcription: 温泉に行きましょう
+    tags: *a1
+  - id: 0bc54d96-8253-47c1-ab98-23c94bae84e2
+    start: 08:57.855
+    end: 09:02.207
+    fields:
+      transcription: 日本人は昔から温泉旅行が大好きです
+    tags: *a1
+  - id: 3495ba16-8eb4-4d60-a892-c91b29adc372
+    start: 09:03.359
+    end: 09:07.839
+    fields:
+      transcription: 家族や友達と行ったり会社の旅行で行ったりします
+    tags: *a1
+  - id: 8671bbf3-5d4f-455a-bd36-c46a24b07283
+    start: 09:09.44
+    end: 09:14.66
+    fields:
+      transcription: 温泉に入ってその後みんなでおいしいものを食べます
+    tags: *a1
+  - id: 470cba5a-a815-48fe-adb1-2896c0d05a38
+    start: 09:16.02
+    end: 09:19.46
+    fields:
+      transcription: ホテルや旅館にはいろいろなお風呂があります
+    tags: *a1
+  - id: a8c10903-c248-48e8-a6fc-f7126dc67bde
+    start: 09:20.62
+    end: 09:23.84
+    fields:
+      transcription: 外にあるお風呂を露天風呂と言います
+    tags: *a1
+  - id: b90a35f5-96ca-40a9-93ab-1f8a118db2d2
+    start: 09:24.735
+    end: 09:27.807
+    fields:
+      transcription: 日本人は露天風呂が大好きです
+    tags: *a1
+  - id: 137be780-3b9e-4146-b109-f352ebc14383
+    start: 09:29.35
+    end: 09:34.41
+    fields:
+      transcription: 山や海を見ながらお風呂に入るととても気持ちがいいです
+    tags: *a1
+  - id: 2565a63e-2ee2-40b9-8515-d94d94410875
+    start: 09:37.279
+    end: 09:39.071
+    fields:
+      transcription: 温泉に入りましょう
+    tags: *a1
+  - id: 5b0a62c0-e4a7-49b9-971c-578546541e7d
+    start: 09:41.375
+    end: 09:43.423
+    fields:
+      transcription: 入口をよく見ましょう
+    tags: *a1
+  - id: 8fcc6347-4832-45ab-92e7-39e474f0dee1
+    start: 09:44.539
+    end: 09:46.519
+    fields:
+      transcription: 男の人は男湯
+    tags: *a1
+  - id: 520d60e9-1ca5-4d32-bbe6-678b4fdcd37e
+    start: 09:47.039
+    end: 09:49.819
+    fields:
+      transcription: 女の人は女湯に入ります
+    tags: *a1
+  - id: 2a3ca333-1bdc-40c7-9f63-bb4e17c5eeb4
+    start: 09:50.799
+    end: 09:53.539
+    fields:
+      transcription: 混浴の温泉もまだあります
+    tags: *a1
+  - id: 7e1f9136-56a1-4583-9e85-4cc6492dc4d1
+    start: 09:55.711
+    end: 09:58.783
+    fields:
+      transcription: お風呂には裸で入ってください
+    tags: *a1
+  - id: c5e59077-76d4-4c53-8224-282c91071bfa
+    start: 09:59.926
+    end: 10:04.146
+    fields:
+      transcription: 湯船に入る前に体を軽く洗いましょう
+    tags: *a1
+  - id: b6045385-3ddc-4486-af87-5673361c64ac
+    start: 10:05.183
+    end: 10:07.487
+    fields:
+      transcription: それから、湯船に入ります。
+    tags: *a1
+  - id: 977e960d-a44f-4dbe-9be3-7177e20901c4
+    start: 10:09.363
+    end: 10:12.095
+    fields:
+      transcription: タオルを湯船に入れてはいけません
+    tags: *a1
+  - id: 789b0e1c-280e-410e-8610-2fa1544b9a1c
+    start: 10:13.703
+    end: 10:17.103
+    fields:
+      transcription: 湯船から出て体や 髪を洗いましょう
+    tags: *a1
+  - id: 39c2951e-7788-4c07-9560-abf8e8b19c37
+    start: 10:18.534
+    end: 10:22.054
+    fields:
+      transcription: もう一度ゆっくり 湯船に入りましょう
+    tags: *a1
+  - id: e7f19c0e-1d0e-49da-8a5a-0b410f7df4bd
+    start: 10:23.942
+    end: 10:29.862
+    fields:
+      transcription: 出る前に使った椅子や 桶を前にあったところに置いてください
+    tags: *a1
+  - id: 74b671db-c9ab-4f28-a3b2-623f4cc2267b
+    start: 10:32.767
+    end: 10:37.967
+    fields:
+      transcription: お風呂から出た後は浴衣を着てゆっくり休んでください
+    tags: *a1
+  - id: 92f37795-4d16-42af-a021-c590c1a8ef88
+    start: 10:39.867
+    end: 10:42.787
+    fields:
+      transcription: 水や ジュースやお茶を飲みましょう
+    tags: *a1
 flashcardFieldsToSubtitlesTracks:
-  transcription: 3d11da41-6293-4aa7-a00e-5ab7c662f2cd
+  transcription: 3e65957f-f9e0-41fd-8fca-30ffdd9a1b5e
 ---
 name: JGR 2-3-2 houi to chana.mp3
 format: mp3
 duration: 10:51.363
 id: 187f4f83-7498-4535-937d-0319483b8db2
-subtitles:
-  - id: 6d7d5abe-a225-481b-b559-cf5d9b0e300c
-    type: External
-    chunksMetadata:
-      count: 160
-      endCue: 32383.95
-    name: JGR 2-3-2 houi to chana.srt
-flashcardFieldsToSubtitlesTracks:
-  transcription: 6d7d5abe-a225-481b-b559-cf5d9b0e300c
+clips:
+  - id: 403f5589-d681-46a1-8cb0-cf83112d8986
+    start: 00:16.248
+    end: 00:19.448
+    fields:
+      transcription: これは中国の古い話です
+    tags:
+      &a1
+      - jgr2-3-2
+  - id: e9e7b4c2-53b3-47ed-9e39-b2747a6813f7
+    start: 00:21.664
+    end: 00:26.764
+    fields:
+      transcription: |-
+        昔
+        中国には
+        太陽が十個ありました
+    tags: *a1
+  - id: 1296c59e-d3e3-4196-9218-fa295d162900
+    start: 00:28.544
+    end: 00:32.284
+    fields:
+      transcription: |-
+        十個の太陽は
+        天帝の子供でした
+    tags: *a1
+  - id: 62a7a6b5-3da1-4a99-9eae-c47de88dbff0
+    start: 00:34.284
+    end: 00:39.004
+    fields:
+      transcription: |-
+        天帝は
+        神様の中で一番強い神様です
+    tags: *a1
+  - id: a6657a60-61ab-41f8-a599-e9eed30b706f
+    start: 00:41.432
+    end: 00:45.072
+    fields:
+      transcription: 太陽は大きな木に住んでいました
+    tags: *a1
+  - id: a4d58d30-f0e5-4f92-9f80-f3051aea0248
+    start: 00:47.032
+    end: 00:51.032
+    fields:
+      transcription: |-
+        木の下 半分は
+        水の中にありました
+    tags: *a1
+  - id: 0ee056b1-64aa-4b91-84e9-871af56b12d5
+    start: 00:53.411
+    end: 00:58.351
+    fields:
+      transcription: 朝 一個の太陽が 木の上へ行きます
+    tags: *a1
+  - id: bdd449f1-b3c9-40b1-a06b-39db2dcf4bdc
+    start: 00:59.963
+    end: 01:03.963
+    fields:
+      transcription: |-
+        九個の太陽は
+        水の中で遊びます
+    tags: *a1
+  - id: e7a07369-2a5d-4400-a0cb-2a21809570c2
+    start: 01:06.128
+    end: 01:11.388
+    fields:
+      transcription: |-
+        夜になると
+        木の上にいた太陽が
+        降りてきます
+    tags: *a1
+  - id: c120a426-3be9-4705-b6c7-0e83423da28d
+    start: 01:13.508
+    end: 01:19.508
+    fields:
+      transcription: |-
+        次の日の朝
+        次の太陽が
+        木の上へ行きます
+    tags: *a1
+  - id: 9b5bac86-804c-4945-9a61-cf20d256bf24
+    start: 01:20.956
+    end: 01:24.936
+    fields:
+      transcription: |-
+        九個の太陽は
+        水の中で遊びます
+    tags: *a1
+  - id: 04f40642-e64f-4d80-8267-95d214f478ed
+    start: 01:27.356
+    end: 01:32.716
+    fields:
+      transcription: 夜になると 木の上にいた太陽が降りてきます
+    tags: *a1
+  - id: 4796bd61-800f-4f43-a886-20963374f798
+    start: 01:34.435
+    end: 01:39.395
+    fields:
+      transcription: |-
+        木の上の太陽は
+        いつも一個でした
+    tags: *a1
+  - id: 15ce48a4-45b9-47eb-8b2f-30b5f8f788cf
+    start: 01:41.732
+    end: 01:51.132
+    fields:
+      transcription: |-
+        ある日 一個の太陽が言いました
+        明日 みんなで一緒に木の上へ行きましょう
+    tags: *a1
+  - id: 735ea744-e342-491c-ad08-0c9b4f86dae2
+    start: 01:53.348
+    end: 02:00.328
+    fields:
+      transcription: |-
+        九個の太陽が言いました
+        そうだね みんなで一緒に遊びましょう
+    tags: *a1
+  - id: 5dcabdc4-0c61-4f17-a1c7-3c78d3ed99d1
+    start: 02:02.828
+    end: 02:07.968
+    fields:
+      transcription: 次の日 九個の太陽が昨日行きました
+    tags: *a1
+  - id: f89f1d1d-eee6-4998-8f13-819d8b2cf113
+    start: 02:09.395
+    end: 02:15.331
+    fields:
+      transcription: |-
+        その次の日も
+        十個の太陽が 昨日 上へ行きました
+    tags: *a1
+  - id: d64c4b38-9a25-4b48-bf62-273d2b0ee20a
+    start: 02:16.975
+    end: 02:23.075
+    fields:
+      transcription: |-
+        それから毎日
+        十個の太陽は木の上で遊びました
+    tags: *a1
+  - id: 8a6e1a31-6031-4eb1-8a49-c1f4ef553252
+    start: 02:25.955
+    end: 02:35.079
+    fields:
+      transcription: |-
+        毎日 空に十個の太陽があります
+        とても暑いです
+        雨も降りません
+    tags:
+      - jgr2-3-2
+  - id: 7be3f994-2e24-440c-9232-d5e1abcb76ec
+    start: 02:36.92
+    end: 02:39.32
+    fields:
+      transcription: 川には水もありません
+    tags: *a1
+  - id: 93c9b833-59af-4efa-b0dc-6d0f01f265d5
+    start: 02:40.72
+    end: 02:43.98
+    fields:
+      transcription: 山の木は一本もなくなりました
+    tags: *a1
+  - id: ac46e516-13f1-4d20-b6cf-0c0417649e19
+    start: 02:45.32
+    end: 02:47.94
+    fields:
+      transcription: 魚も動物も死にました
+    tags: *a1
+  - id: ce0bb02d-6c16-4887-9ff9-f2bb1ea7b89e
+    start: 02:49.8
+    end: 02:52.24
+    fields:
+      transcription: 野菜も果物もありません
+    tags: *a1
+  - id: 0ff4e93f-e0bd-4fea-8b10-00a3487f6e39
+    start: 02:53.46
+    end: 02:55.7
+    fields:
+      transcription: 人間たちは困りました
+    tags: *a1
+  - id: 45d229ad-ee5f-45cb-b190-38676c79021d
+    start: 02:58.88
+    end: 03:03.58
+    fields:
+      transcription: |-
+        一人の男の神様が
+        人間の国へ来ました
+    tags: *a1
+  - id: 1586e3be-e2e8-4307-bceb-3a349c39f43e
+    start: 03:05.051
+    end: 03:07.631
+    fields:
+      transcription: 名前はホウイです
+    tags: *a1
+  - id: 8a3e3180-f3ed-46f1-8846-55ee7f6de32c
+    start: 03:08.82
+    end: 03:11.44
+    fields:
+      transcription: ホウイは弓が上手でした
+    tags: *a1
+  - id: f732240c-5428-439d-9465-1f423afcf659
+    start: 03:12.94
+    end: 03:17.66
+    fields:
+      transcription: ホウイは弓と矢を持って 太陽に言いました
+    tags: *a1
+  - id: 6ca83049-573d-4a21-9b5c-44e6892646fb
+    start: 03:20.0
+    end: 03:21.82
+    fields:
+      transcription: 私はホウイだ
+    tags: *a1
+  - id: 203d4a16-3b9e-4ccc-9acf-ef065993db18
+    start: 03:22.74
+    end: 03:27.44
+    fields:
+      transcription: 私は神様の国で一番弓が上手だぞ
+    tags: *a1
+  - id: 25240d95-848b-448f-bb13-0f53816d3452
+    start: 03:28.66
+    end: 03:30.32
+    fields:
+      transcription: 早く下へ降りなさい
+    tags: *a1
+  - id: e7825487-5582-45ab-b222-daa4fa491801
+    start: 03:32.82
+    end: 03:35.54
+    fields:
+      transcription: でも太陽は降りてきません
+    tags: *a1
+  - id: adbf019c-34e0-4790-9b47-43dfb7c60deb
+    start: 03:36.76
+    end: 03:38.34
+    fields:
+      transcription: みんなで遊んでいます
+    tags: *a1
+  - id: bb0475fd-7860-4839-a462-d4d6801317a2
+    start: 03:40.26
+    end: 03:43.54
+    fields:
+      transcription: ホウイは一個の太陽を見ました
+    tags: *a1
+  - id: 06d61384-2597-4698-8241-acac41124bd0
+    start: 03:45.26
+    end: 03:46.76
+    fields:
+      transcription: 降りてこないな
+    tags: *a1
+  - id: 9fe1e7b5-0677-4839-968b-9df66427b155
+    start: 03:47.72
+    end: 03:51.96
+    fields:
+      transcription: じゃあ あの太陽からだ。えい！
+    tags: *a1
+  - id: 224792bb-76e3-437b-9d8b-13506b6be88c
+    start: 03:53.38
+    end: 03:57.16
+    fields:
+      transcription: ピューン！矢が飛んでいきました
+    tags: *a1
+  - id: c9385763-3239-48e9-8122-8b87bc0a1e06
+    start: 04:00.06
+    end: 04:05.467
+    fields:
+      transcription: キャ！太陽はカラスになって落ちました
+    tags:
+      - jgr2-3-2
+  - id: 0b30be99-a1f2-41e7-a776-2105f0a7fd63
+    start: 04:07.24
+    end: 04:12.76
+    fields:
+      transcription: ホウイはまた一本矢を持って隣の太陽を見ました
+    tags: *a1
+  - id: 931c517d-acac-4bc8-87a0-8bd1b2bccb30
+    start: 04:14.16
+    end: 04:17.4
+    fields:
+      transcription: 次はあれだ。えい！
+    tags: *a1
+  - id: 11a909de-a7f1-4008-bee8-8581d40e1e32
+    start: 04:21.54
+    end: 04:24.08
+    fields:
+      transcription: また、矢が飛んでいきました
+    tags: *a1
+  - id: 067b3a34-f71d-4c4a-b0c6-a09cd1375910
+    start: 04:29.24
+    end: 04:33.24
+    fields:
+      transcription: 九個の太陽がカラスになって落ちました
+    tags: *a1
+  - id: bdb368ea-ab53-473d-9fdc-ca85729240c6
+    start: 04:34.88
+    end: 04:37.74
+    fields:
+      transcription: 太陽は一個だけになりました
+    tags: *a1
+  - id: 1b690b37-cadd-406c-8f06-43122bce6b2b
+    start: 04:39.38
+    end: 04:43.62
+    fields:
+      transcription: |-
+        もう 暑くないです
+        雨も降りました
+    tags: *a1
+  - id: 0e88f71d-b9da-4709-9e8a-961324862ab6
+    start: 04:44.62
+    end: 04:47.52
+    fields:
+      transcription: 今川には水があります
+    tags: *a1
+  - id: c72a47c5-0f76-4997-b3a9-97b76afbeb4f
+    start: 04:48.4
+    end: 04:50.58
+    fields:
+      transcription: 山には木があります
+    tags: *a1
+  - id: 74de8e9e-d86a-42e0-994e-1a3853692c48
+    start: 04:51.92
+    end: 04:53.88
+    fields:
+      transcription: 魚も動物もいます
+    tags: *a1
+  - id: 52ffb0b2-d274-450c-8fad-7a77012ee9ec
+    start: 04:55.14
+    end: 04:57.3
+    fields:
+      transcription: 野菜も果物もあります
+    tags: *a1
+  - id: 6e4c7016-d534-4714-996a-3eb2cb4fb5d7
+    start: 04:59.04
+    end: 05:08.78
+    fields:
+      transcription: |-
+        人間たちは喜んでホウイに言いました
+        ホウイ様ありがとうございました
+    tags: *a1
+  - id: 34e475e5-87bf-447e-b175-11c281b32b13
+    start: 05:10.3
+    end: 05:13.92
+    fields:
+      transcription: ホウイは神様の国へ帰りました
+    tags: *a1
+  - id: d8a5f2ce-8d07-434b-9477-02019e4f94ed
+    start: 05:16.36
+    end: 05:21.28
+    fields:
+      transcription: |-
+        神様の国では
+        天帝がホウイを待っていました
+    tags: *a1
+  - id: 6b622982-7280-46f3-97a0-81af2b6ca189
+    start: 05:22.22
+    end: 05:30.54
+    fields:
+      transcription: |-
+        そして
+        ホウイに言いました
+        太陽は私の子供達だ
+    tags: *a1
+  - id: 47226add-ffae-49ff-be3e-f59e9197e825
+    start: 05:31.9
+    end: 05:36.62
+    fields:
+      transcription: お前は弓で私の子供達を
+    tags: *a1
+  - id: 80010d32-1e5b-4317-a30b-48a5de5db9a6
+    start: 05:38.6
+    end: 05:42.24
+    fields:
+      transcription: |-
+        私は
+        お前の顔を見たくない
+    tags: *a1
+  - id: 1b239bb1-debf-4938-92d5-9595540784b0
+    start: 05:43.78
+    end: 05:47.9
+    fields:
+      transcription: |-
+        ホウイ
+        人間の国へ行きなさい
+    tags: *a1
+  - id: e996c967-bdc8-4620-abb2-94b48f1b2c05
+    start: 05:49.42
+    end: 05:52.76
+    fields:
+      transcription: |-
+        お前は
+        もう神様ではない
+    tags: *a1
+  - id: 480718a2-0bc9-48a5-b7c5-be9f8c183d95
+    start: 05:54.4
+    end: 05:57.7
+    fields:
+      transcription: もうここへ帰ってきてはいけない
+    tags: *a1
+  - id: 549cc5a2-959b-4d06-b4b6-f192b6acde74
+    start: 06:00.563
+    end: 06:06.22
+    fields:
+      transcription: ホウイは奥さんのチャンアと一緒に人間の国へ行きました
+    tags: *a1
+  - id: d8766406-78ac-4d72-afe7-1d3be1570450
+    start: 06:08.194
+    end: 06:14.334
+    fields:
+      transcription: |-
+        神様の国では
+        みんないつまでも若くていつまでも死にません
+    tags: *a1
+  - id: 362ef0d0-d17f-4532-81fe-e9e774bced0d
+    start: 06:15.6
+    end: 06:27.071
+    fields:
+      transcription: |-
+        でも、ホウイとチャンアはもう神様ではありませんから
+        おじいさんとおばあさんになっていつかは死にます
+    tags:
+      - jgr2-3-2
+  - id: 486efcbe-1696-4384-b5d4-1ea927156407
+    start: 06:28.08
+    end: 06:30.72
+    fields:
+      transcription: ホウイはそれが嫌でした
+    tags: *a1
+  - id: a43f0533-8ccf-46c6-8530-9e3de35614e6
+    start: 06:32.6
+    end: 06:36.86
+    fields:
+      transcription: チャンアと いつまでも一緒に暮らしたいと思いました
+    tags: *a1
+  - id: 3d47bf6c-0dc8-4b6b-a2f7-978d0a9e5808
+    start: 06:39.62
+    end: 06:47.863
+    fields:
+      transcription: |-
+        ある日
+        ホウイは思いました
+        そうだ
+        クンルン山だ
+    tags: *a1
+  - id: 6b174bf1-76c8-4eaa-a181-c1ff65335c22
+    start: 06:49.6
+    end: 06:53.32
+    fields:
+      transcription: クンルン山は遠い西の方にあります
+    tags: *a1
+  - id: 1a258bba-3505-4539-9a4d-5f88b28e10c9
+    start: 06:54.26
+    end: 06:55.84
+    fields:
+      transcription: とても高い山です
+    tags: *a1
+  - id: 10c69be0-b89e-4a20-a689-ea08703bec9e
+    start: 06:57.54
+    end: 07:00.12
+    fields:
+      transcription: そこにはシーワンムがいます
+    tags: *a1
+  - id: e55bd9a1-d026-4f93-99a7-41bc1dddb48e
+    start: 07:01.5
+    end: 07:04.88
+    fields:
+      transcription: |-
+        シーワンムの庭には
+        桃の木があります
+    tags: *a1
+  - id: 8ace75be-991f-4233-b556-8bcd77ee40ea
+    start: 07:07.7
+    end: 07:14.4
+    fields:
+      transcription: |-
+        その桃を半分食べた人間は
+        いつまでも若くて
+        いつまでも死にません
+    tags: *a1
+  - id: ed9793b8-5bf1-4581-8c7f-371c9da8acac
+    start: 07:15.798
+    end: 07:25.102
+    fields:
+      transcription: |-
+        そしてその桃を一個全部食べた人間は空を飛んで
+        神様の国へ行くことができます
+    tags: *a1
+  - id: 9acee146-87f3-4cfd-a176-5b078506c4b1
+    start: 07:27.939
+    end: 07:32.299
+    fields:
+      transcription: ホウイはクンルン山へ行ってシーワンムに合いました
+    tags: *a1
+  - id: fdee8277-8d5a-41af-9d90-935f0d2a4a1f
+    start: 07:33.719
+    end: 07:42.299
+    fields:
+      transcription: |-
+        シーワンムは言いました
+        お前は
+        ホウイですね
+        よくここまで来ましたね
+    tags: *a1
+  - id: 9c3409da-252b-4d07-8923-82ece32d5ff5
+    start: 07:43.079
+    end: 07:48.419
+    fields:
+      transcription: |-
+        あなたの桃をください
+        私は死にたくないのです
+    tags: *a1
+  - id: 4607cc5b-d1b4-4ae5-99b4-174da29581e5
+    start: 07:50.019
+    end: 07:54.959
+    fields:
+      transcription: |-
+        私は
+        チャンアと
+        いつまでも一緒にいたいのです
+    tags: *a1
+  - id: 68707110-5092-42d3-be68-ae6aae25a351
+    start: 07:55.72
+    end: 08:03.36
+    fields:
+      transcription: |-
+        私の桃は三千年に一回だけできる大切な
+        桃ですよ
+    tags: *a1
+  - id: b77e1c05-94c9-4115-9f6a-4a15d55e9d4c
+    start: 08:03.7
+    end: 08:10.9
+    fields:
+      transcription: |-
+        でも 一個だけあげましょうチャンアと二人でこの桃
+        食べなさい
+    tags: *a1
+  - id: 4d9346d4-7887-4296-9a2d-39caf22ba9a4
+    start: 08:12.72
+    end: 08:16.98
+    fields:
+      transcription: ホウイはチャンア 夢からも もう一個もらいました
+    tags: *a1
+  - id: 1f92c83e-95ec-4da5-8ff5-798f7733a4b5
+    start: 08:18.16
+    end: 08:20.72
+    fields:
+      transcription: そして家へ帰りました
+    tags: *a1
+  - id: dffc41bb-75fe-4491-9ff0-8fb8e2faf3f0
+    start: 08:23.44
+    end: 08:28.42
+    fields:
+      transcription: |-
+        ただいま
+        チャンア、シーバムの桃をもらってきましたよ
+    tags:
+      - jgr2-3-2
+  - id: d2ac24a5-0c4b-4834-be97-410c136c12ab
+    start: 08:29.84
+    end: 08:34.08
+    fields:
+      transcription: これを二人で食べていつまでも一緒に暮らしましょう
+    tags: *a1
+  - id: a4832691-70c5-4bbe-a9c1-289040cdffcb
+    start: 08:36.3
+    end: 08:39.36
+    fields:
+      transcription: |-
+        でも
+        家の中は静かです
+    tags: *a1
+  - id: 06722cae-0b72-47ea-8f57-12b022691378
+    start: 08:41.34
+    end: 08:44.1
+    fields:
+      transcription: |-
+        あれ
+        チャンアがいない
+    tags: *a1
+  - id: bc343dea-5806-4dd2-ac42-48a5d029b441
+    start: 08:46.52
+    end: 08:52.52
+    fields:
+      transcription: |-
+        チャンアは その時隣の部屋にいましたが
+        部屋から出ませんでした
+    tags: *a1
+  - id: 4c24f6d4-d789-453e-9757-9b77a0471f4f
+    start: 08:54.93
+    end: 08:58.35
+    fields:
+      transcription: ホウイは桃を箱の中に入れました
+    tags: *a1
+  - id: 9b198f72-a3d0-4375-b2e7-e415f48150bb
+    start: 09:00.22
+    end: 09:02.56
+    fields:
+      transcription: 後でチャイナと食べましょう
+    tags: *a1
+  - id: 6ec8ad9e-8a9d-4d7c-842e-8cdef32eae5e
+    start: 09:05.0
+    end: 09:09.56
+    fields:
+      transcription: |-
+        チャンア
+        チャンア
+        どこにいるんだ
+    tags: *a1
+  - id: f337c161-69c7-456f-ba66-3451197a2af4
+    start: 09:11.92
+    end: 09:15.6
+    fields:
+      transcription: ホウイはそう言いながら外へ出て行きました
+    tags: *a1
+  - id: 501cbcc3-99a9-4bc6-bb89-fdae2c247485
+    start: 09:18.38
+    end: 09:19.6
+    fields:
+      transcription: 夜になりました
+    tags: *a1
+  - id: 94a1a784-5344-417c-81b9-4421e7f8731a
+    start: 09:21.3
+    end: 09:23.64
+    fields:
+      transcription: ホウイはまだ帰ってきません
+    tags: *a1
+  - id: dbd388e9-3c44-4b7c-9950-292d622d41a4
+    start: 09:25.3
+    end: 09:29.18
+    fields:
+      transcription: |-
+        チャンアは
+        箱の中から桃を出しました
+    tags: *a1
+  - id: 633f875b-61c9-4c3f-b731-0ca5d37848ca
+    start: 09:30.6
+    end: 09:37.26
+    fields:
+      transcription: |-
+        チャンアは言いました
+        私は人間の国が嫌いです
+    tags: *a1
+  - id: 4e51f80c-f46d-478f-a5ce-0c9bfff4ade2
+    start: 09:37.84
+    end: 09:42.34
+    fields:
+      transcription: ここにはきれいな服もおいしい食べ物もありません
+    tags: *a1
+  - id: 2c88772a-cdaf-4667-889b-2517c7d68333
+    start: 09:43.32
+    end: 09:47.22
+    fields:
+      transcription: ホウイと一緒でもこの国にいるのは嫌です
+    tags: *a1
+  - id: f9a0752f-a83f-4233-afb9-bbd49767c4eb
+    start: 09:48.12
+    end: 09:53.94
+    fields:
+      transcription: 私は一人で桃を全部食べて 神様の国へ帰りたい
+    tags: *a1
+  - id: d981fd6b-1493-4439-8336-b1e8739cce08
+    start: 09:56.92
+    end: 10:00.66
+    fields:
+      transcription: チャンアは桃を一人で全部食べました
+    tags: *a1
+  - id: e3e28e6b-f67e-46fc-b864-912ff46c5a4f
+    start: 10:01.94
+    end: 10:10.98
+    fields:
+      transcription: |-
+        すると チャンアの体は軽くなって空へ上って行きました
+        ゆっくり上って行きました
+    tags: *a1
+  - id: 6e585114-48a4-436b-a4d4-112f2b145d3e
+    start: 10:12.84
+    end: 10:16.78
+    fields:
+      transcription: でもチャンアはだんだん心配になりました
+    tags: *a1
+  - id: 4dc1512a-d494-429c-bced-97a68773c3cb
+    start: 10:17.8
+    end: 10:22.18
+    fields:
+      transcription: 天帝は私を神様の国へ 入れないでしょ
+    tags: *a1
+  - id: 09de638b-a8e6-4cbf-b492-4ded0d9ed00e
+    start: 10:25.08
+    end: 10:28.38
+    fields:
+      transcription: 空にはきれいな月が出ていました
+    tags: *a1
+  - id: 348c12fe-5808-48d1-ba39-cef099376b40
+    start: 10:29.66
+    end: 10:31.08
+    fields:
+      transcription: きれいな月
+    tags: *a1
+  - id: 3ca42459-ef06-4c98-8b3f-31d5c50e6816
+    start: 10:32.142
+    end: 10:37.482
+    fields:
+      transcription: そうだ月がいい。あのきれいな月へ行きましょう
+    tags: *a1
+  - id: cd5461fd-6333-40bb-ab01-bc41e3dc7f27
+    start: 10:38.783
+    end: 10:41.623
+    fields:
+      transcription: チャンアは月へ飛んでいきました
+    tags: *a1
+  - id: b7ef12f6-ed0b-4952-b7d9-26c0d31b7cb4
+    start: 10:44.463
+    end: 10:47.703
+    fields:
+      transcription: |-
+        今も
+        チャンアは月にいます
+    tags: *a1
 ---
 name: JGR 2-3-3 gonkitsune.mp3
 format: mp3
 duration: 11:31.775
 id: 7547cb4e-9b2d-471b-92e1-f61ce458aa0f
-subtitles:
-  - id: e9987eab-5265-4684-a41b-b71571159f0d
-    type: External
-    chunksMetadata:
-      count: 225
-      endCue: 34406.35
-    name: JGR 2-3-3 gonkitsune.srt
-flashcardFieldsToSubtitlesTracks:
-  transcription: e9987eab-5265-4684-a41b-b71571159f0d
+clips:
+  - id: 5051f645-d92a-450c-b040-e0726c8ebef4
+    start: 00:19.5
+    end: 00:22.08
+    fields:
+      transcription: ごんは子供の狐です
+    tags:
+      &a1
+      - JGR_2-3-3_gonkitsune.mp3
+  - id: 6ab89adc-f011-4d35-a823-3439b527bea5
+    start: 00:23.18
+    end: 00:24.86
+    fields:
+      transcription: 山の中に住んでいます
+    tags: *a1
+  - id: 7885cce8-e1e8-4bae-8e2b-d3b6f7341ea7
+    start: 00:26.624
+    end: 00:28.928
+    fields:
+      transcription: お父さんもお母さんもいません
+    tags: *a1
+  - id: 9db6acf6-8387-4191-a8aa-b754cd59f245
+    start: 00:30.84
+    end: 00:34.96
+    fields:
+      transcription: |-
+        ごんは
+        時々村へ行っていたずらをします
+    tags: *a1
+  - id: 1ea621d2-2875-4a55-80ca-2549e891cee5
+    start: 00:36.667
+    end: 00:43.471
+    fields:
+      transcription: |-
+        畑に入って野菜を取ったり
+        家の中に入って果物を取ったりします
+    tags: *a1
+  - id: 79629d74-6d44-4898-88ca-f5a2a243cf06
+    start: 00:45.12
+    end: 00:49.06
+    fields:
+      transcription: 村の人はそのいたずらを見て怒ります
+    tags: *a1
+  - id: 9226caaf-b88d-490f-90a5-1ffab8ccdc1c
+    start: 00:50.42
+    end: 00:53.14
+    fields:
+      transcription: |-
+        ごんは
+        それが面白いのです
+    tags: *a1
+  - id: e6d153cb-96f4-48ed-a916-6dbcb0203f11
+    start: 00:56.02
+    end: 00:58.22
+    fields:
+      transcription: ある秋のことです。
+    tags: *a1
+  - id: fe47884c-372d-48e4-b157-de670db5e8cc
+    start: 00:59.54
+    end: 01:01.94
+    fields:
+      transcription: 昨日もおとといも雨でした
+    tags: *a1
+  - id: 501eb8ea-8d2d-41b7-b1a1-2477e3a95d95
+    start: 01:02.94
+    end: 01:06.86
+    fields:
+      transcription: |-
+        ごんは
+        どこへも行くことができませんでした
+    tags: *a1
+  - id: 70ed264a-4af4-4ac1-a35a-a8924d4d49e5
+    start: 01:08.66
+    end: 01:11.44
+    fields:
+      transcription: 今日はいい天気です
+    tags: *a1
+  - id: 0cc5fdf9-8a49-4ad5-8992-46b39f6c0547
+    start: 01:12.86
+    end: 01:14.4
+    fields:
+      transcription: ごんは思いました
+    tags: *a1
+  - id: 764f37d3-6347-4fa5-8331-9ad15d513939
+    start: 01:15.48
+    end: 01:18.74
+    fields:
+      transcription: 良かった 今日は散歩ができるぞ
+    tags: *a1
+  - id: bd861e6e-553a-4765-8dd5-81542cc9bf7e
+    start: 01:21.0
+    end: 01:24.24
+    fields:
+      transcription: ごんは川の方へ歩いて行きました
+    tags: *a1
+  - id: 46cfce51-460d-4ba1-a337-9907c714f284
+    start: 01:25.6
+    end: 01:27.42
+    fields:
+      transcription: 川の中に誰かいます
+    tags: *a1
+  - id: aeb06283-1fc7-413b-b242-dfbebe706882
+    start: 01:28.88
+    end: 01:31.5
+    fields:
+      transcription: 古くて汚い 着物を着ています
+    tags: *a1
+  - id: b798bc5a-d979-4dff-9e63-1cf6b3d21da9
+    start: 01:33.16
+    end: 01:35.32
+    fields:
+      transcription: あれは 兵十だ
+    tags: *a1
+  - id: 07952b82-ead1-4c9a-8f20-b683853cda2f
+    start: 01:35.9
+    end: 01:37.58
+    fields:
+      transcription: 何をしているんだろう
+    tags: *a1
+  - id: 7121565c-a885-48a3-a2d4-884355883e50
+    start: 01:38.94
+    end: 01:43.86
+    fields:
+      transcription: |-
+        ごんは
+        兵十の近くへ 静かに歩いて行きました
+    tags: *a1
+  - id: 35b430f1-9b6c-4131-b87a-faff1aee0d7a
+    start: 01:45.64
+    end: 01:49.62
+    fields:
+      transcription: |-
+        兵十は
+        川の中で魚を取っていました
+    tags: *a1
+  - id: 3cba1db5-a811-4f61-9407-fd008ff0cc04
+    start: 01:52.0
+    end: 01:57.76
+    fields:
+      transcription: |-
+        兵十は
+        取った魚を入れ物に入れて
+        木下に置きました
+    tags: *a1
+  - id: 3eebc1bf-2f33-4b60-8794-c9451792295c
+    start: 01:59.1
+    end: 02:04.18
+    fields:
+      transcription: |-
+        そしてまた魚を取りに
+        川の中に入って行きました
+    tags: *a1
+  - id: 67f913ad-2894-432b-9cb2-8fb68c8a2262
+    start: 02:06.7
+    end: 02:11.08
+    fields:
+      transcription: |-
+        ごんは
+        木の後ろから
+        入れ物の中を見ました
+    tags: *a1
+  - id: 39ed8151-7a76-4b92-9f30-8fa572adbe03
+    start: 02:12.28
+    end: 02:15.5
+    fields:
+      transcription: |-
+        中には
+        魚がたくさんいます
+    tags: *a1
+  - id: 3d286c3d-c518-4d42-baaa-90dfca2b3541
+    start: 02:16.92
+    end: 02:19.6
+    fields:
+      transcription: |-
+        ごんは
+        いたずらがしたくなりました
+    tags: *a1
+  - id: 7d2d5480-eda9-458b-94a2-65a2ded30b0d
+    start: 02:21.3
+    end: 02:29.78
+    fields:
+      transcription: |-
+        ごんは
+        入れ物の中の魚を手で取って
+        一匹
+        一匹
+        川の中へ投げました
+    tags: *a1
+  - id: c53d14e2-6957-4d53-b6c9-b07701c8b110
+    start: 02:31.28
+    end: 02:37.92
+    fields:
+      transcription: |-
+        ドボン
+        ドボン
+        ドボン
+        ドボン
+    tags: *a1
+  - id: 05f3005c-cd69-483e-b279-c1f15ccba22a
+    start: 02:40.62
+    end: 02:44.66
+    fields:
+      transcription: |-
+        入れ物の中は
+        もう長い うなぎ だけです
+    tags: *a1
+  - id: 2d36d9d2-d923-483e-8ff5-19bd339d66fa
+    start: 02:45.607
+    end: 02:50.087
+    fields:
+      transcription: でもごんは うなぎを手で取ることができませんでした
+    tags: *a1
+  - id: 2d22a364-ddba-478d-b29c-700fbe76df8d
+    start: 02:51.26
+    end: 02:56.22
+    fields:
+      transcription: |-
+        だから
+        入れ物の中に頭を入れて口で取りました
+    tags: *a1
+  - id: 9f3342b7-c8f3-4a0a-8f6d-9dee6c9aacd4
+    start: 02:57.38
+    end: 03:03.48
+    fields:
+      transcription: |-
+        その時 兵十が大きな声で言いました
+        泥棒
+    tags: *a1
+  - id: 7c04bfee-6752-4a33-904b-413409252571
+    start: 03:05.38
+    end: 03:09.34
+    fields:
+      transcription: |-
+        子がびっくりして
+        山の方へ走って行きました
+    tags: *a1
+  - id: af6ba60b-0d6f-45c4-9198-11317806cf5d
+    start: 03:12.28
+    end: 03:17.88
+    fields:
+      transcription: |-
+        本は家に着くと
+        うなぎを家の外に置いて言いました
+    tags: *a1
+  - id: 782801a0-1bdb-453a-9827-7b3f93fe011d
+    start: 03:18.607
+    end: 03:23.147
+    fields:
+      transcription: びっくりした でも面白かった
+    tags: *a1
+  - id: 6d9a6723-be6d-4c97-b688-c3d6c6a0d409
+    start: 03:28.48
+    end: 03:31.36
+    fields:
+      transcription: それから十日ぐらい後のことです
+    tags: *a1
+  - id: 7e54f171-921d-44c0-931c-d04f5ba5b1da
+    start: 03:32.54
+    end: 03:35.2
+    fields:
+      transcription: ごんは 村を散歩していました
+    tags: *a1
+  - id: b3a898f7-e5a0-49ae-94b5-80049e0bd098
+    start: 03:36.8
+    end: 03:40.62
+    fields:
+      transcription: |-
+        兵十の家の前に来ると
+        人がたくさんいます
+    tags: *a1
+  - id: 9fcd6ef9-da90-4e8d-aa71-5685faca27dc
+    start: 03:41.66
+    end: 03:44.8
+    fields:
+      transcription: |-
+        なんだろう
+        何があるんだろう
+    tags: *a1
+  - id: 0ade5067-c051-4509-a5a3-a1253af9bce7
+    start: 03:46.12
+    end: 03:52.0
+    fields:
+      transcription: |-
+        女の人たちが
+        いつもより良い着物を着て
+        忙しく働いています
+    tags: *a1
+  - id: c3b020a0-c82b-49a2-9f2b-063cf03a98ff
+    start: 03:52.88
+    end: 03:55.34
+    fields:
+      transcription: お葬式だ
+    tags: *a1
+  - id: 8df634a0-d8b3-4815-969e-f758700410a3
+    start: 03:55.9
+    end: 03:57.94
+    fields:
+      transcription: 誰かが死んだんだな
+    tags: *a1
+  - id: 7f23012e-6a10-45a3-b64c-7c7eef28cd7f
+    start: 03:58.403
+    end: 04:00.563
+    fields:
+      transcription: どれが死んだんだろう
+    tags: *a1
+  - id: bc39dea1-1a90-47d2-b0ac-f4be4d14b4b7
+    start: 04:02.92
+    end: 04:07.46
+    fields:
+      transcription: |-
+        ごんが 見ていると
+        みんなが家から出てきました
+    tags:
+      - JGR_2-3-3_gonkitsune.mp3
+  - id: 62002f6a-1c81-4968-9d21-0891db9ed412
+    start: 04:08.66
+    end: 04:11.08
+    fields:
+      transcription: 白い着物を着た兵十がいます
+    tags: *a1
+  - id: 5bbb43c1-ca3f-4d93-9d7d-a23fd2feed45
+    start: 04:12.52
+    end: 04:19.4
+    fields:
+      transcription: |-
+        いつもは元気な兵十が
+        今日は悲しい顔で下を見て歩いています
+    tags: *a1
+  - id: a0424b83-19d4-43cc-b48b-94a40cc989c8
+    start: 04:20.48
+    end: 04:24.86
+    fields:
+      transcription: |-
+        あ
+        兵十のお母さんが死んだんだ
+    tags: *a1
+  - id: aab4cc02-8168-4c2b-8c72-3d5d714380e3
+    start: 04:27.86
+    end: 04:30.24
+    fields:
+      transcription: |-
+        ごんが
+        家へ帰りました
+    tags: *a1
+  - id: da37179a-2bf3-460a-a320-e06d8f6c43b3
+    start: 04:30.98
+    end: 04:37.98
+    fields:
+      transcription: |-
+        そして
+        思いました
+        兵十のお母さんは
+        病気だったんだ
+    tags: *a1
+  - id: 0adafcf1-90bb-4fd9-8d63-0aa7a14a9c6c
+    start: 04:38.72
+    end: 04:44.48
+    fields:
+      transcription: |-
+        あの日
+        兵十は
+        お母さんにあげる魚を取っていたんだ
+    tags: *a1
+  - id: 6df2d8c8-7a31-43dc-944b-29a8292f9af0
+    start: 04:45.08
+    end: 04:47.66
+    fields:
+      transcription: その魚を 俺は
+    tags: *a1
+  - id: f7df53dd-d489-4166-9033-ab3c2e55c4e7
+    start: 04:48.26
+    end: 04:53.08
+    fields:
+      transcription: お母さんは うなぎが食べたいと思いながら死んだんだ
+    tags: *a1
+  - id: d00fb465-91f3-4da3-b551-416bda39e422
+    start: 04:53.943
+    end: 04:59.68
+    fields:
+      transcription: |-
+        ああ、あんな いたずらをして
+        悪かったなあ…
+    tags: *a1
+  - id: 5b7b7960-4df3-466b-8451-b73e875e266d
+    start: 05:05.24
+    end: 05:09.76
+    fields:
+      transcription: |-
+        次の日
+        ごんは
+        兵十の家行きました
+    tags: *a1
+  - id: 66aa43a0-b39e-485f-a60b-d247a4bbaa18
+    start: 05:11.54
+    end: 05:19.16
+    fields:
+      transcription: |-
+        遠くからひょうじゅうの家の方を見ると
+        兵十が
+        井戸のところで野菜を洗っていました
+    tags: *a1
+  - id: abee8a12-f83d-4b64-bcb5-44f7ccb14d41
+    start: 05:21.12
+    end: 05:25.68
+    fields:
+      transcription: |-
+        兵十は
+        今まで お母さんと二人で暮らしていました
+    tags: *a1
+  - id: 0b99355e-069c-42e7-9651-b68d59cc4a0b
+    start: 05:27.0
+    end: 05:30.7
+    fields:
+      transcription: お母さんはもういません
+    tags: *a1
+  - id: 95cc2d31-92c0-47b0-8e9d-b4a73d3cd135
+    start: 05:32.18
+    end: 05:39.043
+    fields:
+      transcription: |-
+        ごんは思いました
+        俺と同じだ
+        兵十も一人だ
+    tags: *a1
+  - id: 4c39c64a-d13f-4ead-ae70-72d8e4028d7c
+    start: 05:41.36
+    end: 05:52.94
+    fields:
+      transcription: |-
+        その時
+        どこかで魚を売る 声が聞こえました
+        さかなー、さかなー。おいしいよ、安いよ！
+    tags: *a1
+  - id: 4f59aee9-1501-47d2-a32a-fc136b505638
+    start: 05:55.76
+    end: 06:00.88
+    fields:
+      transcription: |-
+        近くの家の 誰かが
+        魚をください
+        と言いました
+    tags: *a1
+  - id: aab78f0c-3214-4969-ae1a-4d48b87bd24f
+    start: 06:02.54
+    end: 06:07.06
+    fields:
+      transcription: |-
+        魚売りの男は
+        魚の入れ物を道に置きました
+    tags: *a1
+  - id: 148e67dc-3fa5-4969-aa88-d13dab16500c
+    start: 06:08.031
+    end: 06:12.491
+    fields:
+      transcription: |-
+        そして
+        魚を持って
+        その家へ入って行きました
+    tags: *a1
+  - id: 377d3391-e8dd-46ff-98a4-a2133d88fece
+    start: 06:14.971
+    end: 06:21.551
+    fields:
+      transcription: |-
+        ごんは
+        入れ物から魚を五、六匹とって兵十の家の方へ走りました
+    tags: *a1
+  - id: dbbc444e-36ed-409b-920a-c99558059705
+    start: 06:22.719
+    end: 06:26.815
+    fields:
+      transcription: そして兵十の家の中へ 魚を投げました
+    tags: *a1
+  - id: 7f4fab28-b728-4b75-92d7-1373b75efff6
+    start: 06:28.351
+    end: 06:32.959
+    fields:
+      transcription: それから 自分の家のある山の方へ走りました
+    tags: *a1
+  - id: 9bc48311-cdc5-4a85-bd58-5b463731d5df
+    start: 06:35.46
+    end: 06:43.04
+    fields:
+      transcription: |-
+        少し走ってから後ろを見ると
+        兵十はまだ 井戸のところで野菜を洗っていました
+    tags: *a1
+  - id: 4b20b6c3-9660-4203-a303-f6558c645943
+    start: 06:44.52
+    end: 06:47.9
+    fields:
+      transcription: |-
+        ごんは
+        いいことをしたと思いました
+    tags: *a1
+  - id: 1813bec5-6a0b-4932-8ec2-aae823ffbbe6
+    start: 06:50.675
+    end: 07:00.055
+    fields:
+      transcription: |-
+        次の日
+        ごんは
+        山で栗や茸をたくさんとって
+        それを持って 兵十の家行きました
+    tags: *a1
+  - id: 85197401-19b8-44a5-aa34-b58a4730b83c
+    start: 07:01.955
+    end: 07:06.675
+    fields:
+      transcription: 家の中を見ると兵十は 昼ご飯を食べていました
+    tags: *a1
+  - id: 7f604e28-0b62-4bc2-b12c-7a232fa70c64
+    start: 07:07.755
+    end: 07:11.675
+    fields:
+      transcription: よく見ると兵十の顔に傷があります
+    tags: *a1
+  - id: 922d6d6b-4921-43c0-9e3d-55326771037d
+    start: 07:12.795
+    end: 07:16.655
+    fields:
+      transcription: |-
+        ごんは
+        どうしたんだろう
+        と思いました
+    tags: *a1
+  - id: 1df1000c-ff42-4bd3-980c-dcdebd07bd6b
+    start: 07:17.78
+    end: 07:26.48
+    fields:
+      transcription: |-
+        すると 兵十が言いました
+        昨日は誰が家の中に魚を置いたんだろう
+    tags: *a1
+  - id: b527aec2-dd57-4cae-b3d6-3c1c71280a7e
+    start: 07:27.28
+    end: 07:34.42
+    fields:
+      transcription: |-
+        魚売りが
+        俺を泥棒だと言って殴った
+        ああ、痛い！
+    tags: *a1
+  - id: 9f7b1886-dca4-4370-a29f-ec383f1a46a5
+    start: 07:36.06
+    end: 07:39.24
+    fields:
+      transcription: |-
+        後はこれを聞いて
+        びっくりしました
+    tags: *a1
+  - id: 3f1b8cc1-6c78-46c3-8685-01ac137a2334
+    start: 07:39.72
+    end: 07:46.88
+    fields:
+      transcription: |-
+        魚売りは兵十が魚をとったと思ったんだな
+        ごめん 兵十
+    tags: *a1
+  - id: 700d7874-6107-4a5b-9f79-9f8a9ae623f5
+    start: 07:48.56
+    end: 07:54.14
+    fields:
+      transcription: |-
+        ごんは
+        兵十の家の前に
+        栗や茸を置いて帰りました
+    tags:
+      - JGR_2-3-3_gonkitsune.mp3
+  - id: 62bd0b18-9565-4540-ad8c-9607bb40248c
+    start: 07:56.48
+    end: 08:04.72
+    fields:
+      transcription: |-
+        次の日も
+        その次の日も
+        後は
+        兵十の家に
+        栗や茸を持って行きました
+    tags: *a1
+  - id: d516b1ec-321d-4ef3-8d23-072d72b894eb
+    start: 08:10.32
+    end: 08:12.28
+    fields:
+      transcription: 月のきれいな夜でした
+    tags: *a1
+  - id: 0f3dc3ba-682f-4313-a21d-63b879b371bf
+    start: 08:13.58
+    end: 08:16.48
+    fields:
+      transcription: |-
+        ごんは
+        外へ遊びに行きました
+    tags: *a1
+  - id: 483493c0-2adb-44b5-9d9a-aaf17a5c8bbb
+    start: 08:18.3
+    end: 08:22.02
+    fields:
+      transcription: |-
+        歩いていると
+        誰かが話す声が聞こえます
+    tags: *a1
+  - id: 2cb568c4-63e5-45e3-b37c-35373ef2cc70
+    start: 08:23.98
+    end: 08:27.44
+    fields:
+      transcription: |-
+        ごんは
+        木の後ろで少し待っていました
+    tags: *a1
+  - id: c13b3407-35d9-4108-806e-284217579114
+    start: 08:29.1
+    end: 08:31.42
+    fields:
+      transcription: 声はだんだん近くなりました
+    tags: *a1
+  - id: 9786e259-b78e-4858-b588-dce44eeee99c
+    start: 08:32.9
+    end: 08:36.74
+    fields:
+      transcription: |-
+        それは
+        兵十とその友達の声でした
+    tags: *a1
+  - id: 1cd00e02-5fc3-4f5b-955d-14cc561fe6eb
+    start: 08:38.48
+    end: 08:49.6
+    fields:
+      transcription: |-
+        兵十が言いました
+        母さんが死んでから毎日 家の前に
+        栗や菌があるんだ
+        誰が置くんだろう
+    tags: *a1
+  - id: c9d0e15b-e0db-42b7-8433-2ef739bf5f42
+    start: 08:51.18
+    end: 08:55.84
+    fields:
+      transcription: |-
+        友達が言いました
+        へえ、毎日か？
+    tags: *a1
+  - id: 6524920f-5526-4ec9-b025-189d4a39057f
+    start: 08:57.74
+    end: 08:59.48
+    fields:
+      transcription: うん、毎日だ
+    tags: *a1
+  - id: 97f1b070-3d94-4cd0-b3b3-f78f3f58d872
+    start: 09:01.22
+    end: 09:09.48
+    fields:
+      transcription: |-
+        それは
+        村の人じゃないと思うよ
+        神様だよ
+        神様がしているんだよ
+    tags: *a1
+  - id: 2c5d950d-bde8-43a2-a2bb-89d8dd4c9ec5
+    start: 09:10.043
+    end: 09:12.443
+    fields:
+      transcription: え？そうかなあ。
+    tags: *a1
+  - id: 7f2d2cdb-a537-47fb-93f6-28c42cf40d5d
+    start: 09:13.88
+    end: 09:18.64
+    fields:
+      transcription: |-
+        お前が一人になったから
+        神様が食べ物を持ってくるんだよ
+    tags: *a1
+  - id: 45a5d63f-a258-432e-b834-c116062fb382
+    start: 09:20.14
+    end: 09:28.58
+    fields:
+      transcription: |-
+        そうか…。
+        じゃあ
+        毎日 神様にありがとうと言わなければならないな
+    tags: *a1
+  - id: 9bddccd3-5882-4fa3-a254-d42ce31c96df
+    start: 09:30.8
+    end: 09:38.26
+    fields:
+      transcription: |-
+        ごんはこれを聞いて思いました
+        俺にありがとうと言わないで神様に言うのか
+    tags: *a1
+  - id: 7570fee6-dca9-474d-8e15-cbc22382a31c
+    start: 09:38.7
+    end: 09:40.62
+    fields:
+      transcription: ちょっと嫌だな
+    tags: *a1
+  - id: ce7df605-0272-4418-b407-33d5a4a00e31
+    start: 09:45.72
+    end: 09:52.02
+    fields:
+      transcription: |-
+        次の日も
+        ごんが栗や茸を持って 兵十の家へ行きました
+    tags: *a1
+  - id: 839413cd-82ee-4d5a-ae3e-33f2edef6126
+    start: 09:53.4
+    end: 09:57.3
+    fields:
+      transcription: |-
+        兵十は
+        庭の小屋で家具を作っていました
+    tags: *a1
+  - id: 14b2e0a8-7e3f-4d73-8864-3ed23be52ad9
+    start: 09:59.04
+    end: 10:02.56
+    fields:
+      transcription: |-
+        ごんは
+        家の中で静かに入りました
+    tags: *a1
+  - id: d92bfeeb-ca3f-41fc-8bec-2221daed1e3b
+    start: 10:03.52
+    end: 10:07.24
+    fields:
+      transcription: |-
+        その時
+        兵十が顔をあげました
+    tags: *a1
+  - id: 5575122a-99cc-40c9-8a43-e571af9e8806
+    start: 10:08.62
+    end: 10:13.48
+    fields:
+      transcription: |-
+        あれは
+        うなぎのとったきつねだな
+    tags: *a1
+  - id: d88ffdf7-0795-47d7-af1d-1fcf4ab31d09
+    start: 10:14.44
+    end: 10:16.86
+    fields:
+      transcription: また いたずらをしに来たんだな
+    tags: *a1
+  - id: f6ccec1f-ed8e-49fd-884c-2783806e59e5
+    start: 10:18.96
+    end: 10:23.64
+    fields:
+      transcription: 兵十は鉄砲を取って 家の入り口の方へ行きました
+    tags: *a1
+  - id: f78195fa-a1a1-4a45-b7b2-fef75ac002e0
+    start: 10:24.4
+    end: 10:30.26
+    fields:
+      transcription: |-
+        そして
+        出てきたごんを鉄砲で
+        ドンとうちました
+    tags: *a1
+  - id: 066c4822-6f99-4d18-9097-15ff3524b81f
+    start: 10:33.16
+    end: 10:36.08
+    fields:
+      transcription: |-
+        ごんは
+        ばったりと倒れました
+    tags: *a1
+  - id: 13387742-0c96-43f8-be24-b49d650e1751
+    start: 10:37.98
+    end: 10:40.28
+    fields:
+      transcription: 兵十ワごんの側へ行きました
+    tags: *a1
+  - id: e51097c9-9488-479a-ac16-68c7ee6b0f6c
+    start: 10:42.282
+    end: 10:46.702
+    fields:
+      transcription: |-
+        家の中を見ると
+        栗や茸がありました
+    tags: *a1
+  - id: b5b67a22-4d9d-4610-a838-d4fc4441b0e2
+    start: 10:48.2
+    end: 10:49.02
+    fields:
+      transcription: おや？
+    tags: *a1
+  - id: 51c631a3-dc80-496e-9bcd-0bb90d1a9226
+    start: 10:50.22
+    end: 10:53.68
+    fields:
+      transcription: |-
+        兵十はびっくりして
+        ごんを見ました
+    tags: *a1
+  - id: 0c0df396-9cbc-41e0-a348-6eea8045db64
+    start: 10:54.84
+    end: 10:56.14
+    fields:
+      transcription: そして言いました
+    tags: *a1
+  - id: 6da975f7-42e1-407a-abab-65d6a57a5bee
+    start: 10:58.36
+    end: 11:00.52
+    fields:
+      transcription: お前だったのか
+    tags: *a1
+  - id: 66ba58d4-52c9-43d1-840c-e2c0cfa4e6ec
+    start: 11:01.44
+    end: 11:06.0
+    fields:
+      transcription: |-
+        お前は
+        栗や茸をくれたのか
+    tags: *a1
+  - id: feccfe46-ce3b-4a1b-9385-9c90dcb8af0f
+    start: 11:08.24
+    end: 11:14.12
+    fields:
+      transcription: |-
+        金はその時
+        少しだけ目を開けて
+        兵十を見ました
+    tags: *a1
+  - id: a1540eb1-09da-4743-894f-723fa9457315
+    start: 11:17.043
+    end: 11:20.283
+    fields:
+      transcription: |-
+        兵十は
+        鉄砲を落としました
+    tags: *a1
+  - id: fd99ea4f-9af6-4e89-94b3-ec9185252348
+    start: 11:22.163
+    end: 11:28.303
+    fields:
+      transcription: |-
+        鉄砲からは
+        青い煙が
+        まだ 細く出ていました
+    tags: *a1
 ---
 name: JGR 2-3-4 soopii no fuyu no ie.mp3
 format: mp3
 duration: 11:58.942
 id: b4119e57-282c-412c-85a7-1daa0d8e03f4
+clips:
+  - id: 15ec65a7-5fb2-41a7-91e9-ee97a15b66df
+    start: 00:15.04
+    end: 00:17.38
+    fields:
+      transcription: |-
+        ここは、
+        ニューヨークです。
+    tags:
+      &a1
+      - JGR_2-3-4_soopii_no_fuyu_no_ie.mp3
+  - id: 27ed615d-91cc-4693-972e-3890f3704373
+    start: 00:18.46
+    end: 00:23.26
+    fields:
+      transcription: |-
+        ある公園のベンチに、
+        男が一人座っています。
+    tags: *a1
+  - id: a7a37082-dab2-4241-8d91-4561a2d7b750
+    start: 00:24.18
+    end: 00:27.28
+    fields:
+      transcription: |-
+        男の名前は、
+        ソーピーです。
+    tags: *a1
+  - id: c41bb162-46aa-498e-b030-9a8a7e912b4a
+    start: 00:28.36
+    end: 00:31.24
+    fields:
+      transcription: ソーピーは、仕事をしていません。
+    tags: *a1
+  - id: 6a95323e-c070-45a1-a59f-40a4228ffce3
+    start: 00:32.16
+    end: 00:35.12
+    fields:
+      transcription: ソーピーには家がありません。
+    tags: *a1
+  - id: 9e329d9b-f507-4b3c-8786-20bb3750fcd9
+    start: 00:36.84
+    end: 00:39.68
+    fields:
+      transcription: この公園に住んでいるのです。
+    tags: *a1
+  - id: 0077dcc7-61f5-44a7-abb0-99f1ed1c01b9
+    start: 00:42.44
+    end: 00:43.84
+    fields:
+      transcription: 十二月です。
+    tags: *a1
+  - id: bdfb3186-68ef-4d24-9495-2c22dfc43d0a
+    start: 00:45.28
+    end: 00:48.04
+    fields:
+      transcription: |-
+        ソーピーは、
+        空を見ていました。
+    tags: *a1
+  - id: a6d4071b-c0ab-48af-b97c-c40dca9783bc
+    start: 00:49.46
+    end: 00:53.46
+    fields:
+      transcription: |-
+        空は暗くて、
+        冷たい風が吹いています。
+    tags: *a1
+  - id: 8321746f-07ca-4c05-b668-94f4c502e22f
+    start: 00:54.66
+    end: 00:59.42
+    fields:
+      transcription: |-
+        寒くて、
+        ここでは、もう寝ることができません。
+    tags: *a1
+  - id: 158b78e2-c52c-4cf5-a980-c9f5941b472a
+    start: 01:01.42
+    end: 01:05.78
+    fields:
+      transcription: でも、ソーピーは、心配していませんでした。
+    tags: *a1
+  - id: d53bf133-d5f5-417b-b60b-57cfae4017c1
+    start: 01:06.8
+    end: 01:09.18
+    fields:
+      transcription: 「冬の家」があるからです。
+    tags: *a1
+  - id: c52f9c53-f15d-4f62-8242-26327935ce3a
+    start: 01:10.38
+    end: 01:12.94
+    fields:
+      transcription: |-
+        それは、
+        刑務所でした。
+    tags: *a1
+  - id: 9f00f7df-de9b-42cb-9deb-8ca09b297406
+    start: 01:15.36
+    end: 01:24.78
+    fields:
+      transcription: |-
+        刑務所は、悪いことをした人が入るところですが、
+        刑務所では、
+        温かい食べ物をもらうことができます。
+    tags: *a1
+  - id: 75edc83f-528c-4be2-8c8b-1ec4d033c901
+    start: 01:25.6
+    end: 01:27.08
+    fields:
+      transcription: 友達もいます。
+    tags: *a1
+  - id: 4d7fb08c-a81b-4d43-8e03-a594b68ee544
+    start: 01:27.86
+    end: 01:34.78
+    fields:
+      transcription: |-
+        ですから、ソーピーは、
+        毎年、冬になると、
+        刑務所に入るのです。
+    tags: *a1
+  - id: 8dc6fb9e-28ca-491e-bb52-364aff782bf1
+    start: 01:36.04
+    end: 01:39.6
+    fields:
+      transcription: |-
+        今年も、
+        入ることができるでしょうか。
+    tags: *a1
+  - id: a808e675-38bd-4d44-865d-42a5a183ecd5
+    start: 01:42.42
+    end: 01:44.22
+    fields:
+      transcription: 夕方になりました。
+    tags: *a1
+  - id: ea755694-e00b-4f3f-966a-52786aef5e9b
+    start: 01:45.14
+    end: 01:49.2
+    fields:
+      transcription: ソーピーは、ベンチから、ゆっくり立ちました。
+    tags: *a1
+  - id: 666f2ef1-04a8-4f02-99a9-16dded3627be
+    start: 01:50.3
+    end: 01:52.78
+    fields:
+      transcription: これから、レストランへ行きます。
+    tags: *a1
+  - id: 3b295632-98a1-41cb-97aa-5fefa08cfd75
+    start: 01:54.62
+    end: 02:04.2
+    fields:
+      transcription: |-
+        そして、おいしい料理を食べて、
+        高いワインを飲んでから、
+        「お金を持っていない」
+        と言います。
+    tags: *a1
+  - id: ea88f024-fd7a-4100-9f6c-ca33b88704bd
+    start: 02:06.28
+    end: 02:13.82
+    fields:
+      transcription: |-
+        お店の人は、警官を呼ぶでしょう。
+        そして、ソーピーを、警察に連れて行くでしょう。
+    tags: *a1
+  - id: 5236ef6a-1d41-4507-ae9e-a717efdf926a
+    start: 02:14.759
+    end: 02:18.539
+    fields:
+      transcription: ソーピーは、刑務所に入ることができます。
+    tags: *a1
+  - id: cae7a2f3-05de-498c-9064-b3e6404d2887
+    start: 02:19.467
+    end: 02:21.727
+    fields:
+      transcription: 毎年、そうするのです。
+    tags: *a1
+  - id: 5cf53af3-3b8f-4597-85f8-dfcfa603bc6b
+    start: 02:23.96
+    end: 02:28.48
+    fields:
+      transcription: ソーピーは、レストランの方へ歩いて行きました。
+    tags: *a1
+  - id: a672ee9a-a705-4f27-b1d2-c2549c6e6f87
+    start: 02:31.42
+    end: 02:39.38
+    fields:
+      transcription: |-
+        ソーピーの上着は、
+        あまり古くありませんから、高いレストランでも入ることができます。
+    tags: *a1
+  - id: 55ef2476-e27c-485c-b39d-25a31a454d1b
+    start: 02:41.54
+    end: 02:49.6
+    fields:
+      transcription: |-
+        ズボンと靴は、
+        とても古くて汚いのですが、
+        店の人はいつも見ないのです。
+    tags: *a1
+  - id: 5bfce928-21ec-4e09-84d2-e2401328d362
+    start: 02:51.04
+    end: 02:54.8
+    fields:
+      transcription: ソーピーは、レストランに入って行きました。
+    tags: *a1
+  - id: 5c7dd9d6-039f-4272-91bb-211d2ad915be
+    start: 02:55.96
+    end: 03:05.86
+    fields:
+      transcription: |-
+        すると、
+        この日、
+        店の人は、
+        ソーピーの古いズボンと汚い靴を見て、すぐに言いました。
+    tags: *a1
+  - id: b74c7348-555e-4ff7-a57e-3fe192e784a6
+    start: 03:08.0
+    end: 03:13.82
+    fields:
+      transcription: |-
+        「おい、
+        何だ、そのズボンと靴は？
+        汚いなあ」
+    tags: *a1
+  - id: db515a69-fc03-43d0-883e-f6aa33991765
+    start: 03:14.74
+    end: 03:19.44
+    fields:
+      transcription: 店の人は、ソーピーをレストランから外へ出しました。
+    tags: *a1
+  - id: bb902bcf-ab96-4486-ace7-6c14d5832aae
+    start: 03:21.492
+    end: 03:25.412
+    fields:
+      transcription: |-
+        「このレストランは、
+        お前が来るところじゃない！」
+    tags: *a1
+  - id: a2ccd7a6-afab-41b3-915b-68c6a37d5292
+    start: 03:28.132
+    end: 03:32.272
+    fields:
+      transcription: 「あーあ、今日は、だめだった」
+    tags: *a1
+  - id: fd32f6f7-dec4-48ff-a203-252a7fce96f9
+    start: 03:33.412
+    end: 03:37.932
+    fields:
+      transcription: ソーピーは、刑務所に入ることができませんでした。
+    tags: *a1
+  - id: 19996aa8-60b1-48d2-a507-ec1d816c127a
+    start: 03:40.812
+    end: 03:45.012
+    fields:
+      transcription: |-
+        ソーピーは、
+        賑やかな道を歩いて行きました。
+    tags: *a1
+  - id: 8eedb58c-57e1-40dc-bee1-7d1c25dfa1df
+    start: 03:46.332
+    end: 03:50.092
+    fields:
+      transcription: とても明るくて、きれいな店がありました。
+    tags: *a1
+  - id: 73c5abc1-45a5-4282-9e28-ef1cbe3817b3
+    start: 03:51.94
+    end: 03:55.82
+    fields:
+      transcription: |-
+        店の前を、
+        人がたくさん歩いています。
+    tags: *a1
+  - id: ae63404e-6948-40b0-980a-2117215341e4
+    start: 03:56.64
+    end: 03:59.72
+    fields:
+      transcription: |-
+        近くに、
+        警官が立っています。
+    tags: *a1
+  - id: a4a9185a-6a1b-4efe-a142-b7f844be0e76
+    start: 04:00.68
+    end: 04:02.04
+    fields:
+      transcription: 「ここがいい！」
+    tags: *a1
+  - id: 4cbffc41-d7a0-4fea-9cca-b22337abdf26
+    start: 04:03.14
+    end: 04:09.3
+    fields:
+      transcription: ソーピーは、道にあった石を拾って、店の窓に投げました。
+    tags: *a1
+  - id: 8ba2f6ef-0a4a-4557-b155-3867870c8b1f
+    start: 04:13.96
+    end: 04:17.8
+    fields:
+      transcription: 大きな音がして、窓ガラスが割れました。
+    tags: *a1
+  - id: 21552f38-fbcc-45fa-9817-bd2022724f23
+    start: 04:19.22
+    end: 04:21.64
+    fields:
+      transcription: 警官が、すぐ来ました。
+    tags: *a1
+  - id: 8503895b-0c2a-4550-af88-dd763fe74a7d
+    start: 04:22.06
+    end: 04:23.06
+    fields:
+      transcription: 「誰が割った？」
+    tags: *a1
+  - id: dbd8f8b1-1992-4be4-aaf8-89dda0c61a37
+    start: 04:23.8
+    end: 04:30.96
+    fields:
+      transcription: |-
+        ソーピーは、笑いながら言いました。
+        「私です。
+        私が割りました。」
+    tags: *a1
+  - id: dd08d09a-3e70-4a81-92a9-16ba315858ff
+    start: 04:33.6
+    end: 04:39.7
+    fields:
+      transcription: |-
+        窓ガラスを割って、
+        すぐ「私が割りました」と言う人はいません。
+    tags: *a1
+  - id: 0d4ffaaa-5e79-411d-a6ec-7db0625ed5de
+    start: 04:40.58
+    end: 04:45.34
+    fields:
+      transcription: |-
+        ですから、警官は、「お前じゃない」
+        と言いました。
+    tags: *a1
+  - id: 8253c1e2-4c27-49bd-a464-58c368c29c93
+    start: 04:46.358
+    end: 04:50.778
+    fields:
+      transcription: その時、バスの方へ走っていく男がいました。
+    tags: *a1
+  - id: 8b5a1ee4-5b41-412f-95fa-bc7353fc0b64
+    start: 04:51.42
+    end: 04:59.0
+    fields:
+      transcription: |-
+        「あ、あの男だ！」
+        警官は、その男の方へ走って行きました。
+    tags: *a1
+  - id: 45064800-9d07-462b-ad8a-e41653ee03cb
+    start: 05:00.46
+    end: 05:05.78
+    fields:
+      transcription: |-
+        ソーピーは、
+        また、刑務所に入ることができませんでした。
+    tags: *a1
+  - id: 9c313e57-73ce-492a-9308-3a1b0f3664df
+    start: 05:08.78
+    end: 05:12.98
+    fields:
+      transcription: |-
+        ソーピーは、
+        大きな道を歩いて行きました。
+    tags: *a1
+  - id: 47757e9a-ad66-49a0-9e4a-4b38df9a366b
+    start: 05:13.94
+    end: 05:16.22
+    fields:
+      transcription: 冷たい風が吹いています。
+    tags: *a1
+  - id: 71ba26ba-41dc-40c7-a8a2-b9f3cbcbf4fb
+    start: 05:18.766
+    end: 05:27.4
+    fields:
+      transcription: |-
+        「ああ、寒い。
+        もう、公園で寝たくない。すぐ刑務所に入りたいなあ」
+    tags: *a1
+  - id: d950e866-8e9e-44ba-830d-fe428f89ff82
+    start: 05:28.18
+    end: 05:31.62
+    fields:
+      transcription: |-
+        歩いていくと、
+        劇場がありました。
+    tags: *a1
+  - id: 69469f5f-eb6c-4de2-ad18-8d829fd7984b
+    start: 05:32.84
+    end: 05:36.52
+    fields:
+      transcription: きれいな服を着た人たちが、たくさんいます。
+    tags: *a1
+  - id: 8343e8d6-fe0c-4a8d-b423-5777d894c8d0
+    start: 05:37.6
+    end: 05:44.36
+    fields:
+      transcription: |-
+        「あ、そうだ！」
+        ソーピーは、
+        小さな声で言いました。
+    tags:
+      - JGR_2-3-4_soopii_no_fuyu_no_ie.mp3
+  - id: dbf42d5c-3cb0-4757-a9bd-b421c3ff271c
+    start: 05:46.18
+    end: 05:51.26
+    fields:
+      transcription: |-
+        そして、劇場の前で、
+        大きな声で歌いました。
+    tags: *a1
+  - id: 0848cd1e-3370-4964-a6f8-ac2d055792d3
+    start: 05:51.82
+    end: 05:55.62
+    fields:
+      transcription: 歌いながら、足を高く上げて踊りました。
+    tags: *a1
+  - id: 3cdeae94-26f7-4c80-8682-2341f3266c13
+    start: 05:56.52
+    end: 05:59.1
+    fields:
+      transcription: |-
+        みんな、
+        びっくりしています。
+    tags: *a1
+  - id: 5fc0a3a2-ac87-4db6-b3f2-35abdf4c0bb5
+    start: 06:01.94
+    end: 06:03.98
+    fields:
+      transcription: 近くに警官がいます。
+    tags: *a1
+  - id: 18b9ef9f-951b-47f8-a02c-eea4475c2525
+    start: 06:04.92
+    end: 06:08.72
+    fields:
+      transcription: 警官は、ソーピーを、警察へ連れて行くでしょう。
+    tags: *a1
+  - id: 8d6c3d48-1935-4457-b7a6-4f9176cba0a8
+    start: 06:09.84
+    end: 06:14.06
+    fields:
+      transcription: ソーピーは、刑務所に入ることができるでしょう。
+    tags: *a1
+  - id: 5afbc817-9015-468a-adf8-47c7767d16f4
+    start: 06:15.36
+    end: 06:22.08
+    fields:
+      transcription: |-
+        でも、
+        警官は、劇場の前にいる人たちに、
+        笑いながら言いました。
+    tags: *a1
+  - id: 3cf47ca6-0cfe-4e2c-88fc-44086d16ceaa
+    start: 06:23.82
+    end: 06:28.84
+    fields:
+      transcription: 「みなさん、この男は、酒をたくさん飲んだのでしょう。
+    tags: *a1
+  - id: 526c89c1-0dce-406a-bd87-d52e755926b8
+    start: 06:29.6
+    end: 06:32.68
+    fields:
+      transcription: 大丈夫、悪いことはしませんよ」
+    tags: *a1
+  - id: c90dc9c6-ee7c-4981-a830-c845cb97770f
+    start: 06:33.92
+    end: 06:37.48
+    fields:
+      transcription: |-
+        みんな笑って、
+        ソーピーを見ています。
+    tags: *a1
+  - id: 1271163d-abd8-4077-a171-ff1915ec5d2f
+    start: 06:38.9
+    end: 06:44.04
+    fields:
+      transcription: |-
+        ソーピーは悲しくなって、
+        歌と踊りをやめました。
+    tags: *a1
+  - id: 8408b512-dc93-44d8-8caa-d7d3e30a8046
+    start: 06:46.943
+    end: 06:51.883
+    fields:
+      transcription: |-
+        ソーピーは、また、
+        賑やかな道を歩いて行きました。
+    tags: *a1
+  - id: f66d94c8-0bc4-4bd8-9af9-4dfab342fd8b
+    start: 06:53.123
+    end: 06:54.883
+    fields:
+      transcription: 喫茶店がありました。
+    tags: *a1
+  - id: ce11be03-c8e5-49fd-8c72-f27de931536e
+    start: 06:55.603
+    end: 06:59.263
+    fields:
+      transcription: |-
+        中で、
+        男がお茶を飲んでいます。
+    tags: *a1
+  - id: c576fc49-ff0e-4e12-8ed4-ece90bf5674f
+    start: 07:00.223
+    end: 07:04.123
+    fields:
+      transcription: |-
+        その男の横に
+        傘がありました。
+    tags: *a1
+  - id: 4bbff3ca-b9d9-4597-92e0-2e68e4544542
+    start: 07:04.843
+    end: 07:06.303
+    fields:
+      transcription: きれいな傘です。
+    tags: *a1
+  - id: 4c404346-9434-47af-9dd7-048a9e51f3af
+    start: 07:07.303
+    end: 07:11.583
+    fields:
+      transcription: |-
+        ソーピーは店に入って、
+        傘を取りました。
+    tags: *a1
+  - id: 8aa435cf-5605-4c1c-a41f-be2de80a19f8
+    start: 07:12.362
+    end: 07:16.502
+    fields:
+      transcription: すると、その男が大きな声で言いました。
+    tags: *a1
+  - id: 72f97df7-37d1-478d-98fd-8b0116e96e6b
+    start: 07:17.8
+    end: 07:21.34
+    fields:
+      transcription: 「ちょっと待ってください。それは私の傘ですよ！」
+    tags: *a1
+  - id: 43db0673-111d-4d90-9fe5-4e33842e099c
+    start: 07:22.08
+    end: 07:24.86
+    fields:
+      transcription: ソーピーは、笑って答えました。
+    tags: *a1
+  - id: e617c628-810e-47f1-b3c0-e6168947f948
+    start: 07:25.44
+    end: 07:30.74
+    fields:
+      transcription: |-
+        「わかっています。
+        あなたの傘を、
+        私が取りました。
+    tags: *a1
+  - id: e425929b-1d6c-4aa3-a406-7971a8a7bfcf
+    start: 07:31.2
+    end: 07:34.92
+    fields:
+      transcription: さあ、警官のところへ、一緒に行きましょう」
+    tags: *a1
+  - id: 1c9a0f4f-faf6-4caf-a7e8-a8898dd12e41
+    start: 07:38.02
+    end: 07:44.72
+    fields:
+      transcription: |-
+        店の外に警官がいます。
+        ソーピーは、警官の方へ歩いて行きました。
+    tags: *a1
+  - id: 20cdad6e-10d3-4f33-afca-31b90af9e96e
+    start: 07:46.98
+    end: 07:52.68
+    fields:
+      transcription: |-
+        すると、
+        男は、今度は、
+        小さな声で言いました。
+    tags: *a1
+  - id: 845278ad-4e12-43b3-b246-fe3f6edd1f71
+    start: 07:54.34
+    end: 08:02.78
+    fields:
+      transcription: |-
+        「待ってください。
+        ご、ごめんなさい。
+        その傘は、
+        今日の昼、行ったレストランにあったものです。
+    tags: *a1
+  - id: 9bc9d098-1a60-4aad-9154-b7b7dfedf8eb
+    start: 08:03.5
+    end: 08:06.72
+    fields:
+      transcription: とてもきれいだったから、持ってきました…。
+    tags: *a1
+  - id: 144e95b9-14fc-4722-885c-58361d772b73
+    start: 08:07.98
+    end: 08:13.0
+    fields:
+      transcription: |-
+        あなたの傘だったのですね。
+        ごめんなさい。
+        返します。
+    tags: *a1
+  - id: 9f8db520-05b3-4335-b072-3477786d01aa
+    start: 08:14.12
+    end: 08:15.84
+    fields:
+      transcription: どうぞ持って行ってください。
+    tags: *a1
+  - id: 7e529280-c9bd-4f00-90aa-ef8de45260d1
+    start: 08:16.88
+    end: 08:19.18
+    fields:
+      transcription: 警官には、言わないでください」
+    tags: *a1
+  - id: 4b8338ef-146e-4b97-b454-5f8d988bba48
+    start: 08:22.02
+    end: 08:23.96
+    fields:
+      transcription: ソーピーは、困りました。
+    tags: *a1
+  - id: 60ee22f1-d6a1-4040-b5aa-68195a907fbc
+    start: 08:24.58
+    end: 08:27.76
+    fields:
+      transcription: 手に持った傘を見ながら、思いました。
+    tags: *a1
+  - id: bb7ac6e3-3b26-4365-8009-97039f55c4e0
+    start: 08:29.0
+    end: 08:32.56
+    fields:
+      transcription: 今日は、刑務所に行くことができなかった。
+    tags: *a1
+  - id: 97f7c8d8-cfc1-4011-abaf-0b41832960a7
+    start: 08:33.54
+    end: 08:35.38
+    fields:
+      transcription: 困ったなあ。
+    tags: *a1
+  - id: c2457d0f-9aa9-427e-bcae-79d0126c1aac
+    start: 08:36.2
+    end: 08:42.58
+    fields:
+      transcription: |-
+        あの寒い公園では寝たくないけれど、
+        他に行くところがないなあ…。
+    tags: *a1
+  - id: 4d2b2596-9072-4d96-987a-baebc1957e2a
+    start: 08:44.74
+    end: 08:51.02
+    fields:
+      transcription: ソーピーは傘を持って、公園の方へ、ゆっくり歩いて行きました。
+    tags: *a1
+  - id: cf4ce39d-5c93-4344-991f-f666a99c6074
+    start: 08:53.94
+    end: 08:55.98
+    fields:
+      transcription: 教会が見えてきました。
+    tags: *a1
+  - id: 2d3df833-fde0-4047-b054-f001fc4571b2
+    start: 08:56.82
+    end: 08:59.86
+    fields:
+      transcription: |-
+        窓が明るくて、
+        とてもきれいです。
+    tags:
+      - JGR_2-3-4_soopii_no_fuyu_no_ie.mp3
+  - id: 86fadb88-f338-4e4b-9464-d10565d75ec5
+    start: 09:00.88
+    end: 09:02.98
+    fields:
+      transcription: 「きれいな教会だなあ」
+    tags: *a1
+  - id: dcb5967d-d310-4064-9f26-29132ebab3d6
+    start: 09:03.883
+    end: 09:08.903
+    fields:
+      transcription: |-
+        空には、
+        星が見えています。
+        とても静かです。
+    tags: *a1
+  - id: e69539ef-f4bd-473b-b3c2-19a9a511b9ee
+    start: 09:10.103
+    end: 09:13.463
+    fields:
+      transcription: |-
+        教会から、
+        歌が聞こえてきました。
+    tags: *a1
+  - id: aefea0a0-e9bc-4779-9c0a-507fbf632bfa
+    start: 09:14.203
+    end: 09:17.303
+    fields:
+      transcription: 子供の頃、よく歌った歌です。
+    tags: *a1
+  - id: 0375a344-3ba0-44f8-8c49-1e3a9c847328
+    start: 09:19.943
+    end: 09:25.003
+    fields:
+      transcription: |-
+        ソーピーも、子供の頃は、
+        よく教会に行ったのです。
+    tags: *a1
+  - id: 9c3730c9-1edd-48d0-b316-824692a68ada
+    start: 09:26.063
+    end: 09:30.403
+    fields:
+      transcription: |-
+        ソーピーは、
+        楽しかった昔のことを思いました。
+    tags: *a1
+  - id: 42b8a1dd-6538-4d97-8f57-237cba2df77b
+    start: 09:31.34
+    end: 09:38.44
+    fields:
+      transcription: |-
+        「楽しかったなあ、あの頃は。家族がいて、
+        友達がいて…」
+    tags: *a1
+  - id: 9488c6ce-0162-4155-8ab9-ddda3fd14c4b
+    start: 09:40.4
+    end: 09:43.32
+    fields:
+      transcription: |-
+        でも、
+        今のソーピーは…。
+    tags: *a1
+  - id: 619c5b41-1437-4ca4-b00f-afbd9a35bd28
+    start: 09:44.7
+    end: 09:48.28
+    fields:
+      transcription: 働かないで、毎日、公園にいます。
+    tags: *a1
+  - id: a20cad4c-3ebd-4eec-91bd-85b1af728840
+    start: 09:49.04
+    end: 09:51.58
+    fields:
+      transcription: 何年も、家族に会っていません。
+    tags: *a1
+  - id: 72eab3b9-98cf-4ebc-bf07-8363dd37dec7
+    start: 09:52.1
+    end: 09:53.68
+    fields:
+      transcription: 友達もいません。
+    tags: *a1
+  - id: c2774375-f4de-4946-a1ec-e46c6abc5ed3
+    start: 09:54.38
+    end: 09:57.46
+    fields:
+      transcription: |-
+        面白いことは、
+        何もありません。
+    tags: *a1
+  - id: e26949c3-1399-49ca-811d-264b8bc103df
+    start: 09:58.82
+    end: 10:02.1
+    fields:
+      transcription: |-
+        ソーピーは、
+        とても悲しくなりました。
+    tags: *a1
+  - id: 434f28ea-2be8-4d74-bdd6-b0f7ba4c2a70
+    start: 10:02.76
+    end: 10:14.82
+    fields:
+      transcription: |-
+        そして、
+        思いました。
+        「何をしているんだ、私は。何もしないで、毎日、
+        公園で寝ているだけだ。
+    tags:
+      - JGR_2-3-4_soopii_no_fuyu_no_ie.mp3
+  - id: ff224602-59ff-449a-9a8a-4e2310866f1f
+    start: 10:15.92
+    end: 10:17.4
+    fields:
+      transcription: これではだめだ…」
+    tags: *a1
+  - id: bacbca00-d82a-44ba-9d52-a9bf087b83df
+    start: 10:19.3
+    end: 10:26.36
+    fields:
+      transcription: |-
+        ソーピーは、きれいな歌声を聞きながら、長い時間教会を
+        見ていました。
+    tags: *a1
+  - id: 14a2c73f-502b-4570-9950-d808a7d7f2b5
+    start: 10:27.42
+    end: 10:33.12
+    fields:
+      transcription: |-
+        すると、
+        悲しい顔が、だんだん明るくなりました。
+    tags: *a1
+  - id: 93c87d17-ab04-4036-b250-c84a6f7a647d
+    start: 10:35.26
+    end: 10:37.04
+    fields:
+      transcription: 「もう、刑務所には行かない。
+    tags: *a1
+  - id: ca691815-dc7d-41b6-a349-1bd7a5167e82
+    start: 10:37.96
+    end: 10:38.86
+    fields:
+      transcription: 働きたい。
+    tags: *a1
+  - id: f3f21c04-5e9a-46cc-a94f-12bbc2b2dceb
+    start: 10:39.9
+    end: 10:41.22
+    fields:
+      transcription: 仕事が欲しい。
+    tags: *a1
+  - id: 0421db8d-0977-437b-8d44-64f619891f5c
+    start: 10:41.86
+    end: 10:43.18
+    fields:
+      transcription: 家族に会いたい。
+    tags: *a1
+  - id: 1dcab8d3-04f1-45c5-ad3a-2dc519e97858
+    start: 10:44.62
+    end: 10:46.5
+    fields:
+      transcription: また、楽しく暮らしたい」
+    tags: *a1
+  - id: 6a404422-e538-485a-9389-59024c7de45e
+    start: 10:48.82
+    end: 10:53.72
+    fields:
+      transcription: |-
+        ソーピーは、
+        明るい顔で空の星を見上げました。
+    tags: *a1
+  - id: be00db90-053f-457d-b290-da0eea9f7af5
+    start: 10:54.74
+    end: 10:59.66
+    fields:
+      transcription: 明日から、ソーピーは、働いて、楽しく暮らすでしょう。
+    tags: *a1
+  - id: c7f06981-6bd1-4fcf-8da8-37832792f658
+    start: 11:02.68
+    end: 11:07.72
+    fields:
+      transcription: |-
+        その時、
+        ソーピーの後ろから、
+        誰かが言いました。
+    tags: *a1
+  - id: f3f109c3-d728-4152-84c6-c584e0443bb5
+    start: 11:08.5
+    end: 11:10.92
+    fields:
+      transcription: 「夜遅く、ここで何をしてるんだ？」
+    tags: *a1
+  - id: c8c3c675-6768-4dd3-9735-64c970f07a5e
+    start: 11:11.64
+    end: 11:15.92
+    fields:
+      transcription: ソーピーが後ろを見ると、そこに警官がいました。
+    tags: *a1
+  - id: 6454aa0d-3777-4c9c-9280-b768c0324a38
+    start: 11:16.74
+    end: 11:20.66
+    fields:
+      transcription: |-
+        「何もしていません」
+        ソーピーは答えました。
+    tags:
+      - JGR_2-3-4_soopii_no_fuyu_no_ie.mp3
+  - id: fe35f1b4-cecf-44b9-a498-9a11bbd143c5
+    start: 11:21.44
+    end: 11:28.8
+    fields:
+      transcription: |-
+        警官は言いました。
+        「何もしてない？
+        家はどこだ？
+        仕事は？
+    tags: *a1
+  - id: b2247cc8-f9df-4679-a2e2-76e1b7cefb01
+    start: 11:30.36
+    end: 11:32.22
+    fields:
+      transcription: 「家も仕事もありません」
+    tags: *a1
+  - id: 08b9ce70-d838-421d-a072-323c7d1e0292
+    start: 11:33.4
+    end: 11:35.2
+    fields:
+      transcription: 「家も仕事もない？
+    tags: *a1
+  - id: 0bdb2b67-261a-487e-9686-281195f50bc5
+    start: 11:36.26
+    end: 11:42.44
+    fields:
+      transcription: |-
+        そのきれいな傘は？
+        お前のものじゃないな。
+        一緒に行きなさい」
+    tags: *a1
+  - id: 8ee1c1d0-c7b7-42d8-bda1-29f10d57f83d
+    start: 11:43.583
+    end: 11:47.863
+    fields:
+      transcription: |-
+        警官は
+        ソーピーを警察に連れて行きました。
+    tags: *a1
+  - id: 8a0b0b02-dd40-4786-9c9f-485c833d2efd
+    start: 11:50.843
+    end: 11:55.523
+    fields:
+      transcription: |-
+        ソーピーは、
+        刑務所に入ることができました
+    tags: *a1
 ---
 name: JGR 2-3-5 ikkyuusan sono ni 1 rousoku.mp3
 format: mp3
 duration: 03:36.268
 id: a89170d6-0777-489b-b5be-a7a9a2b215d4
+clips:
+  - id: baa8a70d-0ee0-45b2-bb80-13f5050e7d3c
+    start: 00:15.38
+    end: 00:21.76
+    fields:
+      transcription: |-
+        一休さんは、子供の時、
+        安国寺というお寺で勉強していました。
+    tags:
+      &a1
+      - JGR_2-3-5_ikkyuusan_sono_ni_1_rousoku.mp3
+  - id: 5ccb26e0-b4f8-4312-bc2d-18d3176b3731
+    start: 00:22.86
+    end: 00:28.66
+    fields:
+      transcription: |-
+        一休さんは、
+        毎日、
+        朝と夜、本堂へ行きます。
+    tags: *a1
+  - id: 964abd91-460e-470e-b109-eb1308ee43b6
+    start: 00:30.175
+    end: 00:35.075
+    fields:
+      transcription: 本堂の仏様の前には、花や果物があります。
+    tags: *a1
+  - id: 9a8a7d0f-3b08-47f2-83c7-82549d7ee974
+    start: 00:35.66
+    end: 00:37.28
+    fields:
+      transcription: ろうそくもあります。
+    tags: *a1
+  - id: d61a24f5-6718-4b03-8932-50fe9f6d1db5
+    start: 00:39.28
+    end: 00:46.08
+    fields:
+      transcription: |-
+        一休さんは、和尚さんやお坊さん達と一緒に、そこでお経を
+        読みます。
+    tags: *a1
+  - id: ba4a3495-27c3-47f3-8f6e-154a6fb94977
+    start: 00:47.24
+    end: 00:51.52
+    fields:
+      transcription: 寺で一番上のお坊さんが、「和尚さん」です。
+    tags: *a1
+  - id: b59357c4-b8f3-4776-bb11-a1a6f9b0a630
+    start: 00:52.4
+    end: 00:55.54
+    fields:
+      transcription: 若いお坊さん達の先生です。
+    tags: *a1
+  - id: 50617c3c-a7e9-4a26-938f-65aca771cfff
+    start: 00:58.44
+    end: 01:00.18
+    fields:
+      transcription: ある日の夜です。
+    tags: *a1
+  - id: 45275161-6086-47a1-be1c-782b2a071b0a
+    start: 01:01.3
+    end: 01:06.52
+    fields:
+      transcription: |-
+        和尚さんと一休さんたちは、
+        本堂でお経読みました。
+    tags: *a1
+  - id: ddcfd30d-5826-4c1a-b918-0cd01e987cda
+    start: 01:07.48
+    end: 01:11.86
+    fields:
+      transcription: お経が終わると、みんなは、部屋へ帰りました。
+    tags: *a1
+  - id: d4bc1210-dde9-4466-a241-23894ce14bfd
+    start: 01:13.02
+    end: 01:17.2
+    fields:
+      transcription: その時、和尚さんが、一休さんに言いました。
+    tags: *a1
+  - id: 48817f35-1c8b-4a2c-981c-3279cb4bbdd6
+    start: 01:18.74
+    end: 01:23.48
+    fields:
+      transcription: |-
+        「あ、忘れた！
+        ろうそくの火…」
+    tags: *a1
+  - id: e03c8ca8-e643-48ed-8e12-eb4acf039a8c
+    start: 01:24.679
+    end: 01:28.739
+    fields:
+      transcription: 和尚さんは、ろうそくの火を消しませんでした。
+    tags: *a1
+  - id: c0c50316-f6cd-4daf-bbcc-eb20bf95b4d7
+    start: 01:29.96
+    end: 01:35.62
+    fields:
+      transcription: |-
+        「一休、
+        本堂へ行って、
+        ろうそくの火を消してきなさい」
+    tags: *a1
+  - id: fef11194-5406-428c-8a72-b54285e789ac
+    start: 01:36.32
+    end: 01:38.06
+    fields:
+      transcription: わかりました」
+    tags: *a1
+  - id: bb8ebe96-9f54-475e-85e2-2ae4e985650b
+    start: 01:41.0
+    end: 01:46.9
+    fields:
+      transcription: |-
+        一休さんは、すぐに、本堂へ行って、
+        ろうそくの火を消してきました。
+    tags: *a1
+  - id: 6fd9fcae-db6c-444a-b513-41759a581e7b
+    start: 01:48.56
+    end: 01:51.98
+    fields:
+      transcription: 「和尚様、ろうそくの火を消してきました」
+    tags: *a1
+  - id: 940fa58a-e349-4f85-baa6-973db1990a34
+    start: 01:53.12
+    end: 01:57.22
+    fields:
+      transcription: |-
+        「一休、
+        どうやって火を消しましたか？」
+    tags: *a1
+  - id: 330300bd-3f19-40e6-ac32-2a5fc459d856
+    start: 01:58.46
+    end: 02:02.34
+    fields:
+      transcription: 「口で、ふうっと息をかけて、消しました」
+    tags: *a1
+  - id: c4d6fa20-9e59-4f0d-a3c5-9d0da1211932
+    start: 02:04.6
+    end: 02:06.84
+    fields:
+      transcription: 「息をかけて消した？」
+    tags: *a1
+  - id: 62d6c9cf-51b6-4bbe-a8c6-68ea6028b85e
+    start: 02:08.34
+    end: 02:14.16
+    fields:
+      transcription: |-
+        「一休、それは良くない。
+        仏様に失礼なことをしたね。
+    tags: *a1
+  - id: 31eed521-d46f-4494-8ef1-1799fe08fdfc
+    start: 02:15.28
+    end: 02:23.52
+    fields:
+      transcription: |-
+        口は、
+        色々なものを食べるところだ。
+        だから、その口から出る息は汚い。
+    tags: *a1
+  - id: 8c77ef13-88a1-4040-80c6-80229cd64633
+    start: 02:24.66
+    end: 02:27.0
+    fields:
+      transcription: 手で消さなければならないよ」
+    tags: *a1
+  - id: ee493b1b-127b-4ce0-96d8-b86b27e4aa7b
+    start: 02:27.72
+    end: 02:32.96
+    fields:
+      transcription: |-
+        「ごめんなさい、和尚様。
+        これからは、手で消します」
+    tags: *a1
+  - id: 0531ebae-c6f1-471a-ae03-138b77734ba2
+    start: 02:35.96
+    end: 02:37.696
+    fields:
+      transcription: 次の日の朝です。
+    tags: *a1
+  - id: 57666742-af75-4168-a330-32aac4bb296f
+    start: 02:38.74
+    end: 02:42.56
+    fields:
+      transcription: お坊さん達は本堂でお経を読みました。
+    tags: *a1
+  - id: 7da352c0-72b7-4cbd-b06f-9383684baa65
+    start: 02:43.58
+    end: 02:48.26
+    fields:
+      transcription: |-
+        若いお坊さん達が、
+        小さい声で笑っています。
+    tags: *a1
+  - id: 95269356-a0d2-4c52-8a01-10d8405ac927
+    start: 02:49.34
+    end: 02:56.3
+    fields:
+      transcription: |-
+        和尚さんが後ろを見ると、
+        一休さんだけ
+        庭の方を見て座っています。
+    tags: *a1
+  - id: 8a115bc8-5e05-4fd8-be37-8e64359fa973
+    start: 02:59.284
+    end: 03:08.744
+    fields:
+      transcription: |-
+        和尚さんは聞きました。
+        「一休、
+        何をしているんだ？
+        仏様の方を見て座りなさい」
+    tags: *a1
+  - id: 095054ec-4bd5-43de-a270-901933b55b43
+    start: 03:10.504
+    end: 03:17.304
+    fields:
+      transcription: |-
+        「でも、和尚様、
+        和尚様は、昨日、『息は汚い』と言いましたね。
+    tags: *a1
+  - id: 8ee6b9d7-6fde-4236-a012-7b89cbf56222
+    start: 03:17.904
+    end: 03:25.604
+    fields:
+      transcription: |-
+        私は、仏様に息をかけたくないのです。
+        だから、庭の方を見て、座っています」
+    tags: *a1
+  - id: ba91ad9e-b159-490c-aa4f-721ff6d3c50c
+    start: 03:28.519
+    end: 03:32.879
+    fields:
+      transcription: 和尚さんは何も言うことが出来ませんでした。
+    tags: *a1
 ---
 name: JGR 2-3-5 ikkyuusan sono ni 2 hashi.mp3
 format: mp3
 duration: 02:59.383
 id: da7c8cba-b021-4b40-a523-0bb3fb17819e
+subtitles:
+  - id: 0e2bbf18-682e-47b2-87fb-c896032a5a87
+    type: External
+    chunksMetadata:
+      count: 55
+      endCue: 8793.6
+    name: JGR 2-3-5 ikkyuusan sono ni 2 hashi.srt
+clips:
+  - id: 1eaef433-1325-47f0-ab1a-429ed59ee7cb
+    start: 00:02.84
+    end: 00:06.66
+    fields:
+      transcription: |-
+        一休さんは、
+        とても頭がいい子供です。
+    tags:
+      &a1
+      - JGR_2-3-5_ikkyuusan_sono_ni_2_hashi.mp3
+  - id: f562b29c-c2d2-41db-af1d-84892fcfb4a9
+    start: 00:07.32
+    end: 00:11.56
+    fields:
+      transcription: 難しい問題にもすぐ答えることができます。
+    tags: *a1
+  - id: 9d46961e-0cfb-4bcc-abd8-edc4f91f6f58
+    start: 00:12.7
+    end: 00:21.24
+    fields:
+      transcription: |-
+        安国寺の和尚さんの友達、
+        二兵衛さんは、
+        一休さんの困った顔が見たいと思いました。
+    tags: *a1
+  - id: c0a39085-4790-4dc0-b35c-9cc942423a36
+    start: 00:22.46
+    end: 00:27.26
+    fields:
+      transcription: |-
+        ある日、
+        二瓶さんは、和尚さんに言いました。
+    tags: *a1
+  - id: 1d832272-dcc2-4b55-a6f1-cc45cafff25e
+    start: 00:28.06
+    end: 00:32.56
+    fields:
+      transcription: 「明日、一休さんと一緒に、私の家へ来てください。
+    tags: *a1
+  - id: 0a9dca22-91d5-4723-a2b7-ae80cc9434d3
+    start: 00:33.4
+    end: 00:35.7
+    fields:
+      transcription: 昼ご飯を一緒に食べましょう」
+    tags: *a1
+  - id: 9d8568d3-fad1-4bd8-9c12-18b8f56cc558
+    start: 00:38.16
+    end: 00:43.94
+    fields:
+      transcription: |-
+        次の日、
+        和尚さんは一休さんを連れて、
+        寺を出ました。
+    tags: *a1
+  - id: 1a55a23a-88d9-4d3e-a34d-93815249da72
+    start: 00:45.18
+    end: 00:50.6
+    fields:
+      transcription: |-
+        二瓶さんの家の前には、
+        川があって、
+        橋があります。
+    tags: *a1
+  - id: 00ab7ecf-09c3-428f-852c-ef8ecae2d1d0
+    start: 00:51.6
+    end: 00:54.68
+    fields:
+      transcription: |-
+        二人は、
+        橋のところへ来ました。
+    tags: *a1
+  - id: 33246edf-6492-46fc-a1c4-14126e89c371
+    start: 00:55.92
+    end: 00:59.5
+    fields:
+      transcription: 橋の前に大きい紙がありました。
+    tags: *a1
+  - id: 1b6abf68-1ae4-4a14-90b6-68e0e3e05964
+    start: 01:00.42
+    end: 01:03.7
+    fields:
+      transcription: 和尚さんは、その紙を読みました。
+    tags: *a1
+  - id: c618de33-a907-4783-b344-208f1cd29fe1
+    start: 01:04.615
+    end: 01:09.915
+    fields:
+      transcription: 「『このはしを渡ってはいけません。』え⁈」
+    tags: *a1
+  - id: d95d657d-00e3-4495-a642-73bff75d9ad8
+    start: 01:10.803
+    end: 01:12.963
+    fields:
+      transcription: 和尚さんは、困りました。
+    tags: *a1
+  - id: 8c69f060-cc1a-4de2-9a43-55d66e94a287
+    start: 01:13.807
+    end: 01:19.027
+    fields:
+      transcription: 「この橋を渡らないと二兵衛さんの家行くことができません。
+    tags: *a1
+  - id: 9104d93a-9c48-438c-9cd1-2e41eb775555
+    start: 01:20.043
+    end: 01:22.563
+    fields:
+      transcription: |-
+        一休、
+        どうしましょう？」
+    tags: *a1
+  - id: 78937676-a69a-4366-b187-807d871a4775
+    start: 01:23.463
+    end: 01:27.023
+    fields:
+      transcription: 一休さんは、にこにこ笑っていました。
+    tags: *a1
+  - id: cb5a29b7-cdbc-4405-af3b-b33082dd970d
+    start: 01:28.331
+    end: 01:31.831
+    fields:
+      transcription: |-
+        大丈夫ですよ。和尚様、
+        渡りましょう。
+    tags: *a1
+  - id: aac0dc3e-d500-4037-bdaf-05a1eea3a0f7
+    start: 01:34.2
+    end: 01:38.96
+    fields:
+      transcription: 一休さんは、和尚さんと一緒に、橋を渡りました。
+    tags: *a1
+  - id: 80e39949-68e4-4a26-9418-2905d1c0a053
+    start: 01:40.46
+    end: 01:45.68
+    fields:
+      transcription: |-
+        橋を渡ると、
+        家の前に二瓶さんが立っていました。
+    tags: *a1
+  - id: df9b583c-cb5a-4afe-9cb2-875133bb1893
+    start: 01:46.5
+    end: 01:50.16
+    fields:
+      transcription: |-
+        「あれ？
+        あの紙を読みませんでしたか？」
+    tags: *a1
+  - id: 21cf8ea5-7d99-4cdc-a24d-2d13766be580
+    start: 01:50.62
+    end: 01:53.92
+    fields:
+      transcription: 一休さんは、笑いながら答えました。
+    tags: *a1
+  - id: 25e8f4a0-5622-4fe3-bb42-f6b4af7a0107
+    start: 01:54.8
+    end: 01:58.22
+    fields:
+      transcription: |-
+        「ああ、あの紙ですか。
+        読みましたよ」
+    tags: *a1
+  - id: 0dec4a54-e6a0-46ce-8098-e90770485ec5
+    start: 01:59.1
+    end: 02:04.86
+    fields:
+      transcription: |-
+        二瓶さんは言いました。
+        「では、
+        どうして橋を渡ったのですか
+    tags:
+      - JGR_2-3-5_ikkyuusan_sono_ni_2_hashi.mp3
+  - id: 4ed6f778-f276-4929-b221-3ea80ecc0e41
+    start: 02:06.12
+    end: 02:11.5
+    fields:
+      transcription: |-
+        私は、
+        この『はしを渡ってはいけません』
+        と書きましたよ。」
+    tags: *a1
+  - id: 558c1233-ade2-47b8-bb2b-e44b9026a72b
+    start: 02:12.22
+    end: 02:16.26
+    fields:
+      transcription: 「ですから、私たちは、端を渡りませんでしたよ」
+    tags: *a1
+  - id: 430a634d-67ed-49e2-8ff4-93490fdc6550
+    start: 02:17.0
+    end: 02:21.66
+    fields:
+      transcription: 「え？でも、今、橋を渡ってきましたね。
+    tags: *a1
+  - id: e8d6d463-94ef-4d54-b47f-c477bc413874
+    start: 02:22.58
+    end: 02:24.36
+    fields:
+      transcription: 私は、見ていましたよ」
+    tags: *a1
+  - id: a54f444a-5260-42f8-8629-d92d20101b1a
+    start: 02:24.94
+    end: 02:29.4
+    fields:
+      transcription: 「和尚様と私は真ん中を歩いて来ましたよ。
+    tags: *a1
+  - id: fd2c6a1b-e54c-4ec5-83cc-d02aba6bda38
+    start: 02:29.9
+    end: 02:32.26
+    fields:
+      transcription: 端は歩きませんでしたよ」
+    tags: *a1
+  - id: 08a471b0-f69c-4b58-822d-3e5ec34aad44
+    start: 02:33.04
+    end: 02:38.603
+    fields:
+      transcription: |-
+        「あっ、そうか！
+        橋と端。うーむ」
+    tags: *a1
+  - id: 7975b70c-e069-411a-8e4b-87bac1ca632a
+    start: 02:41.243
+    end: 02:47.003
+    fields:
+      transcription: |-
+        「橋」も「端」も、
+        ひらがなで書くと、
+        「はし」になります。
+      pronunciation: hashí-mo hashi-mo, hiragána-de káku-to, 「はし」-ni narimásu.
+    tags: *a1
+  - id: 264d6c62-bd28-482d-93d5-19a5ae4b89af
+    start: 02:47.683
+    end: 02:51.263
+    fields:
+      transcription: 一休さんは、それを上手に使ったのです。
+    tags: *a1
+  - id: e16d4942-ce71-48d2-96e5-bfeb7861f569
+    start: 02:52.043
+    end: 02:55.903
+    fields:
+      transcription: 二瓶さんは何も言うことが出来ませんでした。
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 0e2bbf18-682e-47b2-87fb-c896032a5a87
 ---
 name: JGR 2-3-5 ikkyuusan sono ni 3 obousan no kimono.mp3
 format: mp3
 duration: 05:18.694
 id: 8ff9ca61-cc5b-4a77-a89e-6abc70ebf3ae
-subtitles:
-  - id: 703fafe4-0954-4a6f-9e8b-beec2ef90728
-    type: External
-    chunksMetadata:
-      count: 102
-      endCue: 15833.55
-    name: JGR 2-3-5 ikkyuusan sono ni 3 obousan no kimono.srt
-flashcardFieldsToSubtitlesTracks:
-  transcription: 703fafe4-0954-4a6f-9e8b-beec2ef90728
+clips:
+  - id: 1d1ed8cc-f167-4eb8-8126-cae109ab18ed
+    start: 00:04.16
+    end: 00:09.02
+    fields:
+      transcription: |-
+        一休さんは、
+        安国寺で一生懸命勉強しました。
+    tags:
+      &a1
+      - JGR_2-3-5_ikkyuusan_sono_ni_3_obousan_no_kimono.mp3
+  - id: 47f615cd-6cca-4b6c-ab4b-96707c5917be
+    start: 00:09.84
+    end: 00:13.54
+    fields:
+      transcription: そして、立派なお坊さんになりました。
+    tags: *a1
+  - id: 4831e509-19a0-4d6f-bae5-e69b8f6c7b9d
+    start: 00:14.58
+    end: 00:20.64
+    fields:
+      transcription: |-
+        でも、
+        何歳になっても面白いことを言ったり、したりしました。
+    tags: *a1
+  - id: 3be08695-1e6b-4166-a1f3-00ab45fdc8cc
+    start: 00:23.6
+    end: 00:27.04
+    fields:
+      transcription: |-
+        一休さんは、
+        80歳になりました。
+    tags: *a1
+  - id: 8a9f093b-139f-421d-b40c-047be6107b4d
+    start: 00:29.067
+    end: 00:34.167
+    fields:
+      transcription: 小さい寺に住んで、いつも古い着物を着ていました。
+    tags: *a1
+  - id: 972dc8ac-6027-4132-b5c5-5f48235c8e58
+    start: 00:35.087
+    end: 00:40.907
+    fields:
+      transcription: お金や物を貰っても、すぐに困っている人たちにあげました。
+    tags: *a1
+  - id: a771efb8-046f-4506-8411-6c27919986e9
+    start: 00:43.84
+    end: 00:55.26
+    fields:
+      transcription: |-
+        ある日、
+        天皇が言いました。
+        「一休は、
+        とても立派なお坊さんですから、
+        紫色の着物をあげましょう」
+    tags: *a1
+  - id: 4caf8905-2db9-4904-9278-80cdb7659d52
+    start: 00:56.3
+    end: 01:00.24
+    fields:
+      transcription: 天皇は日本で一番上の人です。
+    tags: *a1
+  - id: 70700dc8-27c5-4b9d-a25a-34bdb6f074b7
+    start: 01:00.92
+    end: 01:04.54
+    fields:
+      transcription: 一休さんは、天皇の所へ行きました。
+    tags: *a1
+  - id: 80b7926c-e86c-4e32-a47d-ed9326772ce9
+    start: 01:05.2
+    end: 01:10.66
+    fields:
+      transcription: |-
+        そして、
+        紫色のとてもきれいな着物をもらいました。
+    tags: *a1
+  - id: 75d047b5-2f91-4c00-ada6-d8498238533b
+    start: 01:11.86
+    end: 01:17.96
+    fields:
+      transcription: |-
+        でも、
+        一休さんは、
+        その着物を
+        一回も着ませんでした。
+    tags: *a1
+  - id: 537218d7-b9e4-420c-a6fb-58d3ddb61d26
+    start: 01:20.94
+    end: 01:26.26
+    fields:
+      transcription: |-
+        ある朝、
+        男の人が、
+        一休さんのお寺に来ました。
+    tags: *a1
+  - id: b271fc1c-b565-4aa0-b7f4-0eeced0f3842
+    start: 01:27.32
+    end: 01:30.86
+    fields:
+      transcription: その男は、お金をたくさん持っていました。
+    tags: *a1
+  - id: d1e2413e-5953-40d7-95bd-8650f4133ef3
+    start: 01:31.94
+    end: 01:39.1
+    fields:
+      transcription: |-
+        男は言いました。
+        「明日、町の人がたくさん、私の家へ来ます。
+    tags:
+      - JGR_2-3-5_ikkyuusan_sono_ni_3_obousan_no_kimono.mp3
+  - id: 91029052-359c-4daa-a939-cd17e2b35a34
+    start: 01:40.22
+    end: 01:41.9
+    fields:
+      transcription: 一休さんも来てください
+    tags: *a1
+  - id: 081484ee-3c83-4449-aca5-ab4345e0c0cc
+    start: 01:43.36
+    end: 01:46.46
+    fields:
+      transcription: 一休さんは、いろいろなことを知っています。
+    tags: *a1
+  - id: d2f5b0a9-0f0d-470d-9837-292127634aab
+    start: 01:47.14
+    end: 01:50.9
+    fields:
+      transcription: 天皇様から、紫色の着物も、もらいました。
+    tags: *a1
+  - id: 2e1d74c4-5010-4cc2-b4db-fff328c410d3
+    start: 01:51.72
+    end: 01:54.52
+    fields:
+      transcription: 私たちに、いい話をしてください。
+    tags: *a1
+  - id: d52de09d-c35d-4b94-93bf-8e880e285673
+    start: 01:55.2
+    end: 01:58.3
+    fields:
+      transcription: 一休さんは、私たちの先生です。
+    tags: *a1
+  - id: 2b388e1e-0b98-4519-a8c6-0c6f99fe4017
+    start: 01:59.3
+    end: 02:01.76
+    fields:
+      transcription: おいしいご飯や、お酒もあります。
+    tags: *a1
+  - id: 8a205bdc-fb1a-4119-ad32-0fde073df22b
+    start: 02:02.44
+    end: 02:03.9
+    fields:
+      transcription: お金もあげましょう」
+    tags: *a1
+  - id: a7c25374-00bd-45df-b060-6901b8433617
+    start: 02:04.88
+    end: 02:14.44
+    fields:
+      transcription: |-
+        一休さんは、答えました。
+        「はい、
+        わかりました。
+        明日、
+        あなたの家へ行きます。
+    tags:
+      - JGR_2-3-5_ikkyuusan_sono_ni_3_obousan_no_kimono.mp3
+  - id: b11ab5b0-5dc5-4cd7-9c7d-27ec6d74d8dc
+    start: 02:15.5
+    end: 02:18.48
+    fields:
+      transcription: |-
+        男は、
+        喜んで帰りました。
+    tags: *a1
+  - id: 16340a79-03e5-46fe-a74b-5a494a95c7a6
+    start: 02:21.4
+    end: 02:29.12
+    fields:
+      transcription: |-
+        次の日の昼頃、
+        一休さんは、いつもの古くて汚い着物を着ました。
+    tags: *a1
+  - id: c0088a2e-9034-41fb-902d-ebdca41ef255
+    start: 02:29.795
+    end: 02:32.755
+    fields:
+      transcription: |-
+        顔も、
+        でも汚くしました。
+    tags: *a1
+  - id: 8782ebdf-4358-41d6-9346-73def203e698
+    start: 02:33.559
+    end: 02:36.439
+    fields:
+      transcription: そして、男の家へ行きました。
+    tags: *a1
+  - id: 2a3ad270-31b9-44ba-8f9f-c6870a27e1c1
+    start: 02:39.3
+    end: 02:44.62
+    fields:
+      transcription: |-
+        一休さんが
+        「こんにちは」と言うと
+        男が出てきました。
+    tags: *a1
+  - id: d6cff243-2177-46e3-a9ea-54c2ca1bd536
+    start: 02:45.62
+    end: 02:51.8
+    fields:
+      transcription: |-
+        男は、一休さんの汚い着物を見て、
+        大きい声で言いました。
+    tags: *a1
+  - id: 16eed03f-26aa-4560-b949-30faee5a0651
+    start: 02:52.54
+    end: 02:55.26
+    fields:
+      transcription: 「ああ、汚いお坊さんだなあ。
+    tags: *a1
+  - id: ab300091-d6ab-48ab-b1ed-b53e32a2e724
+    start: 02:55.62
+    end: 02:57.58
+    fields:
+      transcription: 顔も手も汚いなあ。
+    tags: *a1
+  - id: 4146592a-0138-4685-bd17-4ea12a0934d6
+    start: 02:58.38
+    end: 03:00.3
+    fields:
+      transcription: 私の家に入ってはいけません。
+    tags: *a1
+  - id: 4d751716-3ba0-4883-b173-0275790f7fc8
+    start: 03:00.88
+    end: 03:02.26
+    fields:
+      transcription: 何もあげませんよ。
+    tags: *a1
+  - id: b72f2ca0-2aaf-4f73-b4de-f230f72fcfba
+    start: 03:02.84
+    end: 03:04.28
+    fields:
+      transcription: 早く出ていきなさい」
+    tags: *a1
+  - id: e692e895-1398-4e5c-9be9-3557a48c2fda
+    start: 03:05.3
+    end: 03:08.32
+    fields:
+      transcription: 一休さんは、すぐ帰りました。
+    tags: *a1
+  - id: 72ba3ad9-3a85-4107-9103-6b55f3c6def4
+    start: 03:11.34
+    end: 03:20.68
+    fields:
+      transcription: |-
+        一休さんは
+        家へ帰ると、
+        天皇からもらった紫色の着物を着て、
+        顔も手もきれいにしました。
+    tags: *a1
+  - id: e4fa7c3e-607a-460b-8b30-840467744971
+    start: 03:21.22
+    end: 03:24.72
+    fields:
+      transcription: |-
+        そして、
+        また男の家へ行きました。
+    tags: *a1
+  - id: 0106c909-217d-48ae-85cb-e3d3004ee32b
+    start: 03:25.8
+    end: 03:27.22
+    fields:
+      transcription: 「こんばんは」
+    tags: *a1
+  - id: e7324ef8-3cb1-4029-9fef-43e408da2427
+    start: 03:29.24
+    end: 03:33.52
+    fields:
+      transcription: 男や家の人、町の人たちが出てきました。
+    tags: *a1
+  - id: 24327912-0c5b-4011-b6a1-df15e92f35aa
+    start: 03:36.3
+    end: 03:46.923
+    fields:
+      transcription: |-
+        紫色の着物の一休さんを見て、
+        男は、喜んでいました。
+        「一休さん、いらっしゃい。
+        どうぞ、どうぞ。
+    tags:
+      - JGR_2-3-5_ikkyuusan_sono_ni_3_obousan_no_kimono.mp3
+  - id: 05aeffc8-0d79-4118-8199-786c5ba1c233
+    start: 03:47.56
+    end: 03:52.96
+    fields:
+      transcription: |-
+        みんな、あなたを待っています。
+        早く家の中に入ってください」
+    tags: *a1
+  - id: ee5d19f0-25f1-4b12-be9f-93420d37722e
+    start: 03:53.86
+    end: 04:00.78
+    fields:
+      transcription: |-
+        すると、
+        一休さんは、紫色の着物を脱いで、
+        男に渡しました。
+    tags: *a1
+  - id: 2f582bba-5d80-4e9b-a223-ff35c73e1ca4
+    start: 04:02.18
+    end: 04:08.26
+    fields:
+      transcription: |-
+        「皆さん、
+        これは、
+        立派なお坊さんが着る着物です。
+    tags: *a1
+  - id: cfc143ee-e601-4a50-aad5-35f8a764f0e6
+    start: 04:09.44
+    end: 04:14.42
+    fields:
+      transcription: |-
+        今日は、
+        この着物が、
+        あなた達の先生です」
+    tags: *a1
+  - id: c888465d-c0d0-47f1-aa42-f28994e2f385
+    start: 04:16.8
+    end: 04:17.9
+    fields:
+      transcription: 「この着物が⁈」
+    tags: *a1
+  - id: 23ed5f86-60b1-49e7-b03b-5a7e9d836632
+    start: 04:18.76
+    end: 04:21.8
+    fields:
+      transcription: 男も、みんなも、びっくりしました。
+    tags: *a1
+  - id: f288f51a-601c-415e-b879-fc340618aa60
+    start: 04:24.42
+    end: 04:27.68
+    fields:
+      transcription: |-
+        一休さんは、
+        静かに言いました。
+    tags: *a1
+  - id: 38dd5f32-5d3b-40fb-9ea8-3d6db6ffaefa
+    start: 04:29.0
+    end: 04:34.8
+    fields:
+      transcription: |-
+        「今日の昼頃、
+        私は汚い着物を着て、ここへ来ました。
+    tags: *a1
+  - id: cc42c6ce-7329-46a4-b73a-744140282026
+    start: 04:35.46
+    end: 04:43.36
+    fields:
+      transcription: |-
+        すると、
+        あなたは、それを見て、
+        『家に入ってはいけません』と言いました。
+    tags: *a1
+  - id: 5ac47513-c63e-4c2f-bc5f-04ae7f435090
+    start: 04:45.0
+    end: 04:55.54
+    fields:
+      transcription: |-
+        次に、
+        私が紫色の着物を着て、ここへ来ると、
+        あなたは、
+        『家に入ってください』
+        と言いました。
+    tags: *a1
+  - id: 6af78afb-0552-4b7b-a3d1-5c3e51866446
+    start: 04:57.04
+    end: 05:01.76
+    fields:
+      transcription: |-
+        だから、この着物が、
+        あなた達の先生です。
+    tags: *a1
+  - id: fde9de37-f090-49ce-a0b7-6f4f95471e7f
+    start: 05:03.06
+    end: 05:06.38
+    fields:
+      transcription: |-
+        この着物に、
+        話を聞いてください」
+    tags: *a1
+  - id: bd9e4a45-0acf-4719-aefd-6fce12e1d4a6
+    start: 05:12.063
+    end: 05:16.743
+    fields:
+      transcription: |-
+        男は、
+        何も言うことが出来ませんでした。
+    tags: *a1
 ---
 name: WGR 1 kitakaze to taiyou.mp3
 format: mp3
@@ -15684,7 +19484,7 @@ clips:
       - WGR_3_tsuru_no_ongaeshi.mp3
   - id: dc108e71-ba1e-42e2-be52-ff88e9d09a8c
     start: 07:46.431
-    end: 07:52.575
+    end: 07:52.771
     fields:
       transcription: そう言うと、女はツルの体に戻って、家を出ていきました。
     tags: *a1
@@ -15726,13 +19526,6 @@ name: WGR 4 chuumon no ooi ryouriten.mp3
 format: mp3
 duration: 12:34.077
 id: ea68040a-c524-4733-98ad-bf311a08aa4a
-subtitles:
-  - id: 520dde8b-ae9a-4638-80aa-9241fdcd0617
-    type: External
-    chunksMetadata:
-      count: 147
-      endCue: 37644.75
-    name: WGR 4 chuumon no ooi ryouriten.srt
 clips:
   - id: 5985b016-e180-43e1-8cc3-f69a72f52ce5
     start: 00:00.768
@@ -15747,19 +19540,87 @@ clips:
     start: 00:05.12
     end: 00:10.24
     fields:
-      transcription: 冬のある日、二人の若い男が山にいました。二人は新しい銃を持って、犬と一緒でした。「この山は変だ。鳥や動物がいない。私は早くこの新しい銃を使いたいよ。」「大きな動物をこの銃で殺したら、きっと楽しいはずだ。」二人はこんな話をしながら、山を歩いていました。しかし、たくさん歩いても、動物を見つけることが出来ません。「お腹が空いたから、今日は家に帰ろう。」「うん、そうしよう。」二人は山を降りることにしました。しかし、二人とも帰りの道を覚えていません。二人は道に迷ってしまいました。夕方になると、風が強くなって、雪も降ってきました。あまりに寒くなったので、犬はどこかに逃げてしまいました。
+      transcription: 冬のある日、二人の若い男が山にいました。
       meaning: One day in winter, there were two young men in the mountain. They had new guns and were with dogs. “This mountain looks strange. There is not a bird nor an animal. I want to use this new gun soon.” “If I kill a big animal by this gun, it should certainly be fun.” While they were talking about these kinds of things, they were walking in the mountain. But, although they walked a lot, they could not find an animal. “I have become hungry, so let’s go home today.” “Yes, let’s.” They decided that they would go down the mountain. But, both of them didn’t remember the way home. They lost their way. When it became evening, the wind became strong and it started snowing, too. Since it became too cold, the dogs ran away somewhere.
+    tags: *a1
+  - id: 4f08983e-0349-451a-8f69-0d0abb50904a
+    start: 00:11.6
+    end: 00:16.04
+    fields:
+      transcription: 二人は新しい銃を持って、犬と一緒でした。
+    tags: *a1
+  - id: 0301b1b0-cd9b-4b78-a1ee-575d0d372aed
+    start: 00:17.46
+    end: 00:21.5
+    fields:
+      transcription: 「この山は変だ。鳥や動物がいない。
+    tags: *a1
+  - id: 4e4ca3e9-9b6b-45a8-ac8a-9de4f2aa12da
+    start: 00:22.784
+    end: 00:27.392
+    fields:
+      transcription: 私は早くこの新しい銃を使いたいよ。」
+    tags: *a1
+  - id: ed8ff47e-f108-477f-b923-f64ae0019993
+    start: 00:28.672
+    end: 00:34.304
+    fields:
+      transcription: 「大きな動物をこの銃で殺したら、きっと楽しいはずだ。」
+    tags: *a1
+  - id: 4fda9172-0a9a-44b1-aee6-8a35842bda7a
+    start: 00:35.584
+    end: 00:40.704
+    fields:
+      transcription: 二人はこんな話をしながら、山を歩いていました。
+    tags: *a1
+  - id: d321a887-3fb5-4484-9a0f-55e76eeb18c3
+    start: 00:41.984
+    end: 00:48.128
+    fields:
+      transcription: しかし、たくさん歩いても、動物を見つけることが出来ません。
+    tags: *a1
+  - id: 133425e5-9b7d-4de2-88be-ecc0bf6eef3c
+    start: 00:49.408
+    end: 00:52.992
+    fields:
+      transcription: 「お腹が空いたから、今日は家に帰ろう。」
+    tags: *a1
+  - id: 4a31e486-592a-45a0-ba0c-ceb2a70ae40b
+    start: 00:54.528
+    end: 01:00.672
+    fields:
+      transcription: 「うん、そうしよう。」二人は山を降りることにしました。
+    tags:
+      - WGR_4_chuumon_no_ooi_ryouriten.mp3
+  - id: 6a65187a-ec2e-4f03-8ae8-3dbeb54517e4
+    start: 01:01.952
+    end: 01:06.816
+    fields:
+      transcription: しかし、二人とも帰りの道を覚えていません。
+    tags: *a1
+  - id: 3c89c1e9-33d1-4a17-8277-aa5f58dfa8cc
+    start: 01:08.352
+    end: 01:11.424
+    fields:
+      transcription: 二人は道に迷ってしまいました。
+    tags: *a1
+  - id: 46626ffc-cbc2-4a7d-9aec-dcbebf387b84
+    start: 01:12.704
+    end: 01:18.336
+    fields:
+      transcription: 夕方になると、風が強くなって、雪も降ってきました。
+    tags: *a1
+  - id: 4b324985-dd5d-4829-8bcf-463d0a83503c
+    start: 01:19.872
+    end: 01:25.248
+    fields:
+      transcription: あまりに寒くなったので、犬はどこかに逃げてしまいました。
     tags: *a1
   - id: 904c9eee-71b9-4e3c-b7d7-f8bb28ac23ad
     start: 01:27.552
     end: 01:32.672
     fields:
-      transcription: |-
-        「困った。寒いし、私はお腹も空いている。」「僕も何か食べたいよ。夜になると死んでしまうよ。」二人がそんな話をしていると、山猫レストランというレストランを見つけました。「これはいい。中に入ろう。」「しかし、こんな山の中にレストランがあるのは少し変だね。」「いいから行こう。私はもうお腹が空いて、死にそうなんだ。」「うん、僕も暖かい部屋で休みたいよ。」二人がドアを開けようとすると、ドアに何か書いてあるのを見つけました。
-
-        “いらっしゃいませ。遠慮なく入ってください。”
-
-        二人は喜びました。「すごい。今日はたくさん歩いて大変だったけど、夜はお金を払わずにごはんが食べられる！」「そうだね。『遠慮なく』というのは『タダで』ということだよね。」
+      transcription: 「困った。寒いし、私はお腹も空いている。」
       meaning: |-
         “We have got a problem. It’s cold and I am also hungry.” “I want to eat something, too. If it becomes night, we’re going to die.” While they were talking about such things, they found a restaurant named WILDCAT RESTAURANT. “This sounds good. Let’s get inside.” “But, it’s strange that there is a restaurant even in the mountain, isn’t it?” “Don’t worry. Come on. I’m already hungry and I feel I’m going to die.” “Yeah, I want to take a rest in a warm room, too.“ When they tried to open the door, they found that something was written on the door;
 
@@ -15767,18 +19628,92 @@ clips:
 
         They were glad. “Amazing! It’s a tough day, we have been walking a lot, but we can eat a meal without paying money at night.” “You are right. “Feel free” must be “For free”, mustn’t it?”
     tags: *a1
+  - id: d705e139-2947-41ac-a92c-caa5e32233e3
+    start: 01:33.952
+    end: 01:36.256
+    fields:
+      transcription: 「僕も何か食べたいよ。
+    tags: *a1
+  - id: a7387f5d-9f73-4d15-9e98-bebd95777a35
+    start: 01:37.536
+    end: 01:40.096
+    fields:
+      transcription: 夜になると死んでしまうよ。」
+    tags: *a1
+  - id: 0e10b1cc-6b04-4c44-bed9-32a0913bf1d5
+    start: 01:41.376
+    end: 01:49.052
+    fields:
+      transcription: 二人がそんな話をしていると、山猫レストランというレストランを見つけました。
+    tags:
+      - WGR_4_chuumon_no_ooi_ryouriten.mp3
+  - id: 1b74b2d1-9862-49f8-9bc3-63fe8595665a
+    start: 01:50.336
+    end: 01:53.152
+    fields:
+      transcription: 「これはいい。中に入ろう。」
+    tags: *a1
+  - id: c16cd673-032b-44ae-8ac9-d75e7d5e5e4c
+    start: 01:54.563
+    end: 02:01.283
+    fields:
+      transcription: 「しかし、こんな山の中にレストランがあるのは少し変だね。」
+    tags: *a1
+  - id: 4af7b033-9023-4655-8b30-71a8073ae595
+    start: 02:02.624
+    end: 02:03.904
+    fields:
+      transcription: 「いいから行こう。
+    tags: *a1
+  - id: d025dd1a-449b-497d-985e-75752bf28890
+    start: 02:05.184
+    end: 02:09.536
+    fields:
+      transcription: 私はもうお腹が空いて、死にそうなんだ。」
+    tags: *a1
+  - id: 07025b5a-20ff-4dde-b64b-fe03fc7a0f43
+    start: 02:10.816
+    end: 02:14.912
+    fields:
+      transcription: 「うん、僕も暖かい部屋で休みたいよ。」
+    tags: *a1
+  - id: cce0e054-d2f5-4f47-bd42-ae6ac07de78e
+    start: 02:16.192
+    end: 02:23.18
+    fields:
+      transcription: 二人がドアを開けようとすると、ドアに何か書いてあるのを見つけました。
+    tags:
+      - WGR_4_chuumon_no_ooi_ryouriten.mp3
+  - id: fcd62378-ee42-453b-bd9b-8447f97628a1
+    start: 02:24.384
+    end: 02:28.736
+    fields:
+      transcription: “いらっしゃいませ。遠慮なく入ってください。”
+    tags: *a1
+  - id: d15ca904-4f92-4016-9f46-0a07cf1f47e7
+    start: 02:30.016
+    end: 02:32.32
+    fields:
+      transcription: 二人は喜びました。
+    tags: *a1
+  - id: c71885d9-2a40-496f-8ae1-148b0dfa5eb8
+    start: 02:33.6
+    end: 02:43.743
+    fields:
+      transcription: 「すごい。今日はたくさん歩いて大変だったけど、夜はお金を払わずにごはんが食べられる！」
+    tags:
+      - WGR_4_chuumon_no_ooi_ryouriten.mp3
+  - id: c47d6118-369e-4e69-b8e6-0162ce7d487a
+    start: 02:45.12
+    end: 02:51.008
+    fields:
+      transcription: 「そうだね。『遠慮なく』というのは『タダで』ということだよね。」
+    tags: *a1
   - id: 5db0324b-883d-445b-82f9-d7e7cf18c740
     start: 02:53.312
     end: 02:55.872
     fields:
-      transcription: |-
-        二人はドアを開けました。すると、ドアの裏にはこう書いてありました。
-
-        “太った人、若い人は、特に来てくれてありがとう。”
-
-        二人はとても喜びました。なぜなら二人とも若くて太っていたからです。「いいレストランに来ることができて幸せだ。」二人が廊下を歩いていくと、青いドアがありました。「変だね。どうしてこのレストランにはドアがたくさんあるんだ？」「ここが山の中だからだよ。寒い場所や山の中は、建物にドアがたくさんあるんだ。」二人が青いドアを開けようとすると、今度はこう書いてあるのを見つけました。
-
-        “ここは注文の多いレストランですが、よろしくお願いします。”
+      transcription: 二人はドアを開けました。
       meaning: |-
         They opened the door. Then, what was written on the back of the door was this;
 
@@ -15788,21 +19723,78 @@ clips:
 
         “Here is a restaurant which has many orders. Please understand.”
     tags: *a1
+  - id: 6559edb4-3b32-4c9e-b93a-11f979463d36
+    start: 02:57.152
+    end: 03:01.76
+    fields:
+      transcription: すると、ドアの裏にはこう書いてありました。
+    tags: *a1
+  - id: 020f0eab-f68a-41f0-b7cc-9e5375742e84
+    start: 03:03.04
+    end: 03:09.184
+    fields:
+      transcription: “太った人、若い人は、特に来てくれてありがとう。”
+    tags: *a1
+  - id: 1a8eff24-c828-404b-9eba-0d1f1ec676fc
+    start: 03:10.464
+    end: 03:13.024
+    fields:
+      transcription: 二人はとても喜びました。
+    tags: *a1
+  - id: 50159f8a-1767-40df-a28f-9208f93f02d9
+    start: 03:14.304
+    end: 03:18.912
+    fields:
+      transcription: なぜなら二人とも若くて太っていたからです。
+    tags: *a1
+  - id: c17afb20-d8af-4672-a267-e499acc11089
+    start: 03:20.192
+    end: 03:24.032
+    fields:
+      transcription: 「いいレストランに来ることができて幸せだ。」
+    tags: *a1
+  - id: 8e3ede71-ca54-4401-82f6-4ce13f2da6e0
+    start: 03:25.312
+    end: 03:30.688
+    fields:
+      transcription: 二人が廊下を歩いていくと、青いドアがありました。
+    tags: *a1
+  - id: 72b25601-386b-4625-95cc-266bea4d8b5b
+    start: 03:31.968
+    end: 03:38.112
+    fields:
+      transcription: 「変だね。どうしてこのレストランにはドアがたくさんあるんだ？」
+    tags: *a1
+  - id: 288cc6f0-a4a9-44d1-85d8-e5dd16982f88
+    start: 03:39.648
+    end: 03:42.208
+    fields:
+      transcription: 「ここが山の中だからだよ。
+    tags: *a1
+  - id: 910aa7eb-51ec-4b20-8814-3e1ef7fa3139
+    start: 03:43.488
+    end: 03:49.632
+    fields:
+      transcription: 寒い場所や山の中は、建物にドアがたくさんあるんだ。」
+    tags: *a1
+  - id: c97c7a5f-c839-42ab-a8fe-1e7c65244ce3
+    start: 03:50.912
+    end: 03:58.475
+    fields:
+      transcription: 二人が青いドアを開けようとすると、今度はこう書いてあるのを見つけました。
+    tags:
+      - WGR_4_chuumon_no_ooi_ryouriten.mp3
+  - id: 4a709490-ad28-4da5-820d-aaed32d9a6d1
+    start: 03:59.872
+    end: 04:05.76
+    fields:
+      transcription: “ここは注文の多いレストランですが、よろしくお願いします。”
+    tags: *a1
   - id: 92d74290-0764-43d9-b9db-3b0ab5bbdd45
     start: 04:07.808
     end: 04:12.928
     fields:
-      transcription: |-
-        「山の中なのに、このレストランは人気があるみたいだ。」「そうみたいだ。ごはんを食べるのが楽しみだ。」二人はそう言って青いドアを開けました。すると、青いドアの裏にはこう書いてありました。
-
-        “注文が多いですが、我慢してください。”
-
-        「これはどういう意味だ？」「このレストランは注文が多いから、ごはんを作るのに時間がかかるということだよ。」「ああ、たぶんそうだ。早く暖かい部屋に入りたいね。」
-        「うん、僕はいすに座りたいよ。」しかし、また別のドアがありました。ドアに鏡がついています。
-
-        “服や靴をきれいにしてください。”
-
-        「うん、服をきれいにするのは大切だよね。」「そうだね。さあ、きれいにしよう。」
+      transcription: 「山の中なのに、このレストランは人気があるみたいだ。」
       meaning: |-
         “Even though it’s in the mountain, it seems that this restaurant is popular.” “It seems so. I’m looking forward to eating a meal.” They said that and then opened the blue door. Then, this was written on the back of the blue door;
 
@@ -15814,24 +19806,91 @@ clips:
 
         “Right, it’s important to clean clothes.” “That’s right. Let’s clean.”
     tags: *a1
+  - id: 1043ed2e-ec08-4f30-b016-bb700f5a3c1c
+    start: 04:14.208
+    end: 04:18.815
+    fields:
+      transcription: 「そうみたいだ。ごはんを食べるのが楽しみだ。」
+    tags: *a1
+  - id: 8d505755-28d5-48b4-9808-5b938970258b
+    start: 04:20.095
+    end: 04:24.191
+    fields:
+      transcription: 二人はそう言って青いドアを開けました。
+    tags: *a1
+  - id: 01becdc8-f0cb-45e5-a734-bc24f2a17006
+    start: 04:25.471
+    end: 04:30.335
+    fields:
+      transcription: すると、青いドアの裏にはこう書いてありました。
+    tags: *a1
+  - id: 67835396-0268-4396-814a-482f226fb4a2
+    start: 04:31.615
+    end: 04:35.711
+    fields:
+      transcription: “注文が多いですが、我慢してください。”
+    tags: *a1
+  - id: 842fd8c7-5b72-4614-abfb-498c288f0fb7
+    start: 04:36.991
+    end: 04:39.039
+    fields:
+      transcription: 「これはどういう意味だ？」
+    tags: *a1
+  - id: 76399aa5-18b7-4de6-8192-f01fee22ccf2
+    start: 04:40.319
+    end: 04:48.246
+    fields:
+      transcription: 「このレストランは注文が多いから、ごはんを作るのに時間がかかるということだよ。」
+    tags:
+      - WGR_4_chuumon_no_ooi_ryouriten.mp3
+  - id: e11270ff-e1ba-44ca-9c6f-0b374d527056
+    start: 04:49.535
+    end: 04:56.054
+    fields:
+      transcription: 「ああ、たぶんそうだ。早く暖かい部屋に入りたいね。」
+    tags:
+      - WGR_4_chuumon_no_ooi_ryouriten.mp3
+  - id: 7533e91a-5022-47ed-8584-58cb4a7350b0
+    start: 04:57.471
+    end: 05:00.799
+    fields:
+      transcription: 「うん、僕はいすに座りたいよ。」
+    tags: *a1
+  - id: 035ddbbb-3cd8-4175-bcac-ff71ec2daa39
+    start: 05:02.079
+    end: 05:05.919
+    fields:
+      transcription: しかし、また別のドアがありました。
+    tags: *a1
+  - id: 41626099-fa51-4325-9741-8da557f5e4d6
+    start: 05:07.199
+    end: 05:09.759
+    fields:
+      transcription: ドアに鏡がついています。
+    tags: *a1
+  - id: 7b50dde2-df12-470c-a9eb-71b3cb4188fb
+    start: 05:11.039
+    end: 05:13.855
+    fields:
+      transcription: “服や靴をきれいにしてください。”
+    tags: *a1
+  - id: e4f44738-59df-44c1-a542-97215240209a
+    start: 05:15.135
+    end: 05:19.446
+    fields:
+      transcription: 「うん、服をきれいにするのは大切だよね。」
+    tags: *a1
+  - id: e192ee77-2f69-47b4-a7de-8f973167fade
+    start: 05:21.306
+    end: 05:24.863
+    fields:
+      transcription: 「そうだね。さあ、きれいにしよう。」
+    tags: *a1
   - id: 145144b2-85b7-488d-8ae6-ff8fd0b6cc4f
     start: 05:27.167
     end: 05:33.311
     fields:
-      transcription: |-
-        二人は服をきれいにした後、ドアを開けて中に入りました。またドアの裏に何か書いてありました。
-
-        “銃はここに置いてください。”
-
-        ドアの横に机がありました。「なるほど。銃を持ってごはんを食べるのは確かによくない。」「そうだね。他のお客さんが驚くかもしれない。」今度は黒いドアがありました。
-
-        “帽子と靴を脱いでください。“
-
-        「どうして脱がないといけないんだ？」「わからないけど、脱ぎましょう。」二人は帽子と靴を脱いで、次の部屋に入りました。黒いドアの裏にはこう書いてありました。
-
-        “メガネと財布はこの箱に入れてください。”
-
-        ドアの横に箱が鍵と一緒に置いてありました。「こういうものはごはんと関係ないけど、どうして？」「帰る時に、ここでお金を払うからだと思うよ。」「なるほど。」
+      transcription: 二人は服をきれいにした後、ドアを開けて中に入りました。
       meaning: |-
         After they cleaned their clothes, they opened the door and got inside. Again, something was written on the back of the door.
 
@@ -15847,20 +19906,107 @@ clips:
 
         A box with a key was placed at the side of the door. “These kind of items have nothing to do with a meal, but why?” “Because we will pay the money here when we return, I guess.” “I see.”
     tags: *a1
+  - id: b482a184-9417-4fcd-938e-2d754ffd863e
+    start: 05:34.591
+    end: 05:38.175
+    fields:
+      transcription: またドアの裏に何か書いてありました。
+    tags: *a1
+  - id: 234dc004-66ad-43e1-a958-659767693a58
+    start: 05:39.455
+    end: 05:42.015
+    fields:
+      transcription: “銃はここに置いてください。”
+    tags: *a1
+  - id: dc542e28-9bea-4b08-9c22-904b498d359f
+    start: 05:43.295
+    end: 05:46.111
+    fields:
+      transcription: ドアの横に机がありました。
+    tags: *a1
+  - id: 7a2967dd-a07e-48c1-b2fa-1b7418d46c7c
+    start: 05:47.391
+    end: 05:53.023
+    fields:
+      transcription: 「なるほど。銃を持ってごはんを食べるのは確かによくない。」
+    tags: *a1
+  - id: 062c8c45-55ed-468d-b752-55b9ef60c02e
+    start: 05:54.559
+    end: 05:59.423
+    fields:
+      transcription: 「そうだね。他のお客さんが驚くかもしれない。」
+    tags: *a1
+  - id: 1818825e-1d3b-41cf-ba7e-4e227fb250c1
+    start: 06:00.447
+    end: 06:03.519
+    fields:
+      transcription: 今度は黒いドアがありました。
+    tags: *a1
+  - id: 55b667b2-40c4-4f10-8e53-b4ebdc26005f
+    start: 06:04.799
+    end: 06:07.359
+    fields:
+      transcription: “帽子と靴を脱いでください。“
+    tags: *a1
+  - id: 8c0b1768-b331-448a-9bc4-674d1b7df3c7
+    start: 06:08.895
+    end: 06:11.711
+    fields:
+      transcription: 「どうして脱がないといけないんだ？」
+    tags: *a1
+  - id: 501acbdf-c675-431c-851e-c6c7799122ce
+    start: 06:12.991
+    end: 06:15.807
+    fields:
+      transcription: 「わからないけど、脱ぎましょう。」
+    tags: *a1
+  - id: 719b74ab-ee44-4d58-b12f-969db96af7fc
+    start: 06:17.087
+    end: 06:22.463
+    fields:
+      transcription: 二人は帽子と靴を脱いで、次の部屋に入りました。
+    tags: *a1
+  - id: 882785d1-df69-4235-b0ad-1efb83d8b20e
+    start: 06:23.999
+    end: 06:27.839
+    fields:
+      transcription: 黒いドアの裏にはこう書いてありました。
+    tags: *a1
+  - id: 1973cca2-b56d-426c-87a4-ae7e7bfc7fed
+    start: 06:29.119
+    end: 06:32.703
+    fields:
+      transcription: “メガネと財布はこの箱に入れてください。”
+    tags: *a1
+  - id: ab66a96c-58aa-4903-a3c5-c7edd4fdb52f
+    start: 06:34.239
+    end: 06:38.591
+    fields:
+      transcription: ドアの横に箱が鍵と一緒に置いてありました。
+    tags: *a1
+  - id: 13303c86-94c6-4f99-82de-7d2ceacbdc05
+    start: 06:39.871
+    end: 06:44.735
+    fields:
+      transcription: 「こういうものはごはんと関係ないけど、どうして？」
+    tags: *a1
+  - id: 59101e92-a0c7-427d-be41-703a50c2c834
+    start: 06:46.015
+    end: 06:50.623
+    fields:
+      transcription: 「帰る時に、ここでお金を払うからだと思うよ。」
+    tags: *a1
+  - id: fac28a4e-3106-46c3-a0e3-3131803bda11
+    start: 06:51.903
+    end: 06:52.671
+    fields:
+      transcription: 「なるほど。」
+    tags: *a1
   - id: 2480c291-d89f-4a94-a575-c463894f64e0
     start: 06:54.975
     end: 06:59.327
     fields:
-      transcription: |-
-        二人はメガネと財布を箱の中に入れました。それから少し歩くと、赤いドアがありました。
-
-        “この薬を顔や体にぬってください。“
-
-        薬がドアの前に置いてありました。「どうして薬をぬらないといけないんだ？」「うーん、わからない。けど、これで体もきれいにできるよ。」「そうだね。体もきれいにしておこう。」二人は薬を体にぬってドアを開けました。赤いドアの裏にはこう書いてありました。
-
-        “薬を耳にぬるのを忘れないでください。”
-
-        「おっと、薬を耳にぬるのを忘れていた。このレストランの人はとても細かいね。」「僕も耳にぬるのを忘れていた。しかし、ごはんはいつ食べられるんだ？もうお腹が空いているのに。」
+      transcription: 二人はメガネと財布を箱の中に入れました。
       meaning: |+
         They put their glasses and wallet into the box. Then, they walked a little and there was a red door.
 
@@ -15873,20 +20019,101 @@ clips:
         “Oh, I forgot to apply the medicine to my ears. People in this restaurant are very sensitive, aren’t they?” “I also forgot to apply that to my ears. But, when can we eat a meal. I’m already hungry.”
 
     tags: *a1
+  - id: a809cd6f-e268-414f-8a9c-e339f2bfd551
+    start: 07:00.607
+    end: 07:05.215
+    fields:
+      transcription: それから少し歩くと、赤いドアがありました。
+    tags: *a1
+  - id: fc7f4c73-1cc8-4307-8a77-3fd3daf39242
+    start: 07:06.495
+    end: 07:10.079
+    fields:
+      transcription: “この薬を顔や体にぬってください。“
+    tags: *a1
+  - id: eef2d249-836f-433a-bb47-d893d3518d06
+    start: 07:11.359
+    end: 07:14.687
+    fields:
+      transcription: 薬がドアの前に置いてありました。
+    tags: *a1
+  - id: 8747fdf0-8793-43e1-bd41-c1a67967a70b
+    start: 07:16.223
+    end: 07:19.551
+    fields:
+      transcription: 「どうして薬をぬらないといけないんだ？」
+    tags: *a1
+  - id: 6a6d22a1-5a10-42cc-a419-8feab99ef792
+    start: 07:20.831
+    end: 07:23.135
+    fields:
+      transcription: 「うーん、わからない。
+    tags: *a1
+  - id: 1c3f05e4-2cf2-450c-8d7c-a499c96675aa
+    start: 07:24.415
+    end: 07:27.999
+    fields:
+      transcription: けど、これで体もきれいにできるよ。」
+    tags: *a1
+  - id: 8294d852-995d-44f2-a42c-550614c42078
+    start: 07:29.535
+    end: 07:33.119
+    fields:
+      transcription: 「そうだね。体もきれいにしておこう。」
+    tags: *a1
+  - id: 38799e11-a75b-4878-beaa-0f1dab8d0496
+    start: 07:34.399
+    end: 07:39.007
+    fields:
+      transcription: 二人は薬を体にぬってドアを開けました。
+    tags: *a1
+  - id: 68cd90fa-48cf-4c89-a4f1-3a70082c41e5
+    start: 07:40.287
+    end: 07:44.127
+    fields:
+      transcription: 赤いドアの裏にはこう書いてありました。
+    tags: *a1
+  - id: f8807448-8810-4652-8cdc-896af9e9a2f5
+    start: 07:45.407
+    end: 07:49.247
+    fields:
+      transcription: “薬を耳にぬるのを忘れないでください。”
+    tags: *a1
+  - id: 35d0cc11-10f6-41a7-913a-6dc2a08f5ace
+    start: 07:50.527
+    end: 07:54.623
+    fields:
+      transcription: 「おっと、薬を耳にぬるのを忘れていた。
+    tags: *a1
+  - id: 1ab6ad6b-8511-47db-92be-3d1b0f2d420d
+    start: 07:56.159
+    end: 07:59.487
+    fields:
+      transcription: このレストランの人はとても細かいね。」
+    tags: *a1
+  - id: 61053f6f-72b9-48f1-a96e-b337d8b8d42d
+    start: 08:00.767
+    end: 08:03.839
+    fields:
+      transcription: 「僕も耳にぬるのを忘れていた。
+    tags: *a1
+  - id: b1763671-24ea-4bf7-99cb-d96622da246f
+    start: 08:05.119
+    end: 08:08.959
+    fields:
+      transcription: しかし、ごはんはいつ食べられるんだ？
+    tags: *a1
+  - id: d4526485-3388-4658-affc-39e6bfdb7f13
+    start: 08:10.495
+    end: 08:12.799
+    fields:
+      transcription: もうお腹が空いているのに。」
+    tags: *a1
   - id: 30575f6f-eb87-4d03-a021-5157bf759804
     start: 08:15.103
     end: 08:20.479
     fields:
-      transcription: |-
-        二人は急いで耳に薬をぬって、廊下を進みました。次は黄色のドアがありました。ドアにはこう書いてあります。
-
-        “ごはんは１５分後です。この水を飲んで部屋に入ってください。”
-
-        「やっとごはんが食べられる。さあ水を飲もう。」「この水は変だ。お酢の味がするよ。」「たぶんレストランの人が間違えたんだよ。」二人はお酢の味の水を飲んで部屋に入りました。黄色のドアの裏にはこう書いてありました。
-
-        “注文が多くてすみませんでした。これが最後の注文です。塩を体につけてください。”
-
-        二人はドアの横に塩があるのを見つけました。「これはやはり変だ。」「僕もそう思う。」
+      transcription: 二人は急いで耳に薬をぬって、廊下を進みました。
       meaning: |-
         They applied the medicine to their ears in a hurry and went on the corridor. Next, there was a yellow door. What was written on the yellow door was this;
 
@@ -15898,16 +20125,101 @@ clips:
 
         They found that there was salt at the side of the door. “This sounds strange after all.” “I think so, too.”
     tags: *a1
+  - id: b1c65e03-6b12-4cdc-91df-402d2b376440
+    start: 08:22.015
+    end: 08:24.831
+    fields:
+      transcription: 次は黄色のドアがありました。
+    tags: *a1
+  - id: 0f27d42f-16e1-4a05-822d-a499b888c0a4
+    start: 08:26.111
+    end: 08:28.671
+    fields:
+      transcription: ドアにはこう書いてあります。
+    tags: *a1
+  - id: 66aca864-3fb5-4e56-968e-00bcdc6b50f4
+    start: 08:29.951
+    end: 08:32.255
+    fields:
+      transcription: “ごはんは１５分後です。
+    tags: *a1
+  - id: c48d7838-7b0b-43fe-857d-38ca30cd1484
+    start: 08:33.535
+    end: 08:37.375
+    fields:
+      transcription: この水を飲んで部屋に入ってください。”
+    tags: *a1
+  - id: 46ca0823-b819-4709-9162-d7071fee0d61
+    start: 08:38.655
+    end: 08:43.263
+    fields:
+      transcription: 「やっとごはんが食べられる。さあ水を飲もう。」
+    tags: *a1
+  - id: a3827a4f-dc54-4b13-a12c-eba8239f4f46
+    start: 08:45.055
+    end: 08:49.151
+    fields:
+      transcription: 「この水は変だ。お酢の味がするよ。」
+    tags: *a1
+  - id: 96fce733-2eba-4fe0-ab2a-8a5b49744b1e
+    start: 08:50.431
+    end: 08:54.015
+    fields:
+      transcription: 「たぶんレストランの人が間違えたんだよ。」
+    tags: *a1
+  - id: 1901d42c-d9cc-4932-b101-302e173380fe
+    start: 08:55.551
+    end: 08:59.903
+    fields:
+      transcription: 二人はお酢の味の水を飲んで部屋に入りました。
+    tags: *a1
+  - id: 6ac1e6c4-ea18-49a2-82fd-d30d40df6af2
+    start: 09:01.183
+    end: 09:05.279
+    fields:
+      transcription: 黄色のドアの裏にはこう書いてありました。
+    tags: *a1
+  - id: 751e5988-0d8f-4eba-9d4a-a0770e9422e4
+    start: 09:06.815
+    end: 09:09.887
+    fields:
+      transcription: “注文が多くてすみませんでした。
+    tags: *a1
+  - id: 4a5c074a-a877-4db2-a5c4-c6f1bd4b34bb
+    start: 09:11.167
+    end: 09:13.727
+    fields:
+      transcription: これが最後の注文です。
+    tags: *a1
+  - id: c9dd6005-69e6-413e-9f8d-cabae3e25dac
+    start: 09:15.007
+    end: 09:17.567
+    fields:
+      transcription: 塩を体につけてください。”
+    tags: *a1
+  - id: 8d59a7bf-7d2e-441a-a035-f424bdffcaad
+    start: 09:18.847
+    end: 09:23.455
+    fields:
+      transcription: 二人はドアの横に塩があるのを見つけました。
+    tags: *a1
+  - id: a41abc74-e8d2-461f-9825-00b2373203e7
+    start: 09:24.991
+    end: 09:26.783
+    fields:
+      transcription: 「これはやはり変だ。」
+    tags: *a1
+  - id: 069a9deb-a618-47ea-a66a-8d3fe66b9f2e
+    start: 09:28.063
+    end: 09:29.599
+    fields:
+      transcription: 「僕もそう思う。」
+    tags: *a1
   - id: a5a63cb4-f978-4500-bf70-df96c019d198
     start: 09:31.647
     end: 09:38.781
     fields:
-      transcription: |-
-        「注文が多いというのは、レストランが私たちに注文をしているんだ。だから、このレストランは来た人にごはんを食べさせないんだ。来た人をごはんにして食べるんだ。…だから、私たちが食べられるということなんだ。」二人はとても怖くなりました。「逃げよう。」「うん、そうしよう。」しかし、黄色いドアを開けることができません。代わりに、二人は別のドアを見つけました。そのドアにはこう書いてあります。
-
-        “よくできました。遠慮なく入ってください。”
-
-        ドアの後ろから大きな化け物が二人を見ています。二人は泣き始めてしまいました。すると、化け物がこう言いました。「だめだ。あの二人は体に塩をつけていない。書き方を失敗したのかもしれない。日本語は難しい。」
+      transcription: 「注文が多いというのは、レストランが私たちに注文をしているんだ。
       meaning: |
         “Many orders means that the restaurant orders us. So, this restaurant won’t let people coming in eat a meal. This restaurant will make people coming in a meal and eat them. …So, we will be eaten.” They became very scared. “Let’s run away.” “Yes, let’s.” But, they could not open the yellow door. Instead, they found another door. This was written on the door;
 
@@ -15916,15 +20228,212 @@ clips:
         A big monster was looking at them from behind the door. They started crying. Then, the monster said, “Darn it! They didn’t spread salt on their body. I might have failed with writing. Japanese is difficult.”
     tags:
       - WGR_4_chuumon_no_ooi_ryouriten.mp3
+  - id: e53f03b8-1a0f-4503-a05a-c7aa8482249d
+    start: 09:40.095
+    end: 09:45.471
+    fields:
+      transcription: だから、このレストランは来た人にごはんを食べさせないんだ。
+    tags: *a1
+  - id: 45540433-a0da-49e4-ae52-da4b5e75493a
+    start: 09:46.751
+    end: 09:49.823
+    fields:
+      transcription: 来た人をごはんにして食べるんだ。
+    tags: *a1
+  - id: e208fe63-97bc-4dfe-a986-bf5d823cc05f
+    start: 09:51.103
+    end: 09:55.711
+    fields:
+      transcription: …だから、私たちが食べられるということなんだ。」
+    tags: *a1
+  - id: 3055ee42-0880-4fa5-bd94-38e242300750
+    start: 09:56.735
+    end: 09:59.807
+    fields:
+      transcription: 二人はとても怖くなりました。
+    tags: *a1
+  - id: c20cef1b-8b40-4c8a-8b76-f182b32184fd
+    start: 10:01.087
+    end: 10:04.927
+    fields:
+      transcription: 「逃げよう。」「うん、そうしよう。」
+    tags: *a1
+  - id: e68dc196-46de-45ac-8a45-c013da025ff7
+    start: 10:06.207
+    end: 10:10.815
+    fields:
+      transcription: しかし、黄色いドアを開けることができません。
+    tags: *a1
+  - id: e8730761-5bdd-4b4a-8eec-e5ad3353ab5a
+    start: 10:12.095
+    end: 10:16.191
+    fields:
+      transcription: 代わりに、二人は別のドアを見つけました。
+    tags: *a1
+  - id: fe191631-b593-4ced-9f4a-0d6c9348bfbf
+    start: 10:17.471
+    end: 10:20.543
+    fields:
+      transcription: そのドアにはこう書いてあります。
+    tags: *a1
+  - id: d4eabab3-9dfb-4584-9559-4f87cef7f7b2
+    start: 10:21.567
+    end: 10:26.175
+    fields:
+      transcription: “よくできました。遠慮なく入ってください。”
+    tags: *a1
+  - id: e6a82f22-2d7b-4885-896f-80f78d8a9250
+    start: 10:27.199
+    end: 10:32.831
+    fields:
+      transcription: ドアの後ろから大きな化け物が二人を見ています。
+    tags: *a1
+  - id: cbf3ceaf-0236-4b28-ba24-5f6076a44596
+    start: 10:34.111
+    end: 10:37.183
+    fields:
+      transcription: 二人は泣き始めてしまいました。
+    tags: *a1
+  - id: 1422368c-779d-49db-b778-8d04054b7c2e
+    start: 10:38.207
+    end: 10:41.791
+    fields:
+      transcription: すると、化け物がこう言いました。
+    tags: *a1
+  - id: 7eb4ae96-7640-4d6a-8737-e9d25c6b3af7
+    start: 10:43.071
+    end: 10:47.679
+    fields:
+      transcription: 「だめだ。あの二人は体に塩をつけていない。
+    tags: *a1
+  - id: b0d244ee-1232-4f25-ae38-1ba4fa086a48
+    start: 10:48.959
+    end: 10:52.287
+    fields:
+      transcription: 書き方を失敗したのかもしれない。
+    tags: *a1
+  - id: 95d00619-14a1-4dc6-a8e1-43ee8a2d48a7
+    start: 10:53.567
+    end: 10:55.615
+    fields:
+      transcription: 日本語は難しい。」
+    tags: *a1
   - id: c50551e3-6f0d-42bb-abdf-600498c226a4
     start: 10:57.663
     end: 11:02.527
     fields:
-      transcription: そして、化け物は二人に話し始めました。「お客さん、用意はもう終わっているよ。こちらに来なさい。」二人は怖くて、歩くことができません。大きな声で泣いていました。化け物は言います。「そんなに泣いたら不味くなってしまうよ。俺はもうナイフとフォークを持っているんだ。いつでも食べられるよ。」二人は動くことができません。その時、急に大きな音がしました。あの逃げた犬が壁を壊して部屋に入ってきたのです。犬は二人の手を取って逃げました。二人は泣きながら犬についていきました。そして、犬は二人を近くの街まで送っていきました。二人は泣いて喜びました。「ありがとう、ありがとう。」二人は犬に何度も言いました。二人はやっと自分の家に帰ることができました。しかし、それから二人の泣き顔は二度と普通の顔には戻りませんでした。
+      transcription: そして、化け物は二人に話し始めました。
       meaning: Then, the monster started talking to them. “Hi guests, the preparation is already done. Come on here.” They were scared and couldn’t walk. They were crying with a loud voice. The monster said, “If you cry like that, you will start to taste bad. I already have a knife and a fork. I can eat you anytime.” They couldn’t move. At the time, a big sound suddenly was heard. Those dogs who had run away broke the wall and entered the room. The dogs took their hands and ran away. They followed the dogs while crying. Then, the dogs took them to a nearby town. They cried with happiness. “Thank you. Thank you.” They said to the dogs many times. They could finally go home. But, since then, their crying faces would never return to normal.
     tags: *a1
-flashcardFieldsToSubtitlesTracks:
-  transcription: 520dde8b-ae9a-4638-80aa-9241fdcd0617
+  - id: 7632684b-3e10-490f-8cb7-536c1128b2a7
+    start: 11:03.551
+    end: 11:09.439
+    fields:
+      transcription: 「お客さん、用意はもう終わっているよ。こちらに来なさい。」
+    tags: *a1
+  - id: 876b6f33-e322-401c-a533-59489033407b
+    start: 11:10.719
+    end: 11:14.559
+    fields:
+      transcription: 二人は怖くて、歩くことができません。
+    tags: *a1
+  - id: a1403607-25fd-4220-91fe-f8040f1418c8
+    start: 11:15.583
+    end: 11:18.655
+    fields:
+      transcription: 大きな声で泣いていました。
+    tags: *a1
+  - id: 08e7e1bc-bd65-40b3-84fc-e18ff15c7e76
+    start: 11:19.679
+    end: 11:21.983
+    fields:
+      transcription: 化け物は言います。
+    tags: *a1
+  - id: 602f6fad-a1be-48ba-8a00-4a36f4c3043e
+    start: 11:23.007
+    end: 11:26.591
+    fields:
+      transcription: 「そんなに泣いたら不味くなってしまうよ。
+    tags: *a1
+  - id: 11b9d8f2-83cf-49ca-808b-4428e0710608
+    start: 11:27.359
+    end: 11:31.455
+    fields:
+      transcription: 俺はもうナイフとフォークを持っているんだ。
+    tags: *a1
+  - id: 1c43c174-a2d8-4163-aebe-85f385c39e4f
+    start: 11:32.223
+    end: 11:34.527
+    fields:
+      transcription: いつでも食べられるよ。」
+    tags: *a1
+  - id: 37f665ae-f32e-4fa7-aa84-a9747fcb1cac
+    start: 11:35.551
+    end: 11:38.623
+    fields:
+      transcription: 二人は動くことができません。
+    tags: *a1
+  - id: 9d680ad8-b884-475c-9e8d-129483ddcd4c
+    start: 11:39.647
+    end: 11:43.743
+    fields:
+      transcription: その時、急に大きな音がしました。
+    tags: *a1
+  - id: 022754dc-4b38-4002-96fc-71713ec4d37b
+    start: 11:44.767
+    end: 11:49.887
+    fields:
+      transcription: あの逃げた犬が壁を壊して部屋に入ってきたのです。
+    tags: *a1
+  - id: 76458f9d-0cfe-4b5a-bad3-83c50dee7796
+    start: 11:51.167
+    end: 11:54.751
+    fields:
+      transcription: 犬は二人の手を取って逃げました。
+    tags: *a1
+  - id: 4f29239b-084e-4a40-aaf7-2cb64e3c688f
+    start: 11:55.775
+    end: 11:59.871
+    fields:
+      transcription: 二人は泣きながら犬についていきました。
+    tags: *a1
+  - id: 3b6a5461-59f5-453f-8b7a-3ce4517cb2d3
+    start: 12:00.895
+    end: 12:06.783
+    fields:
+      transcription: そして、犬は二人を近くの街まで送っていきました。
+    tags: *a1
+  - id: ca70f440-c035-4b42-9e54-632afa1589c6
+    start: 12:07.807
+    end: 12:10.623
+    fields:
+      transcription: 二人は泣いて喜びました。
+    tags: *a1
+  - id: 380fe351-830b-41b5-835a-1f2202530b23
+    start: 12:11.647
+    end: 12:14.207
+    fields:
+      transcription: 「ありがとう、ありがとう。」
+    tags: *a1
+  - id: 2d8884e7-c4b0-4dbb-a9aa-c87412b3d895
+    start: 12:15.487
+    end: 12:18.559
+    fields:
+      transcription: 二人は犬に何度も言いました。
+    tags: *a1
+  - id: 70ae194b-c2b3-47cb-83a4-edf0f1853de7
+    start: 12:19.839
+    end: 12:24.703
+    fields:
+      transcription: 二人はやっと自分の家に帰ることができました。
+    tags: *a1
+  - id: 737df694-aa74-47e4-95a4-c568afb21c67
+    start: 12:25.727
+    end: 12:32.974
+    fields:
+      transcription: しかし、それから二人の泣き顔は二度と普通の顔には戻りませんでした。
+    tags:
+      - WGR_4_chuumon_no_ooi_ryouriten.mp3
 ---
 name: WGR 5 hashire merosu.mp3
 format: mp3
@@ -15951,72 +20460,901 @@ clips:
     start: 00:04.096
     end: 00:05.888
     fields:
-      transcription: メロスは怒った。悪い王様を許せないと思いました。メロスは難しいことがわかりません。メロスは村で楽しく生活をしていました。しかし、メロスは悪いことを許せません。メロスは村からシクラスという街に来ました。メロスにはお父さんもお母さんもいません。奥さんもいません。１６歳の妹と二人で生活をしています。妹はもうすぐ結婚します。メロスは結婚式の用意のために買い物をしに街に来たのです。街を歩いていると、メロスは街がおかしいと思いました。前に来た時より、街がとても静かなのです。そこで、メロスは街の人に聞きました。「なぜ街が静かなのですか？」
+      transcription: メロスは怒った。
       meaning: Melos was angry. He thought that he could not forgive the bad king. Melos didn’t understand difficult things. Melos was living a happy life in a village. However, Melos could not forgive bad things. Melos came to the town named Syracuse from the village. Melos had no father, mother nor wife. He was living with his sixteen-year-old younger sister. She would get married soon. Melos came to the town to go shopping to prepare for the wedding. While he was walking in the town, Melos thought that the town was strange. The town was much quieter than when he came before. So, Melos asked a person in the town, “Why is the town quiet?”
+    tags: *a1
+  - id: 0d083305-bcac-4ecf-bebb-94c1f26875f1
+    start: 00:07.168
+    end: 00:11.008
+    fields:
+      transcription: 悪い王様を許せないと思いました。
+    tags: *a1
+  - id: fb71a9af-1690-4497-bf9b-feb3871b202a
+    start: 00:12.032
+    end: 00:15.616
+    fields:
+      transcription: メロスは難しいことがわかりません。
+    tags: *a1
+  - id: 4436a3b4-3f8f-40e3-b27b-94d2bf85c93c
+    start: 00:16.64
+    end: 00:20.736
+    fields:
+      transcription: メロスは村で楽しく生活をしていました。
+    tags: *a1
+  - id: d1d9ef75-2722-481c-b7cd-a64b69e96764
+    start: 00:22.016
+    end: 00:26.368
+    fields:
+      transcription: しかし、メロスは悪いことを許せません。
+    tags: *a1
+  - id: 42720566-b8d0-485b-9182-91987d7ae82a
+    start: 00:27.392
+    end: 00:31.744
+    fields:
+      transcription: メロスは村からシクラスという街に来ました。
+    tags: *a1
+  - id: 0c9095c2-eee5-451c-a5d4-3ccc19f041ea
+    start: 00:33.024
+    end: 00:37.12
+    fields:
+      transcription: メロスにはお父さんもお母さんもいません。
+    tags: *a1
+  - id: 94012e86-ee13-4a74-9774-56e856e095c9
+    start: 00:38.4
+    end: 00:40.448
+    fields:
+      transcription: 奥さんもいません。
+    tags: *a1
+  - id: 18732a12-13b8-4f0e-955f-4b9d24a0702d
+    start: 00:41.472
+    end: 00:46.592
+    fields:
+      transcription: １６歳の妹と二人で生活をしています。
+    tags: *a1
+  - id: 603f9188-dfa1-45b9-b260-784f9f63dc92
+    start: 00:47.616
+    end: 00:50.688
+    fields:
+      transcription: 妹はもうすぐ結婚します。
+    tags: *a1
+  - id: 519ad834-2730-46b1-9d6a-cbfdc53ce6e0
+    start: 00:51.968
+    end: 00:58.76
+    fields:
+      transcription: メロスは結婚式の用意のために買い物をしに街に来たのです。
+    tags: *a1
+  - id: 963e22d7-d493-4a65-a3df-80232909b18d
+    start: 01:00.16
+    end: 01:06.304
+    fields:
+      transcription: 街を歩いていると、メロスは街がおかしいと思いました。
+    tags: *a1
+  - id: 1c1fc52d-13e8-4b83-9c3e-9ce1b8f2408b
+    start: 01:07.584
+    end: 01:11.936
+    fields:
+      transcription: 前に来た時より、街がとても静かなのです。
+    tags: *a1
+  - id: 8bd40bda-489c-4ce1-a382-4c31c9eef86e
+    start: 01:13.216
+    end: 01:17.312
+    fields:
+      transcription: そこで、メロスは街の人に聞きました。
+    tags: *a1
+  - id: a01c81fa-0a53-4105-bd97-35ec8c78565e
+    start: 01:18.336
+    end: 01:21.152
+    fields:
+      transcription: 「なぜ街が静かなのですか？」
     tags: *a1
   - id: c43aa86a-7c65-498e-b0a8-68dd740a1dc1
     start: 01:22.944
     end: 01:27.552
     fields:
-      transcription: 街の人は小さな声でメロスに答えました。「王様が人を殺すからです。王様の子供や妹も殺されました。王様は人を信じることができません。今日は６人が殺されました。」メロスはとても怒りました。メロスは怒って、王様の住むお城へ向かって行きました。お城に入るとメロスはすぐに捕まってしまいました。メロスが小さな刀を持っていたからです。王様はメロスに厳しく聞きました。「なぜお城に来たのだ？」メロスは答えました。「悪い王様から街を助けるためです。」王様は笑って言いました。「お前に街を助けることができるのか？お前は私の気持ちがわからない。」
+      transcription: 街の人は小さな声でメロスに答えました。
       meaning: The person in the town replied to Melos with a small voice, “Because the king kills people. The children and younger sisters of the king were killed. The king cannot trust people. Six people have been killed today.” Melos got very angry. Melos angrily headed towards the castle where the king lived. When Melos entered the castle, he was caught soon because he had a small sword. The king sternly asked Melos, “Why did you come to the castle?” Melos replied, “I’m here to save the town from you.” The king laughed and said, “Can you save the town? You cannot understand my mind.”
+    tags: *a1
+  - id: 4d5624e5-84be-4d5b-bcc5-6f7500dc86a5
+    start: 01:28.576
+    end: 01:31.648
+    fields:
+      transcription: 「王様が人を殺すからです。
+    tags: *a1
+  - id: 883d899c-2e09-4bcb-a01f-62a59e1022ae
+    start: 01:32.672
+    end: 01:37.024
+    fields:
+      transcription: 王様の子供や妹も殺されました。
+    tags: *a1
+  - id: a1705b75-bd31-4a86-9e34-4ebe0b3a2dc4
+    start: 01:38.048
+    end: 01:41.888
+    fields:
+      transcription: 王様は人を信じることができません。
+    tags: *a1
+  - id: be1750b9-5a0c-48e8-bd34-e5501ffdd211
+    start: 01:43.168
+    end: 01:45.984
+    fields:
+      transcription: 今日は６人が殺されました。」
+    tags: *a1
+  - id: bcbcb45a-61f5-4f04-b94a-97dea005579f
+    start: 01:47.264
+    end: 01:50.08
+    fields:
+      transcription: メロスはとても怒りました。
+    tags: *a1
+  - id: 57f0f29f-36d6-491c-8e6a-2f15868b0043
+    start: 01:51.36
+    end: 01:56.736
+    fields:
+      transcription: メロスは怒って、王様の住むお城へ向かって行きました。
+    tags: *a1
+  - id: c910ddf7-2dde-47e4-bb49-3abdc6d8e252
+    start: 01:58.016
+    end: 02:03.136
+    fields:
+      transcription: お城に入るとメロスはすぐに捕まってしまいました。
+    tags: *a1
+  - id: 7e060224-b521-47eb-bd47-1fa9afb8abb2
+    start: 02:04.416
+    end: 02:08.256
+    fields:
+      transcription: メロスが小さな刀を持っていたからです。
+    tags: *a1
+  - id: 765478c4-4a6c-455c-88db-9e33838cb8ec
+    start: 02:09.536
+    end: 02:13.12
+    fields:
+      transcription: 王様はメロスに厳しく聞きました。
+    tags: *a1
+  - id: 7f899ecb-5c77-41dd-9fe2-24a091ec76a9
+    start: 02:14.4
+    end: 02:16.704
+    fields:
+      transcription: 「なぜお城に来たのだ？」
+    tags: *a1
+  - id: fcb15d89-8e2b-47b5-842a-613478d04746
+    start: 02:17.728
+    end: 02:20.032
+    fields:
+      transcription: メロスは答えました。
+    tags: *a1
+  - id: 477795e6-4ad2-4619-8f63-381713ba52da
+    start: 02:21.312
+    end: 02:25.152
+    fields:
+      transcription: 「悪い王様から街を助けるためです。」
+    tags: *a1
+  - id: ca6116e0-af5d-4042-9b3d-46cb49000c10
+    start: 02:26.432
+    end: 02:28.992
+    fields:
+      transcription: 王様は笑って言いました。
+    tags: *a1
+  - id: 2cd27201-2704-4f6e-bd46-832f6e5ebca4
+    start: 02:30.272
+    end: 02:34.06
+    fields:
+      transcription: 「お前に街を助けることができるのか？
+    tags: *a1
+  - id: 85e22a8f-4979-4301-b1d1-044cf069b317
+    start: 02:35.136
+    end: 02:38.464
+    fields:
+      transcription: お前は私の気持ちがわからない。」
     tags: *a1
   - id: a31ce54b-061a-4432-baed-98d0eda2dfc7
     start: 02:40.512
     end: 02:42.56
     fields:
-      transcription: |
-        メロスは言いました。「王様は人を信じていません。人を信じないことは、とても恥ずかしいことです。」王様は言いました。「人は口ではきれいなことを言うことができる。私は人の本当の気持ちがわかる。お前が私に殺されるとき、泣いて謝っても許さないぞ。」「私は怖くありません。王様が許してくれると思っていません。しかし、私に３日間だけ時間をもらえませんか？妹の結婚式をしたいのです。３日間のうちに、妹の結婚式をして、必ず帰って来ます。」「嘘をつくな！」王様は低い声で笑いました。「逃げた鳥が帰って来ることはない。」「帰って来ます。」メロスは一生懸命言いました。
+      transcription: メロスは言いました。
       meaning: Melos said, “You don’t trust people. Not to trust people is a very shameful thing.” The king said, “People can say beautiful things on the surface. I can understand people’s real minds. When you are killed by me, I will not forgive you even if you apologized with tears.” ”I’m not scared. I don’t expect you to forgive me. But, could you give me just three days’ time? I would like to hold my younger sister’s wedding. Within three days, I will hold the wedding and definitely come back.” ”Don’t lie to me!” The king sneered with a low voice. “Birds that fly away will never come back.” “I will be back.” Melos said very hard.
+    tags: *a1
+  - id: 419587b8-1771-4795-a2ff-28a00ebf3014
+    start: 02:43.852
+    end: 02:46.992
+    fields:
+      transcription: 「王様は人を信じていません。
+    tags: *a1
+  - id: bea5b0a0-93c6-4698-b3c2-ffe9ddaf7e55
+    start: 02:48.192
+    end: 02:52.88
+    fields:
+      transcription: 人を信じないことは、とても恥ずかしいことです。」
+    tags: *a1
+  - id: 52267352-8a6f-4ebf-a5ab-a9a39b75032b
+    start: 02:54.34
+    end: 02:56.58
+    fields:
+      transcription: 王様は言いました。
+    tags: *a1
+  - id: 10eeb210-bee0-4d11-abbc-691dc19c2ed4
+    start: 02:57.78
+    end: 03:01.76
+    fields:
+      transcription: 「人は口ではきれいなことを言うことができる。
+    tags: *a1
+  - id: 570ea278-782a-464f-8faf-8f6593a74b5e
+    start: 03:03.36
+    end: 03:07.02
+    fields:
+      transcription: 私は人の本当の気持ちがわかる。
+    tags: *a1
+  - id: 24856d38-9e42-4a51-9edf-d161bbe2ff88
+    start: 03:08.52
+    end: 03:14.82
+    fields:
+      transcription: お前が私に殺されるとき、泣いて謝っても許さないぞ。」
+    tags: *a1
+  - id: 5830f417-1571-49cc-8549-960103027d12
+    start: 03:16.16
+    end: 03:18.4
+    fields:
+      transcription: 「私は怖くありません。
+    tags: *a1
+  - id: 73ae1e9d-2326-4ba4-bfa9-ae8a57ba99d4
+    start: 03:19.9
+    end: 03:23.68
+    fields:
+      transcription: 王様が許してくれると思っていません。
+    tags: *a1
+  - id: 572e3e8c-2f51-4539-8003-9b73c2f529f1
+    start: 03:25.06
+    end: 03:30.3
+    fields:
+      transcription: しかし、私に３日間だけ時間をもらえませんか？
+    tags: *a1
+  - id: 358384b6-abe6-4b6b-b323-fd183a2ebee3
+    start: 03:31.456
+    end: 03:34.528
+    fields:
+      transcription: 妹の結婚式をしたいのです。
+    tags: *a1
+  - id: feb61020-2e65-4887-930b-c1d843cb7e58
+    start: 03:35.808
+    end: 03:42.56
+    fields:
+      transcription: ３日間のうちに、妹の結婚式をして、必ず帰って来ます。」
+    tags: *a1
+  - id: bfcd97b3-e7ff-460c-be15-d68758a2716f
+    start: 03:44.12
+    end: 03:45.104
+    fields:
+      transcription: 「嘘をつくな！」
+    tags: *a1
+  - id: 590a5ee0-98c5-48ca-936c-8aa979e00b9b
+    start: 03:46.304
+    end: 03:49.376
+    fields:
+      transcription: 王様は低い声で笑いました。
+    tags: *a1
+  - id: 8672ebf6-25b3-49f3-aee8-b137a452694a
+    start: 03:50.4
+    end: 03:53.984
+    fields:
+      transcription: 「逃げた鳥が帰って来ることはない。」
+    tags: *a1
+  - id: 50290c69-cacd-4b19-9a60-602ed9eaec2b
+    start: 03:55.48
+    end: 03:56.74
+    fields:
+      transcription: 「帰って来ます。」
+    tags: *a1
+  - id: b2c9eb7d-da01-4c80-81d6-a1302913b816
+    start: 03:57.824
+    end: 04:00.96
+    fields:
+      transcription: メロスは一生懸命言いました。
     tags: *a1
   - id: 1f5f65e3-8eaf-4724-9dfd-88d3a8893bfe
     start: 04:03.2
     end: 04:05.76
     fields:
-      transcription: 「私は約束を守ります。私を３日間だけ自由にしてください。妹が私を待っています。代わりに、セリヌンティウスという大切な友達をお城に置いていきます。もし私が帰って来なかったら、私の代わりにセリヌンティウスを殺してください。」王様は笑いました。嘘だ。メロスは帰って来ない。それなら、３日後にセリヌンティウスを殺してしまおう。王様は言いました。「わかった。セリヌンティウスを呼びなさい。メロス、３日目の夕方までに帰って来なさい。もし遅れたらセリヌンティウスを殺す。」友達のセリヌンティウスは、夜遅くにお城に呼ばれました。メロスは王様との約束を説明しました。セリヌンティウスは何も言いませんでした。メロスはお城を出ました。夏の夜の空には、たくさんの星が光っていました。
+      transcription: 「私は約束を守ります。
       meaning: “I will keep my promise. Please let me free for just three days. My younger sister is waiting for me. Instead, I will leave my dear friend Selinuntius in the castle. If I don’t come back, please kill Selinuntius instead of me.” The king laughed. [The king thought] “That’s a lie. Melos won’t come back. In that case, I will kill Selinuntius three days later.” The king said, “All right. Call Selinuntius. Melos, come back by evening on the third day. If you are late, I will kill Selinuntius.” The friend, Selinuntius, was called into the castle late at night. Melos explained his promise to the king. Selinuntius didn’t say anything. Melos left the castle. In the summer night sky, a lot of stars shined.
+    tags: *a1
+  - id: 0d304a6d-f904-41a1-98f3-973afcc4dcb0
+    start: 04:07.04
+    end: 04:10.88
+    fields:
+      transcription: 私を３日間だけ自由にしてください。
+    tags: *a1
+  - id: 8b3e2970-4251-4bdc-bfb3-5161bbefd61f
+    start: 04:11.904
+    end: 04:14.976
+    fields:
+      transcription: 妹が私を待っています。
+    tags: *a1
+  - id: 881570ae-52c0-46b4-bf84-863c53ccf8f7
+    start: 04:16.0
+    end: 04:22.143
+    fields:
+      transcription: 代わりに、セリヌンティウスという大切な友達をお城に置いていきます。
+    tags: *a1
+  - id: a2f4fe5c-b35b-4786-a95a-ccf09436b232
+    start: 04:23.679
+    end: 04:31.76
+    fields:
+      transcription: もし私が帰って来なかったら、私の代わりにセリヌンティウスを殺してください。」
+    tags:
+      - WGR_5_hashire_merosu.mp3
+  - id: eafd7a6a-858f-4f75-9d19-ca9ebc21316b
+    start: 04:33.206
+    end: 04:35.186
+    fields:
+      transcription: 王様は笑いました。
+    tags: *a1
+  - id: 10a6e2fa-b441-4ec0-9a41-fb30ea592e41
+    start: 04:36.223
+    end: 04:39.551
+    fields:
+      transcription: 嘘だ。メロスは帰って来ない。
+    tags: *a1
+  - id: 73cb01ce-175a-4674-95ae-33bb4800c989
+    start: 04:40.831
+    end: 04:45.695
+    fields:
+      transcription: それなら、３日後にセリヌンティウスを殺してしまおう。
+    tags: *a1
+  - id: bacd370b-d4b7-450c-8a5c-90d6eebe3386
+    start: 04:46.975
+    end: 04:49.023
+    fields:
+      transcription: 王様は言いました。
+    tags: *a1
+  - id: c9c578ae-288a-4b15-aecf-56f5aa149326
+    start: 04:50.303
+    end: 04:54.399
+    fields:
+      transcription: 「わかった。セリヌンティウスを呼びなさい。
+    tags: *a1
+  - id: 67923469-6bcf-4039-8f32-c5ff1eed1594
+    start: 04:55.423
+    end: 05:00.287
+    fields:
+      transcription: メロス、３日目の夕方までに帰って来なさい。
+    tags: *a1
+  - id: 5bf48a48-43e8-4f78-9199-15a0938a6ce8
+    start: 05:01.311
+    end: 05:05.151
+    fields:
+      transcription: もし遅れたらセリヌンティウスを殺す。」
+    tags: *a1
+  - id: 3f29c71c-4955-408a-9123-dcebce6071ab
+    start: 05:06.431
+    end: 05:12.319
+    fields:
+      transcription: 友達のセリヌンティウスは、夜遅くにお城に呼ばれました。
+    tags: *a1
+  - id: 71dc0fe0-5d89-4fd2-ad39-84ad23b7b863
+    start: 05:13.343
+    end: 05:17.695
+    fields:
+      transcription: メロスは王様との約束を説明しました。
+    tags: *a1
+  - id: 3d99b4b6-9b84-4d88-ac13-2827c5040547
+    start: 05:18.975
+    end: 05:22.303
+    fields:
+      transcription: セリヌンティウスは何も言いませんでした。
+    tags: *a1
+  - id: 0b4e9d13-86b0-4f1c-9e2c-711098a26d4f
+    start: 05:23.583
+    end: 05:26.143
+    fields:
+      transcription: メロスはお城を出ました。
+    tags: *a1
+  - id: 91fa3470-5334-4fdd-a5d9-c6f4a21bf50d
+    start: 05:27.423
+    end: 05:32.543
+    fields:
+      transcription: 夏の夜の空には、たくさんの星が光っていました。
     tags: *a1
   - id: acec773f-c5e9-46a3-8908-0458cacaa09e
     start: 05:34.335
     end: 05:38.687
     fields:
-      transcription: その日、メロスは眠らずに村へ帰りました。村に着いたのは、次の日の午前でした。もう村の人は外で仕事を始めていました。メロスの妹も仕事をしていました。妹は疲れているメロスを見て驚きました。メロスは言いました。「大丈夫だ。ところで、街にまだ用事がある。またすぐに街へ戻らなければならない。明日、お前の結婚式をしよう。きれいな服も買ってきた。さあ、村の人に明日結婚式をすると知らせに行きなさい。」妹はとても喜びました。メロスは家に帰り、結婚式の用意をしました。メロスはベッドに倒れて眠ってしまいました。
+      transcription: その日、メロスは眠らずに村へ帰りました。
       meaning: On that day, Melos went back to the village without sleeping. When he arrived at the village it was the next morning. People in the village had already started working outside. Melos’ younger sister was also working. She was surprised by seeing the tired Melos. Melos said, “All right. By the way, I still have things to do in town. I have to be back in town soon. Tomorrow, let’s hold your wedding. I bought beautiful clothes. Now, go let people in the village know that we’re going to hold your wedding tomorrow. ” She was very glad. Melos went home and prepare the wedding. Melos fell down on the bed and went to sleep.
+    tags: *a1
+  - id: 361b518b-3bfb-4eaa-9374-38af995d0767
+    start: 05:39.967
+    end: 05:44.063
+    fields:
+      transcription: 村に着いたのは、次の日の午前でした。
+    tags: *a1
+  - id: b066d592-8018-4f06-a520-b2c3047ddc6c
+    start: 05:45.343
+    end: 05:49.951
+    fields:
+      transcription: もう村の人は外で仕事を始めていました。
+    tags: *a1
+  - id: bcd587b3-1296-4536-a9e3-7f86e0a26b6c
+    start: 05:50.975
+    end: 05:54.559
+    fields:
+      transcription: メロスの妹も仕事をしていました。
+    tags: *a1
+  - id: ecfc17ca-5c74-4267-9579-9c96eb4a9249
+    start: 05:55.839
+    end: 06:00.191
+    fields:
+      transcription: 妹は疲れているメロスを見て驚きました。
+    tags: *a1
+  - id: 9129e0b7-741f-44f1-bfb4-092a8eaafb8b
+    start: 06:01.471
+    end: 06:03.263
+    fields:
+      transcription: メロスは言いました。
+    tags: *a1
+  - id: 622d3ebc-5951-4692-896a-ce193746f09f
+    start: 06:04.543
+    end: 06:09.663
+    fields:
+      transcription: 「大丈夫だ。ところで、街にまだ用事がある。
+    tags: *a1
+  - id: 4b392c61-5ef7-452a-8229-271ea5e61efb
+    start: 06:10.687
+    end: 06:14.271
+    fields:
+      transcription: またすぐに街へ戻らなければならない。
+    tags: *a1
+  - id: 9637452d-8e65-4671-820b-7436ad242e06
+    start: 06:15.551
+    end: 06:19.135
+    fields:
+      transcription: 明日、お前の結婚式をしよう。
+    tags: *a1
+  - id: 0c32c1b9-e15a-4ef7-a133-1f7ee78c3270
+    start: 06:20.415
+    end: 06:22.719
+    fields:
+      transcription: きれいな服も買ってきた。
+    tags: *a1
+  - id: 420fcc37-bde9-4c0f-8006-f5cc58b45478
+    start: 06:23.743
+    end: 06:29.887
+    fields:
+      transcription: さあ、村の人に明日結婚式をすると知らせに行きなさい。」
+    tags: *a1
+  - id: 283efe41-4e8c-4f0a-8ae6-1dfd9fa8e790
+    start: 06:31.167
+    end: 06:33.983
+    fields:
+      transcription: 妹はとても喜びました。
+    tags: *a1
+  - id: c6bba446-c46d-4829-8060-cbbef6baa3a9
+    start: 06:35.007
+    end: 06:40.127
+    fields:
+      transcription: メロスは家に帰り、結婚式の用意をしました。
+    tags: *a1
+  - id: 0eb7412a-80b3-4878-af3a-ca84e8dc3a49
+    start: 06:41.407
+    end: 06:45.759
+    fields:
+      transcription: メロスはベッドに倒れて眠ってしまいました。
     tags: *a1
   - id: e8b8939a-4a05-48be-96ff-926402c5a5cd
     start: 06:47.807
     end: 06:51.903
     fields:
-      transcription: 次の日、結婚式が行われました。その日は強い雨が降りました。メロスは村の人と一緒におめでとうと言いました。結婚式の次の日の朝、メロスは街に向けて走り始めました。私は今日の夜に殺される。私は殺されるために走るのだ。友達のために走るのだ。メロスは一生懸命走りました。その時、メロスは、大きな川を見つけました。昨日の強い雨で、川の水が増えて、橋が壊れてしまったのです。メロスは大きな声で泣きました。「この川を渡らないと友達を助けることができない。神様、お願いです。川の水を止めてください。」しかし、メロスの声は、神様に届きません。
+      transcription: 次の日、結婚式が行われました。
       meaning: The next day, the wedding was held. That day, it rained hard. Melos and the people of the village said together, “Congratulations.” In the morning on the day after the wedding, Melos started running toward the town. [Melos thought] “I will be killed this night. I will run to be killed. I will run for my friend.” Melos ran very hard. This time, Melos found a big river. Due to the hard rain the day before, the water in the river increased and the bridge was broken. Melos cried with a loud voice, “Without crossing this river, I cannot save my friend. Please God, stop the water in the river. But, Melos’ voice didn’t reach God.
+    tags: *a1
+  - id: bcff2949-e22d-4110-8a78-475ee3362d74
+    start: 06:53.183
+    end: 06:56.255
+    fields:
+      transcription: その日は強い雨が降りました。
+    tags: *a1
+  - id: cdff6bff-ff53-44d6-baae-600c42c4d1d4
+    start: 06:57.279
+    end: 07:01.887
+    fields:
+      transcription: メロスは村の人と一緒におめでとうと言いました。
+    tags: *a1
+  - id: ab6e0751-84b7-48d9-ad84-edd6125c88f2
+    start: 07:03.167
+    end: 07:09.311
+    fields:
+      transcription: 結婚式の次の日の朝、メロスは街に向けて走り始めました。
+    tags: *a1
+  - id: 77e3fc12-9713-4cde-95ad-b4a6ae3d0af7
+    start: 07:11.103
+    end: 07:13.919
+    fields:
+      transcription: 私は今日の夜に殺される。
+    tags: *a1
+  - id: 734ce265-6cc0-413e-99b2-21c0e0e33dbc
+    start: 07:15.199
+    end: 07:18.527
+    fields:
+      transcription: 私は殺されるために走るのだ。
+    tags: *a1
+  - id: cb6b5959-adce-4eb2-baff-ae82c46ba8dd
+    start: 07:19.807
+    end: 07:22.367
+    fields:
+      transcription: 友達のために走るのだ。
+    tags: *a1
+  - id: 2ed911e6-c325-4aea-8d5b-e120e8255449
+    start: 07:23.854
+    end: 07:26.914
+    fields:
+      transcription: メロスは一生懸命走りました。
+    tags: *a1
+  - id: 7092f417-abf3-4df8-aa34-2b997cbab70c
+    start: 07:28.394
+    end: 07:33.119
+    fields:
+      transcription: その時、メロスは、大きな川を見つけました。
+    tags: *a1
+  - id: 26303969-2f70-4c86-8d59-46ef7eb99e77
+    start: 07:34.654
+    end: 07:40.954
+    fields:
+      transcription: 昨日の強い雨で、川の水が増えて、橋が壊れてしまったのです。
+    tags: *a1
+  - id: c429c449-c49b-464c-a533-044ea9c57a62
+    start: 07:42.079
+    end: 07:45.407
+    fields:
+      transcription: メロスは大きな声で泣きました。
+    tags: *a1
+  - id: 32bd3007-7db9-4be0-bdec-9f6e154b1cb0
+    start: 07:46.687
+    end: 07:51.654
+    fields:
+      transcription: 「この川を渡らないと友達を助けることができない。
+    tags: *a1
+  - id: ed3645c9-54bd-4261-8428-08385ff4b223
+    start: 07:53.206
+    end: 07:58.766
+    fields:
+      transcription: 神様、お願いです。川の水を止めてください。」
+    tags: *a1
+  - id: 2d03cfc5-4011-4ef3-8146-a3c5a95449e0
+    start: 08:00.17
+    end: 08:04.91
+    fields:
+      transcription: しかし、メロスの声は、神様に届きません。
     tags: *a1
   - id: 0910d838-265f-4e58-b129-d68eddfdfffa
     start: 08:06.655
     end: 08:11.519
     fields:
-      transcription: メロスはこの大きい川に入ることを決めました。一生懸命泳いで、川を渡ることができました。それからメロスは、山をのぼり、山をくだり、走り続けました。ずっと走っていたので、メロスは疲れてしまいました。もう走ることができません。メロスはとうとう道に倒れてしまいました。間に合わない。私はセリヌンティウスを助けることができない。一生懸命走ったが間に合わなかった。許してくれ、セリヌンティウス。メロスは眠ってしまいました。メロスは起きると少し元気になりました。メロスはまた走り始めました。もうすぐ夕方になってしまいます。メロスは一生懸命走りました。
+      transcription: メロスはこの大きい川に入ることを決めました。
       meaning: Melos decided that he would enter this big river. He swam very hard and could cross the river. Then, Melos went up and down the mountain and continued running. Since he was running for a long time, Melos got tired. He couldn’t run any longer. Melos fell down on the road at last. [Melos thought] “I will not make it in time. I cannot save Selinuntius. I have run very hard, but have not made it in time. Selinuntius, please forgive me.” Melos fell asleep. When he got up, he felt a little better. Melos started running again. It would turn to evening soon. Melos ran very hard.
     tags: *a1
-  - id: 39a2c96f-f6ae-487e-aa8c-0699642d4c56
-    start: 09:23.199
-    end: 09:28.063
+  - id: c372f073-4f59-4141-8c6e-cb1683921666
+    start: 08:13.086
+    end: 08:17.746
     fields:
-      transcription: 「メロスさん。」誰かがメロスに話しかけました。「誰だ？」メロスは走りながら聞きました。「フィロストラトスです。セリヌンティウスの友達です。走るのをやめて下さい。もう間に合いません。セリヌンティウスを助けることはできません。」「まだ間に合う。」メロスは太陽を見ながら答えました。「やめて下さい。走るのをやめて下さい。今はあなたの命が大事です。セリヌンティウスはメロスさんを信じていました。王様にメロスは来ますと答えていました。」 「だから、走るのだ。信じられているから走るのだ。」メロスは走りました。メロスは何も考えずに走り続けました。
+      transcription: 一生懸命泳いで、川を渡ることができました。
+    tags: *a1
+  - id: 99393612-6402-49b9-80c6-a480277db89b
+    start: 08:19.274
+    end: 08:25.054
+    fields:
+      transcription: それからメロスは、山をのぼり、山をくだり、走り続けました。
+    tags: *a1
+  - id: 511ddde6-f3ab-42c2-808c-52bcc55aa737
+    start: 08:26.534
+    end: 08:31.314
+    fields:
+      transcription: ずっと走っていたので、メロスは疲れてしまいました。
+    tags: *a1
+  - id: fdb4ef28-1c67-4f85-a789-fe03051cd7d0
+    start: 08:32.734
+    end: 08:35.254
+    fields:
+      transcription: もう走ることができません。
+    tags: *a1
+  - id: 09942d11-7c4e-469a-9c76-c142a51c2a82
+    start: 08:36.6
+    end: 08:40.34
+    fields:
+      transcription: メロスはとうとう道に倒れてしまいました。
+    tags: *a1
+  - id: c1be185a-83f2-4c08-b2b1-937caaba1c0b
+    start: 08:41.78
+    end: 08:43.02
+    fields:
+      transcription: 間に合わない。
+    tags: *a1
+  - id: fe66ac85-0ae9-4789-a07c-3e52b98ab2d5
+    start: 08:44.38
+    end: 08:48.38
+    fields:
+      transcription: 私はセリヌンティウスを助けることができない。
+    tags: *a1
+  - id: 02f5dcf4-baa4-4a24-a6d8-77cc8232b0c7
+    start: 08:49.74
+    end: 08:53.54
+    fields:
+      transcription: 一生懸命走ったが間に合わなかった。
+    tags: *a1
+  - id: 77c65afb-7981-4c69-9de3-d3998607cb8e
+    start: 08:55.04
+    end: 08:57.9
+    fields:
+      transcription: 許してくれ、セリヌンティウス。
+    tags: *a1
+  - id: 81fe777f-aa0e-49f1-9b50-c6cbdce5792a
+    start: 08:59.32
+    end: 09:02.12
+    fields:
+      transcription: メロスは眠ってしまいました。
+    tags: *a1
+  - id: 107af909-ae1e-416e-8c0d-9ed20983a377
+    start: 09:03.55
+    end: 09:07.57
+    fields:
+      transcription: メロスは起きると少し元気になりました。
+    tags: *a1
+  - id: f356797d-17a5-40d2-ae71-d515a3313203
+    start: 09:09.06
+    end: 09:11.8
+    fields:
+      transcription: メロスはまた走り始めました。
+    tags: *a1
+  - id: 8dcca567-eff1-4bd5-9bc7-4387be65c170
+    start: 09:13.26
+    end: 09:16.32
+    fields:
+      transcription: もうすぐ夕方になってしまいます。
+    tags: *a1
+  - id: 4d94144b-41f7-41d0-807f-29c049e4eafc
+    start: 09:17.86
+    end: 09:21.36
+    fields:
+      transcription: メロスは一生懸命走りました。
+    tags: *a1
+  - id: 39a2c96f-f6ae-487e-aa8c-0699642d4c56
+    start: 09:23.24
+    end: 09:28.36
+    fields:
+      transcription: 「メロスさん。」誰かがメロスに話しかけました。
       meaning: “Melos,” someone spoke to Melos. “Who’s there?” Melos asked while running. “My name is Philostratus. I’m Selinuntius’s friend. Please stop running. You will already not be in time. You cannot save Selinuntius.” “I will still be in time,” Melos replied while looking at the sun. “Please stop. Please stop running. Now, your life is important. Selinuntius trusted you. He was responding to the king[‘s question], telling him that you would come.” “That’s why I will run. I will run because I’m trusted.” Melos ran. Melos continued running without thinking anything.
+    tags: *a1
+  - id: 295c2f05-7053-40e7-8f39-753573c2f30b
+    start: 09:29.9
+    end: 09:34.2
+    fields:
+      transcription: 「誰だ？」メロスは走りながら聞きました。
+    tags: *a1
+  - id: 28ac1362-a249-4bc0-8c7f-9939c1caf22a
+    start: 09:35.46
+    end: 09:40.32
+    fields:
+      transcription: 「フィロストラトスです。セリヌンティウスの友達です。
+    tags: *a1
+  - id: 66da4b6c-d8d6-4d29-a681-baa41dd21403
+    start: 09:41.8
+    end: 09:46.22
+    fields:
+      transcription: 走るのをやめて下さい。もう間に合いません。
+    tags: *a1
+  - id: 8b042ea1-ebac-4567-b068-8f18c966e5f9
+    start: 09:47.68
+    end: 09:51.34
+    fields:
+      transcription: セリヌンティウスを助けることはできません。」
+    tags: *a1
+  - id: 8a8632c0-f7dc-4148-8c55-13b755abe307
+    start: 09:53.57
+    end: 09:59.58
+    fields:
+      transcription: 「まだ間に合う。」メロスは太陽を見ながら答えました。
+    tags: *a1
+  - id: 4f97d296-f734-4b9e-bb72-04980f908c79
+    start: 10:00.7
+    end: 10:04.94
+    fields:
+      transcription: 「やめて下さい。走るのをやめて下さい。
+    tags: *a1
+  - id: 37487860-ae52-44e0-bf9e-9a46f8720ec2
+    start: 10:06.3
+    end: 10:09.5
+    fields:
+      transcription: 今はあなたの命が大事です。
+    tags: *a1
+  - id: 2ed13ce4-d893-44d6-9c20-fc355e66a1ff
+    start: 10:10.94
+    end: 10:14.86
+    fields:
+      transcription: セリヌンティウスはメロスさんを信じていました。
+    tags: *a1
+  - id: 720a027e-000f-4adb-a64b-57d57c0babc3
+    start: 10:16.36
+    end: 10:20.18
+    fields:
+      transcription: 王様にメロスは来ますと答えていました。」
+    tags: *a1
+  - id: cc05bad6-c97d-4368-b740-cee350ecdd34
+    start: 10:21.62
+    end: 10:26.62
+    fields:
+      transcription: " 「だから、走るのだ。信じられているから走るのだ。」"
+    tags: *a1
+  - id: 8710ee3c-a17e-42a8-8f7e-bd42c44424cd
+    start: 10:28.08
+    end: 10:30.06
+    fields:
+      transcription: メロスは走りました。
+    tags: *a1
+  - id: 316f8e78-8080-4492-b4db-86721db22239
+    start: 10:31.334
+    end: 10:35.674
+    fields:
+      transcription: メロスは何も考えずに走り続けました。
     tags: *a1
   - id: 88429490-7525-4407-be87-312be9f93cef
     start: 10:37.439
     end: 10:42.303
     fields:
-      transcription: 太陽が消える前に、メロスはお城に着きました。メロスは間に合ったのです。「待て。その人を殺してはいけない。メロスが帰って来た。いま帰って来た。」メロスはそう言おうとしましたが、とても疲れていて、話すことができません。メロスはもう一度言いました。「待て。殺されるのは私だ。メロスだ。」メロスはセリヌンティウスに向かって走りました。メロスはとうとうセリヌンティウスを助けることができました。メロスは泣きながら言いました。「私を叩け。私は途中で一度、悪い夢を見た。私は一度あなたを助けることをあきらめた。」
+      transcription: 太陽が消える前に、メロスはお城に着きました。
       meaning: Before the sun disappeared, Melos arrived at the castle. Melos was in time. “Wait. You must not kill him. I’m back. I’m back now,” Melos tried to say, but he was very tired and couldn’t speak. Melos said once again, “Wait. I am the one who will be killed. It’s Melos.” Melos ran toward Selinuntius. Melos could finally save Selinuntius. Melos said while crying, “Slap me. I had a bad dream on the way. I gave up saving you for a while.”
+    tags: *a1
+  - id: 552988ce-7928-4566-9257-fb9debbea2c2
+    start: 10:43.78
+    end: 10:45.96
+    fields:
+      transcription: メロスは間に合ったのです。
+    tags: *a1
+  - id: e7026fcc-359a-4689-9945-37c0f4c0c3e3
+    start: 10:47.42
+    end: 10:51.26
+    fields:
+      transcription: 「待て。その人を殺してはいけない。
+    tags: *a1
+  - id: 8c9102b2-6440-4eb7-bacf-5631b20e1046
+    start: 10:52.5
+    end: 10:57.38
+    fields:
+      transcription: メロスが帰って来た。いま帰って来た。」
+    tags: *a1
+  - id: 30e7e3fa-8d6c-4adc-a1e6-d7fd9ad17301
+    start: 10:58.42
+    end: 11:05.52
+    fields:
+      transcription: メロスはそう言おうとしましたが、とても疲れていて、話すことができません。
+    tags: *a1
+  - id: b013352f-8c0d-41b7-a8bf-eae76aaecf1a
+    start: 11:06.842
+    end: 11:09.542
+    fields:
+      transcription: メロスはもう一度言いました。
+    tags: *a1
+  - id: 864dba43-6dd7-4271-8f11-b606ae453867
+    start: 11:10.719
+    end: 11:16.095
+    fields:
+      transcription: 「待て。殺されるのは私だ。メロスだ。」
+    tags: *a1
+  - id: 0b47661b-b22e-4a0c-a0a9-452162ab7393
+    start: 11:17.6
+    end: 11:21.66
+    fields:
+      transcription: メロスはセリヌンティウスに向かって走りました。
+    tags: *a1
+  - id: 58ea4785-0726-4210-979b-125fb9e55731
+    start: 11:22.86
+    end: 11:27.84
+    fields:
+      transcription: メロスはとうとうセリヌンティウスを助けることができました。
+    tags: *a1
+  - id: fc143af4-11af-49e6-a4eb-c94e9c3ff259
+    start: 11:29.2
+    end: 11:31.92
+    fields:
+      transcription: メロスは泣きながら言いました。
+    tags: *a1
+  - id: 12480ef5-ff69-4e00-8c1e-c3a54dab339e
+    start: 11:33.2
+    end: 11:34.96
+    fields:
+      transcription: 「私を叩け。
+    tags: *a1
+  - id: 4f1ebac8-9861-48af-995e-9ca854f314f4
+    start: 11:36.1
+    end: 11:40.26
+    fields:
+      transcription: 私は途中で一度、悪い夢を見た。
+    tags: *a1
+  - id: ae1d695c-adfd-4533-b8e9-b7e13e7c4b03
+    start: 11:41.42
+    end: 11:45.7
+    fields:
+      transcription: 私は一度あなたを助けることをあきらめた。」
     tags: *a1
   - id: 6c6bb75c-55b6-41c1-b3e0-5ef541864590
     start: 11:47.327
-    end: 11:51.423
+    end: 11:51.62
     fields:
-      transcription: セリヌンティウスはメロスの顔を叩きました。そして、優しく笑いました。「メロス、私を叩け。私はこのに３日間、一度君を信じることができなかった。初めて君を信じることができなかった。」メロスもセリヌンティウスの顔を叩きました。「メロス！」「セリヌンティウス！」二人は声を出して泣きました。周りの人も声を上げて喜んでいました。王様が顔を赤くして、言いました。「二人は助かった。二人は人を信じることを教えてくれた。私を二人の友達にしてくれないか？」王様は二人を褒めました。周りの人は王様と二人を褒めました。
+      transcription: セリヌンティウスはメロスの顔を叩きました。
       meaning: Selinuntius slapped Melos’s face, and he smiled softly. “Melos, slap me. I haven’t been able to trust you once for these three days. I couldn’t trust you for the first time.” Melos slapped Selinuntius’s face. “Melos!” “Selinuntius!” They cried loudly. The surrounding people cheered loudly, too. The king’s face turned red and he said, “You all have been saved. You have taught me to trust people. Will you let me be your friend?” The king praised them. The surrounding people praised the king and them.
+    tags: *a1
+  - id: e1a009bc-832a-45e6-a33b-54c92b0ea6d3
+    start: 11:53.04
+    end: 11:56.04
+    fields:
+      transcription: そして、優しく笑いました。
+    tags: *a1
+  - id: 8cca58fe-34fe-4d38-85ae-48432f4c073a
+    start: 11:57.42
+    end: 12:00.42
+    fields:
+      transcription: 「メロス、私を叩け。
+    tags: *a1
+  - id: 2cd99c11-2b6a-4710-aaa0-7042a18f6c9f
+    start: 12:01.58
+    end: 12:07.403
+    fields:
+      transcription: 私はこのに３日間、一度君を信じることができなかった。
+    tags: *a1
+  - id: 26cf7eb6-86b0-4501-b6fa-3006f8cb6e24
+    start: 12:08.74
+    end: 12:12.64
+    fields:
+      transcription: 初めて君を信じることができなかった。」
+    tags: *a1
+  - id: 86af2846-a8e9-4b96-8d80-9284177da079
+    start: 12:13.72
+    end: 12:17.44
+    fields:
+      transcription: メロスもセリヌンティウスの顔を叩きました。
+    tags: *a1
+  - id: d4a4eb84-3a99-4c8a-9b76-1c61ca9d6400
+    start: 12:18.84
+    end: 12:26.02
+    fields:
+      transcription: 「メロス！」「セリヌンティウス！」二人は声を出して泣きました。
+    tags:
+      - WGR_5_hashire_merosu.mp3
+  - id: 92b757e3-b5f0-4862-8af4-841fd25ae934
+    start: 12:27.326
+    end: 12:31.406
+    fields:
+      transcription: 周りの人も声を上げて喜んでいました。
+    tags: *a1
+  - id: 25b20691-4243-4686-bafd-ae03f33558d8
+    start: 12:32.743
+    end: 12:36.643
+    fields:
+      transcription: 王様が顔を赤くして、言いました。
+    tags: *a1
+  - id: e1cb68d6-48c0-4e33-a619-2651cbb95ad7
+    start: 12:38.143
+    end: 12:40.003
+    fields:
+      transcription: 「二人は助かった。
+    tags: *a1
+  - id: 69da8ea7-7703-4b9f-b6e3-519f62503ef8
+    start: 12:41.023
+    end: 12:45.143
+    fields:
+      transcription: 二人は人を信じることを教えてくれた。
+    tags: *a1
+  - id: 9cc3f86e-5667-4894-96e1-f663c7d05ead
+    start: 12:46.363
+    end: 12:50.083
+    fields:
+      transcription: 私を二人の友達にしてくれないか？」
+    tags: *a1
+  - id: 2b4991f1-ef8c-4262-b761-b0c927f755b3
+    start: 12:51.243
+    end: 12:54.043
+    fields:
+      transcription: 王様は二人を褒めました。
+    tags: *a1
+  - id: 4fddc6ae-9425-448c-96ce-f18987f91fb8
+    start: 12:55.263
+    end: 12:59.283
+    fields:
+      transcription: 周りの人は王様と二人を褒めました。
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: ea8e7a3a-7731-41e0-8aa5-675ce0a0ca48

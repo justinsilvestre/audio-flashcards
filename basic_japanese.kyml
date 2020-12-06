@@ -3,7 +3,7 @@
 name: Basic Japanese
 noteType: Transliteration
 createdAt: 2020-02-04T17:14:00Z
-timestamp: 2020-12-06T16:55:01Z
+timestamp: 2020-12-06T20:41:36Z
 id: 396cb23e-87fa-491c-a0f2-c7fc5022d80a
 ---
 name: Japanese Listening (N5-N4-N3) - Shadowing lets speak Japanese beginner to intermediate (N5 N4 N3).mp4
@@ -18060,147 +18060,154 @@ clips:
     end: 00:06.656
     fields:
       transcription: 「おれの方が強い。」
-      meaning: “I’m stronger.” “No, I’m stronger.” The voice of the North Wind and the Sun were heard. It seemed that they were arguing about which power was stronger. “Since you (the Sun) are energetic every day, it’s hot and everyone is troubled. When I blow the cool wind, everyone looks happy. I’m more helpful to them all.” “But, if I’m not here, trees and vegetables don’t grow. In the winter, since the wind you (the North Wind) blew was cold, it was very cold. Everyone was unable to go out, isn’t that right? These days, it’s warm and everyone is glad.” “No, look at over there. Since you shine strongly, the water in the river is going to disappear soon. Without the water, everyone cannot live.”
+      meaning: "“I’m stronger.” "
     tags: *a1
   - id: ad285c9e-710d-4cb9-b5dd-c7921ba37b5f
     start: 00:07.936
     end: 00:10.752
     fields:
       transcription: 「いいや、ぼくの方が強い。」
+      meaning: "“No, I’m stronger.” "
     tags: *a1
   - id: 98406c05-47a8-432d-a431-cdbdc19e4d69
     start: 00:12.288
     end: 00:15.616
     fields:
       transcription: 北風と太陽の声が聞こえます。
+      meaning: "The voice of the North Wind and the Sun were heard. "
     tags: *a1
   - id: 52f7cfac-ba79-410c-aed4-6a2bc5382b06
     start: 00:17.152
     end: 00:22.784
     fields:
       transcription: 二人はどちらの力が強いかでケンカをしているようです。
+      meaning: "It seemed that they were arguing about which power was stronger. "
     tags: *a1
   - id: 9b4e5dfa-a141-43e6-ac68-a3eac848f34a
     start: 00:24.064
     end: 00:29.44
     fields:
       transcription: 「太陽が毎日元気だから、暑くてみんな困っているよ。
+      meaning: "“Since you (the Sun) are energetic every day, it’s hot and everyone is troubled. "
     tags: *a1
   - id: e8ca94fa-ee59-43b6-b18b-fe476ffb99eb
     start: 00:30.72
     end: 00:35.072
     fields:
       transcription: おれが涼しい風を吹くと、みんな嬉しそうだ。
+      meaning: "When I blow the cool wind, everyone looks happy. "
     tags: *a1
   - id: 367523b7-dee1-401c-8d50-1c9caf12c5f8
     start: 00:36.352
     end: 00:39.936
     fields:
       transcription: おれの方がみんなの役に立っているよ。」
+      meaning: "I’m more helpful to them all.” "
     tags: *a1
   - id: 797fb6f0-9fad-486e-98ec-8c60cf8e8b18
     start: 00:41.472
     end: 00:46.336
     fields:
       transcription: 「でも、ぼくがいないと、木や野菜は育たないよ。
+      meaning: "“But, if I’m not here, trees and vegetables don’t grow. "
     tags: *a1
   - id: a2d921bc-e659-4a2a-a8ed-ee3920f37643
     start: 00:47.872
     end: 00:52.992
     fields:
       transcription: 冬は北風の吹く風が冷たくて、とても寒かった。
+      meaning: "In the winter, since the wind you (the North Wind) blew was cold, it was very cold. "
     tags: *a1
   - id: aa3c019d-bd45-49fc-8e13-30076ed0232d
     start: 00:54.272
     end: 00:57.088
     fields:
       transcription: みんな外に出られなかったよね？
+      meaning: "Everyone was unable to go out, isn’t that right? "
     tags: *a1
   - id: 6493dcb2-7875-4335-b572-231b4a3b287c
     start: 00:58.368
     end: 01:02.72
     fields:
       transcription: 最近は暖かいから、みんな喜んでいるよ。」
+      meaning: "These days, it’s warm and everyone is glad.” "
     tags: *a1
   - id: 86c7606a-59e7-4605-8eab-0da9194dbf6c
     start: 01:04.0
     end: 01:06.304
     fields:
       transcription: 「いいや、あそこを見て。
+      meaning: "“No, look at over there. "
     tags: *a1
   - id: 61d4d653-5aea-4284-a8d8-9bbf18f5dc81
     start: 01:07.584
     end: 01:13.472
     fields:
       transcription: 太陽が強く照らすから、川の水がもうすぐ無くなりそうだ。
+      meaning: "Since you shine strongly, the water in the river is going to disappear soon. "
     tags: *a1
   - id: a1947679-bd7e-47e6-a8d1-12428ddc7014
     start: 01:14.752
     end: 01:18.592
     fields:
       transcription: 水がないと、みんな生活できないよ。」
+      meaning: Without the water, everyone cannot live.”
     tags: *a1
   - id: 58d667a2-5f5e-4782-8837-2d9b912dc943
     start: 01:20.896
     end: 01:26.784
     fields:
       transcription: 二人とも自分の話ばかりして、人の話を聞きません。
-      meaning: Both of them just spoke their own story and didn’t listen to the other person’s one. They were arguing every day. One day, the North Wind said as usual, “Let’s finish the argument because I’m stronger.” The Sun also said as usual, “Yeah, let’s finish the argument, but I think I’m stronger.” On that day, it seemed that the argument wouldn’t finish as well. At the time, the North Wind found a young man walking with a cloak. The North Wind said, “What do you think, which of us can make the person take off his cloak earlier? By this, let’s decide which is stronger. If you’re strong, you should be able to make him take off his cloak easily.” “Sounds good. Well, let’s try.” They decided to make him take off his cloak.
+      meaning: "Both of them just spoke their own story and didn’t listen to the other person’s one. "
     tags: *a1
   - id: 712c7f4a-1678-448a-8a43-16c29b088106
     start: 01:28.064
     end: 01:31.392
     fields:
       transcription: 二人は毎日ケンカをしていました。
+      meaning: "They were arguing every day. "
     tags: *a1
   - id: d69db50c-4e00-472c-93b8-bae0716d1d1a
     start: 01:32.672
     end: 01:37.28
     fields:
       transcription: ある日、北風はいつものように言いました。
+      meaning: "One day, the North Wind said as usual, "
     tags: *a1
   - id: 9815a1c9-0f99-40e1-befc-b415b9797265
     start: 01:38.56
-    end: 01:40.608
-    fields:
-      transcription: 「ケンカは終わりにしよう。
-    tags: *a1
-  - id: 06b88369-f5d8-4575-b53a-4ceea5cac2b0
-    start: 01:41.888
     end: 01:44.192
     fields:
-      transcription: おれの方が強いんだから。」
-    tags: *a1
-  - id: bc73837c-0a29-4fc4-9f53-06e72be93238
-    start: 01:45.728
-    end: 01:48.713
-    fields:
-      transcription: 太陽もいつものように言います。
-    tags: *a1
-  - id: e24a668b-983a-4bbc-a23d-8bd1b38f3311
-    start: 01:50.173
-    end: 01:52.896
-    fields:
-      transcription: 「うん、ケンカは終わりにしよう。
+      transcription: |-
+        「ケンカは終わりにしよう。
+        おれの方が強いんだから。」
+      meaning: “Let’s finish the argument because I’m stronger.”
     tags:
       - WGR_1_kitakaze_to_taiyou.mp3
-  - id: 65ae8acb-d1ea-411f-8be4-1a73dccfa0cd
-    start: 01:54.176
+  - id: bc73837c-0a29-4fc4-9f53-06e72be93238
+    start: 01:45.728
     end: 01:57.248
     fields:
-      transcription: けど、僕の方が強いと思うよ。」
-    tags: *a1
+      transcription: |-
+        太陽もいつものように言います。
+        「うん、ケンカは終わりにしよう。
+        けど、僕の方が強いと思うよ。」
+      meaning: "The Sun also said as usual, “Yeah, let’s finish the argument, but I think I’m stronger.” "
+    tags:
+      - WGR_1_kitakaze_to_taiyou.mp3
   - id: 754036e0-5f64-455a-95ca-e069e2eefae8
     start: 01:58.528
     end: 02:01.856
     fields:
       transcription: その日もケンカは終わりそうにありません。
+      meaning: "On that day, it seemed that the argument wouldn’t finish as well. "
     tags: *a1
   - id: e46ca5f9-fb9c-4cbc-8d75-fb286d96b959
     start: 02:03.392
     end: 02:10.853
     fields:
       transcription: そのとき、北風はマントを着た若い男が歩いているのを見つけました。
+      meaning: "At the time, the North Wind found a young man walking with a cloak. "
     tags:
       - WGR_1_kitakaze_to_taiyou.mp3
   - id: 0b930ee9-aa22-4eed-ba71-14a2502d0665
@@ -18208,6 +18215,7 @@ clips:
     end: 02:21.056
     fields:
       transcription: 北風は言いました。「あの人のマントをどちらが早く脱がせることができると思う？
+      meaning: "The North Wind said, “What do you think, which of us can make the person take off his cloak earlier? "
     tags:
       - WGR_1_kitakaze_to_taiyou.mp3
   - id: cd12a67d-9206-47c9-bcdc-12f44316dc25
@@ -18215,18 +18223,21 @@ clips:
     end: 02:25.664
     fields:
       transcription: これでどちらが強いかを決めよう。
+      meaning: "By this, let’s decide which is stronger. "
     tags: *a1
   - id: 5f657e22-144c-4b23-bf5b-108d5a1473a6
     start: 02:26.944
     end: 02:31.808
     fields:
       transcription: 強ければ簡単にマントを脱がせることができるはずだ。」
+      meaning: "If you’re strong, you should be able to make him take off his cloak easily.” "
     tags: *a1
   - id: 530067c8-124e-4982-b6f3-04b4467eb9cb
-    start: 02:33.088
-    end: 02:36.52
+    start: 02:33.327
+    end: 02:36.587
     fields:
       transcription: 「それはいい。よし、やってみよう。」
+      meaning: "“Sounds good. Well, let’s try.” "
     tags:
       - WGR_1_kitakaze_to_taiyou.mp3
   - id: 10828d14-f134-49c2-8740-e003d24d3182
@@ -18234,13 +18245,14 @@ clips:
     end: 02:42.304
     fields:
       transcription: 二人は男のマントを脱がせることにしました。
+      meaning: They decided to make him take off his cloak.
     tags: *a1
   - id: 5d56810d-0c15-4c2e-ba28-265fe9ee015b
     start: 02:44.352
     end: 02:52.8
     fields:
       transcription: 「最初におれがやってみるよ」。北風はそう言って、強い風を吹きました。
-      meaning: “First, I will try,” the North Wind said and blew the strong wind. The man was surprised by the wind blowing suddenly. The North Wind steadily blew the wind. He planned to make it fly off by blowing the wind. “It’s cold! Why has the wind suddenly become so strong?” the man said, and then took out another cloak, and wore it in a hurry. The North Wind blew the wind more strongly to make him take off his two cloaks. The man tightly held the cloaks to prevent them from flying away. Even if the North Wind strongly blew the wind, the man was holding the cloaks very hard. The North Wind said, “I can’t. My power can’t make him take off his cloaks.
+      meaning: "“First, I will try,” the North Wind said and blew the strong wind. "
     tags:
       - WGR_1_kitakaze_to_taiyou.mp3
   - id: 0b8c5f70-2cd9-4b12-9691-6c01d39c8963
@@ -18248,37 +18260,38 @@ clips:
     end: 02:58.688
     fields:
       transcription: 男は急に吹いた強い風におどろきました。
+      meaning: "The man was surprised by the wind blowing suddenly. "
     tags: *a1
   - id: 3c436f06-90fb-41fc-8d88-9b919ae7c719
     start: 02:59.968
     end: 03:03.04
     fields:
       transcription: 北風はどんどん風を吹きます。
+      meaning: "The North Wind steadily blew the wind. "
     tags: *a1
   - id: f903ec35-07b3-4563-9d14-313c991c757e
     start: 03:04.32
     end: 03:07.648
     fields:
       transcription: 風を吹いて、マントを飛ばすつもりです。
+      meaning: He planned to make it fly off by blowing the wind.
     tags: *a1
   - id: ccdfb8cd-4318-46cf-a934-5eae7130aa53
     start: 03:09.184
-    end: 03:13.792
-    fields:
-      transcription: 「寒い！どうして急に風が強くなったんだ？」
-    tags: *a1
-  - id: 985ec278-f3c6-4e4d-8e3b-2b30427d140d
-    start: 03:15.072
     end: 03:20.96
     fields:
-      transcription: 男はそう言うと、もう一枚マントを出して、急いで着ました。
+      transcription: |-
+        「寒い！どうして急に風が強くなったんだ？」
+        男はそう言うと、もう一枚マントを出して、急いで着ました。
+      meaning: "“It’s cold! Why has the wind suddenly become so strong?” the man said, and then took out another cloak, and wore it in a hurry. "
     tags:
       - WGR_1_kitakaze_to_taiyou.mp3
   - id: 1fa93340-7039-4af8-9ad4-0d3346df8647
     start: 03:22.24
-    end: 03:29.152
+    end: 03:29.255
     fields:
       transcription: 北風は二枚のマントを脱がせるために、もっと強く風を吹きました。
+      meaning: "The North Wind blew the wind more strongly to make him take off his two cloaks. "
     tags:
       - WGR_1_kitakaze_to_taiyou.mp3
   - id: cbff2595-dfc9-4c29-a2c5-3f416b63f48b
@@ -18286,6 +18299,7 @@ clips:
     end: 03:35.808
     fields:
       transcription: 男はマントが飛ばないように、しっかりと手で持ちました。
+      meaning: "The man tightly held the cloaks to prevent them from flying away. "
     tags:
       - WGR_1_kitakaze_to_taiyou.mp3
   - id: 929af078-9ed8-4088-b532-22790dbaec82
@@ -18293,6 +18307,7 @@ clips:
     end: 03:46.048
     fields:
       transcription: 北風がいくら強く風を吹いても、男は一生懸命手でマントを持っています。
+      meaning: "Even if the North Wind strongly blew the wind, the man was holding the cloaks very hard. "
     tags:
       - WGR_1_kitakaze_to_taiyou.mp3
   - id: 6195181e-b12b-4e21-8b84-dc7867f812a1
@@ -18300,57 +18315,57 @@ clips:
     end: 03:56.032
     fields:
       transcription: 北風は言いました。「だめだ。おれの力ではマントを脱がせることができない。」
+      meaning: The North Wind said, “I can’t. My power can’t make him take off his cloaks.
     tags:
       - WGR_1_kitakaze_to_taiyou.mp3
-  - id: b331fbf9-180f-4619-8b5c-ba86dd636387
-    start: 03:58.336
-    end: 04:01.152
-    fields:
-      transcription: 「じゃあ、次はぼくがやってみるよ。」
-      meaning: “Well, next I will try,” the Sun said and then slowly shined on the man. “Ah, it has become warm at last.” Since the Sun appeared, the man looked relieved a little. The man stopped holding his cloaks. Next, the Sun strengthened the power to shine a little. “It’s getting a little hot,” the man said and then took off his cloak. “Now or never!” the Sun looked at the man taking off his cloak and then strengthened the power to shine more. “It’s hot. It’s getting hot suddenly,” the man said, and then took off another cloak. “Yes!” the Sun was glad. Then, the Sun weakened the power and continued to softly shine on the man.
-    tags: *a1
   - id: 3b25467e-b69c-42a2-bc00-9114280c1b97
-    start: 04:02.432
+    start: 03:58.336
     end: 04:07.552
     fields:
-      transcription: 太陽はそう言うと、ゆっくりと男を照らしました。
-    tags: *a1
+      transcription: |-
+        「じゃあ、次はぼくがやってみるよ。」
+        太陽はそう言うと、ゆっくりと男を照らしました。
+      meaning: “Well, next I will try,” the Sun said and then slowly shined on the man.
+    tags:
+      - WGR_1_kitakaze_to_taiyou.mp3
   - id: 7851a428-539f-41fe-8d7c-cdb5eeb0efad
     start: 04:08.832
     end: 04:11.904
     fields:
       transcription: 「あぁ、やっと暖かくなった。」
+      meaning: " “Ah, it has become warm at last.” "
     tags: *a1
   - id: 2bef6834-a003-4ac8-8269-dfe972aad5fd
     start: 04:13.184
     end: 04:18.815
     fields:
       transcription: 太陽が出てきたので、男は少し安心したようです。
+      meaning: "Since the Sun appeared, the man looked relieved a little. "
     tags: *a1
   - id: 994398cf-670a-471e-b548-8c22bb2f30e4
     start: 04:20.095
     end: 04:23.935
     fields:
       transcription: 男はマントを手で持つのをやめました。
+      meaning: "The man stopped holding his cloaks. "
     tags: *a1
   - id: aaee707a-06ba-4c7f-9779-b4de30b51011
     start: 04:25.215
     end: 04:31.103
     fields:
       transcription: 次に、太陽は照らす力を少し強くしました。
-    tags: *a1
-  - id: 4484f139-7389-4b22-a941-57d2d67548d2
-    start: 04:32.383
-    end: 04:34.687
-    fields:
-      transcription: 「ちょっと暑くなってきた。」
+      meaning: "Next, the Sun strengthened the power to shine a little. "
     tags: *a1
   - id: e73f2c7e-5425-4345-9bcb-ad294c945b48
-    start: 04:35.967
+    start: 04:32.383
     end: 04:40.575
     fields:
-      transcription: 男はそう言うと、マントを一枚脱ぎました。
-    tags: *a1
+      transcription: |-
+        「ちょっと暑くなってきた。」
+        男はそう言うと、マントを一枚脱ぎました。
+      meaning: "“It’s getting a little hot,” the man said and then took off his cloak. "
+    tags:
+      - WGR_1_kitakaze_to_taiyou.mp3
   - id: c119ca60-5570-4fed-8915-6a36f5b39f35
     start: 04:41.855
     end: 04:43.391
@@ -18362,25 +18377,25 @@ clips:
     end: 04:52.095
     fields:
       transcription: 太陽は男がマントを脱ぐのを見て、照らす力をもっと強くしました。
+      meaning: "“Now or never!” the Sun looked at the man taking off his cloak and then strengthened the power to shine more. "
     tags:
       - WGR_1_kitakaze_to_taiyou.mp3
   - id: a30108c5-c2b6-4e81-95fe-ef91147cf09c
     start: 04:53.375
-    end: 04:56.959
-    fields:
-      transcription: 「暑い。急に暑くなってきた。」
-    tags: *a1
-  - id: b4f6dc64-337e-4a6b-bd5e-bfe7fedc44fd
-    start: 04:58.239
     end: 05:03.103
     fields:
-      transcription: 男はそう言って、もう一枚のマントも脱ぎました。
-    tags: *a1
+      transcription: |-
+        「暑い。急に暑くなってきた。」
+        男はそう言って、もう一枚のマントも脱ぎました。
+      meaning: "“It’s hot. It’s getting hot suddenly,” the man said, and then took off another cloak. "
+    tags:
+      - WGR_1_kitakaze_to_taiyou.mp3
   - id: 67375adf-11d9-4dd9-a01d-ef7aa92b2025
     start: 05:04.639
     end: 05:08.479
     fields:
       transcription: 「やった！」太陽は喜びました。
+      meaning: "“Yes!” the Sun was glad. "
     tags:
       - WGR_1_kitakaze_to_taiyou.mp3
   - id: 89b4db8a-bc35-4e03-95b1-bfb02bf8f19e
@@ -18388,6 +18403,7 @@ clips:
     end: 05:16.92
     fields:
       transcription: それから、太陽は力を弱くして、やさしく男を照らし続けました。
+      meaning: Then, the Sun weakened the power and continued to softly shine on the man.
     tags:
       - WGR_1_kitakaze_to_taiyou.mp3
   - id: d2ef567e-5792-4860-92b0-843656375137
@@ -18395,7 +18411,7 @@ clips:
     end: 05:27.167
     fields:
       transcription: 北風はおどろきました。太陽がマントを簡単に脱がせたからです。
-      meaning: The North Wind was surprised because the Sun easily made him take off his cloaks. [The North Wind thought] “my wind was unable to make him take it off. Why was the Sun able to make him take off his cloaks?” The Sun said, “You didn’t guess his feelings, did you? If you just use your power, people don’t move. You have to guess people’s feelings.” The North Wind listened to it and then said, “Okay. You are stronger than me.” The long argument finally finished. When you make people do something or request for something, just showing your power doesn’t work well like the North Wind. It’s important to guess people’s feelings like the Sun.
+      meaning: "The North Wind was surprised because the Sun easily made him take off his cloaks. "
     tags:
       - WGR_1_kitakaze_to_taiyou.mp3
   - id: cfbceffd-6e6a-499f-988f-6d9841b8b332
@@ -18403,55 +18419,56 @@ clips:
     end: 05:37.151
     fields:
       transcription: おれの風では脱がせることが出来なかったのに、なぜ太陽はマントを脱がせることができたんだ？
+      meaning: "[The North Wind thought] “my wind was unable to make him take it off. "
     tags:
       - WGR_1_kitakaze_to_taiyou.mp3
   - id: b6cd19f2-7aac-4489-954b-4e38d6285086
     start: 05:38.431
-    end: 05:40.479
-    fields:
-      transcription: 太陽は言いました。
-    tags: *a1
-  - id: b02e3da9-e374-4fda-9f6a-a0d935840ec5
-    start: 05:41.759
     end: 05:46.623
     fields:
-      transcription: 「北風は男の気持ちを考えていなかったよね？
-    tags: *a1
+      transcription: |-
+        太陽は言いました。
+        「北風は男の気持ちを考えていなかったよね？
+      meaning: "Why was the Sun able to make him take off his cloaks?” The Sun said, “You didn’t guess his feelings, did you? "
+    tags:
+      - WGR_1_kitakaze_to_taiyou.mp3
   - id: d7653820-2db7-4aa3-8ae3-08cd1586a976
     start: 05:47.903
     end: 05:51.743
     fields:
       transcription: 力を使うだけだと人は動かないよ。
+      meaning: "If you just use your power, people don’t move. "
     tags: *a1
   - id: a37677f3-5e7d-4528-a2f4-d11613413c4a
     start: 05:53.023
     end: 05:56.863
     fields:
       transcription: 人の気持ちを考えないといけないんだ。」
+      meaning: "You have to guess people’s feelings.” "
     tags: *a1
   - id: 9f85df53-6add-4336-b5da-b947a21dbb00
     start: 05:58.143
-    end: 06:01.471
-    fields:
-      transcription: 北風はそれを聞いて、言いました。
-    tags: *a1
-  - id: 0263384a-69be-4629-8513-0e217e2d4d55
-    start: 06:02.751
     end: 06:06.591
     fields:
-      transcription: 「わかった。君はおれより強いよ。」
-    tags: *a1
+      transcription: |-
+        北風はそれを聞いて、言いました。
+        「わかった。君はおれより強いよ。」
+      meaning: "The North Wind listened to it and then said, “Okay. You are stronger than me.” "
+    tags:
+      - WGR_1_kitakaze_to_taiyou.mp3
   - id: 982152ca-6f23-43e5-b581-e7a0be940e40
     start: 06:07.871
     end: 06:11.967
     fields:
       transcription: とうとう二人の長かったケンカは終わりました。
+      meaning: "The long argument finally finished. "
     tags: *a1
   - id: d3f10413-4665-464d-8c76-e9204d75bf2d
     start: 06:13.247
     end: 06:23.231
     fields:
       transcription: 人に何かをさせるときや、お願いするときは、北風のように力を見せるだけではうまくいきません。
+      meaning: "When you make people do something or request for something, just showing your power doesn’t work well like the North Wind. "
     tags:
       - WGR_1_kitakaze_to_taiyou.mp3
   - id: 949675a5-72ab-442a-9d84-3fc78d99dc92
@@ -18459,6 +18476,7 @@ clips:
     end: 06:30.655
     fields:
       transcription: 太陽のように人の気持ちを考えることが大切です。
+      meaning: It’s important to guess people’s feelings like the Sun.
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: 140d825a-eee9-4cfa-9ea1-10fe6d3a38da
@@ -18489,19 +18507,21 @@ clips:
     end: 00:09.728
     fields:
       transcription: むかしあるところに、ジャックという男の子がいました。
-      meaning: Once upon a time, there was a boy named Jack. Jack lived with his mother in a little house. They lived on selling milk given by a cow, but they have little money. One day, the cow gave no milk and they finally decided to sell the cow. “Make sure to sell it at a good price.” Jack’s mother said to him. “Sure,” Jack said and headed toward a shop. On his way to the shop, Jack met a mysterious old man. The old man said, “Good morning, Jack. Where are you going?” While Jack was wondering why the old man knew his name, he replied, “I’m going to the shop to sell this cow.”
+      meaning: "Once upon a time, there was a boy named Jack. "
     tags: *a1
   - id: 3b48d26c-1761-4e1e-8734-a7d27df135ef
     start: 00:11.008
     end: 00:16.384
     fields:
       transcription: ジャックはお母さんと一緒に小さな家に住んでいました。
+      meaning: Jack lived with his mother in a little house.
     tags: *a1
   - id: dd7679db-176d-4bb5-b2e3-1c4f0f46a07d
     start: 00:17.664
     end: 00:25.088
     fields:
       transcription: 二人は牛のミルクを売って生活していましたが、あまりお金を持っていません。
+      meaning: "They lived on selling milk given by a cow, but they have little money. "
     tags:
       - WGR_2_jakku_to_mame_no_ki.mp3
   - id: edcb0e90-5cb0-40d2-a59c-61faa8aae840
@@ -18509,12 +18529,14 @@ clips:
     end: 00:33.257
     fields:
       transcription: ある日、牛からミルクが出なくなって、とうとう牛を売ることにしました。
+      meaning: "One day, the cow gave no milk and they finally decided to sell the cow. "
     tags: *a1
   - id: c03eedbc-b2d2-4759-b837-b36fd2995893
     start: 00:34.56
     end: 00:41.22
     fields:
       transcription: 「必ず高く売ってきて。」お母さんはジャックに言いました。
+      meaning: "“Make sure to sell it at a good price.” Jack’s mother said to him. "
     tags:
       - WGR_2_jakku_to_mame_no_ki.mp3
   - id: 35aa1ed6-fcef-449b-8604-e1ee56d18027
@@ -18522,6 +18544,7 @@ clips:
     end: 00:48.4
     fields:
       transcription: 「もちろん。」ジャックはそう言って、お店へ向かいました。
+      meaning: "“Sure,” Jack said and headed toward a shop. "
     tags:
       - WGR_2_jakku_to_mame_no_ki.mp3
   - id: adfbfad3-b179-4c2f-9c5d-bb560e50ca7d
@@ -18529,164 +18552,177 @@ clips:
     end: 00:55.808
     fields:
       transcription: お店への道の途中で、ジャックはふしぎなおじいさんに会いました。
+      meaning: "On his way to the shop, Jack met a mysterious old man. "
     tags: *a1
   - id: 8c23e42a-c58b-4e67-847c-223056533f49
     start: 00:57.344
-    end: 00:59.392
-    fields:
-      transcription: おじいさんは言いました。
-    tags: *a1
-  - id: af2febed-2e85-4aff-a15b-abb1757cd39d
-    start: 01:00.416
     end: 01:04.256
     fields:
-      transcription: 「おはよう、ジャック。どこに行くの？」
-    tags: *a1
+      transcription: |-
+        おじいさんは言いました。
+        「おはよう、ジャック。どこに行くの？」
+      meaning: "The old man said, “Good morning, Jack. Where are you going?” "
+    tags:
+      - WGR_2_jakku_to_mame_no_ki.mp3
   - id: d45742a5-4c43-45b2-aa3b-9d0dee1de5a8
     start: 01:05.28
-    end: 01:12.129
-    fields:
-      transcription: ジャックは、なんでぼくの名前を知っているの？と思いながら答えました。
-    tags: *a1
-  - id: 714822a5-b3f9-498f-879d-60673c989178
-    start: 01:13.472
     end: 01:16.544
     fields:
-      transcription: 「この牛を売りにお店へ行くんだよ。」
-    tags: *a1
+      transcription: |-
+        ジャックは、なんでぼくの名前を知っているの？と思いながら答えました。
+        「この牛を売りにお店へ行くんだよ。」
+      meaning: While Jack was wondering why the old man knew his name, he replied, “I’m going to the shop to sell this cow.”
+    tags:
+      - WGR_2_jakku_to_mame_no_ki.mp3
   - id: 08bcba55-8c9f-4add-8197-89a5edd8b3bc
     start: 01:18.336
     end: 01:23.968
     fields:
       transcription: すると、おじいさんは何かをポケットから出しました。
-      meaning: Then, the old man took something out. “Jack, I will give you this bean in exchange for your cow. This is a magic bean and it will grow into a beanstalk that touches the sky for a day.” “Okay.” Jack exchanged the cow for the bean and went home. When Jack arrived at his house, his mother asked, “How much did you sell the cow for?” “I exchanged the cow for this magic bean.” Jack told his mother about the bean and then she started getting angry. “How foolish! Why did you exchange our important cow for such a bean!?” His mother took the bean and tossed it out the window to the outside.
+      meaning: "Then, the old man took something out. "
     tags: *a1
   - id: 92377e65-ebbb-4177-b2a5-0c65b164d53e
     start: 01:25.248
     end: 01:30.88
     fields:
       transcription: 「ジャック、その牛と交かんでこの豆をあげるよ。
+      meaning: “Jack, I will give you this bean in exchange for your cow.
     tags: *a1
   - id: 133d3c82-3873-4a85-8310-9f8c1d45b538
     start: 01:32.16
     end: 01:37.28
     fields:
       transcription: これはまほうの豆で、一日で空までのびるんだ。」
+      meaning: "This is a magic bean and it will grow into a beanstalk that touches the sky for a day.” "
     tags: *a1
   - id: b100bfb6-5c57-40a6-9ddd-3d076d4a4a6e
     start: 01:38.816
     end: 01:39.84
     fields:
       transcription: 「わかった。」
+      meaning: "“Okay.” "
     tags: *a1
   - id: 6a1de0a9-57ea-46ff-8316-cc209b82c546
     start: 01:41.12
     end: 01:46.496
     fields:
       transcription: ジャックは牛を豆と交かんして家に帰りました。
-    tags: *a1
-  - id: ad03d543-9f75-4d3d-ac24-0d2d27171697
-    start: 01:47.776
-    end: 01:52.64
-    fields:
-      transcription: ジャックが家に着くと、お母さんは聞きました。
+      meaning: "Jack exchanged the cow for the bean and went home. "
     tags: *a1
   - id: a0f856aa-efbb-45f0-8588-f452eaebec78
-    start: 01:53.92
+    start: 01:47.776
     end: 01:56.48
     fields:
-      transcription: 「牛はいくらで売れたの？」
-    tags: *a1
+      transcription: |-
+        ジャックが家に着くと、お母さんは聞きました。
+        「牛はいくらで売れたの？」
+      meaning: "When Jack arrived at his house, his mother asked, “How much did you sell the cow for?” "
+    tags:
+      - WGR_2_jakku_to_mame_no_ki.mp3
   - id: 9fc50bc5-1f1b-4c30-a61c-d1abf8816b05
     start: 01:57.76
     end: 02:01.6
     fields:
       transcription: 「牛はこのまほうの豆と交かんしたよ。」
+      meaning: “I exchanged the cow for this magic bean.”
     tags: *a1
   - id: c9807925-866f-4d3f-91f3-81150428e450
     start: 02:02.88
     end: 02:09.024
     fields:
       transcription: ジャックが豆のことを話すと、お母さんは怒り始めました。
+      meaning: "Jack told his mother about the bean and then she started getting angry. "
     tags: *a1
   - id: 8346b4c7-3767-4403-971f-43079885b297
     start: 02:11.381
     end: 02:13.301
     fields:
       transcription: 「お前はなんてバカなんだ。
+      meaning: "“How foolish! "
     tags: *a1
   - id: d2ca3aba-9896-4234-be7c-f29a46620843
     start: 02:14.221
     end: 02:18.441
     fields:
       transcription: どうして大事な牛をこんな豆と交かんしたんだ！」
+      meaning: "Why did you exchange our important cow for such a bean!?” "
     tags: *a1
   - id: 3d97b7bd-a0a1-4680-bef8-c413992a47c2
     start: 02:20.52
     end: 02:25.84
     fields:
       transcription: お母さんは豆を取ると、窓から外に投げてしまいました。
+      meaning: His mother took the bean and tossed it out the window to the outside.
     tags: *a1
   - id: bddb6c4a-c8a1-4e8b-adba-db22c0ddc31b
     start: 02:28.48
     end: 02:34.624
     fields:
       transcription: 次の日の朝、ジャックが起きると、いつもと何かが違います。
-      meaning: When Jack got up the next morning, something was unusual. There was a very big beanstalk in the yard. “That old man’s story is true!” Jack was surprised and went out the window. Then, he started climbing the beanstalk. After climbing for a whole day, Jack reached a place in the sky. There was a big and beautiful castle in the sky. Jack, who was hungry, said toward the castle, “Excuse me. Could I have something to eat?” Then, a woman appeared from the castle and gave Jack bread and a glass of milk. And, she asked, “How did you come here? This castle is the house of a giant who eats people. You should go home soon.”
+      meaning: "When Jack got up the next morning, something was unusual. "
     tags: *a1
   - id: 598a8c2d-cd11-4ea9-8e07-cbf9b76a520c
     start: 02:35.904
     end: 02:40.0
     fields:
       transcription: 庭にとても大きな豆の木があったのです。
+      meaning: "There was a very big beanstalk in the yard. "
     tags: *a1
   - id: 5a3cfc66-34c1-4835-9147-8039348f6a18
     start: 02:41.536
     end: 02:45.376
     fields:
       transcription: 「あのおじいさんの話は本当だったんだ！」
+      meaning: "“That old man’s story is true!” "
     tags: *a1
   - id: a7fdd292-bd3f-4bc7-b214-66ac95ee249d
     start: 02:46.656
     end: 02:51.52
     fields:
       transcription: ジャックはおどろいて、窓から外に出ました。
+      meaning: "Jack was surprised and went out the window. "
     tags: *a1
   - id: 99135f2f-f2ac-46ce-a9cd-0cb82baaf3c7
     start: 02:52.8
     end: 02:56.896
     fields:
       transcription: そして、豆の木を登り始めました。
+      meaning: "Then, he started climbing the beanstalk. "
     tags: *a1
   - id: 0a37f7d1-b94a-482a-a656-5b2c4ae4181f
     start: 02:58.176
     end: 03:03.808
     fields:
       transcription: 一日登った後、ジャックは空の上に着きました。
+      meaning: "After climbing for a whole day, Jack reached a place in the sky. "
     tags: *a1
   - id: 0e59cc0b-f13f-4443-a410-59525ad3058a
     start: 03:05.088
     end: 03:10.72
     fields:
       transcription: 空の上には、大きくてきれいなお城がありました。
+      meaning: "There was a big and beautiful castle in the sky. "
     tags: *a1
   - id: 84989e5f-3f45-4b9a-85a7-43e02ad72feb
     start: 03:11.744
     end: 03:17.12
     fields:
       transcription: お腹が空いていたジャックはお城に向かって言いました。
+      meaning: "Jack, who was hungry, said toward the castle, "
     tags: *a1
   - id: 24d21881-4554-4635-92d8-ad03663da58a
     start: 03:18.4
     end: 03:23.264
     fields:
       transcription: 「すみません、何か食べるものをもらえませんか？」
+      meaning: "“Excuse me. Could I have something to eat?” "
     tags: *a1
   - id: 7ddb9233-47b5-4dfd-be2a-a382c6d4a517
     start: 03:24.544
     end: 03:33.129
     fields:
       transcription: すると、女の人がお城から出てきて、ジャックにパンと牛乳をくれました。
+      meaning: Then, a woman appeared from the castle and gave Jack bread and a glass of milk.
     tags:
       - WGR_2_jakku_to_mame_no_ki.mp3
   - id: dd579ff5-ea65-414b-ab6c-942d72f921d0
@@ -18694,85 +18730,98 @@ clips:
     end: 03:36.832
     fields:
       transcription: そして、こう聞きました。
+      meaning: "And, she asked, "
     tags: *a1
   - id: 329cc629-260d-41ef-8351-ed12699eab35
     start: 03:38.112
     end: 03:40.416
     fields:
       transcription: 「どうやってここに来たの？
+      meaning: "“How did you come here? "
     tags: *a1
   - id: 062425d8-8b14-41e3-8cec-99be404cd4e2
     start: 03:41.696
     end: 03:45.536
     fields:
       transcription: このお城は人食い巨人の家だよ。
+      meaning: "This castle is the house of a giant who eats people. "
     tags: *a1
   - id: df97497c-28fd-4b88-9919-65d0b957d510
     start: 03:46.816
     end: 03:50.912
     fields:
       transcription: 早く自分の家に帰った方がいいよ。」
+      meaning: You should go home soon.”
     tags: *a1
   - id: cd67e6da-797d-4010-af58-743fb758a209
     start: 03:53.472
     end: 03:57.056
     fields:
       transcription: その時、大きな音が聞こえました。
-      meaning: At the time, a big sound was heard. The giant was back. The woman hid Jack in a room in a hurry. “Hide here! If you are found, you will be eaten by the giant.” When the giant entered the castle, he said, “I’m tired today, so I’m going to bed right away.” The giant put his money on a desk and went to his room. When Jack saw that the giant went to bed, he stopped hiding himself. And, he took the money on the desk and ran away. He ran from the castle to the beanstalk and slid down the beanstalk and went home. Then, Jack and his mother lived on the money. But, after a while, they used up all the money. So, Jack decided to climb the beanstalk once again.
+      meaning: "At the time, a big sound was heard. "
     tags: *a1
   - id: 921ff507-9532-4050-a5c6-e96d7818fb1b
     start: 03:58.336
     end: 04:00.64
     fields:
       transcription: 巨人が帰ってきたのです。
+      meaning: "The giant was back. "
     tags: *a1
   - id: b858f0e9-b247-45a9-9c79-4a513bd67e43
     start: 04:02.176
     end: 04:07.808
     fields:
       transcription: 女の人は急いでジャックを部屋の中に隠しました。
+      meaning: "The woman hid Jack in a room in a hurry. "
     tags: *a1
   - id: b162f042-4152-4396-829b-8c5dce71090c
     start: 04:09.088
     end: 04:14.72
     fields:
       transcription: 「ここに隠れて！見つかると巨人に食べられるよ。」
+      meaning: "“Hide here! If you are found, you will be eaten by the giant.” "
     tags: *a1
   - id: 3fb4cd71-1385-40c0-a08c-09b8de6acfb3
     start: 04:16.0
     end: 04:20.607
     fields:
       transcription: 巨人はお城の中に入ると、言いました。
+      meaning: "When the giant entered the castle, he said, "
     tags: *a1
   - id: a835af36-4d18-4863-8b1e-295c5e29d321
     start: 04:22.143
     end: 04:25.215
     fields:
       transcription: 「今日は疲れたから、すぐに寝よう。」
+      meaning: "“I’m tired today, so I’m going to bed right away.” "
     tags: *a1
   - id: b33efb61-5743-4057-976b-8c1a0e92b1ba
     start: 04:26.751
     end: 04:32.639
     fields:
       transcription: 巨人はお金を机に置いて、自分の部屋に行きました。
+      meaning: "The giant put his money on a desk and went to his room. "
     tags: *a1
   - id: e51d0a58-5dae-43f3-8054-f0935a90316a
     start: 04:34.175
     end: 04:40.319
     fields:
       transcription: ジャックは巨人が寝たのを見ると、隠れるのを止めました。
+      meaning: "When Jack saw that the giant went to bed, he stopped hiding himself. "
     tags: *a1
   - id: 5556d80b-68f4-4071-b4d5-418045d0c2f1
     start: 04:41.855
     end: 04:46.975
     fields:
       transcription: そして、机の上のお金を取って逃げました。
+      meaning: And, he took the money on the desk and ran away.
     tags: *a1
   - id: 1f15dd7d-eacc-47c9-9a0e-7f5e6cd6c76d
     start: 04:48.511
     end: 04:55.692
     fields:
       transcription: お城から豆の木まで走り、豆の木をすべって家に帰りました。
+      meaning: " He ran from the castle to the beanstalk and slid down the beanstalk and went home. "
     tags:
       - WGR_2_jakku_to_mame_no_ki.mp3
   - id: 2bbc5493-9d3d-4210-a247-56966d634217
@@ -18780,12 +18829,14 @@ clips:
     end: 05:03.103
     fields:
       transcription: それからジャックとお母さんはそのお金で生活しました。
+      meaning: "Then, Jack and his mother lived on the money. "
     tags: *a1
   - id: 4ddc5cbb-eddd-4819-a9e4-96328edd1864
     start: 05:04.639
     end: 05:11.54
     fields:
       transcription: しかし、しばらくすると、そのお金をすべて使ってしまいました。
+      meaning: "But, after a while, they used up all the money. "
     tags:
       - WGR_2_jakku_to_mame_no_ki.mp3
   - id: 60e6e368-f255-468a-8f13-69e7adc4a01d
@@ -18793,164 +18844,189 @@ clips:
     end: 05:18.975
     fields:
       transcription: だから、ジャックはもういちど、豆の木を登ることにしました。
+      meaning: So, Jack decided to climb the beanstalk once again.
     tags: *a1
   - id: 707870f7-2889-4e8f-b737-95745b6832cd
     start: 05:21.279
     end: 05:26.655
     fields:
       transcription: ジャックは前よりも早く空の上に着きました。
-      meaning: Jack arrived on the sky earlier than before. Jack looked for that woman, but couldn’t find her. The door of the castle was open. When Jack entered the castle, the giant was talking with a bird. “Make a golden egg,” the giant said. Then, the bird made a golden egg. The bird was able to make golden eggs. The giant made the bird make three golden eggs. Then, the giant went to the bathroom. During that time, Jack tried to take a golden egg. But, this time, Jack was found by the giant. The giant tried to catch Jack. Jack ran away in a hurry. The giant ran very hard, too.
+      meaning: "Jack arrived on the sky earlier than before. "
     tags: *a1
   - id: 18411ee9-3fc7-45a7-8275-a3314fa68d8e
     start: 05:27.935
     end: 05:33.567
     fields:
       transcription: ジャックはあの女の人を探しましたが、見つけられません。
+      meaning: "Jack looked for that woman, but couldn’t find her. "
     tags: *a1
   - id: 6d5a5d71-a66e-4b7c-9569-b275bcc32df7
     start: 05:34.847
     end: 05:37.407
     fields:
       transcription: お城のドアは開いていました。
+      meaning: "The door of the castle was open. "
     tags: *a1
   - id: 980c7ef9-9a14-4328-9a44-f9771e43b335
     start: 05:38.687
     end: 05:44.831
     fields:
       transcription: ジャックがお城の中に入ると、巨人が鳥と話をしていました。
+      meaning: "When Jack entered the castle, the giant was talking with a bird. "
     tags: *a1
   - id: fc998dd9-4fd0-4a56-8e8b-dfb010658642
     start: 05:46.623
     end: 05:51.743
     fields:
       transcription: 「金のたまごを作れ。」巨人は言いました。
+      meaning: "“Make a golden egg,” the giant said. "
     tags: *a1
   - id: dbf2c17d-e481-4818-8642-64b0418c071d
     start: 05:52.767
     end: 05:57.119
     fields:
       transcription: すると、鳥は金のたまごを作りました。
+      meaning: "Then, the bird made a golden egg. "
     tags: *a1
   - id: 1d438aac-a849-4fdc-a8c5-87f8614a9315
     start: 05:58.143
     end: 06:02.495
     fields:
       transcription: 鳥は金のたまごを作ることができたのです。
+      meaning: "The bird was able to make golden eggs. "
     tags: *a1
   - id: e1009b32-05ba-4afb-9846-13f2975103c9
     start: 06:03.775
     end: 06:08.639
     fields:
       transcription: 巨人は鳥に金のたまごを３つ作らせました。
+      meaning: "The giant made the bird make three golden eggs. "
     tags: *a1
   - id: 3062d0b5-9b1d-4f09-9cd9-309d1f8d4182
     start: 06:09.919
     end: 06:12.735
     fields:
       transcription: それからトイレに行きました。
+      meaning: "Then, the giant went to the bathroom. "
     tags: *a1
   - id: 6d46bb11-078f-486b-ac5d-2acc18fe93df
     start: 06:13.759
     end: 06:19.135
     fields:
       transcription: その間に、ジャックは金のたまごを取ろうとしました。
+      meaning: "During that time, Jack tried to take a golden egg. "
     tags: *a1
   - id: 792a4d8b-914e-49c9-9652-17dda1ce0355
     start: 06:20.415
     end: 06:25.023
     fields:
       transcription: しかし、今度は巨人に見つかってしまいました。
+      meaning: "But, this time, Jack was found by the giant. "
     tags: *a1
   - id: 5de1409d-5e7f-433a-9a28-8a643ff9cf14
     start: 06:26.047
     end: 06:30.143
     fields:
       transcription: 巨人はジャックをつかまえようとしました。
+      meaning: "The giant tried to catch Jack. "
     tags: *a1
   - id: 9fecb4ca-64b1-4900-826c-e896481ed332
     start: 06:31.423
     end: 06:34.239
     fields:
       transcription: ジャックは急いで逃げました。
+      meaning: "Jack ran away in a hurry. "
     tags: *a1
   - id: e4afb9dc-d3e7-4699-95ea-fba9524b0bdb
     start: 06:35.519
     end: 06:39.103
     fields:
       transcription: 巨人も一生懸命走りました。
+      meaning: The giant ran very hard, too.
     tags: *a1
   - id: 6d87edd2-437f-403d-9840-f4f00df92c72
     start: 06:41.407
     end: 06:47.551
     fields:
       transcription: ジャックが豆の木を降りていると、自分の家が見えてきました。
-      meaning: When Jack was going down the beanstalk, his house came into sight. Jack said with a loud voice, “Mom, bring a sword. Cut down this beanstalk.” His mother cut down the beanstalk with the sword. Then, the beanstalk made a big sound and fell down. The giant fell out of the beanstalk and died. Jack also fell out of the beanstalk and got injured. His mother said, “Jack, stop taking people’s things. Even if you lived on someone’s money, we cannot become happy.” Jack apologized to the dead giant. Then, Jack started working seriously.
+      meaning: "When Jack was going down the beanstalk, his house came into sight. "
     tags: *a1
   - id: 8f88f75f-de37-464c-8436-d257e99740db
     start: 06:48.831
     end: 06:51.903
     fields:
       transcription: ジャックは大きな声で言いました。
+      meaning: "Jack said with a loud voice, "
     tags: *a1
   - id: c0ee58d1-b7bd-4290-bd73-c25f08c8387b
     start: 06:53.183
     end: 06:58.559
     fields:
       transcription: 「お母さん、刀を持ってきて。豆の木を切って。」
+      meaning: "“Mom, bring a sword. Cut down this beanstalk.” "
     tags: *a1
   - id: 92126316-d326-4021-9380-3e26b1a9a60b
     start: 06:59.839
     end: 07:04.191
     fields:
       transcription: お母さんは刀で豆の木を切りました。
+      meaning: "His mother cut down the beanstalk with the sword. "
     tags: *a1
   - id: d806797e-ba08-4cb1-a119-4b33dff4205a
     start: 07:05.471
     end: 07:10.847
     fields:
       transcription: すると、豆の木は大きな音を立てて倒れました。
+      meaning: "Then, the beanstalk made a big sound and fell down. "
     tags: *a1
   - id: 3a2ce82c-521d-4ff6-9e0a-b83c86946dc0
     start: 07:11.871
     end: 07:16.223
     fields:
       transcription: 巨人は豆の木から落ちて死んでしまいました。
+      meaning: "The giant fell out of the beanstalk and died. "
     tags: *a1
   - id: dfae9f1d-4252-4247-a243-9446be3464ea
     start: 07:17.503
     end: 07:21.855
     fields:
       transcription: ジャックも豆の木から落ちて怪我をしました。
+      meaning: "Jack also fell out of the beanstalk and got injured. "
     tags: *a1
   - id: 95965ac4-88c0-434e-8db3-5d70b610a09f
     start: 07:22.879
     end: 07:25.183
     fields:
       transcription: お母さんは言いました。
+      meaning: "His mother said, "
     tags: *a1
   - id: df705dd8-24ba-4b46-90ae-0309b91f288f
     start: 07:26.463
     end: 07:30.559
     fields:
       transcription: 「ジャック、人のものを取るのを止めなさい。
+      meaning: "“Jack, stop taking people’s things. "
     tags: *a1
   - id: cdef12c3-d720-41db-afea-9e37eb383b1c
     start: 07:31.583
     end: 07:37.727
     fields:
       transcription: 誰かのお金で生活しても、私たちは幸せになれません。」
+      meaning: "Even if you lived on someone’s money, we cannot become happy.” "
     tags: *a1
   - id: 95985c58-a428-44e6-b1fe-ad17253e255c
     start: 07:38.751
     end: 07:42.335
     fields:
       transcription: ジャックは死んだ巨人に謝りました。
+      meaning: "Jack apologized to the dead giant. "
     tags: *a1
   - id: fa0fea33-23d7-496b-9d43-c5bff4ed4337
     start: 07:43.615
     end: 07:47.967
     fields:
       transcription: それからジャックは真面目に働き始めました。
+      meaning: Then, Jack started working seriously.
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: b2ac6fbf-b411-4afc-8f56-07f984d177d4
@@ -19455,31 +19531,35 @@ clips:
     end: 07:16.223
     fields:
       transcription: 男はなにも言うことができませんでした。
-      meaning: The man couldn’t say anything. “I’m the crane who received the meal from you. That day, you prepared the meal for me and I was really glad with that. So, I came to this house to do something for you. However, I was found that I was a crane, so I cannot be here any longer,” the woman said, and then she return to the crane body and left the house. “Wait. Wait,” the man said to the woman, but she didn’t reply. After the woman left, the man realized that he did heartless things to her. Since then, the man was waiting for her to come back every day. However, the woman never came back his house.
+      meaning: "The man couldn’t say anything. "
     tags: *a1
   - id: 7c70b217-3f1e-435d-86a9-384e31494732
     start: 07:17.759
     end: 07:21.599
     fields:
       transcription: 「私はあなたにごはんをもらったツルです。
+      meaning: "“I’m the crane who received the meal from you. "
     tags: *a1
   - id: 2edc63d9-882f-42d6-bbe2-65bc2305f31b
     start: 07:22.879
     end: 07:29.023
     fields:
       transcription: あの日、私のためにごはんを用意してくれて、本当にうれしかった。
+      meaning: "That day, you prepared the meal for me and I was really glad with that. "
     tags: *a1
   - id: ceeeae85-bf55-42fd-a865-956673ebcb14
     start: 07:30.815
     end: 07:36.191
     fields:
       transcription: だから、あなたにお礼をするために、この家に来ました。
+      meaning: "So, I came to this house to do something for you. "
     tags: *a1
   - id: e5707ba2-7594-429a-a6d0-622f6481b31d
     start: 07:37.471
     end: 07:45.202
     fields:
       transcription: でも、私がツルだということを見られたので、もうここにいることはできません。」
+      meaning: "However, I was found that I was a crane, so I cannot be here any longer,” "
     tags:
       - WGR_3_tsuru_no_ongaeshi.mp3
   - id: dc108e71-ba1e-42e2-be52-ff88e9d09a8c
@@ -19487,24 +19567,28 @@ clips:
     end: 07:52.771
     fields:
       transcription: そう言うと、女はツルの体に戻って、家を出ていきました。
+      meaning: "the woman said, and then she return to the crane body and left the house. "
     tags: *a1
   - id: 17f9a822-ffa0-431f-b179-3e5a18777c69
     start: 07:54.111
     end: 07:56.671
     fields:
       transcription: 「待って。待ってくれ。」
+      meaning: "“Wait. Wait,” "
     tags: *a1
   - id: 563caec8-d5ad-479f-a807-6cca691cdfbf
     start: 07:57.695
     end: 08:03.327
     fields:
       transcription: 男は女に言いましたが、女は返事をしません。
+      meaning: the man said to the woman, but she didn’t reply.
     tags: *a1
   - id: d7d8311f-0cfd-41da-bcb0-30afc79c8793
     start: 08:04.607
     end: 08:12.002
     fields:
       transcription: 女がいなくなったあと、男は女にひどいことをしたと気がつきました。
+      meaning: After the woman left, the man realized that he did heartless things to her.
     tags:
       - WGR_3_tsuru_no_ongaeshi.mp3
   - id: c0428a8b-1a43-47e8-a8fa-5974b26398de
@@ -19512,12 +19596,14 @@ clips:
     end: 08:18.943
     fields:
       transcription: それから男は女が帰って来るのを毎日待ちました。
+      meaning: "Since then, the man was waiting for her to come back every day. "
     tags: *a1
   - id: b81dcbec-fb9d-4e31-b180-717a8ff2e93a
     start: 08:20.223
     end: 08:26.111
     fields:
       transcription: しかし、女は二度と男の家には帰って来ませんでした。
+      meaning: However, the woman never came back his house.
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: 34d8b54f-07f2-4043-a969-e01133a8d02d
@@ -19541,55 +19627,63 @@ clips:
     end: 00:10.24
     fields:
       transcription: 冬のある日、二人の若い男が山にいました。
-      meaning: One day in winter, there were two young men in the mountain. They had new guns and were with dogs. “This mountain looks strange. There is not a bird nor an animal. I want to use this new gun soon.” “If I kill a big animal by this gun, it should certainly be fun.” While they were talking about these kinds of things, they were walking in the mountain. But, although they walked a lot, they could not find an animal. “I have become hungry, so let’s go home today.” “Yes, let’s.” They decided that they would go down the mountain. But, both of them didn’t remember the way home. They lost their way. When it became evening, the wind became strong and it started snowing, too. Since it became too cold, the dogs ran away somewhere.
+      meaning: "One day in winter, there were two young men in the mountain. "
     tags: *a1
   - id: 4f08983e-0349-451a-8f69-0d0abb50904a
     start: 00:11.6
     end: 00:16.04
     fields:
       transcription: 二人は新しい銃を持って、犬と一緒でした。
+      meaning: "They had new guns and were with dogs. "
     tags: *a1
   - id: 0301b1b0-cd9b-4b78-a1ee-575d0d372aed
     start: 00:17.46
     end: 00:21.5
     fields:
       transcription: 「この山は変だ。鳥や動物がいない。
+      meaning: "“This mountain looks strange. There is not a bird nor an animal. "
     tags: *a1
   - id: 4e4ca3e9-9b6b-45a8-ac8a-9de4f2aa12da
     start: 00:22.784
     end: 00:27.392
     fields:
       transcription: 私は早くこの新しい銃を使いたいよ。」
+      meaning: "I want to use this new gun soon.” "
     tags: *a1
   - id: ed8ff47e-f108-477f-b923-f64ae0019993
     start: 00:28.672
     end: 00:34.304
     fields:
       transcription: 「大きな動物をこの銃で殺したら、きっと楽しいはずだ。」
+      meaning: "“If I kill a big animal by this gun, it should certainly be fun.” "
     tags: *a1
   - id: 4fda9172-0a9a-44b1-aee6-8a35842bda7a
     start: 00:35.584
     end: 00:40.704
     fields:
       transcription: 二人はこんな話をしながら、山を歩いていました。
+      meaning: "While they were talking about these kinds of things, they were walking in the mountain. "
     tags: *a1
   - id: d321a887-3fb5-4484-9a0f-55e76eeb18c3
     start: 00:41.984
     end: 00:48.128
     fields:
       transcription: しかし、たくさん歩いても、動物を見つけることが出来ません。
+      meaning: "But, although they walked a lot, they could not find an animal. "
     tags: *a1
   - id: 133425e5-9b7d-4de2-88be-ecc0bf6eef3c
     start: 00:49.408
     end: 00:52.992
     fields:
       transcription: 「お腹が空いたから、今日は家に帰ろう。」
+      meaning: "“I have become hungry, so let’s go home today.” "
     tags: *a1
   - id: 4a31e486-592a-45a0-ba0c-ceb2a70ae40b
     start: 00:54.528
     end: 01:00.672
     fields:
       transcription: 「うん、そうしよう。」二人は山を降りることにしました。
+      meaning: "“Yes, let’s.” They decided that they would go down the mountain. "
     tags:
       - WGR_4_chuumon_no_ooi_ryouriten.mp3
   - id: 6a65187a-ec2e-4f03-8ae8-3dbeb54517e4
@@ -19597,54 +19691,56 @@ clips:
     end: 01:06.816
     fields:
       transcription: しかし、二人とも帰りの道を覚えていません。
+      meaning: "But, both of them didn’t remember the way home. "
     tags: *a1
   - id: 3c89c1e9-33d1-4a17-8277-aa5f58dfa8cc
     start: 01:08.352
     end: 01:11.424
     fields:
       transcription: 二人は道に迷ってしまいました。
+      meaning: "They lost their way. "
     tags: *a1
   - id: 46626ffc-cbc2-4a7d-9aec-dcbebf387b84
     start: 01:12.704
     end: 01:18.336
     fields:
       transcription: 夕方になると、風が強くなって、雪も降ってきました。
+      meaning: "When it became evening, the wind became strong and it started snowing, too. "
     tags: *a1
   - id: 4b324985-dd5d-4829-8bcf-463d0a83503c
     start: 01:19.872
     end: 01:25.248
     fields:
       transcription: あまりに寒くなったので、犬はどこかに逃げてしまいました。
+      meaning: Since it became too cold, the dogs ran away somewhere.
     tags: *a1
   - id: 904c9eee-71b9-4e3c-b7d7-f8bb28ac23ad
     start: 01:27.552
     end: 01:32.672
     fields:
       transcription: 「困った。寒いし、私はお腹も空いている。」
-      meaning: |-
-        “We have got a problem. It’s cold and I am also hungry.” “I want to eat something, too. If it becomes night, we’re going to die.” While they were talking about such things, they found a restaurant named WILDCAT RESTAURANT. “This sounds good. Let’s get inside.” “But, it’s strange that there is a restaurant even in the mountain, isn’t it?” “Don’t worry. Come on. I’m already hungry and I feel I’m going to die.” “Yeah, I want to take a rest in a warm room, too.“ When they tried to open the door, they found that something was written on the door;
-
-        “Welcome. Feel free to come in.”
-
-        They were glad. “Amazing! It’s a tough day, we have been walking a lot, but we can eat a meal without paying money at night.” “You are right. “Feel free” must be “For free”, mustn’t it?”
+      meaning: "“We have got a problem. It’s cold and I am also hungry.” "
     tags: *a1
   - id: d705e139-2947-41ac-a92c-caa5e32233e3
     start: 01:33.952
     end: 01:36.256
     fields:
       transcription: 「僕も何か食べたいよ。
+      meaning: "“I want to eat something, too. "
     tags: *a1
   - id: a7387f5d-9f73-4d15-9e98-bebd95777a35
     start: 01:37.536
     end: 01:40.096
     fields:
       transcription: 夜になると死んでしまうよ。」
+      meaning: "If it becomes night, we’re going to die.” "
     tags: *a1
   - id: 0e10b1cc-6b04-4c44-bed9-32a0913bf1d5
     start: 01:41.376
     end: 01:49.052
     fields:
       transcription: 二人がそんな話をしていると、山猫レストランというレストランを見つけました。
+      meaning: "While they were talking about such things, they found a restaurant named WILDCAT RESTAURANT. "
     tags:
       - WGR_4_chuumon_no_ooi_ryouriten.mp3
   - id: 1b74b2d1-9862-49f8-9bc3-63fe8595665a
@@ -19652,36 +19748,47 @@ clips:
     end: 01:53.152
     fields:
       transcription: 「これはいい。中に入ろう。」
+      meaning: |-
+        “This sounds good. Let’s get inside.” “But, it’s strange that there is a restaurant even in the mountain, isn’t it?” “Don’t worry. Come on. I’m already hungry and I feel I’m going to die.” “Yeah, I want to take a rest in a warm room, too.“ When they tried to open the door, they found that something was written on the door;
+
+        “Welcome. Feel free to come in.”
+
+        They were glad. “Amazing! It’s a tough day, we have been walking a lot, but we can eat a meal without paying money at night.” “You are right. “Feel free” must be “For free”, mustn’t it?”
     tags: *a1
   - id: c16cd673-032b-44ae-8ac9-d75e7d5e5e4c
-    start: 01:54.563
-    end: 02:01.283
+    start: 01:54.576
+    end: 02:01.256
     fields:
       transcription: 「しかし、こんな山の中にレストランがあるのは少し変だね。」
+      pronunciation: "“But, it’s strange that there is a restaurant even in the mountain, isn’t it?” "
     tags: *a1
   - id: 4af7b033-9023-4655-8b30-71a8073ae595
     start: 02:02.624
     end: 02:03.904
     fields:
       transcription: 「いいから行こう。
+      meaning: "“Don’t worry. Come on. "
     tags: *a1
   - id: d025dd1a-449b-497d-985e-75752bf28890
     start: 02:05.184
     end: 02:09.536
     fields:
       transcription: 私はもうお腹が空いて、死にそうなんだ。」
+      meaning: "Come on. I’m already hungry and I feel I’m going to die.” "
     tags: *a1
   - id: 07025b5a-20ff-4dde-b64b-fe03fc7a0f43
     start: 02:10.816
     end: 02:14.912
     fields:
       transcription: 「うん、僕も暖かい部屋で休みたいよ。」
+      meaning: "“Yeah, I want to take a rest in a warm room, too.“ "
     tags: *a1
   - id: cce0e054-d2f5-4f47-bd42-ae6ac07de78e
     start: 02:16.192
     end: 02:23.18
     fields:
       transcription: 二人がドアを開けようとすると、ドアに何か書いてあるのを見つけました。
+      meaning: When they tried to open the door, they found that something was written on the door;
     tags:
       - WGR_4_chuumon_no_ooi_ryouriten.mp3
   - id: fcd62378-ee42-453b-bd9b-8447f97628a1
@@ -19689,18 +19796,21 @@ clips:
     end: 02:28.736
     fields:
       transcription: “いらっしゃいませ。遠慮なく入ってください。”
+      meaning: “Welcome. Feel free to come in.”
     tags: *a1
   - id: d15ca904-4f92-4016-9f46-0a07cf1f47e7
     start: 02:30.016
     end: 02:32.32
     fields:
       transcription: 二人は喜びました。
+      meaning: "They were glad. "
     tags: *a1
   - id: c71885d9-2a40-496f-8ae1-148b0dfa5eb8
     start: 02:33.6
     end: 02:43.743
     fields:
       transcription: 「すごい。今日はたくさん歩いて大変だったけど、夜はお金を払わずにごはんが食べられる！」
+      meaning: "“Amazing! It’s a tough day, we have been walking a lot, but we can eat a meal without paying money at night.” "
     tags:
       - WGR_4_chuumon_no_ooi_ryouriten.mp3
   - id: c47d6118-369e-4e69-b8e6-0162ce7d487a
@@ -19708,80 +19818,82 @@ clips:
     end: 02:51.008
     fields:
       transcription: 「そうだね。『遠慮なく』というのは『タダで』ということだよね。」
+      meaning: “You are right. “Feel free” must be “For free”, mustn’t it?”
     tags: *a1
   - id: 5db0324b-883d-445b-82f9-d7e7cf18c740
     start: 02:53.312
     end: 02:55.872
     fields:
       transcription: 二人はドアを開けました。
-      meaning: |-
-        They opened the door. Then, what was written on the back of the door was this;
-
-        “Thank you for coming, especially fat and young people.”
-
-        They were very glad because both of them were young and fat. “We’re very happy to be able to come to this good restaurant.” They walked the corridor and there was a blue door. “It’s strange. Why are there many doors in this restaurant?” “Because here is in the mountain. As for a cold place or a place in the mountain, there are many doors in a building.” When they tried to open the blue door, this time they found that this was written;
-
-        “Here is a restaurant which has many orders. Please understand.”
+      meaning: "They opened the door. "
     tags: *a1
   - id: 6559edb4-3b32-4c9e-b93a-11f979463d36
     start: 02:57.152
     end: 03:01.76
     fields:
       transcription: すると、ドアの裏にはこう書いてありました。
+      meaning: Then, what was written on the back of the door was this;
     tags: *a1
   - id: 020f0eab-f68a-41f0-b7cc-9e5375742e84
     start: 03:03.04
     end: 03:09.184
     fields:
       transcription: “太った人、若い人は、特に来てくれてありがとう。”
+      meaning: “Thank you for coming, especially fat and young people.”
     tags: *a1
   - id: 1a8eff24-c828-404b-9eba-0d1f1ec676fc
     start: 03:10.464
-    end: 03:13.024
-    fields:
-      transcription: 二人はとても喜びました。
-    tags: *a1
-  - id: 50159f8a-1767-40df-a28f-9208f93f02d9
-    start: 03:14.304
     end: 03:18.912
     fields:
-      transcription: なぜなら二人とも若くて太っていたからです。
-    tags: *a1
+      transcription: |-
+        二人はとても喜びました。
+        なぜなら二人とも若くて太っていたからです。
+      meaning: "They were very glad because both of them were young and fat. "
+    tags:
+      - WGR_4_chuumon_no_ooi_ryouriten.mp3
   - id: c17afb20-d8af-4672-a267-e499acc11089
     start: 03:20.192
     end: 03:24.032
     fields:
       transcription: 「いいレストランに来ることができて幸せだ。」
+      meaning: "“We’re very happy to be able to come to this good restaurant.” "
     tags: *a1
   - id: 8e3ede71-ca54-4401-82f6-4ce13f2da6e0
     start: 03:25.312
     end: 03:30.688
     fields:
       transcription: 二人が廊下を歩いていくと、青いドアがありました。
+      meaning: "They walked the corridor and there was a blue door. "
     tags: *a1
   - id: 72b25601-386b-4625-95cc-266bea4d8b5b
     start: 03:31.968
     end: 03:38.112
     fields:
       transcription: 「変だね。どうしてこのレストランにはドアがたくさんあるんだ？」
+      meaning: "“It’s strange. Why are there many doors in this restaurant?”\ 
+
+        \ "
     tags: *a1
   - id: 288cc6f0-a4a9-44d1-85d8-e5dd16982f88
     start: 03:39.648
     end: 03:42.208
     fields:
       transcription: 「ここが山の中だからだよ。
+      meaning: "“Because here is in the mountain. "
     tags: *a1
   - id: 910aa7eb-51ec-4b20-8814-3e1ef7fa3139
     start: 03:43.488
     end: 03:49.632
     fields:
       transcription: 寒い場所や山の中は、建物にドアがたくさんあるんだ。」
+      meaning: "As for a cold place or a place in the mountain, there are many doors in a building.” "
     tags: *a1
   - id: c97c7a5f-c839-42ab-a8fe-1e7c65244ce3
     start: 03:50.912
     end: 03:58.475
     fields:
       transcription: 二人が青いドアを開けようとすると、今度はこう書いてあるのを見つけました。
+      meaning: "When they tried to open the blue door, this time they found that this was written; "
     tags:
       - WGR_4_chuumon_no_ooi_ryouriten.mp3
   - id: 4a709490-ad28-4da5-820d-aaed32d9a6d1
@@ -19789,58 +19901,56 @@ clips:
     end: 04:05.76
     fields:
       transcription: “ここは注文の多いレストランですが、よろしくお願いします。”
+      meaning: “Here is a restaurant which has many orders. Please understand.”
     tags: *a1
   - id: 92d74290-0764-43d9-b9db-3b0ab5bbdd45
     start: 04:07.808
     end: 04:12.928
     fields:
       transcription: 「山の中なのに、このレストランは人気があるみたいだ。」
-      meaning: |-
-        “Even though it’s in the mountain, it seems that this restaurant is popular.” “It seems so. I’m looking forward to eating a meal.” They said that and then opened the blue door. Then, this was written on the back of the blue door;
-
-        “Please be patient, as we have many orders.”
-
-        “What does this mean?” “It means that this restaurant has many orders, so it takes some time to make a meal.” “Maybe that’s true. I want to enter a warm room soon.” “Yeah, I want to sit down on a chair.” But, there was another door. The door had a mirror.
-
-        “Please clean your clothes and shoes.”
-
-        “Right, it’s important to clean clothes.” “That’s right. Let’s clean.”
+      meaning: "“Even though it’s in the mountain, it seems that this restaurant is popular.” "
     tags: *a1
   - id: 1043ed2e-ec08-4f30-b016-bb700f5a3c1c
     start: 04:14.208
     end: 04:18.815
     fields:
       transcription: 「そうみたいだ。ごはんを食べるのが楽しみだ。」
+      meaning: "“It seems so. I’m looking forward to eating a meal.” "
     tags: *a1
   - id: 8d505755-28d5-48b4-9808-5b938970258b
     start: 04:20.095
     end: 04:24.191
     fields:
       transcription: 二人はそう言って青いドアを開けました。
+      meaning: "They said that and then opened the blue door. "
     tags: *a1
   - id: 01becdc8-f0cb-45e5-a734-bc24f2a17006
     start: 04:25.471
     end: 04:30.335
     fields:
       transcription: すると、青いドアの裏にはこう書いてありました。
+      meaning: Then, this was written on the back of the blue door;
     tags: *a1
   - id: 67835396-0268-4396-814a-482f226fb4a2
     start: 04:31.615
     end: 04:35.711
     fields:
       transcription: “注文が多いですが、我慢してください。”
+      meaning: “Please be patient, as we have many orders.”
     tags: *a1
   - id: 842fd8c7-5b72-4614-abfb-498c288f0fb7
     start: 04:36.991
     end: 04:39.039
     fields:
       transcription: 「これはどういう意味だ？」
+      meaning: "“What does this mean?” "
     tags: *a1
   - id: 76399aa5-18b7-4de6-8192-f01fee22ccf2
     start: 04:40.319
     end: 04:48.246
     fields:
       transcription: 「このレストランは注文が多いから、ごはんを作るのに時間がかかるということだよ。」
+      meaning: "“It means that this restaurant has many orders, so it takes some time to make a meal.” "
     tags:
       - WGR_4_chuumon_no_ooi_ryouriten.mp3
   - id: e11270ff-e1ba-44ca-9c6f-0b374d527056
@@ -19848,6 +19958,7 @@ clips:
     end: 04:56.054
     fields:
       transcription: 「ああ、たぶんそうだ。早く暖かい部屋に入りたいね。」
+      meaning: "“Maybe that’s true. I want to enter a warm room soon.” "
     tags:
       - WGR_4_chuumon_no_ooi_ryouriten.mp3
   - id: 7533e91a-5022-47ed-8584-58cb4a7350b0
@@ -19855,377 +19966,396 @@ clips:
     end: 05:00.799
     fields:
       transcription: 「うん、僕はいすに座りたいよ。」
+      meaning: "“Yeah, I want to sit down on a chair.” "
     tags: *a1
   - id: 035ddbbb-3cd8-4175-bcac-ff71ec2daa39
     start: 05:02.079
     end: 05:05.919
     fields:
       transcription: しかし、また別のドアがありました。
+      meaning: "But, there was another door. "
     tags: *a1
   - id: 41626099-fa51-4325-9741-8da557f5e4d6
     start: 05:07.199
     end: 05:09.759
     fields:
       transcription: ドアに鏡がついています。
+      meaning: The door had a mirror.
     tags: *a1
   - id: 7b50dde2-df12-470c-a9eb-71b3cb4188fb
     start: 05:11.039
     end: 05:13.855
     fields:
       transcription: “服や靴をきれいにしてください。”
+      meaning: “Please clean your clothes and shoes.”
     tags: *a1
   - id: e4f44738-59df-44c1-a542-97215240209a
     start: 05:15.135
     end: 05:19.446
     fields:
       transcription: 「うん、服をきれいにするのは大切だよね。」
+      meaning: “Right, it’s important to clean clothes.”
     tags: *a1
   - id: e192ee77-2f69-47b4-a7de-8f973167fade
     start: 05:21.306
     end: 05:24.863
     fields:
       transcription: 「そうだね。さあ、きれいにしよう。」
+      meaning: " “That’s right. Let’s clean.”"
     tags: *a1
   - id: 145144b2-85b7-488d-8ae6-ff8fd0b6cc4f
     start: 05:27.167
     end: 05:33.311
     fields:
       transcription: 二人は服をきれいにした後、ドアを開けて中に入りました。
-      meaning: |-
-        After they cleaned their clothes, they opened the door and got inside. Again, something was written on the back of the door.
-
-        “Please put your gun here.”
-
-        There was a table at the side of the door. “Indeed, it’s certainly not good to eat a meal while having a gun.” “Well, other guests may be surprised.” Next, there was a black door.
-
-        “Please take off your hat and shoes.”
-
-        “Why do we have to take them off?” “I don’t know, but let’s take them off.” They took off their hat and shoes and entered the next room. This was written on the back of the black door;
-
-        “Please put your glasses and wallet in this box.”
-
-        A box with a key was placed at the side of the door. “These kind of items have nothing to do with a meal, but why?” “Because we will pay the money here when we return, I guess.” “I see.”
+      meaning: "After they cleaned their clothes, they opened the door and got inside. "
     tags: *a1
   - id: b482a184-9417-4fcd-938e-2d754ffd863e
     start: 05:34.591
     end: 05:38.175
     fields:
       transcription: またドアの裏に何か書いてありました。
+      meaning: |+
+        Again, something was written on the back of the door.
+
     tags: *a1
   - id: 234dc004-66ad-43e1-a958-659767693a58
     start: 05:39.455
     end: 05:42.015
     fields:
       transcription: “銃はここに置いてください。”
+      meaning: |+
+        “Please put your gun here.”
+
     tags: *a1
   - id: dc542e28-9bea-4b08-9c22-904b498d359f
     start: 05:43.295
     end: 05:46.111
     fields:
       transcription: ドアの横に机がありました。
+      meaning: "There was a table at the side of the door. "
     tags: *a1
   - id: 7a2967dd-a07e-48c1-b2fa-1b7418d46c7c
     start: 05:47.391
     end: 05:53.023
     fields:
       transcription: 「なるほど。銃を持ってごはんを食べるのは確かによくない。」
+      meaning: "“Indeed, it’s certainly not good to eat a meal while having a gun.” "
     tags: *a1
   - id: 062c8c45-55ed-468d-b752-55b9ef60c02e
     start: 05:54.559
     end: 05:59.423
     fields:
       transcription: 「そうだね。他のお客さんが驚くかもしれない。」
+      meaning: "“Well, other guests may be surprised.” "
     tags: *a1
   - id: 1818825e-1d3b-41cf-ba7e-4e227fb250c1
     start: 06:00.447
     end: 06:03.519
     fields:
       transcription: 今度は黒いドアがありました。
+      meaning: Next, there was a black door.
     tags: *a1
   - id: 55b667b2-40c4-4f10-8e53-b4ebdc26005f
     start: 06:04.799
     end: 06:07.359
     fields:
       transcription: “帽子と靴を脱いでください。“
+      meaning: “Please take off your hat and shoes.”
     tags: *a1
   - id: 8c0b1768-b331-448a-9bc4-674d1b7df3c7
     start: 06:08.895
     end: 06:11.711
     fields:
       transcription: 「どうして脱がないといけないんだ？」
+      meaning: "“Why do we have to take them off?” "
     tags: *a1
   - id: 501acbdf-c675-431c-851e-c6c7799122ce
     start: 06:12.991
     end: 06:15.807
     fields:
       transcription: 「わからないけど、脱ぎましょう。」
+      meaning: "“I don’t know, but let’s take them off.” "
     tags: *a1
   - id: 719b74ab-ee44-4d58-b12f-969db96af7fc
     start: 06:17.087
     end: 06:22.463
     fields:
       transcription: 二人は帽子と靴を脱いで、次の部屋に入りました。
+      meaning: "They took off their hat and shoes and entered the next room. "
     tags: *a1
   - id: 882785d1-df69-4235-b0ad-1efb83d8b20e
     start: 06:23.999
     end: 06:27.839
     fields:
       transcription: 黒いドアの裏にはこう書いてありました。
+      meaning: This was written on the back of the black door;
     tags: *a1
   - id: 1973cca2-b56d-426c-87a4-ae7e7bfc7fed
     start: 06:29.119
     end: 06:32.703
     fields:
       transcription: “メガネと財布はこの箱に入れてください。”
+      meaning: “Please put your glasses and wallet in this box.”
     tags: *a1
   - id: ab66a96c-58aa-4903-a3c5-c7edd4fdb52f
     start: 06:34.239
     end: 06:38.591
     fields:
       transcription: ドアの横に箱が鍵と一緒に置いてありました。
+      meaning: "A box with a key was placed at the side of the door. "
     tags: *a1
   - id: 13303c86-94c6-4f99-82de-7d2ceacbdc05
     start: 06:39.871
     end: 06:44.735
     fields:
       transcription: 「こういうものはごはんと関係ないけど、どうして？」
+      meaning: "“These kind of items have nothing to do with a meal, but why?” "
     tags: *a1
   - id: 59101e92-a0c7-427d-be41-703a50c2c834
     start: 06:46.015
     end: 06:50.623
     fields:
       transcription: 「帰る時に、ここでお金を払うからだと思うよ。」
+      meaning: "“Because we will pay the money here when we return, I guess.” "
     tags: *a1
   - id: fac28a4e-3106-46c3-a0e3-3131803bda11
     start: 06:51.903
     end: 06:52.671
     fields:
       transcription: 「なるほど。」
+      meaning: “I see.”
     tags: *a1
   - id: 2480c291-d89f-4a94-a575-c463894f64e0
     start: 06:54.975
     end: 06:59.327
     fields:
       transcription: 二人はメガネと財布を箱の中に入れました。
-      meaning: |+
-        They put their glasses and wallet into the box. Then, they walked a little and there was a red door.
-
-        “Please apply this medicine on your face and body.”
-
-        There was medicine placed in front of the door. “Why do we have to apply the medicine?” “Um, I have no idea. But, because of this, we can clean our body as well.” “You’re right. Let’s clean our body as well.” They applied the medicine on their body and opened the door. What was written on the back of the red door was this;
-
-        “Don’t forget to apply the medicine to your ears.”
-
-        “Oh, I forgot to apply the medicine to my ears. People in this restaurant are very sensitive, aren’t they?” “I also forgot to apply that to my ears. But, when can we eat a meal. I’m already hungry.”
-
+      meaning: "They put their glasses and wallet into the box. "
     tags: *a1
   - id: a809cd6f-e268-414f-8a9c-e339f2bfd551
     start: 07:00.607
     end: 07:05.215
     fields:
       transcription: それから少し歩くと、赤いドアがありました。
+      meaning: Then, they walked a little and there was a red door.
     tags: *a1
   - id: fc7f4c73-1cc8-4307-8a77-3fd3daf39242
     start: 07:06.495
     end: 07:10.079
     fields:
       transcription: “この薬を顔や体にぬってください。“
+      meaning: “Please apply this medicine on your face and body.”
     tags: *a1
   - id: eef2d249-836f-433a-bb47-d893d3518d06
     start: 07:11.359
     end: 07:14.687
     fields:
       transcription: 薬がドアの前に置いてありました。
+      meaning: There was medicine placed in front of the door.
     tags: *a1
   - id: 8747fdf0-8793-43e1-bd41-c1a67967a70b
     start: 07:16.223
     end: 07:19.551
     fields:
       transcription: 「どうして薬をぬらないといけないんだ？」
+      meaning: " “Why do we have to apply the medicine?” "
     tags: *a1
   - id: 6a6d22a1-5a10-42cc-a419-8feab99ef792
     start: 07:20.831
     end: 07:23.135
     fields:
       transcription: 「うーん、わからない。
+      meaning: "“Um, I have no idea. "
     tags: *a1
   - id: 1c3f05e4-2cf2-450c-8d7c-a499c96675aa
     start: 07:24.415
     end: 07:27.999
     fields:
       transcription: けど、これで体もきれいにできるよ。」
+      meaning: But, because of this, we can clean our body as well.”
     tags: *a1
   - id: 8294d852-995d-44f2-a42c-550614c42078
     start: 07:29.535
     end: 07:33.119
     fields:
       transcription: 「そうだね。体もきれいにしておこう。」
+      meaning: "“You’re right. Let’s clean our body as well.” "
     tags: *a1
   - id: 38799e11-a75b-4878-beaa-0f1dab8d0496
     start: 07:34.399
     end: 07:39.007
     fields:
       transcription: 二人は薬を体にぬってドアを開けました。
+      meaning: "They applied the medicine on their body and opened the door. "
     tags: *a1
   - id: 68cd90fa-48cf-4c89-a4f1-3a70082c41e5
     start: 07:40.287
     end: 07:44.127
     fields:
       transcription: 赤いドアの裏にはこう書いてありました。
+      meaning: What was written on the back of the red door was this;
     tags: *a1
   - id: f8807448-8810-4652-8cdc-896af9e9a2f5
     start: 07:45.407
     end: 07:49.247
     fields:
       transcription: “薬を耳にぬるのを忘れないでください。”
+      meaning: “Don’t forget to apply the medicine to your ears.”
     tags: *a1
   - id: 35d0cc11-10f6-41a7-913a-6dc2a08f5ace
     start: 07:50.527
     end: 07:54.623
     fields:
       transcription: 「おっと、薬を耳にぬるのを忘れていた。
+      meaning: "“Oh, I forgot to apply the medicine to my ears. "
     tags: *a1
   - id: 1ab6ad6b-8511-47db-92be-3d1b0f2d420d
     start: 07:56.159
     end: 07:59.487
     fields:
       transcription: このレストランの人はとても細かいね。」
+      meaning: "People in this restaurant are very sensitive, aren’t they?” "
     tags: *a1
   - id: 61053f6f-72b9-48f1-a96e-b337d8b8d42d
     start: 08:00.767
     end: 08:03.839
     fields:
       transcription: 「僕も耳にぬるのを忘れていた。
+      meaning: "“I also forgot to apply that to my ears. "
     tags: *a1
   - id: b1763671-24ea-4bf7-99cb-d96622da246f
     start: 08:05.119
     end: 08:08.959
     fields:
       transcription: しかし、ごはんはいつ食べられるんだ？
+      meaning: "But, when can we eat a meal. "
     tags: *a1
   - id: d4526485-3388-4658-affc-39e6bfdb7f13
     start: 08:10.495
     end: 08:12.799
     fields:
       transcription: もうお腹が空いているのに。」
+      meaning: I’m already hungry.”
     tags: *a1
   - id: 30575f6f-eb87-4d03-a021-5157bf759804
     start: 08:15.103
     end: 08:20.479
     fields:
       transcription: 二人は急いで耳に薬をぬって、廊下を進みました。
-      meaning: |-
-        They applied the medicine to their ears in a hurry and went on the corridor. Next, there was a yellow door. What was written on the yellow door was this;
-
-        “Meals will be ready in fifteen minutes. Please drink this water and enter the room.”
-
-        “We can eat a meal at last. Let’s drink the water.” “This water is strange. It tastes like vinegar.” “Maybe, people in the restaurant made a mistake.” They drank the water which tasted like vinegar and entered the room. This was written on the back of the yellow door;
-
-        “Sorry for so many orders. This is the last order. Please spread salt on your body.”
-
-        They found that there was salt at the side of the door. “This sounds strange after all.” “I think so, too.”
+      meaning: "They applied the medicine to their ears in a hurry and went on the corridor. "
     tags: *a1
   - id: b1c65e03-6b12-4cdc-91df-402d2b376440
     start: 08:22.015
     end: 08:24.831
     fields:
       transcription: 次は黄色のドアがありました。
+      meaning: "Next, there was a yellow door. "
     tags: *a1
   - id: 0f27d42f-16e1-4a05-822d-a499b888c0a4
     start: 08:26.111
     end: 08:28.671
     fields:
       transcription: ドアにはこう書いてあります。
+      meaning: What was written on the yellow door was this;
     tags: *a1
   - id: 66aca864-3fb5-4e56-968e-00bcdc6b50f4
     start: 08:29.951
     end: 08:32.255
     fields:
       transcription: “ごはんは１５分後です。
+      meaning: "“Meals will be ready in fifteen minutes. "
     tags: *a1
   - id: c48d7838-7b0b-43fe-857d-38ca30cd1484
     start: 08:33.535
     end: 08:37.375
     fields:
       transcription: この水を飲んで部屋に入ってください。”
+      meaning: Please drink this water and enter the room.”
     tags: *a1
   - id: 46ca0823-b819-4709-9162-d7071fee0d61
     start: 08:38.655
     end: 08:43.263
     fields:
       transcription: 「やっとごはんが食べられる。さあ水を飲もう。」
+      meaning: "“We can eat a meal at last. Let’s drink the water.” "
     tags: *a1
   - id: a3827a4f-dc54-4b13-a12c-eba8239f4f46
     start: 08:45.055
     end: 08:49.151
     fields:
       transcription: 「この水は変だ。お酢の味がするよ。」
+      meaning: "“This water is strange. It tastes like vinegar.” "
     tags: *a1
   - id: 96fce733-2eba-4fe0-ab2a-8a5b49744b1e
     start: 08:50.431
     end: 08:54.015
     fields:
       transcription: 「たぶんレストランの人が間違えたんだよ。」
+      meaning: "“Maybe, people in the restaurant made a mistake.” "
     tags: *a1
   - id: 1901d42c-d9cc-4932-b101-302e173380fe
     start: 08:55.551
     end: 08:59.903
     fields:
       transcription: 二人はお酢の味の水を飲んで部屋に入りました。
+      meaning: "They drank the water which tasted like vinegar and entered the room. "
     tags: *a1
   - id: 6ac1e6c4-ea18-49a2-82fd-d30d40df6af2
     start: 09:01.183
     end: 09:05.279
     fields:
       transcription: 黄色のドアの裏にはこう書いてありました。
+      meaning: This was written on the back of the yellow door;
     tags: *a1
   - id: 751e5988-0d8f-4eba-9d4a-a0770e9422e4
     start: 09:06.815
     end: 09:09.887
     fields:
       transcription: “注文が多くてすみませんでした。
+      meaning: "“Sorry for so many orders. "
     tags: *a1
   - id: 4a5c074a-a877-4db2-a5c4-c6f1bd4b34bb
     start: 09:11.167
     end: 09:13.727
     fields:
       transcription: これが最後の注文です。
+      meaning: "This is the last order. "
     tags: *a1
   - id: c9dd6005-69e6-413e-9f8d-cabae3e25dac
     start: 09:15.007
     end: 09:17.567
     fields:
       transcription: 塩を体につけてください。”
+      meaning: Please spread salt on your body.”
     tags: *a1
   - id: 8d59a7bf-7d2e-441a-a035-f424bdffcaad
     start: 09:18.847
     end: 09:23.455
     fields:
       transcription: 二人はドアの横に塩があるのを見つけました。
+      meaning: "They found that there was salt at the side of the door. "
     tags: *a1
   - id: a41abc74-e8d2-461f-9825-00b2373203e7
     start: 09:24.991
     end: 09:26.783
     fields:
       transcription: 「これはやはり変だ。」
+      meaning: “This sounds strange after all.”
     tags: *a1
   - id: 069a9deb-a618-47ea-a66a-8d3fe66b9f2e
     start: 09:28.063
     end: 09:29.599
     fields:
       transcription: 「僕もそう思う。」
+      meaning: “I think so, too.”
     tags: *a1
   - id: a5a63cb4-f978-4500-bf70-df96c019d198
     start: 09:31.647
     end: 09:38.781
     fields:
       transcription: 「注文が多いというのは、レストランが私たちに注文をしているんだ。
-      meaning: |
-        “Many orders means that the restaurant orders us. So, this restaurant won’t let people coming in eat a meal. This restaurant will make people coming in a meal and eat them. …So, we will be eaten.” They became very scared. “Let’s run away.” “Yes, let’s.” But, they could not open the yellow door. Instead, they found another door. This was written on the door;
-
-        “You did very well. Don’t hesitate to enter.”
-
-        A big monster was looking at them from behind the door. They started crying. Then, the monster said, “Darn it! They didn’t spread salt on their body. I might have failed with writing. Japanese is difficult.”
+      meaning: "“Many orders means that the restaurant orders us. "
     tags:
       - WGR_4_chuumon_no_ooi_ryouriten.mp3
   - id: e53f03b8-1a0f-4503-a05a-c7aa8482249d
@@ -20233,205 +20363,240 @@ clips:
     end: 09:45.471
     fields:
       transcription: だから、このレストランは来た人にごはんを食べさせないんだ。
+      meaning: "So, this restaurant won’t let people coming in eat a meal. "
     tags: *a1
   - id: 45540433-a0da-49e4-ae52-da4b5e75493a
     start: 09:46.751
     end: 09:49.823
     fields:
       transcription: 来た人をごはんにして食べるんだ。
+      meaning: "This restaurant will make people coming in a meal and eat them. "
     tags: *a1
   - id: e208fe63-97bc-4dfe-a986-bf5d823cc05f
     start: 09:51.103
     end: 09:55.711
     fields:
       transcription: …だから、私たちが食べられるということなんだ。」
+      meaning: "…So, we will be eaten.” "
     tags: *a1
   - id: 3055ee42-0880-4fa5-bd94-38e242300750
     start: 09:56.735
     end: 09:59.807
     fields:
       transcription: 二人はとても怖くなりました。
+      meaning: They became very scared.
     tags: *a1
   - id: c20cef1b-8b40-4c8a-8b76-f182b32184fd
     start: 10:01.087
     end: 10:04.927
     fields:
       transcription: 「逃げよう。」「うん、そうしよう。」
+      meaning: " “Let’s run away.” “Yes, let’s.” "
     tags: *a1
   - id: e68dc196-46de-45ac-8a45-c013da025ff7
     start: 10:06.207
     end: 10:10.815
     fields:
       transcription: しかし、黄色いドアを開けることができません。
+      meaning: But, they could not open the yellow door.
     tags: *a1
   - id: e8730761-5bdd-4b4a-8eec-e5ad3353ab5a
     start: 10:12.095
     end: 10:16.191
     fields:
       transcription: 代わりに、二人は別のドアを見つけました。
+      meaning: " Instead, they found another door. "
     tags: *a1
   - id: fe191631-b593-4ced-9f4a-0d6c9348bfbf
     start: 10:17.471
     end: 10:20.543
     fields:
       transcription: そのドアにはこう書いてあります。
+      meaning: This was written on the door;
     tags: *a1
   - id: d4eabab3-9dfb-4584-9559-4f87cef7f7b2
     start: 10:21.567
     end: 10:26.175
     fields:
       transcription: “よくできました。遠慮なく入ってください。”
+      meaning: “You did very well. Don’t hesitate to enter.”
     tags: *a1
   - id: e6a82f22-2d7b-4885-896f-80f78d8a9250
     start: 10:27.199
     end: 10:32.831
     fields:
       transcription: ドアの後ろから大きな化け物が二人を見ています。
+      meaning: "A big monster was looking at them from behind the door. "
     tags: *a1
   - id: cbf3ceaf-0236-4b28-ba24-5f6076a44596
     start: 10:34.111
     end: 10:37.183
     fields:
       transcription: 二人は泣き始めてしまいました。
+      meaning: |-
+        “Darn it! They didn’t spread salt on their body. I might have failed with writing. Japanese is difficult.”
+        They started crying. 
     tags: *a1
   - id: 1422368c-779d-49db-b778-8d04054b7c2e
     start: 10:38.207
     end: 10:41.791
     fields:
       transcription: すると、化け物がこう言いました。
+      meaning: "Then, the monster said, "
     tags: *a1
   - id: 7eb4ae96-7640-4d6a-8737-e9d25c6b3af7
     start: 10:43.071
     end: 10:47.679
     fields:
       transcription: 「だめだ。あの二人は体に塩をつけていない。
+      meaning: "“Darn it! They didn’t spread salt on their body. "
     tags: *a1
   - id: b0d244ee-1232-4f25-ae38-1ba4fa086a48
     start: 10:48.959
     end: 10:52.287
     fields:
       transcription: 書き方を失敗したのかもしれない。
+      meaning: "I might have failed with writing. "
     tags: *a1
   - id: 95d00619-14a1-4dc6-a8e1-43ee8a2d48a7
     start: 10:53.567
     end: 10:55.615
     fields:
       transcription: 日本語は難しい。」
+      meaning: Japanese is difficult.”
     tags: *a1
   - id: c50551e3-6f0d-42bb-abdf-600498c226a4
     start: 10:57.663
     end: 11:02.527
     fields:
       transcription: そして、化け物は二人に話し始めました。
-      meaning: Then, the monster started talking to them. “Hi guests, the preparation is already done. Come on here.” They were scared and couldn’t walk. They were crying with a loud voice. The monster said, “If you cry like that, you will start to taste bad. I already have a knife and a fork. I can eat you anytime.” They couldn’t move. At the time, a big sound suddenly was heard. Those dogs who had run away broke the wall and entered the room. The dogs took their hands and ran away. They followed the dogs while crying. Then, the dogs took them to a nearby town. They cried with happiness. “Thank you. Thank you.” They said to the dogs many times. They could finally go home. But, since then, their crying faces would never return to normal.
+      meaning: "Then, the monster started talking to them. "
     tags: *a1
   - id: 7632684b-3e10-490f-8cb7-536c1128b2a7
     start: 11:03.551
     end: 11:09.439
     fields:
       transcription: 「お客さん、用意はもう終わっているよ。こちらに来なさい。」
+      meaning: "“Hi guests, the preparation is already done. Come on here.” "
     tags: *a1
   - id: 876b6f33-e322-401c-a533-59489033407b
     start: 11:10.719
     end: 11:14.559
     fields:
       transcription: 二人は怖くて、歩くことができません。
+      meaning: "They were scared and couldn’t walk. "
     tags: *a1
   - id: a1403607-25fd-4220-91fe-f8040f1418c8
     start: 11:15.583
     end: 11:18.655
     fields:
       transcription: 大きな声で泣いていました。
+      meaning: "They were crying with a loud voice. "
     tags: *a1
   - id: 08e7e1bc-bd65-40b3-84fc-e18ff15c7e76
     start: 11:19.679
     end: 11:21.983
     fields:
       transcription: 化け物は言います。
+      meaning: "The monster said, "
     tags: *a1
   - id: 602f6fad-a1be-48ba-8a00-4a36f4c3043e
     start: 11:23.007
     end: 11:26.591
     fields:
       transcription: 「そんなに泣いたら不味くなってしまうよ。
+      meaning: "“If you cry like that, you will start to taste bad. "
     tags: *a1
   - id: 11b9d8f2-83cf-49ca-808b-4428e0710608
     start: 11:27.359
     end: 11:31.455
     fields:
       transcription: 俺はもうナイフとフォークを持っているんだ。
+      meaning: I already have a knife and a fork.
     tags: *a1
   - id: 1c43c174-a2d8-4163-aebe-85f385c39e4f
     start: 11:32.223
     end: 11:34.527
     fields:
       transcription: いつでも食べられるよ。」
+      meaning: "I can eat you anytime.” "
     tags: *a1
   - id: 37f665ae-f32e-4fa7-aa84-a9747fcb1cac
     start: 11:35.551
     end: 11:38.623
     fields:
       transcription: 二人は動くことができません。
+      meaning: "They couldn’t move. "
     tags: *a1
   - id: 9d680ad8-b884-475c-9e8d-129483ddcd4c
     start: 11:39.647
     end: 11:43.743
     fields:
       transcription: その時、急に大きな音がしました。
+      meaning: "At the time, a big sound suddenly was heard. "
     tags: *a1
   - id: 022754dc-4b38-4002-96fc-71713ec4d37b
     start: 11:44.767
     end: 11:49.887
     fields:
       transcription: あの逃げた犬が壁を壊して部屋に入ってきたのです。
+      meaning: "Those dogs who had run away broke the wall and entered the room. "
     tags: *a1
   - id: 76458f9d-0cfe-4b5a-bad3-83c50dee7796
     start: 11:51.167
     end: 11:54.751
     fields:
       transcription: 犬は二人の手を取って逃げました。
+      meaning: "The dogs took their hands and ran away. "
     tags: *a1
   - id: 4f29239b-084e-4a40-aaf7-2cb64e3c688f
     start: 11:55.775
     end: 11:59.871
     fields:
       transcription: 二人は泣きながら犬についていきました。
+      meaning: "They followed the dogs while crying. "
     tags: *a1
   - id: 3b6a5461-59f5-453f-8b7a-3ce4517cb2d3
     start: 12:00.895
     end: 12:06.783
     fields:
       transcription: そして、犬は二人を近くの街まで送っていきました。
+      meaning: "Then, the dogs took them to a nearby town. "
     tags: *a1
   - id: ca70f440-c035-4b42-9e54-632afa1589c6
     start: 12:07.807
     end: 12:10.623
     fields:
       transcription: 二人は泣いて喜びました。
+      meaning: "They cried with happiness. "
     tags: *a1
   - id: 380fe351-830b-41b5-835a-1f2202530b23
     start: 12:11.647
     end: 12:14.207
     fields:
       transcription: 「ありがとう、ありがとう。」
+      meaning: "“Thank you. Thank you.” "
     tags: *a1
   - id: 2d8884e7-c4b0-4dbb-a9aa-c87412b3d895
     start: 12:15.487
     end: 12:18.559
     fields:
       transcription: 二人は犬に何度も言いました。
+      meaning: "They said to the dogs many times. "
     tags: *a1
   - id: 70ae194b-c2b3-47cb-83a4-edf0f1853de7
     start: 12:19.839
     end: 12:24.703
     fields:
       transcription: 二人はやっと自分の家に帰ることができました。
+      meaning: "They could finally go home. "
     tags: *a1
   - id: 737df694-aa74-47e4-95a4-c568afb21c67
     start: 12:25.727
     end: 12:32.974
     fields:
       transcription: しかし、それから二人の泣き顔は二度と普通の顔には戻りませんでした。
+      meaning: But, since then, their crying faces would never return to normal.
     tags:
       - WGR_4_chuumon_no_ooi_ryouriten.mp3
 ---
@@ -20439,13 +20604,6 @@ name: WGR 5 hashire merosu.mp3
 format: mp3
 duration: 13:00.095
 id: e9ede702-ff80-4475-b717-1795adf82f73
-subtitles:
-  - id: ea8e7a3a-7731-41e0-8aa5-675ce0a0ca48
-    type: External
-    chunksMetadata:
-      count: 151
-      endCue: 38681.55
-    name: WGR 5 hashire merosu.srt
 clips:
   - id: f0986690-d3e5-4907-aa80-ccfcc871e5ea
     start: 00:00.768
@@ -20461,322 +20619,364 @@ clips:
     end: 00:05.888
     fields:
       transcription: メロスは怒った。
-      meaning: Melos was angry. He thought that he could not forgive the bad king. Melos didn’t understand difficult things. Melos was living a happy life in a village. However, Melos could not forgive bad things. Melos came to the town named Syracuse from the village. Melos had no father, mother nor wife. He was living with his sixteen-year-old younger sister. She would get married soon. Melos came to the town to go shopping to prepare for the wedding. While he was walking in the town, Melos thought that the town was strange. The town was much quieter than when he came before. So, Melos asked a person in the town, “Why is the town quiet?”
+      meaning: "Melos was angry. "
     tags: *a1
   - id: 0d083305-bcac-4ecf-bebb-94c1f26875f1
     start: 00:07.168
     end: 00:11.008
     fields:
       transcription: 悪い王様を許せないと思いました。
+      meaning: "He thought that he could not forgive the bad king. "
     tags: *a1
   - id: fb71a9af-1690-4497-bf9b-feb3871b202a
     start: 00:12.032
     end: 00:15.616
     fields:
       transcription: メロスは難しいことがわかりません。
+      meaning: "Melos didn’t understand difficult things. "
     tags: *a1
   - id: 4436a3b4-3f8f-40e3-b27b-94d2bf85c93c
     start: 00:16.64
     end: 00:20.736
     fields:
       transcription: メロスは村で楽しく生活をしていました。
+      meaning: "Melos was living a happy life in a village. "
     tags: *a1
   - id: d1d9ef75-2722-481c-b7cd-a64b69e96764
     start: 00:22.016
     end: 00:26.368
     fields:
       transcription: しかし、メロスは悪いことを許せません。
+      meaning: "However, Melos could not forgive bad things. "
     tags: *a1
   - id: 42720566-b8d0-485b-9182-91987d7ae82a
     start: 00:27.392
     end: 00:31.744
     fields:
       transcription: メロスは村からシクラスという街に来ました。
-    tags: *a1
-  - id: 0c9095c2-eee5-451c-a5d4-3ccc19f041ea
-    start: 00:33.024
-    end: 00:37.12
-    fields:
-      transcription: メロスにはお父さんもお母さんもいません。
+      meaning: Melos came to the town named Syracuse from the village.
     tags: *a1
   - id: 94012e86-ee13-4a74-9774-56e856e095c9
-    start: 00:38.4
+    start: 00:33.024
     end: 00:40.448
     fields:
-      transcription: 奥さんもいません。
-    tags: *a1
+      transcription: |-
+        メロスにはお父さんもお母さんもいません。
+        奥さんもいません。
+      meaning: "Melos had no father, mother nor wife. "
+    tags:
+      - WGR_5_hashire_merosu.mp3
   - id: 18732a12-13b8-4f0e-955f-4b9d24a0702d
     start: 00:41.472
     end: 00:46.592
     fields:
       transcription: １６歳の妹と二人で生活をしています。
+      meaning: "He was living with his sixteen-year-old younger sister. "
     tags: *a1
   - id: 603f9188-dfa1-45b9-b260-784f9f63dc92
     start: 00:47.616
     end: 00:50.688
     fields:
       transcription: 妹はもうすぐ結婚します。
+      meaning: She would get married soon.
     tags: *a1
   - id: 519ad834-2730-46b1-9d6a-cbfdc53ce6e0
     start: 00:51.968
     end: 00:58.76
     fields:
       transcription: メロスは結婚式の用意のために買い物をしに街に来たのです。
+      meaning: "Melos came to the town to go shopping to prepare for the wedding. "
     tags: *a1
   - id: 963e22d7-d493-4a65-a3df-80232909b18d
     start: 01:00.16
     end: 01:06.304
     fields:
       transcription: 街を歩いていると、メロスは街がおかしいと思いました。
+      meaning: "While he was walking in the town, Melos thought that the town was strange. "
     tags: *a1
   - id: 1c1fc52d-13e8-4b83-9c3e-9ce1b8f2408b
     start: 01:07.584
     end: 01:11.936
     fields:
       transcription: 前に来た時より、街がとても静かなのです。
+      meaning: "The town was much quieter than when he came before. "
     tags: *a1
   - id: 8bd40bda-489c-4ce1-a382-4c31c9eef86e
     start: 01:13.216
     end: 01:17.312
     fields:
       transcription: そこで、メロスは街の人に聞きました。
+      meaning: "So, Melos asked a person in the town, "
     tags: *a1
   - id: a01c81fa-0a53-4105-bd97-35ec8c78565e
     start: 01:18.336
     end: 01:21.152
     fields:
       transcription: 「なぜ街が静かなのですか？」
+      meaning: “Why is the town quiet?”
     tags: *a1
   - id: c43aa86a-7c65-498e-b0a8-68dd740a1dc1
     start: 01:22.944
     end: 01:27.552
     fields:
       transcription: 街の人は小さな声でメロスに答えました。
-      meaning: The person in the town replied to Melos with a small voice, “Because the king kills people. The children and younger sisters of the king were killed. The king cannot trust people. Six people have been killed today.” Melos got very angry. Melos angrily headed towards the castle where the king lived. When Melos entered the castle, he was caught soon because he had a small sword. The king sternly asked Melos, “Why did you come to the castle?” Melos replied, “I’m here to save the town from you.” The king laughed and said, “Can you save the town? You cannot understand my mind.”
+      meaning: "The person in the town replied to Melos with a small voice, "
     tags: *a1
   - id: 4d5624e5-84be-4d5b-bcc5-6f7500dc86a5
     start: 01:28.576
     end: 01:31.648
     fields:
       transcription: 「王様が人を殺すからです。
+      meaning: "“Because the king kills people. "
     tags: *a1
   - id: 883d899c-2e09-4bcb-a01f-62a59e1022ae
     start: 01:32.672
     end: 01:37.024
     fields:
       transcription: 王様の子供や妹も殺されました。
+      meaning: "The children and younger sisters of the king were killed. "
     tags: *a1
   - id: a1705b75-bd31-4a86-9e34-4ebe0b3a2dc4
     start: 01:38.048
     end: 01:41.888
     fields:
       transcription: 王様は人を信じることができません。
+      meaning: "The king cannot trust people. "
     tags: *a1
   - id: be1750b9-5a0c-48e8-bd34-e5501ffdd211
     start: 01:43.168
     end: 01:45.984
     fields:
       transcription: 今日は６人が殺されました。」
+      meaning: "Six people have been killed today.” "
     tags: *a1
   - id: bcbcb45a-61f5-4f04-b94a-97dea005579f
     start: 01:47.264
     end: 01:50.08
     fields:
       transcription: メロスはとても怒りました。
+      meaning: "Melos got very angry. "
     tags: *a1
   - id: 57f0f29f-36d6-491c-8e6a-2f15868b0043
     start: 01:51.36
     end: 01:56.736
     fields:
       transcription: メロスは怒って、王様の住むお城へ向かって行きました。
-    tags: *a1
-  - id: c910ddf7-2dde-47e4-bb49-3abdc6d8e252
-    start: 01:58.016
-    end: 02:03.136
-    fields:
-      transcription: お城に入るとメロスはすぐに捕まってしまいました。
+      meaning: Melos angrily headed towards the castle where the king lived.
     tags: *a1
   - id: 7e060224-b521-47eb-bd47-1fa9afb8abb2
-    start: 02:04.416
+    start: 01:58.016
     end: 02:08.256
     fields:
-      transcription: メロスが小さな刀を持っていたからです。
-    tags: *a1
+      transcription: |-
+        お城に入るとメロスはすぐに捕まってしまいました。
+        メロスが小さな刀を持っていたからです。
+      meaning: |
+        When Melos entered the castle, he was caught soon because he had a small sword. 
+    tags:
+      - WGR_5_hashire_merosu.mp3
   - id: 765478c4-4a6c-455c-88db-9e33838cb8ec
     start: 02:09.536
     end: 02:13.12
     fields:
       transcription: 王様はメロスに厳しく聞きました。
+      meaning: "The king sternly asked Melos, "
     tags: *a1
   - id: 7f899ecb-5c77-41dd-9fe2-24a091ec76a9
     start: 02:14.4
     end: 02:16.704
     fields:
       transcription: 「なぜお城に来たのだ？」
+      meaning: "“Why did you come to the castle?” "
     tags: *a1
   - id: fcb15d89-8e2b-47b5-842a-613478d04746
     start: 02:17.728
     end: 02:20.032
     fields:
       transcription: メロスは答えました。
+      meaning: "Melos replied, "
     tags: *a1
   - id: 477795e6-4ad2-4619-8f63-381713ba52da
     start: 02:21.312
     end: 02:25.152
     fields:
       transcription: 「悪い王様から街を助けるためです。」
+      meaning: "“I’m here to save the town from you.” "
     tags: *a1
   - id: ca6116e0-af5d-4042-9b3d-46cb49000c10
     start: 02:26.432
     end: 02:28.992
     fields:
       transcription: 王様は笑って言いました。
+      meaning: "The king laughed and said, "
     tags: *a1
   - id: 2cd27201-2704-4f6e-bd46-832f6e5ebca4
     start: 02:30.272
     end: 02:34.06
     fields:
       transcription: 「お前に街を助けることができるのか？
+      meaning: "“Can you save the town? "
     tags: *a1
   - id: 85e22a8f-4979-4301-b1d1-044cf069b317
     start: 02:35.136
     end: 02:38.464
     fields:
       transcription: お前は私の気持ちがわからない。」
+      meaning: You cannot understand my mind.”
     tags: *a1
   - id: a31ce54b-061a-4432-baed-98d0eda2dfc7
     start: 02:40.512
     end: 02:42.56
     fields:
       transcription: メロスは言いました。
-      meaning: Melos said, “You don’t trust people. Not to trust people is a very shameful thing.” The king said, “People can say beautiful things on the surface. I can understand people’s real minds. When you are killed by me, I will not forgive you even if you apologized with tears.” ”I’m not scared. I don’t expect you to forgive me. But, could you give me just three days’ time? I would like to hold my younger sister’s wedding. Within three days, I will hold the wedding and definitely come back.” ”Don’t lie to me!” The king sneered with a low voice. “Birds that fly away will never come back.” “I will be back.” Melos said very hard.
+      meaning: "Melos said, "
     tags: *a1
   - id: 419587b8-1771-4795-a2ff-28a00ebf3014
     start: 02:43.852
     end: 02:46.992
     fields:
       transcription: 「王様は人を信じていません。
+      meaning: "“You don’t trust people. "
     tags: *a1
   - id: bea5b0a0-93c6-4698-b3c2-ffe9ddaf7e55
     start: 02:48.192
     end: 02:52.88
     fields:
       transcription: 人を信じないことは、とても恥ずかしいことです。」
+      meaning: "Not to trust people is a very shameful thing.” "
     tags: *a1
   - id: 52267352-8a6f-4ebf-a5ab-a9a39b75032b
     start: 02:54.34
     end: 02:56.58
     fields:
       transcription: 王様は言いました。
+      meaning: "The king said, "
     tags: *a1
   - id: 10eeb210-bee0-4d11-abbc-691dc19c2ed4
     start: 02:57.78
     end: 03:01.76
     fields:
       transcription: 「人は口ではきれいなことを言うことができる。
+      meaning: "“People can say beautiful things on the surface. "
     tags: *a1
   - id: 570ea278-782a-464f-8faf-8f6593a74b5e
     start: 03:03.36
     end: 03:07.02
     fields:
       transcription: 私は人の本当の気持ちがわかる。
+      meaning: "I can understand people’s real minds. "
     tags: *a1
   - id: 24856d38-9e42-4a51-9edf-d161bbe2ff88
     start: 03:08.52
     end: 03:14.82
     fields:
       transcription: お前が私に殺されるとき、泣いて謝っても許さないぞ。」
+      meaning: "When you are killed by me, I will not forgive you even if you apologized with tears.” "
     tags: *a1
   - id: 5830f417-1571-49cc-8549-960103027d12
     start: 03:16.16
     end: 03:18.4
     fields:
       transcription: 「私は怖くありません。
+      meaning: "”I’m not scared. "
     tags: *a1
   - id: 73ae1e9d-2326-4ba4-bfa9-ae8a57ba99d4
     start: 03:19.9
     end: 03:23.68
     fields:
       transcription: 王様が許してくれると思っていません。
+      meaning: "I don’t expect you to forgive me. "
     tags: *a1
   - id: 572e3e8c-2f51-4539-8003-9b73c2f529f1
     start: 03:25.06
     end: 03:30.3
     fields:
       transcription: しかし、私に３日間だけ時間をもらえませんか？
+      meaning: "But, could you give me just three days’ time? "
     tags: *a1
   - id: 358384b6-abe6-4b6b-b323-fd183a2ebee3
     start: 03:31.456
     end: 03:34.528
     fields:
       transcription: 妹の結婚式をしたいのです。
+      meaning: "I would like to hold my younger sister’s wedding. "
     tags: *a1
   - id: feb61020-2e65-4887-930b-c1d843cb7e58
     start: 03:35.808
     end: 03:42.56
     fields:
       transcription: ３日間のうちに、妹の結婚式をして、必ず帰って来ます。」
+      meaning: "Within three days, I will hold the wedding and definitely come back.” "
     tags: *a1
   - id: bfcd97b3-e7ff-460c-be15-d68758a2716f
     start: 03:44.12
     end: 03:45.104
     fields:
       transcription: 「嘘をつくな！」
+      meaning: "”Don’t lie to me!” "
     tags: *a1
   - id: 590a5ee0-98c5-48ca-936c-8aa979e00b9b
     start: 03:46.304
     end: 03:49.376
     fields:
       transcription: 王様は低い声で笑いました。
+      meaning: "The king sneered with a low voice. "
     tags: *a1
   - id: 8672ebf6-25b3-49f3-aee8-b137a452694a
     start: 03:50.4
     end: 03:53.984
     fields:
       transcription: 「逃げた鳥が帰って来ることはない。」
+      meaning: “Birds that fly away will never come back.”
     tags: *a1
   - id: 50290c69-cacd-4b19-9a60-602ed9eaec2b
     start: 03:55.48
     end: 03:56.74
     fields:
       transcription: 「帰って来ます。」
+      meaning: "“I will be back.” "
     tags: *a1
   - id: b2c9eb7d-da01-4c80-81d6-a1302913b816
     start: 03:57.824
     end: 04:00.96
     fields:
       transcription: メロスは一生懸命言いました。
+      meaning: Melos said very hard.
     tags: *a1
   - id: 1f5f65e3-8eaf-4724-9dfd-88d3a8893bfe
     start: 04:03.2
     end: 04:05.76
     fields:
       transcription: 「私は約束を守ります。
-      meaning: “I will keep my promise. Please let me free for just three days. My younger sister is waiting for me. Instead, I will leave my dear friend Selinuntius in the castle. If I don’t come back, please kill Selinuntius instead of me.” The king laughed. [The king thought] “That’s a lie. Melos won’t come back. In that case, I will kill Selinuntius three days later.” The king said, “All right. Call Selinuntius. Melos, come back by evening on the third day. If you are late, I will kill Selinuntius.” The friend, Selinuntius, was called into the castle late at night. Melos explained his promise to the king. Selinuntius didn’t say anything. Melos left the castle. In the summer night sky, a lot of stars shined.
+      meaning: "“I will keep my promise. "
     tags: *a1
   - id: 0d304a6d-f904-41a1-98f3-973afcc4dcb0
     start: 04:07.04
     end: 04:10.88
     fields:
       transcription: 私を３日間だけ自由にしてください。
+      meaning: "Please let me free for just three days. "
     tags: *a1
   - id: 8b3e2970-4251-4bdc-bfb3-5161bbefd61f
     start: 04:11.904
     end: 04:14.976
     fields:
       transcription: 妹が私を待っています。
+      meaning: My younger sister is waiting for me.
     tags: *a1
   - id: 881570ae-52c0-46b4-bf84-863c53ccf8f7
     start: 04:16.0
     end: 04:22.143
     fields:
       transcription: 代わりに、セリヌンティウスという大切な友達をお城に置いていきます。
+      meaning: "Instead, I will leave my dear friend Selinuntius in the castle. "
     tags: *a1
   - id: a2f4fe5c-b35b-4786-a95a-ccf09436b232
     start: 04:23.679
     end: 04:31.76
     fields:
       transcription: もし私が帰って来なかったら、私の代わりにセリヌンティウスを殺してください。」
+      meaning: "If I don’t come back, please kill Selinuntius instead of me.” "
     tags:
       - WGR_5_hashire_merosu.mp3
   - id: eafd7a6a-858f-4f75-9d19-ca9ebc21316b
@@ -20784,534 +20984,616 @@ clips:
     end: 04:35.186
     fields:
       transcription: 王様は笑いました。
+      meaning: "The king laughed. "
     tags: *a1
   - id: 10a6e2fa-b441-4ec0-9a41-fb30ea592e41
     start: 04:36.223
     end: 04:39.551
     fields:
       transcription: 嘘だ。メロスは帰って来ない。
+      meaning: "[The king thought] “That’s a lie. Melos won’t come back. "
     tags: *a1
   - id: 73cb01ce-175a-4674-95ae-33bb4800c989
     start: 04:40.831
     end: 04:45.695
     fields:
       transcription: それなら、３日後にセリヌンティウスを殺してしまおう。
+      meaning: "In that case, I will kill Selinuntius three days later.” "
     tags: *a1
   - id: bacd370b-d4b7-450c-8a5c-90d6eebe3386
     start: 04:46.975
     end: 04:49.023
     fields:
       transcription: 王様は言いました。
+      meaning: "The king said, "
     tags: *a1
   - id: c9c578ae-288a-4b15-aecf-56f5aa149326
     start: 04:50.303
     end: 04:54.399
     fields:
       transcription: 「わかった。セリヌンティウスを呼びなさい。
+      meaning: "“All right. Call Selinuntius. "
     tags: *a1
   - id: 67923469-6bcf-4039-8f32-c5ff1eed1594
     start: 04:55.423
     end: 05:00.287
     fields:
       transcription: メロス、３日目の夕方までに帰って来なさい。
+      meaning: "Melos, come back by evening on the third day. "
     tags: *a1
   - id: 5bf48a48-43e8-4f78-9199-15a0938a6ce8
     start: 05:01.311
     end: 05:05.151
     fields:
       transcription: もし遅れたらセリヌンティウスを殺す。」
+      meaning: "If you are late, I will kill Selinuntius.” "
     tags: *a1
   - id: 3f29c71c-4955-408a-9123-dcebce6071ab
     start: 05:06.431
     end: 05:12.319
     fields:
       transcription: 友達のセリヌンティウスは、夜遅くにお城に呼ばれました。
+      meaning: "The friend, Selinuntius, was called into the castle late at night. "
     tags: *a1
   - id: 71dc0fe0-5d89-4fd2-ad39-84ad23b7b863
     start: 05:13.343
     end: 05:17.695
     fields:
       transcription: メロスは王様との約束を説明しました。
+      meaning: "Melos explained his promise to the king. "
     tags: *a1
   - id: 3d99b4b6-9b84-4d88-ac13-2827c5040547
     start: 05:18.975
     end: 05:22.303
     fields:
       transcription: セリヌンティウスは何も言いませんでした。
+      meaning: "Selinuntius didn’t say anything. "
     tags: *a1
   - id: 0b4e9d13-86b0-4f1c-9e2c-711098a26d4f
     start: 05:23.583
     end: 05:26.143
     fields:
       transcription: メロスはお城を出ました。
+      meaning: "Melos left the castle. "
     tags: *a1
   - id: 91fa3470-5334-4fdd-a5d9-c6f4a21bf50d
     start: 05:27.423
     end: 05:32.543
     fields:
       transcription: 夏の夜の空には、たくさんの星が光っていました。
+      meaning: In the summer night sky, a lot of stars shined.
     tags: *a1
   - id: acec773f-c5e9-46a3-8908-0458cacaa09e
     start: 05:34.335
     end: 05:38.687
     fields:
       transcription: その日、メロスは眠らずに村へ帰りました。
-      meaning: On that day, Melos went back to the village without sleeping. When he arrived at the village it was the next morning. People in the village had already started working outside. Melos’ younger sister was also working. She was surprised by seeing the tired Melos. Melos said, “All right. By the way, I still have things to do in town. I have to be back in town soon. Tomorrow, let’s hold your wedding. I bought beautiful clothes. Now, go let people in the village know that we’re going to hold your wedding tomorrow. ” She was very glad. Melos went home and prepare the wedding. Melos fell down on the bed and went to sleep.
+      meaning: "On that day, Melos went back to the village without sleeping. "
     tags: *a1
   - id: 361b518b-3bfb-4eaa-9374-38af995d0767
     start: 05:39.967
     end: 05:44.063
     fields:
       transcription: 村に着いたのは、次の日の午前でした。
+      meaning: "When he arrived at the village it was the next morning. "
     tags: *a1
   - id: b066d592-8018-4f06-a520-b2c3047ddc6c
     start: 05:45.343
     end: 05:49.951
     fields:
       transcription: もう村の人は外で仕事を始めていました。
+      meaning: "People in the village had already started working outside. "
     tags: *a1
   - id: bcd587b3-1296-4536-a9e3-7f86e0a26b6c
     start: 05:50.975
     end: 05:54.559
     fields:
       transcription: メロスの妹も仕事をしていました。
+      meaning: "Melos’ younger sister was also working. "
     tags: *a1
   - id: ecfc17ca-5c74-4267-9579-9c96eb4a9249
     start: 05:55.839
     end: 06:00.191
     fields:
       transcription: 妹は疲れているメロスを見て驚きました。
+      meaning: "She was surprised by seeing the tired Melos. "
     tags: *a1
   - id: 9129e0b7-741f-44f1-bfb4-092a8eaafb8b
     start: 06:01.471
     end: 06:03.263
     fields:
       transcription: メロスは言いました。
+      meaning: "Melos said, "
     tags: *a1
   - id: 622d3ebc-5951-4692-896a-ce193746f09f
     start: 06:04.543
     end: 06:09.663
     fields:
       transcription: 「大丈夫だ。ところで、街にまだ用事がある。
+      meaning: "“All right. By the way, I still have things to do in town. "
     tags: *a1
   - id: 4b392c61-5ef7-452a-8229-271ea5e61efb
     start: 06:10.687
     end: 06:14.271
     fields:
       transcription: またすぐに街へ戻らなければならない。
+      meaning: "I have to be back in town soon. "
     tags: *a1
   - id: 9637452d-8e65-4671-820b-7436ad242e06
     start: 06:15.551
     end: 06:19.135
     fields:
       transcription: 明日、お前の結婚式をしよう。
+      meaning: "Tomorrow, let’s hold your wedding. "
     tags: *a1
   - id: 0c32c1b9-e15a-4ef7-a133-1f7ee78c3270
     start: 06:20.415
     end: 06:22.719
     fields:
       transcription: きれいな服も買ってきた。
+      meaning: "I bought beautiful clothes. "
     tags: *a1
   - id: 420fcc37-bde9-4c0f-8006-f5cc58b45478
     start: 06:23.743
     end: 06:29.887
     fields:
       transcription: さあ、村の人に明日結婚式をすると知らせに行きなさい。」
+      meaning: "Now, go let people in the village know that we’re going to hold your wedding tomorrow. ” "
     tags: *a1
   - id: 283efe41-4e8c-4f0a-8ae6-1dfd9fa8e790
     start: 06:31.167
     end: 06:33.983
     fields:
       transcription: 妹はとても喜びました。
+      meaning: "She was very glad. "
     tags: *a1
   - id: c6bba446-c46d-4829-8060-cbbef6baa3a9
     start: 06:35.007
     end: 06:40.127
     fields:
       transcription: メロスは家に帰り、結婚式の用意をしました。
+      meaning: "Melos went home and prepare the wedding. "
     tags: *a1
   - id: 0eb7412a-80b3-4878-af3a-ca84e8dc3a49
     start: 06:41.407
     end: 06:45.759
     fields:
       transcription: メロスはベッドに倒れて眠ってしまいました。
+      meaning: Melos fell down on the bed and went to sleep.
     tags: *a1
   - id: e8b8939a-4a05-48be-96ff-926402c5a5cd
     start: 06:47.807
     end: 06:51.903
     fields:
       transcription: 次の日、結婚式が行われました。
-      meaning: The next day, the wedding was held. That day, it rained hard. Melos and the people of the village said together, “Congratulations.” In the morning on the day after the wedding, Melos started running toward the town. [Melos thought] “I will be killed this night. I will run to be killed. I will run for my friend.” Melos ran very hard. This time, Melos found a big river. Due to the hard rain the day before, the water in the river increased and the bridge was broken. Melos cried with a loud voice, “Without crossing this river, I cannot save my friend. Please God, stop the water in the river. But, Melos’ voice didn’t reach God.
+      meaning: "The next day, the wedding was held. "
     tags: *a1
   - id: bcff2949-e22d-4110-8a78-475ee3362d74
     start: 06:53.183
     end: 06:56.255
     fields:
       transcription: その日は強い雨が降りました。
+      meaning: "That day, it rained hard. "
     tags: *a1
   - id: cdff6bff-ff53-44d6-baae-600c42c4d1d4
     start: 06:57.279
     end: 07:01.887
     fields:
       transcription: メロスは村の人と一緒におめでとうと言いました。
+      meaning: Melos and the people of the village said together, “Congratulations.”
     tags: *a1
   - id: ab6e0751-84b7-48d9-ad84-edd6125c88f2
     start: 07:03.167
-    end: 07:09.311
+    end: 07:09.77
     fields:
       transcription: 結婚式の次の日の朝、メロスは街に向けて走り始めました。
+      meaning: " In the morning on the day after the wedding, Melos started running toward the town. "
     tags: *a1
   - id: 77e3fc12-9713-4cde-95ad-b4a6ae3d0af7
     start: 07:11.103
     end: 07:13.919
     fields:
       transcription: 私は今日の夜に殺される。
+      meaning: "[Melos thought] “I will be killed this night. "
     tags: *a1
   - id: 734ce265-6cc0-413e-99b2-21c0e0e33dbc
     start: 07:15.199
     end: 07:18.527
     fields:
       transcription: 私は殺されるために走るのだ。
+      meaning: "I will run to be killed. "
     tags: *a1
   - id: cb6b5959-adce-4eb2-baff-ae82c46ba8dd
     start: 07:19.807
     end: 07:22.367
     fields:
       transcription: 友達のために走るのだ。
+      meaning: "I will run for my friend.” "
     tags: *a1
   - id: 2ed911e6-c325-4aea-8d5b-e120e8255449
     start: 07:23.854
     end: 07:26.914
     fields:
       transcription: メロスは一生懸命走りました。
+      meaning: "Melos ran very hard. "
     tags: *a1
   - id: 7092f417-abf3-4df8-aa34-2b997cbab70c
     start: 07:28.394
     end: 07:33.119
     fields:
       transcription: その時、メロスは、大きな川を見つけました。
+      meaning: "This time, Melos found a big river. "
     tags: *a1
   - id: 26303969-2f70-4c86-8d59-46ef7eb99e77
     start: 07:34.654
     end: 07:40.954
     fields:
       transcription: 昨日の強い雨で、川の水が増えて、橋が壊れてしまったのです。
+      meaning: "Due to the hard rain the day before, the water in the river increased and the bridge was broken. "
     tags: *a1
   - id: c429c449-c49b-464c-a533-044ea9c57a62
     start: 07:42.079
     end: 07:45.407
     fields:
       transcription: メロスは大きな声で泣きました。
+      meaning: "Melos cried with a loud voice, "
     tags: *a1
   - id: 32bd3007-7db9-4be0-bdec-9f6e154b1cb0
     start: 07:46.687
     end: 07:51.654
     fields:
       transcription: 「この川を渡らないと友達を助けることができない。
+      meaning: "“Without crossing this river, I cannot save my friend. "
     tags: *a1
   - id: ed3645c9-54bd-4261-8428-08385ff4b223
     start: 07:53.206
     end: 07:58.766
     fields:
       transcription: 神様、お願いです。川の水を止めてください。」
+      meaning: "Please God, stop the water in the river. "
     tags: *a1
   - id: 2d03cfc5-4011-4ef3-8146-a3c5a95449e0
     start: 08:00.17
     end: 08:04.91
     fields:
       transcription: しかし、メロスの声は、神様に届きません。
+      meaning: But, Melos’ voice didn’t reach God.
     tags: *a1
   - id: 0910d838-265f-4e58-b129-d68eddfdfffa
     start: 08:06.655
     end: 08:11.519
     fields:
       transcription: メロスはこの大きい川に入ることを決めました。
-      meaning: Melos decided that he would enter this big river. He swam very hard and could cross the river. Then, Melos went up and down the mountain and continued running. Since he was running for a long time, Melos got tired. He couldn’t run any longer. Melos fell down on the road at last. [Melos thought] “I will not make it in time. I cannot save Selinuntius. I have run very hard, but have not made it in time. Selinuntius, please forgive me.” Melos fell asleep. When he got up, he felt a little better. Melos started running again. It would turn to evening soon. Melos ran very hard.
+      meaning: "Melos decided that he would enter this big river. "
     tags: *a1
   - id: c372f073-4f59-4141-8c6e-cb1683921666
     start: 08:13.086
     end: 08:17.746
     fields:
       transcription: 一生懸命泳いで、川を渡ることができました。
+      meaning: "He swam very hard and could cross the river. "
     tags: *a1
   - id: 99393612-6402-49b9-80c6-a480277db89b
     start: 08:19.274
     end: 08:25.054
     fields:
       transcription: それからメロスは、山をのぼり、山をくだり、走り続けました。
+      meaning: "Then, Melos went up and down the mountain and continued running. "
     tags: *a1
   - id: 511ddde6-f3ab-42c2-808c-52bcc55aa737
     start: 08:26.534
     end: 08:31.314
     fields:
       transcription: ずっと走っていたので、メロスは疲れてしまいました。
+      meaning: "Since he was running for a long time, Melos got tired. "
     tags: *a1
   - id: fdb4ef28-1c67-4f85-a789-fe03051cd7d0
     start: 08:32.734
     end: 08:35.254
     fields:
       transcription: もう走ることができません。
+      meaning: "He couldn’t run any longer. "
     tags: *a1
   - id: 09942d11-7c4e-469a-9c76-c142a51c2a82
     start: 08:36.6
     end: 08:40.34
     fields:
       transcription: メロスはとうとう道に倒れてしまいました。
+      meaning: "Melos fell down on the road at last. "
     tags: *a1
   - id: c1be185a-83f2-4c08-b2b1-937caaba1c0b
     start: 08:41.78
     end: 08:43.02
     fields:
       transcription: 間に合わない。
+      meaning: "[Melos thought] “I will not make it in time. "
     tags: *a1
   - id: fe66ac85-0ae9-4789-a07c-3e52b98ab2d5
     start: 08:44.38
     end: 08:48.38
     fields:
       transcription: 私はセリヌンティウスを助けることができない。
+      meaning: I cannot save Selinuntius.
     tags: *a1
   - id: 02f5dcf4-baa4-4a24-a6d8-77cc8232b0c7
     start: 08:49.74
     end: 08:53.54
     fields:
       transcription: 一生懸命走ったが間に合わなかった。
+      meaning: "I have run very hard, but have not made it in time. "
     tags: *a1
   - id: 77c65afb-7981-4c69-9de3-d3998607cb8e
     start: 08:55.04
     end: 08:57.9
     fields:
       transcription: 許してくれ、セリヌンティウス。
+      meaning: Selinuntius, please forgive me.”
     tags: *a1
   - id: 81fe777f-aa0e-49f1-9b50-c6cbdce5792a
     start: 08:59.32
     end: 09:02.12
     fields:
       transcription: メロスは眠ってしまいました。
+      meaning: "Melos fell asleep. "
     tags: *a1
   - id: 107af909-ae1e-416e-8c0d-9ed20983a377
     start: 09:03.55
     end: 09:07.57
     fields:
       transcription: メロスは起きると少し元気になりました。
+      meaning: "When he got up, he felt a little better. "
     tags: *a1
   - id: f356797d-17a5-40d2-ae71-d515a3313203
     start: 09:09.06
     end: 09:11.8
     fields:
       transcription: メロスはまた走り始めました。
+      meaning: Melos started running again.
     tags: *a1
   - id: 8dcca567-eff1-4bd5-9bc7-4387be65c170
     start: 09:13.26
     end: 09:16.32
     fields:
       transcription: もうすぐ夕方になってしまいます。
+      meaning: It would turn to evening soon.
     tags: *a1
   - id: 4d94144b-41f7-41d0-807f-29c049e4eafc
     start: 09:17.86
     end: 09:21.36
     fields:
       transcription: メロスは一生懸命走りました。
+      meaning: Melos ran very hard.
     tags: *a1
   - id: 39a2c96f-f6ae-487e-aa8c-0699642d4c56
     start: 09:23.24
     end: 09:28.36
     fields:
       transcription: 「メロスさん。」誰かがメロスに話しかけました。
-      meaning: “Melos,” someone spoke to Melos. “Who’s there?” Melos asked while running. “My name is Philostratus. I’m Selinuntius’s friend. Please stop running. You will already not be in time. You cannot save Selinuntius.” “I will still be in time,” Melos replied while looking at the sun. “Please stop. Please stop running. Now, your life is important. Selinuntius trusted you. He was responding to the king[‘s question], telling him that you would come.” “That’s why I will run. I will run because I’m trusted.” Melos ran. Melos continued running without thinking anything.
+      meaning: "“Melos,” someone spoke to Melos. "
     tags: *a1
   - id: 295c2f05-7053-40e7-8f39-753573c2f30b
     start: 09:29.9
     end: 09:34.2
     fields:
       transcription: 「誰だ？」メロスは走りながら聞きました。
+      meaning: "“Who’s there?” Melos asked while running. "
     tags: *a1
   - id: 28ac1362-a249-4bc0-8c7f-9939c1caf22a
     start: 09:35.46
     end: 09:40.32
     fields:
       transcription: 「フィロストラトスです。セリヌンティウスの友達です。
+      meaning: "“My name is Philostratus. I’m Selinuntius’s friend. "
     tags: *a1
   - id: 66da4b6c-d8d6-4d29-a681-baa41dd21403
     start: 09:41.8
     end: 09:46.22
     fields:
       transcription: 走るのをやめて下さい。もう間に合いません。
+      meaning: "Please stop running. You will already not be in time. "
     tags: *a1
   - id: 8b042ea1-ebac-4567-b068-8f18c966e5f9
     start: 09:47.68
     end: 09:51.34
     fields:
       transcription: セリヌンティウスを助けることはできません。」
+      meaning: "You cannot save Selinuntius.” "
     tags: *a1
   - id: 8a8632c0-f7dc-4148-8c55-13b755abe307
     start: 09:53.57
     end: 09:59.58
     fields:
       transcription: 「まだ間に合う。」メロスは太陽を見ながら答えました。
+      meaning: "“I will still be in time,” Melos replied while looking at the sun. "
     tags: *a1
   - id: 4f97d296-f734-4b9e-bb72-04980f908c79
     start: 10:00.7
     end: 10:04.94
     fields:
       transcription: 「やめて下さい。走るのをやめて下さい。
+      meaning: "“Please stop. Please stop running. "
     tags: *a1
   - id: 37487860-ae52-44e0-bf9e-9a46f8720ec2
     start: 10:06.3
     end: 10:09.5
     fields:
       transcription: 今はあなたの命が大事です。
+      meaning: "Now, your life is important. "
     tags: *a1
   - id: 2ed13ce4-d893-44d6-9c20-fc355e66a1ff
     start: 10:10.94
     end: 10:14.86
     fields:
       transcription: セリヌンティウスはメロスさんを信じていました。
+      meaning: "Selinuntius trusted you. "
     tags: *a1
   - id: 720a027e-000f-4adb-a64b-57d57c0babc3
     start: 10:16.36
     end: 10:20.18
     fields:
       transcription: 王様にメロスは来ますと答えていました。」
+      meaning: "He was responding to the king[‘s question], telling him that you would come.” "
     tags: *a1
   - id: cc05bad6-c97d-4368-b740-cee350ecdd34
     start: 10:21.62
     end: 10:26.62
     fields:
       transcription: " 「だから、走るのだ。信じられているから走るのだ。」"
+      meaning: "“That’s why I will run. I will run because I’m trusted.” "
     tags: *a1
   - id: 8710ee3c-a17e-42a8-8f7e-bd42c44424cd
     start: 10:28.08
     end: 10:30.06
     fields:
       transcription: メロスは走りました。
+      meaning: "Melos ran. "
     tags: *a1
   - id: 316f8e78-8080-4492-b4db-86721db22239
     start: 10:31.334
     end: 10:35.674
     fields:
       transcription: メロスは何も考えずに走り続けました。
+      meaning: Melos continued running without thinking anything.
     tags: *a1
   - id: 88429490-7525-4407-be87-312be9f93cef
     start: 10:37.439
     end: 10:42.303
     fields:
       transcription: 太陽が消える前に、メロスはお城に着きました。
-      meaning: Before the sun disappeared, Melos arrived at the castle. Melos was in time. “Wait. You must not kill him. I’m back. I’m back now,” Melos tried to say, but he was very tired and couldn’t speak. Melos said once again, “Wait. I am the one who will be killed. It’s Melos.” Melos ran toward Selinuntius. Melos could finally save Selinuntius. Melos said while crying, “Slap me. I had a bad dream on the way. I gave up saving you for a while.”
+      meaning: "Before the sun disappeared, Melos arrived at the castle. "
     tags: *a1
   - id: 552988ce-7928-4566-9257-fb9debbea2c2
     start: 10:43.78
     end: 10:45.96
     fields:
       transcription: メロスは間に合ったのです。
+      meaning: "Melos was in time. "
     tags: *a1
   - id: e7026fcc-359a-4689-9945-37c0f4c0c3e3
     start: 10:47.42
     end: 10:51.26
     fields:
       transcription: 「待て。その人を殺してはいけない。
+      meaning: "“Wait. You must not kill him. "
     tags: *a1
   - id: 8c9102b2-6440-4eb7-bacf-5631b20e1046
     start: 10:52.5
     end: 10:57.38
     fields:
       transcription: メロスが帰って来た。いま帰って来た。」
+      meaning: "I’m back. I’m back now,” "
     tags: *a1
   - id: 30e7e3fa-8d6c-4adc-a1e6-d7fd9ad17301
     start: 10:58.42
     end: 11:05.52
     fields:
       transcription: メロスはそう言おうとしましたが、とても疲れていて、話すことができません。
+      meaning: "Melos tried to say, but he was very tired and couldn’t speak. "
     tags: *a1
   - id: b013352f-8c0d-41b7-a8bf-eae76aaecf1a
     start: 11:06.842
     end: 11:09.542
     fields:
       transcription: メロスはもう一度言いました。
+      meaning: "Melos said once again, "
     tags: *a1
   - id: 864dba43-6dd7-4271-8f11-b606ae453867
     start: 11:10.719
     end: 11:16.095
     fields:
       transcription: 「待て。殺されるのは私だ。メロスだ。」
+      meaning: “Wait. I am the one who will be killed. It’s Melos.”
     tags: *a1
   - id: 0b47661b-b22e-4a0c-a0a9-452162ab7393
     start: 11:17.6
     end: 11:21.66
     fields:
       transcription: メロスはセリヌンティウスに向かって走りました。
+      meaning: Melos could finally save Selinuntius.
     tags: *a1
   - id: 58ea4785-0726-4210-979b-125fb9e55731
     start: 11:22.86
     end: 11:27.84
     fields:
       transcription: メロスはとうとうセリヌンティウスを助けることができました。
+      meaning: "Melos ran toward Selinuntius. "
     tags: *a1
   - id: fc143af4-11af-49e6-a4eb-c94e9c3ff259
     start: 11:29.2
     end: 11:31.92
     fields:
       transcription: メロスは泣きながら言いました。
+      meaning: " Melos said while crying, "
     tags: *a1
   - id: 12480ef5-ff69-4e00-8c1e-c3a54dab339e
     start: 11:33.2
     end: 11:34.96
     fields:
       transcription: 「私を叩け。
+      meaning: "“Slap me. "
     tags: *a1
   - id: 4f1ebac8-9861-48af-995e-9ca854f314f4
     start: 11:36.1
     end: 11:40.26
     fields:
       transcription: 私は途中で一度、悪い夢を見た。
+      meaning: "I had a bad dream on the way. "
     tags: *a1
   - id: ae1d695c-adfd-4533-b8e9-b7e13e7c4b03
     start: 11:41.42
     end: 11:45.7
     fields:
       transcription: 私は一度あなたを助けることをあきらめた。」
+      meaning: I gave up saving you for a while.”
     tags: *a1
   - id: 6c6bb75c-55b6-41c1-b3e0-5ef541864590
     start: 11:47.327
     end: 11:51.62
     fields:
       transcription: セリヌンティウスはメロスの顔を叩きました。
-      meaning: Selinuntius slapped Melos’s face, and he smiled softly. “Melos, slap me. I haven’t been able to trust you once for these three days. I couldn’t trust you for the first time.” Melos slapped Selinuntius’s face. “Melos!” “Selinuntius!” They cried loudly. The surrounding people cheered loudly, too. The king’s face turned red and he said, “You all have been saved. You have taught me to trust people. Will you let me be your friend?” The king praised them. The surrounding people praised the king and them.
+      meaning: "Selinuntius slapped Melos’s face, "
     tags: *a1
   - id: e1a009bc-832a-45e6-a33b-54c92b0ea6d3
     start: 11:53.04
     end: 11:56.04
     fields:
       transcription: そして、優しく笑いました。
+      meaning: "and he smiled softly. "
     tags: *a1
   - id: 8cca58fe-34fe-4d38-85ae-48432f4c073a
     start: 11:57.42
     end: 12:00.42
     fields:
       transcription: 「メロス、私を叩け。
+      meaning: "“Melos, slap me. "
     tags: *a1
   - id: 2cd99c11-2b6a-4710-aaa0-7042a18f6c9f
     start: 12:01.58
     end: 12:07.403
     fields:
       transcription: 私はこのに３日間、一度君を信じることができなかった。
+      meaning: "I haven’t been able to trust you once for these three days. "
     tags: *a1
   - id: 26cf7eb6-86b0-4501-b6fa-3006f8cb6e24
     start: 12:08.74
     end: 12:12.64
     fields:
       transcription: 初めて君を信じることができなかった。」
+      meaning: "I couldn’t trust you for the first time.” "
     tags: *a1
   - id: 86af2846-a8e9-4b96-8d80-9284177da079
     start: 12:13.72
     end: 12:17.44
     fields:
       transcription: メロスもセリヌンティウスの顔を叩きました。
+      meaning: "Melos slapped Selinuntius’s face. "
     tags: *a1
   - id: d4a4eb84-3a99-4c8a-9b76-1c61ca9d6400
     start: 12:18.84
     end: 12:26.02
     fields:
       transcription: 「メロス！」「セリヌンティウス！」二人は声を出して泣きました。
+      meaning: "“Melos!” “Selinuntius!” They cried loudly. "
     tags:
       - WGR_5_hashire_merosu.mp3
   - id: 92b757e3-b5f0-4862-8af4-841fd25ae934
@@ -21319,42 +21601,47 @@ clips:
     end: 12:31.406
     fields:
       transcription: 周りの人も声を上げて喜んでいました。
+      meaning: "The surrounding people cheered loudly, too. "
     tags: *a1
   - id: 25b20691-4243-4686-bafd-ae03f33558d8
     start: 12:32.743
     end: 12:36.643
     fields:
       transcription: 王様が顔を赤くして、言いました。
+      meaning: "The king’s face turned red and he said, "
     tags: *a1
   - id: e1cb68d6-48c0-4e33-a619-2651cbb95ad7
     start: 12:38.143
     end: 12:40.003
     fields:
       transcription: 「二人は助かった。
+      meaning: "“You all have been saved. "
     tags: *a1
   - id: 69da8ea7-7703-4b9f-b6e3-519f62503ef8
     start: 12:41.023
     end: 12:45.143
     fields:
       transcription: 二人は人を信じることを教えてくれた。
+      meaning: "You have taught me to trust people. "
     tags: *a1
   - id: 9cc3f86e-5667-4894-96e1-f663c7d05ead
     start: 12:46.363
     end: 12:50.083
     fields:
       transcription: 私を二人の友達にしてくれないか？」
+      meaning: "Will you let me be your friend?” "
     tags: *a1
   - id: 2b4991f1-ef8c-4262-b761-b0c927f755b3
     start: 12:51.243
     end: 12:54.043
     fields:
       transcription: 王様は二人を褒めました。
+      meaning: "The king praised them. "
     tags: *a1
   - id: 4fddc6ae-9425-448c-96ce-f18987f91fb8
     start: 12:55.263
     end: 12:59.283
     fields:
       transcription: 周りの人は王様と二人を褒めました。
+      meaning: The surrounding people praised the king and them.
     tags: *a1
-flashcardFieldsToSubtitlesTracks:
-  transcription: ea8e7a3a-7731-41e0-8aa5-675ce0a0ca48

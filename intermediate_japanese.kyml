@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-11-29T21:06:14Z
+timestamp: 2020-12-06T22:08:37Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -4521,7 +4521,7 @@ clips:
       transcription: |-
         400年以上前の白い壁が残っていて
         建物の形が
-        白鷺という 白い鳥が羽を広げて休んでいるように見えるので
+        白鷺という白い鳥が羽を広げて休んでいるように見えるので
         白鷺城（白露城）とも呼ばれています
         姫路城は昔の映画やドラマを撮影する時によく使われています
       meaning: Its white walls still remain after 400 years, and the building’s shape looks like the bird called shirasagi (white egret) resting with spread wings, so it is also called Shirasagi Castle (or Hakuro Castle). Himeji Castle is often used when filming period films and television dramas.
@@ -4937,11 +4937,11 @@ clips:
     fields:
       transcription: |-
         あーお腹空いたなー
-        俺も 腹減った
+        俺も腹減った
         この辺にうまいとんかつの店があるんだぜ
         食いに行こうか
         おごるよ
-        いやよ とんかつ は
+        いやよ、とんかつは
         カロリーが高いから
         なんだ、じゃ、俺、一人で行こうっと
         あ、待って！その店、美味しいんでしょ。やっぱり私も行くわ！
@@ -5098,7 +5098,7 @@ clips:
     start: 09:33.843
     end: 09:46.303
     fields:
-      transcription: 書くときには各スタイルに合った 書き言葉的表現、そして、話す時には話すスタイルに合った話し言葉的表現があることを覚えておいてください。
+      transcription: 書くときには書くスタイルに合った書き言葉的表現、そして、話す時には話すスタイルに合った話し言葉的表現があることを覚えておいてください。
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: 108656fc-bfc4-47fe-825f-71603cc142a6
@@ -5415,7 +5415,7 @@ clips:
     start: 00:15.06
     end: 00:43.8
     fields:
-      transcription: 現代の日本人は、野球、サッカー、ゴルフ、スキーなど、色々なスポーツを楽しんでいる。若い人たちだけでなく、子供からお年寄りまで スポーツを楽しみ、そして、種類も、海や山のスポーツ、夏や冬のスポーツ、一人でするスポーツ、チームでするスポーツ、健康のためのスポーツなど、何でもある。
+      transcription: 現代の日本人は、野球、サッカー、ゴルフ、スキーなど、色々なスポーツを楽しんでいる。若い人たちだけでなく、子供からお年寄りまでスポーツを楽しみ、そして、種類も、海や山のスポーツ、夏や冬のスポーツ、一人でするスポーツ、チームでするスポーツ、健康のためのスポーツなど、何でもある。
       meaning: "Present-day Japanese people enjoy many different sports, such as baseball, soccer, golf, and skiing. Not only young people but (people of all ages) from children to the elderly enjoy sports, and there are all types of sports, such as ocean, mountain, summer and winter sports, one-person sports, team sports, and sports for health. "
     tags:
       &a1
@@ -5690,7 +5690,7 @@ clips:
       - tobira05
   - id: 4eb7b1c8-b47f-4e2f-8d36-23df2ae4682f
     start: 00:32.42
-    end: 01:00.013
+    end: 01:00.26
     fields:
       transcription: 世界で一番インスタントラーメンをたくさん食べる国は中国で451.7億食、その次はインドネシアの137.0億食、日本の51.0億食、アメリカの43.2億食、ベトナムの39.1億食、韓国の33.4億食と続きます。
       meaning: The country where the most instant ramen is eaten is China with 45 billion 170 million servings; following that is Indonesia’s 13 billion 700 million servings, Japan’s 5 billion 100 million servings, the US’s 4 billion 320 million servings, Vietnam’s 3 billion 910 million servings, and South Korea’s 3 billion 340 million servings.
@@ -5700,7 +5700,7 @@ clips:
     start: 01:01.169
     end: 01:18.38
     fields:
-      transcription: 一人当たりの消費量が最も多いのは韓国で、韓国人一人が食べた インスタントラーメンは1年に約69食ということです。日本では、1年に一人当たり約40食を食べています。
+      transcription: 一人当たりの消費量が最も多いのは韓国で、韓国人一人が食べたインスタントラーメンは1年に約69食ということです。日本では、1年に一人当たり約40食を食べています。
       meaning: The country with the greatest consumption amount per capita is South Korea, with one South Korean eating approximately 69 servings of instant ramen per year. In Japan, one person eats about 40 servings of instant ramen per year.
     tags:
       - tobira05
@@ -5742,7 +5742,7 @@ clips:
     start: 02:26.96
     end: 02:38.84
     fields:
-      transcription: 安藤は「カップヌードル」を発明する13年前に、世界で初めて 袋入りのインスタントラーメンも考えた人で、「ラーメンの父」と呼ばれています。
+      transcription: 安藤は「カップヌードル」を発明する13年前に、世界で初めて袋入りのインスタントラーメンも考えた人で、「ラーメンの父」と呼ばれています。
       meaning: Ando is also the first person in the world to come up with the idea of instant ramen in a pouch, which was thirteen years before he invented Cup Noodle, so he is called “the father of ramen.”
     tags:
       - tobira05
@@ -5750,7 +5750,7 @@ clips:
     start: 02:39.84
     end: 02:56.4
     fields:
-      transcription: 1910年に生まれた安藤は、戦後あまり食べ物がない時代に人々が ラーメンの屋台の前に長い列を作っているのを見て、家でお湯さえあればすぐ食べられるラーメンを作りたいと思ったそうです。
+      transcription: 1910年に生まれた安藤は、戦後あまり食べ物がない時代に人々がラーメンの屋台の前に長い列を作っているのを見て、家でお湯さえあればすぐ食べられるラーメンを作りたいと思ったそうです。
       meaning: After seeing people making long lines in front of ramen stalls after the war when people didn’t have much to eat, it is said that Ando, who was born in 1910, thought that he wanted to make ramen which could be eaten at home just using hot water.
     tags:
       - tobira05
@@ -5758,7 +5758,7 @@ clips:
     start: 02:57.16
     end: 03:10.877
     fields:
-      transcription: 何回も失敗を繰り返しましたが、48歳の時、ついに「チキンラーメン という」袋入り インスタントラーメンの商品化に成功し、そのラーメンは大ヒットしました。
+      transcription: 何回も失敗を繰り返しましたが、48歳の時、ついに「チキンラーメンという」袋入りインスタントラーメンの商品化に成功し、そのラーメンは大ヒットしました。
       meaning: He failed countless times, but at the age of 48 he finally succeeded in commercializing an instant ramen in a pouch called “Chikin Ramen,” and it became a big hit.
     tags:
       - tobira05
@@ -5774,7 +5774,7 @@ clips:
     start: 03:28.088
     end: 03:32.588
     fields:
-      transcription: それで 安藤は日本国内から世界に目を向けたのです
+      transcription: それで安藤は日本国内から世界に目を向けたのです。
       meaning: Because of this, Ando switched his focus (lit. turned his eyes) from Japan to the world.
     tags:
       - tobira05
@@ -5790,7 +5790,7 @@ clips:
     start: 03:54.908
     end: 04:10.508
     fields:
-      transcription: 「文化、伝統、習慣の違いを理解しなければ、国境を越えられない」と考えた安藤は、インスタントラーメンを世界に広げる ヒントを見つけるため、1966年にアメリカに行きました。
+      transcription: 「文化、伝統、習慣の違いを理解しなければ、国境を越えられない」と考えた安藤は、インスタントラーメンを世界に広げるヒントを見つけるため、1966年にアメリカに行きました。
       meaning: Ando, who thought that he couldn’t market outside Japan (lit. go beyond the border) without understanding differences in culture, traditions, and customs, went to the United States in 1966 to look for hints on how to spread instant ramen throughout the world.
     tags:
       - tobira05
@@ -5937,9 +5937,7 @@ clips:
     end: 01:57.84
     fields:
       transcription: |-
-        また
-        春と秋のお彼岸 や 8月のお盆は
-        先祖を敬う人して多くの人がお墓参りに行く
+        また、春と秋のお彼岸や8月のお盆は先祖を敬う日として多くの人がお墓参りに行く
       meaning: Then, during the equinoctial weeks in spring and autumn and Obon (the Festival of the Dead) in August, many people visit graves in order to honor their deceased ancestors.
     tags: *a1
   - id: 5e7ab6e2-baa5-40a2-a145-272b43ce067b
@@ -5977,8 +5975,7 @@ clips:
     end: 02:52.14
     fields:
       transcription: |-
-        そして
-        死んだら大抵 仏教式のお葬式をしてもらってお墓に入る
+        そして、死んだら大抵仏教式のお葬式をしてもらってお墓に入る
       meaning: Finally, after someone dies, they are usually buried after having a Buddhist funeral.
     tags: *a1
   - id: a5ab7c6e-cfc3-490e-a5e9-b633077d4acd
@@ -6033,7 +6030,7 @@ clips:
     start: 04:06.004
     end: 04:10.264
     fields:
-      transcription: 目的によって それぞれ お参りに行く 神様が違うのだ
+      transcription: 目的によって、それぞれお参りに行く神様が違うのだ
       meaning: The gods they visit differ depending on their purpose.
     tags: *a1
   - id: a7d13b7c-f9f6-4118-8eaa-f1c28b761e6c
@@ -6114,7 +6111,7 @@ clips:
       transcription: |-
         日本の神話にはギリシャ神話のように人間的な神様がたくさん出てきて活躍する面白い話が多く残っている
         その中に天照大神という神様についての有名な話がある
-        どんな話から読んでみよう
+        どんな話か読んでみよう
       meaning: In Japanese mythology, just as in Greek mythology, many interesting stories remain in which many humanlike gods appear and play active roles. Among these, there is a famous story about the goddess called Amaterasu-Ōmikami. Let’s read and see what kind of story it is.
     tags:
       &a1
@@ -6149,9 +6146,7 @@ clips:
     end: 01:31.18
     fields:
       transcription: |-
-        太陽の神様の 天照が岩の中に隠れて外に出てこないため
-        世界は
-        何日も真っ暗な日が続きました
+        太陽の神様の天照が岩の中に隠れて外に出てこないため、世界は何日も真っ暗な日が続きました
       meaning: Because Amaterasu, the sun goddess, hid inside the rock (cave) and did not come out, several days of complete darkness continued in the world.
     tags: *a1
   - id: b5359410-3560-4400-951f-8e1f416edc86
@@ -6162,7 +6157,7 @@ clips:
         困ってしまった 他の神様たちは
         天照に岩の外に出てきてもらおうと
         彼女が隠れている 岩戸の前でお酒を飲みながら歌ったり踊ったり笑ったりして
-        大騒ぎはしました
+        大騒ぎをしました
       meaning: The other gods, who were at a loss, tried to get Amaterasu to come out by drinking, singing, dancing, and making a great noise in front of the rock door where she was hiding.
     tags: *a1
   - id: 461c6b05-a603-481d-8866-46d7daf03340
@@ -6193,7 +6188,7 @@ clips:
         少しだけ 岩戸を開けてみると
         その瞬間を待っていた 力持ちの神様が
         岩戸を全部開けて
-        天照を今の外に出してしまいました
+        天照を岩の外に出してしまいました
       meaning: Thinking the great noise outside was strange, Amaterasu opened the rock door only a little bit; then, a mighty god, who had been waiting for that moment, opened the rock door all the way and pulled Amaterasu out of the rock.
     tags: *a1
   - id: 731e6f23-896d-4a9f-b773-06b7ea42ffb0
@@ -6322,7 +6317,7 @@ clips:
     start: 00:35.0
     end: 00:40.62
     fields:
-      transcription: また、日本で生まれた テレビゲームも「VIDEO GAME」として世界中に広まった。
+      transcription: また、日本で生まれたテレビゲームも「VIDEO GAME」として世界中に広まった。
       meaning: Also, TV games, which originated in Japan, have spread throughout the world as video games.
     tags: *a1
   - id: 4df95e3d-d0e9-404f-b097-cd0decd71196
@@ -6375,7 +6370,7 @@ clips:
     end: 02:23.34
     fields:
       transcription: |-
-        それまで欧米の本や雑誌は右から左にページをめくる 読み方が一般的だったが、漫画ファンの
+        それまで欧米の本や雑誌は右から左にページをめくる読み方が一般的だったが、漫画ファンの
         「右上から左下に読む日本の漫画と同じスタイルにしてほしい」というリクエストで、アメリカで売られる日本の漫画雑誌も、日本と同じように
         左から右にページを開くスタイルで作られるようになったのだ。
       meaning: Until then, European and American books and magazines were generally read by flipping the pages from right to left, but, because of requests from manga fans who said, “We want you to make them in the same style as Japanese manga, reading from top right to bottom left,” the Japanese manga magazines sold in the US began to be made in the style in which the pages open from left to right, the same as in Japan.
@@ -6442,7 +6437,7 @@ clips:
     start: 04:01.248
     end: 04:17.848
     fields:
-      transcription: その他にも、『ジャングル大帝』『リボンの騎士『どろろ』『火の鳥』『ブッダ』『ブラックジャック』『アドルフに告ぐ』など、アニメや映画になったり、世界中の言葉に翻訳された手塚作品は沢山ある。
+      transcription: その他にも、『ジャングル大帝』『リボンの騎士』『どろろ』『火の鳥』『ブッダ』『ブラックジャック』『アドルフに告ぐ』など、アニメや映画になったり、世界中の言葉に翻訳された手塚作品は沢山ある。
       meaning: Besides that, there are many other Tezuka works which were made into anime or films and translated into various languages all over the world, including Janguru Taitei (Kimba the White Lion), Ribon no Kishi (Princess Knight), Dororo, Hi no Tori (Phoenix), Budda (Buddha), Burakkujakku (Black Jack), and Adorufu ni Tsugu (Adolf).
     tags: *a1
   - id: fab94b1b-7180-44d7-a195-72c6107c9ef8
@@ -6456,7 +6451,7 @@ clips:
     start: 04:46.779
     end: 05:00.159
     fields:
-      transcription: 手塚の漫画の特徴であるオノマトペがたくさん入った漫画を笑いながら読んでいるうちに、読者は 人間が生きることや死ぬことについて深く考えさせられてしまうのだ。
+      transcription: 手塚の漫画の特徴であるオノマトペがたくさん入った漫画を笑いながら読んでいるうちに、読者は人間が生きることや死ぬことについて深く考えさせられてしまうのだ。
       meaning: When laughing while reading a manga full of Tezuka’s characteristic onomatopoeia, the reader is also made to think deeply about the fact that humans live and die.
     tags: *a1
   - id: 13735939-6fa9-40a4-9d8b-86d2d7ef8d87
@@ -6521,12 +6516,12 @@ clips:
     end: 01:01.48
     fields:
       transcription: |-
-        毎晩 友達が来て
+        毎晩友達が来て
         夜中まで大声でわいわい話
-        音楽はガンガン うるさいし
-        階段をバタバタ 上がり下りするし
-        この間 一度注意したんですけど
-        全然 静かにしてくれなくて
+        音楽はガンガンうるさいし
+        階段をバタバタ上がり下りするし
+        この間一度注意したんですけど
+        全然静かにしてくれなくて
     tags:
       &a1
       - tobira07
@@ -6545,13 +6540,13 @@ clips:
     end: 01:49.18
     fields:
       transcription: |-
-        ところで何か 壊れたって言いませんでしたか
+        ところで何か壊れたって言いませんでしたか
         あ、トイレです
         壊れたわけじゃないんですが
         あいつからゴボゴボと変な音が聞こえるんです
         水もよく流れないみたいだし
         ああ、そう。何か詰まっているかもしれないから、明日見てみますよ
-        はい よろしくお願いします
+        はい。よろしくお願いします
     tags: *a1
   - id: db1786de-8bb2-4d37-9cda-1015d7eb70ba
     start: 01:53.52
@@ -6626,7 +6621,7 @@ clips:
     fields:
       transcription: |-
         日本語では、笑いは様々な表現で表されます。
-        例えば、大声で笑うときは「ゲラゲラ」笑い、恥ずかしそうに小さい声で笑う時は「クスクス」笑います。他にも「きゃっきゃっ」と 笑ったり、「ワハハ」と笑ったりしますが、皆さんは これらの笑いには不思議な力があることを知っていますか。
+        例えば、大声で笑うときは「ゲラゲラ」笑い、恥ずかしそうに小さい声で笑う時は「クスクス」笑います。他にも「きゃっきゃっ」と笑ったり、「ワハハ」と笑ったりしますが、皆さんはこれらの笑いには不思議な力があることを知っていますか。
       meaning: In Japanese, laughter is expressed using a variety of expressions. For example, when someone laughs loudly, it’s expressed as geragera warau (guffaw), and when someone laughs in a shy, quiet manner, it’s kusukusu warau (giggle). Besides these, people also laugh in ways such as kyakkya or wahaha, That said, do you know that laughter like this has a mysterious power?
     tags:
       &a1
@@ -6649,7 +6644,7 @@ clips:
     start: 01:04.156
     end: 01:19.376
     fields:
-      transcription: すると、難しい 講義を聞いた後では平均123ミリグラムも上がった血糖値が、面白い話を聞いて笑った後では、平均77ミリグラムしか上がらなかったという結果が出たそうです。
+      transcription: すると、難しい講義を聞いた後では平均123ミリグラムも上がった血糖値が、面白い話を聞いて笑った後では、平均77ミリグラムしか上がらなかったという結果が出たそうです。
       meaning: Then, the results, it is said, were that the patients’ blood sugar levels, which rose by as much 123 milligrams on average after listening to the difficult lecture, only rose by 77 milligrams on average after listening to the funny story and laughing.
     tags: *a1
   - id: 86b9ad34-2f46-4671-9dbc-0c44487a9af9
@@ -6664,9 +6659,7 @@ clips:
     end: 02:05.216
     fields:
       transcription: さて、人間の健康にとって大切な行為である「笑い」、これを取り入れた日本の伝統芸能といえば、一番に「狂言」が挙げられます。狂言というのは、歌や踊りがあまり出てこない、言葉を中心とした劇で、14世紀頃に激の形が完成しました。
-      meaning: |-2
-        
-         Well, now, laughter is an important act for the health of human beings, and when speaking of traditional Japanese arts that take in (this concept), the best example that can be provided is kyogen. Kyogen are plays where words are dominant and there isn’t much singing or  dancing. The form of these plays was fully established around the 14th century. 
+      meaning: "Well, now, laughter is an important act for the health of human beings, and when speaking of traditional Japanese arts that take in (this concept), the best example that can be provided is kyogen. Kyogen are plays where words are dominant and there isn’t much singing or  dancing. The form of these plays was fully established around the 14th century. "
     tags: *a1
   - id: 38597bda-3252-4e16-b24e-2881baf21fd1
     start: 02:06.2
@@ -6693,9 +6686,9 @@ clips:
     end: 03:36.952
     fields:
       transcription: |-
-        昔の日本は身分の差が大きく厳しい 上下関係がありました。
+        昔の日本は身分の差が大きく厳しい上下関係がありました。
         しかし、狂言の中では、身分が高くて立派だと思われている人が、馬鹿なことをして身分が低い人に笑われるという話がよく出てきます。
-        昔の人々は、狂言の中に偉い人や超人的な人が自分たちと変わらない普通の人として描かれている点に、面白さを感じたのではないでしょうか
+        昔の人々は、狂言の中に偉い人や超人的な人が自分たちと変わらない普通の人として描かれている点に、面白さを感じたのではないでしょうか。
       meaning: In old Japan, the gap in social positions was large, and there were strict superior-subordinate relationships. However, in many kyogen stories we see that high-ranked people, who are thought to be admirable, do foolish things and are laughed at by low-ranked people. The people of long ago probably felt amused by the fact that powerful or superhuman people were portrayed as ordinary people no different from themselves.
     tags: *a1
   - id: 7f1e2567-1ca7-43a4-bfc4-e6fb6f653fa1
@@ -6703,7 +6696,7 @@ clips:
     end: 04:05.76
     fields:
       transcription: |-
-        代表的な狂言の一つ、「ぶす」という話を紹介しましょう・
+        代表的な狂言の一つ、「ぶす」という話を紹介しましょう。
         ある日、主人が二人の家来に、自分の留守中に「ぶす」という名前の恐ろしい毒が入っている桶には絶対に近づかないようにと言って出かけます。しかし「見てはいけない」と言われてますます見たくなってしまった二人は、我慢できずに、桶の蓋を開けてみました。
       meaning: Let us introduce a representative kyogen, a story called Busu. One day, a master left his house after telling his two servants never to go near a bucket with a horrible poison called busu in it while he is out. However, the two servants, who really wanted to see it even more after being told “Don’t look,” couldn’t stand it any longer and opened the lid of the bucket (to see what was inside).
     tags: *a1
@@ -6714,7 +6707,7 @@ clips:
       transcription: |-
         すると、桶の中から、甘くて美味しそうな匂いがしてきました。実は、保険に入っていたのは「恐ろしい毒」ではなくて「甘くて美味しい黒砂糖」だったのです。もちろん、二人はそれを全部食べてしまいました。
         さて、二人は主人に謝ったと思いますか。
-        いいえ、二人は逆に、主人が大切にしていた掛け軸を破ったり、高い 茶碗を割ったりしました。
+        いいえ、二人は逆に、主人が大切にしていた掛け軸を破ったり、高い茶碗を割ったりしました。
       meaning: |-
         When they did this, a sweet, delicious smell came from inside the bucket. In fact, the contents of the bucket had not been horrible poison, but sweet and delicious brown sugar. Of course, the two ate all of it.
         Now, do you think that the two apologized to their master? No, on the contrary, the two did things like tear their master’s prized hanging scroll and break his expensive bowl.
@@ -7098,6 +7091,7 @@ clips:
         東京の街を歩く
         次々と 目に入ってくるカラフルなデザインの自動販売機
         日本を訪れた外国人は自動販売機が町中にある風景に驚くらしい
+      meaning: You walk through the city of Tokyo. One after another, vending machines with colorful designs come into view. It is said that foreigners who visit Japan are surprised at the vending machine scene in the city.
     tags:
       &a1
       - tobira10
@@ -7111,6 +7105,7 @@ clips:
         日本ではどこにでも 自動販売機がある
         街の中だけでなく 田舎の誰も通らないような道や
         山の中にさえ 自動販売機が置いてあるほどだ
+      meaning: In the United States, vending machines are usually inside buildings and are almost never placed outside, but in Japan there are vending machines everywhere, to such an extent that they are placed not only in cities but also along country roads where no one seems to travel, and even in the mountains.
     tags: *a1
   - id: b1aebafd-811e-4fd5-82e1-0a13407e6fa7
     start: 00:53.16
@@ -7128,6 +7123,7 @@ clips:
         558万台だったが
         人口と国の広さを考えた場合
         きゅうりとは 日本が世界一と言えるだろう
+      meaning: "It is not true that vending machines are widespread in all countries: throughout the world, the only countries with more than 1 million machines are the US, Japan, and Germany. According to data from 2005, the United States had the most in the world (7 million 830 thousand machines) and Japan was in second place (5 million 580 thousand machines), but, if the country’s population and size are considered, we can say that Japan has the most machines in the world in terms of population and territory."
     tags: *a1
   - id: 0ffc9266-2882-46c3-8d66-4a2d7f2cc989
     start: 01:27.296
@@ -7139,6 +7135,7 @@ clips:
         1代で1ヶ月に
         25000本の飲み物を売る
         その売り上げは 300万円にもなるという
+      meaning: Japan is also first in the world in sales from vending machines, and it is said that the busiest vending machine in Japan sells 25,000 bottled drinks per month from a single machine, with sales reaching as high as 3 million yen.
     tags: *a1
   - id: b65a9977-8bc0-497f-a7ed-36ec9754ed62
     start: 01:43.576
@@ -7155,6 +7152,7 @@ clips:
         気温の変化に合わせて
         飲み物を冷たくしたり
         暖かくしたりして出してくれる
+      meaning: Things like “When I bought some tea, it was warm” and “I was surprised when the vending machine spoke” are often heard from foreigners. Japanese vending machines serve drinks according to the temperature by chilling or warming them, such as cold drinks in the summer and hot drinks in the winter.
     tags: *a1
   - id: 54a077cb-d100-47ec-b217-1335027d6576
     start: 02:09.18
@@ -7172,6 +7170,7 @@ clips:
         ポイ
         お釣りがない時は すいません 今 釣り銭 切らしてますね
         まるで 関西人のように話すらしい
+      meaning: Furthermore, there are some vending machines that talk. For example, the Chatting Vending Machine, which a certain drink maker places in the Kansai region, is said to speak using Kansai dialect, It is said that when a customer stands in front of the vending machine, instead of saying “Irasshaimase” (Welcome), it says “Maido!”; and when it does not have change, it says “Sunmasen. Ima, tsurisen kirashitemasu nen.” (I’m sorry; we're out of change), speaking just like a person from the Kansai region.
     tags: *a1
   - id: a6f738a7-f59d-4966-8aa1-4de1757a1653
     start: 02:44.1
@@ -7182,6 +7181,7 @@ clips:
         冷凍食品を電子レンジで温めてから出す
         カップラーメンにお湯を入れて出すと言った自動販売機 もあって
         日本の自動販売機は驚くほど賢い
+      meaning: Besides the above, there are machines that make coffee from freshly-ground beans, machines that serve frozen food after warming it in a microwave oven, and machines that serve cup ramen after putting the hot water in. Japan’s vending machines are surprisingly clever.
     tags: *a1
   - id: f4df2b40-26d4-4f94-8eca-352daa26cbe6
     start: 03:03.74
@@ -7197,6 +7197,7 @@ clips:
         ドッキング
         おもちゃ
         そして名刺 までもある
+      meaning: "There are also many different goods sold in vending machines: food and drinks, needless to say, but there are also cigarettes, manga, weekly magazines, CD’s, flowers, nail art (decorated false fingernails), stockings, toys, and even business cards."
     tags: *a1
   - id: 1591f1e8-3dd9-4d22-b9d8-06176ac40fe9
     start: 03:23.6
@@ -7213,6 +7214,7 @@ clips:
         従って 犯罪が多く危険なところでは
         販売機は壊され
         中の現金はすぐに盗まれてしまう
+      meaning: So, why have vending machines proliferated this widely in Japan? The biggest reason is probably because Japan is safe, with little crime. To a burglar, an unmanned vending machine seems to be saying “There’s money in here! Please steal it.” Therefore, in dangerous areas with a lot of crime, vending machines are quickly broken open and the cash inside stolen.
     tags: *a1
   - id: 7265bab3-b4c3-48da-ad73-2001d6d6c67a
     start: 03:56.108
@@ -7225,6 +7227,7 @@ clips:
         だから
         自動販売機が外に置いてあっても
         壊されるようなことはほとんどないのだ
+      meaning: Although it is said that Japan has become less safe than it was in the past, if you compare it with many other countries, it is still not very dangerous. Therefore, even if vending machines are placed outside, they are hardly ever broken into.
     tags: *a1
   - id: 103fc7c4-ea45-4af2-99eb-cdbf29ce0b5c
     start: 04:16.428
@@ -7237,6 +7240,9 @@ clips:
         日本が自動販売機 大国となった理由として
         技術に対する信頼感と
         自動化を好む 社会の二つを挙げている
+      meaning: |-
+        Mr. Tsutomu Washizu, the author of the book entitled
+        The Cultural History of Vending Machines, gives two reasons why Japan has become a vending machine giant: a sense of trust in technology and a society that prefers automation.
     tags: *a1
   - id: 1687b349-c097-4c39-bb83-1273ee19224d
     start: 04:34.775
@@ -7249,6 +7255,7 @@ clips:
         なかなか壊れない
         したがって
         機械に対する信頼も高い
+      meaning: Japan’s high technological power is certainly recognized by the world, and things made in Japan, whether automobiles or refrigerators, are high performers and do not break down easily. Therefore, (people’s) trust in technology is high.
     tags: *a1
   - id: 2880eaa0-0aec-4fc6-8f3e-b86ef143c4b3
     start: 04:52.32
@@ -7261,6 +7268,7 @@ clips:
         電車の切符を自動改札機に入れれば
         すぐに改札を通ることができるし
         手をたたけば電気がつく 電気スタンドまでもある
+      meaning: Furthermore, it is also probably true that Japanese people like automated things. When you ride in a taxi, the doors automatically open and close; when you insert a train ticket in the automatic ticket gate, you can pass quickly through the gate; there are even lamps that turn on when you clap your hands.
     tags: *a1
   - id: 2c0b1750-1241-4b04-b853-f32481e8ee54
     start: 05:15.579
@@ -7272,6 +7280,7 @@ clips:
         自動販売機は
         無人で24時間ものを売ることができる上に
         街の中に置いてあるから 商品の宣伝にも役に立つ というわけだ
+      meaning: When thinking about it from a business standpoint, another reason that vending machines have proliferated is the fact that the (overall) cost is low. That is, vending machines can sell things 24 hours a day without attendants, and, on top of that, they are helpful for product promotion because the machines are placed in the midst of a city.
     tags: *a1
   - id: ee54c370-7f3e-4286-ba24-2add729ebb3b
     start: 05:38.787
@@ -7284,6 +7293,7 @@ clips:
         日本が自動販売機 大国になったのには
         日本社会の特徴や日本人の考え方が
         大きく影響しているのかもしれない
+      meaning: (However,) Interestingly, it is said that on the main streets of Paris, there is not one single vending machine. Things such as the special characteristics of Japanese society and Japanese people’s way of thinking may have had a great influence on Japan’s becoming a vending machine world power.
     tags: *a1
   - id: dd4eb841-6b02-4d55-ae3a-e94e40133ed5
     start: 05:59.3
@@ -7300,6 +7310,7 @@ clips:
         省エネ対策の代表的なものには
         エコベンダーと呼ばれる
         缶入りの飲み物のための自動販売機がある
+      meaning: While vending machines can be used any time and are convenient, there is also criticism that they are a waste of energy and that even minors are able to buy things like alcohol and cigarettes from them. However, various countermeasures are already being taken in response to these criticisms. For example, a canned beverage vending machine known as Eco Vender is a representative countermeasure for energy-saving.
     tags: *a1
   - id: 5e33449d-c361-42b4-8c21-1260293b4bc1
     start: 06:32.58
@@ -7315,6 +7326,7 @@ clips:
         このシステムの導入によって
         1年の電力消費量が
         10%から15%減ったそうだ
+      meaning: EcoVender is an energy-saving type of vending machine, which, during the summer (July-September), pre-chills beverages in the morning and stops chilling them in the afternoon when energy consumption is at its peak. Today these machines are used throughout most of Japan. Because of the introduction of this system, the machines’ annual energy consumption is said to have decreased by 10 to 15 percent.
     tags: *a1
   - id: de6d2d62-d9d2-4497-80a1-1bd023fb1fbd
     start: 07:03.5
@@ -7327,6 +7339,9 @@ clips:
         日本中の どんな所にもあって
         日本の特徴の一つと言える自動販売機
         ある調査によると日本人の8割以上が 生活に必要なものだと答えている
+      meaning: |-
+        To avoid selling alcohol or cigarettes to minors, there are measures being taken such as regulating sales late at night or making it impossible to buy these things without an ID card or a special IC card.
+        Vending machines are everywhere in Japan and can be said to be one of the special characteristics of Japan. According to one survey, more than 80% of Japanese people answered that vending machines are necessary for their everyday life.
     tags:
       - tobira10
   - id: e363e0ea-e5b1-4dc7-be68-1d60cdc24879
@@ -7340,6 +7355,7 @@ clips:
         これからも日本の自動販売機は
         どんどん進化を続けていくだろう
         将来どんな自動販売機が出てくるか楽しみである
+      meaning: Recently, it is said that “charity vending machines,” which allow you to donate money when you buy a beverage, are also increasing. Vending machines are not only convenient; they are also fun and useful for society! Japanese vending machines will probably continue to evolve rapidly from now on, too. We look forward to seeing what kind of vending machines emerge in the future.
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: 51912496-1f3d-4b99-9500-eb32367b9e58

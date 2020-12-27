@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-12-24T11:59:06Z
+timestamp: 2020-12-27T17:36:49Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -4806,11 +4806,8 @@ clips:
     start: 00:14.351
     end: 00:30.451
     fields:
-      transcription: |-
-        皆さんはもう 敬語は勉強しましたか
-        家族や友達と話す時に使う カジュアルスピーチ
-        砕けた話し方も習いましたか
-        日本にはいろいろなスピーチ スタイルがあることは知っていますね
+      transcription: 皆さんはもう敬語は勉強しましたか。家族や友達と話す時に使うカジュアルスピーチ（くだけた話し方）も習いましたか。日本語には色々なスピーチスタイルがあることは知っていますね。
+      meaning: "Have you already studied keigo (Japanese honorific language)? Have you learned the casual speech (an informal way of speaking) used when talking with family and friends? You know that Japanese has various speech styles. "
     tags:
       &a1
       - tobira02
@@ -4818,287 +4815,319 @@ clips:
     start: 00:31.24
     end: 00:43.26
     fields:
-      transcription: |-
-        実は日本語が話すときも 書くときも スタイルがとても複雑で
-        色々な決まりや 習慣があります
-        この課ではそれについて勉強してみましょう
+      transcription: |
+        実は、日本語は話す時も書く時も、スタイルがとても複雑で色々な決まりや習慣があります。この課ではそれについて勉強してみましょう。
+      meaning: |
+        In fact, in Japanese these styles are very complex and there are a variety of rules and customs in both speaking and writing. Let’s leam about them in this lesson.
     tags: *a1
   - id: d3005e27-19aa-4388-a869-fa52be041449
     start: 00:45.3
     end: 00:58.64
     fields:
       transcription: |-
-        1
-        スピーチレベル
-        丁寧さの使い分け
-        日本語はスピーチレベルが とても大切な言語 なので
-        話す相手によって話し方を変えなければいけないことがあります
+        ⒈　スピーチレベル（丁寧さ）の使い分け
+        日本語はスピーチレベルがとても大切な言語なので、話す相手によって話し方を変えなければいけないことがあります。
+      meaning: "1. The proper use of speech levels (degrees of politeness) Japanese is a language in which speech levels are very important, so sometimes we have to change our way of speaking depending on whom we are speaking to. "
     tags: *a1
   - id: 599fbc7c-c054-4f6a-837f-96b251dfb828
     start: 00:59.44
     end: 01:14.8
     fields:
-      transcription: |-
-        例えば さようならと失礼しますが
-        見せてねと見せていただけませんか など スピーチレベルの使い分けは日本語を
-        勉強している人にとって最も難しいことのひとつだと言われています
+      transcription: 例えば、「さようなら」と「失礼します」や、「見せてね」と「見せていただけませんか」など、スピーチレベルの使い分けは日本語を勉強している人にとって最も難しいことの一つだと言われています。
+      meaning: "The proper use of speech levels—for example, sayōnara (goodbye) and shitsurei shimasu (formal goodbye) or misete ne (show me) and misete itadakimasen ka (could you please show me?)—is said to be one of the most difficult things for people studying Japanese. "
     tags: *a1
   - id: d5eec82d-6468-453c-9eb2-30c3b4e00140
     start: 01:15.32
     end: 01:29.243
     fields:
-      transcription: |-
-        スピーチ スタイルにはとても砕けた話し方からとても丁寧な話し方まで
-        色々なレベルがありますが どの部分が違うでしょうか
-        次の文を見て考えてみましょう
+      transcription: |
+        スピーチスタイルには、「とてもくだけた話し方」から「とても丁寧な話し方」まで色々なレベルがありますが、どの部分が違うでしょうか。次の文を見て考えてみましょう。
+      meaning: |
+        Among the speech styles, there are many different levels, from “very informal speech” to “very polite speech,” but which parts are different? Let’s consider this while looking at the following sentences.
     tags: *a1
   - id: 1f97b305-0ecd-457c-be73-1fd1659799f4
     start: 01:31.568
     end: 01:49.808
     fields:
-      transcription: |-
-        あいつ どこ住んでる
-        男性が使うことが多い
-        あの人どこに住んでるの
-        女性が使うことが多い
-        あの人はどこに住んでいますか
-        あの方はどちらに住んでいらっしゃいますか
+      transcription: |
+        ①あいつ、どこ、住んでる？（男性が使うことが多い）
+        ②あの人、どこに住んでるの？（女性が使うことが多い）
+        ③あの人はどこに住んでいますか。
+        ④あの方はどちらに住んでいらっしゃいますか。
+      meaning: |
+        1 Aitsu, doko, sunderu? (often used by men)
+        Where does that guy live? (very informal)
+        2 Ano hito, doko ni sunderu no? (often used by women)
+        Where does that person live? (informal)
+        3 Ano hito wa doko ni sundeimasu ka.
+        Where does that person live? (polite)
+        4 Ano kata wa dochira ni sunde irasshaimasu ka.
+        Where does that person live? (very polite)
     tags: *a1
   - id: 6001d656-bd3a-4c47-bdd6-e3039ccb7855
     start: 01:51.78
     end: 02:11.8
     fields:
-      transcription: |-
-        皆さんは今までに何番の言い方を勉強しましたか
-        この四つの文を比べるとまず 文末に使われている言葉の形で
-        砕けた話し方か
-        丁寧な話し方かが分かります
-        でも違いは 文末だけに現れるのではありません
+      transcription: 皆さんは今までに何番の言い方を勉強しましたか。この四つの文を比べると、まず文末に使われている言葉の形で「くだけた話し方」か「丁寧な話し方」かが分かります。でも、違いは文末だけに表れるのではありません。
+      meaning: "Which of these ways of speaking have you studied so far? Comparing these four sentences, first of all we can tell whether a sentence is informal speech or polite speech from the words used at the end of the sentence. But the differences do not appear only at the ends of the sentences. "
     tags: *a1
   - id: f3540dc6-4e53-4ad4-9c6a-cfe6b36268cd
     start: 02:12.58
     end: 02:22.284
     fields:
-      transcription: |-
-        「どこ」を「どちら」にすればもっと丁寧な言い方になります
-        「あの人」の代わりに「あの方」や「あいつ」ということもできます
+      transcription: 「どこ」を「どちら」にすれば、もっと丁寧な言い方になります。「あの人」の代わりに「あの方」や「あいつ」と言うことも出来ます。
+      meaning: "If you change doko (where) to dochira (polite “where”), the phrase becomes more polite. You can also say ano kata or aitsu instead of ano hito. "
     tags: *a1
   - id: 3fb5d879-736b-408f-9031-ed225c4021e6
     start: 02:23.1
     end: 02:34.58
     fields:
-      transcription: |-
-        そして
-        「どこに住んでるの」と「い」を言わなかったり、
-        「どこ住んでる」の「と」を落として行ったりすると もっとくだけた感じになります
+      transcription: そして、「どこに住んでるの？」と「い」を言わなかったり、「どこ、住んでるの？」と「に」を落として言ったりすると、もっとくだけた感じになります。
+      meaning: "Also, if you drop the i sound saying “doko ni sunderu no?” or drop the ni saying “doko sunderu no?”, it makes the sentence more informal. "
     tags: *a1
   - id: e5ebdbbe-9832-4c4e-965f-95f6fbb00065
     start: 02:35.64
     end: 02:53.38
     fields:
-      transcription: |-
-        自然な話し方で話せるようになるためには
-        多くの日本人と色々な場面で話したり
-        日本の映画やドラマを見てどんな場面で
-        どんな人がどんな相手にどんな話し方をしているかをよく観察すると良いでしょう
+      transcription: 自然な話し方で話せるようになるためには、多くの日本人と色々な場面で話したり、日本の映画やドラマを見て、どんな場面で、どんな人が、どんな相手に、どんな話し方をしているかをよく観察するといいでしょう。
+      meaning: "In order to be able to speak naturally, you should talk to many different Japanese people in various situations and watch Japanese films and dramas, observing closely what ways of speaking are used in what situations, by whom, and toward whom. "
     tags: *a1
   - id: a55de5ef-1d90-4b52-b442-a15b30e48b58
     start: 02:54.0
     end: 03:00.12
     fields:
-      transcription: |-
-        次のページのいろいろなスピーチレベルの表を見て
-        言い方を比べてみてください
+      transcription: |
+        次のページの「色々なスピーチレベル」の表を見て、言い方を比べてみて下さい。
+      meaning: |
+        Please look at the table “Various Speech Levels” on the next page and compare the different ways of saying things.
     tags: *a1
   - id: 4bd21053-7f18-4166-b3f3-af35f29ac6ef
     start: 03:03.42
     end: 03:23.54
     fields:
       transcription: |-
-        男性と女性の話し方の違い
-        日本語の小説を読んでいると
-        話し方で
-        男性と女性のどちらが話しているかわかることがあります
-        特に砕けた話し方では
-        男女の話し方に違いが見られます
+        ⒉　男性と女性の話し方の違い
+        日本語の小説を読んでいると、話し方でそれが男性か女性かすぐに分かることがあります。特にくだけた話し方では、男女の話し方に違いが見られます。
+      meaning: |-
+        2. The differences between male and female speech
+        When reading a Japanese novel, we can sometimes tell right away if a character is a man or woman by the character’s way of speaking. Especially in informal speech, we can see differences between the speech of males and females. 
     tags: *a1
   - id: 57ed8d8b-70d1-4e17-8a31-4ac167dda448
     start: 03:24.484
     end: 03:29.624
     fields:
-      transcription: |-
-        下の会話は
-        男女 のどちらが話しているか
-        考えてみてください
+      transcription: |
+        下の会話は、男女のどちらが話しているか、考えてみて下さい。
+      meaning: |
+        Try to figure out whether the speakers in the following dialog are male or female.
     tags: *a1
   - id: c163dd76-4454-4635-92a7-f32dbf73f3f1
     start: 03:31.46
     end: 03:54.98
     fields:
-      transcription: |-
-        あーお腹空いたなー
-        俺も腹減った
-        この辺にうまいとんかつの店があるんだぜ
-        食いに行こうか
-        おごるよ
-        いやよ、とんかつは
-        カロリーが高いから
-        なんだ、じゃ、俺、一人で行こうっと
-        あ、待って！その店、美味しいんでしょ。やっぱり私も行くわ！
-        じゃ、今から行くぞ
+      transcription: |
+        A：「あ~、お腹、すいたなあ」
+        B：「俺も腹へった。この辺にうまいトンカツの店があるんだぜ。食いに行こうか。おごるよ」
+        A：「いやよ、トンカツは。カロリーが高いから」
+        B：「なんだ、じゃ、俺、一人で行こうっと」
+        A：「あ、待って！その店、おいしいんでしょ。やっぱり、私も行くわ！」
+        B：「じゃ、今から行くぞ！」
+      meaning: |
+        A: Ah, I’m so hungry.
+        B: I’m hungry, too. There’s a good pork cutlet restaurant around here, Shall we go eat? My treat.
+        A: No, not pork cutlets! Too high in calories.
+        B: What?! Well, then, I'll go by myself.
+        A: Wait! (The food in) that restaurant is delicious, right?
+        I'll go after all!
+        B: Well, then, let’s go!
     tags: *a1
   - id: 0f7ff5ac-ab1a-44d7-9951-6373c429ad68
     start: 03:57.216
     end: 04:06.836
     fields:
-      transcription: |-
-        どうですか
-        言葉の使い方が随分違いますね。
-        文字では分かりませんが、イントネーションもとても違います
+      transcription: どうですか。言葉の使い方が随分違いますね。文字では分かりませんが、イントネーションもとても違います。
+      meaning: "What do you think? The word usage is very different. It isn’t obvious from the words, but the intonation is also very different. "
     tags: *a1
   - id: e9465b46-00ef-4fc9-bea8-9742ec62a919
     start: 04:07.896
     end: 04:19.956
     fields:
-      transcription: 友達や恋人や家族と話す時、男性は自分の事を「僕」とか「俺」と言い、女性は大抵「私」を使います。
+      transcription: 友達や恋人や家族と話す時、男性は自分のことを「僕」とか「俺」と言い、女性はたいてい「私」を使います。
+      meaning: "When speaking to friends, boyfriends/ girlfriends, or family, men refer to themselves as boku or ore (I), and women usually use watashi (I). "
     tags: *a1
   - id: d96b79e4-9631-4771-893e-e0e3a4885d95
     start: 04:20.72
     end: 04:42.94
     fields:
-      transcription: 最近は、男女の差が小さくなって、上の例のように、文末に「わ」「わよ」を使う女性や「ぜ」「ぞ」を使う男性は少なくなっていますが、でも、女性が「俺も腹減った」を言ったり、男性が「嫌よ」と言ったら、びっくりされてしまいます。
+      transcription: 最近は男女の差が小さくなって、上の例のように、文末に「わ」「わよ」を使う女性や「ぜ」「ぞ」を使う男性は少なくなっていますが、でも、女性が「俺も腹へった」と言ったり、男性が「いやよ！」と言ったら、びっくりされてしまいます。
+      meaning: "These days, the male-female gap has become smaller, and women who use wa and wa yo and men who use ze and zo at the end of their sentences, as in the example above, have become less common, but if a woman said “ore mo hara hetta” or a man said “iya yo” they would be met with a surprised reaction. "
     tags: *a1
   - id: c8ff1b55-fc0a-42f9-b6d2-31d8cf28a6d2
     start: 04:44.003
     end: 04:51.103
     fields:
-      transcription: 話し方の差が小さくなっても、使わない方がいい表現もあるということを知っておいてください。
+      transcription: |
+        話し方の差が小さくなっても、使わない方がいい表現もあるということを知っておいて下さい。
+      meaning: |
+        Even though the differences in speech styles have lessened, you should know that there are phrases that you should not use.
     tags: *a1
   - id: 5496596e-4976-4439-b4c0-d16eb77d9307
     start: 04:53.726
     end: 05:18.766
     fields:
-      transcription: |-
-        3
-        文末の省略と言葉の短縮形
-        日本語のスピーチ スタイルを考える時
-        文を最後まで言わない スタイルも知っておいた方がいいでしょう。
-        日本人の会話には下の例のように、「〜けど」や「〜から」や「〜し」などで文を終わらせる言い方が多く見られます。
+      transcription: |
+        ⒊　文末の省略と言葉の短縮形
+        日本語のスピーチスタイルを考える時、文を最後まで言わないスタイルも知っておいた方がいいでしょう。日本人の会話には下の例のように、「~けど」や「~から」や「~し」などで文を終わらせる言い方が多く見られます。
+      meaning: |
+        3. The omission of sentence endings and contracted forms of words
+        When considering Japanese speech styles, you should also know the style where a sentence is left unfinished. In Japanese conversations, we can see many instances of speech where a sentence ends with kedo (but), kara (because), or shi (and), as in the examples below.
     tags: *a1
   - id: b8c32abd-fd81-4e51-b4a9-dfbb34777c1b
     start: 05:20.3
     end: 05:42.38
     fields:
       transcription: |-
-        「読み方がわからないんですけど…」（教えてくれませんか）
-        何回も電話をしたんですけど連絡がないので…」（困っています）
-        「私も忙しいし…」（できません）
-        これは言いにくいことをはっきり言わない言い方です
+        「読み方が分からないんですけど…」（教えてくれませんか）
+        「何回も電話をしたんですけど、連絡がないので…」（困っています）
+        「私も忙しいし…」（出来ません）
+        これは言いにくいことをはっきり言わない言い方です。
+      meaning: |-
+        “I don't know how to read this, but...” (can you please tell me?)
+        “I've called many times, but I still haven't been contacted, so...” (I'm in trouble.)
+        “I am also busy, and so...” (I can’t do it.)
+        This is a way of talking without clearly saying something that is difficult to say. 
     tags: *a1
   - id: 60f7a5c2-a693-4a4c-b5c2-663830a54210
     start: 05:42.77
     end: 06:00.15
     fields:
-      transcription: 例えば、パーティーに誘われて断りたいとき、「今週の土曜日は都合が悪くて行けません」というより「今週の土曜日はちょっと…」のようにあまりはっきり言わない方が相手の気分を悪くしません。
+      transcription: 例えば、パーティーに誘われて断りたい時、「今週の土曜日は都合が悪くて、行けません」と言うより「今週の土曜日は、ちょっと」のようにあまりはっきり言わない方が相手の気分を悪くしません。
+      meaning: "For example, when you have been invited to a party and want to refuse, rather than saying “This Saturday is inconvenient for me, so | can’t go,” it is less likely to make the other person feel bad if you don’t say it very clearly, as in “this Saturday is a little...” "
     tags: *a1
   - id: 99c712cd-1170-41d4-b127-32b57faeac4c
     start: 06:01.207
     end: 06:20.407
     fields:
-      transcription: 「…」の部分で、お願いや断りの意味を相手にわかってもらうのです。これは相手の気持ちを大切にする日本人の考え方が日本語に現れている表現の一つですから、「…」が使えるようになると会話が上手に聞こえます。
+      transcription: 「…」の部分で、お願いや断りの意味を相手に分かってもらうのです。これは、相手の気持ちを大切にする日本人の考え方が日本語に表れている表現の一つですから、「…」が使えるようになると、会話が上手に聞こえます。
+      meaning: |
+        With the “...” part, you let the person understand that you are requesting or refusing something. This is one way where the Japanese way of thinking, which values people’s feelings, is expressed in Japanese language. So if you learn to use “...,” your conversations will sound more natural (lit. skillful).
     tags: *a1
   - id: 8777e51b-378e-49aa-8cae-1f38e8c99015
     start: 06:21.35
     end: 06:53.423
     fields:
-      transcription: |-
-        また、話し言葉では、言葉を簡単に短くしていう言い方もよく使われます。例えば 次のような例です。
-        ユネスコというのは何ですか
-        ユネスコって何ですか
-        忘れてしまった
-        忘れちゃった
-        飲んでしまう
-        飲んじゃう
-        買っておいた
-        買っといた
-        見せてあげる
-        見せたげる
+      transcription: |
+        また、話し言葉では、言葉を簡単に短くして言う言い方もよく使われます。例えば、次のような例です。
+        「ユネスコというのは、何ですか」→「ユネスコって、何ですか」
+        「忘れてしまった」→「忘れちゃった」
+        「飲んでしまう」→「飲んじゃう」
+        「買っておいた」→「買っといた」
+        「見せてあげる」→「見せたげる」
+      meaning: |
+        Furthermore, in spoken language, a speech style where words are simplified and shortened is commonly used. The following are examples (of shortened forms): 
+        Yunesuko to iu no wa, nan desu ka —> Yunesuko tle, nan desu ka (What’s UNESCO?)
+        wasurete shimatta — wasurechatta (forgot)
+        nonde shimau —> nonjyau (drink the whole thing)
+        katte oita —> kattoita (bought ~ ahead of time for later)
+        misete ageru —> misetageru (I'll show ~ to you)
     tags:
       - tobira02
   - id: 5ccf0b08-7ed5-47e2-9016-244fc35e83e5
     start: 06:54.52
     end: 07:15.4
     fields:
-      transcription: |-
-        英語でも "I want to go"が　"I wanna go"　となったり、"Ask him"が　"Ask'im"となったりしますね。
-        こういう言い方は英語ができない 外国人には慣れるまで大変です。
-        同じように、日本語の短縮形も使えるようになるためには時間がかかるのです。
+      transcription: |
+        英語でも”I want to go.”が”I wanna go.”となったり、”Ask him.”が”Ask'im.”となったりしますね。こういう言い方は英語が出来ない外国人には慣れるまで大変です。同じように、日本語の短縮形も使えるようになるためには時間がかかるのです。
+      meaning: |
+        In English as well, sometimes “I want to go” becomes “| wanna go” and “Ask him” becomes “Ask’im.” For foreigners who cannot speak English well, this way of speaking is difficult until they get used to it. In the same way, it takes time to become able to use Japanese contractions.
     tags: *a1
   - id: 41f5e3bb-e6f5-4089-b30f-b21a102e1ff5
     start: 07:19.531
     end: 07:26.571
     fields:
-      transcription: |-
-        4
-        文の倒置
-        日本語の会話では文の倒置もよく見られます
+      transcription: |
+        ⒋　文の倒置
+        日本語の会話では、文の倒置もよく見られます。
+      meaning: |
+        4, The inversion of sentences
+        Inverted sentences are also common in Japanese conversations.
     tags: *a1
   - id: fd6ed42d-e341-43b6-9b79-ea5120306772
     start: 07:27.5
     end: 07:48.32
     fields:
       transcription: |-
-        ごめん 連絡しなくて
-        今晩のパーティーには行けないんです 宿題があるので
-        傘持ってないんだ
-        雨降ってきたけど
-        上の文では一番言いたいことをはじめに言って
-        その後で 理由 や状況を説明しています
+        「ごめん、連絡しなくて」
+        「今晩のパーティーには行けないんです。宿題があるので」
+        「かさ持ってないんだ。雨、降ってきたけど」
+        上の文では一番言いたいことを初めに言って、その後で理由や状況を説明しています。
+      meaning: |-
+        “Sorry. Not to have contacted you...”
+        “T can't go to tonight's party. | have homework.”
+        “I don’t have an umbrella. It’s started to rain, though.”
+
+        The speakers in the sentences above are saying what they want to say most at the beginning of the sentence, and then afterwards they explain the reason or situation. 
     tags: *a1
   - id: fbb797e7-a41f-4327-92fd-fb69d11f3632
     start: 07:49.72
     end: 07:53.26
     fields:
-      transcription: このような話し方も日本語の特徴のーつです。
+      transcription: このような話し方も日本語の特徴の一つです。
+      meaning: "This way of speaking is one of the characteristics of the Japanese language. "
+    tags: *a1
+  - id: e3fbf918-0d92-42e8-ad27-f8ed2385701f
+    start: 07:54.327
+    end: 08:05.927
+    fields:
+      transcription: |
+        この形は⒉男性と女性の話し方の違いにも例が見られます。⒉の会話文に戻って、どんな例があるか見てみましょう。
+      meaning: "Examples of this can also be seen in 2. The differences between male and female speech. Go back to the dialogue in 2. to see what examples are there. "
     tags: *a1
   - id: 5d0a3440-a32c-4b66-aaed-92701127f7d0
     start: 08:08.44
     end: 08:26.54
     fields:
       transcription: |-
-        ５．書き言葉スタイル
-        話し言葉に色々なスタイルがあるように、書き言葉にも色々なスタイルがあります。
-        日本語が上手になるためには、書く時にどんなスタイルを使ったらいいかも勉強する必要があります。
+        ⒌　書き言葉スタイル
+        話し言葉に色々なスタイルがあるように、書き言葉にも色々なスタイルがあります。日本語が上手になるためには、書く時にどんなスタイルを使ったらいいかも勉強する必要があります。
+      meaning: |-
+        5. Styles of written language
+        Just as there are many styles in spoken Japanese, there are also many styles in written Japanese. In order to become skilled at Japanese, it is necessary to study which styles should be used when writing. 
     tags: *a1
   - id: 60f96a45-8dfa-49c1-a5d8-b405d6cd31f6
     start: 08:27.12
     end: 08:49.4
     fields:
-      transcription: 例えば、携帯電話を使って友達に短いメッセージを送る時には、その友達と話す時のような砕けた表現を使うかもしれません。手紙を書くときは普通「です・ます体」、作文を書くときは「です・ます体」を使うことも「だ体」を使うこともあるでしょう。
+      transcription: 例えば、携帯電話を使って友達に短いメッセージを送る時には、その友達と話す時のようなくだけた表現を使うかもしれません。手紙を書く時は普通「です・ます体」、作文を書く時は「ですます体」を使うことも「だ体」を使うこともあるでしょう。
+      meaning: "For example, when sending a short message to your friends by cell phone, you might use informal expressions as if you were speaking (directly) to them. When writing a letter, desu-masu style is usually used, and when writing a composition, there are times when desu-masu style is used and there are also times when da style is used. "
     tags: *a1
   - id: a3e536d5-c18e-4cd4-86b8-67be3f6eed12
     start: 08:50.175
     end: 08:56.135
     fields:
-      transcription: また、論文を書く場合には、「だ体／である体」を使うことが多いです。
+      transcription: また、論文を書く場合には「だ体／である体」を使うことが多いです。
+      meaning: "Furthermore, when writing a paper or thesis, da style/de aru style is often used. "
     tags: *a1
   - id: 5428bfd0-a197-4ded-975c-bbd830ccd0ae
     start: 08:56.855
     end: 09:09.155
     fields:
       transcription: 書くスタイルは、何を書くか、誰が読むかによって使い分けなくてはいけないため、どのスタイルを選ぶかだけでなく、言葉の選び方も大切です。
+      meaning: "Since it is necessary to use different written styles depending on what you write and who your reader is, it is not only important to choose which style, but also to choose which words you use, "
     tags: *a1
   - id: c0ae344e-7165-472f-9c13-51d28a168ce7
     start: 09:09.88
     end: 09:32.98
     fields:
-      transcription: 例えば、「だ体／である体」の論文では、「すごく面白い」とか「とても面白い」ではなくて、「大変興味深い」と書いた方がいいのです。それは「すごい」や「とても」より「大変」の方が、そして「面白い」より「興味深い」の方が書き言葉的だからです。
+      transcription: 例えば、「だ体／である体」の論文では「すごく面白い」とか「とても面白い」ではなくて「大変興味深い」と書いた方がいいのです。それは「すごい」や「とても」より「大変」の方が、そして「面白い」より「興味深い」の方が書き言葉的だからです。
+      meaning: "For example, in a paper or thesis written in da style/de aru style, it is better to write taihen kyōmibukai (very interesting) than to write sugoku omoshiroi or totemo omoshiroi. This is because taihen and kyomibukai are more typical of written language than swgoi, totemo, and omoshiroi. "
     tags: *a1
   - id: 2aa14bb8-fe38-4060-9ce6-fc2d3221f62f
     start: 09:33.843
     end: 09:46.303
     fields:
-      transcription: 書くときには書くスタイルに合った書き言葉的表現、そして、話す時には話すスタイルに合った話し言葉的表現があることを覚えておいてください。
+      transcription: 書く時には書くスタイルに合った書き言葉的表現、そして、話す時には話すスタイルに合った話し言葉的表現があることを覚えておいて下さい。
+      meaning: Be sure to remember that when writing there are certain words and phrases used just for written language, and when speaking there are certain words and phrases used just for spoken language.
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: 108656fc-bfc4-47fe-825f-71603cc142a6
@@ -5147,7 +5176,7 @@ clips:
     start: 00:13.94
     end: 00:18.26
     fields:
-      transcription: 日本はロボットの技術が発達していることで有名だ
+      transcription: 日本はロボットの技術が発達していることで有名だ。
       meaning: "Japan is famous for its advanced robot technology. "
     tags:
       &a1
@@ -5156,11 +5185,7 @@ clips:
     start: 00:19.173
     end: 00:34.673
     fields:
-      transcription: |-
-        ロボットのイベント会場に行くと 似顔絵を書いてくれる ロボットや
-        注文を聞いて 飲み物を出してくれる ロボット
-        くものように 天井や壁を歩くことができるロボット
-        手術をするロボットなどが見られる
+      transcription: ロボットのイベント会場に行くと、似顔絵を描いてくれるロボットや、注文を聞いて飲み物を出してくれるロボット、クモのように天井や壁を歩くことが出来るロボット、手術をするロボットなどが見られる。
       meaning: " If you visit a robot event site, you can see robots that draw portraits, robots that take orders and serve drinks, robots that can walk on ceilings and walls like spiders, and robots that perform surgery, among others. "
     tags:
       - tobira03
@@ -5168,12 +5193,8 @@ clips:
     start: 00:35.6
     end: 01:00.388
     fields:
-      transcription: |-
-        すでに実際に社会で活躍しているロボットもたくさんあって
-        留守番をしたり 重いものを運んだり
-        工場で車を作ったりして人間の代わりに色々な仕事をしている
-        また働くロボットの他にも人と一緒に生活するために作られたロボットもある
-        ロボットと暮らしている人たちの話を読んでみよう
+      transcription: |
+        すでに実際に社会で活躍しているロボットもたくさんあって、留守番をしたり、重い物を運んだり、工場で車を作ったりして、人間の代わりに色々な仕事をしている。また、働くロボットの他にも、人と一緒に生活するために作られたロボットもある。ロボットと暮らしている人達の話を読んでみよう。
       meaning: There are also many robots that are already actually playing an active role in society, doing various jobs in place of humans, such as house-sitting, carrying heavy objects, and making cars in factories. Furthermore, in addition to robots that work, there are also robots that are (lit. were) made to live together with people. Let's read stories about people who are living with robots.
     tags:
       - tobira03
@@ -5183,8 +5204,7 @@ clips:
     fields:
       transcription: |-
         私の面白い家族
-        私は今 歳を取った人達が住んでいるケアハウスで暮らしています
-        同じくらいの歳の友達と一緒に家族のように生活しています
+        私は、今、年を取った人達が住んでいるケアハウスで暮らしています。同じぐらいの年の友達と一緒に、家族のように生活しています。
       meaning: |-
         My interesting family member
 
@@ -5194,57 +5214,43 @@ clips:
     start: 01:19.84
     end: 01:31.22
     fields:
-      transcription: |-
-        私が住んでいる所には パロ という ちょっと面白い家族がいます
-        ちょっと面白いというのは
-        パロは実は人間ではなくてロボットだからです
+      transcription: 私が住んでいる所には「パロ」というちょっと面白い家族がいます。ちょっと面白いというのは、パロは実は人間ではなくてロボットだからです。
       meaning: "Where I live, there is one rather interesting family member named \"Paro.\" When I say rather interesting, it's because Paro is actually not a human but a robot. "
     tags: *a1
   - id: e8261602-f5aa-4405-ac20-4e887b660b03
     start: 01:32.34
     end: 01:40.14
     fields:
-      transcription: |-
-        パロはアザラシ型のロボットで
-        体には白い毛があってとてもきれいで触ると気持ちがいいんです
+      transcription: パロはアザラシ型のロボットで、体には白い毛があって、とてもきれいで、触ると気持ちがいいんです。
       meaning: Paro is a seal-shaped robot with white fur on his body; he's very pretty and feels good to the touch.
     tags: *a1
   - id: f231d3a6-ea70-4cc4-b0e1-a8e16f524253
     start: 01:40.86
     end: 01:52.96
     fields:
-      transcription: |-
-        それに触ったり褒めたりしてやると
-        手とか足とか 首を動かしてとても可愛い声を出すのでパロの周りには
-        いつも人がたくさん集まっています
+      transcription: それに、触ったり褒めたりしてやると、手とか足とか首を動かして、とてもかわいい声を出すので、パロの周りにはいつも人がたくさん集まっています。
       meaning: "Moreover, because Paro moves his hands, feet, and neck and makes very cute sounds when you touch or praise him, there are always many people gathered around him. "
     tags: *a1
   - id: 724b69c0-6d53-4ddd-8bed-3fe167ae8a6b
     start: 01:54.221
     end: 02:01.881
     fields:
-      transcription: |-
-        私は 動物のアレルギーがあるので
-        犬や猫を飼ったことはありませんが パロ なら触っても大丈夫です
+      transcription: 私は動物のアレルギーがあるので、犬や猫を飼ったことはありませんが、パロなら触っても大丈夫です。
       meaning: "I am allergic to animals, so I've never owned a dog or a cat, but with Paro, it's OK to touch him. "
     tags: *a1
   - id: 3a2caa15-5e21-43b5-a349-a413d8fb9440
     start: 02:02.341
     end: 02:09.021
     fields:
-      transcription: |-
-        あ
-        でもパロは私達の大事な家族ですから ロボットだとは思っていませんよ
+      transcription: あっ、でも、パロは私達の大事な家族ですから、ロボットだとは思っていませんよ。
       meaning: "Oh, but Paro is an important member of our family, so we don't think of him as a robot. "
     tags: *a1
   - id: e37a16cf-aed7-41b0-984a-d0895eafda93
     start: 02:10.08
     end: 02:21.7
     fields:
-      transcription: |-
-        パロは世界で最もセラピー効果があるロボットとしてギネスブックに載っていると聞きました
-        家族がギネスブックに載っているんですよ
-        すごいと思いませんか
+      transcription: |
+        パロは世界で最もセラピー効果があるロボットとして、ギネスブックに載っていると聞きました。家族がギネスブックに載っているんですよ。すごいと思いませんか。
       meaning: I heard that Paro appears in the Guinness Book of World Records) as the world's most therapeutic robot. A member of our family is in the Guinness Book! Don't you think that's amazing?
     tags: *a1
   - id: d8e18312-0cba-49ad-b44b-bd0f0da0d8c4
@@ -5253,12 +5259,7 @@ clips:
     fields:
       transcription: |-
         私の犬
-        私は犬が大好きです
-        でも子供の頃
-        私達家族はマンションに住んでいて
-        犬を飼うことができませんでした
-        そこでは
-        動物を飼ってはいけないことになっていたからです
+        私は犬が大好きです。でも、子供の頃、私達家族はマンションに住んでいて犬を飼うことが出来ませんでした。そこでは動物を飼ってはいけないことになっていたからです。
       meaning: |-
         My dog
 
@@ -5269,119 +5270,78 @@ clips:
     start: 02:44.357
     end: 02:50.257
     fields:
-      transcription: |-
-        私は
-        犬が欲しいと言って泣いて
-        何度も 両親を困らせました
+      transcription: 私は「犬が欲しい」と言って泣いて、何度も両親を困らせました。
       meaning: 'Time after time, I annoyed my parents, saying, "I want a dog!” and crying. '
     tags: *a1
   - id: 2b9aedf8-c1c0-495e-9aba-b4c38fcadd08
     start: 02:51.797
     end: 03:04.337
     fields:
-      transcription: |-
-        私が高校の入学試験に合格した時
-        両親は
-        おめでとう
-        子供の時から欲しがっていた犬を買ってあげたよ
-        と言ってお祝いをくれました
+      transcription: 私が高校の入学試験に合格した時、両親は「おめでとう。子供の時から欲しがっていた犬を買ってあげたよ」と言ってお祝いをくれました。
       meaning: "When I passed my high school entrance exams, my parents said, \"Congratulations, we've bought you the dog you wanted since you were a child,\" and gave me a celebratory gift. "
     tags: *a1
   - id: 7a5be4a3-f681-4371-9ad0-686fe424f41b
     start: 03:05.441
     end: 03:25.861
     fields:
-      transcription: |-
-        中には AIBOという犬の形をしたロボットが入っていました
-        AIBO は 世界で初めて作られたペットロボットでした
-        初めは 本当の犬じゃなくてガッカリしたけれど
-        私はすぐ AIBO が好きになりました
+      transcription: 中にはAIBOという犬の形をしたロボットが入っていました。AIBOは世界で初めて作られたペットロボットでした。初めは本当の犬じゃなくてがっかりしたけれど、私はすぐAIBOが好きになりました。
       meaning: Inside there was a dog-shaped robot called an AIBO. The AIBO was the first pet robot to be produced in the world. While at first I was disappointed that it wasn't a real dog, I immediately grew fond of the AIBO.
     tags: *a1
   - id: d9e20b2c-c898-4796-9b9b-61b9832f3e83
     start: 03:27.48
     end: 03:45.64
     fields:
-      transcription: |-
-        AIBO は最初は立つことのほかには何もできませんでしたが
-        すぐに歩くようになって
-        色々なことを覚えていきました
-        まず私がつけた
-        ポチという名前と
-        私と両親の顔を覚えました
+      transcription: AIBOは最初は立つことの他には何も出来ませんでしたが、すぐに歩くようになって、色々なことを覚えていきました。まず、私がつけた「ポチ」という名前と私と両親の顔を覚えました。
       meaning: "At first, the AIBO couldn't do anything except stand, but soon he started to walk and continued to learn many different things. First of all, he learned (and remembered) the name I gave him, \"Pochi,\" and my parents' and my faces. "
     tags: *a1
   - id: 01cab17d-e52b-4b71-8747-ce78d58a4be3
     start: 03:47.349
     end: 03:53.969
     fields:
-      transcription: |-
-        それから
-        立ったり歩いたりし始めて
-        私が言ったことが理解できるようになりました
+      transcription: それから、立ったり歩いたりし始めて、私が言ったことが理解できるようになりました。
       meaning: "After that, he started to stand up and walk around and he came to understand what I said. "
     tags: *a1
   - id: 5815e5d1-3ad2-4275-a78e-5ab4af814d24
     start: 03:55.428
     end: 04:10.048
     fields:
-      transcription: |-
-        私は毎日学校から帰ると
-        ポチと話したり遊んだりしました
-        ポチは 私が家にいない時は
-        一人で部屋でボールで遊んだり寝たりしていたようです
+      transcription: 私は毎日学校から帰ると、ポチと話したり遊んだりしました。ポチは私が家にいない時は、一人で部屋でボールで遊んだり、寝たりしていたようです。
       meaning: "Every day when I came home from school, I talked and played with Pochi. It seems that when I wasn't home, Pochi was playing with a ball or sleeping in my room by himself. "
     tags: *a1
   - id: 989a1665-b68a-4e74-b7f7-829e0f4d64de
     start: 04:11.96
     end: 04:20.46
     fields:
-      transcription: |-
-        大学に入って家を出ることになった時も
-        ポチと一緒なら 寂しくないだろうと思ったので
-        連れて行きました
+      transcription: 大学に入って家を出ることになった時も、ポチと一緒なら寂しくないだろうと思ったので、連れて行きました。
       meaning: "Even when the time came for me to enter university and leave home, I thought that if I was with Pochi I wouldn't be lonely, so I brought him with me. "
     tags: *a1
   - id: b97775eb-38a8-45fb-911d-76f62d2ec860
     start: 04:21.688
     end: 04:40.788
     fields:
-      transcription: |-
-        ポチは3年前に動かなくなってしまったけれど
-        今も私のそばにはポチがいます
-        AIBO はもう作られていないそうで 残念ですが
-        これからはもっと色々なペットロボットが生まれて
-        人々を楽しませてくれると思います
+      transcription: |
+        ポチは三年前に動かなくなってしまったけれど、今も私のそばにはポチがいます。AIBOはもう作られていないそうで残念ですが、これからはもっと色々なペットロボットが生まれて、人々を楽しませてくれると思います。
       meaning: Three years ago Pochi stopped moving, but he is with me even now. I heard that AIBOs are no longer being made, which is unfortunate, but I think that in the future more pet robots of all kinds will be born and will entertain people.
     tags: *a1
   - id: a4e34675-a5a6-4186-8d4f-6cc4cdbca062
     start: 04:43.607
     end: 04:58.247
     fields:
-      transcription: |-
-        パロ や AIBO は 一緒に住めるペットのようなロボットだが
-        その他にも 犬の散歩をするとかダンスをするとか
-        楽器を演奏するとか色々なことができる人型ロボットが作られている
+      transcription: パロやAIBOは、一緒に住めるペットのようなロボットだが、その他にも、犬の散歩をするとか、ダンスをするとか、楽器を演奏するとか色々なことが出来る人型ロボットが作られている。
       meaning: "Paro and the AIBO are pet-like robots that can live with you, but, besides those, human-like robots are being made that can do various things like walk dogs, dance, and play musical instruments. "
     tags: *a1
   - id: 727b978d-818f-41b4-b812-5bca93efac0d
     start: 04:58.767
     end: 05:06.647
     fields:
-      transcription: |-
-        それに
-        まだ 人形にはなっていないけれど
-        自分で考えたり 学習したりするロボットもあるそうだ
+      transcription: それに、まだ人型にはなっていないけれど、自分で考えたり学習したりするロボットもあるそうだ。
       meaning: "In addition, it is said that although they are not in human form yet there are robots that can think and learn on their own. "
     tags: *a1
   - id: 2fd2f39d-674f-49f2-b046-03d3433ea66a
     start: 05:07.217
     end: 05:23.277
     fields:
-      transcription: |-
-        近い将来私たちが 人型のロボットと生活して一緒にテレビを見て笑ったり 食事をしたり
-        友達のように話したりする日が来るかもしれない
-        もちろん 掃除や洗濯もしてもらえたら最高だけど
+      transcription: 近い将来、私達が人型のロボットと生活して、一緒にテレビを見て笑ったり食事をしたり、友達のように話したりする日が来るかもしれない。もちろん、掃除や洗濯もしてもらえたら、最高だけど。
       meaning: In the near future, the day may come when we will live together with human-shaped robots, laughing, watching TV, eating meals, and talking like we do with our friends. Of course, it would be perfect if those robots could clean and do laundry for us, too.
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
@@ -5586,7 +5546,7 @@ clips:
     start: 04:52.42
     end: 05:07.72
     fields:
-      transcription: その他、日本のプロ野球では、ピッチャーがバッターにデッドボール を与えてしまったら、帽子を脱いでバッターに謝るが、これも「心」を大切にする 例の一つだと言えるのではないだろうか。
+      transcription: その他、日本のプロ野球では、ピッチャーがバッターにデッドボールを与えてしまったら、帽子を脱いでバッターに謝るが、これも「心」を大切にする例の一つだと言えるのではないだろうか。
       meaning: Additionally, in Japanese professional baseball when a batter is hit by a pitch, the pitcher removes his hat and apologizes to the batter. We could say that this is another example of the importance of “spirit.”
     tags:
       - tobira04
@@ -5677,7 +5637,7 @@ clips:
     start: 00:35.077
     end: 00:37.717
     fields:
-      transcription: 主将の山田さんの日は 黒いですね
+      transcription: 主将の山田さんの帯は黒いですね
     tags:
       &a1
       - tobira04
@@ -5786,7 +5746,7 @@ clips:
     start: 02:57.16
     end: 03:10.877
     fields:
-      transcription: 何回も失敗を繰り返しましたが、48歳の時、ついに「チキンラーメンという」袋入りインスタントラーメンの商品化に成功し、そのラーメンは大ヒットしました。
+      transcription: 何回も失敗を繰り返しましたが、48歳の時、ついに「チキンラーメン」という袋入りインスタントラーメンの商品化に成功し、そのラーメンは大ヒットしました。
       meaning: He failed countless times, but at the age of 48 he finally succeeded in commercializing an instant ramen in a pouch called “Chikin Ramen,” and it became a big hit.
     tags:
       - tobira05
@@ -5894,12 +5854,7 @@ clips:
     start: 00:14.644
     end: 00:35.544
     fields:
-      transcription: |-
-        日本語には苦しい時の神頼みという言葉がある
-        何か苦しいことや困ったことがあると
-        神様仏様どうか助けてくださいと言って
-        一生懸命お願いするけれど
-        何もない時は神様や仏様のことはあまり考えていないという意味である
+      transcription: 日本語には「苦しい時の神頼み」という言葉がある。何か苦しい事や困った事があると「神様、 仏様、どうか助けて下さい」と言って一生懸命お願いするけれど、何もない時は、神様や仏様の ことはあまり考えていないという意味である。
       meaning: In Japanese, there’s a phrase “Men pray to the gods only when they are in trouble.” It means that when there is an agonizing or troublesome situation, people pray very hard, saying, “Gods, Buddha, please help me,” but they don’t think very much about the gods or the Buddha when they have no problems.
     tags:
       &a1
@@ -5908,12 +5863,7 @@ clips:
     start: 00:36.32
     end: 00:46.84
     fields:
-      transcription: |-
-        また
-        家の中に神棚と仏壇の
-        どちらも置いてあって
-        朝晩 神様と仏様の両方に
-        お祈りをする人々もいる
+      transcription: また、家の中に神棚と仏壇のどちらも置いてあっ て、朝晩、神様と仏様の両方にお祈りをする人々もいる。
       meaning: Furthermore, there are some people who have both a household Shinto shrine and a Buddhist altar in their homes and pray to both Shinto gods and the Buddha in the morning and evening.
     tags:
       - tobira06
@@ -5921,29 +5871,15 @@ clips:
     start: 00:47.64
     end: 01:03.94
     fields:
-      transcription: |-
-        神道も仏教も共に生活の中にあるのだ
-        一つの神だけを信じている
-        一神教の人がこの事を聞いたら
-        どうして神様と仏様を同時に祭ることができるのか
-        不思議に思うかもしれない
+      transcription: |
+        神道も仏教も共に生活の中にあるのだ。一つの神だけを信じている一神教の人がこのことを聞いたら、どうして神様と仏様を同時に祭ることが出来るのか不思議に思うかもしれない。
       meaning: (This means that) Shinto and Buddhism coexist in everyday life. When people from monotheistic religions, who believe in one god alone, hear about this, they may wonder how people can deify Shinto gods and the Buddha simultaneously.
     tags: *a1
   - id: 4cc88710-a858-4bf2-89ab-0d8cb1cebba4
     start: 01:05.14
     end: 01:33.776
     fields:
-      transcription: |-
-        日本人の生活を見ると
-        神棚と仏壇を祭る他にも
-        もっと色々な宗教的習慣や行事があることに気が付くだろう
-        まずお正月には初詣と言って
-        人々は神社やお寺にお参りに行き
-        お守りや御札をもらう
-        そしてそれを車につけたり
-        財布の中に入れたりして
-        不幸が起きないように
-        幸福が来るようにと願う
+      transcription: 日本人の生活を見ると、神棚と仏壇を祭る他にも、もっと色々な宗教的習慣や行事があることに気がつくだろう。まず、お正月には「初詣」といって、人々は神社やお寺にお参りに行き、お守りやお札をもらう。そして、それを車につけたり財布の中に入れたりして、不幸が起きないように、幸福が来るようにと願う。
       meaning: When you look at Japanese people’s lives, you will probably notice that besides having Shinto shrines and Buddhist altars, they have a variety of other religious customs and events. First of all, on New Year’s Day people go to visit shrines or temples and receive good luck charms and talismans; this is called hatsumōde. Then, they put these charms and talismans in their cars or inside their wallets, wishing for bad luck not to happen and for happiness to come.
     tags:
       - tobira06
@@ -5951,69 +5887,45 @@ clips:
     start: 01:34.8
     end: 01:48.7
     fields:
-      transcription: |-
-        2月には節分という行事があって
-        鬼は外
-        福は内
-        と大声で叫びながら豆をまく
-        これは幸福は家の中に
-        不幸は外にと祈る行事だ
+      transcription: ２月には「節分」という行事があって、「鬼は外、福は内」と大声で叫びながら、豆をまく。これは、幸福は家の中に、不幸は外に、と祈る行事だ。
       meaning: In February, there is an event called Setsubun, when people scatter beans while shouting in a loud voice, “Devils out! Fortune it!” This is an event when people pray for good luck to come inside the house and bad luck to go outside.
     tags: *a1
   - id: bd0c652f-3413-469c-80d1-b7ce4017ea93
     start: 01:49.2
     end: 01:57.84
     fields:
-      transcription: また、春と秋のお彼岸や8月のお盆は先祖を敬う日として多くの人がお墓参りに行く
+      transcription: |
+        また、春と秋のお彼岸や８月のお盆は、先祖を敬う日として、多くの人がお墓参りに行く。
       meaning: Then, during the equinoctial weeks in spring and autumn and Obon (the Festival of the Dead) in August, many people visit graves in order to honor their deceased ancestors.
     tags: *a1
   - id: 5e7ab6e2-baa5-40a2-a145-272b43ce067b
     start: 01:58.824
     end: 02:22.904
     fields:
-      transcription: |-
-        その他
-        11月には
-        七五三という行事があり
-        男の子の場合は
-        3歳と5歳
-        女の子の場合は3歳と7歳になると
-        親が子供を神社に連れて行く
-        元気な子供に育ったことを神様に感謝し
-        そしてこれからも健康に育つようにと 神様に祈るのだ
+      transcription: |
+        その他、１１月には「七五三」という行事があり、男の子の場合は３歳と５歳、女の子の場合は３歳と７歳になると、親が子供を神社に連れて行く。元気な子供に育ったことを神様に感謝し、そして、これからも健康に育つようにと神様に祈るのだ。
       meaning: Besides that, there is an event called Shichi-go-san (Seven-five-three), when parents take their children to Shinto shrines—for boys, at the ages of three and five and for girls, at the ages of three and seven. The parents thank the gods that their children have grown up to be healthy and pray to the gods that they continue to grow up in good health in the future, too.
     tags: *a1
   - id: 06066ceb-660f-44bc-ad4f-f93f90c6d84c
     start: 02:24.06
     end: 02:44.8
     fields:
-      transcription: |-
-        12月にはクリスマスの行事を楽しむ
-        キリスト教信者でない人でも
-        クリスマスツリーを飾ったり
-        クリスマスプレゼントを交換し合ったりしてクリスマスを祝う
-        また結婚する時には
-        式を教会で挙げる人もいれば
-        お寺や神社で挙げる人もいる
+      transcription: １２月には、クリスマスの行事を楽しむ。キリスト教信者ではない人でも、クリスマスツリーを飾ったり、クリスマスプレゼントを交換し合ったりして、クリスマスを祝う。また、結婚する時には、式を教会で挙げる人もいれば、お寺や神社で挙げる人もいる。
       meaning: In December, people enjoy Christmas events. Even people who are not followers of Christianity celebrate Christmas, doing things such as decorating Christmas trees or exchanging Christmas presents. Furthermore, when they get married, some people hold their ceremony in a church, while others hold their ceremony in a temple or shrine.
     tags: *a1
   - id: 631bc61f-2e65-4cc3-934d-2d49c4c717e9
     start: 02:46.02
     end: 02:52.14
     fields:
-      transcription: そして、死んだら大抵仏教式のお葬式をしてもらってお墓に入る
+      transcription: |
+        そして、死んだら、たいてい仏教式のお葬式をしてもらって、お墓に入る。
       meaning: Finally, after someone dies, they are usually buried after having a Buddhist funeral.
     tags: *a1
   - id: a5ab7c6e-cfc3-490e-a5e9-b633077d4acd
     start: 02:53.26
     end: 03:18.2
     fields:
-      transcription: |-
-        日本ではなぜこのように色々な宗教が共に存在することができるのだろうか
-        これは日本に昔からある 神道について考えてみれば分かるかもしれない
-        神道というのは 多神教で
-        日本では昔から 海や山や木や石など
-        周りの色々な物や場所に神様がいると考えられてきた
+      transcription: 日本ではなぜこのように色々な宗教が共に存在することが出来るのだろうか。これは、日本に昔からある神道について考えてみれば、分かるかもしれない。神道というのは多神教で、日本では昔から海や山や木や石など、周りの色々な物や場所に神様がいると考えられてきた。
       meaning: |-
         We wonder why various religions can coexist in
         Japan like this, We may understand this if we think about Shinto, which has existed in Japan since ancient times. Shinto is a polytheistic religion, and in Japan it has long been believed that there are gods in many different things and places around us, such as the sea, mountains, trees, and stones.
@@ -6022,59 +5934,44 @@ clips:
     start: 03:19.42
     end: 03:37.06
     fields:
-      transcription: |-
-        720年に書かれた日本書紀という古い歴史の本には
-        そんな神々についての物語がたくさんある
-        その神話の神様たちは
-        楽しく歌ったり踊ったり
-        怒って喧嘩したりしてとても人間的だ
+      transcription: ７２０年に書かれた「日本書紀」という古い歴史の本には、そんな神々についての物語がたくさんある。その神話の神様達は、楽しく歌ったり踊ったり、怒って喧嘩したりして、とても人間的だ。
       meaning: There are many stories about those gods in Nihon Shoki, an old history book which was written in the year 720 A.D. The gods of these myths are very humanlike, doing things like singing and dancing merrily or becoming angry and fighting.
     tags: *a1
   - id: 2dbaace6-f083-4aee-9200-6a6c96a180de
     start: 03:38.164
     end: 03:48.664
     fields:
-      transcription: |-
-        日本全国にはそんな神様を祭った神社がたくさんあって
-        日本人は何かがあるとその色々な神様の所にお参りに行く
+      transcription: |
+        日本全国にはそんな神様を祭った神社がたくさんあって、日本人は何かがあると、その色々な神様のところにお参りに行く。
       meaning: There are many shrines devoted to these kinds of gods throughout Japan, and Japanese people visit the shrines of these gods on various occasions.
     tags: *a1
   - id: 660cfc91-f4f6-4d61-bc6f-236723af0f0d
     start: 03:50.164
     end: 04:05.104
     fields:
-      transcription: |-
-        例えば
-        家やビルを建てるときは
-        土地の神様に
-        いい高校や大学に合格したい時は受験の神様に
-        恋人が欲しい時は
-        縁結びの神様のところに行ってお祈りをする
+      transcription: 例えば、家やビルを建てる時は土地の神様に、いい高校や大学に合格したい時は受験の神様に、恋人が欲しい時は縁結びの神様のところに行ってお祈りをする。
       meaning: For example, people go to (the shrine of) the land gods when constructing a house or a building, to (the shrine of) the exam gods when they want to be accepted into a good high school or university, and to (the shrine of) the matchmaking gods when they want a sweetheart.
     tags: *a1
   - id: 9b1b2803-c317-48f2-bb19-f099dd1b74dd
     start: 04:06.004
     end: 04:10.264
     fields:
-      transcription: 目的によって、それぞれお参りに行く神様が違うのだ
+      transcription: 目的によって、それぞれお参りに行く神様が違うのだ。
       meaning: The gods they visit differ depending on their purpose.
     tags: *a1
   - id: a7d13b7c-f9f6-4118-8eaa-f1c28b761e6c
     start: 04:11.32
     end: 04:18.5
     fields:
-      transcription: |-
-        最近ではインターネットビジネスのための it の神様
-        なんていう神様も現れたらしい
+      transcription: |
+        最近では、インターネットビジネスのための「ITの神様」なんていう神様も現れたらしい。
       meaning: Recently, it is even said that a god dedicated to IT business, called the “IT God,” has appeared.
     tags: *a1
   - id: 0bc86596-ecf4-4dc0-ab77-8a3f25ad4bc9
     start: 04:19.48
     end: 04:39.731
     fields:
-      transcription: |-
-        このように、神道は自然や場所、物など、あらゆるところに神様が存在するという日本人の宗教的意識を作ったと考えられる。
-        だから、 外国から他の宗教や新しい神様が入ってきても、自然に受け入れられたのかもしれない。
+      transcription: このように、神道は、自然や場所、物など、あらゆるところに神様が存在するという日本人の宗教的意識を作ったと考えられる。だから、外国から他の宗教や新しい神様が入ってきても、自然に受け入れられたのかもしれない。
       meaning: In this way, Shinto is thought to have formed the Japanese religious consciousness, in which gods exist everywhere, such as in nature, places, and things. Therefore, even though other religions and new gods entered Japan from abroad, that might explain why they were accepted naturally.
     tags:
       - tobira06
@@ -6082,36 +5979,22 @@ clips:
     start: 04:40.503
     end: 04:51.983
     fields:
-      transcription: そして、神道が人々の生活の中で生き続けてきたように、仏教や キリスト教の行事なども、日本人の生活の一部になっているのだ。
+      transcription: |
+        そして、神道が人々の生活の中で生き続けてきたように、仏教やキリスト教の行事なども、日本人の生活の一部になっているのだ。
       meaning: And, just as Shinto has continued to be alive within people’s daily lives, so too have Buddhist events, Christian events, etc., become a part of Japanese people's daily lives.
     tags: *a1
   - id: 6433ba5d-7cbd-4562-91a5-a80702cea15a
     start: 04:53.24
     end: 05:14.38
     fields:
-      transcription: |-
-        宗教についてのある調査で
-        あなたは何か 宗教を熱心に信じていますか
-        という質問に
-        はいと答えた人は
-        日本国民全体の
-        9%だけだったらしい
-        それでは
-        91%の人は宗教を全然 信じていないと言えるだろうか
+      transcription: 宗教についてのある調査で「あなたは何か宗教を熱心に信じていますか」という質問に「はい」と答えた人は、日本国民全体の９％だけだったらしい。それでは、９１％の人は宗教を全然信じていないと言えるだろうか。
       meaning: In a survey on religion, the percentage of people who answered “yes” to the question “Do you devoutly believe in any religion?” was only 9% of all Japanese citizens. If that is so, does that mean 91% of the people do not believe in religion at all?
     tags: *a1
   - id: 76fa1af8-ae21-4164-8b4e-3f35230dcbee
     start: 05:15.095
     end: 05:38.78
     fields:
-      transcription: |-
-        実は
-        日本人は宗教を強く信じているという意識はなくても
-        毎日の生活の中でお参りしたり
-        祈ったり
-        祝ったりするなど 宗教的習慣や行事を大切にしている
-        そして そんな人々の生活が
-        神様や仏様が一緒に存在できる社会を作っていると言えるのではないだろうか
+      transcription: 実は、日本人は宗教を強く信じているという意識はなくても、毎日の生活の中でお参りしたり祈ったり祝ったりするなど、宗教的習慣や行事を大切にしている。そして、そんな人々の生活が、神様や仏様が一緒に存在できる社会を作っていると言えるのではないだろうか。
       meaning: Actually, even though Japanese people do not have any awareness of believing strongly in religion, during everyday life they still value religious customs and events, such as visiting temples and shrines, praying, and celebrating. We could say that this kind of daily life is what forms a society in which religions such as Shinto and Buddhism can coexist.
     tags:
       - tobira06
@@ -6134,10 +6017,8 @@ clips:
     start: 00:10.3
     end: 00:27.72
     fields:
-      transcription: |-
-        日本の神話にはギリシャ神話のように人間的な神様がたくさん出てきて活躍する面白い話が多く残っている
-        その中に天照大神という神様についての有名な話がある
-        どんな話か読んでみよう
+      transcription: |
+        日本の神話には、ギリシャ神話のように、人間的な神様がたくさん出てきて活躍する面白い話が多く残っている。その中に天照大神という神様についての有名な話がある。どんな話か読んでみよう。
       meaning: In Japanese mythology, just as in Greek mythology, many interesting stories remain in which many humanlike gods appear and play active roles. Among these, there is a famous story about the goddess called Amaterasu-Ōmikami. Let’s read and see what kind of story it is.
     tags:
       &a1
@@ -6146,14 +6027,14 @@ clips:
     start: 00:29.48
     end: 00:44.1
     fields:
-      transcription: 昔々、大昔、日本には天照大御神という、神様の中で最も偉い太陽の神様がいて、高天原という昔の日本を治めていました。
+      transcription: 昔々、大昔、日本には天照大神という、神様の中でもっとも偉い太陽の神様がいて、高天原という昔の日本を治めていました。
       meaning: Long ago, in ancient times in Japan there was a sun goddess called Amaterasu-Ōmikami, who was the highest ranking of all the gods and who ruled over ancient Japan, which was called Takamagahara.
     tags: *a1
   - id: 48268204-a7b4-48c7-9a2c-fdf37f31fe42
     start: 00:45.488
     end: 00:59.248
     fields:
-      transcription: 天照大御神には須佐之男命という弟の神様がいたのですが、須佐之男はとても乱暴で悪いことばかりするので、人々はとても困っていました。
+      transcription: 天照大神には須佐之男命という弟の神様がいたのですが、須佐之男はとても乱暴で悪いことばかりするので、人々はとても困っていました。
       meaning: Amaterasu-Ōmikami had a younger brother god named Susano 'o-no-mikoto, but because Susano’o was very violent and did nothing but bad things, the people were very troubled.
     tags:
       - tobira06
@@ -6161,9 +6042,7 @@ clips:
     start: 01:00.548
     end: 01:19.704
     fields:
-      transcription: |-
-        ある日、須佐之男は天照の侍女を間違って殺してしまいました。
-        それを知った天照は弟の乱暴に怒って岩の中に隠れてしまい、昼だった世界は急に夜のように暗くなってしまいました。
+      transcription: ある日、須佐之男は天照の侍女を間違って殺してしまいました。それを知った天照は弟の乱暴に怒って岩の中に隠れてしまい、昼だった世界は急に夜のように暗くなってしまいました。
       meaning: One day, Susano’o killed Amaterasu’s lady attendant by mistake. Amaterasu, after finding out about this, became angry at her brother’s violence and hid herself away inside a rock (cave) so that the world, which had been in daylight, suddenly became as dark as night.
     tags:
       - tobira06
@@ -6171,84 +6050,64 @@ clips:
     start: 01:21.4
     end: 01:31.18
     fields:
-      transcription: 太陽の神様の天照が岩の中に隠れて外に出てこないため、世界は何日も真っ暗な日が続きました
+      transcription: 太陽の神様の天照が岩の中に隠れて外に出て来ないため、世界は何日も真っ暗な日が続きました。
       meaning: Because Amaterasu, the sun goddess, hid inside the rock (cave) and did not come out, several days of complete darkness continued in the world.
     tags: *a1
   - id: b5359410-3560-4400-951f-8e1f416edc86
     start: 01:33.064
     end: 01:48.724
     fields:
-      transcription: |-
-        困ってしまった 他の神様たちは
-        天照に岩の外に出てきてもらおうと
-        彼女が隠れている 岩戸の前でお酒を飲みながら歌ったり踊ったり笑ったりして
-        大騒ぎをしました
+      transcription: 困ってしまった他の神様達は、天照に岩の外に出て来てもらおうと、彼女が隠れている岩戸の前でお酒を飲みながら歌ったり踊ったり笑ったりして、大騒ぎをしました。
       meaning: The other gods, who were at a loss, tried to get Amaterasu to come out by drinking, singing, dancing, and making a great noise in front of the rock door where she was hiding.
     tags: *a1
   - id: 461c6b05-a603-481d-8866-46d7daf03340
     start: 01:49.88
     end: 01:57.26
     fields:
-      transcription: |-
-        そうすれば
-        アマテラスはみんなが 何をしているんだろうと思って
-        外に出てくると考えたわけです
+      transcription: そうすれば、天照はみんなが何をしているんだろうと思って外に出て来ると考えたわけです。
       meaning: They thought that by doing so Amaterasu would wonder what everyone was doing and come outside.
     tags: *a1
   - id: 35e6cfb5-6050-4d1f-b580-9bdfa9489707
     start: 01:58.34
     end: 02:04.8
     fields:
-      transcription: |-
-        神様たちは
-        真っ暗な中で一生懸命歌ったり踊ったり笑ったりしました
+      transcription: 神様達は真っ暗な中で、一生懸命歌った踊ったり、笑ったりしました。
       meaning: The gods sang, danced, and laughed with utmost effort in complete darkness.
     tags: *a1
   - id: 5afaa74e-3263-4045-b26b-dae64857d99d
     start: 02:06.12
     end: 02:21.08
     fields:
-      transcription: |-
-        外の大騒ぎを不思議に思った 天照が
-        少しだけ 岩戸を開けてみると
-        その瞬間を待っていた 力持ちの神様が
-        岩戸を全部開けて
-        天照を岩の外に出してしまいました
+      transcription: 外の大騒ぎを不思議に思った天照が少しだけ岩戸を開けてみると、その瞬間を待っていた力持ちの神様が岩戸を全部開けて、天照を岩の外に出してしまいました。
       meaning: Thinking the great noise outside was strange, Amaterasu opened the rock door only a little bit; then, a mighty god, who had been waiting for that moment, opened the rock door all the way and pulled Amaterasu out of the rock.
     tags: *a1
   - id: 731e6f23-896d-4a9f-b773-06b7ea42ffb0
     start: 02:22.56
     end: 02:29.18
     fields:
-      transcription: |-
-        天照が外に出てきたので
-        世界は明るくなって
-        また 昼が戻ってきたそうです
+      transcription: |
+        天照が外に出て来たので、世界は明るくなって、また昼が戻ってきたそうです。
       meaning: Because Amaterasu came outside, the world was said to have become bright, and daylight returned once again.
     tags: *a1
   - id: e456010d-1883-421e-9359-8c5e623958fa
     start: 02:30.44
     end: 02:43.42
     fields:
-      transcription: |-
-        この話は昔の人が日食を説明するために作った神話ではないかと言われている
-        何も知らなかった昔の人々にとって日食はとても怖いことだったのだろう
+      transcription: この話は、昔の人が日食を説明するために作った神話ではないかと言われている。何も知らなかった昔の人々にとって、日食はとても怖いことだったのだろう。
       meaning: It is said that this story was probably a myth that ancient people created to explain a solar eclipse. To ancient people who did not know anything about them, solar eclipses must have been very frightening things.
     tags: *a1
   - id: 20cb8601-6838-468f-a374-f7564a27a934
     start: 02:44.076
     end: 02:56.996
     fields:
-      transcription: また、この神話からもわかるように、昔から神様は日本人にとって、人間と同じように笑ったり、怒ったり、喧嘩したりする親しみやすい存在だったのだ。
+      transcription: また、この神話からも分かるように、昔から神様は日本人にとって、人間と同じように笑ったり怒ったり喧嘩したりする親しみやすい存在だったのだ。
       meaning: In addition, as we understand from this myth, since early times the gods, who did things like laugh, get angry, and fight like human beings, were approachable to Japanese people.
     tags: *a1
   - id: b6962cad-d0ea-41cf-b0bd-6d5b1f0c38ce
     start: 02:57.78
     end: 03:15.94
     fields:
-      transcription: |-
-        この天照大神を祭る神社は、日本全国に18000ぐらいあると言われていて、毎年多くの人々がお参りに訪れる。
-        天照大神は21世紀の現在でも大忙し！ということだ。
+      transcription: この天照大神を祭る神社は、日本全国に一万八千ぐらいあると言われていて、毎年多くの人々がお参りに訪れる。天照大神は二十一世紀の現在でも大忙し！ということだ。
       meaning: There are said to be around 18,000 shrines throughout Japan dedicated to Amaterasu-Ōmikami, and every year many people go to visit them. This means that even today in the 21st century Amaterasu-Ōmikami is very busy!
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
@@ -6359,7 +6218,7 @@ clips:
     start: 01:01.94
     end: 01:14.78
     fields:
-      transcription: 今、日本のストーリーマンガは世界中で楽しまれていて、アジア、オセアニア、ヨーロッパ など色々な国の言葉に翻訳されて本になり、読者を広げている。
+      transcription: 今、日本のストーリーマンガは世界中で楽しまれていて、アジア、オセアニア、ヨーロッパなど色々な国の言葉に翻訳されて本になり、読者を広げている。
       meaning: "Right now, Japanese story manga are enjoyed throughout the world: they are translated into many different languages, such as those of Asia, Oceania, and Europe; made into books; and read by a growing number of readers."
     tags: *a1
   - id: 9a2a4536-e138-461d-87e9-82c0c8e5b306
@@ -6395,9 +6254,7 @@ clips:
     end: 02:23.34
     fields:
       transcription: |-
-        それまで欧米の本や雑誌は右から左にページをめくる読み方が一般的だったが、漫画ファンの
-        「右上から左下に読む日本の漫画と同じスタイルにしてほしい」というリクエストで、アメリカで売られる日本の漫画雑誌も、日本と同じように
-        左から右にページを開くスタイルで作られるようになったのだ。
+        それまで欧米の本や雑誌は右から左にページをめくる読み方が一般的だったが、漫画ファンの「右上から左下に読む日本の漫画と同じスタイルにしてほしい」というリクエストで、アメリカで売られる日本の漫画雑誌も、日本と同じように左から右にページを開くスタイルで作られるようになったのだ。
       meaning: Until then, European and American books and magazines were generally read by flipping the pages from right to left, but, because of requests from manga fans who said, “We want you to make them in the same style as Japanese manga, reading from top right to bottom left,” the Japanese manga magazines sold in the US began to be made in the style in which the pages open from left to right, the same as in Japan.
     tags: *a1
   - id: 611726c9-f69a-4f7c-bb63-d369dfb7c82e
@@ -6568,7 +6425,7 @@ clips:
         ところで何か壊れたって言いませんでしたか
         あ、トイレです
         壊れたわけじゃないんですが
-        あいつからゴボゴボと変な音が聞こえるんです
+        パイプからゴボゴボと変な音が聞こえるんです
         水もよく流れないみたいだし
         ああ、そう。何か詰まっているかもしれないから、明日見てみますよ
         はい。よろしくお願いします
@@ -7112,10 +6969,7 @@ clips:
     start: 00:14.18
     end: 00:29.26
     fields:
-      transcription: |-
-        東京の街を歩く
-        次々と 目に入ってくるカラフルなデザインの自動販売機
-        日本を訪れた外国人は自動販売機が町中にある風景に驚くらしい
+      transcription: 東京の街を歩く。次々と目に入ってくるカラフルなデザインの自動販売機。日本を訪れた外国人は自動販売機が街中にある風景に驚くらしい。
       meaning: You walk through the city of Tokyo. One after another, vending machines with colorful designs come into view. It is said that foreigners who visit Japan are surprised at the vending machine scene in the city.
     tags:
       &a1
@@ -7124,233 +6978,119 @@ clips:
     start: 00:30.42
     end: 00:51.76
     fields:
-      transcription: |-
-        アメリカでは 自動販売機は最低 建物の中にあって
-        外に置かれていることはほとんどないが
-        日本ではどこにでも 自動販売機がある
-        街の中だけでなく 田舎の誰も通らないような道や
-        山の中にさえ 自動販売機が置いてあるほどだ
+      transcription: |
+        アメリカでは自動販売機はたいてい建物の中にあって、外に置かれていることはほとんどないが、日本ではどこにでも自動販売機がある。街の中だけでなく、田舎の誰も通らないような道や、山の中にさえ、自動販売機が置いてあるほどだ。
       meaning: In the United States, vending machines are usually inside buildings and are almost never placed outside, but in Japan there are vending machines everywhere, to such an extent that they are placed not only in cities but also along country roads where no one seems to travel, and even in the mountains.
     tags: *a1
   - id: b1aebafd-811e-4fd5-82e1-0a13407e6fa7
     start: 00:53.16
     end: 01:26.3
     fields:
-      transcription: |-
-        自動販売機はどこの国でも発達しているわけではなく
-        100万台以上ある国は
-        世界でもアメリカと日本
-        そして ドイツだけだ
-        2005年のデータでは
-        アメリカが世界一
-        783 万代で
-        日本が世界に
-        558万台だったが
-        人口と国の広さを考えた場合
-        きゅうりとは 日本が世界一と言えるだろう
+      transcription: 自動販売機はどこの国でも発達しているわけではなく、１００万台以上ある国は世界でもアメリ力と日本、そしてドイツだけだ。２００５年のデータでは、アメリカが世界一（７８３万台）で、日本が世界二位（５５８万台）だったが、人口と国の広さを考えた場合、普及率は日本が世界一と言えるだろう。
       meaning: "It is not true that vending machines are widespread in all countries: throughout the world, the only countries with more than 1 million machines are the US, Japan, and Germany. According to data from 2005, the United States had the most in the world (7 million 830 thousand machines) and Japan was in second place (5 million 580 thousand machines), but, if the country’s population and size are considered, we can say that Japan has the most machines in the world in terms of population and territory."
     tags: *a1
   - id: 0ffc9266-2882-46c3-8d66-4a2d7f2cc989
     start: 01:27.296
     end: 01:42.296
     fields:
-      transcription: |-
-        自動販売機による売り上げも日本が世界一で
-        日本一忙しい自動販売機は
-        1代で1ヶ月に
-        25000本の飲み物を売る
-        その売り上げは 300万円にもなるという
+      transcription: |
+        自動販売機による売り上げも日本が世界一で、日本一忙しい自動販売機は、１台で１か月に２万５０００本の飲み物を売り、その売り上げは３００万円にもなるという。
       meaning: Japan is also first in the world in sales from vending machines, and it is said that the busiest vending machine in Japan sells 25,000 bottled drinks per month from a single machine, with sales reaching as high as 3 million yen.
     tags: *a1
   - id: b65a9977-8bc0-497f-a7ed-36ec9754ed62
     start: 01:43.576
     end: 02:08.236
     fields:
-      transcription: |-
-        お茶を買ったら暖かかった
-        自動販売機が話してびっくりした
-        というのは
-        外国人からよく聞く 話だ
-        日本の自動販売機は
-        夏には冷たい飲み物
-        冬には温かい飲み物というように
-        気温の変化に合わせて
-        飲み物を冷たくしたり
-        暖かくしたりして出してくれる
+      transcription: 「お茶を買ったら温かかった」「自動販売機が話してびっくりした」というのは外国人からよく聞く話だ。日本の自動販売機は、夏には冷たい飲み物、冬には温かい飲み物というように、気温の変化に合わせて、飲み物を冷たくしたり、温かくしたりして出してくれる。
       meaning: Things like “When I bought some tea, it was warm” and “I was surprised when the vending machine spoke” are often heard from foreigners. Japanese vending machines serve drinks according to the temperature by chilling or warming them, such as cold drinks in the summer and hot drinks in the winter.
     tags: *a1
   - id: 54a077cb-d100-47ec-b217-1335027d6576
     start: 02:09.18
     end: 02:41.84
     fields:
-      transcription: |-
-        また話す 自動販売機 もある
-        例えば
-        ある飲み物のメーカーが関西地区においている
-        おしゃべり 自動販売機は
-        関西弁で話をするそうだ
-        お客が自動販売機の前に立つと
-        いらっしゃいませ ではなく
-        ライド
-        ポイ
-        お釣りがない時は すいません 今 釣り銭 切らしてますね
-        まるで 関西人のように話すらしい
+      transcription: |
+        また、話す自動販売機もある。例えば、ある飲み物のメーカーが関西地区に置いている「おしゃべり自動販売機」は、関西弁で話をするそうだ。お客が自動販売機の前に立つと、「いらっしゃいませ」ではなく「まいど!」と言い、おつりがない時は「すんません。今、つり銭切らしてますねん」と、まるで関西人のように話すらしい。
       meaning: Furthermore, there are some vending machines that talk. For example, the Chatting Vending Machine, which a certain drink maker places in the Kansai region, is said to speak using Kansai dialect, It is said that when a customer stands in front of the vending machine, instead of saying “Irasshaimase” (Welcome), it says “Maido!”; and when it does not have change, it says “Sunmasen. Ima, tsurisen kirashitemasu nen.” (I’m sorry; we're out of change), speaking just like a person from the Kansai region.
     tags: *a1
   - id: a6f738a7-f59d-4966-8aa1-4de1757a1653
     start: 02:44.1
     end: 03:02.64
     fields:
-      transcription: |-
-        この他にもひいたばかりの豆でコーヒーを入れるとか
-        冷凍食品を電子レンジで温めてから出す
-        カップラーメンにお湯を入れて出すと言った自動販売機 もあって
-        日本の自動販売機は驚くほど賢い
+      transcription: この他にも、ひいたばかりの豆でコーヒーを入れるとか、冷凍食品を電子レンジで温めてから出す、カップラーメンにお湯を入れて出すといった自動販売機もあって、日本の自動販売機は驚くほど賢い。
       meaning: Besides the above, there are machines that make coffee from freshly-ground beans, machines that serve frozen food after warming it in a microwave oven, and machines that serve cup ramen after putting the hot water in. Japan’s vending machines are surprisingly clever.
     tags: *a1
   - id: f4df2b40-26d4-4f94-8eca-352daa26cbe6
     start: 03:03.74
     end: 03:21.76
     fields:
-      transcription: |-
-        自動販売機で売っている商品も色々で
-        飲み物や食品は言うまでもなく
-        タバコ から 漫画
-        週刊誌 CD
-        花
-        ネイルアート
-        ドッキング
-        おもちゃ
-        そして名刺 までもある
+      transcription: |
+        自動販売機で売っている商品も色々で、飲み物や食品は言うまでもなく、タバコからマンガ、週刊誌、CD、花、ネイルアート、ストッキング、おもちゃ、そして名刺までもある。
       meaning: "There are also many different goods sold in vending machines: food and drinks, needless to say, but there are also cigarettes, manga, weekly magazines, CD’s, flowers, nail art (decorated false fingernails), stockings, toys, and even business cards."
     tags: *a1
   - id: 1591f1e8-3dd9-4d22-b9d8-06176ac40fe9
     start: 03:23.6
     end: 03:55.1
     fields:
-      transcription: |-
-        では日本では
-        なぜこのように広く 自動販売機が普及したのだろうか
-        一番の理由は
-        犯罪が少なくて安全だということだろう
-        泥棒にとって無人の販売機は
-        ここにはお金が入っているから盗んでくださいよ
-        と言っているように見える
-        従って 犯罪が多く危険なところでは
-        販売機は壊され
-        中の現金はすぐに盗まれてしまう
+      transcription: では、日本では、なぜこのように広く自動販売機が普及したのだろうか。一番の理由は、犯罪が少なくて安全だということだろう。泥棒にとって無人の販売機は「ここにはお金が入っているから、盗んで下さいよ」と言っているように見える。したがって、犯罪が多く危険な所では、販売機は壊され、中の現金はすぐに盗まれてしまう。
       meaning: So, why have vending machines proliferated this widely in Japan? The biggest reason is probably because Japan is safe, with little crime. To a burglar, an unmanned vending machine seems to be saying “There’s money in here! Please steal it.” Therefore, in dangerous areas with a lot of crime, vending machines are quickly broken open and the cash inside stolen.
     tags: *a1
   - id: 7265bab3-b4c3-48da-ad73-2001d6d6c67a
     start: 03:56.108
     end: 04:14.048
     fields:
-      transcription: |-
-        日本は以前ほど安全ではなくなったと言われているが
-        海外の多くの国と比べれば
-        まだそれほど危険というわけではない
-        だから
-        自動販売機が外に置いてあっても
-        壊されるようなことはほとんどないのだ
+      transcription: |
+        日本は以前ほど安全ではなくなったと言われているが、海外の多くの国と比べれば、まだそれほど危険というわけではない。だから、自動販売機が外に置いてあっても、壊されるようなことはほとんどないのだ。
       meaning: Although it is said that Japan has become less safe than it was in the past, if you compare it with many other countries, it is still not very dangerous. Therefore, even if vending machines are placed outside, they are hardly ever broken into.
     tags: *a1
   - id: 103fc7c4-ea45-4af2-99eb-cdbf29ce0b5c
     start: 04:16.428
     end: 04:32.988
     fields:
-      transcription: |-
-        自動販売機の文化史
-        という本の著者である
-        鷲巣力氏は
-        日本が自動販売機 大国となった理由として
-        技術に対する信頼感と
-        自動化を好む 社会の二つを挙げている
-      meaning: |-
-        Mr. Tsutomu Washizu, the author of the book entitled
-        The Cultural History of Vending Machines, gives two reasons why Japan has become a vending machine giant: a sense of trust in technology and a society that prefers automation.
+      transcription: 『自動販売機の文化史』という本の著者である鷲巣力氏は、日本が自動販売機大国となった理由として、「技術に対する信頼感」と「自動化を好む社会」の二つを挙げている。
+      meaning: "Mr. Tsutomu Washizu, the author of the book entitled The Cultural History of Vending Machines, gives two reasons why Japan has become a vending machine giant: a sense of trust in technology and a society that prefers automation."
     tags: *a1
   - id: 1687b349-c097-4c39-bb83-1273ee19224d
     start: 04:34.775
     end: 04:51.375
     fields:
-      transcription: |-
-        確かに 日本の高い技術力は世界的にも認められていて
-        日本製のものは
-        車でも冷蔵庫でも性能が良く
-        なかなか壊れない
-        したがって
-        機械に対する信頼も高い
+      transcription: 確かに日本の高い技術力は世界的にも認められていて、日本製のものは車でも冷蔵庫でも性能がよく、なかなか壊れない。したがって、機械に対する信頼も高い。
       meaning: Japan’s high technological power is certainly recognized by the world, and things made in Japan, whether automobiles or refrigerators, are high performers and do not break down easily. Therefore, (people’s) trust in technology is high.
     tags: *a1
   - id: 2880eaa0-0aec-4fc6-8f3e-b86ef143c4b3
     start: 04:52.32
     end: 05:13.68
     fields:
-      transcription: |-
-        また日本人は自動化されたものが好きだというのも事実だろう
-        タクシーに乗れば
-        ドアが自動で開いたり閉まったりするし
-        電車の切符を自動改札機に入れれば
-        すぐに改札を通ることができるし
-        手をたたけば電気がつく 電気スタンドまでもある
+      transcription: |
+        また、日本人は自動化されたものが好きだというのも事実だろう。タクシーに乗れば、ドアが自動で開いたり閉まったりするし、電車の切符を自動改札機に入れれば、すぐに改札を通ることが出来るし、手をたたけば電気がつく電気スタンドまでもある。
       meaning: Furthermore, it is also probably true that Japanese people like automated things. When you ride in a taxi, the doors automatically open and close; when you insert a train ticket in the automatic ticket gate, you can pass quickly through the gate; there are even lamps that turn on when you clap your hands.
     tags: *a1
   - id: 2c0b1750-1241-4b04-b853-f32481e8ee54
     start: 05:15.579
     end: 05:37.459
     fields:
-      transcription: |-
-        ビジネスという点から考えると
-        コストがあまりかからないことも自動販売機が普及した理由の一つだ
-        自動販売機は
-        無人で24時間ものを売ることができる上に
-        街の中に置いてあるから 商品の宣伝にも役に立つ というわけだ
+      transcription: ビジネスという点から考えると、コストがあまりかからないことも自動販売機が普及した理由の一つだ。自動販売機は、無人で２４時間ものを売ることが出来る上に、街の中に置いてあるから商品の宣伝にも役に立つというわけだ。
       meaning: When thinking about it from a business standpoint, another reason that vending machines have proliferated is the fact that the (overall) cost is low. That is, vending machines can sell things 24 hours a day without attendants, and, on top of that, they are helpful for product promotion because the machines are placed in the midst of a city.
     tags: *a1
   - id: ee54c370-7f3e-4286-ba24-2add729ebb3b
     start: 05:38.787
     end: 05:57.587
     fields:
-      transcription: |-
-        面白いことに
-        パリの街の主な通りには
-        自動販売機が1台もない そうだ
-        日本が自動販売機 大国になったのには
-        日本社会の特徴や日本人の考え方が
-        大きく影響しているのかもしれない
+      transcription: |
+        面白いことに、パリの街の主な通りには自動販売機が１台もないそうだ。日本が自動販売機大国になったのには、日本社会の特徴や日本人の考え方が大きく影響しているのかもしれない。
       meaning: (However,) Interestingly, it is said that on the main streets of Paris, there is not one single vending machine. Things such as the special characteristics of Japanese society and Japanese people’s way of thinking may have had a great influence on Japan’s becoming a vending machine world power.
     tags: *a1
   - id: dd4eb841-6b02-4d55-ae3a-e94e40133ed5
     start: 05:59.3
     end: 06:30.44
     fields:
-      transcription: |-
-        自動販売機はいつでも利用できて便利だと言う一方で
-        エネルギーの無駄遣いとか
-        未成年者でも酒やタバコが買えるなどといった 批判がある
-        だが
-        このような 批判に対しては
-        既に様々な対策がとられている
-        例えば
-        省エネ対策の代表的なものには
-        エコベンダーと呼ばれる
-        缶入りの飲み物のための自動販売機がある
+      transcription: 自動販売機はいつでも利用できて便利だという一方で、エネルギーの無駄遣いとか未成年者でも酒やタバコが買えるなどといった批判がある。だが、このような批判に対しては、すでに様々な対策がとられている。例えば、省エネ対策の代表的なものには、エコベンダーと呼ばれる缶入りの飲み物のための自動販売機がある。
       meaning: While vending machines can be used any time and are convenient, there is also criticism that they are a waste of energy and that even minors are able to buy things like alcohol and cigarettes from them. However, various countermeasures are already being taken in response to these criticisms. For example, a canned beverage vending machine known as Eco Vender is a representative countermeasure for energy-saving.
     tags: *a1
   - id: 5e33449d-c361-42b4-8c21-1260293b4bc1
     start: 06:32.58
     end: 07:02.28
     fields:
-      transcription: |-
-        エコベンダーは夏の間 7月から9月は
-        午前中に商品を冷やしておき
-        電力消費がピークになる午後には冷やすのを止めると言う
-        省エネ型自動販売機で
-        現在
-        ほとんど 日本全国で使われている
-        このシステムの導入によって
-        1年の電力消費量が
-        10%から15%減ったそうだ
+      transcription: エコベンダーは、夏の間（７月〜９月）は午前中に商品を冷やしておき、電力消費がピークになる午後には冷やすのをやめるという省エネ型自動販売機で、現在、ほとんど日本全国で使われている。このシステムの導入によって、１年の電力消費量が１０％〜１５％減ったそうだ。
       meaning: EcoVender is an energy-saving type of vending machine, which, during the summer (July-September), pre-chills beverages in the morning and stops chilling them in the afternoon when energy consumption is at its peak. Today these machines are used throughout most of Japan. Because of the introduction of this system, the machines’ annual energy consumption is said to have decreased by 10 to 15 percent.
     tags: *a1
   - id: de6d2d62-d9d2-4497-80a1-1bd023fb1fbd
@@ -7358,12 +7098,8 @@ clips:
     end: 07:34.1
     fields:
       transcription: |-
-        未成年に酒やタバコを売らない対策としては 深夜の販売を規制するとか
-        ID カードや特別な IC カードがないと買えないようにすると言ったことが
-        なわれている
-        日本中の どんな所にもあって
-        日本の特徴の一つと言える自動販売機
-        ある調査によると日本人の8割以上が 生活に必要なものだと答えている
+        未成年に酒やタバコを売らない対策としては、深夜の販売を規制するとか、IDカードや特別なICカードがないと買えないようにするといったことが行われている。
+        日本中のどんな所にもあって、日本の特徴の一つと言える自動販売機。ある調査によると、日本人の８割以上が生活に必要なものだと答えている。
       meaning: |-
         To avoid selling alcohol or cigarettes to minors, there are measures being taken such as regulating sales late at night or making it impossible to buy these things without an ID card or a special IC card.
         Vending machines are everywhere in Japan and can be said to be one of the special characteristics of Japan. According to one survey, more than 80% of Japanese people answered that vending machines are necessary for their everyday life.
@@ -7373,13 +7109,7 @@ clips:
     start: 07:35.58
     end: 08:00.32
     fields:
-      transcription: |-
-        最近では飲み物を買うと募金ができる チャリティー 自販機も増えているそうだ
-        便利なだけでなく
-        楽しくて社会の役にも立つ 自動販売機
-        これからも日本の自動販売機は
-        どんどん進化を続けていくだろう
-        将来どんな自動販売機が出てくるか楽しみである
+      transcription: 最近では飲み物を買うと募金が出来る「チャリティー自販機」も増えているそうだ。便利なだけでなく、楽しくて、社会の役にも立つ自動販売機!これからも日本の自動販売機はどんどん進化を続けていくだろう。将来、どんな自動販売機が出てくるか楽しみである。
       meaning: Recently, it is said that “charity vending machines,” which allow you to donate money when you buy a beverage, are also increasing. Vending machines are not only convenient; they are also fun and useful for society! Japanese vending machines will probably continue to evolve rapidly from now on, too. We look forward to seeing what kind of vending machines emerge in the future.
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
@@ -7429,18 +7159,7 @@ clips:
     start: 00:14.04
     end: 00:39.42
     fields:
-      transcription: |-
-        日本には
-        様々な文化や伝統的な習慣がありますが
-        それらのすべてが
-        日本で独自に生まれたものなのでしょうか
-        答えはいいえです
-        現在
-        一般的に
-        日本の伝統的習慣や
-        文化と考えられているものの中には
-        元々は外国から入ってきて
-        日本的に変化したものが少なくありません
+      transcription: 日本には様々な文化や伝統的な習慣がありますが、それらのすべてが日本で独自に生まれたものなのでしょうか。答えは「いいえ」です。現在、一般的に日本の伝統的習慣や文化と考えられているものの中には、もともとは外国から入って来て日本的に変化したものが少なくありません。
       meaning: "There are many different examples of culture and traditional customs in Japan, but are they all things that originated in Japan? The answer is “no.” Among those things generally thought of today as traditional Japanese customs or culture, there are quite a few that entered Japan originally from other countries and were adapted to become typically Japanese(lit. and changed in a Japanese way). "
     tags:
       &a1
@@ -7449,138 +7168,74 @@ clips:
     start: 00:40.44
     end: 00:59.96
     fields:
-      transcription: |-
-        例えば
-        ひらがな や カタカナは
-        古代中国から入ってきた
-        漢字をもとにして
-        日本人が作り出したものですし
-        和食の代表的な料理である X プラモ
-        ポルトガルの
-        天ペロという 揚げ物料理が
-        日本に伝わって変化したものなので
+      transcription: 例えば、ひらがなやカタカナは古代中国から入って来た漢字をもとにして日本人が作り出したものですし、和食の代表的な料理である天ぷらも、ポルトガルのtemperoという揚げ物料理が日本に伝わって変化したものなのです。
       meaning: "For example, hiragana and katakana were created by Japanese people based on kanji that entered Japan from ancient China, and tempura, a typical Japanese dish, is also something that came to Japan and was transformed from a Portuguese deep-fried dish called tempero. "
     tags: *a1
   - id: 4d981abd-b3ec-4b40-b81a-7e4509901bc9
     start: 01:01.36
     end: 01:12.66
     fields:
-      transcription: |-
-        この課は
-        日本の歴史を通して
-        日本人が
-        どのように外国の文化を取り入れ
-        それを
-        日本独自のものにしていったかを見てみましょう
+      transcription: |
+        この課では、日本の歴史を通して、日本人がどのように外国の文化を取り入れ、それを日本独自のものにしていったかを見てみましょう。
       meaning: In this lesson, we will use Japanese history to see how the Japanese have adopted foreign culture and made it into something unique to Japan.
     tags: *a1
   - id: 74913018-dbbd-46ef-9d24-1a0f9e7778ce
     start: 01:14.82
     end: 01:27.3
     fields:
-      transcription: |-
-        日本人が初めて外国から輸入したものは
-        米だと言えるかもしれない
-        米の発祥地は中国の雲南からインドのアッサム地方にかけてだと言われている
+      transcription: 日本人が初めて外国から輸入したものは、米だと言えるかもしれない。米の発祥地は中国の雲南からインドのアッサム地方にかけてだと言われている。
       meaning: "We may be able to say that the first thing the Japanese imported from other countries was rice. The birthplace of rice is said to stretch from Yunnan, China, to Assam, India. "
     tags: *a1
   - id: 39b5e4fd-5419-4ca1-a34f-c7a7d2aec2e4
     start: 01:28.42
     end: 01:48.0
     fields:
-      transcription: |-
-        日本の時代で言うと 縄文時代の後期
-        約4000年前
-        の間に
-        中国や朝鮮半島を通って
-        日本に米の作り方 が伝わったそうだ
-        その後
-        弥生時代になって 各地に広がり
-        日本人の主食になった
+      transcription: 日本の時代で言うと縄文時代の後期（約四千年前）の間に、中国や朝鮮半島を通って日本に米の作り方が伝わったそうだ。その後、弥生時代になって各地に広がり、日本人の主食になった。
       meaning: "According to Japanese period names, during the late Jomon Period (about 4,000 years ago), the method of making rice is said to have spread through China and the Korean Peninsula to Japan. Then, after the start of the Yayoi Period, it spread across the country and became the main staple of the Japanese people. "
     tags: *a1
   - id: bf67ceb4-e05d-456f-81de-34b311343273
     start: 01:49.272
     end: 02:05.152
     fields:
-      transcription: |-
-        そして 米は主食になったばかりでなく
-        もっと後の時代には
-        税金として集められたり
-        給料として 武士に
-        支払われたりするようになり
-        日本の経済に
-        なくてはならないものになった
+      transcription: そして、米は主食になったばかりでなく、もっと後の時代には、税金として集められたり給料として武士に支払われたりするようになり、日本の経済になくてはならないものになった。
       meaning: "And, not only had rice become a main staple; much later, it started to be collected as tax or paid to samurai as salary, and it became an essential part of the Japanese economy. "
     tags: *a1
   - id: 9743465e-b1d6-4d31-ab1d-78da8afe454e
     start: 02:06.148
     end: 02:26.848
     fields:
-      transcription: |-
-        日本人は季節や天候の変化を大変気にするが
-        これは日本人が米作りを非常に大事なことと考え
-        どうやって効率よく米を生産するかが
-        日本人の生活の仕方や考え方に強い影響を与えてきたこととか
-        関係があると言われている
+      transcription: |
+        日本人は季節や天候の変化を大変気にするが、これは日本人が米作りを非常に大事なことと考え、どうやって効率よく米を生産するかが、日本人の生活の仕方や考え方に強い影響を与えてきたことと関係があると言われている。
       meaning: (It is known that) Japanese people pay a lot of attention to changes in season and climate. This is said to be related to the fact that the Japanese considered rice growing to be very important, and that the way of producing rice efficiently has greatly influenced their lifestyle and way of thinking.
     tags: *a1
   - id: 9f6eadb4-c5a3-40b2-bde7-890a3d152249
     start: 02:28.62
     end: 02:51.86
     fields:
-      transcription: |-
-        弥生時代に続く 古墳時代から奈良時代にかけては
-        日本は中国や朝鮮の影響を強く受け
-        法律を始め
-        建築
-        服装
-        料理などを これらの国から輸入した
-        神道 中心だった 日本の宗教 大きく変えた仏教が変わったのも
-        この古墳時代だった
+      transcription: 弥生時代に続く古墳時代から奈良時代にかけては、日本は中国や朝鮮の影響を強く受け、法律をはじめ、建築、服装、料理などをこれらの国から輸入した。神道中心だった日本の宗教を大きく変えた仏教が伝わったのも、この古墳時代だった。
       meaning: "From the Kofun Period, which followed the Yayoi Period, and into the Nara Period, Japan was greatly influenced by China and Korea, and it imported their laws, as well as (styles of) architecture, clothing, and cooking, from these countries. It was also in this Kofun Period that Buddhism spread to Japan and greatly changed Japanese religion, which had been dominated by Shinto until then. "
     tags: *a1
   - id: cb034825-3e21-49ad-9581-c10ee4831252
     start: 02:52.68
     end: 03:03.86
     fields:
-      transcription: |-
-        日本の歴史書によると
-        朝鮮半島にあった百済という国の王が
-        日本に仏像と経典を送ったのが
-        日本での仏教の始まりだ そうだ
+      transcription: |
+        日本の歴史書によると、朝鮮半島にあった百済という国の王が日本に仏像と教典を送ったのが日本での仏教の始まりだそうだ。
       meaning: According to a Japanese history book, the start of Buddhism in Japan was said to be the time when the king of a country called Baekje on the Korean Peninsula (Kudara in Japanese) sent a Buddha image and Buddhist texts to Japan.
     tags: *a1
   - id: 604dd661-1cbc-4fc1-adbc-b20fa1f989bc
     start: 03:05.2
     end: 03:36.16
     fields:
-      transcription: |-
-        奈良時代の次の平安時代は
-        外国との交流がほとんどなくなり
-        それまで日本に伝わった様々なものが
-        日本的に変化していった時代である
-        ひらがなができたのも この時代で
-        中国風の服装が着物に変化したり
-        仏教の新しい宗派が生まれたり
-        源氏物語というひらがな を用いた
-        世界一 古くて長いと言われている恋愛小説が書かれたのも
-        平安時代だった
+      transcription: |
+        奈良時代の次の平安時代は、外国との交流がほとんどなくなり、それまで日本に伝わった様々なものが日本的に変化していった時代である。ひらがなができたのもこの時代で、中国風の服装が着物に変化したり、仏教の新しい宗派が生まれたり、源氏物語というひらがなを用いた世界一古くて長いと言われている恋愛小説が書かれたのも、平安時代だった。
       meaning: The Heian Period, which followed the Nara Period, was the time when Japan’s exchange with other countries became almost nonexistent and when the various things that had spread to Japan were transformed to become typically Japanese. This was the Period in which hiragana was created. The Heian period was also the period in which Chinese-style clothing changed to kimono, new schools of Buddhism emerged, and the Tale of Genji, which is said to be the oldest and longest love story in the world, was written using hiragana.
     tags: *a1
   - id: ad1b8e0c-2fc1-453f-83e1-3f79c65b8f7f
     start: 03:37.54
     end: 04:04.12
     fields:
-      transcription: |-
-        ところで
-        前という言葉を聞いたことがあるだろうか
-        前は 禅宗という仏教の宗派の一つなのだが
-        前と聞くと日本の国を思い浮かべる人は多いに違いない
-        しかし
-        実は前の始まりは日本ではなく 中国で
-        平安時代の終わり頃に中国に留学した
-        栄西という僧によって日本に紹介されたのだ
+      transcription: ところで、禅という言葉を聞いたことがあるだろうか。禅は「禅宗」という仏教の宗派の一つなのだが、禅と聞くと日本の国を思い浮かべる人は多いに違いない。しかし、実は禅の始まりは日本ではなく中国で、平安時代の終わり頃に中国に留学した栄西という僧によって日本に紹介されたのだ。
       meaning: |-
         By the way, have you heard of the word Zen before?
         Zen is a Buddhist school called Zenshu, and there must be many people who think of Japan when they hear the word Zen. However, the fact is that Zen began not in Japan but in China, and was introduced to Japan around the end of the Heian Period by a monk named Eisai, who had studied in China. 
@@ -7589,107 +7244,61 @@ clips:
     start: 04:04.747
     end: 04:14.487
     fields:
-      transcription: |-
-        その時
-        前とともに伝わったのがお茶を飲む習慣で
-        それが日本の代表的文化である茶道へと発展していった
+      transcription: |
+        その時、禅と共に伝わったのがお茶を飲む習慣で、それが日本の代表的文化である茶道へと発展していった。
       meaning: At that time, the custom of drinking tea was imported to Japan along with Zen, and that developed into the tea ceremony, a representative example of Japanese culture.
     tags: *a1
   - id: 753b5791-33bf-46c7-b611-ebbf0673c9e7
     start: 04:15.98
     end: 04:39.92
     fields:
-      transcription: |-
-        平安時代の次の鎌倉時代は武士の力が強くなった時代で
-        彼らが前とお茶を好んだため
-        日本全国に
-        前やお茶を飲む習慣が広がった
-        そしてその後
-        千利休によって作動が確立され
-        少しずつ変化しながら
-        現代のような茶道の形になったのである
+      transcription: |
+        平安時代の次の鎌倉時代は武士の力が強くなった時代で、彼らが禅とお茶を好んだため、日本全国に禅やお茶を飲む習慣が広がった。そして、その後、千利休によって茶道が確立され、少しずつ変化しながら、現代のような茶道の形になったのである。
       meaning: The Kamakura Period, which came after the Heian Period, is the period in which samurai became powerful, and, because they liked Zen and tea, Zen and the custom of drinking tea spread throughout Japan. And, later, the tea ceremony was established by Sen no Rikyu, and, changing little by little, it became the tea ceremony of the present day.
     tags: *a1
   - id: 361b8ee2-eef9-4f21-9082-43931ae8ecce
     start: 04:41.655
     end: 05:06.995
     fields:
-      transcription: |-
-        さて
-        古代から室町時代に至るまで
-        日本は 主にアジアの国々から強い影響を受けてきたが
-        日本中で多くの大名が戦った戦国時代から
-        16世紀後半の安土桃山時代になると
-        ポルトガル人やスペイン人が
-        キリスト教の布教や貿易を目的に日本を訪れるようになった
+      transcription: さて、古代から室町時代に至るまで、日本は主にアジアの国々から強い影響を受けてきたが、日本中で多くの大名が戦った戦国時代から１６世紀後半の安土桃山時代になると、ポルトガル人やスペイン人がキリスト教の布教や貿易を目的に日本を訪れるようになった。
       meaning: "So, from ancient times up to the Muromachi Period, Japan was strongly influenced mainly by Asian countries. However, when it went from the Sengoku Period, in which many feudal lords fought throughout Japan, to the Azuchi-Momoyama Period in the late 16th century, Portuguese and Spanish people began to visit Japan for the purpose of propagating Christianity and trading. "
     tags: *a1
   - id: 3bafd6fe-d5ef-40da-94ef-a0f37716d31e
     start: 05:07.983
     end: 05:28.083
     fields:
-      transcription: |-
-        そして
-        日本の文化の中にヨーロッパの影響が現れるようになった
-        その当時の日本人は彼らのことを何万人
-        つまり
-        南に住む野蛮な人々と呼んだので
-        その文化も南蛮文化 と呼ばれていた
-        今でいう 西洋文化のことだ
+      transcription: |
+        そして、日本の文化の中にヨーロッパの影響が現れるようになった。その当時の日本人は彼らのことを「南蛮人」、つまり「南に住む野蛮な人々」と呼んだので、その文化も南蛮文化と呼ばれていた。今で言う西洋文化のことだ。
       meaning: And, Europe’s influence began to appear in Japanese culture. Because the Japanese at that time called these people Nanbanjin, meaning “savage people who live in the south,” their culture was known as Nanban culture. In present-day terms, it would mean Western culture.
     tags: *a1
   - id: 8a705f89-f414-4603-8cab-56b4a477bd20
     start: 05:29.5
     end: 05:56.18
     fields:
-      transcription: |-
-        戦国時代に日本統一を目指した
-        織田信長 という人物は
-        特に 南蛮文化に興味を持った大名で
-        キリスト教の布教を許し
-        ワインを飲んだり
-        マントを着たりして洋風の生活様式を積極的に生活の中に取り入れたそうだ
-        ヨーロッパから入ってきた鉄砲を大名同士の戦いに
-        最初に用いたのも 信長である
+      transcription: |
+        戦国時代に日本統一を目指した織田信長という人物は、特に南蛮文化に興味を持った大名で、キリスト教の布教を許し、ワインを飲んだり、マントを着たりして洋風の生活様式を積極的に生活の中に取り入れたそうだ。ヨーロッパから入って来た鉄砲を大名同士の戦いに最初に用いたのも信長である。
       meaning: It is said that during the Sengoku Period a feudal lord named Oda Nobunaga, whose goal was to unify Japan, was interested in Nanban culture (lit. a person named Oda Nobunaga, who aimed at unifying Japan, was a feudal lord who was interested in Nanban culture) and actively incorporated Western lifestyles into his life, allowing the propagation of Christianity, drinking wine, and wearing a cloak. Nobunaga was also the first to use rifles from Europe to fight with other feudal lords.
     tags: *a1
   - id: df37e831-9911-454c-a811-53deffa9457c
     start: 05:57.475
     end: 06:12.095
     fields:
-      transcription: |-
-        次の江戸
-        徳川時代は鎖国の規制によって
-        長崎の出島という場所以外では
-        外国人が自由に日本を訪れたり
-        日本人が外国の物を輸入したりすることができなかった
+      transcription: 次の江戸（徳川）時代は鎖国の規制によって、長崎の出島という場所以外では、外国人が自由に日本を訪れたり、日本人が外国のものを輸入したりすることが出来なかった。
       meaning: "In the following Edo (Tokugawa) Period, due to a national isolation policy, except for a place called Dejima in Nagasaki, foreigners were not allowed to visit Japan freely, and Japanese people were not allowed to import foreign goods and other things. "
     tags: *a1
   - id: 39f7e661-bc00-459a-a35d-9337904a2a0c
     start: 06:13.539
     end: 06:29.159
     fields:
-      transcription: |-
-        江戸時代は約250年も続き
-        当時の 江戸
-        今の東京は世界中で一番人口の多い
-        独自の芸術文化が発達した
-        清潔で
-        文化レベルの高い年だったと言われている
+      transcription: |
+        江戸時代は約２５０年も続き、当時の江戸（今の東京）は世界中で一番人口の多い、独自の芸術文化が発達した清潔で文化レベルの高い都市だったと言われている。
       meaning: The Edo Period continued for (as long as) about 250 years, and it is said that Edo (present-day Tokyo) at that time was the most populated city in the world, had developed its own aesthetic style (lit. artistic culture), was clean, and had a highly sophisticated culture.
     tags: *a1
   - id: 7c3fbb6e-e0f9-4bb6-badc-dd3e08de1612
     start: 06:30.04
     end: 06:47.72
     fields:
-      transcription: |-
-        江戸時代が終わり 明治維新が始まると
-        日本は 洋服や靴
-        郵便制度
-        法律など
-        欧米のものや 制度や文化を積極的に取り入れ
-        近代化を目指した
-        その中の一つに 肉を食べることがある
+      transcription: 江戸時代が終わり明治維新が始まると、日本は、洋服や靴、郵便制度、法律など、欧米のものや制度や文化を積極的に取り入れ、近代化を目指した。その中の一つに肉を食べることがある。
       meaning: "When the Edo Period ended and the Meiji Restoration started, Japan aspired to modernization, actively adopting European and American things, systems, and culture, such as clothes and shoes, postal systems, and laws. One of those things was the custom of eating meat. "
     tags:
       - tobira11
@@ -7697,15 +7306,8 @@ clips:
     start: 06:48.48
     end: 07:16.3
     fields:
-      transcription: |-
-        日本では仏教の影響で
-        平安時代から江戸時代までは特別な場合以外は
-        肉を食べることは禁止されていた
-        しかし
-        明治政府は日本人も欧米人のように 肉を食べるべきだと考え 国民
-        にんにくを食べることを勧めた
-        そんな状況の中で牛肉を使った日本の代表的な食べ物
-        すき焼きが生まれたのである
+      transcription: |
+        日本では仏教の影響で平安時代から江戸時代までは、特別な場合以外は肉を食べることは禁止されていた。しかし、明治政府は日本人も欧米人のように肉を食べるべきだと考え、国民に肉を食べることを勧めた。そんな状況の中で牛肉を使った日本の代表的な食べ物「すき焼き」が生まれたのである。
       meaning: In Japan, because of the influence of Buddhism, from the Heian to the Edo Period, eating meat was prohibited except for special cases. However, the Meiji government believed that Japanese people ought to eat meat like Europeans and Americans did, and encouraged the citizens to eat meat. In such circumstances, sukiyaki, a representative Japanese dish using beef, was born.
     tags:
       - tobira11
@@ -7713,14 +7315,8 @@ clips:
     start: 07:18.163
     end: 07:46.847
     fields:
-      transcription: |-
-        このように長い歴史の中で 日本は数多くの国々の影響を受けてきた
-        日本独特の習慣や文化に見えるものでも
-        実はその元になるものは外国から入ってきたものが少なくないのだ
-        今ではクリスマスやバレンタインデー なども
-        一般的な日本の行事になっているが
-        それらも欧米の習慣を取り入れながら
-        日本独自の方法で祝っている
+      transcription: |
+        このように、長い歴史の中で日本は数多くの国々の影響を受けてきた。日本独特の習慣や文化に見えるものでも、実はその元になるものは外国から入ってきたものが少なくないのだ。今ではクリスマスやバレンタインデーなども一般的な日本の行事になっているが、それらも欧米の習慣を取り入れながら、日本独自の方法で祝っている。
       meaning: In this way, Japan has been influenced by a number of countries during its long history. Even among the things that look like uniquely Japanese customs or culture there are many whose origins are actually from foreign countries. Presently, things like Christmas and Valentine’s Day have become general Japanese events, these, too, are celebrated in a uniquely Japanese way while incorporating European and American customs.
     tags:
       - tobira11
@@ -7728,29 +7324,14 @@ clips:
     start: 07:48.775
     end: 08:07.495
     fields:
-      transcription: |-
-        時々日本の文化は真似ばかりで独自の文化が無いと言われ
-        批判されることがある
-        しかし
-        日本に輸入された文化や物は
-        長い年月をかけて 日本的に変化し
-        日本の伝統文化となり
-        歴史となり
-        習慣となったのだ
+      transcription: ときどき日本の文化は真似ばかりで独自の文化がないと言われ、批判されることがある。しかし、日本に輸入された文化やものは長い年月をかけて日本的に変化し、日本の伝統文化となり、歴史となり、習慣となったのだ。
       meaning: "Sometimes Japanese culture is criticized, being said to be full of imitations and without any original aspects (lit. culture). However, culture and things that were imported into Japan were transformed over a long period of time in a Japanese way, and have become (a part of) Japanese traditional culture, history, and customs. "
     tags: *a1
   - id: c03a0b94-65e2-44eb-b49a-8619e190d6f5
     start: 08:08.133
     end: 08:34.613
     fields:
-      transcription: |-
-        日本人はこれからも多くの外国の文化や物を輸入し
-        それらに日本的な味を加えて発展させていくだろう
-        そして
-        今度は日本が世界に向かって 新しい文化を輸出するようになっていくはずだ
-        すでに日本の寿司が世界中で食べられ
-        アニメや漫画
-        ゲームなどが世界の若者文化に大きな影響を与えているように
+      transcription: 日本人はこれからも多くの外国の文化やものを輸入し、それらに日本的な味を加えて発展させていくだろう。そして、今度は日本が世界に向かって新しい文化を輸出するようになっていくはずだ。すでに日本の寿司が世界中で食べられ、アニメやマンガ、ゲームなどが世界の若者文化に大きな影響を与えているように。
       meaning: In the future, too, Japanese people will probably continue to import culture and items from many countries and develop them, adding a Japanese flavor. And, it is expected that Japan will begin to export new aspects of its culture to the world, just as Japanese sushi is already eaten around the world, and just as things like anime, manga and (video) games are greatly influencing the world’s youth culture.
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
@@ -7800,7 +7381,7 @@ clips:
     start: 00:13.62
     end: 00:16.7
     fields:
-      transcription: 皆さんはわ和紙という言葉を知っていますか
+      transcription: 皆さんは「和紙」という言葉を知っていますか。
       meaning: "Do you know the word washi? "
     tags:
       &a1
@@ -7809,34 +7390,22 @@ clips:
     start: 00:17.6
     end: 00:41.12
     fields:
-      transcription: |-
-        和紙の和 という字にはいろいろな意味がありますが
-        その一つに
-        日本
-        日本風
-        日本製 という意味があります
-        例えば皆さんもよく知っている和室は
-        日本風の畳の部屋のことで
-        和服は日本の服
-        つまり 着物のことです
-        だから 和紙は日本の紙ということになります
+      transcription: 和紙の「和」という字には色々な意味がありますが、その一つに「日本」「日本風」「日本製」という意味があります。例えば、皆さんもよく知っている和室は日本風の畳の部屋のことで、和服は日本の服、つまり着物のことです。だから和紙は日本の紙ということになります。
       meaning: "The character wa of washi has various meanings, and one set of meanings is “Japan,” “Japanese style,” or “Japan-made.” For example, washitsu, which you know well, means a Japanesestyle room with fatami mats (Japanese straw flooring), and wafuku means Japanese clothing—i.e., kimono. Therefore, washi means Japanese paper. "
     tags: *a1
   - id: c4085f36-f5ec-4c05-9779-e6d9e0b8db48
     start: 00:42.4
     end: 00:46.98
     fields:
-      transcription: では 日本の神である和紙とは一体どんな紙なのでしょうか
+      transcription: |
+        では、日本の紙である和紙とは、いったいどんな紙なのでしょうか。
       meaning: So, what kind of paper is washi, that is, Japanese paper?
     tags: *a1
   - id: b4df4bb1-48b2-4936-8b2b-6ba69c0b71e5
     start: 00:48.906
     end: 01:03.276
     fields:
-      transcription: |-
-        紙は紀元前176から141年頃に中国で発明さ
-        されたとされています
-        この紙の作り方が 奈良時代に朝鮮半島から日本に伝わってきました
+      transcription: 紙は紀元前１７６〜１４１年頃に中国で発明されたとされています。この紙の作り方が奈良時代に朝鮮半島から日本に伝わってきました。
       meaning: "It is believed that paper was invented in China (sometime) around 176-141 B.C. This method of paper making was introduced to Japan from the Korean Peninsula the Nara Period. "
     tags:
       - tobira12
@@ -7844,67 +7413,38 @@ clips:
     start: 01:04.819
     end: 01:23.479
     fields:
-      transcription: |-
-        中国で発明された紙がなぜ和紙と呼ばれるようになったかと言うと
-        日本にしかない植物を原料にしたり
-        日本独特の「流しすき」というやり方で紙を作ったりするようになって
-        原料や作り方が 日本風に変わってきたからです
+      transcription: |
+        中国で発明された紙がなぜ「和紙」と呼ばれるようになったかというと、日本にしかない植物を原料にしたり、日本独特の「流しすき」というやり方で紙を作ったりするようになって、原料や作り方が日本風に変わってきたからです。
       meaning: The reason why paper that was invented in China came to be called washi is that the raw materials and methods for making it were altered in a Japanese way, for example, using plants only available in Japan as raw materials and using a method unique to Japan called nagashisuki in making the paper.
     tags: *a1
   - id: 55b8b5a4-418a-4df3-8a16-74ea914215f9
     start: 01:25.071
     end: 01:45.771
     fields:
-      transcription: |-
-        和紙の第1の特長は
-        薄くて強いことです
-        その強さに関するエピソードの一つに
-        江戸のある商人が火事の時
-        大事な帳簿が燃えないように 井戸の中に隠し
-        火が消えた後 井戸から出して乾かしてまた使ったという話が残っています
+      transcription: 和紙の第一の特長は、薄くて強いことです。その強さに関するエピソードの一つに、江戸のある商人が火事の時、大事な帳簿が燃えないように井戸の中に隠し、火が消えた後、井戸から出して乾かして、また使ったという話が残っています。
       meaning: "The primary characteristic of washi is that it is thin and strong. In an anecdote having to do with its strength, there is a story that during a fire, one merchant in Edo hid an important account book in a well so it wouldn’t be burned, and when the fire was extinguished, he retrieved it from the well, dried it out, and used it again. "
     tags: *a1
   - id: 79a2a8f4-169d-4244-9149-9a58b5866c65
     start: 01:47.38
     end: 02:02.5
     fields:
-      transcription: |-
-        つまり
-        輪島 水に濡れても破れず
-        もう一度 乾かせば 前と同じように使えるほど強かったということです
-        これは現在私たちが 日常生活で使っている紙では考えられません
+      transcription: |
+        つまり、和紙は水にぬれても破れず、もう一度乾かせば前と同じように使えるほど強かったということです。これは、現在、私達が日常生活で使っている紙では考えられません。
       meaning: In short, that means that the washi was so strong it didn’t tear even when it got wet, and once dried it could be used just as before. This would be unimaginable for the paper that we use in our everyday lives today.
     tags: *a1
   - id: 0b819ead-b8d0-497d-a5aa-25065457eb8b
     start: 02:04.459
     end: 02:25.339
     fields:
-      transcription: |-
-        和紙には強さだけでなく
-        柔らかさや 暖かさもあります
-        日本人は昔から
-        これらの和紙の特長を生かし
-        籠や 皿のような小さい生活用品から
-        箪笥などの大きい家具まで
-        日常生活に必要な 様々なものには和紙を 使ってきました
+      transcription: 和紙には強さだけでなく柔らかさや温かさもあります。日本人は昔からこれらの和紙の特長を生かし、籠や皿のような小さい生活用品から箪笥などの大きい家具まで、日常生活に必要な様々なものに和紙を使ってきました。
       meaning: "Washi has not only strength but also flexibility and warmth. Since ancient times, Japanese people have made good use of these characteristics of washi and have made various things necessary for everyday life, from small daily goods such as baskets and plates, to large furniture such as chests of drawers. "
     tags: *a1
   - id: bd4d2b62-1756-43aa-a6cd-dc282e818211
     start: 02:26.16
     end: 02:56.703
     fields:
-      transcription: |-
-        竹や木と和紙で作られた籠
-        皿
-        箪笥などはどれも軽くて丈夫な上に
-        手触りも良く
-        鷲の暖かさが感じられます
-        また
-        和紙を通した光は柔らかく 優しくなることから
-        障子や電気スタンドにも使われています
-        そして
-        何度も 閉じたり 広げたりしなければならない傘や扇子には
-        わしの強さと 柔らかさの両方の特長が生かされています
+      transcription: |
+        竹や木と和紙で作られた籠、皿、箪笥などは、どれも軽くて丈夫な上に手触りもよく、和紙の温かさが感じられます。また、和紙を通した光は柔らかく優しくなることから、障子や電気スタンドにも使われています。そして、何度も閉じたり広げたりしなければならない傘や扇子には、和紙の強さと柔らかさの両方の特長が生かされています。
       meaning: Baskets, plates, and chests of drawers made with bamboo or wood combined with washi are all light, sturdy, and, on top of that, they feel nice to the touch and you can sense the warmth of washi from them. Furthermore, because light shining through washi becomes soft and gentle, it is used in shoji (sliding doors made of paper and wood) and lamps. Also, washi’s characteristics of strength and flexibility are both put to good use in umbrellas and paper fans, which we must open and close countless times.
     tags:
       - tobira12
@@ -7912,47 +7452,29 @@ clips:
     start: 02:57.647
     end: 03:15.447
     fields:
-      transcription: |-
-        和紙の使い方は時代と共に もっと多様になってきました
-        例えば わしの新しい利用法を開発しようとした技術者たちは
-        その薄さと強さをさらに改良し
-        電解コンデンサ 死というものを生み出しました
+      transcription: 和紙の使い方は時代と共に、もっと多様になってきました。例えば、和紙の新しい利用法を開発しようとした技術者達は、その薄さと強さをさらに改良し「電解コンデンサ紙」というものを生み出しました。
       meaning: "The uses of washi have become more diverse as time passes. For example, engineers trying to develop a new use for washi improved the thinness and strength further and created something called “electrolytic-capacitor paper.” "
     tags: *a1
   - id: b9083d13-0eff-404e-8125-e0136b4a69db
     start: 03:15.999
     end: 03:30.199
     fields:
-      transcription: |-
-        この電解コンデンサ氏は私たちが日常的に使っているテレビ
-        ビデオ
-        携帯電話
-        コンピューターなどに不可欠なもので
-        ほとんどの電気製品がこれなしでは動かないのだそうです
+      transcription: |
+        この電解コンデンサ紙は、私達が日常的に使っているテレビ、ビデオ、携帯電話、コンピュータなどに不可欠なもので、ほとんどの電気製品がこれなしでは動かないのだそうです。
       meaning: It is said that this electrolytic-capacitor paper is something that is essential to the televisions, video players, cellular phones, and computers that we use every day, and that most electronics would probably not work without it.
     tags: *a1
   - id: 373b3d51-7509-4fee-8eee-8dc707c5f4b5
     start: 03:31.44
     end: 03:52.38
     fields:
-      transcription: |-
-        実は面白いことに
-        和紙の和の字には仲良くする
-        うまく混ざるという意味もあります
-        日本特有の神であり
-        仲良くしてうまく混ざるという意味を持つ 和紙は
-        昔も今もその特徴を活かしながら
-        他のものと上手に混ざり合って違うものに生まれ変わっています
+      transcription: 実は、面白いことに、和紙の「和」の字には、「仲良くする」「うまく混ざる」という意味もあります。日本特有の紙であり「仲良くして、うまく混ざる」という意味を持つ「和紙」は、昔も今もその特長を生かしながら、他のものと上手に混ざり合って違うものに生まれ変わっています。
       meaning: "In fact, interestingly enough, the character wa in washi also has the meaning “to get along well” or “to blend well.” Both in the past and today, washi, which is Japan’s distinctive paper and has the meaning of “to get along well, to blend well,” has been skillfully blended with other things and reborn in different forms while making good use of its special characteristics. "
     tags: *a1
   - id: 9b551a0f-8d73-4944-990c-bb37d55d23e6
     start: 03:53.279
     end: 04:02.179
     fields:
-      transcription: |-
-        和紙のこの様なな 生かされ方を考えると
-        和紙は私たちに
-        調和のメッセージを送ってくれているような気がしませんか
+      transcription: 和紙のこのような生かされ方を考えると、和紙は私達に「調和」のメッセージを送ってくれているような気がしませんか。
       meaning: When thinking about these ways in which washi is used (lit. is made good use of), doesn’t it feel as if washi is sending us a message of chowa (harmony)?
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
@@ -7988,16 +7510,9 @@ clips:
     start: 00:13.899
     end: 00:44.684
     fields:
-      transcription: |-
-        終戦の時 私は小学校の1年生でした
-        校舎が足りず
-        青空教室で勉強しました
-        印象に残っているのが 菊池先生と言って
-        小学校四年と5年の時の担任だった女の先生です
-        小さい20代の優しい先生でした
-        もんぺ姿だったかな
-        よく僕ん家の前を通りかかると
-        中を覗いては声をかけてくれたものです
+      transcription: |
+        終戦の時、私は小学校の一年生でした。校舎が足りず、青空教室で勉強しました。印象に残っているのが、菊地先生といって、小学校四年と五年の時の担任だった女の先生です。
+        小さい、二十代の優しい先生でした。もんぺ姿だったかなあ、よく僕んちの前を通りかかると、中をのぞいては声をかけてくれたものです。
       meaning: |-
         At the end of the war, I was a first-year elementary school student. There weren’t enough school buildings, so we studied in open-air classes.
         The thing that stands out in my memory was Miss Kikuchi, a female teacher who was my homeroom teacher when I was in fourth and fifth grade.
@@ -8008,12 +7523,7 @@ clips:
     start: 00:45.82
     end: 01:03.14
     fields:
-      transcription: |-
-        暮れなずむ 秋の夕暮れ
-        その景色を作文に書いたことがある
-        だんだん 日が落ち
-        辺りが紫色から橙色に変わっていく 夕餉の煙りも
-        暗くなるにつれて刻一刻 変わる 自然描写をした
+      transcription: 暮れなずむ秋の夕暮れ。その景色を作文に書いたことがある。だんだん日が落ち、辺りが紫色から、だいだい色に変わっていく夕餉の煙りも。暗くなるに連れて刻一刻変わる自然描写をした。
       meaning: The lingering evening glow after an autumn sunset—I wrote about that scenery in a composition once and also about the smoke from the kitchen fire (lit. from the evening meal) while the sun slowly set and the surroundings changed from purple to orange. I described nature changing moment by moment as it grew dark.
     tags:
       - tobira13
@@ -8021,15 +7531,9 @@ clips:
     start: 01:03.908
     end: 01:31.748
     fields:
-      transcription: |-
-        細かく観察してよく書いていますと先生はものすごく褒めてくれたんです
-        丸坊主の頭を撫でてくれた手は暖かかった
-        今でも思い出します
-        勝手なもので
-        褒められたことしか覚えていませんね
-        それで文章を書くことに興味を持った
-        教室でよく作文を読み上げられ
-        それじゃあ 小説家になろうというのが 僕の夢になった
+      transcription: |
+        「細かく観察して、よく書いています」と、先生はものすごくほめてくれたんです。丸坊主の頭をなでてくれた手は温かった。今でも思い出します。
+        勝手なもので、ほめられたことしか覚えていませんね。それで文章を書くことに興味を持った。教室でよく作文を読み上げられ、「それじゃあ、小説家になろう」というのが、僕の夢になった。
       meaning: Miss Kikuchi (lit.teacher) complemented me greatly, saying, “You observed closely and described it well.” The hand that patted my shaved head was warm. | still recall it. Selfishly, | only remember being praised. Because of that, | became interested in writing. My compositions were often read in the classroom, so I began to dream of becoming a novelist (lit. my dream became “In that case, I'll become a novelist.)
     tags:
       &a1
@@ -8038,75 +7542,50 @@ clips:
     start: 01:32.9
     end: 01:44.52
     fields:
-      transcription: |-
-        中学に進んでからいたずらをして
-        両手にバケツを持ったまま立たされたことがある
-        怒られただけでその先生から何かを得たという印象はないですね
+      transcription: |
+        中学に進んでから、いたずらをして両手にバケツを持ったまま、立たされたことがある。怒られただけで、その先生から何かを得たという印象はないですね。
       meaning: After entering middle school, I once acted up and was made to stand holding buckets in both hands. All that I remember is that I was scolded, and I don’t have any memory (lit. impression) of having gained anything from that teacher.
     tags: *a1
   - id: f873b9d6-f779-4598-b5bd-13b3cc39b24b
     start: 01:45.72
     end: 02:11.98
     fields:
-      transcription: |-
-        高校を出て上京し
-        漫画家になるために 手塚治虫先生の所へ行った
-        最初に
-        君はコスモポリタンだねって言われたんです
-        どこの国に出しても通じるという意味の 最大の褒め言葉でした
-        僕は田舎から出てきたばかりで
-        東北訛りが気になり
-        コンプレックスを持っていたけど
-        それを全部ひっくり返してくれた
+      transcription: |
+        高校を出て上京し、マンガ家になるために手塚治虫先生のところへ行った。最初に「君はコスモポリタンだね」って言われたんです。どこの国に出しても通じる、という意味の最大のほめ言葉でした。
+        僕は田舎から出て来たばかりで、東北なまりが気になり、コンプレックスを持っていたけど、それを全部ひっくり返してくれた。
       meaning: |-
-        After graduating from high school and coming to
-        Tokyo, I went to Mr. Osamu Tezuka in order to become a manga artist, At first, | was told, “You are cosmopolitan.” These were the greatest words of praise, meaning that (my work) would be understood no matter which country
-        I released it in.
+        After graduating from high school and coming to Tokyo, I went to Mr. Osamu Tezuka in order to become a manga artist, At first, I was told, “You are cosmopolitan.” These were the greatest words of praise, meaning that (my work) would be understood no matter which country I released it in.
         I had just come from the country, and I was uneasy about my Tohoku accent and had an inferiority complex, but that (compliment) turned everything right side up for me,
     tags: *a1
   - id: 28a02b4a-10fb-464c-9dc7-d17055231b03
     start: 02:13.1
     end: 02:38.54
     fields:
-      transcription: |-
-        もう一つ
-        僕にとっての先生というのは
-        四季の移り変わりだったのではないかな
-        僕んちのそばに ちっちゃい小川が流れていた
-        春はメダカとかフナとかナマズもいた
-        秋になると落ち葉が流れてきて ものすごくきれいなんですね
-        冬は氷が張り
-        竹を割って スケートを作って滑ったりした
+      transcription: |
+        もうひとつ、僕にとっての先生というのは、四季の移り変わりだったのではないかな。僕んちのそばに、ちっちゃい小川が流れていた。春はメダカとかフナとかナマズもいた。秋になると落ち葉が流れて来て、ものすごくきれいなんですねぇ。冬は氷が張り、竹を割ってスケートを作ってすべったりした。
       meaning: I guess that the changing of the four seasons was another of my teachers. Next to my house, a small stream flowed. In spring, there were rice fish, crucian carp, and also catfish. In autumn, fallen leaves floated down, which was very pretty. In winter, the river froze over, and we did things like splitting bamboo to make skates and (then) skated.
     tags: *a1
   - id: 181c4604-5cf6-4022-882a-3581058d1221
     start: 02:39.52
     end: 02:50.88
     fields:
-      transcription: |-
-        学校の帰りがけに見た渡り鳥が横一列になって飛んでいく光景も思い出します
-        心の中で
-        しっかり 飛んで行けよと励ましていたんでしょうね
-      meaning: I recall a scene I saw on my way home from school, a scene of migratory birds forming a single horizontal row and flying away. In my heart, | think J was cheering them on saying, “Fly steadily away!”
+      transcription: |
+        学校の帰りがけに見た、渡り鳥が横一列になって飛んで行く光景も思い出します。心の中で「しっかり飛んで行けよ」とはげましていたんでしょうね。
+      meaning: I recall a scene I saw on my way home from school, a scene of migratory birds forming a single horizontal row and flying away. In my heart, | think I was cheering them on saying, “Fly steadily away!”
     tags: *a1
   - id: 12be9ba2-5883-4244-a722-91e931e16cc2
     start: 02:51.72
     end: 03:05.34
     fields:
-      transcription: |-
-        自然の厳しさとか
-        相手に対する思いやり とか
-        そういった 自然との触れ合いで子供は育っていくんじゃないかな
-        あらゆる 感性を育ててくれたのは 故郷の四季だと思っている
+      transcription: |
+        自然の厳しさとか、相手に対する思いやりとか、そういった自然との触れ合いで、子供は育って行くんじゃないかなあ。あらゆる感性を育ててくれたのは、故郷の四季だと思っている。
       meaning: I guess that children grow up through contacts with nature, such as nature’s harshness and their sympathy toward other (living things). I think it was the four seasons in my hometown that cultivated my sensitivity to everything around me.
     tags: *a1
   - id: e3b28512-4360-4f53-96d9-7d1ef111d0ab
     start: 03:06.62
     end: 03:18.42
     fields:
-      transcription: |-
-        菊池先生は野山を駆け回る子供の姿を温かく見つめていてくれたのだと思います
-        あの人を含めた故郷 全体が 僕の先生だったということかな
+      transcription: 菊地先生は野山をかけまわる子供の姿を温かく見つめていてくれたのだと思います。あの人を含めた故郷全体が僕の先生だったということかなあ。
       meaning: |-
         I think that Miss Kikuchi looked warmly at us (lit.
         the children) running around the fields and hills. I guess I think my whole hometown, including her, was my teacher.
@@ -8130,11 +7609,7 @@ clips:
     start: 00:10.0
     end: 00:32.24
     fields:
-      transcription: |-
-        皆さんは 俳句を作ったり鑑賞したりしたことがありますか
-        俳句は17の音だけで作られる世界で最も短い詩です
-        日本語だけでなく 色々な国の言葉で楽しまれていて
-        世界各国の小中学校の教科書にも紹介されています
+      transcription: 皆さんは俳句を作ったり、鑑賞したりしたことがありますか。俳句は１７の音だけで作られる世界で最も短い詩です。日本語だけでなく、色々な国の言葉で楽しまれていて、世界各国の小・中学校の教科書にも紹介されています。
       meaning: "Have you made or appreciated haiku before? Haiku, which are made with only 17 syllables, are the shortest poems in the world. They are enjoyed not only in Japanese but also in the languages of various countries. They are also introduced in elementary and junior high school textbooks in various countries of the world. "
     tags:
       - tobira13
@@ -8142,12 +7617,7 @@ clips:
     start: 00:33.66
     end: 00:58.74
     fields:
-      transcription: |-
-        あまりにも一般的になってしまい
-        俳句 がもともと日本のものだということを知らない人たちさえいるほどです
-        皆さんの中にも 小中学校の時に自分の国の言葉で俳句を作った
-        人がいるのではないでしょうか
-        最近は日本語を勉強している人たちが日本語で俳句を作ることも多くなりました
+      transcription: あまりにも一般的になってしまい、俳句がもともと日本のものだということを知らない人達さえいるほどです。皆さんの中にも小・中学校の時に、自分の国の言葉で俳句を作った人がいるのではないでしょうか。最近は、日本語を勉強している人達が日本語で俳句を作ることも多くなりました。
       meaning: "They have become so common that there are even people who do not know that haiku were originally from Japan. Some of you probably wrote haiku in your language during elementary or junior high school. Lately, more people who are studying Japanese are making haiku in Japanese. "
     tags:
       - tobira13
@@ -8155,14 +7625,12 @@ clips:
     start: 01:00.32
     end: 01:26.8
     fields:
-      transcription: |-
-        下に挙げたのはアメリカの大学生が日本語の授業で作った俳句の例です
-        静かだね
-        雪の音しか聞こえない
-        子が母が呼び合うごとく 蝉の鳴く
-        秋の歌
-        落ちた木の葉に書いてある
-        春の午後 ホームレス達 昼寝して
+      transcription: |
+        下に挙げたのは、アメリカの大学生が日本語の授業で作った俳句の例です。
+        静かだね 雪の音しか　聞こえない
+        子が母が　呼び合うごとく　蝉の鳴く（ごとく＝ように）
+        秋の歌　落ちた木の葉に　書いてある
+        春の午後　ホームレスたち　昼寝して
       meaning: |-
         Listed below are examples of haiku made by American university students in Japanese class.
 
@@ -8179,13 +7647,8 @@ clips:
     start: 01:28.18
     end: 01:57.28
     fields:
-      transcription: |-
-        どうですか
-        それぞれの俳句からどんな情景が浮かんできますか
-        作った人のどんな気持ちが感じられますか
-        この俳句に詠まれている季節はいつでしょうか
-        自分達と同じように 日本語を勉強している若い人たちの俳句だと思うと
-        皆さんもちょっといい俳句 が作れるような気がしませんか
+      transcription: |
+        どうですか。それぞれの俳句から、どんな情景が浮かんできますか。作った人のどんな気持ちが感じられますか。この俳句に詠まれている季節はいつでしょうか。自分達と同じように日本語を勉強している若い人達の俳句だと思うと、皆さんも「ちょっといい俳句」が作れるような気がしませんか。
       meaning: |-
         
         What do you think? What kind of visual scene comes to mind from each haiku? What kind of feeling of the writer can you sense? What season is depicted (lit. composed) in the haiku? When you think that these are the haiku of young people studying Japanese, just as you are, don’t you feel that you could make a “somewhat good haiku” as well?
@@ -8196,11 +7659,10 @@ clips:
     end: 02:31.736
     fields:
       transcription: |-
-        俳句を作るにはいくつか 規則がありますが
-        主なものは次の三つです
-        ①　は＝はっとした感動、発見の喜び、想像の楽しさなどを読み込む
-        ②　い＝いつ：季語 により 四季の自然や 季節感を表す
-        ③　く＝組み立て：五七五の17音で表す
+        俳句を作るにはいくつか規則がありますが、主なものは次の三つです。
+        ①は＝はっとした感動、発見の喜び、想像の楽しさなどを詠み込む
+        ②い＝いつ：季語により四季の自然や季節感を表す
+        ③＝組み立て：五七五の１７意で表す
       meaning: |-
         There are several rules when making haiku, but the main ones are the following three:
         (1) ha = Incorporate the sensation of being unexpectedly moved by something (hat-to suru kando), the joy of discovery, or the delight in imagining.
@@ -8212,12 +7674,7 @@ clips:
     start: 02:32.32
     end: 02:57.38
     fields:
-      transcription: |-
-        ①の「はっとする」というのは
-        何かに突然気がつくとか 驚くとか
-        感動するといった意味のオノマトペ です
-        ②の「いつ」を表すのは俳句を作る時の最も大切な要素で
-        そのために 「季語」 と呼ばれる季節を表す俳句 独特の言葉があります
+      transcription: ①の「はっとする」というのは、何かに突然気がつくとか、驚くとか、感動するといった意味のオノマトペです。②の「いつ」を表すのは俳句を作る時の最も大切な要素で、そのために「季語」と呼ばれる季節を表す俳句独特の言葉があります。
       meaning: The word hat-to suru in (1) is onomatopoeia meaning “to suddenly become aware of something,” “to be surprised or startled by something,” or “to be moved by something.” Expressing itsu (when) in (2) is the most important element in making haiku, and there are words particular to haiku called kigo, which express the seasons.
     tags:
       - tobira13
@@ -8225,12 +7682,12 @@ clips:
     start: 02:58.452
     end: 03:52.06
     fields:
-      transcription: |-
+      transcription: |
         季語は俳句の中に必ず一つ入れなくてはいけないという決まりがあるのですが、だいたい次の四つのカテゴリーに分類できます。括弧の中の言葉はどの季節を表していると思いますか。
-        １）直接季節を示す（春の海、夏にいる、秋の宵）
+        １）直接季節を示す（春の海、夏に入る、秋の宵）
         ２）自然現象（残雪、枯れ野、五月晴れ、北風）
         ３）動物・植物（赤とんぼ、猫の恋、木の芽、もみじ）
-        ４）行事・生活（田植え、鯉のぼり、お正月）
+        ４）行事・生活（田植え、こいのぼり、お正月）
       meaning: |-
         There is a rule that you must always put one kigo in haiku, and you can group kigo roughly into the following four categories. Which seasons do you think the words inside the parentheses represent?
         1) Directly indicate the seasons (the spring sea, entering summer, early evening in autumn)
@@ -8243,17 +7700,16 @@ clips:
     start: 03:54.66
     end: 04:17.76
     fields:
-      transcription: ③の「組み立て」で大切な五七五という音のリズムは、日本語の文の構成や語調に合っているようで、俳句だけでなく、短歌も五七五七七の決まりで詠まれ、諺、歌詞、標語などにも五七五のリズムがよく使われます。
-      meaning: |-
-        The (sound) rhythm of 5-7-5, the important point in
-        (3) construction, seems to be well-suited to the structure and tone of Japanese sentences, and it is used not only in haiku; tanka (31-syllable Japanese poems) are also composed using a 5-7-5-7-7 rule, and the 5-7-5 rhythm is often used for proverbs, song lyrics, and slogans, as well. 
+      transcription: ③の「組み立て」で大切な五七五という音のリズムは、日本語の文の構成や語調に合っているようで、俳句だけでなく、短歌も五七五七七の決まりで詠まれ、読、歌詞、標語などにも五七五のリズムがよく使われます。
+      meaning: "The (sound) rhythm of 5-7-5, the important point in (3) construction, seems to be well-suited to the structure and tone of Japanese sentences, and it is used not only in haiku; tanka (31-syllable Japanese poems) are also composed using a 5-7-5-7-7 rule, and the 5-7-5 rhythm is often used for proverbs, song lyrics, and slogans, as well. "
     tags:
       - tobira13
   - id: 7d1ca4f9-3284-404d-8054-e4fa84d12d90
     start: 04:18.495
     end: 04:43.155
     fields:
-      transcription: また、俳句には「かな」「けり」「や」といった言葉がよく見られますが、これらは「切れ字」と言って、俳句独特の表現です。切れ字は俳句のリズムにおける休みのようなもので、使っても使わなくてもいいのですが、季語と同じでひとつの俳句に一回しか使いません。
+      transcription: |
+        また、俳句には「かな」「けり」「や」といった言葉がよく見られますが、これらは「切れ字」と言って、俳句独特の表現です。切れ字は俳句のリズムにおける休みのようなもので、使っても使わなくてもいいのですが、季語と同じで一つの俳句に１回しか使えません。
       meaning: Furthermore, one often sees the words kana, keri, and ya in haiku. They are called kireji, words unique to haiku. Kireji are like rests in the rhythm of haiku, and using them is optional, but just as kigo, they can only be used once.
     tags:
       - tobira13
@@ -8262,13 +7718,9 @@ clips:
     end: 05:00.36
     fields:
       transcription: |-
-        俳句の形式の例
-        古池や
-        かわず飛び込む水の音
-        松尾芭蕉
-        雪溶けて
-        村いっぱいの子どもかな
-        小林一茶
+        [俳句の形式の例]
+        古池や　かわず飛び込む　水の音　松尾芭蕉
+        雪溶けて　村いっぱいの　子供かな　小林一茶
       meaning: |-
         Examples of the haiku form.
         Furuike ya (kireji) kawazu (kigo) tobikomu, mizu no oto Matsuo Basho
@@ -8281,10 +7733,7 @@ clips:
     start: 05:01.8
     end: 05:16.04
     fields:
-      transcription: |-
-        松尾芭蕉も小林一茶 も 江戸時代の俳人ですが
-        彼らの俳句は現在でも広く親しまれていて
-        多くの日本人が彼らの句をいくつか 暗唱できるほどです
+      transcription: 松尾芭蕉も小林一茶も江戸時代の俳人ですが、彼らの俳句は現在でも広く親しまれていて、多くの日本人が彼らの句をいくつか暗唱できるほどです。
       meaning: "Matsuo Basho and Kobayashi Issa were both haiku poets of the Edo Period, and their haiku are so widely popular even today that many Japanese people can recite several of them. "
     tags:
       - tobira13
@@ -8292,12 +7741,7 @@ clips:
     start: 05:16.92
     end: 05:44.44
     fields:
-      transcription: |-
-        芭蕉は現代の俳句の形を作った人で
-        俳句の中に人生の「わび・さび」の心を表して
-        俳句を芸術性の高い文学として確立しました
-        上の句は山の中の古い 静かな 池が持つ 「わび・さび」と
-        それに対する新しい命の誕生 に感動した気持ちを表しています
+      transcription: 芭蕉は現代の俳句の形を作った人で、俳句の中に人生の「わび・さび」の心を表して、俳句を芸術性の高い文学として確立しました。上の句は、山の中の古い静かな池が持つ「わび・さび」と、それに対する新しい命の誕生に感動した気持ちを表しています。
       meaning: "Basho was the person who invented the modern haiku form and established the haiku as a highly artistic form of literature by expressing in haiku the mind of wabi-sabi in people’s lives. The (first) haiku above reflects the wabi-sabi of an old, quiet pond in the mountains and, in contrast, a feeling of being moved by the birth of new life. "
     tags:
       - tobira13
@@ -8305,12 +7749,8 @@ clips:
     start: 05:45.303
     end: 06:08.763
     fields:
-      transcription: |-
-        一方 一茶 は 子供や動物など小さいもの 弱いものに対する
-        優しい気持ちを詠んだ句が多く
-        上の句も その一例です
-        皆さんの心の中には 一茶のこの句からどんな情景が浮かんできますか
-        一茶 のどんな気持ちを感じますか
+      transcription: |
+        一方、一茶は子供や動物など、小さいもの、弱いものに対する優しい気持ちを詠んだ句が多く、上の句もその一例です。皆さんの心の中には、一茶のこの句からどんな情景が浮かんできますか。一茶のどんな気持ちを感じますか。
       meaning: On the other hand, many of Issa’s haiku are composed with gentle feelings toward small or weak things, such as children or animals, and the (second) haiku above is one example of this. In your heart, what kind of scenery comes to mind from Issa’s haiku? What feelings of Issa’s do you sense?
     tags:
       - tobira13
@@ -8318,12 +7758,8 @@ clips:
     start: 06:10.423
     end: 06:34.083
     fields:
-      transcription: |-
-        俳句は言葉の数が少ないため
-        理解や解釈が大変 難しいと言えます
-        俳句も含めて 詩の解釈というのは本来 個人の感性に頼った自由
-        自由なものですから どのように干渉してもいいのですが 作者が意図した意味を理解で
-        できるかどうか もまた とても大切なことです
+      transcription: |
+        俳句は言葉の数が少ないため、理解や解釈が大変難しいと言えます。俳句も含めて詩の解釈というのは、本来個人の感性に頼った自由なものですから、どのように鑑賞してもいいのですが、作者が意図した意味を理解できるかどうかもまた、とても大切なことです。
       meaning: We could say that because haiku uses very few words, comprehending and interpreting them is very difficult. Because the interpretation of poetry, including haiku, is by nature something that is free and relies on the individual’s sensitivity, it may be appreciated in any way; however, whether or not you can understand the author’s intended meaning is also very important.
     tags:
       - tobira13
@@ -8331,16 +7767,13 @@ clips:
     start: 06:35.283
     end: 07:14.7
     fields:
-      transcription: |-
-        それでは 俳句は何をもとに
-        どんなことに注意して鑑賞したらいいのでしょうか
-        次は 俳句 を鑑賞する時に注意すべき点です
-        １）どんな場所 情景が目に浮かぶか
-        ２）季節はいつか
-        それはどの言葉でわかるか
-        ３）作者が見たり聞いたりしている物事は何か
+      transcription: |
+        それでは、俳句は何をもとに、どんなことに注意して鑑賞したらいいのでしょうか。次は俳句を鑑賞する時に、注意すべき点です。
+        １）どんな場所、情景が目に浮かぶか
+        ２）季節はいつか。それはどの言葉で分かるか
+        ３）作者が見たり、聞いたりしている物事は何か
         ４）作者はどんなことに感動したと思うか
-        ５）作者の どんな気持ちが伝わってくるか
+        ５）作者のどんな気持ちが伝わってくるか
       meaning: |-
         So, when we appreciate haiku, what kinds of things should we pay attention to and on what basis? The following are points that we should pay attention to when appreciating haiku.
         1) What kind of place or scenery do you see (lit. comes to your eye)?
@@ -8355,13 +7788,13 @@ clips:
     end: 07:37.74
     fields:
       transcription: |-
-        6）作者の どんな性格が現れているか
-        7）どんなメタファーが使われているか
-        8）面白い うまいと思った表現は
-        この鑑賞の仕方は自分で俳句を作る時にも参考になります
+        ６）作者のどんな性格が表われているか
+        ７）どんなメタファーが使われているか
+        ８）面白い、うまいと思った表現は？
+        この鑑賞の仕方は、自分で俳句を作る時にも参考になります。
       meaning: |-
-        6) What do you think moved the author?
-        7) What feelings of the author are conveyed to you? What aspect of the author’s personality comes out? What kind of metaphors are used?
+        6) What aspect of the author’s personality comes out?
+        7) What kind of metaphors are used?
         8) Are there any expressions you thought were interesting or well done?
         This method of appreciating haiku can also serve as a reference when making your own haiku.
     tags:
@@ -8370,11 +7803,8 @@ clips:
     start: 07:39.08
     end: 07:59.76
     fields:
-      transcription: |-
-        日本では俳句は昔から人気があって
-        老若男女 様々な人たちが 俳句を作って楽しんでいます
-        携帯電話で俳句を送りあって遊ぶ若者もいますし
-        外国人が日本人 以上に素晴らしい俳句 を発表することもあります
+      transcription: |
+        日本では、俳句は昔から人気があって老若男女、様々な人達が俳句を作って楽しんでいます。携帯電話で俳句を送り合って遊ぶ若者もいますし、外国人が日本人以上にすばらしい俳句を発表することもあります。
       meaning: In Japan, haiku have been popular since the old days, and various people, men and women of all ages, have been writing and enjoying them. Some young people have fun by sending haiku back and forth using cellular phones, and sometimes foreigners present their own haiku that are more wonderful than those of Japanese people,
     tags:
       - tobira13
@@ -8382,11 +7812,7 @@ clips:
     start: 08:00.867
     end: 08:20.96
     fields:
-      transcription: |-
-        皆さんもこれを機会にいろいろな俳句 を鑑賞してみてはどうでしょうか
-        そして自分でも作ってみませんか
-        世界一短い詩の面白さを味わうことで
-        日本語を学ぶ喜びや楽しみがまた一つ増えると思います
+      transcription: 皆さんもこれを機会に、いろいろな俳句を鑑賞してみてはどうでしょうか。そして、自分でも作ってみませんか。「世界一短い詩」の面白さを味わうことで、日本語を学ぶ喜びや楽しみがまた一つ増えると思います。
       meaning: Taking this as an opportunity, why don’t you try appreciating various haiku? And, try making your own as well. We think that by appreciating what is interesting about “the world’s shortest poems,” you'll have another reason to have fun and enjoy learning Japanese.
     tags:
       - tobira13
@@ -8423,12 +7849,7 @@ clips:
     start: 00:14.58
     end: 00:37.14
     fields:
-      transcription: |-
-        あなたは今の日本の総理大臣の名前が言えるだろうか
-        他の日本の政治家の名前は
-        残念ながら おそらく 多くの外国人は日本の政治家の名前をあまり知らないだろう
-        アジアの一部の国を除いて
-        日本の政治家は国外ではほとんど知られていないようである
+      transcription: あなたは今の日本の総理大臣の名前が言えるだろうか。他の日本の政治家の名前は？残念ながら、おそらく多くの外国人は日本の政治家の名前をあまり知らないだろう。アジアの一部の国を除いて、日本の政治家は国外ではほとんど知られていないようである。
       meaning: |-
         Can you name the current Prime Minister of Japan?
         What about the names of other Japanese politicians? Unfortunately, many foreigners probably don’t know the names of many Japanese politicians. It seems that, except in parts of Asia, Japanese politicians are almost unknown outside Japan. 
@@ -8438,12 +7859,7 @@ clips:
     start: 00:38.32
     end: 01:00.36
     fields:
-      transcription: |-
-        なぜ国際的に知られている日本の政治家は少ないのだろうか
-        それには二つの理由が考えられる
-        一つは 外国では日本の経済状況には関心が持たれるけれど
-        政治への関心は低いために
-        メディアが日本の政治について あまり報道しないということがある
+      transcription: なぜ国際的に知られている日本の政治家は少ないのだろうか。それには、二つの理由が考えられる。一つは、外国では日本の経済状況には関心が持たれるけれど、政治への関心は低いためにメディアが日本の政治についてあまり報道しないということがある。
       meaning: "Why are only a few Japanese politicians known internationally? Two reasons for that come to mind. The first reason is that, although in foreign countries there is interest in Japan’s economic situation, interest in Japan’s politics is low, so the media doesn’t report much about Japanese politics. "
     tags:
       &a1
@@ -8452,32 +7868,16 @@ clips:
     start: 01:01.18
     end: 01:21.6
     fields:
-      transcription: |-
-        もう一つの理由としては
-        日本の政治家の関心は国内に向けられることが多く
-        地球温暖化や貧困地域の子供の教育 など
-        世界的問題に関して リーダーシップを取れる人物がいない
-        つまり
-        世界的に注目される政治家がいないということである
+      transcription: |
+        もう一つの理由としては、日本の政治家の関心は国内に向けられることが多く、地球温暖化や貧困地域の子供の教育など、世界的問題に関してリーダーシップをとれる人物がいない、つまり、世界的に注目される政治家がいないということである。
       meaning: Another reason is that Japanese politicians’ interests are often directed toward domestic issues, and there is no one who is capable of taking leadership in world problems, such as global warming or the education of children in poverty-stricken regions. That is to say, there are no politicians who attract attention at the international level.
     tags: *a1
   - id: 0ffe26dc-2616-4799-b6a1-c1011ec0e369
     start: 01:22.844
     end: 01:57.204
     fields:
-      transcription: |-
-        さて 日本ではどんな人が政治家になる
-        あるいはなれるのだろうか
-        日本の政治の基本は 議会制民主主義で
-        国会は衆議院と参議院で構成されている
-        人々から政治家として認められる一番の方法は
-        選挙で選ばれて この衆議院議員か
-        参議院議員になることだ
-        しかし
-        このような国会議員になることはとても難しく
-        選挙戦
-        すなわち
-        選挙のための 厳しい戦いに勝たなければならない
+      transcription: |
+        さて、日本ではどんな人が政治家になる、あるいは、なれるのだろうか。日本の政治の基本は議会制民主主義で国会は衆議院と参議院で構成されている。人々から政治家として認められる一番の方法は、選挙で選ばれてこの衆議院議員か参議院議員になることだ。しかし、このような国会議員になることはとても難しく、「選挙戦」、すなわち、選挙のための厳しい戦いに勝たなければならない。
       meaning: So then, what kind of people become politicians or can become politicians in Japan? The basis of Japanese politics is a parliamentary democracy, and the National Diet is composed of the House of Representatives and the House of Councilors. The best method of being recognized as a politician by the people is to be chosen as a member of the House of Representatives or the House of Councilors in an election. However, becoming a member of the National Diet like this is very difficult; one must win the “election battle,” i.e., a harsh fight to get elected.
     tags:
       - tobira14
@@ -8485,64 +7885,29 @@ clips:
     start: 01:58.68
     end: 02:22.94
     fields:
-      transcription: |-
-        ではどうすれば この戦いに勝てるのだろう
-        日本では昔から
-        選挙に勝つためには
-        地盤
-        看板 鞄の三つが大切だと言われてきた
-        まず 地盤というのは
-        立候補する地域のことで
-        候補者がその場所に
-        遅延や血縁 などの縁があれば 選挙に勝てるという意味である
+      transcription: では、どうすればこの戦いに勝てるのだろう。日本では昔から、選挙に勝つためには「ジバン、カンバン、カバン」の三つが大切だと言われてきた。まず、「ジバン」というのは立候補をする地域のことで、候補者がその場所に地縁や血縁などの縁があれば選挙に勝てるという意味である。
       meaning: "So, what can one do to win this fight? In Japan, it has been said from long ago that in order to win an election, three things are important: jiban, kanban and kaban. First of all, jiban (ground) refers to the region where one announces his/her candidacy, and it means that a candidate can win an election if he/she has en (connections) such as territorial ties or blood relationships in that place. "
     tags: *a1
   - id: aba33d09-db45-443c-bcbd-2727fa9cf86b
     start: 02:24.292
     end: 02:39.492
     fields:
-      transcription: |-
-        縁というのは
-        何かとのつながりといった意味で
-        地盤があるというのはすなわち 出身地や 出身校
-        知り合い
-        友達
-        親戚などを通してその地域に強いネットワークを持っているということだ
+      transcription: 縁というのは「何かとのつながり」といった意味で、「ジバンがある」というのは、すなわち、出身地や出身校、知り合い、友達、親戚などを通してその地域に強いネットワークを持っているということだ。
       meaning: "The word en means “ties to something,” and jiban ga aru means to have a strong network in that region, through one’s hometown, alma mater, acquaintances, friends, and relatives. "
     tags: *a1
   - id: 85e28a72-ec7c-44a7-8bbc-1bd0473be557
     start: 02:40.588
     end: 03:01.548
     fields:
-      transcription: |-
-        次の看板は
-        看板 のことで
-        候補者が有名人である
-        いい学歴や経歴がある など
-        国民に強くアピールする個人的な条件のことを言う
-        例えば テレビタレントやスポーツ選手 や
-        大学教授がよく選挙に出るのは
-        強い 看板を持っているからだ
+      transcription: 次の「カンバン」は看板のことで、候補者が有名人である、いい学歴や経歴があるなど、国民に強くアピールする個人的な条件のことを言う。例えば、テレビタレントやスポーツ選手や大学教授がよく選挙に出るのは、強い「カンバン」を持っているからだ。
       meaning: "Next, kanban means a sign or placard, and it means a personal condition that appeals strongly to the citizens, such as having celebrity status or having a good educational or career history. For example, the reason that television personalities, athletes, and university professors often run for election is because they have a strong kanban. "
     tags: *a1
   - id: 1c89d420-e77c-43cc-9c33-974a3e8baec8
     start: 03:02.168
     end: 03:36.928
     fields:
-      transcription: |-
-        そして
-        最後のカバンはカバンの中に入っているお金
-        つまり
-        選挙のために使えるお金のことである
-        選挙に使うことができるお金は
-        一応 法律によって決められているが
-        実際はそれ以上のお金が必要で
-        以前は2頭 一楽 と言って
-        2億円で当選
-        1億円で落選 と言われてきた
-        現在は 選挙制度や法律が改正され
-        昔ほどお金がかからなくなったが
-        それでもたくさんのお金が必要なのは事実だ
+      transcription: |
+        そして、最後の「カバン」は鞄の中に入っているお金、つまり選挙のために使えるお金のことである。選挙に使うことが出来るお金は一応法律によって決められているが、実際はそれ以上のお金が必要で、以前は「ニ当一落」と言って、２億円で当選、１億円で落選と言われてきた。現在は選挙制度や法律が改正され、昔ほどお金がかからなくなったが、それでもたくさんのお金が必要なのは事実だ。
       meaning: "And, last, kaban (bag) refers to the money inside one’s bag, that is to say, the money one is able to spend for the election. The money that a candidate is able to spend towards an election is decided nominally by law; but, in actuality, more money than that is necessary. In the past, there was a saying, nito ichiraku (two-win one-lose), which means “one wins with 200 million yen and loses with 100 million yen.” Today, the election system and laws have been reformed, and it doesn’t cost as much money as it did in the past; but, even so, it is a fact that a lot of money is necessary. "
     tags:
       - tobira14
@@ -8550,66 +7915,30 @@ clips:
     start: 03:38.06
     end: 04:08.84
     fields:
-      transcription: |-
-        ここまで読んで 少し不思議に思った人がいるかもしれない
-        選挙で勝つための条件の中に
-        国民にとって一番大切なはずの制作が入っていないからだ
-        もちろん 候補者は選挙演説で議員になったらどのような政治をしたいか
-        政治家として何を目指しているか といったことを話すが
-        残念ながら
-        日本で選挙の結果を左右するのは
-        政策よりもやはり どのぐらい強い3番があるか なのだ
+      transcription: ここまで読んで少し不思議に思った人がいるかもしれない。選挙で勝つための条件の中に、国民にとって一番大切なはずの政策が入っていないからだ。もちろん候補者は選挙演説で、議員になったらどのような政治をしたいか、政治家として何を目指しているかといったことを話すが、残念ながら、日本で選挙の結果を左右するのは、政策よりもやはりどのぐらい強い「三バン」があるかなのだ。
       meaning: "There may be some of you who think something is strange after reading this far. This is because policy, which should be the most important thing to the citizens, is not among the conditions for winning an election. Of course, candidates speak in their campaign speeches about what ways they want to be engaged in politics (lit. what kind of politics they want to do) if they become members of the Diet, or what they are aiming for as a politician. Unfortunately, however, in the end, what influences the result of a Japanese election is the strength of a candidate’s 3 ban rather than his/her policies. "
     tags: *a1
   - id: 0492cc46-31b9-4e5d-a3a6-9ee7952f3bf5
     start: 04:09.9
     end: 04:25.78
     fields:
-      transcription: |-
-        そのため
-        強い 「三バン」を持っていて
-        何回も当選したことのある有名議員が
-        政治家を辞める時には
-        その子供が 跡を継いで立候補するということがよくあり
-        そういう人たちは二世議員と呼ばれる
+      transcription: そのため、強い「三バン」を持っていて何回も当選したことのある有名議員が政治家をやめる時には、その子供が後をついで立候補するということがよくあり、そういう人達は二世議員と呼ばれる。
       meaning: "Because of this, when a famous member of the Diet who has the 3 ban and has been elected many times quits being a politician, often his/her children follow in his/ her footsteps and announce their candidacy, and these people are called “second generation Diet members.” "
     tags: *a1
   - id: 3b8b5467-2ce6-4f38-abed-9caf75cc3638
     start: 04:26.419
     end: 05:02.299
     fields:
-      transcription: |-
-        また
-        議員の中には二世議員 ばかりでなく 世襲議員も多く見られる
-        例えば
-        戦後 総理大臣になった鳩山一郎の場合は
-        子供も孫達も政治家になったし
-        最近では 最も長く 総理大臣を務めた
-        小泉純一郎もそんな世襲議員の一人で
-        祖父 父ともに政治家であった
-        驚いたことに 2000年の衆議院議員選挙で当選した 候補者の約7割が
-        二世議員や 世襲議員だったというデータもある
+      transcription: |
+        また、議員の中には、二世議員ばかりでなく世襲議員も多く見られる。例えば、戦後、総理大臣になった鳩山一郎の場合は、子供も孫達も政治家になったし、最近では最も長く総理大臣を務めた小泉純一郎もそんな世襲議員の一人で、祖父、父共に政治家であった。驚いたことに、２０００年の衆議院議員選挙で当選した候補者の約七割が二世議員や世襲議員だったというデータもある。
       meaning: Furthermore, among members of the Diet, there are not only second generation members, but also some hereditary Diet members. For example, in the case of Ichiro Hatoyama, who became Prime Minister after the war (WWII), his child and grandchildren became politicians as well, and recently Koizumi Junichiro, who served as Prime Minister the longest, was also an example of a hereditary Diet member, as both his grandfather and father were politicians. Surprisingly, there is even data which states that about 70% of the members of the House of Representatives elected in the year 2000 were second generation or hereditary members.
     tags: *a1
   - id: e11fc4d3-e704-488d-9b87-d07a140a7625
     start: 05:03.395
     end: 05:45.723
     fields:
-      transcription: |-
-        しかし 21世紀に入り
-        日本でもようやく 製作の大切さが問題にされるようになってきた
-        そのため
-        政党や議員候補者たちは マニフェスト
-        政権公約を発表して選挙を戦うようになった
-        マニフェスト というのは
-        政策の具体的な実行計画で
-        目標を数値で示し
-        どこからお金をもらってくるのか
-        何時までに実行するのか など
-        国民に分かりやすく 約束するものである
-        最近では 国政選挙 だけでなく
-        知事や市長などが立候補する地方の選挙でも
-        このマニフェストが発表されるようになった
+      transcription: |
+        しかし、２１世紀に入り、日本でもようやく政策の大切さが問題にされるようになってきた。そのため、政党や議員候補者達は、マニフェスト（政権公約）を発表して選挙を戦うようになった。マニフェストというのは、政策の具体的な実行計画で、目標を数字で示し、どこからお金をもらってくるのか、いつまでに実行するのかなどを国民に分かりやすく約束するものである。最近では、国政選挙だけでなく、知事や市長などが立候補する地方の選挙でも、このマニフェストが発表されるようになった。
       meaning: However, with the arrival of the 21st century, the importance of policy has finally become an issue in Japan as well. Because of that, political parties and their candidates have begun to fight for election by presenting their manifestos. A manifesto is a concrete plan for executing their policies, which promises citizens in an easy-to-understand way where they will get the money and by when a plan will be executed, showing their goals with numbers. Recently, these manifestos have begun to be presented not only in national elections, but also in regional elections, in which governors or mayors announce their candidacies.
     tags:
       - tobira14
@@ -8617,49 +7946,23 @@ clips:
     start: 05:47.44
     end: 06:26.76
     fields:
-      transcription: |-
-        このように 日本の政治家たちの選挙活動の仕方や内容は
-        少しずつ変わってきている
-        しかし 未だに
-        地盤 看板 カバンに頼る 候補者が少なくないのも事実だ
-        選挙のたびに政治経験のない有名人
-        例えば テレビタレントやスポーツ選手などが候補者になったり
-        引退する議員の子供が
-        親に変わって立候補したりする
-        そして
-        毎回お金に関係した選挙違反のニュースも流れる
-        いかに 日本の選挙が
-        地盤 看板 鞄と結びついているかということだ
+      transcription: |
+        このように、日本の政治家達の選挙活動の仕方や内容は少しずつ変わってきている。しかし、未だに「ジバン、カンバン、カバン」に頼る候補者が少なくないのも事実だ。選挙のたびに、政治経験のない有名人、例えば、テレビタレントやスポーツ選手などが候補者になったり、引退する議員の子供が親に代わって立候補したりする。そして、毎回お金に関係した選挙違反のニュースも流れる。いかに日本の選挙が「ジバン、カンバン、カバン」と結びついているかということだ。
       meaning: In this way, the method and content of the election activities of Japanese politicians has changed little by little. However, it is a fact that even now there are quite a few candidates who rely on jiban, kanban, and kaban. Every election, celebrities with no political experience, such as television personalities or athletes, become candidates, and children of retiring members of the Diet announce their candidacies for their parents’ places. And, every time, there is news of election violations related to money. This is how much Japanese elections are tied to jiban, kanban, and kaban.
     tags: *a1
   - id: a06018b1-10ac-4e29-88fd-f4348f3d5b09
     start: 06:28.743
     end: 06:55.183
     fields:
-      transcription: |-
-        もちろん二世議員や 世襲議員
-        あるいは 有名人から気になった人でも
-        政治家として立派な人はたくさんいる
-        しかしながら
-        政治は国民みんなの生活を左右するものであるから
-        父や家族が議員だったから
-        テレビで有名になったからという理由だけで
-        その人たちが 政治家になれるとしたらかなり問題があるのではないだろうか
+      transcription: もちろん、二世議員や世襲議員、あるいは、有名人から議員になった人でも、政治家として立派な人はたくさんいる。しかしながら、政治は国民みんなの生活を左右するものであるから、父や家族が議員だったから、テレビで有名になったからという理由だけで、その人たちが政治家になれるとしたら、かなり問題があるのではないだろうか。
       notes: "Of course, even among second generation and hereditary Diet members, or even among people who go from being celebrities to Diet members, there are many great politicians (lit. many great people as politicians). But, because politicians control the lives of the citizens, if these people can become politicians just because their fathers or family members were members of the Diet or because they became famous on television, that is quite a problem. "
     tags: *a1
   - id: de42ed61-024c-49ab-924e-4f8a865e1e86
     start: 06:55.883
     end: 07:17.191
     fields:
-      transcription: |-
-        また議員を選ぶ側も
-        政治家の子供だから
-        有名人だからという理由だけで投票するといった態度を考え直す必要があると思う
-        今のままの状態が続くと
-        将来
-        日本の政治は
-        ある一部の人だけのものになってしまい
-        ますます 国民から離れてしまう
+      transcription: |
+        また、議員を選ぶ側も、政治家の子供だから、有名人だからという理由だけで投票するといった態度を考え直す必要があると思う。今のままの状態が続くと、将来、日本の政治はある一部の人達だけのものになってしまい、ますます国民から離れてしまう。
       notes: Also, from the perspective of electing Diet members, it is important to rethink the attitude of voting for someone just because the person is the child of a politician or because he/she is famous. If the current situation continues as it is, in the future Japanese politics will become something for only a small portion of the people and will become more and more removed from the people.
     tags:
       - tobira14
@@ -8667,12 +7970,7 @@ clips:
     start: 07:18.699
     end: 07:40.939
     fields:
-      transcription: |-
-        日本はせっかく 民主主義の国 なのだから
-        政治家は国民一人一人が責任をもって選んでいかなければならない
-        いつか日本人政治家の中にも世界で尊敬され
-        名前を知られるような人物が現れるようになるには
-        まず日本国民一人一人の意識を変えるべきなのだろう
+      transcription: 日本はせっかく民主主義の国なのだから、政治家は国民一人一人が責任を持って選んでいかなければならない。いつか、日本人政治家の中にも世界で尊敬され、名前を知られるような人物が現れるようになるには、まず日本国民一人一人の意識を変えるべきなのだろう。
       notes: Because Japan is a democracy, which is something you cannot take for granted, each citizen must elect politicians responsibly. In order to expect that someday Japanese politicians will emerge who are respected and whose names are known throughout the world, each Japanese citizen probably should change his/her way of viewing the country’s politics (lit. change his/her consciousness).
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
@@ -8708,36 +8006,31 @@ clips:
     start: 00:39.16
     end: 00:58.34
     fields:
-      transcription: |-
-        しかしこの疑問に答えることは簡単ではない
-        明るい未来を予測する人もいれば
-        暗い未来を予測する人もいる
-        未来は決まっているものではなく
-        現在の私たちの行動次第で
-        明るくもなれば暗くもなる
+      transcription: しかし、この疑問に答えることは簡単ではない。明るい未来を予測する人もいれば、暗い未来を予測する人もいる。未来は決まっているものではなく、現在の私たちの行動次第で、明るくもなれば、暗くもなる。
       meaning: However, answering these questions is not easy. Some people predict a bright future while others predict a dark future. The future is not already decided, but it could become bright or dark, depending on our actions today.
     tags:
       &a1
       - tobira15
+  - id: b9b7c983-3016-4b49-9c0e-10bfb6cca725
+    start: 01:00.004
+    end: 01:13.904
+    fields:
+      transcription: |
+        この課では三つの読み物を通して、今の私たちの周りにある問題を考えながら、自分の国と世界の未来、そして、これからの可能性について考えてみよう。
+    tags: *a1
   - id: a56f9d80-aad2-4bdb-bb83-5e189f827872
     start: 01:22.62
     end: 01:29.9
     fields:
-      transcription: |-
-        世界には 67億人の人がいますが もしそれを100人の村に縮めると
-        どうなるでしょう
+      transcription: |
+        世界には６７億人の人がいますが、もしもそれを１００人の村に縮めるとどうなるでしょう。
       meaning: "There are 6.7 billion people in the world, but what would happen if we shrank that down to a village of 100 people? "
     tags: *a1
   - id: d22e7c59-895b-4d39-a9ba-7e7d8158da97
     start: 01:30.84
     end: 01:50.48
     fields:
-      transcription: |-
-        100人のうち 50人が女性です
-        50人が男性です
-        28人が子供で72人が大人です
-        そのうち7人がお年寄りです 90人が異性愛者で10
-        10人が同性愛者です
+      transcription: １００人のうち、５０人が女性です。５０人が男性です。２８人が子どもで、７２人が大人です。そのうち、７人がお年寄りです。９０人が異性愛者で、１０人が同性愛者です。
       meaning: |-
         Out of the 100 people, 50 are female. 50 are male.
         28 are children, and 72 are adults. Out of those, 7 are seniors.
@@ -8747,14 +8040,8 @@ clips:
     start: 01:50.768
     end: 02:11.188
     fields:
-      transcription: |-
-        83人が 有色人種で
-        17人が白人です
-        60人がアジア人です
-        14人がアフリカ人
-        14人が南北アメリカ人
-        11人がヨーロッパ人
-        後は 南太平洋地域の人です
+      transcription: |
+        ８３人が有色人種で、１７人が白人です。６０人がアジア人です。１４人がアフリカ人、１４人が南北アメリカ人、１１人がヨーロッパ人、あとは南太平洋地域の人です。
       meaning: |-
         83 people are non-Caucasian, and 17 people are Caucasian.
         60 people are Asian. 14 people are African, 14 people are South and North American, 11 people are European, and the others are from the South Pacific Ocean region.
@@ -8763,12 +8050,8 @@ clips:
     start: 02:11.996
     end: 02:36.716
     fields:
-      transcription: |-
-        33人がキリスト教
-        20人がイスラム教 13人が ヒンドゥー教 6人が仏教
-        今日を信じています
-        5人は木や石などすべての自然に霊魂があると信じています
-        23人は他の様々な宗教を信じているか あるいは 何も信じていません
+      transcription: |
+        ３３人がキリスト教、２０人がイスラム教、１３人がヒンドゥー教、６人が仏教を信じています。５人は、木や石など、すべての自然に霊魂があると信じています。２３人は、ほかのさまざまな宗教を信じているか、あるいはなにも信じていません。
       meaning: |-
         33 people believe in Christianity, 20 people believe in Islam, 13 people believe in Hinduism, and 6 people believe in Buddhism.
         5 people believe that there are spirits in all of nature, such as trees and stones.
@@ -8779,43 +8062,24 @@ clips:
     start: 02:38.42
     end: 03:07.74
     fields:
-      transcription: |-
-        17人は中国語を喋り
-        8人は英語を
-        8人はヒンディー語
-        7人はスペイン語
-        四人はロシア語を
-        四人はアラビア語をしゃべります
-        これでようやく 村人の半分です
-        あとの半分は ベンガル語
-        ポルトガル語
-        インドネシア語
-        日本語
-        ドイツ語
-        フランス語などを喋ります
+      transcription: |
+        １７人は中国語をしゃべり、８人は英語を、８人はヒンディー語を、７人はスペイン語を、４人はロシア語を、４人はアラビア語をしゃべります。これでようやく、村人の半分です。あとの半分はベンガル語、ポルトガル語、インドネシア語、日本語、ドイツ語、フランス語などをしゃべります。
       meaning: 17 people speak Chinese, 8 people speak English, 8 people speak Hindi, 7 people speak Spanish, 4 people speak Russian, and 4 people speak Arabic. This is barely half of the people in the village. The other half speaks languages such as Bengali, Portuguese, Indonesian, Japanese, German, and French.
     tags: *a1
   - id: a1467f11-f06f-4cfa-a988-6d57852f22d5
     start: 03:09.42
     end: 03:21.66
     fields:
-      transcription: |-
-        色々な人がいるこの村では
-        あなたとは違う人を理解すること
-        相手をあるがままに受け入れること
-        そして何より そういうことを知ることがとても大切です
+      transcription: |
+        いろいろな人がいるこの村では、あなたとは違う人を理解すること、相手をあるがままに受け入れること、そしてなにより、そういうことを知ることがとても大切です。
       meaning: In this village, where many different people live, it is important for you to understand people who are different from you, to accept others as they are, and most of all. to know this (that there are many different people living in the same village).
     tags: *a1
   - id: 55aa654a-5d4e-4704-8c25-eec057270845
     start: 03:23.18
     end: 03:38.64
     fields:
-      transcription: |-
-        また こんな風にも考えてみてください
-        村に住む人々の100人のうち
-        14人は栄養が十分ではなく
-        一人は死にそうなほどです
-        でも 14人は太りすぎです
+      transcription: |
+        また、こんなふうにも考えてみてください。村に住む人びとの１００人のうち、１４人は栄養がじゅうぶんではなく１人は死にそうなほどです。でも１４人は太り過ぎです。
       meaning: In addition, please imagine this (lit. try to think this way). Out of the 100 people who live in the village, 14 are malnourished (lit. have insufficient nutrition) to the extent that one is about to die, On the other hand, 14 are overweight.
     tags:
       - tobira15
@@ -8823,47 +8087,38 @@ clips:
     start: 03:40.076
     end: 03:52.22
     fields:
-      transcription: |-
-        全ての富のうち
-        一人が40%を持っていて
-        49人が51%
-        50人がたったの1%を分け合っています
+      transcription: すべての富のうち、１人が４０％をもっていて、４９人が５１％を、５０人がたったの１％を分けあっています。
       meaning: Out of all the wealth, one person owns 40%, 49 people own 51%, and 50 people share only 1%.
     tags: *a1
   - id: 41e8ac3a-d48f-4e3f-8620-d26e3cc07da5
     start: 03:53.08
     end: 04:02.6
     fields:
-      transcription: |-
-        全てのエネルギーのうち19人が54%を使い
-        81人が 46%を分け合っています
+      transcription: すべてのエネルギーのうち１９人が５４％を使い、８１人が４６％を分けあっています。
       meaning: " Out of all the energy, 19 people use 54%, and 81 people share 46%."
     tags: *a1
   - id: 1b585c13-d63f-4c73-9004-1d726834373e
     start: 04:03.64
     end: 04:18.0
     fields:
-      transcription: |-
-        82人は食べ物の蓄えがあり
-        雨露をしのぐところがあります
-        でも あとの18人はそうではありません
-        18人は綺麗で安全な水を飲めません
+      transcription: |
+        ８２人は食べ物の蓄えがあり、雨露をしのぐところがあります。でも、あとの１８人はそうではありません。１８人は、きれいで安全な水を飲めません。
       meaning: 82 people have an adequate supply of food and a place to stay dry. But, this is not so for the other 18 people. 18 people cannot drink clean, safe water.
     tags: *a1
   - id: 364192d2-5233-4e2a-82bd-cea56e4bd545
     start: 04:19.759
     end: 04:30.199
     fields:
-      transcription: |-
-        村人の家一人が大学の教育を受け 18人がインターネットを使っています
-        けれど 20人は文字が読めません
+      transcription: |
+        村人のうち、１人が大学の教育を受け、１８人がインターネットを使っています。
+        けれど、２０人は文字が読めません。
       meaning: Out of the villagers, one person has a university education and 18 people use the Internet. However, 20 people cannot read.
     tags: *a1
   - id: 0b9ae28a-8a11-4624-a1f9-585d6e821746
     start: 04:31.88
     end: 04:47.26
     fields:
-      transcription: もしもあなたが嫌がらせや 逮捕 や拷問や死を恐れずに 信条や信号、良心に従って何かをし、ものが言えるなら、そうではない 48人より 恵まれています
+      transcription: もしもあなたが、いやがらせや逮捕や拷問や死を恐れずに、信条や信仰、良心に従ってなにかをし、ものが言えるなら、そうではない４８人より恵まれています。
       meaning: If you are able to do or say things according to your principles, faith, or conscience without fear of harassment, arrest, physical torture or death, you are more blessed than the 48 people for whom that is not so.
     tags:
       - tobira15
@@ -8871,20 +8126,15 @@ clips:
     start: 04:47.707
     end: 05:00.307
     fields:
-      transcription: |-
-        もしもあなたが空爆 や 襲撃 や 地雷による殺戮や 武装集
-        集団のレイプやら家に怯えていなければ
-        そうではない 20人より 恵まれています
+      transcription: もしもあなたが、空爆や襲撃や地雷による殺戮や武装集団のレイプや拉致におびえていなければ、そうではない２０人より恵まれています。
       meaning: If you are not frightened of slaughter by aerial bombings, raids, or landmines, or by rape or abduction by an armed group, you are more blessed than the 20 people for whom that is not so.
     tags: *a1
   - id: af1357de-6c8e-461c-8e0c-81ecb9b36d81
     start: 05:01.567
     end: 05:12.399
     fields:
-      transcription: |-
-        1年の間に裏では1人がなくなります
-        でも一年に二人 赤ちゃんが生まれるので
-        来年 村人は 101人になります
+      transcription: |
+        １年の間に、村では１人が亡くなります。でも、１年に２人赤ちゃんが生まれるので、来年、村人は１０１人になります。
       meaning: Every year, one person in the village dies. However, every year two babies are born, so next year there will be 101 villagers.
     tags:
       - tobira15
@@ -8892,11 +8142,8 @@ clips:
     start: 05:13.343
     end: 05:33.027
     fields:
-      transcription: |-
-        もしもこのメールを読めたなら この瞬間あなたの幸せは2倍にも3倍にもなります
-        なぜならあなたには
-        あなたのことを思って これを送ってくれた 誰かがいるだけでなく 文字も読めるからです
-        けれど何よりあなたは生きているからです
+      transcription: |
+        もしもこのメールを読めたなら、この瞬間、あなたの幸せは２倍にも３倍にもなります。なぜならあなたには、あなたのことを思ってこれを送ってくれた誰かがいるだけでなく、文字も読めるからです。けれどなによりあなたは生きているからです。
       meaning: If you are able to read this e-mail now, in this moment your happiness will increase by two or three times. This is not only because there is someone who thought of you and sent it to you, but because you are able to read. But, more than anything, it is because you are alive.
     tags:
       - tobira15
@@ -8920,14 +8167,8 @@ clips:
     end: 00:43.14
     fields:
       transcription: |-
-        もし日本が100人の小さな村だったらどうなるでしょう
-        例えば 日本 村に100人 住んでいたとしたら
-        村の外には約4700人の人たちが生活していることになります
-        韓国村の人口 37人
-        中国 村は989人
-        アメリカ村 は213人
-        ほらほんのちょっと見方を変えれば
-        色々なことがはっきりと分かってきます
+        もし、日本が１００人の小さな村だったら、どうなるでしょう？
+        例えば、日本村に１００人住んでいたとしたら、村の外には約４７００人の人達が生活していることになります。韓国村の人口３人、中国村は９８９人、アメリカ村は２１３人…。ほら、ほんのちょっと見方を変えれば、色々なことが、ハッキリと分かってきます。
       meaning: |-
         If Japan were a small village of 100 people, what would it be like?
         For example, if there were 100 people living in
@@ -8940,9 +8181,8 @@ clips:
     end: 00:53.54
     fields:
       transcription: |-
-        日本 村に住む100人 中
-        男性は49人
-        女性は51人で子供は14人です
+        
+        日本村に住む１００人中、男性は４９人、女性は５１人で、子供は１４人です。
       meaning: "Out of the 100 people who live in Japan Village, 49 are male and 51 are female, and 14 are children. "
     tags:
       &a1
@@ -8951,40 +8191,23 @@ clips:
     start: 00:54.56
     end: 01:07.08
     fields:
-      transcription: |-
-        若い人達や働き盛りの人たちは 67人
-        高齢者は19人
-        日本ぐらわん
-        お年寄りがたくさんいる村です
+      transcription: 若い人達や働き盛りの人達は６７人。高齢者は１９人。日本村はお年寄りがたくさんいる村です。
       meaning: "Young people and those in the prime of life number 67. There are 19 elderly people. Japan Village is a village with many elderly people. "
     tags: *a1
   - id: 560fbb43-4a46-44bf-8502-39d86d7c3e69
     start: 01:08.64
     end: 01:27.02
     fields:
-      transcription: |-
-        日本村 は世界一の長生き村です
-        21世紀に入ってから男性は 79歳ぐらい
-        女性は86歳ぐらいまで寿命が延びて
-        国連からお年寄りの国という名前をもらいました
+      transcription: |
+        日本村は世界一の長生き村です。２１世紀に入ってから男性は７９歳ぐらい、女性は８６歳ぐらいまで寿命が延びて、国連から「お年寄りの国」という名前をもらいました。
       meaning: Japan Village has the greatest longevity of any village in the world. It was given the name “Country of Elderly People” by the United Nations because life expectancy since the beginning of the 21st century has extended to 79 years for males and 86 years for females.
     tags: *a1
   - id: d148c771-1bc2-489e-ba3d-3c71ad28a61b
     start: 01:28.42
     end: 02:00.6
     fields:
-      transcription: |-
-        あなたにとって一番大切なものは何
-        という質問に
-        日本 村でも世界のあちこちの村でも
-        ほとんどのおばあちゃんが
-        家族と答えました
-        2番目に大切なものは何
-        という質問には
-        何と答えたでしょうか
-        日本の外の村では進行という答えが返ってきました
-        しかし 日本 村のおばあちゃんたちの答えは
-        近所付き合いでした
+      transcription: |
+        「あなたにとって一番大切なものは何？」という質問に、日本村でも世界のあちこちの村でも、ほとんどのおばあちゃんが「家族」と答えました。「二番目に大切なものは何？」という質問には、何と答えたでしょうか？日本の外の村では「信仰」という答えが返ってきました。しかし、日本村のおばあちゃん達の答えは「近所付き合い」でした。
       meaning: To the question “What is the most important thing for you?” most grandmas in both Japan Village and other villages here and there in the world answered, “family.” What did they answer to the question “What is the second most important thing for you?” In the villages outside of Japan Village, we received the response “religious faith.” However, the reply from the grandmas in Japan Village was “socialization with neighbors.”
     tags: *a1
   - id: a5a3545e-cd2e-492e-a656-fc670d72ebb5
@@ -8992,12 +8215,8 @@ clips:
     end: 02:32.84
     fields:
       transcription: |-
-        人類にとって 21世紀は希望のある社会になると思いますか
-        韓国村 中国 村
-        アメリカ村 日本 村の高校生に聞いてみました
-        韓国村とアメリカ村 は6割
-        中国 村では9割の高校生がはいと答えました
-        しかし 日本 村の高校生でそう答えたのはたったの3割 でした
+        「人類にとって、２１世紀は希望のある社会になると思いますか？」
+        韓国村、中国村、アメリカ村、日本村の高校生に聞いてみました。韓国村とアメリカ村は６割、中国村では９割の高校生が「はい」と答えました。しかし、日本村の高校生でそう答えたのは、たったの３割でした。
       meaning: |-
         “Do you think that our society in the 21st century will be a hopeful one for human beings?”
         We asked this to high school students in Korea
@@ -9007,65 +8226,37 @@ clips:
     start: 02:34.14
     end: 02:56.36
     fields:
-      transcription: |-
-        将来のことより今を楽しむことの方が大切ですか
-        この質問に
-        韓国村と中国 村の高校生は
-        3割しかはいと答えませんでした
-        ところが アメリカ村 は6割
-        日本村 は9割がそうそう 今が楽しければいいんだと答えました
+      transcription: |
+        「将来のことより、今を楽しむこぬとの方が大切ですか？」この質問に、韓国村と中国村の高校生は３割しか「はい」と答えませんでした。ところが、アメリカ村は６割、日本村は９割が「そうそう、今が楽しければいいんだ」と答えました。
       meaning: To the question “Is enjoying the present more important than (thinking about) the future?” only 30% of high school students in Korea Village and China Village answered “yes.” But, 60% of the high school students in America Village and 90% of the high school students in Japan Village responded, “Yes, yes, it’s fine if the present is enjoyable.”
     tags: *a1
   - id: 99cb9928-f7d9-45e8-9018-d3dda93a2c64
     start: 02:57.76
     end: 03:18.76
     fields:
-      transcription: |-
-        日本 村の生活の中で 悩みや不安を感じている人は
-        65人もいます
-        男女とも40代50代が多く
-        その悩みの内容は
-        老後の生活
-        自分や家族の健康
-        収入や財産についてなどです
+      transcription: 日本村の生活の中で「悩みや不安を感じている」人は６５人もいます。男女共、４０代、５０代が多く、その悩みの内容は「老後の生活」「自分や家族の健康」「収入や財産について」などです。
       meaning: "In Japan Village, there are as many as 65 people who say they feel worried or uneasy in their (daily) lives. For both males and females, many of these people are in their 40’s and 50’s, and what they worry about includes things like life in old age, their own health and their family’s health, and their income and property. "
     tags: *a1
   - id: 47ab135e-328c-4211-a58b-c3df021c5921
     start: 03:20.1
     end: 03:35.08
     fields:
-      transcription: |-
-        日本 村の住民は長生き すればするほど
-        健康が心配になり
-        生活が豊かになればなるほど
-        今の快適な暮らしがなくなってしまうのではないかと
-        不安で不安で仕方がなくなるので
+      transcription: |
+        日本村の住民は、長生きすればするほど健康が心配になり、生活が豊かになればなるほど、今の快適な暮らしがなくなってしまうのではないかと不安で不安でしかたがなくなるのです。
       meaning: "The longer the residents of Japan Village live, the more they become worried about their health, and the more enriched their lives become, the more and more anxious they are that they will lose their current comfortable lifestyle. "
     tags: *a1
   - id: 73330b7a-6f68-44ca-b6ff-23b10d970ba2
     start: 03:35.92
     end: 03:53.68
     fields:
-      transcription: |-
-        日本 村の村人はとても勤勉で誠実な性格だったので
-        労働と貯金に励み
-        ついに長生きと 富の両方を手に入れました
-        こんなことは 日本 村が始まって以来
-        初めてのことです
+      transcription: 日本村の村人はとても「勤勉」で「誠実」な性格だったので、「労働」と「貯金」に励み、ついに「長生き」と「富」の両方を手に入れました。こんなことは日本村が始まって以来、初めてのことです。
       meaning: "Because the villagers of Japan Village had a very industrious and sincere character, they strived hard at work and strived hard to save money, and at last they gained both longevity and wealth. This is the first time this kind of thing had happened since Japan Village began. "
     tags: *a1
   - id: f21583b2-7c39-46f8-9843-f2b5348c3f26
     start: 03:55.26
     end: 04:15.06
     fields:
-      transcription: |-
-        村人たちの仲間意識が
-        村人 全てを幸せにしたのです
-        村の人たち みんなが幸せになれるなんて
-        昔は一度もなかったことです
-        この村は安全で
-        衛生的で
-        何から何まであらゆることが平等です
+      transcription: 村人達の仲間意識が、村人すべてを幸せにしたのです。村の人達みんなが幸せになれるなんて、昔は一度もなかったことです。この村は「安全」で「衛生的」で、何から何まであらゆることが「平等」です。
       meaning: "The sense of fellowship among the villagers made all the villagers happy. In the past, it had never happened that all the villagers were (lit. could become) happy. This village is (now) safe and hygienic, and every possible thing, from A to Z, is equal. "
     tags: *a1
   - id: 3bea33e9-6e16-4c65-824d-916e220bf8b2
@@ -9073,76 +8264,47 @@ clips:
     end: 04:28.96
     fields:
       transcription: |-
-        日本村 はとても住みやすい村になったのです
-        しかし 餓えず渇かず
-        戦争で死ぬ危険もない社会では
-        うつ病や自殺が増えています
+        日本村は、とても住みやすい村になったのです。
+        しかし、飢えず、渇かず、戦争で死ぬ危険もない社会では、-うつ病や自殺が増えています。
       meaning: "Japan Village has become a very comfortable village to live in.　However, in societies that do not starve or go thirsty and have no danger of perishing in war, depression and suicide are increasing. "
     tags: *a1
   - id: 04e6d67f-01db-40e4-9be2-4488448bec56
     start: 04:30.32
     end: 04:49.92
     fields:
-      transcription: |-
-        日本村は
-        豊かになるために物を求めた物質の時代から
-        いろいろ 満たされることによって却えって悩んでしまう 精神の時代に入りました
-        日本村は今
-        悩み苦しみ 迷路の中をさまよっているのです
+      transcription: |
+        日本村は豊かになるために物を求めた「物質の時代」から、いろいろ満たされることによってかえって悩んでしまう「精神の時代」に入りました。日本村は今、悩み、苦しみ、迷路の中をさまよっているのです。
       meaning: Japan Village has gone from an “age of materialism,” where it sought materials in order to become enriched, to an “age of the mind,” where it worries conversely because many needs and desires (lit. many things) have been satisfied. Right now Japan Village is worrying, suffering, and wandering inside a maze.
     tags: *a1
   - id: 2c2ca25a-762b-49c3-80fe-21fbe8812f95
     start: 04:51.22
     end: 05:13.54
     fields:
-      transcription: |-
-        日本 村の中には問題が山積みですが
-        日本の外のブラはもっともっと多くの大変な問題を抱えています
-        しかし 日本 村の人々はそれらに真剣に目を向けようとしていません
-        今日本 村に求められていることは
-        もっと世界に目を向けること かもしれません
+      transcription: |
+        日本村の中には問題が山積みですが、日本の外の村はもっともっと多くの大変な問題を抱えています。しかし、日本村の人々はそれらに真剣に目を向けようとしていません。今、日本村に求められていることは、もっと世界に目を向けることかもしれません。
       meaning: In Japan Village the problems are piling up, but the villages outside Japan have many more serious problems. However, the people in Japan Village are not trying to look at these (outside) problems seriously. Right now, what Japan Village needs to do may be to direct its eyes more toward the world.
     tags: *a1
   - id: 13b9bcb9-c9c3-4287-b8df-b359dd360443
     start: 05:15.52
     end: 05:41.94
     fields:
-      transcription: |-
-        現在世界には
-        65億人 近くの人がいて
-        日本には一億人以上の人が住んでいます
-        一億人の中で
-        人間がたった一人でできることはとても小さなことで
-        しかし
-        もし日本が100人の村だったらどうでしょうか
-        一人の声でも村人全員に届くはずです
+      transcription: 現在、世界には６億人近くの人がいて、日本には１億人以上の人が住んでいます。１億人の中で、人間がたった１人で出来ることは、とても小さなことです。しかし、もし日本が１００人の村だったら、どうでしょうか。１人の声でも村人全員に届くはずです。
       meaning: "Currently, there are nearly 6.5 billion people in the world, and there are over 100 million people living in Japan. What one human out of these 100 million people can do all by him/herself is very small. However, what would happen if Japan were a village of 100 people? One person’s voice should reach all the villagers. "
     tags: *a2
   - id: e98e88be-e348-4b24-a4ea-5de9a756ab64
     start: 05:43.607
     end: 06:12.927
     fields:
-      transcription: |-
-        １億分の１なら
-        小さな声は聞こえないかもしれませんが
-        １００分の１ ならきっと誰かが耳を傾けてくれます
-        そしてその声が 日本村の１００人の耳に届いて
-        その１００人の人がまた声を出せば
-        今度は 村の外の１０００人にも届くでしょう
-        そしてそれらの声はいつか世界中の人たちに届くに違いありません
+      transcription: |
+        １億分の１なら、小さな声は聞こえないかもしれませんが、１００分の１なら、きっと誰かが耳を傾けてくれます。そして、その声が日本村の１００人の耳に届いて、その１００人の人がまた声を出せば、今度は村の外の１０００人にも届くでしょう。そして、それらの声はいつか世界中の人たちに届くに違いありません。
       meaning: If it were 1 out of 100 million, a small voice might not be heard, but if it were 1 in 100, someone would surely listen to it. And, if that voice reached the ears of the 100 people in Japan Village and those 100 people also spoke out, this time the voices would reach 1000 people outside the village. And, someday, those voices would surely reach the people of the world.
     tags: *a2
   - id: 3fff980c-797f-4cd7-ac21-b15e7a63b0e9
     start: 06:14.467
     end: 06:41.647
     fields:
-      transcription: |-
-        日本人が 日本 村の住民として何よりも大切なことは
-        村人一人一人が 日本 村の住民であると同時に
-        世界 村の一員であることを決して忘れてはならないということです
-        日本 村がもう一度 心の健康を取り戻すためには
-        世界に目を向けることが
-        今一番大切なことだと言えるのではないでしょうか
+      transcription: |
+        日本人が「日本村」の住民として何よりも大切なことは、村人一人一人が「日本村」の住民であると同時に「世界村」の一員であることを決して忘れてはならないということです。日本村がもう一度心の健康を取り戻すためには、世界に目を向けることが、今一番大切なことだと言えるのではないでしょうか。
       meaning: The most important thing for Japanese people as residents of Japan Village is that each person absolutely must not forget that while they are residents of Japan Village, they are also members of the World Village. We could say that the most important thing now, in order for Japan Village to regain the health of its spirit, is to turn its eyes to the world.
     tags: *a2
 flashcardFieldsToSubtitlesTracks:
@@ -9164,14 +8326,9 @@ clips:
     start: 00:15.64
     end: 00:37.9
     fields:
-      transcription: |-
-        2004年に環境分野で初のノーベル平和賞を受賞した ケニア人 女性
-        ワンガリマータイさん
-        マータイさんが2005年に来日した時に
-        最も感動した言葉がもったいないという日本語でした
-        環境
-        3 R +レスペクト
-        =モッタイナイ
+      transcription: |
+        ２００４年に環境分野で初のノーベル平和賞を受賞したケニア人女性、ワンガリ・マータイさん。マータイさんが、２００５年に来日した時に最も感動した言葉が「もったいない」という日本語でした。
+        「環境３R＋Respect＝もったいない」
       meaning: |-
         Ms. Wangari Maathai is a Kenyan woman who was awarded the first Nobel Peace Prize in the field of environmental protection in 2004. When Ms. Maathai visited Japan in 2005, the word that most moved her was the Japanese word mottainai.
         “The three R's of the environment + Respect = mottainai”
@@ -9182,18 +8339,7 @@ clips:
     start: 00:38.96
     end: 01:08.5
     fields:
-      transcription: |-
-        リデュース
-        ゴミ削減
-        Reuse
-        再利用
-        リサイクル
-        再資源化
-        という環境活動の3 R を たった一言で表せるだけでなく
-        大切な 地球資源に対するリスペクト
-        尊敬の気持ちが込められている言葉 もったいない
-        マータイさんはこの美しい日本語環境を守る世界の共通語
-        もったいないとして広めることにしました
+      transcription: Reduce（ゴミ削減）、Reuse（再利用）、Recycle（再資源化）という環境活動の３Rをたった一言で表せるだけでなく、大切な地球資源に対するRespect（尊敬の気持ち）が込められている言葉「もったいない」。マータイさんはこの美しい日本語を環境を守る世界の共通語「MOTTAINAI」として広めることにしました。
       meaning: |-
         Mottainai is a word that not only expresses the 3
         R’s of the environmental movement, Reduce, Reuse and Recycle, in a single word; it also incorporates Respect for our precious natural resources. Ms. Maathai decided to promote this beautiful Japanese word MOTTAINAI as a common world slogan to protect the environment.
@@ -9202,87 +8348,53 @@ clips:
     start: 01:09.7
     end: 01:25.68
     fields:
-      transcription: |-
-        日本に昔からある もったいない の精神が世界に広まれば
-        地球環境問題の改善に役立つ ばかりでなく
-        資源の分配が平等になり
-        テロや戦争の抑止にもつながると考えたそうです
+      transcription: |
+        日本に昔からある「もったいない」の精神が世界に広まれば、
+        地球環境問題の改善に役立つばかりでなく、資源の分配が平等になり、テロや戦争の抑止にもつながると考えたそうです。
       meaning: It is said that she thought that if the spirit of mottainai, which has existed from early times in Japan, was spread to the world, it would be useful not only for the improvement of environmental problems; it would also equalize the distribution of resources and would even lead to the deterrence of terrorism or war.
     tags: *a1
   - id: b16d991b-1246-4054-b0e8-56a29db48901
     start: 01:26.54
     end: 01:34.98
     fields:
-      transcription: |-
-        マータイさんのおかげで 日本で生まれた もったいないという言葉が
-        世界をつなぐ 合言葉
-        もったいないになったのです
+      transcription: |
+        マータイさんのおかげで、日本で生まれた「もったいない」という言葉が、世界をつなぐ合言葉「MOTTAINAI」になったのです。
       meaning: Thanks to Ms. Maathai, the word mottainai, which originated in Japan, has become MOTTAINAI, a password to unite the world.
     tags: *a1
   - id: 54906f15-597f-4e8f-8d1c-d646c8d93703
     start: 01:36.38
     end: 01:53.68
     fields:
-      transcription: |-
-        ワンガリマータイさんは
-        1940年
-        ケニアの農家に生まれました
-        6人兄弟で家は決して裕福ではなく
-        他の多くのアフリカ女性と同じように学校教育を受けられる環境ではありませんでした
+      transcription: ワンガリ・マータイさんは１９４０年、ケニアの農家に生まれました。六人兄弟で家は決して裕福ではなく、他の多くのアフリカ女性と同じように、学校教育を受けられる環境ではありませんでした。
       meaning: Ms. Maathai was born in 1940 to a farming family in Kenya. She was one of 6 siblings and her family was far from wealthy, and like many other females in Africa, she was not in an environment where she could receive schooling.
     tags: *a1
   - id: 56fc1b34-00ef-42e8-ac34-bf5c7e49dc92
     start: 01:54.216
     end: 02:18.556
     fields:
-      transcription: |-
-        しかし マータイさんの兄が両親を説得して学校に通わせてくれ
-        60年に政府 留学生に選ばれました
-        その後
-        米ピッツバーグ大学で修士号を取得
-        ドイツに留学した後
-        71年にナイロビ大学で
-        生物 分析学の博士号を取得しました
+      transcription: |
+        しかし、マータイさんの兄が両親を説得して学校に通わせてくれ、６０年に政府留学生に選ばれました。その後、米ピッツバーグ大学で修士号を取得。ドイツに留学した後、７１年にナイロビ大学で生物分析学の博士号を取得しました。
       meaning: However, her older brother persuaded her parents to let her go to school, and in 1960 she was chosen as a governmental exchange student. After that, she acquired a master’s degree from the University of Pittsburgh in the United States. After studying abroad in Germany, in 1971 she acquired a PhD in bioanalysis at the University of Nairobi.
     tags: *a1
   - id: 9a8cda83-2603-4ba9-bfbd-b3297b4d6dff
     start: 02:19.72
     end: 02:34.04
     fields:
-      transcription: |-
-        一方で マータイさんは
-        祖国の貧困や
-        環境破壊に心を痛め
-        1977年
-        貧しい女性達と
-        グリーンベルト運動という植林活動を開始しました
+      transcription: 一方でマータイさんは、祖国の貧困や環境破壊に心を痛め、１９７７年貧しい女性たちと「グリーンベルト運動」という植林活動を開始しました。
       meaning: At the same time, Ms. Maathai felt distress about the poverty and environmental damage in her homeland, and in 1977 she began the “Green Belt Movement,” a forestation movement, along with poor women.
     tags: *a1
   - id: 02a07ac4-4ece-460f-bac8-b979a709d60a
     start: 02:35.14
     end: 02:57.6
     fields:
-      transcription: |-
-        植林活動というのは 地球環境の保護のために
-        砂漠 などに木を植えて 森林を作る活動のことです
-        グリーンベルト運動は環境の保護だけでなく
-        土地の砂漠化の防止
-        貧困からの脱却
-        女性の地位向上
-        ケニア 社会の民主化にも大きく貢献しました
+      transcription: 植林活動というのは、地球環境の保護のために砂漠などに木を植えて、森林を作る活動のことです。「グリーンベルト運動」は環境の保護だけでなく、土地の砂漠化の防止、貧困からの脱却、女性の地位向上、ケニア社会の民主化にも大きく貢献しました。
       meaning: A forestation movement is a movement in which forests are created by planting trees in deserts and other areas for the purpose of protecting the global environment. The “Green Belt Movement” not only contributed to environmental protection; it also contributed greatly to the prevention of the desertification of the land, relief from poverty, improvement in the status of women, and the democratization of Kenyan society.
     tags: *a1
   - id: ab6bbeab-5b7e-4954-ac58-b190218a65e3
     start: 02:58.34
     end: 03:19.2
     fields:
-      transcription: |-
-        これまでアフリカ大陸全土で
-        4000万本を超える木を植えており
-        職員の参加者は女性を中心に
-        延べ10万人になるそうです
-        この運動によって マータイさんは 環境分野で初めて
-        そして アフリカの女性としても 初めてノーベル賞を受賞しました
+      transcription: これまでアフリカ大陸全土で４０００万本を超える木を植えており、植林の参加者は女性を中心にのべ１０万人になるそうです。この運動によって、マータイさんは環境分野で初めて、そしてアフリカの女性としても初めてノーベル賞を受賞しました。
       meaning: So far, it is said that over 40 million trees have been planted throughout the entire African continent, and the tree-planting participants, mainly women, number 10,000,000 in total. Because of this movement, Ms. Maathai was awarded the first Nobel Prize in the field of environmental protection, and also this was the first award for an African woman,
     tags:
       - tobira15
@@ -9290,9 +8402,8 @@ clips:
     start: 03:20.5
     end: 03:32.78
     fields:
-      transcription: |-
-        マータイさんは今も世界中を飛び回ってもったいないを広める活動に努めています
-        もったいないという日本語はいつか世界中の辞書に載るようになるかもしれません
+      transcription: |
+        マータイさんは今も世界中を飛び回って「MOTTAINAI」を広める活動に努めています。「MOTTAINAI」という日本語は、いつか世界中の辞書に載るようになるかもしれません。
       meaning: |-2
          Ms. Maathai is still traveling around the world and working hard in the movement to spread MOTTAINAI.
         The Japanese word MOTTAINAI may someday appear in dictionaries throughout the world.

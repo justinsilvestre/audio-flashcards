@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2020-12-27T17:36:49Z
+timestamp: 2021-03-08T12:00:49Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -28,7 +28,7 @@ clips:
     end: 00:36.18
     fields:
       transcription: |-
-        ホテルでは正月特別の飾りをつけ、正月の料理を出す。
+        ホテルでは正月の特別の飾りをつけ、正月の料理を出す。
         主婦も家事をする必要がない。
         家族揃ってゆっくりすごす。
       meaning: |-
@@ -1333,6 +1333,7 @@ clips:
         A: Yes.
         B: There are underground parking lots; underground departments in department stores.
         A: Uh-huh. And I've even heard of an office located four stories underground.
+      notes: recording seems to say 「今はだって」
     tags:
       &a1
       - iij05
@@ -2770,7 +2771,7 @@ clips:
       transcription: |-
         現金でもカードでも、必要なものは買い、必要でないものは買わないのが、理性のある人間の行動である。
         しかし、いつも理性に従って行動することは難しいことである。
-        カード 時代は人間に強さを要求する時代だといっても良いであろう。
+        カード時代は人間に強さを要求する時代だといっても良いであろう。
       meaning: |-
         Whether they are using cash or credit cards, people who behave rationally will purchase what they need—and avoid what they don't.
         Still, it's often difficult for people to always behave according to the laws of rationality.
@@ -4128,7 +4129,7 @@ clips:
     end: 01:09.875
     fields:
       transcription: |-
-        僕だって、デートのたびに、「綺麗だ、綺麗」だと言って、プレゼント渡してるよ。
+        僕だって、デートのたびに、「綺麗だ、綺麗だ」と言って、プレゼント渡してるよ。
         でもそれを一日に何十回も言うのよ。
         それは無理だなあ。一週間に一回ぐらいならいいけど。
         交通事故に気をつけることね。
@@ -4467,8 +4468,8 @@ clips:
     end: 01:28.096
     fields:
       transcription: |-
-        日本には47の都道府県（一都、一道、二府、四十三県）があります。
-        一都は東京都（首都、一道は北海道、二府は大阪府と京都府で、その他は、静岡県や広島県のように全部、県です。
+        日本には４７の都道府県（一都、一道、二府、四十三県）があります。
+        一都は東京都（首都）、一道は北海道、二府は大阪府と京都府で、その他は、静岡県や広島県のように全部、県です。
       meaning: "Japan has 47 prefectures (to-do-fu-ken): one to, one do, two fu, and 43 ken. One to refers to Tokyo-to (the capital), one do is Hokkaido, two fu are Osaka-fu and Kyoto-fu, and the other prefectures are all ken, such as Shizuoka-ken and Hiroshima-ken."
     tags: *a1
   - id: d361ba4c-af62-40e3-8193-2bcde9920e1f
@@ -4483,9 +4484,7 @@ clips:
     end: 02:02.365
     fields:
       transcription: |-
-        日本は南北に長い国なので、南と北では気候が大きく違い、
-        沖縄や九州で泳げる時に北海道では雪が降っていることもあります
-        それから同じ日の沖縄と北海道の気温の差が摂氏40度以上になることもあります
+        日本は南北に長い国なので、南と北では気候が大きく違い、沖縄や九州で泳げる時に、北海道では雪が降っていることもあります。それから、同じ日の沖縄と北海道の気温の差が摂氏４０度以上になることもあります。
       meaning: Japan is a country that is long from north to south, so the climate varies greatly from south to north, and sometimes it happens that it is snowing in Hokkaido when people are able to swim in Okinawa or Kyushu. Furthermore, the gap in temperatures between Okinawa and Hokkaido on the same day may be greater than 40 degrees centigrade.
     tags: *a1
   - id: f0b11ec6-7e48-4dd1-b159-a18a379ade68
@@ -4493,12 +4492,7 @@ clips:
     end: 02:27.24
     fields:
       transcription: |-
-        だから日本人が大好きな桜の花が いつ頃咲くかは
-        場所によって違います
-        沖縄では1月の終わりに咲き始めますが
-        北海道では5月になってからです
-        桜の花が咲くと 人々はその木下でお酒を飲んだり 歌を歌ったりして
-        花見を楽しみます
+        だから、日本人が大好きな桜の花がいつ頃咲くかは、場所によって違います。沖縄では１月の終わりに咲き始めますが、北海道では５月になってからです。桜の花が咲くと、人々はその木下でお酒を飲んだり歌を歌ったりして、花見を楽しみます。
       meaning: Because of this, the time when Japan’s beloved cherry blossoms bloom varies depending on the location. In Okinawa, they begin to bloom at the end of January, but in Hokkaido they don’t bloom until May. When the cherry blossom trees bloom, people enjoy “cherry-blossom viewing,” doing things like drinking and singing under the trees.
     tags:
       - tobira01
@@ -4507,11 +4501,8 @@ clips:
     end: 02:46.9
     fields:
       transcription: |-
-        日本には昔からの名所 もたくさんあります
-        例えば 兵庫県にある 姫路城は日本で最も美しいと言われている
-        お城で
-        1993年に
-        ユネスコの世界遺産に選ばれました
+        日本には昔からの名所もたくさんあります。
+        例えば、兵庫県にある姫路城は日本で最も美しいと言われているお城で、１９９３年にユネスコの世界遺産に選ばれました。
       meaning: Japan also has many famous old sites. For example, Himeji Castle in Hyogo Prefecture is said to be the most beautiful castle in Japan; it was chosen as a World Heritage site by UNESCO in 1993.
     tags: *a1
   - id: 74959388-c9dd-4fd3-a85a-d6b895c3bbe7
@@ -4519,11 +4510,7 @@ clips:
     end: 03:10.5
     fields:
       transcription: |-
-        400年以上前の白い壁が残っていて
-        建物の形が
-        白鷺という白い鳥が羽を広げて休んでいるように見えるので
-        白鷺城（白露城）とも呼ばれています
-        姫路城は昔の映画やドラマを撮影する時によく使われています
+        ４００年以上前の白い壁が残っていて、建物の形が白鷺という白い鳥が羽を広げて休んでいるように見えるので白鷺城（白露城）とも呼ばれています。姫路城は昔の映画やドラマを撮影する時によく使われています。
       meaning: Its white walls still remain after 400 years, and the building’s shape looks like the bird called shirasagi (white egret) resting with spread wings, so it is also called Shirasagi Castle (or Hakuro Castle). Himeji Castle is often used when filming period films and television dramas.
     tags: *a1
   - id: 75fddfd2-3f02-4b00-b7fe-59733780efee
@@ -4531,12 +4518,7 @@ clips:
     end: 03:37.58
     fields:
       transcription: |-
-        日本の名所と言えば温泉も忘れることはできません
-        日本は火山が多いので日本中に温泉があります
-        温泉には観光や レジャーが目的で行く人が多く
-        温泉では大きいお風呂に入ったり
-        美味しい料理を食べたり
-        浴衣を着たりしてリラックスします
+        日本の名所と言えば、温泉も忘れることはできません。日本は火山が多いので、日本中に温泉があります。温泉には観光やレジャーが目的で行く人が多く、温泉では大きいお風呂に入ったり、美味しい料理を食べたり、浴衣を着たりしてリラックスします。
       meaning: When speaking of Japan’s famous sites we shouldn’t forget to mention its hot springs. Japan has many volcanoes, so there are hot springs throughout Japan. Many people go to hot springs for the purpose of sightseeing or leisure, where they do such things as bathe in large hot spring. baths, eat delicious food, and relax wearing yukata (informal summer cotton kimono).
     tags: *a1
   - id: 92cb9c1d-b272-43f1-9bfb-b1c7c3b20f8e
@@ -4544,8 +4526,7 @@ clips:
     end: 03:47.88
     fields:
       transcription: |-
-        日本人はお風呂に入るのが大好きで
-        外の景色を見ながら入れる露天風呂は特に人気があります
+        日本人はお風呂に入るのが大好きで、外の景色を見ながら入れる露天風呂は特に人気があります。
       meaning: Japanese people love taking hot spring baths, and outdoor baths, where they can bathe while viewing the scenery, are particularly popular.
     tags: *a1
   - id: 59039464-99bd-4376-8d50-43ddaaacd51c
@@ -4553,12 +4534,7 @@ clips:
     end: 04:14.204
     fields:
       transcription: |-
-        たくさんある温泉の中で
-        愛媛県松山市にある道後温泉は
-        日本で一番古い温泉で
-        3000年の歴史があると言われています
-        坊ちゃんや心という小説を書いた夏目漱石がよく行ったそうで
-        道後温泉にある旅館の3階には「坊ちゃんの間」という部屋があります
+        たくさんある温泉の中で、愛媛県松山市にある道後温泉は日本で一番古い温泉で、３０００年の歴史があると言われています。『坊ちゃん』や『こころ』という小説を書いた夏目漱石がよく行ったそうで、道後温泉にある旅館の３階には「坊ちゃんの間」という部屋があります。
       meaning: Of the many hot springs in Japan, the Dogo Hot Springs in Matsuyama City, Ehime Prefecture, is said to be the oldest, with a 3000-year history. Natsume Soseki, who wrote novels such as Bocchan and Kokoro, is said to have gone there often, and the third floor at one of the ryokan (traditional inn) at Dogo Hot Springs has a room called “Bocchan’s Room.”
     tags: *a1
   - id: 2556a822-23b9-4dbe-ba86-f9f1f1f7ee23
@@ -4566,12 +4542,7 @@ clips:
     end: 04:36.988
     fields:
       transcription: |-
-        皆さんは日本に行ったらどんなことをしてみたいですか
-        どこに行ってみたいですか
-        日本に行く前に日本の地理をよく調べて楽しい旅行をしてください
-        そして
-        お城を見学したり温泉に入ったりして
-        楽しい土産話を持って帰ってください
+        皆さんは、日本に行ったらどんなことをしてみたいですか。どこに行ってみたいですか。日本に行く前に日本の地理をよく調べて、楽しい旅行をしてください。そして、お城を見学したり、温泉に入ったりして、楽しい土産話を持って帰ってください。
       meaning: "What kinds of things would you like to do if you go to Japan? Where would you like to go? Before you go, research Japan’s geography carefully in order to have an enjoyable trip. Then, do things such as visit castles and bathe in hot springs, and bring many travel anecdotes back with you.   "
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
@@ -4907,7 +4878,7 @@ clips:
     fields:
       transcription: |-
         ⒉　男性と女性の話し方の違い
-        日本語の小説を読んでいると、話し方でそれが男性か女性かすぐに分かることがあります。特にくだけた話し方では、男女の話し方に違いが見られます。
+        日本語の小説を読んでいると、話し方で男性と女性のどちらが話しているか分かることがあります。特にくだけた話し方では、男女の話し方に違いが見られます。
       meaning: |-
         2. The differences between male and female speech
         When reading a Japanese novel, we can sometimes tell right away if a character is a man or woman by the character’s way of speaking. Especially in informal speech, we can see differences between the speech of males and females. 
@@ -5566,15 +5537,15 @@ clips:
     start: 05:23.96
     end: 05:36.26
     fields:
-      transcription: 「バスや電車に乗っている時にお年寄りや 赤ちゃんのいる女性などが乗ってきたら、すぐに立って席を譲る、誰かが重いものを持っていたら代わりに持ってあげる、
+      transcription: 「バスや電車に乗っている時にお年寄りや赤ちゃんのいる女性などが乗ってきたら、すぐに立って席を譲る、誰かが重いものを持っていたら代わりに持ってあげる、
       meaning: " “When riding on a bus or train, if an elderly person or a woman holding a baby gets on, you immediately stand up and give them your seat;"
     tags: *a1
   - id: e56b8ba2-7116-4b22-b4b6-df5b87725670
     start: 05:37.0
     end: 05:46.94
     fields:
-      transcription: 困っている人がいたら迷わず助けてあげる。道場で学んだことを そういうところで生かすのが柔道の精神 なんだよ」。
-      meaning: if someone is carrying a heavy object, you carry it for him; if someone is in trouble, you help him without hesitation. Using what you have learned through judo in this way is the spirit of judo.” Yamashita calls this way of thinking “the spirit of judo,” but in fact we could say his words express in easy-to-understand terms a general way of thinking about Japanese sports, For Japanese people, the important part of sports is not only winning matches or becoming healthy, but also learning how to think about etiquette and spirit.
+      transcription: 困っている人がいたら迷わず助けてあげる。道場で学んだことをそういうところで生かすのが柔道の精神なんだよ」。
+      meaning: if someone is carrying a heavy object, you carry it for him; if someone is in trouble, you help him without hesitation. Using what you have learned through judo in this way is the spirit of judo.”
     tags: *a1
   - id: c3aedd78-90ab-44ab-b4ba-c4e6f436d20b
     start: 05:48.28
@@ -5706,7 +5677,7 @@ clips:
     start: 01:34.093
     end: 01:54.533
     fields:
-      transcription: カップにお湯を入れて3分待てば 食べられるカップラーメンは、値段の安さ、簡単さ、種類の多さなどで、特に若者に人気が高く、一人暮らしをしている日本の学生の中には、カップラーメンに毎日のようにお世話になっている人もいると聞きます。
+      transcription: カップにお湯を入れて3分待てば食べられるカップラーメンは、値段の安さ、簡単さ、種類の多さなどで、特に若者に人気が高く、一人暮らしをしている日本の学生の中には、カップラーメンに毎日のようにお世話になっている人もいると聞きます。
       meaning: Cup ramen, which can be eaten after pouring hot water into the cup and waiting three minutes, is particularly popular among young people because of its low price, ease of preparation and number of varieties—one hears that there are some Japanese students living by themselves who rely on (lit. are indebted to) cup ramen almost every day.
     tags:
       - tobira05
@@ -5854,7 +5825,7 @@ clips:
     start: 00:14.644
     end: 00:35.544
     fields:
-      transcription: 日本語には「苦しい時の神頼み」という言葉がある。何か苦しい事や困った事があると「神様、 仏様、どうか助けて下さい」と言って一生懸命お願いするけれど、何もない時は、神様や仏様の ことはあまり考えていないという意味である。
+      transcription: 日本語には「苦しい時の神頼み」という言葉がある。何か苦しい事や困った事があると「神様、仏様、どうか助けて下さい」と言って一生懸命お願いするけれど、何もない時は、神様や仏様のことはあまり考えていないという意味である。
       meaning: In Japanese, there’s a phrase “Men pray to the gods only when they are in trouble.” It means that when there is an agonizing or troublesome situation, people pray very hard, saying, “Gods, Buddha, please help me,” but they don’t think very much about the gods or the Buddha when they have no problems.
     tags:
       &a1
@@ -6071,7 +6042,7 @@ clips:
     start: 01:58.34
     end: 02:04.8
     fields:
-      transcription: 神様達は真っ暗な中で、一生懸命歌った踊ったり、笑ったりしました。
+      transcription: 神様達は真っ暗な中で、一生懸命歌ったり踊ったり、笑ったりしました。
       meaning: The gods sang, danced, and laughed with utmost effort in complete darkness.
     tags: *a1
   - id: 5afaa74e-3263-4045-b26b-dae64857d99d
@@ -6253,8 +6224,7 @@ clips:
     start: 01:58.8
     end: 02:23.34
     fields:
-      transcription: |-
-        それまで欧米の本や雑誌は右から左にページをめくる読み方が一般的だったが、漫画ファンの「右上から左下に読む日本の漫画と同じスタイルにしてほしい」というリクエストで、アメリカで売られる日本の漫画雑誌も、日本と同じように左から右にページを開くスタイルで作られるようになったのだ。
+      transcription: それまで欧米の本や雑誌は右から左にページをめくる読み方が一般的だったが、漫画ファンの「右上から左下に読む日本の漫画と同じスタイルにしてほしい」というリクエストで、アメリカで売られる日本の漫画雑誌も、日本と同じように左から右にページを開くスタイルで作られるようになったのだ。
       meaning: Until then, European and American books and magazines were generally read by flipping the pages from right to left, but, because of requests from manga fans who said, “We want you to make them in the same style as Japanese manga, reading from top right to bottom left,” the Japanese manga magazines sold in the US began to be made in the style in which the pages open from left to right, the same as in Japan.
     tags: *a1
   - id: 611726c9-f69a-4f7c-bb63-d369dfb7c82e
@@ -6399,7 +6369,7 @@ clips:
     fields:
       transcription: |-
         毎晩友達が来て
-        夜中まで大声でわいわい話
+        夜中まで大声でわいわい話すし
         音楽はガンガンうるさいし
         階段をバタバタ上がり下りするし
         この間一度注意したんですけど
@@ -6674,7 +6644,7 @@ clips:
     start: 00:34.796
     end: 00:45.916
     fields:
-      transcription: まずはじめに、日本の教育制度や現在の状況について紹介しますので、その後で皆さんの次の教育について話し合ってみて下さい。
+      transcription: まずはじめに、日本の教育制度や現在の状況について紹介しますので、その後で皆さんの国の教育について話し合ってみて下さい。
       meaning: First, the Japanese education system and its present state will be introduced. Afterwards, please discuss the education (system) in your country.
     tags: *a1
   - id: 5a177b3c-7326-4a72-a1a3-7b62956d5c06
@@ -6716,7 +6686,7 @@ clips:
     end: 02:23.94
     fields:
       transcription: |-
-        一番の受験戦争というのは、中学や高校や大学の入学試験に合格するための競争は戦争のようだ という意味だ。
+        一番の受験戦争というのは、中学や高校や大学の入学試験に合格するための競争は戦争のようだという意味だ。
         入学試験は普通 一年に一回しか受けられない。生徒たちはその1回のチャンスのために、学校の後も塾に通ったりして一生懸命に勉強する。
       meaning: The “entrance examination war” in (1) means that the competition to pass the entrance examinations of junior high schools, senior high schools, and universities is like a war. Entrance examinations can usually be taken only once a year. Students study with utmost effort for this one chance, doing things like after regular school going to cram schools as well.
     tags: *a1
@@ -6770,7 +6740,7 @@ clips:
     start: 04:07.42
     end: 04:34.207
     fields:
-      transcription: 一方、あまり有名でない大学を出た人、あるいは、大学に入っていない人は、どんなに 能力のある人でも、能力のあることをなかなか認めてもらえない。つまり、学歴社会とは、その人がどんな学校を卒業したかによって人生が決まる社会、いい大学に入れば将来、幸せになる可能性も高くなるという社会なのだ。
+      transcription: 一方、あまり有名でない大学を出た人、あるいは、大学に行っていない人は、どんなに 能力のある人でも、能力のあることをなかなか認めてもらえない。つまり、学歴社会とは、その人がどんな学校を卒業したかによって人生が決まる社会、いい大学に入れば将来、幸せになる可能性も高くなるという社会なのだ。
       meaning: On the other hand, graduates of universities that are not very famous or those who have not attended a university have a hard time getting their abilities recognized, no matter how competent they are. In other words, an academic background society is a society in which a person’s life is decided based on which school s/he graduated from or a society in which a person’s chances of becoming happy in the future increase if they enter a good university.
     tags:
       - tobira09
@@ -6823,7 +6793,7 @@ clips:
     start: 06:31.22
     end: 06:46.86
     fields:
-      transcription: 上に挙げたような問題から、日本の教育制度を見直そうと1980年代に「ゆとり教育」が取り入れられた。しかし、これが 別の大きな問題を生み出す原因になってしまった。
+      transcription: 上に挙げたような問題から、日本の教育制度を見直そうと1980年代に「ゆとり教育」が取り入れられた。しかし、これが別の大きな問題を生み出す原因になってしまった。
       meaning: Because of the problems given above, yutori kyoiku (less demanding education) was adopted in the 1980's with the intention of re-examining Japan’s educational system. However, this ended up giving rise to a another major problem.
     tags:
       - tobira09
@@ -6839,7 +6809,7 @@ clips:
     end: 07:32.64
     fields:
       transcription: |-
-        以前は世界でもトップレベルだった学力が、今ではとても低くなってしまい、アジアの国で、4番目と5番目くらいにまで下がってしまった。
+        以前は世界でもトップレベルだった学力が、今ではとても低くなってしまい、アジアの国で、4番目か5番目くらいにまで下がってしまった。
         ゆとり教育で学校で教える内容が減らされたため、その教育を受けた子供達は常識的に誰でも知っているはずのことでさえ知らないという現象も出てきた。
       meaning: Japan’s academic abilities, which in the past had been at the top level in the world, had now become very low, falling as low as 4th or 5th place among Asian countries. Because the amount taught in schools was reduced by yutori kyoiku, a phenomenon emerged where children who had received yutori kyoiku did not know even common-sense things that everyone ought to know.
     tags:
@@ -6879,9 +6849,7 @@ clips:
     end: 09:13.3
     fields:
       transcription: |-
-        また、義務教育で使われる教科書は全部国の検定を受けていて、日本国民に与えられる基本的な教育には、住む所などで大きいさは出ない。
-        誰でも教育が平等に受けられるというのは、日本の教育制度の素晴らしい点の一つだ。
-        問題はいろいろあるが、全体的には 日本の教育レベルは高いと言えるだろう。
+        また、義務教育で使われる教科書は全部国の検定を受けていて、日本国民に与えられる基本的な教育には、住む所などで大きいさは出ない。誰でも教育が平等に受けられるというのは、日本の教育制度の素晴らしい点の一つだ。問題はいろいろあるが、全体的には日本の教育レベルは高いと言えるだろう。　
       meaning: Also, all textbooks used for compulsory education are inspected by the national government, so in terms of the basic education given to Japanese citizens, there is no large gap based on things such as where people live. The fact that anyone can receive an equal education is one of the wonderful points of the Japanese education system. Although it has various problems, we could probably say that, as a whole, Japan’s educational level is high.
     tags:
       - tobira09
@@ -7109,7 +7077,7 @@ clips:
     start: 07:35.58
     end: 08:00.32
     fields:
-      transcription: 最近では飲み物を買うと募金が出来る「チャリティー自販機」も増えているそうだ。便利なだけでなく、楽しくて、社会の役にも立つ自動販売機!これからも日本の自動販売機はどんどん進化を続けていくだろう。将来、どんな自動販売機が出てくるか楽しみである。
+      transcription: 最近では飲み物を買うと募金が出来る「チャリティー自販機」も増えているそうだ。便利なだけでなく、楽しくて、社会の役にも立つ自動販売機！これからも日本の自動販売機はどんどん進化を続けていくだろう。将来、どんな自動販売機が出てくるか楽しみである。
       meaning: Recently, it is said that “charity vending machines,” which allow you to donate money when you buy a beverage, are also increasing. Vending machines are not only convenient; they are also fun and useful for society! Japanese vending machines will probably continue to evolve rapidly from now on, too. We look forward to seeing what kind of vending machines emerge in the future.
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
@@ -7212,8 +7180,9 @@ clips:
     start: 02:28.62
     end: 02:51.86
     fields:
-      transcription: 弥生時代に続く古墳時代から奈良時代にかけては、日本は中国や朝鮮の影響を強く受け、法律をはじめ、建築、服装、料理などをこれらの国から輸入した。神道中心だった日本の宗教を大きく変えた仏教が伝わったのも、この古墳時代だった。
+      transcription: 弥生時代に続く古墳時代から奈良時代にかけては、日本は中国や朝鮮の影響を強く受け、法律をはじめ、建築、服装、料理などをこれらの国から輸入した。神道中心だった日本の宗教を大きく変えた仏教が*伝わったのも、この古墳時代だった。
       meaning: "From the Kofun Period, which followed the Yayoi Period, and into the Nara Period, Japan was greatly influenced by China and Korea, and it imported their laws, as well as (styles of) architecture, clothing, and cooking, from these countries. It was also in this Kofun Period that Buddhism spread to Japan and greatly changed Japanese religion, which had been dominated by Shinto until then. "
+      notes: "*recording wrongly says 変わった"
     tags: *a1
   - id: cb034825-3e21-49ad-9581-c10ee4831252
     start: 02:52.68
@@ -7662,7 +7631,7 @@ clips:
         俳句を作るにはいくつか規則がありますが、主なものは次の三つです。
         ①は＝はっとした感動、発見の喜び、想像の楽しさなどを詠み込む
         ②い＝いつ：季語により四季の自然や季節感を表す
-        ③＝組み立て：五七五の１７意で表す
+        ③く＝組み立て：五七五の１７意で表す
       meaning: |-
         There are several rules when making haiku, but the main ones are the following three:
         (1) ha = Incorporate the sensation of being unexpectedly moved by something (hat-to suru kando), the joy of discovery, or the delight in imagining.
@@ -7700,7 +7669,7 @@ clips:
     start: 03:54.66
     end: 04:17.76
     fields:
-      transcription: ③の「組み立て」で大切な五七五という音のリズムは、日本語の文の構成や語調に合っているようで、俳句だけでなく、短歌も五七五七七の決まりで詠まれ、読、歌詞、標語などにも五七五のリズムがよく使われます。
+      transcription: ③の「組み立て」で大切な五七五という音のリズムは、日本語の文の構成や語調に合っているようで、俳句だけでなく、短歌も五七五七七の決まりで詠まれ、諺、歌詞、標語などにも五七五のリズムがよく使われます。
       meaning: "The (sound) rhythm of 5-7-5, the important point in (3) construction, seems to be well-suited to the structure and tone of Japanese sentences, and it is used not only in haiku; tanka (31-syllable Japanese poems) are also composed using a 5-7-5-7-7 rule, and the 5-7-5 rhythm is often used for proverbs, song lyrics, and slogans, as well. "
     tags:
       - tobira13
@@ -7955,7 +7924,7 @@ clips:
     end: 06:55.183
     fields:
       transcription: もちろん、二世議員や世襲議員、あるいは、有名人から議員になった人でも、政治家として立派な人はたくさんいる。しかしながら、政治は国民みんなの生活を左右するものであるから、父や家族が議員だったから、テレビで有名になったからという理由だけで、その人たちが政治家になれるとしたら、かなり問題があるのではないだろうか。
-      notes: "Of course, even among second generation and hereditary Diet members, or even among people who go from being celebrities to Diet members, there are many great politicians (lit. many great people as politicians). But, because politicians control the lives of the citizens, if these people can become politicians just because their fathers or family members were members of the Diet or because they became famous on television, that is quite a problem. "
+      meaning: "Of course, even among second generation and hereditary Diet members, or even among people who go from being celebrities to Diet members, there are many great politicians (lit. many great people as politicians). But, because politicians control the lives of the citizens, if these people can become politicians just because their fathers or family members were members of the Diet or because they became famous on television, that is quite a problem. "
     tags: *a1
   - id: de42ed61-024c-49ab-924e-4f8a865e1e86
     start: 06:55.883
@@ -7963,7 +7932,7 @@ clips:
     fields:
       transcription: |
         また、議員を選ぶ側も、政治家の子供だから、有名人だからという理由だけで投票するといった態度を考え直す必要があると思う。今のままの状態が続くと、将来、日本の政治はある一部の人達だけのものになってしまい、ますます国民から離れてしまう。
-      notes: Also, from the perspective of electing Diet members, it is important to rethink the attitude of voting for someone just because the person is the child of a politician or because he/she is famous. If the current situation continues as it is, in the future Japanese politics will become something for only a small portion of the people and will become more and more removed from the people.
+      meaning: Also, from the perspective of electing Diet members, it is important to rethink the attitude of voting for someone just because the person is the child of a politician or because he/she is famous. If the current situation continues as it is, in the future Japanese politics will become something for only a small portion of the people and will become more and more removed from the people.
     tags:
       - tobira14
   - id: 6911029d-d0e7-4eec-8d00-bb8091a60dbd
@@ -7971,7 +7940,7 @@ clips:
     end: 07:40.939
     fields:
       transcription: 日本はせっかく民主主義の国なのだから、政治家は国民一人一人が責任を持って選んでいかなければならない。いつか、日本人政治家の中にも世界で尊敬され、名前を知られるような人物が現れるようになるには、まず日本国民一人一人の意識を変えるべきなのだろう。
-      notes: Because Japan is a democracy, which is something you cannot take for granted, each citizen must elect politicians responsibly. In order to expect that someday Japanese politicians will emerge who are respected and whose names are known throughout the world, each Japanese citizen probably should change his/her way of viewing the country’s politics (lit. change his/her consciousness).
+      meaning: Because Japan is a democracy, which is something you cannot take for granted, each citizen must elect politicians responsibly. In order to expect that someday Japanese politicians will emerge who are respected and whose names are known throughout the world, each Japanese citizen probably should change his/her way of viewing the country’s politics (lit. change his/her consciousness).
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
   transcription: e6741391-0918-4512-bb33-8f6270f710b2

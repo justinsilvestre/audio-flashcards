@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2021-03-08T12:00:49Z
+timestamp: 2021-03-17T18:23:58Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -4483,16 +4483,14 @@ clips:
     start: 01:41.865
     end: 02:02.365
     fields:
-      transcription: |-
-        日本は南北に長い国なので、南と北では気候が大きく違い、沖縄や九州で泳げる時に、北海道では雪が降っていることもあります。それから、同じ日の沖縄と北海道の気温の差が摂氏４０度以上になることもあります。
+      transcription: 日本は南北に長い国なので、南と北では気候が大きく違い、沖縄や九州で泳げる時に、北海道では雪が降っていることもあります。それから、同じ日の沖縄と北海道の気温の差が摂氏４０度以上になることもあります。
       meaning: Japan is a country that is long from north to south, so the climate varies greatly from south to north, and sometimes it happens that it is snowing in Hokkaido when people are able to swim in Okinawa or Kyushu. Furthermore, the gap in temperatures between Okinawa and Hokkaido on the same day may be greater than 40 degrees centigrade.
     tags: *a1
   - id: f0b11ec6-7e48-4dd1-b159-a18a379ade68
     start: 02:03.04
     end: 02:27.24
     fields:
-      transcription: |-
-        だから、日本人が大好きな桜の花がいつ頃咲くかは、場所によって違います。沖縄では１月の終わりに咲き始めますが、北海道では５月になってからです。桜の花が咲くと、人々はその木下でお酒を飲んだり歌を歌ったりして、花見を楽しみます。
+      transcription: だから、日本人が大好きな桜の花がいつ頃咲くかは、場所によって違います。沖縄では１月の終わりに咲き始めますが、北海道では５月になってからです。桜の花が咲くと、人々はその木下でお酒を飲んだり歌を歌ったりして、花見を楽しみます。
       meaning: Because of this, the time when Japan’s beloved cherry blossoms bloom varies depending on the location. In Okinawa, they begin to bloom at the end of January, but in Hokkaido they don’t bloom until May. When the cherry blossom trees bloom, people enjoy “cherry-blossom viewing,” doing things like drinking and singing under the trees.
     tags:
       - tobira01
@@ -4509,40 +4507,35 @@ clips:
     start: 02:48.92
     end: 03:10.5
     fields:
-      transcription: |-
-        ４００年以上前の白い壁が残っていて、建物の形が白鷺という白い鳥が羽を広げて休んでいるように見えるので白鷺城（白露城）とも呼ばれています。姫路城は昔の映画やドラマを撮影する時によく使われています。
+      transcription: ４００年以上前の白い壁が残っていて、建物の形が白鷺という白い鳥が羽を広げて休んでいるように見えるので白鷺城（白露城）とも呼ばれています。姫路城は昔の映画やドラマを撮影する時によく使われています。
       meaning: Its white walls still remain after 400 years, and the building’s shape looks like the bird called shirasagi (white egret) resting with spread wings, so it is also called Shirasagi Castle (or Hakuro Castle). Himeji Castle is often used when filming period films and television dramas.
     tags: *a1
   - id: 75fddfd2-3f02-4b00-b7fe-59733780efee
     start: 03:12.72
     end: 03:37.58
     fields:
-      transcription: |-
-        日本の名所と言えば、温泉も忘れることはできません。日本は火山が多いので、日本中に温泉があります。温泉には観光やレジャーが目的で行く人が多く、温泉では大きいお風呂に入ったり、美味しい料理を食べたり、浴衣を着たりしてリラックスします。
+      transcription: 日本の名所と言えば、温泉も忘れることはできません。日本は火山が多いので、日本中に温泉があります。温泉には観光やレジャーが目的で行く人が多く、温泉では大きいお風呂に入ったり、美味しい料理を食べたり、浴衣を着たりしてリラックスします。
       meaning: When speaking of Japan’s famous sites we shouldn’t forget to mention its hot springs. Japan has many volcanoes, so there are hot springs throughout Japan. Many people go to hot springs for the purpose of sightseeing or leisure, where they do such things as bathe in large hot spring. baths, eat delicious food, and relax wearing yukata (informal summer cotton kimono).
     tags: *a1
   - id: 92cb9c1d-b272-43f1-9bfb-b1c7c3b20f8e
     start: 03:39.28
     end: 03:47.88
     fields:
-      transcription: |-
-        日本人はお風呂に入るのが大好きで、外の景色を見ながら入れる露天風呂は特に人気があります。
+      transcription: 日本人はお風呂に入るのが大好きで、外の景色を見ながら入れる露天風呂は特に人気があります。
       meaning: Japanese people love taking hot spring baths, and outdoor baths, where they can bathe while viewing the scenery, are particularly popular.
     tags: *a1
   - id: 59039464-99bd-4376-8d50-43ddaaacd51c
     start: 03:49.904
     end: 04:14.204
     fields:
-      transcription: |-
-        たくさんある温泉の中で、愛媛県松山市にある道後温泉は日本で一番古い温泉で、３０００年の歴史があると言われています。『坊ちゃん』や『こころ』という小説を書いた夏目漱石がよく行ったそうで、道後温泉にある旅館の３階には「坊ちゃんの間」という部屋があります。
+      transcription: たくさんある温泉の中で、愛媛県松山市にある道後温泉は日本で一番古い温泉で、３０００年の歴史があると言われています。『坊ちゃん』や『こころ』という小説を書いた夏目漱石がよく行ったそうで、道後温泉にある旅館の３階には「坊ちゃんの間」という部屋があります。
       meaning: Of the many hot springs in Japan, the Dogo Hot Springs in Matsuyama City, Ehime Prefecture, is said to be the oldest, with a 3000-year history. Natsume Soseki, who wrote novels such as Bocchan and Kokoro, is said to have gone there often, and the third floor at one of the ryokan (traditional inn) at Dogo Hot Springs has a room called “Bocchan’s Room.”
     tags: *a1
   - id: 2556a822-23b9-4dbe-ba86-f9f1f1f7ee23
     start: 04:15.668
     end: 04:36.988
     fields:
-      transcription: |-
-        皆さんは、日本に行ったらどんなことをしてみたいですか。どこに行ってみたいですか。日本に行く前に日本の地理をよく調べて、楽しい旅行をしてください。そして、お城を見学したり、温泉に入ったりして、楽しい土産話を持って帰ってください。
+      transcription: 皆さんは、日本に行ったらどんなことをしてみたいですか。どこに行ってみたいですか。日本に行く前に日本の地理をよく調べて、楽しい旅行をしてください。そして、お城を見学したり、温泉に入ったりして、楽しい土産話を持って帰ってください。
       meaning: "What kinds of things would you like to do if you go to Japan? Where would you like to go? Before you go, research Japan’s geography carefully in order to have an enjoyable trip. Then, do things such as visit castles and bathe in hot springs, and bring many travel anecdotes back with you.   "
     tags: *a1
 flashcardFieldsToSubtitlesTracks:
@@ -6848,8 +6841,7 @@ clips:
     start: 08:45.26
     end: 09:13.3
     fields:
-      transcription: |-
-        また、義務教育で使われる教科書は全部国の検定を受けていて、日本国民に与えられる基本的な教育には、住む所などで大きいさは出ない。誰でも教育が平等に受けられるというのは、日本の教育制度の素晴らしい点の一つだ。問題はいろいろあるが、全体的には日本の教育レベルは高いと言えるだろう。　
+      transcription: また、義務教育で使われる教科書は全部国の検定を受けていて、日本国民に与えられる基本的な教育には、住む所などで大きいさは出ない。誰でも教育が平等に受けられるというのは、日本の教育制度の素晴らしい点の一つだ。問題はいろいろあるが、全体的には日本の教育レベルは高いと言えるだろう。　
       meaning: Also, all textbooks used for compulsory education are inspected by the national government, so in terms of the basic education given to Japanese citizens, there is no large gap based on things such as where people live. The fact that anyone can receive an equal education is one of the wonderful points of the Japanese education system. Although it has various problems, we could probably say that, as a whole, Japan’s educational level is high.
     tags:
       - tobira09
@@ -7968,24 +7960,32 @@ subtitles:
     type: External
     chunksMetadata:
       count: 92
-      endCue: 16652.75
+      endCue: 333055
     name: Tobira_L15-1_yomimono_1.srt
 clips:
+  - id: fda3bc5f-019e-4903-b1ae-d57f6039c7ae
+    start: 00:15.783
+    end: 00:37.983
+    fields:
+      transcription: ２０年後、自分はどこに住んで何をしているだろうか。５０年後、私たちの国はどんなふうになっているだろうか。世界の未来はどうなっているだろうか。誰もが少なくとも一度は、このような疑問を持ったことがあるのではないだろうか。
+      meaning: Where will I be living and what will I be doing 20 years from now? 50 years from now, what will our country be like? What will the world be like in the future? Everyone has probably had questions like this at least once.
+    tags:
+      &a1
+      - tobira15
   - id: d67e2d01-f5a6-43e3-b9c0-1cd8ccce3a08
     start: 00:39.16
     end: 00:58.34
     fields:
       transcription: しかし、この疑問に答えることは簡単ではない。明るい未来を予測する人もいれば、暗い未来を予測する人もいる。未来は決まっているものではなく、現在の私たちの行動次第で、明るくもなれば、暗くもなる。
       meaning: However, answering these questions is not easy. Some people predict a bright future while others predict a dark future. The future is not already decided, but it could become bright or dark, depending on our actions today.
-    tags:
-      &a1
-      - tobira15
+    tags: *a1
   - id: b9b7c983-3016-4b49-9c0e-10bfb6cca725
     start: 01:00.004
     end: 01:13.904
     fields:
       transcription: |
         この課では三つの読み物を通して、今の私たちの周りにある問題を考えながら、自分の国と世界の未来、そして、これからの可能性について考えてみよう。
+      meaning: In this lesson, through three readings, we will consider the problems around us while we think about the future of our own countries and of the world, and also think about the possibilities for the future.
     tags: *a1
   - id: a56f9d80-aad2-4bdb-bb83-5e189f827872
     start: 01:22.62
@@ -8128,7 +8128,7 @@ subtitles:
     type: External
     chunksMetadata:
       count: 105
-      endCue: 20070.35
+      endCue: 401407
     name: Tobira_L15-1_yomimono_2.srt
 clips:
   - id: f5ae02d2-c93f-4b39-8c20-3c7ba7bc9f88
@@ -9243,7 +9243,7 @@ subtitles:
     type: External
     chunksMetadata:
       count: 3165
-      endCue: 454860.8
+      endCue: 9097216
     name: JLPT N3 文法！3時間 これでＮ３文法が終わる！ All N3 grammar 3 hours video.srt
 clips:
   - id: 7ba1a2f0-9d33-4b4f-b75e-ebdd7189f2b2
@@ -10057,7 +10057,7 @@ subtitles:
     type: External
     chunksMetadata:
       count: 464
-      endCue: 132185.55
+      endCue: 2643711
     name: mimi kara bunpou N2　－ 耳から覚える 文法 N2.srt
 flashcardFieldsToSubtitlesTracks:
   transcription: 392cbfe5-6e85-4176-8cba-57f0a2809cb4

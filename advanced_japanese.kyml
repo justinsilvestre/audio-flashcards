@@ -1,0 +1,5962 @@
+# This file was created by Knowclip!
+# Edit it manually at your own risk.
+name: Advanced Japanese
+noteType: Simple
+createdAt: 2020-12-15T18:29:15Z
+timestamp: 2021-07-29T16:10:41Z
+id: 7e0055cb-c97c-4ce0-afe6-082086d027b9
+---
+name: 01-AudioTrack 01.mp3
+format: mp3
+duration: 11:41.936
+id: 89aa9a57-1ed6-49db-a36d-68197c59af32
+subtitles:
+  - id: 4aa2dd76-fd26-4579-a322-1e7ae12b3e1c
+    type: External
+    chunksMetadata:
+      count: 213
+      endCueMs: 699903
+    name: 01-AudioTrack 01.srt
+clips:
+  - id: e5e8eada-d74b-4836-ac84-ed7a3e3e02ec
+    start: 00:00.256
+    end: 00:00.768
+    fields:
+      transcription: 神様
+    tags:
+      &a1
+      - rrj01
+  - id: 15a59931-7e1d-4202-8ee3-df65168f51ee
+    start: 00:01.792
+    end: 00:03.072
+    fields:
+      transcription: 川上弘美
+    tags: *a1
+  - id: b9187368-3631-4895-a235-db72f1276d9c
+    start: 00:03.84
+    end: 00:05.632
+    fields:
+      transcription: くまに誘われて散歩に出る
+    tags: *a1
+  - id: 4ee85361-592a-4b24-9027-463b3ed627ac
+    start: 00:06.4
+    end: 00:07.68
+    fields:
+      transcription: 河原に行くのである
+    tags: *a1
+  - id: dd3c7e5e-4d19-4e3c-8e67-fb7fa33385b9
+    start: 00:08.704
+    end: 00:12.8
+    fields:
+      transcription: 歩いて20分ほどのところにある河原である 春先に
+    tags: *a1
+  - id: 2b89442b-48aa-45f6-9fca-24bf632e33ae
+    start: 00:13.056
+    end: 00:15.616
+    fields:
+      transcription: しにを見るために行ったことはあったが
+    tags: *a1
+  - id: 85926a48-1dcb-4a7d-bc7f-ce3ad99b7296
+    start: 00:16.128
+    end: 00:19.2
+    fields:
+      transcription: 暑い季節にこうして弁当まで持って行くのは初めてである
+    tags: *a1
+  - id: 14ca376b-ba21-48ec-9a5d-bf30bda8883c
+    start: 00:20.48
+    end: 00:21.76
+    fields:
+      transcription: 散歩というより
+    tags: *a1
+  - id: 6e30e3f7-1ac4-49b0-9e31-bd945496ffca
+    start: 00:22.016
+    end: 00:24.064
+    fields:
+      transcription: ハイキングと言った方がいいかもしれない
+    tags: *a1
+  - id: a0ff9681-5ed0-46ec-81a8-46df02008f90
+    start: 00:25.344
+    end: 00:26.112
+    fields:
+      transcription: 熊は
+    tags: *a1
+  - id: 4c42888f-b0a0-43ea-b541-c2d6df502efc
+    start: 00:26.368
+    end: 00:27.904
+    fields:
+      transcription: オスの成熟した熊手
+    tags: *a1
+  - id: d2c403e4-8d46-49f0-ada0-3eb915dce9a6
+    start: 00:28.416
+    end: 00:29.696
+    fields:
+      transcription: だから とても大きい
+    tags: *a1
+  - id: 233fe71c-6710-444e-8f48-da8383b566ba
+    start: 00:30.208
+    end: 00:32.768
+    fields:
+      transcription: 蜜 隣の305号室に
+    tags: *a1
+  - id: c2df5990-02b4-4e93-b39e-cca2fa8fcd36
+    start: 00:33.024
+    end: 00:34.304
+    fields:
+      transcription: つい最近 越してきた
+    tags: *a1
+  - id: 8b2e1824-649d-49d3-874b-42d1259056b3
+    start: 00:35.072
+    end: 00:37.12
+    fields:
+      transcription: 近頃の引っ越しには珍しく
+    tags: *a1
+  - id: 05fae3db-9e52-47d2-96a1-1bfd1662cea4
+    start: 00:37.376
+    end: 00:39.936
+    fields:
+      transcription: 引っ越しそば 同じ階の住人に振る舞い
+    tags: *a1
+  - id: b4dd26eb-9d65-4dd6-8d83-08ec3c6a4c5f
+    start: 00:40.192
+    end: 00:42.752
+    fields:
+      transcription: はがきを10枚ずつ渡してまわっていた
+    tags: *a1
+  - id: 54454a30-8cc6-49b1-b994-4384a882c39f
+    start: 00:43.776
+    end: 00:49.92
+    fields:
+      transcription: 自分の気の使いようだと思ったが口まであるから やはり 色々と周りに対する配慮が必要なのだろう
+    tags: *a1
+  - id: 8edd6117-b372-47a0-9644-dbd17cfe2f8c
+    start: 00:51.968
+    end: 00:58.112
+    fields:
+      transcription: ところでその側を受け取った時の会話で熊と私とは 満更 赤の他人というわけでもない
+    tags: *a1
+  - id: 026ea52c-27a0-4aed-9fe8-f9ca2932ffd3
+    start: 00:58.368
+    end: 00:59.648
+    fields:
+      transcription: ないことが分かったのである
+    tags: *a1
+  - id: ed14f2fd-00b3-45ba-b707-9e47edb69ccb
+    start: 01:00.928
+    end: 01:02.464
+    fields:
+      transcription: 表札を見た クマが
+    tags: *a1
+  - id: d6da0289-9f59-4622-b90b-fd07df9aca45
+    start: 01:02.976
+    end: 01:05.28
+    fields:
+      transcription: もし野望 町のご出身では
+    tags: *a1
+  - id: f5c6ec67-581d-40b4-b72e-305f11539c8f
+    start: 01:05.792
+    end: 01:07.072
+    fields:
+      transcription: と尋ねる
+    tags: *a1
+  - id: b15f68d4-a98a-4ba0-a022-141b93d6bfcd
+    start: 01:07.328
+    end: 01:08.096
+    fields:
+      transcription: 確かに
+    tags: *a1
+  - id: 01fbc1fc-2785-418f-a243-4aa7a13fbd7d
+    start: 01:08.352
+    end: 01:09.376
+    fields:
+      transcription: と答えると
+    tags: *a1
+  - id: 6f23e1d1-5621-4b12-a3a0-0b11614e76f4
+    start: 01:09.632
+    end: 01:10.144
+    fields:
+      transcription: 以前
+    tags: *a1
+  - id: 4a25ff33-1681-47a3-b6f6-82410f3c5ec4
+    start: 01:10.4
+    end: 01:16.544
+    fields:
+      transcription: くまが大変 世話になった 暴君のおじ という人が町の役場 助役であったと言う
+    tags: *a1
+  - id: b597ac48-758b-4fc7-b7ce-084e74594451
+    start: 01:17.312
+    end: 01:20.384
+    fields:
+      transcription: その条約の苗字が私のものと同じであり
+    tags: *a1
+  - id: 65e15296-755c-48c0-862f-20a6d9a8be93
+    start: 01:20.64
+    end: 01:23.2
+    fields:
+      transcription: 辿ってみると どうやら 条約は
+    tags: *a1
+  - id: b0c9e263-b9d7-480c-870d-90533596be93
+    start: 01:23.456
+    end: 01:26.784
+    fields:
+      transcription: 私の父のまたいとこにあたるらしいのである
+    tags: *a1
+  - id: 51b92a76-a713-47d5-9393-5617e36b8a64
+    start: 01:28.064
+    end: 01:30.624
+    fields:
+      transcription: あるかなしか分からんような つながりであるが
+    tags: *a1
+  - id: 93baf1b1-420a-401f-a79c-27bf6e700e57
+    start: 01:30.88
+    end: 01:32.672
+    fields:
+      transcription: 熊は体操 感慨深げに
+    tags: *a1
+  - id: 5918b16c-1102-40e4-9aa7-2b97fb1b9100
+    start: 01:32.928
+    end: 01:37.28
+    fields:
+      transcription: 縁というような種類の言葉を駆使して色々と述べた
+    tags: *a1
+  - id: a41bfae5-0dfe-4356-8d2f-4dfa25293357
+    start: 01:38.56
+    end: 01:44.704
+    fields:
+      transcription: どうも 引越しの挨拶の仕方といいこの喋り方といい昔気質の熊らしいのではあった
+    tags: *a1
+  - id: a3a3da83-8f48-4dba-a727-f264dc5750c9
+    start: 01:46.752
+    end: 01:47.776
+    fields:
+      transcription: その熊とは
+    tags: *a1
+  - id: bc8d5021-9055-4f42-8edf-af905d593f5b
+    start: 01:48.032
+    end: 01:50.848
+    fields:
+      transcription: 散歩のようなハイキングのようなことをしている
+    tags: *a1
+  - id: 699535b4-9304-45fb-b837-64df0ee6ea2c
+    start: 01:51.616
+    end: 01:53.152
+    fields:
+      transcription: 動物には詳しくないので
+    tags: *a1
+  - id: 148485cc-62dc-478f-b1e5-6708012e8255
+    start: 01:53.408
+    end: 01:54.944
+    fields:
+      transcription: ツキノワグマ なのか
+    tags: *a1
+  - id: b572c59f-d23d-426e-b32a-3983257bd4c0
+    start: 01:55.2
+    end: 01:58.272
+    fields:
+      transcription: シグマ なのかはたまた マレーグマ 那の川
+    tags: *a1
+  - id: a13df5ec-9f52-4428-8c25-f7627c971ddd
+    start: 01:58.528
+    end: 01:59.04
+    fields:
+      transcription: 分からない
+    tags: *a1
+  - id: c5246e85-c2cd-4e2a-862f-436872f65383
+    start: 02:00.064
+    end: 02:02.624
+    fields:
+      transcription: 面と向かって尋ねるのも失礼である気がする
+    tags: *a1
+  - id: e8b85d7e-3b16-4019-889a-b4d8f518fbfb
+    start: 02:03.136
+    end: 02:04.672
+    fields:
+      transcription: 名前も分からない
+    tags: *a1
+  - id: d85de841-ed25-4dd1-aecc-ccdb5eb1727b
+    start: 02:04.928
+    end: 02:11.072
+    fields:
+      transcription: なんと 指かければいいのか と質問してみたのであるが 近隣に熊が一匹もいないことを
+    tags: *a1
+  - id: 7860a9d9-b7aa-4289-a95d-5a4fc95814d8
+    start: 02:11.328
+    end: 02:12.608
+    fields:
+      transcription: 確認してから
+    tags: *a1
+  - id: ecc0cd07-c7a7-481c-935d-9e5caceb51fc
+    start: 02:13.12
+    end: 02:17.216
+    fields:
+      transcription: 今のところ何もありませんし 僕しか熊谷ないのなら
+    tags: *a1
+  - id: 04ac077e-a5de-4a98-9900-cea4caf77bd6
+    start: 02:17.472
+    end: 02:20.032
+    fields:
+      transcription: 今後も名を名乗る必要がないわけですね
+    tags: *a1
+  - id: 6af29875-b586-4ab6-9e45-f3a0a8912a6f
+    start: 02:20.544
+    end: 02:22.336
+    fields:
+      transcription: 呼びかけの言葉としては
+    tags: *a1
+  - id: 983526d1-0fa4-4a35-9645-4994d19e406c
+    start: 02:22.592
+    end: 02:23.36
+    fields:
+      transcription: あなた
+    tags: *a1
+  - id: e0bf51e1-0eac-4192-94c6-c073bf6a3f6f
+    start: 02:23.616
+    end: 02:24.64
+    fields:
+      transcription: が好きですが
+    tags: *a1
+  - id: 0e9b3c35-fcee-41c0-84f7-20a6da022937
+    start: 02:25.664
+    end: 02:26.944
+    fields:
+      transcription: 漢字のあなたです
+    tags: *a1
+  - id: 9f4c402b-0c18-4f68-8e74-6a57d1dcb004
+    start: 02:27.456
+    end: 02:32.32
+    fields:
+      transcription: 口に出す時に平仮名ではなく 漢字を思い浮かべてくださればいいんですが
+    tags: *a1
+  - id: 6ccf01bc-0f7d-475f-85b8-8f4e594a83d7
+    start: 02:32.832
+    end: 02:33.344
+    fields:
+      transcription: まあ
+    tags: *a1
+  - id: f516acc2-0eeb-4d26-b967-bf6813236087
+    start: 02:33.6
+    end: 02:36.416
+    fields:
+      transcription: どうぞご自由になんとでもお呼びください
+    tags: *a1
+  - id: 45cc5ed3-9821-4190-a5b9-5d9a72330829
+    start: 02:37.184
+    end: 02:38.72
+    fields:
+      transcription: との答え である
+    tags: *a1
+  - id: 115ecbac-7ef9-44f2-af1d-17d4bc3c052f
+    start: 02:39.488
+    end: 02:42.56
+    fields:
+      transcription: どうも やはり 少々 祖父 大学まである
+    tags: *a1
+  - id: 4b91e915-34e3-499f-a282-f14fc3799c83
+    start: 02:43.584
+    end: 02:46.144
+    fields:
+      transcription: 大時代 なうえに理屈を好む とみた
+    tags: *a1
+  - id: 16ce81a8-c5ad-4bc0-8f9d-ea3bc04cfb1c
+    start: 02:47.68
+    end: 02:50.752
+    fields:
+      transcription: 瓦までの道は 水田に沿っている
+    tags: *a1
+  - id: 77bb8c03-743f-4471-897f-7ad53a8f2122
+    start: 02:51.264
+    end: 02:54.08
+    fields:
+      transcription: 舗装された道で時折車が通る
+    tags: *a1
+  - id: 039dfd9a-9b9a-40ae-a96a-8cc3509dfc60
+    start: 02:54.848
+    end: 03:00.224
+    fields:
+      transcription: どの車も私たちの手前でスピードを落とし 徐行しながら大きく 避けていく
+    tags: *a1
+  - id: 86f80255-0751-484d-a560-92c9f90dbcba
+    start: 03:01.248
+    end: 03:03.296
+    fields:
+      transcription: すれ違う 人影 はない
+    tags: *a1
+  - id: 7b73a259-1806-4cea-b7ab-eaa42ca3a02c
+    start: 03:03.552
+    end: 03:05.344
+    fields:
+      transcription: 大変 暑い
+    tags: *a1
+  - id: 578b15ed-288c-48b8-8061-05d044274365
+    start: 03:05.856
+    end: 03:07.392
+    fields:
+      transcription: 誰 働く人も見えない
+    tags: *a1
+  - id: 54dbeb5c-38e6-4140-be3d-3e286c8f35f0
+    start: 03:08.16
+    end: 03:14.304
+    fields:
+      transcription: 熊の足が アスファルトを踏む かすかな シャリシャリ という音だけが規則正しく響く
+    tags: *a1
+  - id: 3b174a81-9778-415f-a8f1-75a540790557
+    start: 03:15.584
+    end: 03:16.608
+    fields:
+      transcription: 暑くない
+    tags: *a1
+  - id: 83a9ceec-fd2c-4459-989e-654f0142c5b7
+    start: 03:16.864
+    end: 03:20.96
+    fields:
+      transcription: と尋ねるとクマは暑くないけれど
+    tags: *a1
+  - id: 6aa0652e-4cee-44aa-add1-37171dd4e1ac
+    start: 03:21.216
+    end: 03:24.288
+    fields:
+      transcription: 長く アスファルトの道を歩くと少し疲れます
+    tags: *a1
+  - id: 7004f647-f730-4170-a8ba-53f099d883a2
+    start: 03:24.8
+    end: 03:25.824
+    fields:
+      transcription: と答えた
+    tags: *a1
+  - id: bd25a221-2273-4a21-9c9e-bbb989d277b3
+    start: 03:27.36
+    end: 03:29.664
+    fields:
+      transcription: 瓦まではそう遠くないから大丈夫
+    tags: *a1
+  - id: 40e7c8ca-29b6-4f41-88f2-3bcc5dff648d
+    start: 03:29.92
+    end: 03:31.712
+    fields:
+      transcription: ご心配くださってありがとう
+    tags: *a1
+  - id: 18ee7a2b-d1b9-4920-9d2a-f999fa28dbaa
+    start: 03:32.48
+    end: 03:33.76
+    fields:
+      transcription: 続けて言う
+    tags: *a1
+  - id: 50bca157-de4b-4e1f-8883-fb78c04ebf60
+    start: 03:34.272
+    end: 03:35.04
+    fields:
+      transcription: さらには
+    tags: *a1
+  - id: f14920b2-aa0e-49fb-87dd-12e66720cbe8
+    start: 03:35.808
+    end: 03:40.416
+    fields:
+      transcription: もしあなたが暑いのなら 国道に出て レストハウスにでも入りますか
+    tags: *a1
+  - id: 01fe1a6c-2785-44fd-9cee-456d5d23c380
+    start: 03:40.672
+    end: 03:44.768
+    fields:
+      transcription: などと 細かく 気を配ってくれる
+    tags: *a1
+  - id: d827c010-c0b8-4f59-906d-dd2200948b96
+    start: 03:45.024
+    end: 03:49.12
+    fields:
+      transcription: 私は帽子をかぶっていたし暑さには強い方なので断ったが
+    tags: *a1
+  - id: 049adfb5-6f5a-4f98-946e-0e040f26e282
+    start: 03:49.376
+    end: 03:53.216
+    fields:
+      transcription: もしかすると 熊 自信が一服したかったのかもしれない
+    tags: *a1
+  - id: 0b4d7e69-a1d4-41e3-befa-347e200bf5d3
+    start: 03:54.24
+    end: 03:56.032
+    fields:
+      transcription: しばらく 無言で歩いた
+    tags: *a1
+  - id: 938d52cd-d25c-407e-b8cd-a9289166e932
+    start: 03:58.08
+    end: 04:01.664
+    fields:
+      transcription: 遠くに聞こえ始めた水の音 がやがて 高くなり
+    tags: *a1
+  - id: 6a3ef030-143d-4cd4-9b55-4130a309674f
+    start: 04:01.92
+    end: 04:04.224
+    fields:
+      transcription: 私たちは河原に到着した
+    tags: *a1
+  - id: 48da22be-5a8e-4196-ac36-fc12ecd7278b
+    start: 04:04.48
+    end: 04:08.064
+    fields:
+      transcription: たくさんの人が泳いだり 釣りをしたりしている
+    tags: *a1
+  - id: ed13cfa7-bf8e-4613-a66f-19328ca88c6b
+    start: 04:09.088
+    end: 04:11.648
+    fields:
+      transcription: 荷物を降ろしタオルで汗をぬぐった
+    tags: *a1
+  - id: 4d0da8f4-a022-4211-a748-185eee7b7974
+    start: 04:12.672
+    end: 04:15.488
+    fields:
+      transcription: 熊は舌を出して少し 喘いでいる
+    tags: *a1
+  - id: a42edc23-c80b-4234-b4ab-a8860acf1eec
+    start: 04:16.256
+    end: 04:17.536
+    fields:
+      transcription: そうやって立っていると
+    tags: *a1
+  - id: d1837266-6f7e-4d3c-8f7f-ab37cbe697fd
+    start: 04:17.791
+    end: 04:21.887
+    fields:
+      transcription: 男性二人子供一人の3人連れがそばに寄ってきた
+    tags: *a1
+  - id: 96ec4a20-f6cb-48e9-8486-69195f85a5ec
+    start: 04:22.911
+    end: 04:24.703
+    fields:
+      transcription: どれも 返す気をつけている
+    tags: *a1
+  - id: e28e9357-41b8-4bac-bd39-4c72f95bcbd8
+    start: 04:25.471
+    end: 04:28.799
+    fields:
+      transcription: 男の片方は サングラスをかけ
+    tags: *a1
+  - id: 6dd9a070-0bae-44c8-902f-7652eb8d8fc8
+    start: 04:29.055
+    end: 04:32.127
+    fields:
+      transcription: もう片方は シュノーケルを首からぶら下げていた
+    tags: *a1
+  - id: 8e8ee7c3-0d38-4afe-86ad-e33500d6844b
+    start: 04:33.407
+    end: 04:37.503
+    fields:
+      transcription: お父さん くまだよ 子供が大きな声で言った
+    tags: *a1
+  - id: af8347f5-abc5-404b-bf25-6f7b67799bcb
+    start: 04:38.015
+    end: 04:38.527
+    fields:
+      transcription: そうだ
+    tags: *a1
+  - id: 96e6ca8b-3a61-4528-8d82-0a56a6c99a49
+    start: 04:38.783
+    end: 04:40.063
+    fields:
+      transcription: よくわかったな
+    tags: *a1
+  - id: ac37866e-b1b3-41ed-9eeb-a98d2603ed4b
+    start: 04:40.319
+    end: 04:42.111
+    fields:
+      transcription: シュノーケルが答える
+    tags: *a1
+  - id: 4d403de5-4f5b-41e4-b1d8-95813fd7f80f
+    start: 04:42.623
+    end: 04:43.903
+    fields:
+      transcription: くまだよ
+    tags: *a1
+  - id: 8199d846-c966-439c-9a6d-b5ec7b315600
+    start: 04:44.415
+    end: 04:45.695
+    fields:
+      transcription: ソーダ 熊田
+    tags: *a1
+  - id: f1dba516-5454-4947-8456-bf25173fc843
+    start: 04:45.951
+    end: 04:47.999
+    fields:
+      transcription: ねえねえ くまだよ
+    tags: *a1
+  - id: fc496fea-e02d-4d74-8c0e-1208ee725f9a
+    start: 04:48.511
+    end: 04:50.303
+    fields:
+      transcription: 何回か これが 繰り返された
+    tags: *a1
+  - id: b29ae38b-7ddd-4b8c-af2c-2a90fb50e9ce
+    start: 04:50.559
+    end: 04:56.703
+    fields:
+      transcription: シュノーケルは私の表情をチラリと伺ったが 熊の顔を正面から見ようとはしない
+    tags: *a1
+  - id: db1ad290-5ebf-43fb-8498-d92833fe7101
+    start: 04:57.983
+    end: 05:01.311
+    fields:
+      transcription: サングラスの方は何も言わずにただ立っている
+    tags: *a1
+  - id: e27aed6b-dbf2-43d0-93e4-63ef9d4bdb2b
+    start: 05:02.079
+    end: 05:08.223
+    fields:
+      transcription: 子供は熊の毛を引っ張ったりけり つけたりしていたが 最後にパンチ
+    tags: *a1
+  - id: 548cb8a3-54d1-4b83-8db3-b9e37756288d
+    start: 05:08.479
+    end: 05:14.111
+    fields:
+      transcription: とさけんでクマの腹の辺りに拳をぶつけてから走って行ってしまった
+    tags: *a1
+  - id: 049fa3fe-af80-4ba3-9a0f-e3b2b36ee2be
+    start: 05:15.647
+    end: 05:18.207
+    fields:
+      transcription: 男二人は ぶらぶら と あと
+    tags: *a1
+  - id: 2473b02e-f2b4-4497-9e50-206ca373d47d
+    start: 05:18.463
+    end: 05:19.999
+    fields:
+      transcription: いやはや
+    tags: *a1
+  - id: 7b40d2ba-8b9c-413d-a657-1a837fa0dc4d
+    start: 05:20.511
+    end: 05:22.559
+    fields:
+      transcription: しばらくしてからクマが入った
+    tags: *a1
+  - id: 957f4ab4-771b-43bc-93b3-84c06bbf7b80
+    start: 05:23.327
+    end: 05:26.399
+    fields:
+      transcription: 小さい人は邪気がないですなぁ
+    tags: *a1
+  - id: a29e44b2-19b5-411b-9577-56b00e156f0d
+    start: 05:27.679
+    end: 05:29.471
+    fields:
+      transcription: 私は無言でいた
+    tags: *a1
+  - id: 7e0d6e95-66df-40c9-a4f1-86f7ff3af2df
+    start: 05:29.983
+    end: 05:33.311
+    fields:
+      transcription: それは色々な人間がいますから
+    tags: *a1
+  - id: 3716440b-47ee-4504-aaa0-340c3a950fa4
+    start: 05:33.567
+    end: 05:36.383
+    fields:
+      transcription: でも子供さんはみんな無邪気ですよ
+    tags: *a1
+  - id: 6fa26fec-6c79-464c-9885-351c86b01bf5
+    start: 05:37.407
+    end: 05:42.783
+    fields:
+      transcription: そう言うと私が答える前に急いで川の淵へ歩いて行ってしまった
+    tags: *a1
+  - id: a7037aa8-8b2f-4284-b68a-0697364063e9
+    start: 05:44.319
+    end: 05:47.647
+    fields:
+      transcription: 小さな細い魚がすいすい泳いでいる
+    tags: *a1
+  - id: 57fc0834-6985-4dec-9a16-24179963d1ff
+    start: 05:48.159
+    end: 05:51.231
+    fields:
+      transcription: 水の冷気が火照った顔に心地よい
+    tags: *a1
+  - id: 5df6c927-5f76-45cc-aaaf-e3c0005f1c74
+    start: 05:51.743
+    end: 05:52.767
+    fields:
+      transcription: よく見ると
+    tags: *a1
+  - id: 09410fc3-ef11-4292-8253-78d06d94c2d8
+    start: 05:53.023
+    end: 05:54.815
+    fields:
+      transcription: 魚は一定の幅の中で
+    tags: *a1
+  - id: 8c6b2bea-946d-4027-98be-d6be38b8f2fb
+    start: 05:55.071
+    end: 05:57.631
+    fields:
+      transcription: 上流へ泳ぎ また下流へ泳ぐ
+    tags: *a1
+  - id: f2dd7907-e528-4018-9806-c744ee83d823
+    start: 05:58.655
+    end: 06:01.471
+    fields:
+      transcription: 細長い四角の辺をたどっているように見える
+    tags: *a1
+  - id: fbe0d47c-5223-439e-9a99-c5ddb5206b4d
+    start: 06:02.495
+    end: 06:03.519
+    fields:
+      transcription: その資格が
+    tags: *a1
+  - id: 679b7675-7847-4032-bbe6-caf0fb7163f1
+    start: 06:03.775
+    end: 06:05.567
+    fields:
+      transcription: 魚の縄張りなのだろう
+    tags: *a1
+  - id: a0be7864-c10f-494a-9a7a-ee35ddf158b1
+    start: 06:06.335
+    end: 06:08.895
+    fields:
+      transcription: くま もじっと 水の中を見ている
+    tags: *a1
+  - id: d859d92b-840e-44f3-82a3-c762191ded48
+    start: 06:09.919
+    end: 06:11.199
+    fields:
+      transcription: 何を見ているのか
+    tags: *a1
+  - id: 1d8ac142-1e13-408d-a4f3-417ed11056e8
+    start: 06:12.479
+    end: 06:13.503
+    fields:
+      transcription: 熊の目にも
+    tags: *a1
+  - id: c13be35a-1ed9-4c95-a75b-fe233b77c31f
+    start: 06:13.759
+    end: 06:17.087
+    fields:
+      transcription: 水の中は 人間と同じに見えているのであろうか
+    tags: *a1
+  - id: 6305d59d-e9fd-435c-8f73-b18cb6576b1f
+    start: 06:19.135
+    end: 06:20.927
+    fields:
+      transcription: 突然 水しぶきが上がり
+    tags: *a1
+  - id: be23d873-0e7e-473c-9a54-30f75546bdc2
+    start: 06:21.439
+    end: 06:24.511
+    fields:
+      transcription: 熊が水の中に ざぶざぶ 入っていった
+    tags: *a1
+  - id: 099ae5de-b2f1-42db-8de0-41266b28e834
+    start: 06:25.023
+    end: 06:27.327
+    fields:
+      transcription: 川の中ほどで立ち止まると
+    tags: *a1
+  - id: d8c797c5-eb12-46dc-8582-95b9ff7a7681
+    start: 06:27.583
+    end: 06:31.423
+    fields:
+      transcription: 右手をさっと水にくぐらせ 魚を掴みあげた
+    tags: *a1
+  - id: ecee2be0-e57a-4634-beb0-69b5b18f5a08
+    start: 06:32.447
+    end: 06:36.543
+    fields:
+      transcription: 岸部 泳ぐ 細長い魚の3倍はありそうなものだ
+    tags: *a1
+  - id: 8ed26f9f-b9bb-4931-a09c-1090ca40a8fb
+    start: 06:38.335
+    end: 06:39.615
+    fields:
+      transcription: 驚いたでしょう
+    tags: *a1
+  - id: e6588d8d-1522-45ee-81a0-f4bd291d70e4
+    start: 06:40.383
+    end: 06:42.175
+    fields:
+      transcription: 戻ってきた 熊が入った
+    tags: *a1
+  - id: b82a4b7b-e47f-419b-88de-ccbcc5861b69
+    start: 06:42.431
+    end: 06:48.063
+    fields:
+      transcription: お断りしたから行けば良かったのですが つい 足が先に出てしまいまして
+    tags: *a1
+  - id: 9a504328-a345-4d5e-9ad6-5e4744955ede
+    start: 06:48.575
+    end: 06:49.599
+    fields:
+      transcription: 大きいでしょ
+    tags: *a1
+  - id: 6db4cc33-f1da-4d8f-a4d4-6aac27987685
+    start: 06:50.623
+    end: 06:53.695
+    fields:
+      transcription: 熊は魚を私の目の前にかざした
+    tags: *a1
+  - id: 18e86005-6a51-4f66-bde9-f2223f5243fb
+    start: 06:54.463
+    end: 06:55.487
+    fields:
+      transcription: 魚のヒレが
+    tags: *a1
+  - id: 1d46d2ba-8058-4332-8ab3-cf9c65c94431
+    start: 06:55.743
+    end: 06:58.047
+    fields:
+      transcription: 日を受けて きらきらひかる
+    tags: *a1
+  - id: dd4be784-aa99-42d8-ba68-288ebf8116d7
+    start: 06:58.303
+    end: 07:02.399
+    fields:
+      transcription: 釣りをしている人たちがこちらを指差して何か話している
+    tags: *a1
+  - id: 80ea9644-1fda-4ce4-a0b6-3d1bd3b0ebc3
+    start: 07:03.167
+    end: 07:04.959
+    fields:
+      transcription: 熊はかなり得意そうだ
+    tags: *a1
+  - id: 63cebdc6-e1a6-428d-b380-408e5eae3bcf
+    start: 07:05.727
+    end: 07:07.007
+    fields:
+      transcription: 差し上げましょう
+    tags: *a1
+  - id: 5be5596c-1121-40c0-a3a1-ca4fbac7417d
+    start: 07:07.263
+    end: 07:08.287
+    fields:
+      transcription: 今日の記念に
+    tags: *a1
+  - id: 0e2ec0e2-f564-4309-81e8-ce3b4aa614e4
+    start: 07:09.311
+    end: 07:13.407
+    fields:
+      transcription: そう言うと クマは 担いできた袋の口を開けた
+    tags: *a1
+  - id: b036afa4-b2e2-41d1-a774-147acbf5d14e
+    start: 07:14.175
+    end: 07:19.039
+    fields:
+      transcription: 取り出した布の包みの中からは小さなナイフと まな板が出てきた
+    tags: *a1
+  - id: a7728c4e-c26f-4ed4-978c-085488492ea0
+    start: 07:20.319
+    end: 07:20.831
+    fields:
+      transcription: 熊は
+    tags: *a1
+  - id: 5d98d105-87c4-4f09-b819-bb4d9b73b8b2
+    start: 07:21.087
+    end: 07:23.647
+    fields:
+      transcription: キヨにナイフを使って魚を開くと
+    tags: *a1
+  - id: 64327af3-f1c1-42b1-a79e-4af61227496d
+    start: 07:24.159
+    end: 07:28.767
+    fields:
+      transcription: これもかねて用意してあったらしい 粗塩 パパと ふりかけ
+    tags: *a1
+  - id: d52e6637-bb8d-4408-836b-517ea9c96fe5
+    start: 07:29.023
+    end: 07:30.559
+    fields:
+      transcription: 広げた歯の上に
+    tags: *a1
+  - id: db14fe2f-93d7-4f68-ac5d-ba59e7c2ea5e
+    start: 07:30.815
+    end: 07:31.839
+    fields:
+      transcription: 魚を置いた
+    tags: *a1
+  - id: 136f7081-02ee-4449-8c58-fdf9a3f53ff9
+    start: 07:33.631
+    end: 07:38.239
+    fields:
+      transcription: 何回か ひっくり返せば 帰る頃にはちょうどいい干物になっています
+    tags: *a1
+  - id: ff423ec9-d560-4e1e-831e-94daa8ce02a0
+    start: 07:39.007
+    end: 07:41.823
+    fields:
+      transcription: 何から何まで行き届いたくまである
+    tags: *a1
+  - id: adc76db1-d07d-498e-96e6-c0659e3939e4
+    start: 07:43.359
+    end: 07:48.479
+    fields:
+      transcription: 私達は 草の上に座って川を見ながら弁当を食べた
+    tags: *a1
+  - id: 336f9e50-b2cd-461d-9bf2-52f444c176ed
+    start: 07:48.991
+    end: 07:52.831
+    fields:
+      transcription: 熊はフランスパンの所々に切れ目を入れて
+    tags: *a1
+  - id: 63fa55d7-8579-40fe-a477-81e9c254da59
+    start: 07:53.087
+    end: 07:55.391
+    fields:
+      transcription: パテとラディッシュを挟んだもの
+    tags: *a1
+  - id: 7ad487cf-1132-43c6-990e-512158a61c79
+    start: 07:55.903
+    end: 07:58.207
+    fields:
+      transcription: 私は梅干し入りのおむすび
+    tags: *a1
+  - id: 59f349af-ebb4-469b-95da-02ed2f786355
+    start: 07:58.975
+    end: 07:59.743
+    fields:
+      transcription: 食後には
+    tags: *a1
+  - id: be896564-41fb-460f-8e49-5ced407db24f
+    start: 07:59.999
+    end: 08:01.791
+    fields:
+      transcription: 各自 オレンジを一個ずつ
+    tags: *a1
+  - id: 89e43937-50b3-4fb6-ba9a-7c307db37f61
+    start: 08:02.815
+    end: 08:05.119
+    fields:
+      transcription: ゆっくりと食べ終わるとクマは
+    tags: *a1
+  - id: 9d65bfe5-b7f6-49ca-ba9f-abdbbf24939c
+    start: 08:06.399
+    end: 08:09.727
+    fields:
+      transcription: もしよろしければ オレンジの皮をいただけますか
+    tags: *a1
+  - id: 449d5b3e-d6c8-4969-be43-296a1ee07b1a
+    start: 08:10.239
+    end: 08:10.751
+    fields:
+      transcription: トイ
+    tags: *a1
+  - id: 3a60e50b-382b-48df-88d7-6fa6536194a5
+    start: 08:11.007
+    end: 08:15.103
+    fields:
+      transcription: 受け取ると私に背を向けて急いで皮を食べた
+    tags: *a1
+  - id: ff9b015d-81eb-4396-a21d-0ead945bfad3
+    start: 08:16.639
+    end: 08:20.223
+    fields:
+      transcription: 少し離れたところに置いてある魚をひっくり返しに行き
+    tags: *a1
+  - id: b666500f-dda4-4e2f-a858-6366b69da04f
+    start: 08:20.479
+    end: 08:24.319
+    fields:
+      transcription: ナイフと まな板とコップを流れで 丁寧に洗い
+    tags: *a1
+  - id: 7cde1517-6997-498b-95d6-85263fb0249c
+    start: 08:24.831
+    end: 08:26.111
+    fields:
+      transcription: それを拭き終えると
+    tags: *a1
+  - id: 4b6b8a59-323e-4675-8d38-dfad7c953477
+    start: 08:26.367
+    end: 08:28.927
+    fields:
+      transcription: 熊は袋から大きいタオルを取り出し
+    tags: *a1
+  - id: ea94d139-7f16-4576-b4bd-2cf6e947d846
+    start: 08:29.183
+    end: 08:30.463
+    fields:
+      transcription: 私に手渡した
+    tags: *a1
+  - id: 536ded13-2262-4fc9-86d4-65e9c7936857
+    start: 08:31.231
+    end: 08:34.047
+    fields:
+      transcription: 昼寝をするときにお使いください
+    tags: *a1
+  - id: d196e77d-cc43-4e8f-b5e6-a640efd2ccc6
+    start: 08:34.815
+    end: 08:36.863
+    fields:
+      transcription: 僕はその辺をちょっと歩いてきます
+    tags: *a1
+  - id: 964b6497-857b-422e-8d94-e06098b35131
+    start: 08:37.375
+    end: 08:39.423
+    fields:
+      transcription: もしよかったらその前に
+    tags: *a1
+  - id: 4ea65cea-0abf-468d-897f-6e54e90e03c6
+    start: 08:39.935
+    end: 08:42.239
+    fields:
+      transcription: 子守歌を歌って差し上げましょうか
+    tags: *a1
+  - id: c1df3a3e-1542-4893-85bb-3ed92c33f3b8
+    start: 08:43.775
+    end: 08:44.799
+    fields:
+      transcription: 真面目に聞く
+    tags: *a1
+  - id: a4765974-bdb8-48b9-a30b-1a76402dfff4
+    start: 08:46.335
+    end: 08:49.407
+    fields:
+      transcription: 子守歌 なしでも眠れそうだと私が答えると
+    tags: *a1
+  - id: c28da2cc-5872-46ec-8fb7-f20435c46c7e
+    start: 08:49.663
+    end: 08:54.527
+    fields:
+      transcription: 熊はがっかりした表情になったがすぐに上流の方へ歩み去った
+    tags: *a1
+  - id: ac68f87e-1bfe-4464-ae49-2a815c974c14
+    start: 08:56.319
+    end: 09:00.927
+    fields:
+      transcription: 目を覚ますと 木の影が長くなっており 横に熊が寝ていた
+    tags: *a1
+  - id: 7831e999-c95b-49bf-a3d8-b458d012d806
+    start: 09:01.695
+    end: 09:02.975
+    fields:
+      transcription: タオルが掛けていない
+    tags: *a1
+  - id: f47d29ed-3376-4397-ac8f-7045d529bc4c
+    start: 09:03.743
+    end: 09:09.887
+    fields:
+      transcription: 小さく いびきをかいている 河原にはもう数名の人しか残っていない
+    tags: *a1
+  - id: c54086f6-51c8-411c-9dee-c37c424c8718
+    start: 09:10.399
+    end: 09:12.703
+    fields:
+      transcription: 皆釣りをする人である
+    tags: *a1
+  - id: 80464aac-d4df-43fa-9416-41e7d455df06
+    start: 09:13.983
+    end: 09:17.823
+    fields:
+      transcription: クマにタオルを掛けてから補習をひっくり返しに行くと
+    tags: *a1
+  - id: 447900d3-8952-42b6-9c1a-dc14ffa30a59
+    start: 09:18.335
+    end: 09:20.127
+    fields:
+      transcription: 魚は3匹に増えていた
+    tags: *a1
+  - id: 9f3e6ecc-11a2-426a-9a3a-f524a63fe4a8
+    start: 09:22.175
+    end: 09:23.967
+    fields:
+      transcription: 良い 散歩でした
+    tags: *a1
+  - id: b0f61820-c8eb-427e-ba37-cf97df966d6b
+    start: 09:24.735
+    end: 09:27.295
+    fields:
+      transcription: 熊は305号室の前で
+    tags: *a1
+  - id: 4ed7cfcb-180e-4ae4-8b04-d5e32a9db678
+    start: 09:27.551
+    end: 09:29.855
+    fields:
+      transcription: 袋から鍵を取り出しながら行った
+    tags: *a1
+  - id: 622ed170-3205-4557-a13d-15b85d03ec9d
+    start: 09:31.647
+    end: 09:34.207
+    fields:
+      transcription: また このような機会を持ちたいものですが
+    tags: *a1
+  - id: f26691d2-1cd6-45de-9311-f545abd690ea
+    start: 09:34.975
+    end: 09:36.511
+    fields:
+      transcription: 私も頷いた
+    tags: *a1
+  - id: 0269412b-e762-4b39-a21c-7c62e1284e46
+    start: 09:37.535
+    end: 09:43.167
+    fields:
+      transcription: それから 補習をやその他の例を言うと 熊は大きく手を振って
+    tags: *a1
+  - id: 46efa001-254f-48e3-ad07-cf0c2a47b038
+    start: 09:43.423
+    end: 09:45.983
+    fields:
+      transcription: とんでもないと答えるのだった
+    tags: *a1
+  - id: 2b14ecc8-c603-4305-8af6-e47ed5e03d2b
+    start: 09:47.263
+    end: 09:48.031
+    fields:
+      transcription: では
+    tags: *a1
+  - id: 2297732d-6c3f-475a-86ce-81a8d1292d81
+    start: 09:48.287
+    end: 09:50.591
+    fields:
+      transcription: と立ち去ろうとするとクマが
+    tags: *a1
+  - id: aa267931-7a89-4faf-98df-a420484264d9
+    start: 09:51.103
+    end: 09:51.871
+    fields:
+      transcription: あの
+    tags: *a1
+  - id: 2b1797a2-d6f6-451b-a35e-a78cb14a22a9
+    start: 09:52.383
+    end: 09:53.151
+    fields:
+      transcription: と言う
+    tags: *a1
+  - id: 23c53c4c-b27e-4bec-9929-8ddaa776aca4
+    start: 09:54.175
+    end: 09:58.271
+    fields:
+      transcription: 次の言葉を待って 熊を見上げるがもじもじして黙っている
+    tags: *a1
+  - id: ea3252ef-5e40-4237-b32f-799ff70c18b2
+    start: 09:58.783
+    end: 10:01.087
+    fields:
+      transcription: 本当に大きな熊手ある
+    tags: *a1
+  - id: a49e94ce-2c4b-4b77-85d0-ce9b7eab7c03
+    start: 10:02.111
+    end: 10:05.183
+    fields:
+      transcription: その大きなクマが喉の奥で うるうる
+    tags: *a1
+  - id: 8ba987c6-49bb-4699-b46c-85992ab8f2fe
+    start: 10:05.439
+    end: 10:09.023
+    fields:
+      transcription: というような音を立てながら恥ずかしそうにしている
+    tags: *a1
+  - id: efcda483-c9fa-445d-aea2-6554ec488813
+    start: 10:09.279
+    end: 10:13.375
+    fields:
+      transcription: 言葉を喋る時には人間と同じ発声法なのであるが
+    tags: *a1
+  - id: 1eb77d44-26fd-4425-97f4-6018a09918dd
+    start: 10:13.631
+    end: 10:19.775
+    fields:
+      transcription: こうして言葉にならない声を出す時や 払う時はやはり 熊本来の発生なのである
+    tags: *a1
+  - id: af4bc21e-377f-4c65-9b12-faf2dde5612d
+    start: 10:21.823
+    end: 10:23.871
+    fields:
+      transcription: 抱擁を交わしていただけますか
+    tags: *a1
+  - id: c0e3ca8d-ade0-4de1-8038-70940d2a483b
+    start: 10:24.895
+    end: 10:25.919
+    fields:
+      transcription: 熊は言った
+    tags: *a1
+  - id: 634a72d3-cf7e-4c4c-a51f-0dff43c6283c
+    start: 10:27.199
+    end: 10:31.039
+    fields:
+      transcription: 親しい人と別れる時の補強の習慣 なのです
+    tags: *a1
+  - id: 9c8a9be8-d75b-4675-8a51-c05f1f0ede73
+    start: 10:31.807
+    end: 10:34.367
+    fields:
+      transcription: もしお 嫌なら もちろんいいのですが
+    tags: *a1
+  - id: 8956d36c-f6b9-48d0-b9e9-532d69b02425
+    start: 10:35.647
+    end: 10:37.951
+    fields:
+      transcription: 私は承知した
+    tags: *a1
+  - id: 1789b0a5-20f9-42a5-962b-b44b8907da46
+    start: 10:38.463
+    end: 10:40.255
+    fields:
+      transcription: 熊は一歩前に出ると
+    tags: *a1
+  - id: 36260698-819b-444a-accc-3ca6275313b3
+    start: 10:40.511
+    end: 10:42.047
+    fields:
+      transcription: 両腕を大きく広げ
+    tags: *a1
+  - id: 1bb5fec5-905f-4675-9acf-a9f6d0147129
+    start: 10:42.303
+    end: 10:44.607
+    fields:
+      transcription: その腕を 私の方に回し
+    tags: *a1
+  - id: 204c9b85-677e-4740-a261-7fda09bfd286
+    start: 10:44.863
+    end: 10:47.167
+    fields:
+      transcription: 4 私の方に擦り付けた
+    tags: *a1
+  - id: fb675eb3-f54f-4217-bba8-750113837f9e
+    start: 10:48.191
+    end: 10:49.471
+    fields:
+      transcription: 熊の臭いがする
+    tags: *a1
+  - id: 4014fa96-feab-4f5f-9070-0d314016f054
+    start: 10:49.727
+    end: 10:53.311
+    fields:
+      transcription: 反対の方も同じように 擦り付けると
+    tags: *a1
+  - id: 92dd4f4f-02d1-4ed3-941e-58cff731f96f
+    start: 10:53.567
+    end: 10:57.151
+    fields:
+      transcription: もう一度 腕に力を入れて 私の肩を抱いた
+    tags: *a1
+  - id: 00e666bd-cbd8-49f1-9b72-db15607836ea
+    start: 10:57.663
+    end: 10:58.687
+    fields:
+      transcription: 思ったよりも
+    tags: *a1
+  - id: d83587b9-0437-4984-aee2-8cc8d216dbed
+    start: 10:58.943
+    end: 11:00.735
+    fields:
+      transcription: 熊の体は冷たかった
+    tags: *a1
+  - id: b9380bb2-93d6-4b96-b822-88ba41a5a7aa
+    start: 11:01.759
+    end: 11:04.575
+    fields:
+      transcription: 今日は本当に楽しかったです
+    tags: *a1
+  - id: 5f3ab320-5c37-4876-a5bd-7f78299cadca
+    start: 11:05.599
+    end: 11:08.415
+    fields:
+      transcription: 遠くへ旅行して帰ってきたような気持ちです
+    tags: *a1
+  - id: 3ff27884-d2d6-490e-8320-0438a2aa0b26
+    start: 11:09.439
+    end: 11:11.487
+    fields:
+      transcription: 熊の神様のお恵みが
+    tags: *a1
+  - id: 0fba5f3f-89af-4209-827d-9a8aaa80da7e
+    start: 11:11.743
+    end: 11:14.303
+    fields:
+      transcription: あなたの上にも降り注ぎますように
+    tags: *a1
+  - id: 26cd9293-cb68-4ac3-9c3c-af8d9c5cbc5d
+    start: 11:15.327
+    end: 11:21.471
+    fields:
+      transcription: それから 補修をあまり持ちませんから 今夜のうちに召し上がる方がいいと思います
+    tags: *a1
+  - id: 449c44de-788d-423d-878a-c125036e9921
+    start: 11:23.263
+    end: 11:25.311
+    fields:
+      transcription: 部屋に戻って魚を焼き
+    tags: *a1
+  - id: a905a193-23b4-4785-9366-4d811b297941
+    start: 11:25.823
+    end: 11:26.847
+    fields:
+      transcription: 風呂に入り
+    tags: *a1
+  - id: 24ac12ef-98a5-42e4-a270-3be16fe60407
+    start: 11:27.359
+    end: 11:29.407
+    fields:
+      transcription: 眠る前に少し日記を書いた
+    tags: *a1
+  - id: eee53fc4-0a7c-4b28-8fab-75c670a40813
+    start: 11:30.431
+    end: 11:35.039
+    fields:
+      transcription: 熊野神とはどのようなものか想像してみたが
+    tags: *a1
+  - id: 401a278f-6676-4171-bcb5-142f594771da
+    start: 11:35.295
+    end: 11:37.343
+    fields:
+      transcription: 見当がつかなかった
+    tags: *a1
+  - id: 93d23f0f-67cc-4d16-a74f-0aeadffa572b
+    start: 11:38.111
+    end: 11:39.903
+    fields:
+      transcription: 悪くない一日だった
+    tags: *a1
+flashcardFieldsToSubtitlesTracks:
+  transcription: 4aa2dd76-fd26-4579-a322-1e7ae12b3e1c
+---
+name: 02-AudioTrack 02.mp3
+format: mp3
+duration: 05:31.833
+id: e5324a6c-73ca-403e-b607-79cd65b8fec7
+---
+name: 03-AudioTrack 03.mp3
+format: mp3
+duration: 15:39.703
+id: 18a9ec8f-df79-48b4-b0bd-6a784d0b734c
+---
+name: 04-AudioTrack 04.mp3
+format: mp3
+duration: 21:29.43
+id: 8b299f22-d061-48f5-aab7-fddeafceeb6d
+---
+name: rashomon_all.mp3
+format: mp3
+duration: 26:07.922
+id: deea7055-2b91-4a29-affd-01b67067aaa0
+subtitles:
+  - id: ad114edd-cb05-4b22-b0f1-ba42736aa088
+    type: External
+    chunksMetadata:
+      count: 382
+      endCue: 77990.4
+    name: out.srt
+  - id: 5280893d-2426-4bec-92ef-76ef8f9de405
+    type: External
+    chunksMetadata:
+      count: 476
+      endCueMs: 1564672
+    name: rashomon_all.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: ad114edd-cb05-4b22-b0f1-ba42736aa088
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 01 [1080p].mkv"
+format: matroska,webm
+duration: 24:10.411
+id: b622b93d-26d3-4428-8627-09964ca4e306
+subtitles:
+  - id: a7a2184f-cd26-456e-960d-23a0949cc107
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 319
+      endCueMs: 1437330
+  - id: c4da36da-b5bf-4897-8393-465fd597dfb7
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 01 [1080p].ja.ass"
+clips:
+  - id: 33913ce5-897c-4174-b08a-50ba437f2b64
+    start: 04:35.99
+    end: 04:39.54
+    fields:
+      transcription: 自分でも思うけど　ちょっと{{c1::ドジ}}で泣き虫
+      meaning: |-
+        I know I'm little clumsy,
+        and a crybaby sometimes.
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_01_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: f58bb419-9c0e-4898-a8f9-57ec049c66fb
+    start: 04:50.04
+    end: 04:52.17
+    fields:
+      transcription: 今あたし　何か{{c1::踏んづけた}}
+      meaning: Huh? Did I just step on something?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 30aecb4c-e218-4031-bc47-f3624d08e09a
+    start: 05:11.22
+    end: 05:14.08
+    fields:
+      transcription: 何よ　{{c1::引っ掻く}}ことないでしょ
+      meaning: Oh, my God! You don't have to scratch me!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5cea4694-97a9-4282-8f1d-39f53c86f3d6
+    start: 05:19.17
+    end: 05:20.41
+    fields:
+      transcription: "{{c1::剥がして}}ほしいの"
+      meaning: Do you want me to remove them?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f1ae6db8-5b91-4698-a13a-673f3b6ab8f5
+    start: 05:52.85
+    end: 05:57.66
+    fields:
+      transcription: 出でよ　我らが大いなる支配者に{{c1::仕える}}妖魔よ
+      meaning: |-
+        Come out... Our great Evil 
+        who serves the master...
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 1e31b5a0-43c0-4e28-b45f-f3677714790e
+    start: 06:20.84
+    end: 06:22.109
+    fields:
+      transcription: "{{c1::廊下}}に立ってなさい"
+      meaning: Stand outside in the hallway!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 52ed8413-5835-43b4-9ab4-5758d7d3ac2a
+    start: 07:14.47
+    end: 07:19.81
+    fields:
+      transcription: これは担任の桜田春菜先生　{{c1::通称}}「春だ」　担当は英語
+      meaning: |-
+        She is our English teacher.
+        Haruna Sakurada-sensei.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f53a2f2d-6b5c-4639-96fa-61ad191986a5
+    start: 08:15.01
+    end: 08:20.51
+    fields:
+      transcription: セーラーVは今{{c1::巷}}を{{c2::賑わせている}}セーラー服姿の正義の味方
+      meaning: |-
+        Sailor V is a famous 
+        heroine in a sailor suit!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 932ca8f9-fdc1-4be3-be91-cece0cf2519c
+    start: 08:21.16
+    end: 08:25.2
+    fields:
+      transcription: 実は{{c1::警視庁}}の特別{{c2::捜査官}}って噂もあるんですよ
+      meaning: |-
+        Some people say she is actually 
+        a special police officer.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ca7cfdd7-0a95-4887-8df2-323139ba0dab
+    start: 09:45.64
+    end: 09:48.18
+    fields:
+      transcription: テストの点よかったから　パパに{{c1::ねだっちゃおう}}
+      meaning: |-
+        Since I did well on my exam, 
+        I will ask my dad to buy it.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ceb1629e-98eb-486d-8c82-b24b21e23790
+    start: 10:06.96
+    end: 10:10.88
+    fields:
+      transcription: ３０点じゃね　ちょっと{{c1::おねだり}}できないわね
+      meaning: |-
+        30 percent, I don't think I 
+        can ask my mom for anything.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 74c474cf-b296-4530-9298-6b596cc4da67
+    start: 10:20.92
+    end: 10:22.58
+    fields:
+      transcription: 俺にまで{{c1::たんこぶ}}作る気か
+      meaning: Are you gonna make bumps on my head too?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f3f9455e-3601-4b6a-a83c-473efe4e6166
+    start: 10:32.48
+    end: 10:34.98
+    fields:
+      transcription: よ…余計なお世話よ
+      meaning: Mind your own business!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 33befa1e-3686-4c59-978b-ea02790d9246
+    start: 11:05.42
+    end: 11:08.849
+    fields:
+      transcription: 何よ　{{c1::まっ昼間}}からタキシードなんか着ちゃって
+      meaning: Who wears a tuxedo in the afternoon?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 2f1eda7d-7629-45d5-8707-12bb0d6e4fc9
+    start: 11:46.82
+    end: 11:49.35
+    fields:
+      transcription: え　倒れないぞこの{{c1::雑魚}}キャラ
+      meaning: |-
+        Can't defeat them.
+        You dimwit.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 4f280460-4640-4ec0-9830-ee58f04efc36
+    start: 12:24.79
+    end: 12:27.55
+    fields:
+      transcription: 見て見て　額に三日月はげがある
+      meaning: |-
+        Look, she has a bald patch 
+        in a crescent-shape.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8a144749-bc9f-48ff-8904-7909a5683cf1
+    start: 13:11.0
+    end: 13:12.84
+    fields:
+      transcription: また閉め出し食らってやんの
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a6455872-7f09-4a62-9660-f672776fcd34
+    start: 13:58.81
+    end: 14:02.57
+    fields:
+      transcription: しかし　{{c1::肝心}}なものはここにもないようだな
+      meaning: |-
+        But it seems the one I 
+        seek is not here either...
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d5b8ac99-745c-4bf7-bf2d-f15e57ed581d
+    start: 16:06.36
+    end: 16:10.32
+    fields:
+      transcription: 今東京では警察の手には負えない事件が続発しているわ
+      meaning: |-
+        Right now in Tokyo,
+        many vicious crimes are 
+        happening while we speak.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 40583f83-c1a8-482e-a909-90488532215b
+    start: 16:10.81
+    end: 16:15.57
+    fields:
+      transcription: うさぎちゃんは選ばれた戦士なの　うさぎちゃんには{{c1::使命}}があるのよ
+      meaning: |-
+        You are the chosen guardian.
+        You have a mission.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c35126be-9a3b-4fa5-9e59-7ff7798dda05
+    start: 17:54.82
+    end: 17:56.28
+    fields:
+      transcription: "{{c1::妖魔}}が現れたようね"
+      meaning: Looks like Evil has come out...
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a0965861-f3a7-403c-8f20-6a4cf1e68f25
+    start: 19:04.19
+    end: 19:08.86
+    fields:
+      transcription: 我が大いなる支配者にエナジーを捧げた下部ども
+      meaning: |-
+        all the servants who contributed 
+        their energies to our great master!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 2f2c49eb-e865-48ca-88e8-6b2ddc875956
+    start: 20:11.36
+    end: 20:14.07
+    fields:
+      transcription: "{{c1::痺れる}}　超音波か"
+      meaning: I feel numb... Ultrasonic waves?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f8432f12-c9d1-4d51-a18b-0aef5e3373bd
+    start: 21:55.54
+    end: 22:03.84
+    fields:
+      transcription: |-
+        強盗に襲われて　あたし気絶しちゃったんだけど
+        朦朧としてる時に例のセーラー戦士が助けにきてくれたの
+      meaning: |-
+        when the robber attacked me.
+        Before I lost consciousness,
+        I saw Sailor Guardian came to save me!
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_01_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: c6e3c72d-fa18-47d8-afcd-7c48a6092d92
+    start: 22:04.4
+    end: 22:07.35
+    fields:
+      transcription: 気絶しなきゃ正体見られたのに
+      meaning: |-
+        I wish I didn't pass out so 
+        I could find out who she is!
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: c4da36da-b5bf-4897-8393-465fd597dfb7
+  meaning: a7a2184f-cd26-456e-960d-23a0949cc107
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 02 [1080p].mkv"
+format: matroska,webm
+duration: 24:10.341
+id: ac13766e-32f9-415c-9ce4-8113a5191595
+subtitles:
+  - id: 8bd2964e-a0a2-46e6-b9c6-4cb78623e948
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 354
+      endCueMs: 1437230
+  - id: 8488ece1-c56b-4a99-a185-d0115bc6974b
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 02 [1080p].ja.ass"
+clips:
+  - id: 9324278d-cbfe-4b30-b2aa-1c873e9deaa4
+    start: 03:17.28
+    end: 03:21.69
+    fields:
+      transcription: そして{{c1::一刻も早く}}　幻の銀水晶を探し出せ
+      meaning: |-
+        then get me the "Legendary
+        Silver Crystal" at once!
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_02_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 7e2e3ef8-6e09-4a81-8fc0-b2f95ea3c565
+    start: 04:55.46
+    end: 04:57.44
+    fields:
+      transcription: 二人目の目星はついてるのよ
+      meaning: |-
+        I've actually got my eye
+        on someone already.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0667e2b6-2e65-47e4-b26c-9d8d006e5c37
+    start: 05:29.01
+    end: 05:32.05
+    fields:
+      transcription: 今回も全科目満点で全国一位よ
+      meaning: |-
+        She got perfect scores
+        in all subjects!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b80b2eec-f0c5-448b-ba7c-d4a194708112
+    start: 06:32.08
+    end: 06:35.96
+    fields:
+      transcription: こんな悲惨な結果　ママに殺される
+      meaning: |-
+        This is horrible.
+        My mom will kill me.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 752dc4d3-d94f-49ad-a364-1b3a7af157df
+    start: 09:29.414
+    end: 09:32.414
+    fields:
+      transcription: |-
+        なんか出てきた
+        景品かしら
+      meaning: |-
+        Something came out.
+        A prize?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ba73079a-c069-4bb6-8bf0-355272c5b071
+    start: 10:19.42
+    end: 10:22.9
+    fields:
+      transcription: あたし　勉強くらいしか取り柄ないしね
+      meaning: All I'm good at is studying.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3ae88c0c-c317-4141-aed1-f5dc9b6fb762
+    start: 15:30.8
+    end: 15:37.22
+    fields:
+      transcription: |-
+        この少女の頭脳を使えば東京など
+        いや　日本などあっという間に支配下に置ける
+      meaning: |-
+        With her intelligence,
+        we can conquer Tokyo...
+        No, we can take over
+        all of Japan very soon.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_02_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: dcff4f1b-a075-46a0-8bf8-fdc3b6407da8
+    start: 15:52.08
+    end: 15:55.22
+    fields:
+      transcription: こんなもの持ってるから勉強に身が入れないのよ
+      meaning: |-
+        Don't get distracted,
+        you need to focus on studying!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 2f3fe5b4-95d1-4c40-a5f6-1cda1729e4ef
+    start: 16:13.32
+    end: 16:16.2
+    fields:
+      transcription: 亜美ちゃん　インチキ講師に騙されちゃだめ
+      meaning: |-
+        Ami-chan, don't be tricked
+        by this fake teacher!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0d31641a-8dc9-4965-9fe6-dd084dd086dd
+    start: 17:57.3
+    end: 18:05.01
+    fields:
+      transcription: |-
+        純粋な向学心につけ込んで　洗脳するなんて許せない
+        これ以上あたしの友達には手出しさせないわよ
+      meaning: |-
+        You took advantage
+        of a student's pure ambition!
+        I will not let you
+        touch my friend anymore!
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_02_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 59fe95f4-3a93-4458-9645-9f960d720f4c
+    start: 18:51.5
+    end: 18:54.07
+    fields:
+      transcription: 最後は私が切り刻んでやる
+      meaning: I will slice you up!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d949b129-b096-42a4-bc34-09f5839d23af
+    start: 21:10.07
+    end: 21:14.12
+    fields:
+      transcription: |-
+        しっかりしろ　セーラームーン
+        敵に{{c1::とどめ}}を刺すんだ
+      meaning: |-
+        Come on, Sailor Moon.
+        Finish her.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_02_[1080p].mkv"
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 8488ece1-c56b-4a99-a185-d0115bc6974b
+  meaning: 8bd2964e-a0a2-46e6-b9c6-4cb78623e948
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 03 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.45
+id: b94e192e-68ec-4f83-9443-274dea56ab6d
+subtitles:
+  - id: 6a6a3198-d7a5-45fb-8977-8daf0123b49c
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 338
+      endCueMs: 1480289
+  - id: 3afec280-6950-4df0-8adb-4be7066bc529
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 03 [1080p].ja.ass"
+clips:
+  - id: 067546fc-f47d-44e7-8452-c53ecdf68077
+    start: 00:29.2
+    end: 00:35.44
+    fields:
+      transcription: |-
+        お前の生み出す妖魔は所詮土人形
+        だから脆いのさ
+      meaning: |-
+        Evils you create are made of clay.
+        That's why they are so weak.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: d89371c0-78ec-4092-9a30-163efe9d1050
+    start: 00:55.96
+    end: 00:59.32
+    fields:
+      transcription: しかし　セーラー戦士ってやらがまた邪魔をするだろ
+      meaning: |-
+        But Sailor Guardians will 
+        surely get in the way again.
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: f836536e-26fa-453d-bb40-555f995659bf
+    start: 01:18.86
+    end: 01:23.23
+    fields:
+      transcription: 幻の銀水晶はすべてのエレルギーの{{c1::源}}
+      meaning: It's a source of all kinds of energy.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 308e8ea3-ac7d-4c41-aff8-e056ec21676b
+    start: 01:25.12
+    end: 01:29.17
+    fields:
+      transcription: 計り知れない無限の力を持つと聞いている
+      meaning: They say it has immense power.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d309a2c0-0e37-4d13-a00e-2af72c012675
+    start: 01:44.04
+    end: 01:48.9
+    fields:
+      transcription: まずは我らの前に{{c1::立ち塞がる}}者どもを{{c2::排除}}するのだ
+      meaning: Your mission is to get rid of our enemies.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 4f2d073b-46cf-4dda-a63e-84947e7a608c
+    start: 02:03.73
+    end: 02:06.83
+    fields:
+      transcription: 何か途轍もないことが起こる
+      meaning: Something outrageous will happen.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5e4ebf1f-5344-452a-b70a-ce48878e1c93
+    start: 04:21.55
+    end: 04:28.89
+    fields:
+      transcription: |-
+        行方不明になっちゃうって話ですよ
+        死神が運転してるんだって
+        行き先は地獄ですよ
+      meaning: |-
+        you will never be able to return!
+        Death is driving that bus!
+        It's bound for hell!
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: c44ba7fb-c2d7-4ef1-8b72-08c434bb1623
+    start: 04:39.83
+    end: 04:42.57
+    fields:
+      transcription: 放課後　亜美ちゃんと作戦会議あるわよ
+      meaning: |-
+        We will have a meeting with 
+        Ami-chan after school.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 60b37c95-df9b-4989-9fba-e638cd644759
+    start: 06:41.78
+    end: 06:44.04
+    fields:
+      transcription: ルナのせいで見失ったんじゃないの
+      meaning: I've lost her, it's your fault!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5759efa0-d85a-4b3e-9bf0-5e8ecba05508
+    start: 06:53.69
+    end: 06:55.26
+    fields:
+      transcription: ただならぬ妖気
+      meaning: I feel a demonic atmosphere.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 144e3004-5d72-48b6-85a0-4db5d9953398
+    start: 06:58.76
+    end: 07:03.66
+    fields:
+      transcription: 神聖なるこの神社に災いをもたらす輩　許さない
+      meaning: |-
+        No one can bring trouble 
+        into this sacred shrine!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 15ae037c-0acc-4e52-857f-106cad360846
+    start: 07:29.24
+    end: 07:32.8
+    fields:
+      transcription: そんなことよりこの人って巫女さんだったのか
+      meaning: |-
+        I don't really care about it. 
+        She is a shrine maiden, so cool!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5c680353-2bad-4860-8e27-98dbab371037
+    start: 08:14.77
+    end: 08:19.71
+    fields:
+      transcription: |-
+        火野さんちのレイちゃんは変わり者なの
+        霊感もあるらしいわよ
+      meaning: |-
+        Rei-chan is a strange girl.
+        She can sense the supernatural.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: e669e5b8-eb18-47b7-ba7a-40e16f442265
+    start: 08:42.03
+    end: 08:49.8
+    fields:
+      transcription: |-
+        五本の坂が集まっている仙台坂上には
+        幻の六本目の坂があるという言い伝えがありますの
+      meaning: |-
+        There are five hills in Sendaizakaue,
+        but it is believed that there 
+        is another mysterious hill.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: d4db3f9b-042c-4c44-947c-a5edec3e9715
+    start: 09:27.35
+    end: 09:30.09
+    fields:
+      transcription: こう物騒な事件が続くとはね
+      meaning: Well, it keeps on happening.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8a2d7151-5c7e-4015-99e3-5fd8939cbab2
+    start: 09:47.987
+    end: 09:58.027
+    fields:
+      transcription: |-
+        不思議な力を持つ霊感少女
+        {{c1::高貴}}な顔立ち　神に仕える身
+        あたし達の探しているプリンセスなのかも
+      meaning: |-
+        Mysterious girl with spiritual powers,
+        noble face, and she is a shrine maiden...
+        She might be the princess we are looking for!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e404f8a1-f5ff-4f31-99ee-5545a5e31324
+    start: 10:17.13
+    end: 10:23.94
+    fields:
+      transcription: |-
+        何かあったら通信器で連絡取ればいいわ
+        これ　ただの腕時計じゃなかったの
+      meaning: |-
+        That's okay, you can stay in
+        touch with her by using this communicator.
+        Isn't it just a watch?
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: f2e034bd-518f-488d-b81e-d539dddfe938
+    start: 10:42.84
+    end: 10:44.82
+    fields:
+      transcription: 俺はれっきとした高校生だ
+      meaning: I'm a high school student!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3f9f2bd8-b9cc-4236-b2b8-e7c6f519071d
+    start: 11:47.58
+    end: 11:53.97
+    fields:
+      transcription: 霊感だなんて　そんな場所を特定できるような確実なものじゃないんです
+      meaning: |-
+        My powers are not as powerful as you think.
+        I can't specify her location.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 19cbebf1-6c5a-4fd9-aaf6-5d6a06d6d3f0
+    start: 12:11.38
+    end: 12:14.88
+    fields:
+      transcription: こんな美人をみんなで責めるなんてひどいじゃないの
+      meaning: How can you guys accuse this beautiful girl?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b53d18b8-9152-4723-bcae-9ae2a30fd0ec
+    start: 12:43.21
+    end: 12:49.41
+    fields:
+      transcription: |-
+        人とは違う力があるせいで
+        私　よく白い目で見られましたの
+      meaning: |-
+        people look at me coldly because
+        I have mysterious powers.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: f13874d9-e485-4e02-9a88-6d3a3305f54e
+    start: 13:05.37
+    end: 13:13.67
+    fields:
+      transcription: |-
+        ありがとう　うさぎさん
+        でももう私には{{c1::関わらない}}ほうがいいですわ
+      meaning: |-
+        Thank you, Usagi-san.
+        But you shouldn't be 
+        involved with me anymore.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 6568ecd0-3235-441d-9ad2-0f918c43ea01
+    start: 14:25.53
+    end: 14:29.9
+    fields:
+      transcription: 乗客の快適で安全な旅を守るのがあたしの使命よ
+      meaning: |-
+        My mission is to ensure 
+        the safety of passengers!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f39634cd-aad6-4636-ab3b-de78d5aa0dc3
+    start: 15:07.13
+    end: 15:09.22
+    fields:
+      transcription: 手緩いな　ジェダイト
+      meaning: You are too lenient, Jadeite.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 41753a0f-e628-4a89-a09b-8b43f383d313
+    start: 15:11.29
+    end: 15:16.71
+    fields:
+      transcription: |-
+        {{c2::人質}}は多いほどいいのさ
+        セーラー戦士を{{c1::誘き出す}}ためにはな
+      meaning: |-
+        The more hostages, the better,
+        to lure out Sailor Guardians.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 325af920-622d-4669-95ec-ae0a3875ec44
+    start: 15:54.61
+    end: 15:57.12
+    fields:
+      transcription: 割り出せそう　うさぎちゃんの居場所を
+      meaning: Can you track her location?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9cfb1978-a637-4061-b6a8-abc90327c3c3
+    start: 15:58.94
+    end: 16:01.36
+    fields:
+      transcription: もうちょっと{{c1::出力}}が大きかったら
+      meaning: I need stronger signals.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 1492d054-f6c0-4e7e-b0f3-fce354ef856e
+    start: 16:01.53
+    end: 16:05.17
+    fields:
+      transcription: じゃあ　変身の時のエネルギーなら　{{c1::探知}}できる
+      meaning: |-
+        How about detecting the energy 
+        generated by her transformation?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f4c5fa21-4561-4bfd-964c-e54a44710ab1
+    start: 16:07.26
+    end: 16:10.05
+    fields:
+      transcription: 座標が特定できれば　移動は可能ね
+      meaning: |-
+        Once we confirm her location,
+        - we can teleport to where she is, right?
+         - Yes!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f48d4b6b-f214-44ae-81ea-c6bd2fc0d231
+    start: 17:05.81
+    end: 17:09.6
+    fields:
+      transcription: 初めて会ったのに　なぜか{{c1::惹かれる}}
+      meaning: |-
+        I've never met her before, but 
+        I feel so attracted to her.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c0ba8bfd-aa2e-477d-85bc-cc2ab2c45236
+    start: 19:28.12
+    end: 19:32.04
+    fields:
+      transcription: それを掲げて　マーズパワー　メイクアップって叫んで
+      meaning: Hold that and scream, "Mars Power Make up"!
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 3afec280-6950-4df0-8adb-4be7066bc529
+  meaning: 6a6a3198-d7a5-45fb-8977-8daf0123b49c
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 04 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.38
+id: 28b74815-f632-4afd-bb2d-b10c0958027d
+subtitles:
+  - id: fde065c6-3a34-45da-8958-286f394e17de
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 351
+      endCueMs: 1480219
+  - id: 581d51cc-6906-481f-958c-61b45cb9f772
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 04 [1080p].ja.ass"
+clips:
+  - id: a2cb74fa-451d-4180-93c4-2caf412b85e6
+    start: 02:27.57
+    end: 02:29.77
+    fields:
+      transcription: どうせまた夜更かししたんでしょ
+      meaning: You stayed up late last night, didn't you?
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_04_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 0ff018a3-9610-4120-b3ee-a8267c263cc3
+    start: 02:54.72
+    end: 02:57.47
+    fields:
+      transcription: なんか今日お巡りさんいっぱい
+      meaning: So many police officers are out here today.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 543d3f32-afee-4025-83dc-f46c12074f02
+    start: 03:27.16
+    end: 03:29.35
+    fields:
+      transcription: ルナ　全力疾走よ
+      meaning: Luna, run as fast as you can!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e7963375-dbce-4650-8de8-42afcd6d6826
+    start: 03:37.51
+    end: 03:39.88
+    fields:
+      transcription: ねね　道路で検問やってたでしょ
+      meaning: |-
+        Did you see that the police 
+        blocked the road with a barricade?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0b916ef3-f882-4315-8659-8e0c7ff7ea9e
+    start: 04:05.41
+    end: 04:08.59
+    fields:
+      transcription: こんな難しそうな問題すらすら解いちゃうなんて
+      meaning: |-
+        How can you solve such difficult
+         questions so quickly?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3f6f8bb2-5fb2-4648-ad15-f7284212b528
+    start: 04:25.64
+    end: 04:31.55
+    fields:
+      transcription: |-
+        ところで　そのうさぎちゃんはまだ
+        授業中居眠りして居残りさせられてんのよ
+      meaning: |-
+        By the way, where is Usagi-chan?
+        She was given detention for sleeping during class.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_04_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 064a2802-f68f-4627-bef6-8865e929741d
+    start: 05:26.72
+    end: 05:28.67
+    fields:
+      transcription: 妖魔なんてもう懲り懲り
+      meaning: I'm already sick of fighting Youma.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 90e02408-5bc1-46a4-8907-4b49ddb10876
+    start: 06:05.776
+    end: 06:12.256
+    fields:
+      transcription: |-
+        無限のパワーを持つ聖石
+        幻の銀水晶が悪用されたら　とんでもないことになるわ
+      meaning: It's a resource of unlimited power.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 85d8846e-a4c2-40b0-8424-0f0dca0b8b29
+    start: 06:26.508
+    end: 06:31.028
+    fields:
+      transcription: |-
+        なにか手掛かりがあればいいのに
+        鍵はあなた達にあるわ
+      meaning: |-
+        If only we had a clue...
+        You are all the key to finding a clue.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0d5b8041-dcf0-4bee-8785-ef2ce113fdf4
+    start: 06:32.136
+    end: 06:40.876
+    fields:
+      transcription: |-
+        セーラー戦士が全員揃い　戦士の記憶に目覚めれば
+        プリンセスの封印は解け　幻の銀水晶の{{c1::在り処}}もわかるわ
+      meaning: |-
+        When all the Sailor Guardians are 
+        awakened, the seal will be broken,
+        and we will know where the 
+        Legendary Silver Crystal is.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5142b786-1432-4d48-8b18-ca5a75b7cae0
+    start: 08:11.566
+    end: 08:21.946
+    fields:
+      transcription: |-
+        幻の銀水晶のパワーで我が大いなる支配者を復活させ
+        このダークキングダムを地上に君臨させるのだ
+      meaning: |-
+        Revive our Great Ruler with the
+         power of the Legendary Silver Crystal.
+        The Dark Kingdom will reign, 
+        and rule the world!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 369867b9-970f-49ea-a5ea-4e23a963774f
+    start: 08:39.506
+    end: 08:43.706
+    fields:
+      transcription: |-
+        これからD国の大使館で晩餐会だ
+        パパの雑誌の取材
+      meaning: |-
+        I'm attending the dinner party at 
+        the Kingdom of D's embassy.
+        It's for the interview for my magazine.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e8e535a5-5cd2-4144-933f-4f9724b2d427
+    start: 09:43.25
+    end: 09:46.44
+    fields:
+      transcription: 生憎ですが　ペットは入場できません
+      meaning: |-
+        Unfortunately,
+        pets are not permitted.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b4f2b84a-6504-4e95-9473-1b7515bc7d02
+    start: 13:14.39
+    end: 13:17.81
+    fields:
+      transcription: なんだか体が{{c1::ぽかぽか}}する
+      meaning: I feel so warm inside.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 14f02918-6dc7-470d-9c08-67117b642956
+    start: 13:27.8
+    end: 13:29.67
+    fields:
+      transcription: バルコニーから潜り込んだの
+      meaning: I snuck in through the balcony.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 1d30227f-7a55-4741-a5de-431f8777a0a0
+    start: 13:47.45
+    end: 13:48.839
+    fields:
+      transcription: く…曲者
+      meaning: An intruder!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 17e82ed7-6efa-47d0-8d76-9f4f7e7c8ab4
+    start: 15:46.48
+    end: 15:51.33
+    fields:
+      transcription: 刃向う者はみな我が大いなる支配者の生け{{c1::贄}}となれ
+      meaning: |-
+        Anyone who gets in my way
+         will be sacrificed to our Great Ruler!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 94709b94-a457-4fb6-ba52-fb82ecd0c87a
+    start: 16:17.956
+    end: 16:24.536
+    fields:
+      transcription: |-
+        幻の秘宝を奪うなんて　水でも被って反省しなさい
+        火星に代わって折檻よ
+      meaning: |-
+        You stole the legendary secret treasure!
+        Douse yourself in water, and repent!
+        In the name of Mars, I will chastise you!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b7280456-6d5c-43c7-b337-dcecc4a556ed
+    start: 16:56.92
+    end: 17:00.92
+    fields:
+      transcription: タキシード仮面の温もりが手から伝わってくる
+      meaning: I can feel his warmth from his hand.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b5853777-8bd7-4147-84a3-f10f1c390a9d
+    start: 19:04.92
+    end: 19:07.39
+    fields:
+      transcription: お姫様に乗り移るなんて破廉恥だ
+      meaning: You possessed the princess, shameless villain!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 53e35fa1-9281-4779-b758-0e0e0a41eb1e
+    start: 19:25.723
+    end: 19:30.383
+    fields:
+      transcription: |-
+        傷を負ったのは私の影
+        {{c1::油断}}したな　ネフライト
+      meaning: |-
+        That was just my shadow.
+        How careless of you, Nephrite.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b333fb1f-4d4a-4250-98e6-9fe8a393e04f
+    start: 19:52.84
+    end: 20:00.44
+    fields:
+      transcription: お前たちを　そしてこの世界を　我が大いなる支配者の前に跪かせてみせようぜ
+      meaning: and we will make you and the world obey our Great Ruler!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3de5664d-78cd-49cb-acf4-5c498823a189
+    start: 20:36.67
+    end: 20:42.64
+    fields:
+      transcription: それでは皆様　プリンセスDより　王国に伝わる幻の秘宝の公開です
+      meaning: |-
+        Ladies and gentlemen,
+        we will now reveal our legendary secret treasure!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c54c41f6-2d63-4e4a-be45-8c691979521a
+    start: 22:03.31
+    end: 22:06.58
+    fields:
+      transcription: あなたは味方　それとも敵
+      meaning: Are you on our side? Or are you our enemy?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8fdd2f82-b3b0-4f2f-a05c-348bbe1925ad
+    start: 22:23.82
+    end: 22:26.26
+    fields:
+      transcription: 嵐の到来…か
+      meaning: The storm arrives...
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 581d51cc-6906-481f-958c-61b45cb9f772
+  meaning: fde065c6-3a34-45da-8958-286f394e17de
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 05 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.45
+id: e2fb9676-d5ce-4db7-a89c-63002b166b65
+subtitles:
+  - id: 561b8175-b587-4b7c-9eac-175ebe00aa80
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 342
+      endCueMs: 1480289
+  - id: b80a7dea-062c-419b-afda-8241229b2778
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 05 [1080p].ja.ass"
+clips:
+  - id: 55757dcf-1ed9-4a8a-89b2-827025047c91
+    start: 00:31.16
+    end: 00:33.21
+    fields:
+      transcription: うさぎちゃんったらはしたない
+      meaning: Where are your manners, Usagi-chan?
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_05_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 21032496-03d1-4ed0-bfda-0f69b6c0c7e2
+    start: 00:40.57
+    end: 00:44.0
+    fields:
+      transcription: 正義の戦士っていう自覚をきちんと持ってほしいわね
+      meaning: |-
+        Yes. You need to be aware 
+        of your responsibilities.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_05_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 85ced7d7-65d3-4da1-b43a-dd4ea14b2a7b
+    start: 03:14.37
+    end: 03:16.01
+    fields:
+      transcription: 小賢しいセーラー戦士め
+      meaning: You meddlesome Sailor Guardians!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 197a6937-f7ed-4bb8-bbb3-f920c325918b
+    start: 03:25.44
+    end: 03:29.61
+    fields:
+      transcription: クイン・ベリル様  前回の償いをどうかこの私に
+      meaning: |-
+        Queen Beryl, please allow 
+        me to redeem myself.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 6174ab02-2668-4f71-b72a-449ff090229d
+    start: 03:30.007
+    end: 03:39.947
+    fields:
+      transcription: |-
+        ネフライト　何か策でも
+        人間の最も弱い部分　愛を利用して
+        簡単にエナジーを集めてご覧に入れます
+      meaning: |-
+        Nephrite, do you have a plan?
+        Yes. I will take advantage of love,
+        the greatest weakness of the humans, 
+        and easily obtain more energy.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 97691ee8-7125-4959-9877-ebf75b26cc13
+    start: 04:38.23
+    end: 04:40.0
+    fields:
+      transcription: なんかすごい{{c1::迫力}}
+      meaning: She looks really intense.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 930dafed-9929-4791-8716-ace01128faa2
+    start: 04:40.31
+    end: 04:47.4
+    fields:
+      transcription: |-
+        おい　うちの学校の制服はどうした
+        だってここの制服ちっこくてサイズ合わないんだもん
+      meaning: |-
+        Hey, why aren't you wearing our uniform?
+        Well, the school uniform 
+        here is too small for me.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_05_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: a9130ad4-bc11-4b61-8f30-830bf8c254e0
+    start: 04:52.88
+    end: 04:58.149
+    fields:
+      transcription: |-
+        すごい{{c1::怪力}}の持ち主で
+        喧嘩して前の学校追い出されたらしいですよ
+      meaning: |-
+        I've heard she has superhuman strength.
+        Apparently, she got kicked out 
+        of her last school  after getting
+        in a fight with another student.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_05_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: f33cfd2b-42e5-4ad6-bd97-e823dc6c6e86
+    start: 07:09.79
+    end: 07:21.31
+    fields:
+      transcription: |-
+        それにお弁当箱と巾着袋もすごく可愛いし
+        どこで見つけたの
+        お弁当箱は前住んでたとこで
+        巾着袋は自分で作ったんだけど
+      meaning: |-
+        And your lunch box and 
+        pouch are so cute, too!
+        Where did you buy them?
+        I found this lunch box at my old house.
+        I made the pouch myself.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_05_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: c7de618b-101b-4c62-8ea4-7fbb74fdecfb
+    start: 07:39.717
+    end: 07:44.617
+    fields:
+      transcription: |-
+        自分でお料理できちゃうなんて
+        うちのママが聞いたら腰抜かすわ
+      meaning: |-
+        My mom would be so surprised 
+        if I could cook like you.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 2f13b995-bf82-467f-bf5d-44c36e94ccc1
+    start: 07:57.12
+    end: 08:01.29
+    fields:
+      transcription: |-
+        こんな乙女チックな女の子　怖がるなんて
+        みんなどうかしてる
+      meaning: |-
+        Why are they scared of such 
+        a lovely girl like you?
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_05_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 21c9b5c6-3c35-4b9a-9a80-63e71c315a12
+    start: 08:05.827
+    end: 08:15.707
+    fields:
+      transcription: |-
+        勉強以外なら任せなさい
+        そうだな　例えばこの辺の安いスーパーとか
+        可愛い雑貨屋さんとか
+        あとゲーセンの場所とか
+      meaning: |-
+        You can ask me about 
+        anything other than studying!
+        Well, then, I wanna know where to 
+        find an affordable supermarket,
+        a nice general store, and an arcade.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_05_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: fa37d465-588d-4db4-af5d-b322306a663f
+    start: 08:26.74
+    end: 08:33.94
+    fields:
+      transcription: |-
+        こんなの喧嘩と一緒だよ
+        敵を引きつけてから一瞬の隙をついて
+        必殺技で一気に倒す
+      meaning: |-
+        This is just like a real fight.
+        Attract the enemy first, 
+        then catch him off guard.
+        Then use a special move to 
+        take him in a single blow!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e12913d0-fa21-4219-bcfe-91a55c32bf92
+    start: 10:08.78
+    end: 10:11.92
+    fields:
+      transcription: すらっと背が高いから　こういうの似合うと思う
+      meaning: |-
+        I agree. Since you're tall, this 
+        kind of dress would suit you.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 7d497407-e850-454d-aafe-4196b6167729
+    start: 10:39.14
+    end: 10:45.24
+    fields:
+      transcription: |-
+        ねえ　ここが呪われたブライダルショップよ
+        花嫁の幽霊が出るっていう
+      meaning: The one that has the ghost bride?
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_05_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: d8e946da-2322-475c-b079-0e4f1683997f
+    start: 10:48.547
+    end: 10:54.007
+    fields:
+      transcription: |-
+        あのマネキンが夜になると歩き回って
+        男を{{c1::誑かす}}んだって
+      meaning: |-
+        They say that a mannequin walks 
+        around at night and seduces men.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0d5144ac-3c14-49f8-8957-c58ca2b161ca
+    start: 10:54.42
+    end: 10:58.07
+    fields:
+      transcription: "{{c1::花婿}}が次々行方不明になってるって噂よ"
+      meaning: |-
+        I've heard that a lot of 
+        grooms have gone missing.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8e17fab1-5842-4bc8-b25c-070392a85231
+    start: 11:36.65
+    end: 11:38.48
+    fields:
+      transcription: なんか　込み入った話だな
+      meaning: Sounds complicated.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 07ff5429-aabf-471b-9f7a-34575ebcd1c2
+    start: 11:46.11
+    end: 11:51.73
+    fields:
+      transcription: |-
+        集結の日は近いかもしれないわね
+        ええ　あたしもそんな予感がする
+      meaning: |-
+        We'll all be gathering soon.
+        Yes. I have the same feeling.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_05_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: c7db320f-d697-4ab1-b826-555671d9cba4
+    start: 12:36.62
+    end: 12:42.32
+    fields:
+      transcription: ねえ　あたしの目を見て　あたしの{{c1::虜}}になるのよ
+      meaning: |-
+        Look into my eyes...
+        ...and become my slave.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f4951971-dc54-44f7-82f2-8ac2fda92e4c
+    start: 16:12.87
+    end: 16:17.76
+    fields:
+      transcription: 神聖な花嫁の姿を借りて　愛の囁きを利用するなんて許せない
+      meaning: |-
+        You pretended to be an innocent bride
+        and used loving words to your advantage!
+        That's unforgivable!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b5d1e88d-2dd1-4503-a99d-b17dfb4ad945
+    start: 16:58.87
+    end: 17:05.9
+    fields:
+      transcription: |-
+        あいつが操っていたのね
+        人間どもめ　見てくれ何ぞに簡単に騙されようと
+      meaning: |-
+        He was controlling the mannequin.
+        Pathetic humans. You're so 
+        easily fooled by appearances.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_05_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 46b63d43-acd1-4f40-9cd8-85e5f6223bea
+    start: 19:13.85
+    end: 19:17.3
+    fields:
+      transcription: 愛を信じて身を滅ぼすなんて　望むところよ
+      meaning: |-
+        Believe in love and ruin yourself? 
+        All right, bring it on!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d1cbd375-0e0e-45ab-9232-8830ea3af69c
+    start: 20:15.94
+    end: 20:18.67
+    fields:
+      transcription: "{{c1::痺れる}}ぐらい後悔させるよ"
+      meaning: |-
+        I'll make you feel so much 
+        regret, it'll leave you numb!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a164afac-d2c2-4346-80eb-d9882c7223bd
+    start: 20:44.27
+    end: 20:49.32
+    fields:
+      transcription: 我が守護木星　嵐を起こせ　雷を降らせよう
+      meaning: |-
+        My Guardian star, Jupiter! 
+        Let the storm rage on!
+        Let the lightning strike!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9a6e17a1-3ce0-401c-99dc-cfc9d646203c
+    start: 21:30.34
+    end: 21:35.64
+    fields:
+      transcription: |-
+        私　好きだった先輩に失恋して
+        前の学校居辛くなって
+      meaning: |-
+        The senior I was in love with broke my heart,
+        so I didn't want to stay at 
+        my old school anymore.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_05_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: aefea02b-fae8-4c21-ad38-709c774042cc
+    start: 21:57.75
+    end: 22:03.47
+    fields:
+      transcription: ええ　木星の守護を受けた　雷と勇気の戦士　セーラージュピター
+      meaning: |-
+        Yes, you are the Guardian of Jupiter 
+        and Thunder and Courage. Sailor Jupiter.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 829dd491-3654-451a-bbe3-5e9847652cfc
+    start: 22:08.53
+    end: 22:10.8
+    fields:
+      transcription: 私の使命を果たせなくちゃいけないんだわ
+      meaning: I have to carry out my mission!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a6d49acf-0582-4cc5-a3b1-1e305eecad43
+    start: 24:13.95
+    end: 24:16.14
+    fields:
+      transcription: 一体何を{{c1::企んでいる}}の
+      meaning: What is he scheming at?
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: b80a7dea-062c-419b-afda-8241229b2778
+  meaning: 561b8175-b587-4b7c-9eac-175ebe00aa80
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 06 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.403
+id: 7132d034-636e-44b4-a050-a84e4f787199
+subtitles:
+  - id: 22e656f3-aaa0-4d6d-9e4c-193fda5e4682
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 320
+      endCueMs: 1480210
+  - id: cfb06ae9-343f-47a4-b759-e404857a87cb
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 06 [1080p].ja.ass"
+clips:
+  - id: 861b8f20-e3c0-4183-94c1-53d71b119255
+    start: 03:42.26
+    end: 03:46.489
+    fields:
+      transcription: あの制服　偏差値90以上の超進学校
+      meaning: |-
+        It's from a very elite school, 
+        Moto-Azabu Private High School.
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 341b2d5e-3403-46d9-83d0-156323a92580
+    start: 04:27.32
+    end: 04:34.57
+    fields:
+      transcription: |-
+        今夜特番も放送されるらしいですからね
+        要チェックですよ
+        本当　すごい騒ぎね
+      meaning: |-
+        There'll be a special show 
+        about it on TV tonight.
+        You'd better check it out.
+        Really? This is getting really intense.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 8e343ef1-c98c-4eb5-a5eb-f681fff84684
+    start: 05:07.02
+    end: 05:16.25
+    fields:
+      transcription: |-
+        セーラー戦士ども　タキシード仮面
+        そして人間どもの幻の銀水晶争奪戦か
+        これは見ものだな
+      meaning: |-
+        A battle for the Legendary Silver Crystal
+        between the Sailor Guardians, 
+        Tuxedo Mask, and the humans.
+        This is getting interesting.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: a3355875-2289-4a4d-ae41-a6199855f566
+    start: 05:35.65
+    end: 05:40.29
+    fields:
+      transcription: ネフナイト　お前もセーラー戦士を見縊ったな
+      meaning: |-
+        Nephrite.
+        You underestimated the Sailor Guardians.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: db405e6f-3fd2-431a-ab80-790bc654b0a6
+    start: 05:53.83
+    end: 06:01.63
+    fields:
+      transcription: |-
+        この機を利用し
+        幻の銀水晶と人間どものエナジーを　まとめて手に入れてみせます
+      meaning: |-
+        I will take advantage of this situation,
+        and get you both the 
+        Legendary Silver Crystal
+        and more human energy.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 1400747a-18ca-4bfd-a72c-5e8d089aed9a
+    start: 06:06.44
+    end: 06:09.69
+    fields:
+      transcription: 敵の{{c1::仕業}}としか思えないわ　ルナ
+      meaning: I think it's a trap, Luna.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d3f9597c-a682-4a2e-8410-b727eae923dc
+    start: 06:40.67
+    end: 06:44.29
+    fields:
+      transcription: 幻の銀水晶ってそんなにすごい代物なの
+      meaning: |-
+        Does the Legendary Silver Crystal 
+        really have that much power?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 694348ff-0797-4325-a3f1-156b5757c2f6
+    start: 06:45.67
+    end: 06:52.08
+    fields:
+      transcription: |-
+        幻の銀水晶は使い方次第で
+        星一つ軽く吹き飛ばすパワーを持つわ
+      meaning: |-
+        It depends on how you use it,
+        but it has the power to destroy
+         a whole planet easily.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: a5798e0a-01f9-4422-af63-4891ea55a6b0
+    start: 06:57.0
+    end: 07:02.34
+    fields:
+      transcription: |-
+        そんな途方もない物を
+        あたしたちに探し出して　守れって言うの
+      meaning: |-
+        Are you telling us to find and 
+        protect such an outrageous thing?
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 0ba76dc0-f9df-44a4-b055-d1319d3a13c2
+    start: 07:03.95
+    end: 07:11.82
+    fields:
+      transcription: |-
+        幻の銀水晶と月の王国の血を引くプリンセス
+        あなたたちは必ず出会えるはずなの
+      meaning: |-
+        The Legendary Silver Crystal
+        and our Princess, who is a member of 
+        the royal family of the Moon Kingdom.
+        You will definitely be able to find them...
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 6654985a-de00-4f91-97e8-6976769d90d2
+    start: 07:16.7
+    end: 07:20.77
+    fields:
+      transcription: なぜなら　それが　あなたたちの宿命だから
+      meaning: because that is your destiny.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 1e04d6dc-b0ba-4772-84ac-538d2ccb77f2
+    start: 07:22.35
+    end: 07:28.089
+    fields:
+      transcription: |-
+        そのためにあたしは月からここに{{c1::遣わされ}}
+        あなたたちを目覚めさせたの
+      meaning: |-
+        That's why I was sent from the moon to 
+        awaken all of you as Sailor Guardians.
+        That's why I was sent from the moon to 
+        awaken all of you as Sailor Guardians.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: dcd56aa9-55dc-4bf6-9d95-7edfa73d24ed
+    start: 07:40.37
+    end: 07:43.46
+    fields:
+      transcription: あなたたちが覚醒すればわかることよ
+      meaning: |-
+        You will understand when you become 
+        fully awakened as Sailor Guardians.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 534fc2ab-eaa0-42e4-8f56-2f0ab739c223
+    start: 08:39.14
+    end: 08:44.82
+    fields:
+      transcription: |-
+        前は活躍してたみたいだけど
+        最近は{{c1::表だって}}現れていないわね
+      meaning: |-
+        I used to hear a lot about her before,
+        but she hasn't been active for a while.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 552311d0-0eee-48ca-ae59-fa41cf8d1ee5
+    start: 08:57.642
+    end: 09:04.242
+    fields:
+      transcription: |-
+        幻の銀水晶は不老不死の力を持つ
+        恐るべき魔力を秘めた水晶ですわ
+      meaning: |-
+        The Legendary Silver Crystal
+        has the effect of eternal youth 
+        and magical powers.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 7e518885-1d7f-41d4-9580-f8937ce8b85b
+    start: 09:56.96
+    end: 10:00.559
+    fields:
+      transcription: |-
+        みんなどうしちゃったんだ
+        邪悪に取り憑れているみたい
+      meaning: |-
+        What's going on?
+        I think they're being controlled by evil energy.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 505d37c2-5673-49f2-ad5c-32564a789099
+    start: 10:59.14
+    end: 11:04.63
+    fields:
+      transcription: ルナ　敵はテレビ局の{{c1::電波}}を利用して　人間を操っているんかしら
+      meaning: |-
+        Luna, it seems that the enemy 
+        is sending signals from
+        the TV station to control people's minds.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 40a6431d-a518-4d30-8e40-af8de491a154
+    start: 11:04.93
+    end: 11:09.2
+    fields:
+      transcription: |-
+        {{c1::侮っていた}}わ
+        これもタキシード仮面の仕業かも
+      meaning: |-
+        I was underestimating you, Tuxedo Mask. 
+        This might be his work, too.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: f32384e1-b9ed-4ce2-afa3-1b033d272e88
+    start: 11:49.08
+    end: 11:54.9
+    fields:
+      transcription: |-
+        これだけ探しても見つけ出すことができないなら
+        もはや用済み
+      meaning: |-
+        It's been a while since you started 
+        searching, but no one's found it yet.
+        I'm done with you all, then.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 9715cdba-faba-4acc-a597-06480b062918
+    start: 12:10.27
+    end: 12:15.9
+    fields:
+      transcription: |-
+        やはり来たか　セーラー戦士ども
+        凄まじい邪気
+        あなたは何者
+      meaning: |-
+        I was expecting you, Sailor Guardians.
+        I feel an immense evil energy. Who are you?
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 8362f353-359a-4749-8344-1582b1148524
+    start: 13:58.81
+    end: 14:03.26
+    fields:
+      transcription: 私の{{c1::軽率}}な行動からこんな事態になってしまった
+      meaning: My rash behavior caused this mess.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 61bd9a6e-d459-45cb-9124-941f63837a72
+    start: 15:27.58
+    end: 15:28.67
+    fields:
+      transcription: 観念しなさい
+      meaning: Give yourself up!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 535a8028-8f26-49bb-b4d4-ba7a158f45cd
+    start: 16:25.44
+    end: 16:32.77
+    fields:
+      transcription: |-
+        必ずや幻の銀水晶を手に入れ
+        この地上にダークキングダムを{{c1::築いて}}みせる
+      meaning: |-
+        I will obtain the Legendary 
+        Silver Crystal at any cost,
+        to build the Dark Kingdom on Earth.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 0c31dd7e-b1d5-4c0c-90ed-a6f9ef537544
+    start: 17:10.43
+    end: 17:15.17
+    fields:
+      transcription: |-
+        何を躊躇っている
+        変身するんだ　セーラームーン
+      meaning: |-
+        What are you waiting for?
+        Transform now, Sailor Moon.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: d2bc950a-d782-4af2-92ee-d6d255b1f630
+    start: 17:23.056
+    end: 17:34.41
+    fields:
+      transcription: |-
+        みんなを救えるのは君しかいない
+        でも　あたしにはマーキュリーやマーズ　ジュピターみたいに
+        霧や炎や嵐を起こせるわけじゃない
+        ルナがいないと一人じゃ何にもできない
+      meaning: |-
+        Only you can save them now.
+        But I don't have the skills to 
+        summon mist, fire or lightning
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: fb483dd1-c951-4ec0-8c33-0ec2b0bcaaec
+    start: 19:36.2
+    end: 19:41.53
+    fields:
+      transcription: |-
+        セーラームーン
+        お前も我が力の前に平伏せ
+      meaning: |-
+        Sailor Moon,
+        you will also kneel before my power.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_06_[1080p].mkv"
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: cfb06ae9-343f-47a4-b759-e404857a87cb
+  meaning: 22e656f3-aaa0-4d6d-9e4c-193fda5e4682
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 07 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.403
+id: 765e5c18-7d4d-4593-82b9-e0f56fef5f50
+subtitles:
+  - id: 029f9a84-6b25-4e0c-9e2d-1a305932cc22
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 338
+      endCueMs: 1480259
+  - id: 8aca2ef1-ae0c-422d-abad-4875bdbbd54a
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 07 [1080p].ja.ass"
+clips:
+  - id: 265a088c-9539-497f-a3ae-5749e9035b1e
+    start: 00:50.48
+    end: 00:54.0
+    fields:
+      transcription: あのまま倒れて　すごい勢いで眠り込んでたよ
+      meaning: You passed out, and fell into a deep sleep.
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_07_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 993ef69f-e95a-4322-8648-34b204af2509
+    start: 04:37.21
+    end: 04:46.67
+    fields:
+      transcription: |-
+        気がつくと俺は　夜の街を歩いていた
+        記憶を取り戻す　たったひとつの手掛かり
+        幻の銀水晶を見つけるために
+      meaning: |-
+        And I found myself walking 
+        the streets at night
+        to find the Legendary Silver Crystal,
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_07_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: ee5dfb1a-6790-4a72-bfbf-d1e394f2b3f2
+    start: 08:18.44
+    end: 08:22.721
+    fields:
+      transcription: 遥かいにしえ　この私を葬った奴らがか
+      meaning: |-
+        Sailor Guardians? The ones who
+        defeated me many years ago?
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_07_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: f57437ce-5cdc-4385-a181-f0d745a2119d
+    start: 08:28.41
+    end: 08:35.369
+    fields:
+      transcription: ならぬ　あの忌まわしい月の王国を{{c1::継ぐ}}者を目覚めさせるのも
+      meaning: |-
+        No, we can never let them awaken 
+        the successors to the Moon Kingdom.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 39d611bd-33bc-4cf5-8e81-92cfe3ae202e
+    start: 09:09.06
+    end: 09:13.92
+    fields:
+      transcription: |-
+        私のこの手で　あいつを
+        クイン・メタリアを解き放って
+      meaning: |-
+        With my hands...
+        I released Queen Metalia.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_07_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: f5c633e2-9a51-4bcd-a233-b85ef02f10ea
+    start: 09:39.41
+    end: 09:46.55
+    fields:
+      transcription: |-
+        あのセーラームーンとやら
+        幻の銀水晶の秘密を握っているかもしれぬぞ
+        承知しました
+      meaning: |-
+        Sailor Moon may hold the secret
+        of the Legendary Silver Crystal.
+        Sailor Moon may hold the secret
+        of the Legendary Silver Crystal.
+        Understood.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_07_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: b8e23b6a-1323-4395-93c3-f11bb8e85f9d
+    start: 11:34.63
+    end: 11:37.08
+    fields:
+      transcription: あいつ　やけに攻撃的だったわね
+      meaning: He was rather aggressive, wasn't he?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 879abfaa-c94c-4e6d-b408-ad02c05d0ca0
+    start: 21:32.25
+    end: 21:38.33
+    fields:
+      transcription: こうなれば　息の根を止めてからゆっくりと幻の銀水晶を探すまで
+      meaning: |-
+        I will kill you first,
+        then take my time finding 
+        the Legendary Silver Crystal.
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 8aca2ef1-ae0c-422d-abad-4875bdbbd54a
+  meaning: 029f9a84-6b25-4e0c-9e2d-1a305932cc22
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 08 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.52
+id: 6c850269-b0f4-4955-8d1d-93c845585554
+subtitles:
+  - id: bf32cb5a-06b1-4e30-a89b-d8a51d5862de
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 310
+      endCueMs: 1480329
+  - id: 7597fb61-1ab8-411d-ab8d-25ec1aa8683d
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 08 [1080p].ja.ass"
+clips:
+  - id: 1c378ade-a9c8-4611-8749-6a985b59f292
+    start: 01:24.45
+    end: 01:35.35
+    fields:
+      transcription: |-
+        このお方は月の王国シルバーミレニアム
+        その王室の聖石「幻の銀水晶」の{{c1::継承者}}　プリンセス・セレニティだぞ
+      meaning: |-
+        The Princess of the Moon Kingdom,
+        Silver Millennium,
+        and the successor to
+        the Legendary Silver Crystal!
+        She is Princess Serenity.
+    tags:
+      &a2
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_08_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 6ac2fa82-a93a-453f-ab7e-f65ec3a96990
+    start: 04:30.75
+    end: 04:33.75
+    fields:
+      transcription: その名前　{{c1::聞き覚え}}があるような
+      meaning: That name sounds familiar.
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_08_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: d8e9e1d7-f0c1-458c-a64c-b127ce4fc76b
+    start: 05:21.6
+    end: 05:27.62
+    fields:
+      transcription: |-
+        セーラーＶゲームでずっと戦い方のシミュレーションをしてきただろ
+        成果あったな
+      meaning: |-
+        We've been instructing you how to battle
+        through the Sailor V game.
+        Looks like it worked out.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_08_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 22c379ce-e467-487f-b9db-6f087929c31c
+    start: 05:30.91
+    end: 05:33.25
+    fields:
+      transcription: 何をグズグズしてるの　　セーラームーン
+      meaning: What are you waiting for? Sailor Moon!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0d0de50c-ff00-4888-b0c8-77ae23a522b6
+    start: 05:44.61
+    end: 05:46.579
+    fields:
+      transcription: うさぎちゃん　みんな無事
+      meaning: Usagi-chan? Are you guys okay?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 802dda4f-9d6e-4963-975e-0f3884d9bdcf
+    start: 06:20.69
+    end: 06:25.31
+    fields:
+      transcription: |-
+        ルナ　何を謝るの
+        ルナはちゃんと役目を果たしているわ
+      meaning: |-
+        Why are you apologizing, Luna?
+        You've been doing your duty.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_08_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: d01e35ef-0f88-496d-b7b5-5c2946bcee50
+    start: 08:04.172
+    end: 08:16.732
+    fields:
+      transcription: |-
+        あいつのせいで　月の王国　シルバーミレニアムが滅び
+        みんなの幸せが奪われたの
+        葬ったはずだったのに
+        誰かがまた封印を開けてしまった
+      meaning: |-
+        She destroyed the Moon Kingdom, 
+        Silver Millennium,
+        and stole away everyone's happiness.
+        We managed to seal her away,
+        but someone broke that seal.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 327afbc7-e21d-425f-8394-e4aa055de41e
+    start: 08:37.88
+    end: 08:45.39
+    fields:
+      transcription: |-
+        危険を避けるために　保管場所は教えられないだけど
+        敵はきっとまたあたしたちをターゲットにしてくる
+      meaning: |-
+        To be safe,
+        I can't tell you where it is yet.
+        But I'm sure that the enemy 
+        will come for us again.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_08_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 42fba744-d86f-4d3a-9d45-45d502e30afb
+    start: 08:55.82
+    end: 09:00.3
+    fields:
+      transcription: たとえどんなに強大な敵が現れても　絶対に{{c1::屈する}}もんですか
+      meaning: |-
+        No matter how strong the enemy is,
+        we will never be daunted!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 710379e4-5461-4b6d-b347-3e6331ce8735
+    start: 09:36.9
+    end: 09:39.67
+    fields:
+      transcription: 今のうちに　早く決着を付けなければ
+      meaning: |-
+        We must settle this matter
+        as soon as possible.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e87713e5-dc83-4e75-9ac6-9c2e59e3795a
+    start: 13:43.26
+    end: 13:46.36
+    fields:
+      transcription: 君はもともと　あのお方のおもり役だ
+      meaning: Originally, you were taking care of them...
+    tags: *a2
+    image:
+      type: VideoStill
+  - id: 39f3275b-5ab6-4369-b6db-a982ca7c72de
+    start: 13:48.58
+    end: 13:54.89
+    fields:
+      transcription: |-
+        知らないのも無理はない
+        君の{{c1::負担}}を軽くするために記憶の一部を封印してあったんだ
+      meaning: |-
+        I'm not surprised
+        that you don't remember.
+        To reduce your burden,
+        we sealed a part of your memory.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_08_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 2ff5907a-b4e0-4e52-9467-35bc8fc28409
+    start: 14:13.51
+    end: 14:22.979
+    fields:
+      transcription: |-
+        この私を消し去り　あの王国を{{c1::復活}}させるために
+        とうとう現れたか
+      meaning: |-
+        So she has finally appeared once again to
+        destroy me and rebuild her kingdom.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_08_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: bb5857ed-72b1-46df-93f4-fd0f9f125cdb
+    start: 14:35.57
+    end: 14:43.27
+    fields:
+      transcription: 地上を再び{{c1::君臨}}するために　一刻も早く銀水晶を奪うのだ
+      meaning: |-
+        In order for us to reign over the world again,
+        bring me the Legendary 
+        Silver Crystal at once!
+    tags: *a2
+    image:
+      type: VideoStill
+  - id: ffb92282-f367-4a1d-b1a6-3863d1ab9b1b
+    start: 15:43.7
+    end: 15:46.97
+    fields:
+      transcription: 東京中の人間どもの命と引き換えだ
+      meaning: or everyone in Tokyo will die.
+    tags: *a2
+    image:
+      type: VideoStill
+  - id: b6301668-8858-4adc-8a81-66debb0caf9c
+    start: 15:52.38
+    end: 15:55.5
+    fields:
+      transcription: |-
+        {{c1::罠}}だ　美奈子
+        みんなに相談したほうがいい
+      meaning: |-
+        It's a trap, Minako!
+        You should talk to the others first!
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_08_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 800f9d8f-6856-4fa4-aa0a-9dedd95bf6c4
+    start: 16:29.44
+    end: 16:33.73
+    fields:
+      transcription: 早く来い　プリンセス　{{c1::さもないと}}
+      meaning: Hurry up, Princess. Or else...
+    tags: *a2
+    image:
+      type: VideoStill
+  - id: 692af8be-ab00-4c35-b2cb-fda308a1f0b3
+    start: 16:46.4
+    end: 16:50.06
+    fields:
+      transcription: 今一瞬のうちに　東京中の電力供給が絶たれたわ
+      meaning: |-
+        All of Tokyo's electricity 
+        shut down in an instant.
+    tags: *a2
+    image:
+      type: VideoStill
+  - id: aa79ac1a-bda5-4ece-9efe-b3d2c187d9ef
+    start: 18:33.8
+    end: 18:37.65
+    fields:
+      transcription: ならば　力でねじ伏せるだけだ
+      meaning: |-
+        In that case...
+        I will make you surrender by force!
+    tags: *a2
+    image:
+      type: VideoStill
+  - id: d2f8f0e0-1006-47a5-9322-8717c48bbe8c
+    start: 19:07.96
+    end: 19:10.9
+    fields:
+      transcription: セーラーVを捻り潰せ
+      meaning: Hurry and finish Sailor V!
+    tags: *a2
+    image:
+      type: VideoStill
+  - id: 6e680759-ae78-41be-9842-46abe7564d61
+    start: 19:39.59
+    end: 19:45.98
+    fields:
+      transcription: |-
+        美奈子ちゃん　ひとりで抱え込まないで
+        今度は私たちがあなたを助ける番
+      meaning: |-
+        No... Minako-chan. 
+        Don't try to do everything yourself.
+        It's our turn to support you this time.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_08_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 6e0c2145-c76b-456d-869e-829c1b40d693
+    start: 24:14.91
+    end: 24:18.7
+    fields:
+      transcription: そして月の王国を再興するために　生まれ変わってきた
+      meaning: |-
+        We were reborn to rebuild
+        the Moon Kingdom.
+    tags: *a2
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 7597fb61-1ab8-411d-ab8d-25ec1aa8683d
+  meaning: bf32cb5a-06b1-4e30-a89b-d8a51d5862de
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 09 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.52
+id: 58456151-06bb-4bed-9c2f-fb5ce25f5c82
+subtitles:
+  - id: 7aa2775e-d17a-46a4-851a-667c12c29385
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 304
+      endCueMs: 1480270
+  - id: 8e8976e2-fa25-41ee-82d5-9087668764a4
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 09 [1080p].ja.ass"
+clips:
+  - id: 36435909-44fe-4ed4-ba7f-9cb0a2143b00
+    start: 05:10.5
+    end: 05:14.4
+    fields:
+      transcription: 止まっていた時計の{{c1::針}}が　逆回りしてる
+      meaning: |-
+        The clock that was stopped 
+        is now moving backwards.
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_09_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 571cae24-12e0-4ba6-bad4-f56df0d3423a
+    start: 05:18.974
+    end: 05:27.594
+    fields:
+      transcription: |-
+        時を遡り
+        過去に　記憶を刻み始める
+        悲しい過去に
+      meaning: |-
+        Going back in time.
+        I'm starting to regain my lost memories...
+        of our sad past...
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5a021d29-e5af-4a1a-a2b5-5e795d474a8a
+    start: 05:49.495
+    end: 05:58.375
+    fields:
+      transcription: |-
+        深く吸い込まれそうな青
+        あなたの目の色と同じ
+        希望の可能性を秘めた　青い星
+      meaning: |-
+        Deep, magnetic blue,
+        just like your eyes.
+        A blue planet, full of hope
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 13785750-08e2-4fc7-ae9a-c88a848d194d
+    start: 06:16.881
+    end: 06:26.001
+    fields:
+      transcription: |-
+        そして　いつしか
+        あたし達は　愛し合うようになった
+      meaning: |-
+        Then,
+        eventually,
+        we came to love each other.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a397a9c8-27dd-4c8b-9387-c93138ed25a3
+    start: 06:42.256
+    end: 06:48.876
+    fields:
+      transcription: |-
+        地球と月の住人は通じてはならない
+        それは神の掟
+      meaning: |-
+        People of the Earth and the people of 
+        the Moon must not see each other.
+        That is God's law.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9e28e763-37af-4190-8874-b3e36976c6b8
+    start: 08:04.53
+    end: 08:07.869
+    fields:
+      transcription: うさぎちゃんの涙が{{c1::結晶}}化して光ってる
+      meaning: Her tear has crystallized, and it's shining!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 1886b219-dfe1-46c1-93ef-7e3309d1a608
+    start: 08:38.924
+    end: 08:47.344
+    fields:
+      transcription: |-
+        異常なパワー
+        どんどん力が漲る
+        これはまさしく幻の銀水晶
+      meaning: |-
+        Such immense power!
+        I can feel my power returning.
+        This is truly the power
+        of the Legendary Silver Crystal.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9b39edf8-1025-4eb8-b17d-fd0d1d1f5fe3
+    start: 09:44.58
+    end: 09:46.91
+    fields:
+      transcription: "{{c1::小賢しい}}セーラー戦士どもめ"
+      meaning: You meddlesome Sailor Guardians...
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 18e8a600-4386-49ca-8375-f31038bf6975
+    start: 10:18.995
+    end: 10:23.235
+    fields:
+      transcription: |-
+        助けたいけど
+        攻撃を食い止めるのは精一杯
+      meaning: |-
+        I want to save him,
+        but defending ourselves from 
+        their attack is all we can do.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: bb525c7f-6721-4ea2-92d3-662f835faa4a
+    start: 12:02.14
+    end: 12:08.84
+    fields:
+      transcription: |-
+        みんなを{{c1::欺いていて}}すまなかった
+        だがこれもプリンセスと幻の銀水晶を守るため
+      meaning: |-
+        I'm sorry I didn't tell you the truth,
+        but it was to protect both the Princess
+        and the Legendary Silver Crystal.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_09_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 4a4c98bd-94ab-4f72-99ca-e6e28aeb13ac
+    start: 12:30.044
+    end: 12:35.464
+    fields:
+      transcription: |-
+        しかし　ある時
+        地球の兵士が月の王国へ攻めてきて
+      meaning: |-
+        But one day,
+        soldiers of Earth invaded the Moon Kingdom.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9ac58f0a-bbe3-479f-822a-cc2821a59446
+    start: 12:46.73
+    end: 12:59.99
+    fields:
+      transcription: |-
+        だが君たちが無数の兵士と戦っている間に
+        なんとか争いを収めようとした　地球国の王子　エンディミオンは
+        同じ地球の民の刃によって命を落とした
+      meaning: |-
+        Yes, but while all of you were 
+        fighting with countless soldiers,
+        the Earth's prince, Endymion,
+        was trying to settle the war...
+        But he was killed by a citizen of Earth.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_09_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: a09949c7-a06a-4aee-9813-5a2c3e17058d
+    start: 20:12.454
+    end: 20:19.394
+    fields:
+      transcription: |-
+        前世で果たせなかった思いをあたしたちが叶えるの
+        みんなその覚悟は出来てるわ
+      meaning: |-
+        We're here to help you fulfill
+        what you couldn't accomplish in the past.
+        We're all are prepared to do so.
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 8e8976e2-fa25-41ee-82d5-9087668764a4
+  meaning: 7aa2775e-d17a-46a4-851a-667c12c29385
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 10 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.403
+id: 190c5d1a-f793-4d01-a388-bd102454d552
+subtitles:
+  - id: 0efc9f78-612c-4758-bd73-88c91ae91e0f
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 337
+      endCueMs: 1480259
+  - id: c5ff10eb-c073-4bdc-a999-25fb9c6606e8
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 10 [1080p].ja.ass"
+clips:
+  - id: e82f7412-2922-4e1e-b799-e9594318726d
+    start: 00:22.204
+    end: 00:32.324
+    fields:
+      transcription: |-
+        月　その{{c1::質量}}は地球の八十分の一
+        表面{{c3::重力}}は地球の六分の一
+        {{c2::直径}}は地球の四分の一
+      meaning: |-
+        The Moon... Its mass is about 
+        one-eightieth of Earth's mass.
+        Its surface gravity is one-sixth 
+        of Earth's surface gravity,
+        and its diameter is one-fourth of the Earth's
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 7873b0e9-897b-4b0c-8a5b-a38163f52f56
+    start: 00:33.13
+    end: 00:38.4
+    fields:
+      transcription: |-
+        約二十八日かけて　地球の周りを一周する
+        地球の{{c1::衛星}}です
+      meaning: |-
+        It's Earth's satellite and orbits
+         around it in about 28 days.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 2e5b6edf-bce9-442a-8075-a99ee660d2f4
+    start: 01:11.28
+    end: 01:17.71
+    fields:
+      transcription: |-
+        月がどんどん膨らんでいく
+        一緒に　あたしの気持ちも膨らむ
+      meaning: |-
+        The moon is getting full again...
+        And my feelings are getting stronger.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 5afa326a-e416-4909-b395-608f1a06a24c
+    start: 03:28.594
+    end: 03:33.534
+    fields:
+      transcription: |-
+        そんなに大切に{{c1::扱って}}
+        好きな人にでももらったのかい
+      meaning: |-
+        You seem to be handling that pretty carefully.
+        Is it from your boyfriend?
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: eee4cb98-1500-4050-9d24-5786632d17ea
+    start: 04:22.84
+    end: 04:31.55
+    fields:
+      transcription: |-
+        月齢十五
+        この公園のちょうど真上ね
+        雲一つない空
+        月へ行くには最適だわ
+      meaning: |-
+        Moon phase fifteen. 
+        It should be right above this park.
+        It's a clear night.
+        It's the perfect night to go to the Moon.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: d7a27bd0-637d-434a-8e84-e278b73eb0fa
+    start: 04:32.114
+    end: 04:36.914
+    fields:
+      transcription: |-
+        欠けた月は{{c1::憎悪}}と{{c2::不和}}
+        新月は死と破壊に関わる
+      meaning: |-
+        The waning moon implies hatred and discord...
+        The new moon is related to death and destruction.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 7ae70504-6818-4838-ab86-d529342c374e
+    start: 05:18.65
+    end: 05:23.19
+    fields:
+      transcription: |-
+        みんな　変身しましょ
+        そのパワーで転移を行うのよ
+      meaning: |-
+        Everyone, let's transform.
+        We'll use that power to transport.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: fd67b672-182d-48f6-b2bc-86ffab230d2e
+    start: 06:49.815
+    end: 06:55.335
+    fields:
+      transcription: |-
+        {{c1::廃墟}}
+        シルバー・ミレニアム　あたし達の王国があったところよ
+      meaning: |-
+        The ruins...
+        That's Silver Millennium,
+        where our kingdom existed.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 7d33743c-3f8f-481a-a240-345a422c8a84
+    start: 07:13.43
+    end: 07:22.33
+    fields:
+      transcription: |-
+        ここが女王のみが入ることを許された「祈りの間」の跡
+        そしてムーンキャッスルの中心部　クリスタルタワー
+      meaning: |-
+        These are the remains of the prayer room,
+        where only the queen was allowed to enter.
+        And this is Crystal Tower, 
+        the core of Moon Castle.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: cbb03976-cd4c-4361-be04-b144bae159d9
+    start: 07:39.61
+    end: 07:40.84
+    fields:
+      transcription: 錆び付いてるのね
+      meaning: It's rusty!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 31346980-8312-41d5-b96c-1e59a9b7d868
+    start: 09:06.69
+    end: 09:12.16
+    fields:
+      transcription: あなたはかつて緑や風に憧れて　よく地球に降りたんだ
+      meaning: |-
+        You used to go to Earth often because 
+        you yearned for its greenery and wind.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 06c2254a-8912-492a-860c-c830f6a1d319
+    start: 10:11.07
+    end: 10:24.98
+    fields:
+      transcription: |-
+        私達は月に生まれついた長寿な生命体
+        月に伝わる聖なる石「幻の銀水晶」を守り
+        地球がよりよく進化していくのを{{c1::監視}}し
+        助けることが使命
+      meaning: |-
+        We were long-lived beings on the Moon.
+        Our mission was to protect 
+        the Legendary Silver Crystal,
+        watch over Earth as it grew, 
+        and help it improve.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 4b10a975-7e4b-4530-9e2e-5046975525d1
+    start: 10:26.25
+    end: 10:29.34
+    fields:
+      transcription: けれどあの年　{{c1::禍}}が起きた
+      meaning: But in that year, a disaster occurred.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9f4739c3-b7fc-43a6-92e1-d548bcc1e481
+    start: 10:29.86
+    end: 10:35.67
+    fields:
+      transcription: 地球に侵入し　美しいあの星を我が物にしようとした異形のもの
+      meaning: |-
+        An evil creature invaded Earth,
+         trying to make it its own.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c513f502-1f1d-42df-b0c8-4a2992de9e59
+    start: 10:40.44
+    end: 10:47.42
+    fields:
+      transcription: |-
+        幻の銀水晶の支配まで目論見
+        人々の心を操って　月まで攻めてきた
+      meaning: |-
+        It schemed to control the 
+        Legendary Silver Crystal,
+        brainwashed the humans, 
+        and attacked the Moon.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: a9fc0c6a-1670-4332-8bd7-e81c3dec5f59
+    start: 10:48.594
+    end: 10:56.594
+    fields:
+      transcription: |-
+        あの時　若き地球国の王子エンディミオンだけは{{c1::惑わされ}}ず
+        セレニティを守り　戦った
+      meaning: |-
+        But the young Earth Prince, 
+        Endymion, managed to keep his sanity
+        and fought to protect the Princess.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 418c729c-c50f-48fe-a3af-ed3e0e6c8672
+    start: 11:18.79
+    end: 11:24.99
+    fields:
+      transcription: |-
+        私は　幻の銀水晶の力を使い
+        やっとのことであれを封印した
+      meaning: |-
+        With the power of the 
+        Legendary Silver Crystal,
+        I finally managed to seal that creature.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 763e2f4a-51cb-4ebe-9952-82e154deaa34
+    start: 11:26.224
+    end: 11:32.244
+    fields:
+      transcription: |-
+        けれど　その{{c1::代償}}に
+        シルバー・ミレニアムをすべて石に変えられてしまった
+      meaning: |-
+        But in return, all of Silver 
+        Millennium was turned into stone.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 29c01619-3d75-4316-865d-d4edb0dc1b4f
+    start: 11:33.218
+    end: 11:40.178
+    fields:
+      transcription: |-
+        そして地球国も滅び
+        もう一度初めから　地球は進化の歴史を辿ることになった
+      meaning: |-
+        And the kingdom of Earth was destroyed,
+        forcing the history of Earth 
+        to start all over again.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5a0ec1f1-cec7-4795-8c4a-a468e8a1fd0d
+    start: 11:42.3
+    end: 11:44.9
+    fields:
+      transcription: でも悪魔はまた甦てしまった
+      meaning: But that demon has revived again...
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 63245871-42ce-4cb3-b444-c8d44717ac76
+    start: 12:48.22
+    end: 13:00.79
+    fields:
+      transcription: |-
+        プリンセスであり愛と正義の戦士セーラームーンであることに
+        どうか誇りと自信を持って
+        そして忘れないで　あなたが一人の女の子であるということも
+      meaning: |-
+        Be proud and confident of being a princess,
+        and being Sailor Moon, 
+        the Guardian of Love and Justice...
+        And don't forget that you're also a normal girl.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 259c96e7-8340-4baf-9f17-7ebb292436ef
+    start: 15:30.56
+    end: 15:36.409
+    fields:
+      transcription: |-
+        プリンセスが完全に目覚めた今
+        一刻の猶予もないぞ
+      meaning: |-
+        Now that the Princess has completely 
+        awakened, there's not a moment to lose.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 956205e6-d2b9-4a77-ad73-be072c4485f9
+    start: 16:10.84
+    end: 16:15.57
+    fields:
+      transcription: 頼んだぞ　我ら地球国の平和と{{c1::繁栄}}のために
+      meaning: |-
+        I'm counting on you. 
+        For our peace and prosperity...
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a0c701f3-5236-4bbf-9336-42c2b8092d57
+    start: 16:40.48
+    end: 16:46.549
+    fields:
+      transcription: さよう　貴様らは我が目的を遂行するための捨て駒にすぎぬ
+      meaning: |-
+        That's right.
+        You are all merely disposable
+         pawns to obtain my goal.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d15a61db-bb67-444d-9b4f-c257ba4de4f6
+    start: 17:06.29
+    end: 17:12.86
+    fields:
+      transcription: |-
+        プリンセスとセーラー戦士どもを始末しろ
+        幻の銀水晶を奪うのだ
+      meaning: |-
+        Dispose of the Princess and the Sailor Guardians,
+        then take the Legendary Silver Crystal.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: b1a0643d-b006-4b3d-9633-44b37db7b50c
+    start: 17:17.79
+    end: 17:19.34
+    fields:
+      transcription: 仰せのとおりに
+      meaning: As you wish.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9fb8307a-85cb-46a0-9bdf-b62750abe833
+    start: 17:20.02
+    end: 17:24.15
+    fields:
+      transcription: 最近の地球は以前にもまして地殻変動が活発なの
+      meaning: |-
+        The movement of the Earth's crust 
+        has been very active recently.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: cb26f301-a5e9-44f9-8d68-b98d70fc6cbf
+    start: 17:24.8
+    end: 17:33.49
+    fields:
+      transcription: |-
+        この{{c1::北極圏}}の当たりにも異常な熱反応がある
+        この数ヶ月で数値は異常に跳ね上がっているわ
+      meaning: |-
+        There's also unusual thermal 
+        reactions around the North Pole.
+        The values have been increasing 
+        abnormally in the past few months.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: e89bb2e4-71ad-4573-8bba-9c2c89e3d0b7
+    start: 18:03.73
+    end: 18:07.46
+    fields:
+      transcription: タキシード仮面はどこ　{{c1::危害}}を加えたりはしてないでしょうね
+      meaning: |-
+        Where is Tuxedo Mask?
+        You didn't hurt him, did you?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 94912f60-8c33-425f-99d7-ae786e722fdb
+    start: 19:00.62
+    end: 19:05.15
+    fields:
+      transcription: みんな前世では王子エンデュミオンに仕える{{c1::勇者}}だった
+      meaning: |-
+        They were the brave knights 
+        who served Prince Endymion!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 873094ca-ff14-4c3a-9e85-2c396826d827
+    start: 19:19.75
+    end: 19:23.66
+    fields:
+      transcription: そうだわ　私たち前世でも巡り会った
+      meaning: |-
+        That's right... We met 
+        before in our past lives...
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 7adf2286-61c1-4e76-9702-1ce451c6ecc9
+    start: 19:23.84
+    end: 19:36.32
+    fields:
+      transcription: |-
+        エンディミオンに会いに行ったプリンセスを追って
+        地球に降りたったあの日
+        あたしたち地球の美しさに見せられ
+        そして　恋に落ちた
+      meaning: |-
+        One day, when the Princess 
+        went to Earth to see Endymion,
+        we followed her...
+        And we were fascinated
+         by the beauty of Earth...
+        Then we fell in love...
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: dc4c2edb-d1a4-4c25-9894-728655bce018
+    start: 20:52.82
+    end: 20:55.41
+    fields:
+      transcription: ああ　ここで{{c1::挫ける}}わけにはいかない
+      meaning: Right, we can't be daunted here!
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_10_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 048dfb15-8e9e-40b5-9736-7430971b3077
+    start: 20:55.83
+    end: 20:58.42
+    fields:
+      transcription: うさぎちゃんに守られてばかりなんかいられないわ
+      meaning: |-
+        We shouldn't always be 
+        protected by Usagi-chan!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 61d8b12d-3b2d-4c76-8f82-33ee1e3da8dc
+    start: 22:05.27
+    end: 22:10.94
+    fields:
+      transcription: もうお前はこの私　クインベリルの{{c1::操り人形}}
+      meaning: You are now the puppet of Queen Beryl.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 4e0949c2-4ed8-45bf-a80c-02388e452ef3
+    start: 22:12.054
+    end: 22:18.454
+    fields:
+      transcription: |-
+        地上へ行け
+        プリンセスを抹殺し　幻の銀水晶を奪うのだ
+      meaning: |-
+        Go to the surface.
+        Kill the Princess and take 
+        the Legendary Silver Crystal.
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: c5ff10eb-c073-4bdc-a999-25fb9c6606e8
+  meaning: 0efc9f78-612c-4758-bd73-88c91ae91e0f
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 11 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.52
+id: 66291817-d2bc-4067-97cc-8fc31de061b6
+subtitles:
+  - id: 355fb6b0-26af-4564-b945-d43571e55689
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 324
+      endCueMs: 1480329
+  - id: 0bf870f3-656a-4ca6-9877-189d3db96840
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 11 [1080p].ja.ass"
+clips:
+  - id: daef3f5a-2be0-4bd2-bc76-dfa3964b7fde
+    start: 01:29.501
+    end: 01:33.321
+    fields:
+      transcription: |-
+        うさぎちゃん　大丈夫
+        なんか　{{c1::うなされ}}てたみたい
+      meaning: |-
+        Usagi-chan, are you okay?
+        You seemed like you were
+        having a nightmare.
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_11_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 979973e3-8d78-4b38-bbd5-4cc9149c64f9
+    start: 06:29.62
+    end: 06:33.59
+    fields:
+      transcription: それにそのお菓子の量にしたって食べきれないでしょう
+      meaning: |-
+        Not to mention, there's no 
+        way we can eat all of those snacks.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8434f9ad-0d0c-4a56-9b38-9f39ba97e631
+    start: 06:33.94
+    end: 06:39.41
+    fields:
+      transcription: |-
+        だって今日はお泊まりだし
+        ついつい　たくさん買っちゃって
+      meaning: |-
+        But tonight's a sleepover! 
+        I couldn't help myself and bought a lot.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_11_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: a35479f0-5181-422e-a8bf-011b925bcac7
+    start: 06:43.27
+    end: 06:44.77
+    fields:
+      transcription: 見逃してくれよ
+      meaning: Come on, let me off the hook...
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9f9f2e37-c2af-4774-9833-0bf348213644
+    start: 06:45.187
+    end: 06:52.187
+    fields:
+      transcription: |-
+        ねえ　今更だけど　あたし怪しくない
+        警備員さんに呼び止められないかな
+      meaning: |-
+        Hey, this might be a bit late, but...
+        Do I look suspicious?
+        Do you think security will stop me?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 6f996a57-656b-41ff-9cdb-3acca101e0f6
+    start: 06:58.59
+    end: 07:04.66
+    fields:
+      transcription: |-
+        これは{{c1::金剛石}}　いわゆるダイヤモンドね
+        天然では最高の{{c2::硬度}}を持つ石よ
+      meaning: |-
+        This is a diamond.
+        It's the hardest natural stone of all.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_11_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 13b44f57-41a5-4fe6-a556-5eac137f1bd3
+    start: 07:19.44
+    end: 07:22.45
+    fields:
+      transcription: 大丈夫よ　こうなることは予想済みだから
+      meaning: Don't worry, I expected this to happen.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_11_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: e6f01a78-fd03-4478-b2a1-bc8200d1866b
+    start: 07:28.2
+    end: 07:36.99
+    fields:
+      transcription: |-
+        この剣と月から持ち帰った神殿の石の{{c1::欠片}}
+        両方とも見たこともない　{{c2::強固}}で特殊な毒性の強い成分で出来ているの
+      meaning: |-
+        This sword and the piece of the palace
+        that we brought back from the moon...
+        Both of them are made of an unknown 
+        material which is solid and poisonous.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_11_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 1498dea7-0510-4829-b6d4-99fd4bdf2d53
+    start: 08:52.36
+    end: 08:56.14
+    fields:
+      transcription: 変なの　{{c1::引き寄せられる}}ようにここに来ちゃった
+      meaning: |-
+        So weird...
+        I feel like I was drawn here.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: dbd192bb-5573-407f-97c3-52b578f301bf
+    start: 10:12.98
+    end: 10:15.25
+    fields:
+      transcription: あいつは今朝{{c1::すれ違った}}
+      meaning: |-
+        He's the one we passed 
+        on the road this morning.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e6c4d196-00cb-4662-ad2b-66c012f03ebb
+    start: 10:25.95
+    end: 10:29.62
+    fields:
+      transcription: どうして　彼はダークキングダムに{{c1::囚われて}}いるんじゃ
+      meaning: |-
+        How? I thought he was being 
+        held by the Dark Kingdom.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8230c8dd-ab93-45aa-95b9-0f35f1805a2d
+    start: 11:11.22
+    end: 11:13.67
+    fields:
+      transcription: セーラーVを知り尽くしているんだね
+      meaning: You seem to know all about Sailor V.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 19a7af48-c770-41c7-b5f6-7510c9e04f09
+    start: 11:27.17
+    end: 11:31.49
+    fields:
+      transcription: そうね　あたしなんかより　ずっと{{c1::頼り}}になるわ
+      meaning: |-
+        I agree. She's a lot more 
+        dependable than I am.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 090465d7-725c-4870-824a-6c0035c5a104
+    start: 12:14.79
+    end: 12:16.75
+    fields:
+      transcription: 俺の{{c1::暗示}}がかからない
+      meaning: My hypnotic suggestion didn't work.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5d7e20ef-1fdc-4277-be6e-22fcbb05ea40
+    start: 13:10.83
+    end: 13:13.44
+    fields:
+      transcription: そいつはもっと{{c1::なよっちい}}やつだし
+      meaning: but he's more feminine.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3aba8476-719d-4947-9e11-67547d1b1d39
+    start: 14:42.17
+    end: 14:48.85
+    fields:
+      transcription: |-
+        指令室の入り口がセーラーVゲームの{{c1::真下}}とはな
+        強力なシールドのせいで感知できなかったぞ
+      meaning: |-
+        I never thought the entrance
+        would be right below the Sailor V game.
+        We couldn't detect it
+        due to a powerful shield.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_11_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 51a87a74-ed23-42c4-b4f4-e33329e4b7d1
+    start: 14:49.18
+    end: 14:54.47
+    fields:
+      transcription: もっとも　俺の暗示にかかったそいつが丁寧に{{c1::案内}}してくれたがな
+      meaning: |-
+        But that girl responded
+        to my hypnotic suggestion
+        and kindly showed us the way.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9da8ca09-e6ea-4469-9c4d-409fe38d3f8c
+    start: 16:57.36
+    end: 17:03.27
+    fields:
+      transcription: 愛と{{c1::美貌}}のセーラー服美少女戦士　セーラーヴィーナス
+      meaning: |-
+        The Pretty Guardian in a Sailor Suit.
+        Guardian of Love and Beauty.
+        Sailor Venus!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b453eb44-316d-44e1-a607-7943c864870f
+    start: 17:04.46
+    end: 17:08.56
+    fields:
+      transcription: 愛の{{c1::天罰}}落とさせていただきます
+      meaning: |-
+        In the name of Love,
+        I'll punish you!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 82aa28d2-6ded-4adf-89d9-afcd950d6604
+    start: 17:43.56
+    end: 17:44.87
+    fields:
+      transcription: 愛の{{c1::鞭}}よ
+      meaning: This is the whip of Love! Wake up!
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 0bf870f3-656a-4ca6-9877-189d3db96840
+  meaning: 355fb6b0-26af-4564-b945-d43571e55689
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 12 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.52
+id: d9483095-977f-4204-be02-bad002a9ad99
+subtitles:
+  - id: af816c16-59b1-49bc-b1a7-907bb1f9a8c7
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 299
+      endCueMs: 1480329
+  - id: 03b092c2-2134-4f79-b726-929869a563eb
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 12 [1080p].ja.ass"
+clips:
+  - id: abf52ba2-2598-429d-a066-818f991db620
+    start: 00:55.72
+    end: 01:02.93
+    fields:
+      transcription: |-
+        うさぎちゃん　落ち着くのよ
+        彼は　{{c1::一時的}}に操られているだけ
+        クイーンベリルさえ倒せば
+      meaning: |-
+        Usagi-chan, calm down.
+        He's just under her control temporarily.
+        We just need to defeat Queen Beryl!
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_12_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: d99fbecc-560f-4d14-8fd7-4daeda7182e5
+    start: 01:09.75
+    end: 01:16.47
+    fields:
+      transcription: 我が大いなる支配者　クイーンメタリアの力で{{c1::蘇った}}のだ
+      meaning: |-
+        He has been resurrected
+        by our great leader Queen Metalia's power.
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_12_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 688aa1b0-770e-4715-afe4-7b03b229ec65
+    start: 01:17.3
+    end: 01:24.98
+    fields:
+      transcription: |-
+        この私と同じように力を{{c1::授かり}}
+        ダークキングダム最強の戦士として
+      meaning: |-
+        He has received powers just as I did,
+        as the most powerful warrior in the Dark Kingdom!
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_12_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 1c02d5f2-bd16-42c9-a4a6-040e968499cb
+    start: 04:52.78
+    end: 05:02.16
+    fields:
+      transcription: |-
+        この女よ　すべての{{c1::元凶}}は
+        地球の人々を洗脳し　月へ{{c2::攻め入り}}
+        すべてをめちゃくちゃにした女
+      meaning: |-
+        It's her. She's the one behind all of this.
+        She brainwashed the people on Earth,
+        invaded the Moon, and ruined everything!
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_12_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: dfd51937-45c4-4708-9317-7e7c821c79be
+    start: 11:13.46
+    end: 11:15.5
+    fields:
+      transcription: ここまで{{c1::追って}}くるとはなあ
+      meaning: |-
+        I didn't think you would
+        chase me this far.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b9851eff-2ba0-45b2-b000-863e11d30191
+    start: 12:07.23
+    end: 12:11.46
+    fields:
+      transcription: この辺に近づくと　いつも何かに{{c1::妨害}}されて　探知できない
+      meaning: |-
+        Again... Every time I try to scan
+        this area, something blocks me.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_12_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: ea1c99a6-bba0-421f-8c97-5060ee880369
+    start: 12:12.39
+    end: 12:18.3
+    fields:
+      transcription: |-
+        この地域は確か
+        北極圏Ｄポイント
+        ずっと怪しいと{{c1::睨んで}}いた地域よ
+      meaning: |-
+        This area is...
+        It's D-point near the North Pole.
+        I've been keeping an eye on this area.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_12_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 92783239-729f-4dad-8ff9-ae806d8d85dc
+    start: 14:38.76
+    end: 14:44.0
+    fields:
+      transcription: "{{c1::哀れ}}だな　月の王国の血を引くものよ"
+      meaning: |-
+        How pathetic.
+        A girl descended
+        from the Kingdom of the Moon.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c2751163-2b61-48ec-bd7a-36962da7876d
+    start: 14:44.82
+    end: 14:50.99
+    fields:
+      transcription: エンディミオンは我が闇の力で　{{c1::いづれ}}世界を支配する
+      meaning: |-
+        Endymion will rule the world
+        with my dark power eventually.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 7443f3af-37d4-40e9-8ba0-5587c526a6e1
+    start: 16:03.69
+    end: 16:09.02
+    fields:
+      transcription: |-
+        あなたは今までどんな{{c1::試練}}も乗り越えて
+        みんなの心を開いてきた
+      meaning: |-
+        You have conquered many difficulties
+        and opened up everyone's hearts.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_12_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 4e2ec929-5819-42a3-a3c9-dd71c62050f5
+    start: 16:27.5
+    end: 16:33.0
+    fields:
+      transcription: ダークキングダに　永遠にその屍を横たえるのだ
+      meaning: |-
+        Let the Dark Kingdom 
+        be your final resting place!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 2137dec1-9aee-4253-af0b-68aefcd143c6
+    start: 18:43.59
+    end: 18:47.25
+    fields:
+      transcription: クンツァイト　{{c1::純潔}}と{{c2::慈愛}}の騎士
+      meaning: |-
+        Kunzite, the Knight of
+        purity and kindness.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: aca9c9ab-4e50-4263-a7bd-15c5c76faea8
+    start: 18:47.91
+    end: 18:51.68
+    fields:
+      transcription: ジェダイト　{{c1::忍耐}}と調和の騎士
+      meaning: |-
+        Jadeite, the Knight of
+        patience and harmony.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 2da6ebac-b0a3-465d-9aaf-e5525fbd3658
+    start: 18:52.08
+    end: 18:55.8
+    fields:
+      transcription: ネフライト　{{c2::智慧}}と{{c1::安らぎ}}の騎士
+      meaning: |-
+        Nephrite, the Knight of
+        intelligence and tranquility.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 155e42a8-580e-4792-adec-dc1a84fb8e65
+    start: 19:49.75
+    end: 19:55.18
+    fields:
+      transcription: 闇の力を{{c1::拒む}}ものは　自らの闇の力で滅びろ
+      meaning: |-
+        If you refuse the power of darkness,
+        then you deserve to die by its power!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d82e1af7-5efc-42e7-9775-e88d1a5258d2
+    start: 20:33.86
+    end: 20:36.13
+    fields:
+      transcription: あたしたちを{{c1::いざなってる}}の
+      meaning: Are you calling out to us?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8fab848d-a8d8-4c07-ba88-3136cddb0704
+    start: 21:02.187
+    end: 21:08.067
+    fields:
+      transcription: |-
+        そんな
+        ここまで力を{{c1::振り絞って}}も　元に戻らない
+      meaning: |-
+        No... I'm putting all my energy into it,
+        but he's still under the control
+        of the power of darkness.
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 03b092c2-2134-4f79-b726-929869a563eb
+  meaning: af816c16-59b1-49bc-b1a7-907bb1f9a8c7
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 13 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.52
+id: 34c62533-5a58-464a-a64d-268f9d03966e
+subtitles:
+  - id: 5327a81c-d084-4989-a6c3-b49e39d429bc
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 317
+      endCueMs: 1480329
+  - id: 4ce24f20-4e23-4102-9161-905a6a4856e9
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 13 [1080p].ja.ass"
+clips:
+  - id: b2aefbef-adcb-45be-8ddb-35216de5e63f
+    start: 03:30.65
+    end: 03:36.62
+    fields:
+      transcription: あたしたち　こんな　こんな瞬間を迎えるために生まれ変わったんじゃない
+      meaning: |-
+        We weren't...
+        We weren't reincarnated
+        to repeat this moment!
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_13_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: f647e7f6-f75c-4fd3-8274-03b8398ae16f
+    start: 04:55.88
+    end: 05:04.03
+    fields:
+      transcription: |-
+        ルナ　あなたの{{c1::主}}をずっと守ってね
+        たとえ　時が巡り　姿が変わっても
+      meaning: |-
+        Luna, please protect
+        your master forever,
+        even if time passes
+        and her appearance changes.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_13_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 8c9fd529-3867-4a55-ac88-a9dcc87aaefd
+    start: 06:55.48
+    end: 07:01.82
+    fields:
+      transcription: 月の王国のクイーンに{{c2::封じ込め}}られ  地底深く息に{{c1::潜めた}}年月
+      meaning: |-
+        I was sealed by the Queen
+        from the Kingdom of the Moon.
+        She sealed me deep underground for ages.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3dd2bcdb-daad-4b3b-8d48-11896cafcc55
+    start: 08:08.62
+    end: 08:13.55
+    fields:
+      transcription: お前たちの{{c2::放}}つエネルギーさえ　今や私の{{c1::糧}}となる
+      meaning: Even your energy becomes my sustenance.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0f5019d8-fb30-4025-9c25-2eeb8406cc01
+    start: 11:15.23
+    end: 11:17.07
+    fields:
+      transcription: 何を証拠に
+      meaning: How can you be so sure?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 94b289dc-082b-44df-a697-678ab2fcfab7
+    start: 12:07.58
+    end: 12:12.01
+    fields:
+      transcription: 私たち今できることはプリンセスに未来を{{c1::託す}}ことだけ
+      meaning: |-
+        But the only thing we can do now...
+        Is to leave our future up to the Princess.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3276259e-7fb3-4525-b88a-7184820a9aef
+    start: 18:19.42
+    end: 18:23.63
+    fields:
+      transcription: このままじゃ　またあいつに{{c1::呑}}み込まれてしまう
+      meaning: |-
+        At this rate, I'll get sucked
+        into her body again.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 1b689e60-145f-41ab-9815-48d58f6f19d2
+    start: 19:17.1
+    end: 19:21.39
+    fields:
+      transcription: そこに　幻の銀水晶の力で{{c1::貫く}}ことができれば
+      meaning: |-
+        If we can pierce that with the power
+        of the Legendary Silver Crystal...
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b72770d7-8168-4627-a6fd-1e34492e6e21
+    start: 21:04.28
+    end: 21:10.51
+    fields:
+      transcription: なんと　{{c1::自在}}に操れるというのか　幻の銀水晶のパワーを
+      meaning: |-
+        What? You can control the power
+        of the Legendary Silver Crystal at will?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e6762c65-43c2-4479-8c65-257ff71ca0e8
+    start: 21:12.6
+    end: 21:19.87
+    fields:
+      transcription: |-
+        {{c1::ありったけ}}の力を込めるんだ　セーラームーン
+        クイーンメタリアの額の印を目掛けて
+      meaning: |-
+        Use everything you've got,
+        Sailor Moon.
+        Towards the mark on her forehead.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_13_[1080p].mkv"
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 4ce24f20-4e23-4102-9161-905a6a4856e9
+  meaning: 5327a81c-d084-4989-a6c3-b49e39d429bc
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 14 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.45
+id: c8e710c1-f528-4f8b-8791-ca208da38bad
+subtitles:
+  - id: de325d5b-c86f-4393-8840-020764db2abe
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 252
+      endCueMs: 1480289
+  - id: fc7cb61b-7a0e-4edc-bf82-b4cda8785ddc
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 14 [1080p].ja.ass"
+clips:
+  - id: 25e5c8c1-84e7-4874-b3ac-543774fc10de
+    start: 02:57.6
+    end: 02:59.9
+    fields:
+      transcription: クイーンメタリアが{{c1::びくともしない}}
+      meaning: She isn't even fazed.
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_14_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 2a1ce505-acdd-4b80-9e9e-28979dcf7eeb
+    start: 03:41.31
+    end: 03:46.36
+    fields:
+      transcription: あたしの{{c1::全身全霊}}の力を込めて　あいつの{{c2::急所}}に
+      meaning: |-
+        With all of the power in my being,
+        I'm going to hit her vital point!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 44d09cdd-d362-4b9e-9eca-9c20b8b87d54
+    start: 04:48.38
+    end: 04:53.6
+    fields:
+      transcription: もしもこの星や愛する者達の身に危険が{{c1::迫った}}時
+      meaning: |-
+        If this planet or your loved ones
+        are in imminent danger,
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 036cc78d-e9bc-4ced-928f-7a5e5f6f028a
+    start: 06:06.68
+    end: 06:09.79
+    fields:
+      transcription: 体が{{c1::押しやら}}れる
+      meaning: My body is being pushed away!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: af762fde-050b-455b-a64a-2df98d9d6e54
+    start: 13:36.89
+    end: 13:41.04
+    fields:
+      transcription: みんなはあたしのために　命を投げ打って戦ってくれた
+      meaning: |-
+        They fought for me at the risk
+        of their own lives.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 633c7116-3052-4553-a5b2-854c52f69b27
+    start: 21:39.42
+    end: 21:43.13
+    fields:
+      transcription: だ　誰　あたしのマモちゃんにしがみついてんのは
+      meaning: |-
+        Wh-Who is holding onto my beloved
+        Mamo-chan?!
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: fc7cb61b-7a0e-4edc-bf82-b4cda8785ddc
+  meaning: de325d5b-c86f-4393-8840-020764db2abe
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 15 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.45
+id: e214156f-8ee8-412b-9e9b-c234dd6e3837
+subtitles:
+  - id: bb5b78de-8da3-4c09-bd0b-91a6d95990f2
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 347
+      endCueMs: 1480289
+  - id: da996d69-7990-41aa-b79d-0e9a0f159e3b
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 15 [1080p].ja.ass"
+clips:
+  - id: a67488bf-12f2-425b-8346-4d91c06ab99c
+    start: 02:48.48
+    end: 02:50.19
+    fields:
+      transcription: でかしたな　サフィール
+      meaning: Well done, Saphir.
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_15_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 03aebd59-c44b-4b7a-95eb-23691be5a4e3
+    start: 06:27.15
+    end: 06:31.15
+    fields:
+      transcription: あたし　あんたをしばらく{{c1::見張る}}ことにするわ
+      meaning: |-
+        I'm going to...
+        keep an eye on you for a while!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: cdf1c68d-b992-4355-a3c1-ed2c9d0db12f
+    start: 07:29.72
+    end: 07:31.45
+    fields:
+      transcription: "{{c1::肌身離さ}}ず持ってるわよ"
+      meaning: Don't worry, it's with me.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5fd82e9f-0f7d-4600-b42e-899592a6e152
+    start: 07:36.8
+    end: 07:39.66
+    fields:
+      transcription: 変身しない限り　感づかれることはないと思うわ
+      meaning: |-
+        She won't know unless
+        I use it for transformation.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 91760bd5-40a9-4adb-ab51-1ba5c32dfa3e
+    start: 08:06.57
+    end: 08:10.76
+    fields:
+      transcription: 一応　警察にもあの子の{{c1::捜索願い}}が出てないか聞いとくが
+      meaning: |-
+        I'll ask the police if anyone
+        has filed a report looking for her,
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a41c847d-4b30-4904-802e-8bb4c6a24664
+    start: 08:43.85
+    end: 08:46.859
+    fields:
+      transcription: パパもママもすっかりあいつの{{c1::いいなり}}なのよ
+      meaning: |-
+        My dad and mom
+        are at her beck and call!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 107d6b31-e220-41fb-834c-bf1951ef27f9
+    start: 09:24.32
+    end: 09:29.229
+    fields:
+      transcription: |-
+        これからも　あたしたちで
+        うさぎを{{c1::がっちり}}
+        守るわよ
+      meaning: |-
+        We'll continue...
+        ...to protect you...
+        ...Usagi!
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_15_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: afffe1ba-f6fd-465e-b32d-2f0f406e9ba7
+    start: 10:14.48
+    end: 10:23.639
+    fields:
+      transcription: |-
+        わが校始まって以来の{{c1::秀才}}で　スポーツも何でもこなして
+        俺ら中等部の後輩にも優しくて
+        俺は　衛先輩みたいになりたいんです
+      meaning: |-
+        He's the smartest student in our school,
+        good at any sports,
+         and really nice to juniors like me.
+        I wanna be like him one day!
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_15_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 6e781063-e99e-4e9f-8d43-7078c5e8de20
+    start: 11:22.33
+    end: 11:25.4
+    fields:
+      transcription: うさぎちゃんたちの喋り方が移っちゃったのかしら
+      meaning: Am I talking like Usagi-chan and the others?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3bf16a45-cc0b-4f69-83cc-84f3c316003c
+    start: 11:39.13
+    end: 11:45.079
+    fields:
+      transcription: 敵　侵略者はいつの間にかあたしたちの中に入り込んでいるのかもね
+      meaning: |-
+        Intruders might have crept in
+        before we realized it.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 1f94a6e9-7fac-4a32-96b1-09ed5e3437a7
+    start: 14:00.84
+    end: 14:04.03
+    fields:
+      transcription: そうね　両思いになる日も近いはずよ
+      meaning: |-
+        Well, he will be falling in love
+        with you soon.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 65127e6b-02fa-4ded-9989-c1260bde9f09
+    start: 14:07.71
+    end: 14:09.84
+    fields:
+      transcription: 火野さんのおかげで大盛況よ
+      meaning: |-
+        Your fortune-telling is 
+        attracting a lot of people!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 1e37d8fe-2c63-4f98-ab0e-d5289656ccb8
+    start: 14:22.43
+    end: 14:27.28
+    fields:
+      transcription: 過去のことはぴったりと当てて　しかも未来の{{c2::死期}}まで{{c1::宣告}}してるんです
+      meaning: |-
+        This fortune-teller knows her past,
+        and predicted the time of her death!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9c580c30-3170-47fd-b7ee-6fdef8ae7fc2
+    start: 14:52.48
+    end: 14:57.15
+    fields:
+      transcription: あら　火野レイさんね　来てくださって{{c1::光栄}}だわ
+      meaning: I'm honored you came.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: dc0ccf88-b71e-4645-8d31-52bcba6e3790
+    start: 15:32.46
+    end: 15:35.44
+    fields:
+      transcription: 火野さん　なんだか焦臭い
+      meaning: |-
+        Hino-san.
+        I can smell something burning in 
+        the direction the sisters went.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c0631e08-78db-4674-803f-d1eafed5766b
+    start: 19:19.84
+    end: 19:26.54
+    fields:
+      transcription: だが　あやかしの四姉妹　一番{{c2::過激}}な{{c1::末っ子}}のあたし　コーアンに勝てるかしら
+      meaning: |-
+        But can you defeat me?
+        I'm Koan, the youngest and most 
+        extreme of the four Spectre Sisters.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 05d661cf-adf4-427f-9b0e-c28f83120f58
+    start: 19:38.09
+    end: 19:41.07
+    fields:
+      transcription: "{{c1::邪}}な目的でシスターの命を"
+      meaning: |-
+        You took an innocent sister's life
+        for evil purposes!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d34628c3-1318-4dda-9463-a61765e26a4a
+    start: 21:46.04
+    end: 21:49.36
+    fields:
+      transcription: 私はブラックムーンの{{c1::紅}}のルベウス
+      meaning: I'm Crimson Rubeus from the Black Moon.
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: da996d69-7990-41aa-b79d-0e9a0f159e3b
+  meaning: bb5b78de-8da3-4c09-bd0b-91a6d95990f2
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 16 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.403
+id: dbe4d6ec-93d7-4c7b-ba1c-5259c42fe472
+subtitles:
+  - id: 584e12ad-3496-484c-a8cb-2d7ffc55c9fe
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 314
+      endCueMs: 1480259
+  - id: a8ed4fdb-f36a-41aa-bb2f-07d7bc2932ae
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 16 [1080p].ja.ass"
+clips:
+  - id: 9f59d29c-9a2b-4e55-8e64-3f9fedc4fc20
+    start: 00:44.03
+    end: 00:45.76
+    fields:
+      transcription: ルナ　なんで{{c1::庇う}}の
+      meaning: Luna! Why are you defending her?
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_16_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: a9fd7d16-721d-4ca4-a077-bd86ef4248a8
+    start: 03:35.85
+    end: 03:37.45
+    fields:
+      transcription: うさこも気が{{c1::高ぶっ}}てる
+      meaning: Usako's really emotional, too.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 7b39dde4-4de4-4e8f-ae04-c2cc77c8fa02
+    start: 03:42.657
+    end: 03:52.837
+    fields:
+      transcription: |-
+        この子怯えているわ
+        異常に周りを{{c1::警戒}}しているし
+        そうして　敵意がないと分かると  今度はすっかり心を許す
+      meaning: |-
+        She's just scared.
+        She has her guard up around others.
+        When she knows they have no ill will
+        towards her, she's fully open to them.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a2d8876d-45a7-478f-9055-ae363e6da105
+    start: 04:07.56
+    end: 04:11.1
+    fields:
+      transcription: もしものことがあったら  あなたがなんとかするのよ
+      meaning: If something happens, you must act.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0a9bfe4c-e79c-4500-8f24-de6f1deb16da
+    start: 04:53.0
+    end: 04:57.2
+    fields:
+      transcription: 君が悲しそうな顔をすると  このバラまで{{c1::萎れて}}しまう
+      meaning: When you look sad, this rose withers.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 2fc94395-65c5-4903-9a31-e2a6e008106e
+    start: 05:11.95
+    end: 05:15.32
+    fields:
+      transcription: ビックリした　これは{{c1::腹話術}}って言うんだよ
+      meaning: |-
+        Are you surprised? 
+        This is called ventriloquism.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 4784944d-c080-467f-958d-8b44b50b3947
+    start: 06:34.09
+    end: 06:38.27
+    fields:
+      transcription: ちびうさ　きっと遠くにいるご両親が{{c1::恋しい}}のね
+      meaning: |-
+        She must miss her parents,
+        who live far away.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d90c560f-bd63-46d2-a821-c16416f15496
+    start: 06:45.357
+    end: 06:50.957
+    fields:
+      transcription: |-
+        ああ　あたしたちはマーズをなんとしても{{c1::助け出さ}}なくちゃな
+        ブラックムーンから
+      meaning: |-
+        Yeah, we've gotta rescue Mars no matter what...
+        From the Black Moon.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 17424576-57cf-4a1c-bdbe-42a021a9927b
+    start: 07:05.95
+    end: 07:13.58
+    fields:
+      transcription: |-
+        {{c1::駒}}を動かすことに集中していると  相手の狙いが見えてくるの
+        頭の中の情報が{{c2::整理}}できるのね
+      meaning: |-
+        When you're focused on moving the pieces,
+        you'll see your opponent's intentions.
+        You can sort out the 
+        information in your head.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_16_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: ecaa99ec-971d-476c-8568-1240e32197ba
+    start: 09:21.58
+    end: 09:27.68
+    fields:
+      transcription: |-
+        ただの{{c1::木偶}}人形に命を吹き込む
+        お前の錬金術は素晴らしいね　サフィール
+      meaning: |-
+        Your alchemy breathes life
+        into these simple, wooden puppets.
+        It's magnificent, Saphir.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_16_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 02faabf3-e695-46df-b3ed-5dfe8404ee5f
+    start: 09:33.72
+    end: 09:36.41
+    fields:
+      transcription: 兄さんのやり方はいつも{{c1::強引}}過ぎる
+      meaning: Your methods are always too high-handed.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 7148f81c-d64f-4d61-b0e8-ea23724326d5
+    start: 09:33.72
+    end: 09:36.41
+    fields:
+      transcription: 兄さんのやり方はいつも強引過ぎる
+      meaning: Your methods are always too aggressive.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a7a9512b-7055-47cf-b741-e70ea9180d1d
+    start: 09:38.13
+    end: 09:42.46
+    fields:
+      transcription: |-
+        俺は俺のやりたいようにやる
+        {{c1::指図}}するのか
+      meaning: |-
+        I'll do what I want.
+        Are you giving me orders?
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_16_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 8186cc3c-43b8-4846-bf1d-89215d2a772d
+    start: 09:49.05
+    end: 09:52.46
+    fields:
+      transcription: 我らはプリンスデマンドに{{c1::忠誠}}を{{c2::誓った}}身
+      meaning: |-
+        We have sworn loyalty
+        to Prince Demande.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 745d542e-182c-400c-b2bc-2cabeb37920a
+    start: 10:04.92
+    end: 10:07.24
+    fields:
+      transcription: ただ　なかなか{{c1::強情}}でしてね
+      meaning: But she is quite obstinate.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: dbc2aaf2-0020-4ffb-ba78-67554ec069ca
+    start: 10:57.6
+    end: 11:01.13
+    fields:
+      transcription: 取り除いて見せますわ  目障りな駒を
+      meaning: I will remove the [visually] unpleasant pieces.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ff944e65-ffb8-447f-9978-79dfa6d8d2b6
+    start: 11:07.4
+    end: 11:08.919
+    fields:
+      transcription: "{{c1::体育館}}まで戻るか"
+      meaning: Let's go back to the gym.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 476c70b0-19af-4158-ab2b-0d8f2361c195
+    start: 11:19.063
+    end: 11:23.003
+    fields:
+      transcription: |-
+        耳を{{c1::澄まして}}
+        水の流れる音を聞いて
+      meaning: |-
+        Listen carefully and hear 
+        the sound of the water flow.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 33c2edc3-cbfd-498f-8cc8-1ef5b29acfe0
+    start: 11:38.12
+    end: 11:40.73
+    fields:
+      transcription: こりゃダメだ　{{c1::業者}}を呼ばないと
+      meaning: |-
+        This isn't good. 
+        We'll have to call the supplier to fix it.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 77a00a87-2350-4a7a-937a-1a47fae52431
+    start: 11:51.71
+    end: 11:56.28
+    fields:
+      transcription: |-
+        でも　ペンデュラムもなしでダウジングするなんて
+        {{c1::邪道}}だわ
+      meaning: But dowsing without a pendulum is heresy.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_16_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: c83cf4cc-848c-4224-9203-8a4fab3f19f9
+    start: 12:41.29
+    end: 12:43.48
+    fields:
+      transcription: 亜美ちゃんもここの{{c1::会員}}だったのね
+      meaning: So you're a member here too, Ami-chan?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 50b02c42-32eb-4bf8-9e15-767b5a044906
+    start: 12:51.488
+    end: 12:58.668
+    fields:
+      transcription: |-
+        亜美ちゃんのパパって何してる人
+        {{c1::日本画家}}なの
+        へー　絵描きさん　すごい
+      meaning: |-
+        What does your father do?
+        He's a Japanese-style painter.
+        Wow, an artist.
+        That's cool!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 84ae5fb7-b4e1-416f-a215-da37764a04f0
+    start: 13:28.12
+    end: 13:35.15
+    fields:
+      transcription: ダウジングとはペンジュラムという振り子を使って　本来は水脈や金鉱脈を探すことですが
+      meaning: |-
+        Dowsing originally involved using a pendulum
+        to search for water or veins of gold,
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: cd23dbeb-87d0-428b-8ed9-c67f05e52820
+    start: 13:41.77
+    end: 13:46.44
+    fields:
+      transcription: ええ　駒を動かすべき方向にペンジュラムが{{c1::揺れる}}んです
+      meaning: |-
+        Yes. The pendulum swings toward
+        the place I should move my pieces.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e2ce2912-0046-4596-a248-8c55068f59cd
+    start: 13:58.49
+    end: 14:02.25
+    fields:
+      transcription: この場を借りて　彼女に{{c1::挑戦}}をしたいと思います
+      meaning: |-
+        I think I would like to take
+        this opportunity to challenge her.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 020e5956-d1b0-4897-b217-54dc589598a4
+    start: 14:32.08
+    end: 14:34.59
+    fields:
+      transcription: 水を操るのと同じ{{c1::要領}}でね
+      meaning: It the same gist as controlling water.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 687c1cac-b8aa-4216-9276-1804615ba97d
+    start: 14:38.098
+    end: 14:44.878
+    fields:
+      transcription: |-
+        勝負しましょう　お互いの一番欲しいもの
+        キングの駒を{{c1::賭けて}}
+      meaning: |-
+        Let's have a match.
+        We'll each wager that which the other wants most--the king piece.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 013221b1-56af-4701-9b4e-473d85adfd48
+    start: 16:30.0
+    end: 16:34.06
+    fields:
+      transcription: あなたの不安は現実になってしまう{{c1::巡り合わせ}}なのね
+      meaning: |-
+        Your fear will come true,
+        because that's your fate.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 55051250-c21b-4cf8-85f2-72468e80bba9
+    start: 17:35.79
+    end: 17:38.729
+    fields:
+      transcription: 試合の{{c1::妨げ}}になるようなら　退席してもらいますよ
+      meaning: |-
+        If you keep interrupting the game,
+        you will have to leave!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9cd7c3c0-41eb-4ab1-9a6e-0fffe3fc4c15
+    start: 18:26.09
+    end: 18:33.37
+    fields:
+      transcription: たとえ{{c1::離れ離れ}}になっても　あの時もらった愛情は　あたしの中で消えはしないから
+      meaning: |-
+        Even if we become separated,
+        the love I received from them
+        will never fade away!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ae14dd4b-6a3c-4ec8-8fcc-ea9723c013f3
+    start: 19:28.35
+    end: 19:29.899
+    fields:
+      transcription: "{{c1::退いて}}ください"
+      meaning: Please make a path!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8ca9f899-4c04-4fbc-99e6-6bccbfc11a1e
+    start: 19:37.61
+    end: 19:40.67
+    fields:
+      transcription: あたしの{{c1::持ち駒}}はまだまだあるの
+      meaning: I still have more pawns in reserve.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b72ecdb8-29d9-4f57-8d95-84a8676a4315
+    start: 21:20.24
+    end: 21:22.84
+    fields:
+      transcription: あなたの{{c1::幻術}}なんか通用しないわ
+      meaning: Your illusion doesn't work on me.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 92bf4f9e-6a22-4a61-8851-e2bc5a83bafc
+    start: 21:30.92
+    end: 21:34.759
+    fields:
+      transcription: 言うもんですか　見す見す敵になんか渡さない
+      meaning: I will never give her up!
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: a8ed4fdb-f36a-41aa-bb2f-07d7bc2932ae
+  meaning: 584e12ad-3496-484c-a8cb-2d7ffc55c9fe
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 17 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.38
+id: d2400e2e-f11f-4a8e-88fa-1e4b49a225ca
+subtitles:
+  - id: bd621557-224e-4d84-9a66-08ba1def04ed
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 346
+      endCueMs: 1480219
+  - id: 6cd9fe3d-f900-4a36-981c-789d1217c33a
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 17 [1080p].ja.ass"
+clips:
+  - id: 65dbea25-001a-48ba-a433-b122d8680d94
+    start: 03:13.28
+    end: 03:17.16
+    fields:
+      transcription: あたしのこと　{{c1::励まそう}}としてくれたの
+      meaning: trying to cheer me up or something?
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_17_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 9cf44158-b915-4ca9-bace-57760031a5e7
+    start: 04:16.16
+    end: 04:17.66
+    fields:
+      transcription: なんてこった
+      meaning: Wow! Damn!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8e977205-c86f-450e-af02-0e3f8cefd184
+    start: 04:22.03
+    end: 04:24.859
+    fields:
+      transcription: い　今までの記録　{{c1::塗り替え}}ちゃったよ
+      meaning: She totally beat the high score!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8662d417-0314-480b-beca-66f9b4f69ea4
+    start: 05:42.51
+    end: 05:45.2
+    fields:
+      transcription: 衛さんが{{c1::気を利かせて}}くれて助かったわ
+      meaning: Thankfully, Mamoru-san really did the right thing.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0d41779d-6776-43ca-a005-aa92be72f7cb
+    start: 08:04.17
+    end: 08:06.65
+    fields:
+      transcription: 楽しくなる{{c1::おまじない}}を教えましょうか
+      meaning: |-
+        Do you want to know a spell that makes
+        things more fun, Small Lady?
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_17_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 651e9347-8450-43fc-914f-92797474a9ac
+    start: 09:43.84
+    end: 09:49.84
+    fields:
+      transcription: この二人もあのクイーンと同様　{{c1::老いずに}}若いまま生き続けるのだろうか
+      meaning: |-
+        I wonder if these two
+        are just like the Queen.
+        Living forever, young and never aging.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 83f5aa0d-6c51-4c00-9595-c5a8373990ce
+    start: 10:00.03
+    end: 10:02.2
+    fields:
+      transcription: 早くこの手で{{c1::木っ端微塵}}にし
+      meaning: I want to hurry and smash it to pieces,
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8f127e07-6a2e-4c03-b10d-dd760c4d6848
+    start: 10:05.04
+    end: 10:07.95
+    fields:
+      transcription: 急いてはことをし損じる
+      meaning: Haste makes waste.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_17_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: b859203e-9669-462c-bb1a-59d36d1a124e
+    start: 10:18.43
+    end: 10:23.93
+    fields:
+      transcription: 可愛い妹達コーアンとベルチェの{{c1::仇}}　このペッツが{{c2::討ち}}とうございますわ
+      meaning: |-
+        I, Petz, would like to bring vengeance upon the adversaries of my
+        dear little sisters, Koan and Berthier.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_17_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: e043fc5a-2fa0-4aa0-9e23-3f62409fba6b
+    start: 10:32.38
+    end: 10:35.71
+    fields:
+      transcription: 幻の銀水晶とラビット{{c1::狩り}}を始めよう
+      meaning: |-
+        We will hunt the Legendary
+        Silver Crystal and the Rabbit.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5d5bb0d1-3575-454c-89a2-d94a7a77adb8
+    start: 11:17.42
+    end: 11:24.19
+    fields:
+      transcription: |-
+        ちびうさの奴　直せっと言われてもな
+        こいつ　{{c1::継ぎ目}}もないんだ　どうやって
+      meaning: |-
+        Chibi-Usa asked me to fix this,
+        but I'm not sure how.
+        There aren't even any connection points.
+        What should I do?
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_17_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 76080443-7a65-4be4-a639-42d35ac8384a
+    start: 11:38.14
+    end: 11:41.869
+    fields:
+      transcription: でも　あいつ　何だかうさこに{{c1::懐いて}}きたじゃん　最近
+      meaning: |-
+        She's gotten kinda attached
+        to you lately, Usako.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a6f2700b-8685-4e79-b504-b58b681862ae
+    start: 12:09.96
+    end: 12:11.999
+    fields:
+      transcription: そこが{{c1::敵地}}かもしれないわね
+      meaning: |-
+        It's possible that place
+        is the enemy base.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ea55a93a-84f5-4e02-92fc-5ee04e18d749
+    start: 12:12.0
+    end: 12:14.91
+    fields:
+      transcription: "{{c1::冴え}}てる　うさぎちゃん"
+      meaning: Good thinking, Usagi-chan!
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_17_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 729bbd72-69b6-42d2-9aa4-0bbeeb9b667c
+    start: 12:17.95
+    end: 12:19.129
+    fields:
+      transcription: 調子に乗ってる
+      meaning: And you get carried away.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_17_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: cf0981cd-dd7e-49a1-8b60-e08b9f0eeafe
+    start: 13:00.08
+    end: 13:02.88
+    fields:
+      transcription: "{{c1::ふらついて}}ますよ　どうしちゃったんですか"
+      meaning: You're wobbling around. Are you okay?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 85e15b8f-a0e1-4707-a610-6a57b44ba5ea
+    start: 13:10.91
+    end: 13:14.72
+    fields:
+      transcription: 具合悪いとあたし　電気{{c1::溜め込む}}体質なんだよね
+      meaning: |-
+        Apparently I get all statically charged 
+        when I'm not feeling well.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e8345484-d6db-430b-998e-23f439266f0d
+    start: 13:25.68
+    end: 13:28.54
+    fields:
+      transcription: "{{c1::観葉植物}}がいっぱいだ　すごっ"
+      meaning: Wow, you've got a lot of house plants!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8edf629d-6221-4b31-bac0-991318fd8aca
+    start: 13:33.98
+    end: 13:38.52
+    fields:
+      transcription: 二人ともとっくに死んじゃったけど　飛行機の事故でね
+      meaning: |-
+        They died a long time ago, though.
+        In a plane crash.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8cbdec68-7b4e-4be4-b913-e86c72ba17d1
+    start: 14:04.86
+    end: 14:08.24
+    fields:
+      transcription: 東京は現在嵐のような雨が吹き{{c1::荒れて}}います
+      meaning: |-
+        Tokyo is now showing signs
+        of storm-like heavy rains.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: aa567e58-a6d9-46fa-858d-23ada6c4b943
+    start: 14:12.88
+    end: 14:16.49
+    fields:
+      transcription: ご覧の映像は港区の{{c1::空き地}}で発見されたものです
+      meaning: |-
+        These were discovered in 
+        a vacant lot in the Minato Ward.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c7e2567f-a099-4976-ac38-c999f7837832
+    start: 14:16.89
+    end: 14:22.32
+    fields:
+      transcription: |-
+        一部ではＵＦＯの{{c1::着陸}}跡との噂もある　謎は深まるばかりです
+        先輩
+      meaning: |-
+        Traces of UFO landings are popping up
+        one after the other around there...
+        Senpai.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f3d29516-825f-4718-80fa-a85e0d7de7f4
+    start: 17:02.22
+    end: 17:03.88
+    fields:
+      transcription: 気象警報発令です
+      meaning: This is an official weather alert.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 92d3daef-9382-41e1-b4af-4310bc94c155
+    start: 20:21.29
+    end: 20:24.08
+    fields:
+      transcription: このあたしに{{c1::なりすます}}とは上等じゃんか
+      meaning: |-
+        Is that the best you can 
+        do to impersonate me?
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_17_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 7ca0e117-a4f8-48bb-8744-a8d1acfc67e1
+    start: 20:29.26
+    end: 20:31.72
+    fields:
+      transcription: おや　くたばり損ないかい
+      meaning: |-
+        Oh, a worthless fool
+        who doesn't even know how to die?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 7abb7137-aad3-443e-b703-5571bc5d1421
+    start: 20:33.28
+    end: 20:40.12
+    fields:
+      transcription: 妖かしの四姉妹　この{{c1::長女}}ベッツが可愛い妹達のお礼をさせてもらうよ
+      meaning: |-
+        I, Petz, the eldest
+        of the four Spectre Sisters,
+        will return the favor
+        for my dear sisters!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 68daf980-0c50-4564-9f5d-678a046d185d
+    start: 20:58.17
+    end: 21:03.0
+    fields:
+      transcription: おや　ウイルスに{{c1::侵された}}体で　随分と{{c2::威勢}}がいいこと
+      meaning: |-
+        You're rather lively despite having 
+        your body affected by the virus.
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 6cd9fe3d-f900-4a36-981c-789d1217c33a
+  meaning: bd621557-224e-4d84-9a66-08ba1def04ed

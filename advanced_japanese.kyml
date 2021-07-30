@@ -3,7 +3,7 @@
 name: Advanced Japanese
 noteType: Simple
 createdAt: 2020-12-15T18:29:15Z
-timestamp: 2021-07-29T16:10:41Z
+timestamp: 2021-07-30T16:46:00Z
 id: 7e0055cb-c97c-4ce0-afe6-082086d027b9
 ---
 name: 01-AudioTrack 01.mp3
@@ -5960,3 +5960,830 @@ clips:
 flashcardFieldsToSubtitlesTracks:
   transcription: 6cd9fe3d-f900-4a36-981c-789d1217c33a
   meaning: bd621557-224e-4d84-9a66-08ba1def04ed
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 18 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.52
+id: 15a707b8-e3b8-479d-bd5d-c08cb2515e08
+subtitles:
+  - id: a31d8853-73c2-4f93-be92-46fe21ad462e
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 324
+      endCueMs: 1480329
+  - id: e27e8d5f-1d7a-4705-88e5-ac20646da661
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 18 [1080p].ja.ass"
+clips:
+  - id: 196ec6a7-d52b-4d5a-9ee5-11a5d0d80051
+    start: 00:56.43
+    end: 00:59.53
+    fields:
+      transcription: ペッツが身に{{c1::つけていた}}邪黒水晶のピアスだ
+      meaning: The Malefic Black Crystal earring Petz wore.
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_18_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: faeabfb8-2896-482e-be6f-0326814b034e
+    start: 02:58.0
+    end: 03:02.46
+    fields:
+      transcription: マーズ　マーキュリー　ジュピターを連れ去ったブラックムーンの{{c1::円盤}}
+      meaning: |-
+        The saucers of the Black Moon
+        that took Mars, Mercury, and Jupiter...
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 7dc53f70-48bc-44aa-84ef-4650db5c0602
+    start: 03:36.06
+    end: 03:39.98
+    fields:
+      transcription: 悔しい　あたしたちまるで{{c1::弄ばれてる}}みたい
+      meaning: |-
+        It's so frustrating!
+        It's like they're toying with us.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_18_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 6aba418f-d05e-433f-9802-293fbaa0b921
+    start: 03:41.2
+    end: 03:47.42
+    fields:
+      transcription: |-
+        もう我慢できないわ
+        ちびうさをこれ以上泳がせていても無駄よ
+        ブラックムーンのことを聞き出しましょう
+      meaning: |-
+        I can't take it anymore!
+        It's a waste of time to keep dancing 
+        around this subject with Chibi-Usa.
+        Let's get her to talk about Black Moon.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ee0d1154-018b-4993-ab38-34959b78bb4b
+    start: 05:03.58
+    end: 05:06.3
+    fields:
+      transcription: さっさとセーラー戦士を始末すべきだな
+      meaning: |-
+        We should deal with
+        the Sailor Guardians right away.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 4f53a02f-f9f3-45e9-b3e6-a7be829e91b3
+    start: 05:16.3
+    end: 05:18.4
+    fields:
+      transcription: 皆頭がいかれてるわね
+      meaning: You've all lost your minds.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 618615b7-3fc3-4cfb-981b-19e45e15ce83
+    start: 05:22.2
+    end: 05:28.91
+    fields:
+      transcription: |-
+        サフィール　お前は予定外の事にいらいらしているのだろうが
+        計画にアクシデントは{{c1::付き物}}さ
+      meaning: |-
+        Saphir, it seems you're irritated
+        about these unexpected events.
+        But accidents are bound to 
+        happen when you have plans.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_18_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 86ffb2e9-50cb-413a-be9f-044425ceb280
+    start: 05:51.04
+    end: 05:54.17
+    fields:
+      transcription: これ以上　時間とエネルギーを{{c1::割}}くことはない
+      meaning: |-
+        We don't need to waste any more
+        time or energy on it.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 50e61c80-910a-4012-afa7-27f1d5e4052d
+    start: 05:54.75
+    end: 06:00.4
+    fields:
+      transcription: |-
+        まだだな
+        我らの力を壮大な{{c1::野望}}を知らしめてからだ
+      meaning: |-
+        Not yet.
+        We're making our power
+        and grand ambitions known to all.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_18_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: b60d0113-f38d-495a-9e44-bf4bb140af02
+    start: 06:51.33
+    end: 06:58.65
+    fields:
+      transcription: |-
+        ワイズマンか
+        あの胡散臭い占い爺爺が
+        いつの間にか我らの前に現れ
+      meaning: |-
+        Wiseman, huh?
+        That shady, fortune-telling old coot.
+        He appeared before us out of nowhere.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_18_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: f5470748-49cd-4bfe-80ab-c3b4f3c573e3
+    start: 07:22.08
+    end: 07:24.59
+    fields:
+      transcription: いつか化けの皮を引っペがしてやる
+      meaning: |-
+        One day I'll rip off that facade
+        and find out who he really is.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: fab21e43-777b-4b9d-a2a5-d2ddf2e9ec7b
+    start: 07:36.43
+    end: 07:39.88
+    fields:
+      transcription: 悔しい　仇はきっとこのあたしが
+      meaning: |-
+        How frustrating.
+        I'll make sure to avenge you.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: fb18fae6-0cea-42ba-837d-8e47907b251e
+    start: 08:47.6
+    end: 08:49.76
+    fields:
+      transcription: あなたは敵じゃないと{{c1::誓える}}
+      meaning: Can you swear you're not an enemy?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 09fd6e55-75d2-46bb-a2b9-6f9c12d23dc9
+    start: 09:18.25
+    end: 09:19.58
+    fields:
+      transcription: 胸が{{c1::張り裂け}}そう
+      meaning: My heart feels like it's being ripped apart.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b6cb31a5-3c69-4efd-80a2-197d936cc27a
+    start: 10:17.77
+    end: 10:20.75
+    fields:
+      transcription: 遥か遠い彼方からやってきた
+      meaning: We've come from very far away.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 65702de3-fd01-4b8d-925c-21ac08c8962f
+    start: 11:38.62
+    end: 11:44.7
+    fields:
+      transcription: |-
+        {{c2::受けて立と}}うじゃないの
+        このセーラーヴィーナスが  すべての企み　{{c1::暴いて}}見せるわ
+      meaning: |-
+        Then I accept! I, Sailor Venus,
+        will reveal their evil schemes.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_18_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 429156ef-e960-49c1-b482-127e7579f883
+    start: 12:52.01
+    end: 12:55.76
+    fields:
+      transcription: その石から　時間と空間の{{c1::歪み}}が感じられます
+      meaning: |-
+        I sense a distortion of time and space
+        coming from this stone.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 75d84ce2-db09-4f21-a41f-7851901fe28a
+    start: 14:13.85
+    end: 14:19.95
+    fields:
+      transcription: これから地球は水瓶座　「アクエリアス」の時代へとなっていく
+      meaning: |-
+        Earth is now entering
+        the Age of Aquarius, the Water Bearer.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 131c4920-b160-444f-9860-910830656cfa
+    start: 14:46.96
+    end: 14:51.56
+    fields:
+      transcription: 我々は地球を正しい{{c1::方向}}へ改革していきたいのだ
+      meaning: |-
+        We want to redirect the Earth
+        down the proper path.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f792b9ec-0006-4174-aeff-37d7a554323a
+    start: 15:15.28
+    end: 15:21.72
+    fields:
+      transcription: 無駄よ　妖かしの四姉妹{{c1::次女}}　このカラベラスの洗脳から逃れることはできない
+      meaning: |-
+        It's no use. I, Calaveras, the second 
+        of the four Spectre Sisters,
+        won't let anyone escape
+        from my mind control.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a43e7d13-6c19-4bd7-9810-3d93faf1c1a3
+    start: 17:39.26
+    end: 17:42.57
+    fields:
+      transcription: ほう　{{c1::すばしっこい}}な
+      meaning: Oh? How nimble.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c1f1ab30-3886-452c-8c1d-e4247b1b2b8e
+    start: 18:20.48
+    end: 18:24.27
+    fields:
+      transcription: "{{c1::怯む}}な　二人を守れるのはお前しかいない"
+      meaning: |-
+        Don't falter.
+        Only you can protect them.
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: e27e8d5f-1d7a-4705-88e5-ac20646da661
+  meaning: a31d8853-73c2-4f93-be92-46fe21ad462e
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 19 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.38
+id: bd2be293-a0b1-4abd-a2ac-f61d2e54987c
+subtitles:
+  - id: 52ceb83b-0c21-45fb-bbad-05f6f43207f1
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 327
+      endCueMs: 1480220
+  - id: f8e67bf1-95c2-4cb9-a777-cf99a0e9206c
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 19 [1080p].ja.ass"
+clips:
+  - id: 75aad8e8-ffcc-49e3-887d-abd877c8b400
+    start: 00:52.22
+    end: 00:55.45
+    fields:
+      transcription: クリスタル・トーキョーで突然{{c1::爆発}}が起こって
+      meaning: |-
+        There was a sudden explosion
+        in Crystal Tokyo,
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_19_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: c3234b53-e43d-4623-8e38-4832cc3d127c
+    start: 08:07.85
+    end: 08:13.77
+    fields:
+      transcription: |-
+        孤独な番人がひっそりと守る
+        {{c1::禁じ}}られた聖域の中にある閉ざされた扉
+      meaning: |-
+        It's the closed door
+        within the forbidden sacred ground, 
+        quietly defended by a solitary Guardian.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_19_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 68544dd4-9a36-45f3-b088-181a641a51a2
+    start: 09:36.22
+    end: 09:39.32
+    fields:
+      transcription: 時間の行き来は残された最後のタブー
+      meaning: Time travel is the last remaining taboo.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f584cd57-18ad-4bd9-a861-c9eef44046a3
+    start: 13:32.81
+    end: 13:41.39
+    fields:
+      transcription: |-
+        誰であろうと　掟を破ることは許されない
+        私の使命は　消去である
+      meaning: |-
+        No matter who you are,
+        you cannot break the laws.
+        My mission
+        is to eliminate you!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b130568e-1804-443f-8041-90a75a11010a
+    start: 15:35.44
+    end: 15:39.95
+    fields:
+      transcription: |-
+        あんたなんかお姫様のわけないでしょ
+        あなた方はいつも私を{{c1::手こず}}らせてばかり
+        なにそれ
+        なにそれ
+      meaning: |-
+        You guys have always been nothing
+        but trouble for me.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_19_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 9db0041d-c786-4462-9770-41938743a404
+    start: 16:16.99
+    end: 16:20.83
+    fields:
+      transcription: 月があんなに近く　重く{{c1::たれ込めて}}いる
+      meaning: |-
+        The moon is so close.
+        It's hanging really low.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 45c29691-ceec-4cfc-83c1-0df6e75bf10a
+    start: 18:32.78
+    end: 18:37.85
+    fields:
+      transcription: アキラルのエレクトロ側鎖は　決してその{{c1::融合}}を切断できない
+      meaning: |-
+        With Achiral's Electrochemical Side Chain,
+        no reaction can sever its bond.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f03028e2-d4f5-4cc1-a911-27c9ac9e463d
+    start: 18:59.77
+    end: 19:04.35
+    fields:
+      transcription: お前たちは今　キラリティの中心部の{{c1::磁場}}に{{c2::固定}}された
+      meaning: |-
+        You're now fixed in a magnetic 
+        field of Chirality Center.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: cc686cb2-1824-41b8-b34c-8919ae2ef7c0
+    start: 19:13.88
+    end: 19:22.02
+    fields:
+      transcription: |-
+        邪黒水晶の力でこの後ろに{{c1::聳える}}本物のクリスタルパレスと共に
+        あんたたちを葬ってあげる
+      meaning: |-
+        With the power of the Malefic
+        Black Crystal,
+        we will blow you away along 
+        with the real Crystal Palace
+        that stands behind me.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_19_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 4d6faa38-d2a1-47ab-bac0-63cb88471a64
+    start: 19:40.32
+    end: 19:45.61
+    fields:
+      transcription: ねぇ　どうせなら最後に幻の銀水晶を{{c1::拝ませ}}なさいよ
+      meaning: |-
+        Why don't you let me set my eyes upon the Legendary
+        Silver Crystal before you die.
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: f8e67bf1-95c2-4cb9-a777-cf99a0e9206c
+  meaning: 52ceb83b-0c21-45fb-bbad-05f6f43207f1
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 20 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.52
+id: 0505f7e2-219a-4304-9f4b-7a32f1987874
+subtitles:
+  - id: b460cad9-be6e-4e7e-92e9-de8f5f8f7a8d
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 378
+      endCueMs: 1480329
+  - id: c7c995b0-9044-4d3d-864c-27cd10eb3be2
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 20 [1080p].ja.ass"
+clips:
+  - id: 91d1063a-9fb5-4bf8-9c51-39a4f53590ed
+    start: 00:56.01
+    end: 00:56.92
+    fields:
+      transcription: "{{c1::通り抜け}}た"
+      meaning: She went through him?
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_20_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 4915139d-7bb1-4bc3-aa6d-e65e23f564e4
+    start: 01:04.71
+    end: 01:10.65
+    fields:
+      transcription: |-
+        過去への旅は危険が伴うが
+        スモールレディー　お前の判断は{{c1::適格}}だったよ
+      meaning: |-
+        Traveling to the past is dangerous,
+        but your judgment was sound, Small Lady.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_20_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 937a8d30-582c-41f9-a946-03b5c443d413
+    start: 03:07.85
+    end: 03:09.96
+    fields:
+      transcription: この人　{{c1::鏡に映っ}}てない
+      meaning: He has no reflection?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5c778395-1bf4-4484-b6ac-b7b7ef3ea25b
+    start: 03:14.51
+    end: 03:18.16
+    fields:
+      transcription: 私の本体は別室で{{c1::横たわ}}り目覚めない
+      meaning: |-
+        My real body is lying down 
+        in another room, unconscious.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a3897009-9168-4850-a299-572c13360ae8
+    start: 03:20.03
+    end: 03:23.79
+    fields:
+      transcription: この姿は　体から抜けてた{{c1::亡霊}}とでも思ってて
+      meaning: |-
+        Think of this form
+        as a spirit that's left its body.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: aa11db2f-e09e-489b-9485-ba6d772e659c
+    start: 04:29.44
+    end: 04:32.14
+    fields:
+      transcription: 周りに随分と{{c1::甘やかせれ}}て育ったのでね
+      meaning: Around here, she's very spoiled.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3550ae73-f652-4df6-9bc4-8b689058db9b
+    start: 05:14.24
+    end: 05:17.72
+    fields:
+      transcription: クイーンを{{c1::包んでいる}}のは幻の銀水晶なの
+      meaning: |-
+        Is that the Legendary Silver Crystal
+        covering the queen?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ddfa974f-8583-46c6-bfdc-d0288c8c1552
+    start: 05:26.43
+    end: 05:33.5
+    fields:
+      transcription: |-
+        ほとんど　このクリスタルパレスから出たことのなかったクイーンが
+        ひどく{{c1::慌てた}}様子で外へ飛び出した
+      meaning: But one day, she left suddenly in a panic.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_20_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: dd4f2a2c-1fc2-4335-a210-d6687a21827a
+    start: 05:48.41
+    end: 05:51.0
+    fields:
+      transcription: 後は　死の{{c1::静寂}}が訪れた
+      meaning: Afterwards, there was a grave silence.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 858843cb-ae87-47b1-bff1-93c708bbc2cc
+    start: 05:57.92
+    end: 06:02.92
+    fields:
+      transcription: クイーンの体がまるで守られるように{{c1::瞬く}}間にクリスタルに包まれた
+      meaning: |-
+        the queen's body was instantly 
+        engulfed in crystal,
+        as if she was being protected.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 6e9b0bcd-6bfe-4ab3-a82a-addeef2af73b
+    start: 07:16.27
+    end: 07:19.69
+    fields:
+      transcription: シルバーミレニアムの一族の寿命は{{c1::およそ}}千年
+      meaning: |-
+        The lifespan of the Silver Millennium
+        family is about a thousand years.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c2ff81af-4451-4b2c-928a-1ed3d1417165
+    start: 07:21.97
+    end: 07:27.55
+    fields:
+      transcription: |-
+        成人までは　人と同じ速度で成長し
+        成人後　{{c1::老化}}が止まる
+      meaning: |-
+        In general, the rate of aging
+        halts after adulthood.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 786a72b0-bdcb-4ec6-9e79-8a60e1daef21
+    start: 07:29.8
+    end: 07:37.13
+    fields:
+      transcription: |-
+        セレニティは二十二歳でクイーンとして{{c1::即位}}し
+        スモールレディーを産み　そこからずっとその姿を留めている
+      meaning: |-
+        At 22, Serenity was crowned queen
+        and gave birth to Small Lady.
+        She's remained that way ever since then.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_20_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 007f9954-f709-4fed-a73a-5c735ab2c4f7
+    start: 08:09.56
+    end: 08:15.32
+    fields:
+      transcription: |-
+        人類の{{c1::祈願}}であった長寿を実現し
+        私たちは　平和に暮らしていた
+      meaning: |-
+        Long life was humanity's greatest wish.
+        We lived in peace on the Earth.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_20_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 08beb1a2-422a-44b4-890e-d21e96daf0f8
+    start: 09:33.42
+    end: 09:40.03
+    fields:
+      transcription: |-
+        {{c1::軌道}}が計算不能で　その存在をずっと捉えることのできなかった
+        幻の暗黒惑星
+      meaning: |-
+        It's an illusionary planet of darkness
+        with an orbit that is impossible to calculate,
+        and no one was able to detect
+        its existence for a long time.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_20_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 6a0b2218-1610-422c-bbd8-ee5e521cd7b1
+    start: 09:42.11
+    end: 09:48.12
+    fields:
+      transcription: |-
+        何世紀か前に　地球から{{c1::極刑}}の犯罪者が一人{{c2::流刑}}されただけで
+        以後封鎖
+      meaning: |-
+        Centuries ago, a lone criminal from
+        the Earth received the ultimate sentence
+        and he was exiled there.
+        Thereafter, it was blocked off.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_20_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 7e7ef67f-94bb-4735-af19-40a77edb2ef4
+    start: 11:24.49
+    end: 11:26.62
+    fields:
+      transcription: "{{c1::透けてる}}　なにこれ"
+      meaning: |-
+        I'm see-through?
+        What is this?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ab7b0b68-ab85-4f0a-b9f7-55451e9be38e
+    start: 11:39.37
+    end: 11:44.39
+    fields:
+      transcription: |-
+        それが同時に　しかもこんな近くで存在したから
+        歪みが生じたんだ
+      meaning: |-
+        And on top of being in the same time,
+        you're really close together,
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8889e1d8-87ea-4dfa-8d40-871c4417da68
+    start: 13:17.53
+    end: 13:25.69
+    fields:
+      transcription: |-
+        時を{{c1::司る}}神　クロノスの血を引く者
+        時間の狭間にある扉の　美しく孤独な番人
+      meaning: |-
+        She is descended from Chronos,
+        the god that controls time.
+        The beautiful, solitary Guardian
+        of the Door at a space between times.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_20_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 9292e623-3260-4124-999f-e07f3cf1d0d1
+    start: 13:26.83
+    end: 13:30.41
+    fields:
+      transcription: 時間は　犯すことができない最後の{{c1::領域}}だ
+      meaning: |-
+        Time is the last domain
+        that must not be violated.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 814f9fc1-53cf-470d-ab60-23149dfd29be
+    start: 13:31.33
+    end: 13:37.88
+    fields:
+      transcription: |-
+        セーラープルートは　遥かな昔から
+        その時空の扉をたった一人で{{c1::統括}}している
+      meaning: |-
+        Since the distant past,
+        Sailor Pluto alone has been
+        supervising for that forbidden domain,
+        the Space-Time Door.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_20_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 617c8b5a-4be8-4f71-85af-26166ecda776
+    start: 13:53.41
+    end: 13:58.45
+    fields:
+      transcription: |-
+        この時空の鍵があれば
+        どこにいても迷わずセーラープルートの元へ{{c1::辿り着ける}}
+      meaning: |-
+        With this Space-Time Key,
+        no matter where you are,
+        you can make your way to Sailor Pluto
+        without getting lost.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a3db2240-4437-45a1-91fc-8ec0fd8496ec
+    start: 14:05.08
+    end: 14:14.38
+    fields:
+      transcription: |-
+        セーラープルートは　誰よりも長く生き　あらゆる時代を{{c1::見聞}}きし
+        そして誰よりも忍耐強く　適確な判断を下せる頼れる戦士だ
+      meaning: |-
+        Sailor Pluto has lived longer than anyone,
+        and has experienced every era.
+        She is a dependable Guardian
+        more patient than anyone,
+        able to make very sound decisions.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_20_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: f0c555e7-b9f6-434d-b940-b64ae9023527
+    start: 18:17.92
+    end: 18:21.159
+    fields:
+      transcription: こんな所で{{c1::油}}を売ってる暇あるのか
+      meaning: |-
+        Did you think you could
+        just goof off over here?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c3c5e71c-dfd6-4c82-b642-3f16e6bf8104
+    start: 18:32.06
+    end: 18:39.4
+    fields:
+      transcription: |-
+        今度こそやってみせますわ
+        あなたのもっとも信頼するワイズマンより{{c1::授かった}}切り札で
+      meaning: |-
+        I'll show you I can do it this time,
+        using this ability granted to me by
+        Wiseman, whom you trust most of all.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_20_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 3ef97d87-8c6d-4abd-ac12-bf34c7ab1f1c
+    start: 19:04.94
+    end: 19:09.36
+    fields:
+      transcription: |-
+        おや　なんて{{c1::無防備}}な
+        お付きのもの共はどうしたの
+      meaning: |-
+        How defenseless.
+        What happened to your escorts?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b22669dc-871a-41fe-9fac-36428b63fc91
+    start: 19:28.54
+    end: 19:30.65
+    fields:
+      transcription: "{{c1::反撃}}しなさい　ラビット"
+      meaning: |-
+        Fight back, Rabbit!
+        If you don't, I will.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 4cfde29a-2211-4aab-b2f3-40c4f32d47ec
+    start: 20:23.74
+    end: 20:25.95
+    fields:
+      transcription: 三人まとめてあの世行きよ
+      meaning: I will send you all to the beyond at once!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: dff2e207-8e1f-472a-b1d0-1c08a7291668
+    start: 20:37.85
+    end: 20:39.79
+    fields:
+      transcription: "{{c1::挫ける}}な　タキシード仮面"
+      meaning: Don't lose heart, Tuxedo Mask!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 4172ed7d-f851-406a-a84b-250db01d9c40
+    start: 21:28.4
+    end: 21:32.04
+    fields:
+      transcription: "{{c1::変わり果て}}た三十世紀の未来はお気に召したかな"
+      meaning: |-
+        Are you pleased with this
+        completely altered 30th century,
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 7180af35-361a-422f-9fee-26f4b6ee79e1
+    start: 22:15.4
+    end: 22:16.7
+    fields:
+      transcription: 目が{{c1::逸らせない}}
+      meaning: I can't look away.
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: c7c995b0-9044-4d3d-864c-27cd10eb3be2
+  meaning: b460cad9-be6e-4e7e-92e9-de8f5f8f7a8d

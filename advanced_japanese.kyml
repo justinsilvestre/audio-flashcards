@@ -3,7 +3,7 @@
 name: Advanced Japanese
 noteType: Simple
 createdAt: 2020-12-15T18:29:15Z
-timestamp: 2021-07-30T16:46:00Z
+timestamp: 2021-08-01T10:52:30Z
 id: 7e0055cb-c97c-4ce0-afe6-082086d027b9
 ---
 name: 01-AudioTrack 01.mp3
@@ -6787,3 +6787,1389 @@ clips:
 flashcardFieldsToSubtitlesTracks:
   transcription: c7c995b0-9044-4d3d-864c-27cd10eb3be2
   meaning: b460cad9-be6e-4e7e-92e9-de8f5f8f7a8d
+---
+name: "[HorribleSubs] Polar Bear Cafe - 01 [1080p].mkv"
+format: matroska,webm
+duration: 24:24.715
+id: c018cbef-a0dd-47f2-89ec-837994783b2e
+subtitles:
+  - id: e7ea0bb2-03e3-46ee-a981-cf5bbaabed8a
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 381
+      endCueMs: 1463350
+  - id: 50b7cfa6-473f-4872-b005-fd0fdedd2367
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Polar Bear Cafe - 01 [1080p].jp.ass"
+clips:
+  - id: 11feea4b-b492-45df-9133-df75344e8915
+    start: 04:31.16
+    end: 04:36.6
+    fields:
+      transcription: |-
+        コンビニ
+        {{c1::品数}}多過ぎるよ  覚えられないよ
+      meaning: |-
+        The convenience store?
+        I won't be able to remember them all!
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_01_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 85d5601e-4990-4f8a-ae8e-98b25ce77fc5
+    start: 04:43.64
+    end: 04:47.79
+    fields:
+      transcription: もう  外で{{c1::だらだら}}しようっと
+      meaning: |-
+        Jeez.
+        I think I'll wander around outside.
+    tags:
+      &a1
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_01_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: b4fcc042-2f71-4f8f-bbaa-642fa0b3e4f1
+    start: 08:21.79
+    end: 08:26.29
+    fields:
+      transcription: え？ぼく  お客とバイトの{{c1::両立}}  できるかな
+      meaning: |-
+        I wonder if I could handle being 
+        a customer and a part-timer.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a592e908-465a-4982-933f-c9db06d24c17
+    start: 10:25.06
+    end: 10:27.63
+    fields:
+      transcription: やっと{{c1::まとも}}な人が来たね
+      meaning: Finally a decent candidate.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 94047767-8995-425e-87e5-179a196417d4
+    start: 10:50.84
+    end: 10:59.59
+    fields:
+      transcription: |-
+        え  週一日でいいんですか
+        いや  {{c1::せめて}}週四日くらい
+        そんなの無理です
+      meaning: |-
+        Oh, you mean I could just 
+        work one day a week?
+        No, no.  I was hoping for 
+        at least four days a week.
+        I definitely can't do that.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_01_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: ccc46e12-e2be-42bf-aa1d-b7e331110577
+    start: 13:57.4
+    end: 14:00.57
+    fields:
+      transcription: "{{c1::出前}}を お願いしたいんです"
+      meaning: I would like to place a delivery order.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3c25e458-dd15-44c8-8edb-d189e587a77e
+    start: 15:44.96
+    end: 15:50.74
+    fields:
+      transcription: |-
+        動物園  {{c1::未経験者}}{{c2::歓迎}}
+        曜日相談に応じます
+      meaning: |-
+        The zoo is accepting applicants 
+        without experience.
+        We will gladly accommodate work days.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_01_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 12ee82aa-ac2a-4d56-94f0-b3c3051ea146
+    start: 17:24.44
+    end: 17:30.33
+    fields:
+      transcription: "{{c1::いよいよ}}今日からバイトか　ドキドキしちゃうなぁ"
+      meaning: |-
+        At long last, today's the day I start 
+        my part-time job.
+        I'm so excited.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5e9f7af0-154c-4e74-bda3-f487c2c12f6d
+    start: 20:37.29
+    end: 20:40.12
+    fields:
+      transcription: は！{{c1::爆睡}}してた！
+      meaning: I totally crashed.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: cea621ac-2259-4651-9508-913915459a4d
+    start: 21:18.38
+    end: 21:21.2
+    fields:
+      transcription: 今日は{{c1::園児}}が可愛かったね
+      meaning: The preschool kids were so cute today.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0f05666c-5f1d-4727-84d7-e7d9f19559f1
+    start: 21:21.22
+    end: 21:24.46
+    fields:
+      transcription: 僕　{{c1::張り切り}}過ぎでて  途中で  {{c2::ばて}}ちゃった
+      meaning: I over-exerted myself and wore myself out.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d8d8d375-9883-4d5f-a33a-a51820ef86d9
+    start: 21:40.19
+    end: 21:43.65
+    fields:
+      transcription: パンダ君って　割りと{{c1::図々しい}}よね
+      meaning: Panda's pretty shameless, isn't he?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5f565d0e-7a91-4000-8f6a-96f3d61e72ee
+    start: 21:43.67
+    end: 21:47.25
+    fields:
+      transcription: パンダ君　一先何か{{c1::頼み}}ませんか？
+      meaning: Why don't you order something, Panda?
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_01_[1080p].mkv"
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 50b7cfa6-473f-4872-b005-fd0fdedd2367
+  meaning: e7ea0bb2-03e3-46ee-a981-cf5bbaabed8a
+---
+name: "[HorribleSubs] Polar Bear Cafe - 02 [1080p].mkv"
+format: matroska,webm
+duration: 24:26.5
+id: 326ae7d0-3df4-403f-897a-6a7eee7be191
+subtitles:
+  - id: 941146e8-7279-41ce-8f15-043df42ba90b
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 408
+      endCueMs: 1463130
+  - id: 5bbc4f49-6e7f-4c00-8a7d-80fe0495988a
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Polar Bear Cafe - 02 [1080p].jp.ass"
+clips:
+  - id: 451ee6f2-b123-466b-ad21-ba74531a1214
+    start: 01:50.59
+    end: 02:03.12
+    fields:
+      transcription: |-
+        朝起きて一番に　中庭に集まって家族みんなで太極拳をします
+        お爺ちゃんが中国{{c1::拳法}}の達人だからです
+      meaning: |-
+        As soon as everyone wakes up,
+        we all gather in the 
+        yard to practice Tai Chi.
+        The reason being, my grandfather is 
+        a master of Chinese martial arts.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_02_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 1045c572-2fe7-489d-8ca9-e17b6877657f
+    start: 02:27.09
+    end: 02:32.22
+    fields:
+      transcription: みんな{{c1::とっく}}に起きて太極拳やって　朝ごはん食べてるわよ
+      meaning: |-
+        Everyone else has already gotten up a while ago, 
+        finished their Tai Chi,
+        and are eating breakfast.
+    tags:
+      &a1
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_02_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: f98890b4-48e9-4e3f-8613-bf146c987c2c
+    start: 03:00.88
+    end: 03:04.73
+    fields:
+      transcription: 笹子さん　ちょっと　肩{{c1::揉んで}}くれない
+      meaning: |-
+        Could you rub my 
+        shoulders, Miss Sasako?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0e42e8c2-4070-490f-a178-f99b714fe539
+    start: 05:05.73
+    end: 05:09.92
+    fields:
+      transcription: そうだ　僕もカフェを{{c1::開いて}}みたらどうかな
+      meaning: I know! What if I open up a café, too?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d566a4fb-87a2-4238-8a8f-dae0645ad082
+    start: 05:51.44
+    end: 05:56.22
+    fields:
+      transcription: |-
+        何
+        パンダ{{c1::推し}}だね
+        何か問題ある
+      meaning: |-
+        What?
+        Really pushing the panda thing.
+        Is there a problem?
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_02_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 45c21d5e-fd77-4f61-9c92-cd1f370deb4b
+    start: 06:00.27
+    end: 06:04.22
+    fields:
+      transcription: 当店のおすすめは{{c1::日替わり}}竹ランチです
+      meaning: |-
+        Our specialty is the 
+        Daily Special Bamboo Lunch.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9d12e3ab-5f1d-45b2-bf66-86f849cde80b
+    start: 08:47.24
+    end: 08:55.14
+    fields:
+      transcription: |-
+        コンセプトは四季おり売りの新鮮な海の幸を
+        店主が選んだ　こだわりのお酒でいただけるカフェ
+      meaning: |-
+        the season's freshest seafood
+        along with the best sake, 
+        hand-picked by the owner.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 55955508-df21-4752-b8ac-e3156f855924
+    start: 09:01.77
+    end: 09:10.85
+    fields:
+      transcription: |-
+        カフェの真ん中には{{c1::水槽}}おいてね
+        {{c1::水槽}}の中では魚が泳いでいて
+        お客さんは自分の選んだ魚を食られるの
+      meaning: |-
+        in the middle of the café, 
+        there'll be an aquarium.
+        There'll be fish swimming around in it
+        and customers can choose which 
+        fish they want to eat.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c2307ed3-10d0-4585-a6c3-f6db1adea106
+    start: 09:10.94
+    end: 09:15.62
+    fields:
+      transcription: |-
+        {{c1::生け簀}}があるカフェなんてないよ
+        カフェっぽさも入れてよ
+      meaning: |-
+        There aren't any cafés 
+        with fish tanks.
+        You need something a café would have.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_02_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: c7d07c04-427d-49fc-a98a-c0dda7882e0d
+    start: 09:27.0
+    end: 09:32.17
+    fields:
+      transcription: |-
+        でも　市場まで魚の{{c1::仕入れ}}があるかな
+        そこまで手が回るかな
+      meaning: |-
+        Well, I'd be busy stocking up on 
+        fish from the fish market.
+        I don't know if I'd be able 
+        to handle coffee, too.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_02_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: cde39898-52d6-4d95-a078-3d37d1be8cfd
+    start: 10:17.47
+    end: 10:25.26
+    fields:
+      transcription: |-
+        コンセプトとしては店内のラマに草をあげたり
+        {{c1::毛繕い}}したり　自由にかわいがって　いいカフェなんです
+      meaning: |-
+        As for the concept,
+        it'll be a café where you can 
+        feed the llamas grass,
+        groom them, and adore them freely.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_02_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 2f469cbd-7b27-41e6-8406-ca69e645b566
+    start: 11:04.79
+    end: 11:07.81
+    fields:
+      transcription: 少し{{c1::塩気}}が足りないね
+      meaning: |-
+        Hokkyo kugen
+        Ramen
+        Gyoza
+        It needs a bit of salt.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 32d0e838-b081-479f-906b-953081f7140d
+    start: 12:34.73
+    end: 12:38.319
+    fields:
+      transcription: すみません、やっぱりいちごパフェにしてくれますか
+      meaning: |-
+        Excuse me, could you change 
+        that to a strawberry parfait?
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_02_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: a70cec4d-1339-4fbe-9780-052ec7a6b1eb
+    start: 13:29.154
+    end: 13:34.659
+    fields:
+      transcription: |-
+        今年も綺麗に咲いたね
+        {{c1::お摘み}}どうしよう
+      meaning: |-
+        They blossomed amazingly 
+        again this year.
+        I wonder what we should 
+        do for snacks...
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_02_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: eb145d2e-3242-4b82-af1e-953e3701b896
+    start: 13:34.66
+    end: 13:39.049
+    fields:
+      transcription: |-
+        {{c1::情緒}}がないなぁ
+        桜は綺麗だなって話してるんだから
+      meaning: |-
+        What an unromantic thing to say.
+        We're talking about how pretty 
+        the cherry blossoms are.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_02_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 6ae9d14f-2a07-4a5a-82a8-aa66f0a74c28
+    start: 16:28.04
+    end: 16:30.05
+    fields:
+      transcription: "{{c1::物足りない}}ね"
+      meaning: We're lacking something.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_02_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 74f9a357-a32a-454f-93a7-ccfa405c3786
+    start: 16:49.24
+    end: 16:52.63
+    fields:
+      transcription: |-
+        {{c1::酔っ}}てますね
+        飲み過ぎじゃない？
+      meaning: |-
+        He appears to be rather drunk.
+        I think he drank too much.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_02_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 6b5f1d0c-bda7-413f-a0d4-ccfc4a1eba7f
+    start: 17:42.77
+    end: 17:44.29
+    fields:
+      transcription: "{{c1::絡む}}ね"
+      meaning: Now he's picking fights.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a44cd126-7674-4022-a20c-638d47c5a438
+    start: 17:48.77
+    end: 17:55.0
+    fields:
+      transcription: |-
+        吉崎さん、目の周りに{{c1::あざ}}があるよ
+        誰かに{{c2::殴られた}}よ？大丈夫？
+      meaning: |-
+        Oh no! You have bruises around 
+        your eyes, Mr. Yoshizaki!
+        Are you okay?!
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_02_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: ac5a8150-74bb-4320-93d0-4751cbaa79d1
+    start: 21:28.38
+    end: 21:31.85
+    fields:
+      transcription: ペンギンさんって{{c1::酒癖}}悪いね
+      meaning: |-
+        Mr. Penguin doesn't handle 
+         alcohol very well.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 69dd9d32-b3fc-4bc9-9976-41d6e641787e
+    start: 23:58.95
+    end: 24:00.499
+    fields:
+      transcription: プチ{{c1::整形}}した？
+      meaning: |-
+        Did you have some 
+        plastic surgery done?
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 5bbc4f49-6e7f-4c00-8a7d-80fe0495988a
+  meaning: 941146e8-7279-41ce-8f15-043df42ba90b
+---
+name: "[HorribleSubs] Polar Bear Cafe - 03 [1080p].mkv"
+format: matroska,webm
+duration: 24:24.631
+id: bee88ca1-83c9-424f-8d0d-40fd4edbd4f0
+subtitles:
+  - id: a591bbb1-2fd5-43e0-b608-df6ce75cc772
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 405
+      endCueMs: 1463290
+  - id: c3b7db7e-9e50-4b92-a22e-1fa79945d6bb
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Polar Bear Cafe - 03 [1080p].jp.ass"
+clips:
+  - id: 1465aa62-fc5b-457a-adeb-bebacaa19593
+    start: 01:46.51
+    end: 01:49.0
+    fields:
+      transcription: Ｔ字路と呼ばれる{{c1::交差点}}
+      meaning: '"The T-intersection."'
+    tags:
+      &a1
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 2d0578ff-1f4e-46d0-adc6-1108d768ea49
+    start: 02:46.69
+    end: 02:49.33
+    fields:
+      transcription: カフェに　お茶しに来てるだけでしょ
+      meaning: But you're coming to the café as a customer.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 945254fa-3b1f-468d-82ca-004029a7fbc1
+    start: 03:40.59
+    end: 03:46.83
+    fields:
+      transcription: あっ　そうだ　今日は　常勤パンダさんが　娘さんの{{c1::参観}}日だから　休むって
+      meaning: |-
+        Oh, that's right!
+        Full-time Panda has the day off today
+        because he's visiting 
+        his daughter's class.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 2ab5a5a4-5c1e-44c2-9b2d-0de9afd4d9cd
+    start: 05:44.78
+    end: 05:51.66
+    fields:
+      transcription: |-
+        しろくま館へのシロクマの入館は　ご遠慮ください
+        {{c1::まぎらわしい}}ので
+      meaning: |-
+        We apologize for the inconvenience, 
+        but polar bears are not allowed 
+        in the Polar Bear Hall.
+        "We apologize for the 
+        inconvenience, but polar bears
+        are not allowed in the 
+        Polar Bear Hall.
+        It confuses them!
+        It confuses them!"
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: a8d8885c-0a34-4cf1-83d3-32cc27cf7695
+    start: 05:53.7
+    end: 06:00.11
+    fields:
+      transcription: |-
+        こっそり入れば　バレない　バレない　(*￣∇￣)ノ
+        いや　すごく{{c1::目立ってる}}から
+      meaning: |-
+        If we sneak in quietly, 
+        they'll never even notice.
+        No... I think we're pretty obvious.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 96b5fba2-f9c9-4f4c-a4b7-18bcfe978392
+    start: 06:16.02
+    end: 06:19.71
+    fields:
+      transcription: え？　これ　{{c1::剥製}}ですけど
+      meaning: Um... This is actually a stuffed animal.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: a9230c45-8df5-48fa-bf11-a8cf556c13bc
+    start: 07:39.34
+    end: 07:41.84
+    fields:
+      transcription: 他のとこ{{c1::回って}}こようか
+      meaning: Let's go somewhere else.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: fd95edc0-7435-45de-9e18-c86c65ffdfba
+    start: 08:48.17
+    end: 08:53.149
+    fields:
+      transcription: シロクマくんの{{c1::野性}}が　呼び覚まされないうちに　早く行こうよ
+      meaning: |-
+        Let's leave before your 
+        wild instincts take over.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 4ccaa16b-11d1-4707-83ad-f3ac11e0cd9b
+    start: 08:59.23
+    end: 09:08.48
+    fields:
+      transcription: |-
+        え？　これ{{c1::絨毯}}ですよ
+        ほ～ら　見てみて　こんなに　ふっかふかo(*￣▽￣*)o
+      meaning: |-
+        Oh, this is just a rug.
+        See? Look!
+        It's so fluffy!
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: c7034d40-d07d-4c8a-b14f-6138205cd5cf
+    start: 10:56.1
+    end: 11:00.9
+    fields:
+      transcription: |-
+        また寝てる
+        更に　{{c1::だらしない}}ね
+      meaning: |-
+        He's asleep, again.
+        And he looks even more slovenly.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: f894d70c-4689-4675-8a43-ede3b83eee2c
+    start: 13:05.11
+    end: 13:06.94
+    fields:
+      transcription: "{{c1::つれない}}なぁ"
+      meaning: That was standoffish.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 79671697-2f52-443a-9327-6281cfaa10e9
+    start: 13:52.73
+    end: 13:55.19
+    fields:
+      transcription: ちょっと　{{c1::お手本}}見せてよ
+      meaning: Could you give me an example?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: e02a4078-80f4-4e0b-a7d4-962a2beb3db1
+    start: 15:31.74
+    end: 15:38.06
+    fields:
+      transcription: |-
+        もうやめたら？　その出し物
+        出し物っていうか　{{c1::習性}}だからね
+      meaning: |-
+        Why don't you give up that act?
+        It's more of a trait.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d60eb9bf-30b2-4bcb-8aa1-62070d70d219
+    start: 17:02.05
+    end: 17:07.64
+    fields:
+      transcription: |-
+        僕なんて　みんな　ほぼ{{c1::素通り}}ですよ
+        いるの　気づいてます？
+      meaning: |-
+        Everyone pretty much
+         passes right by me.
+        Did you even know I was there?
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 18b1a606-7fd0-4f70-8ae3-30bcd34ca098
+    start: 17:20.66
+    end: 17:26.52
+    fields:
+      transcription: |-
+        もっと　{{c2::じっく}}り見たり
+        行列つ{{c1::くって}}　感想とか言ってほしいですΣ(　￣д￣　)
+      meaning: |-
+        I wish people would look longer,
+        and form huge lines
+         to tell me what they think of me.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: fd1513bc-2d1c-4621-a1f1-9bfb1a6d6180
+    start: 17:38.09
+    end: 17:47.299
+    fields:
+      transcription: |-
+        ラマさんって　ロバなの？
+        だから　ラマです
+        どっちかというと　ラクダです
+        {{c1::コブ}}は？
+        ないです
+      meaning: |-
+        Are you a donkey, Mr. Llama?
+        As I said, I'm a llama.
+        If you had to compare, 
+        I'm closer to a camel.
+        Do you have a hump?
+        I do not.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: aee60e4b-ef8d-4ab9-98bf-cb66c2f07bc8
+    start: 17:47.3
+    end: 17:52.019
+    fields:
+      transcription: あの…　何か{{c1::芸}}とかないんですか？
+      meaning: Can you do any tricks or anything?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c0de501c-349e-42c1-9cea-cdeb1126fe13
+    start: 18:57.62
+    end: 19:14.28
+    fields:
+      transcription: |-
+        僕って　一日中　木に　ぶら下がってるイメージあるけど…
+        実際　どうなの？
+        実際　そうだけど…　大変　腕　{{c1::パンパン}}
+      meaning: |-
+        People think I just hang 
+        from a tree all day.
+        And in reality?
+        I do in reality...
+        But it's hard. 
+        My arms tingle.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_03_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 407f7b82-f8bd-49f5-863f-3944e2b31bc5
+    start: 20:20.95
+    end: 20:26.98
+    fields:
+      transcription: "{{c1::雛人形}}って　燃えるゴミなのか、燃えないゴミなのか　どっちなんだろうって"
+      meaning: |-
+        I was wondering if Hina dolls should
+        go with the burnable or 
+        non-burnable garbage.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c32ca8b4-c78b-468c-9ec1-bce1197075bb
+    start: 20:40.36
+    end: 20:44.34
+    fields:
+      transcription: どうやって{{c1::告白}}しようか　悩みは尽きないよ
+      meaning: |-
+        I keep trying to figure 
+        out how to ask her out.
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: c3b7db7e-9e50-4b92-a22e-1fa79945d6bb
+  meaning: a591bbb1-2fd5-43e0-b608-df6ce75cc772
+---
+name: "[HorribleSubs] Polar Bear Cafe - 04 [1080p].mkv"
+format: matroska,webm
+duration: 24:24.548
+id: f96b0376-61ee-440f-97a4-695b46531f35
+subtitles:
+  - id: cdfa3ae2-11ee-49bf-8d16-4f1077b3cc7a
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 424
+      endCueMs: 1463150
+  - id: 17c39a00-968c-4fbc-af42-90836bade462
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Polar Bear Cafe - 04 [1080p].jp.ass"
+clips:
+  - id: fd44db3a-9d3a-4d4c-95a7-ce7d4d7c4324
+    start: 03:42.61
+    end: 03:44.92
+    fields:
+      transcription: シロクマさん　{{c1::器用}}ですね
+      meaning: You're so dextrous, Mr. Polar Bear!
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_04_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 3968e26e-ee09-4533-a5d4-ab66e030029c
+    start: 04:05.34
+    end: 04:07.36
+    fields:
+      transcription: なんか上から目線
+      meaning: Somehow, you sound condescending.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_04_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: c9877612-4b53-4a09-8220-d76f4707d31e
+    start: 05:09.27
+    end: 05:11.54
+    fields:
+      transcription: くちばしで　{{c1::つつい}}たり…
+      meaning: You can poke it with your beak.
+    tags:
+      &a1
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_04_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 0d2a74d7-708b-4c05-ba0f-654889645cc8
+    start: 05:14.17
+    end: 05:18.62
+    fields:
+      transcription: |-
+        そんでもって 字が　すっごく小さくて
+        読みづらいんだよ
+      meaning: |-
+        And the words are really 
+        tiny and hard to read!
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_04_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: be6584ea-0f2e-429f-b8de-f3f3b024c14b
+    start: 06:11.01
+    end: 06:14.72
+    fields:
+      transcription: この前撮った写真 {{c1::待ち受け}}にしてみたんだ
+      meaning: |-
+        I made the picture I took the other day
+        my standby screen wallpaper.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: fae3ca48-baec-46a0-9f5a-f8255aa6b3ce
+    start: 06:46.22
+    end: 06:51.14
+    fields:
+      transcription: ほら　好きな時に　いつだって {{c1::天気予報}}も見られるしね
+      meaning: |-
+        See? You can check the 
+        weather forecast whenever you want.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 67afc083-9dcb-4a7a-9190-8a7c50d61324
+    start: 08:56.87
+    end: 08:59.99
+    fields:
+      transcription: パンダくん　ひょっとして {{c1::立ち直っ}}た？
+      meaning: Are you feeling better, Panda?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f23312f6-5a36-4639-bac4-32ff7456a334
+    start: 10:17.43
+    end: 10:20.659
+    fields:
+      transcription: どうしたの　ペンギンさん　{{c1::食あたり}}？
+      meaning: |-
+        What's wrong, Mr. Penguin?
+        Did you get food poisoning?
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d9bcb31e-cd31-4dea-afc6-c94100d42eb9
+    start: 10:57.45
+    end: 11:01.14
+    fields:
+      transcription: 読まれたくないなら {{c1::非公開}}にした方がいいですよ
+      meaning: |-
+        If you don't want others to read it,
+        you should make your blog private.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c92ea614-39d7-4dce-83f7-d00d1231ea6e
+    start: 11:08.75
+    end: 11:19.13
+    fields:
+      transcription: |-
+        車の運転って　そんなに難しいの？
+        まあね 教えてくれる{{c1::教官}}は厳しいし
+        今日も縦列駐車ができなくってさ
+      meaning: |-
+        Is driving a car that hard?
+        Yeah.
+        The instructor is really mean
+        and I wasn't able to parallel park today.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_04_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 373532e9-3374-4e9f-a285-931c7b7a91cb
+    start: 13:16.55
+    end: 13:22.219
+    fields:
+      transcription: |-
+        {{c1::後部}}座席って微妙だよね
+        寝っ転がるには狭いしさ
+      meaning: |-
+        The backseats in cars 
+        are always questionable.
+        They're never big enough 
+        to sleep comfortably on.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_04_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 15bea5bc-e661-4fbb-911f-3a57264a81eb
+    start: 13:32.18
+    end: 13:38.52
+    fields:
+      transcription: |-
+        お～　さすが {{c1::発車}}からして上手だね和ヾ(≧O≦)〃
+        それほどでも
+      meaning: |-
+        Amazing. You handled 
+        starting the car like a pro.
+        It's nothing, really.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_04_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 3b5b431b-442c-4a21-b048-f7b5d7475171
+    start: 13:48.12
+    end: 13:52.17
+    fields:
+      transcription: "{{c1::抽象}}的だな　よくわかんないよ(o´∀｀o)"
+      meaning: |-
+        That's a little too abstract.
+        I don't understand any of it.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a054c807-1d5d-4244-9fe1-0f68ed61094a
+    start: 13:55.03
+    end: 13:59.15
+    fields:
+      transcription: つるしたタイヤに ジャレるみたいな感じだよ　たぶん
+      meaning: |-
+        It's probably something 
+        like when you're
+        swinging from a tire swing.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 976969f7-f5fd-4165-a849-fb01d31dd65b
+    start: 18:14.84
+    end: 18:20.72
+    fields:
+      transcription: |-
+        今日は皆さんでドライブですか？ どちらまで？
+        {{c1::当て}}のない旅です
+      meaning: |-
+        Are you all going for a drive today?
+        Where are you all headed?
+        It is an aimless journey.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_04_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 270c0922-c624-48b8-ba2a-32848bfd6deb
+    start: 18:28.88
+    end: 18:30.759
+    fields:
+      transcription: これ　お{{c1::すそ分け}}
+      meaning: Here, I'll share these with you.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 55d7097b-b425-4ed8-9eba-15c2882e1db9
+    start: 18:45.29
+    end: 18:49.92
+    fields:
+      transcription: |-
+        食べてばっかりだね
+        {{c1::育ち盛り}}だもの
+      meaning: |-
+        You just keep eating.
+        I'm a growing panda.
+    tags:
+      - "[HorribleSubs]_Polar_Bear_Cafe_-_04_[1080p].mkv"
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 17c39a00-968c-4fbc-af42-90836bade462
+  meaning: cdfa3ae2-11ee-49bf-8d16-4f1077b3cc7a
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 21 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.403
+id: 7226e19e-267e-4c97-bafe-6ca2491b9042
+subtitles:
+  - id: 0eb64916-5197-4a34-a62e-86f13d1039c4
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 320
+      endCueMs: 1480259
+  - id: 9d2a9eda-d66e-4df9-8e4b-b8ba117809c3
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 21 [1080p].ja.ass"
+clips:
+  - id: ac8fc8d3-b3bb-48e6-a041-f359517bfc61
+    start: 03:57.65
+    end: 04:07.69
+    fields:
+      transcription: |-
+        私の邪視の攻撃をまともに浴びながら
+        こんなに速く目覚めるとは
+        さすが　幻の銀水晶に支配されたからだ
+      meaning: |-
+        You were hit with my Evil Eye attack,
+        and yet you woke up very quickly.
+        Only a body ruled by the Legendary
+        Silver Crystal could do that.
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_21_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: ed1b521e-0d9c-40a1-af8d-666f6b49fd48
+    start: 04:23.64
+    end: 04:30.17
+    fields:
+      transcription: |-
+        長寿と無限のパワーという{{c1::幻想}}に{{c2::侵され}}
+        肥太った我が星　地球
+      meaning: |-
+        Our planet, the Earth, was infiltrated
+        with illusions of long life
+        and infinite power,
+        and became slothful...
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_21_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 72d02386-af2e-4272-b5f7-3b0a513af8f7
+    start: 05:22.71
+    end: 05:28.63
+    fields:
+      transcription: |-
+        月の王国に支配される前の　過去の地球に{{c1::兵}}を送り込み
+        歴史を壊す
+      meaning: |-
+        We'll send our troops to the past,
+        before it was ruled by the Moon Kingdom,
+        and we'll destroy history!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b1e65dae-ef79-4e67-8bd1-125a9878a792
+    start: 05:45.1
+    end: 05:53.74
+    fields:
+      transcription: |-
+        長寿や平和なぞ　{{c1::まやかし}}
+        老いない体など　神への{{c2::冒涜}}だ
+        肉体は滅びるためにある
+      meaning: |-
+        Long life and peace are 
+        just smoke and mirrors.
+        An unaging body is blasphemy against God.
+        Flesh exists to die.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_21_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 47517065-ce6b-4ebf-9007-e2a021048563
+    start: 06:43.18
+    end: 06:47.69
+    fields:
+      transcription: |-
+        無敵のパレスに住む
+        決して姿を表さない{{c1::万能}}の女神
+      meaning: |-
+        The almighty goddess in the invincible
+        palace who had never shown herself.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_21_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 7e9c00fe-39d3-440a-af1a-8b262be06701
+    start: 06:52.16
+    end: 06:59.47
+    fields:
+      transcription: |-
+        だが　冷たく{{c1::蔑んで}}見ている
+        私を人間とも思わない　排除する目だ
+      meaning: |-
+        But she looked at me
+        with coldness and contempt.
+        Her eyes don't think me as human, 
+        they only want to eliminate me.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_21_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 8eeb5257-8001-45f0-b084-c247c7687cd8
+    start: 08:21.6
+    end: 08:30.68
+    fields:
+      transcription: |-
+        邪黑水晶の力が満ちたこの星では
+        例え幻の銀水晶のパワーであっても　{{c1::吸収}}され　無へと帰す
+      meaning: |-
+        This planet is filled with the energy
+        of the Malefic Black Crystal,
+        so all power here
+        is absorbed and nullified.
+        Even if it's the power of
+        the Legendary Silver Crystal.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_21_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 7cb68766-bc21-43bd-8af2-4e8c7d1b51c0
+    start: 08:32.55
+    end: 08:40.12
+    fields:
+      transcription: |-
+        この城を自由に使うといい
+        ここがお前にとって　永遠の{{c1::安息}}の地となるのだからな
+      meaning: |-
+        Feel free to use this palace.
+        Since it will be your 
+        eternal resting place.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_21_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 4fd49526-ff2b-40f9-a155-bc389ff5f9a2
+    start: 08:52.09
+    end: 08:55.04
+    fields:
+      transcription: ネメシスがまた{{c1::軌道上}}から姿を消した
+      meaning: |-
+        Nemesis has disappeared
+        from orbit again.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 75b600b2-97ec-4283-b6ec-2c71e1b5a97b
+    start: 10:42.17
+    end: 10:47.53
+    fields:
+      transcription: |-
+        ファントムは　惑星ネメシスに{{c1::投獄}}され
+        その後　星は{{c2::封鎖}}された
+      meaning: |-
+        He was captured and sent to Nemesis.
+        Afterward, that planet was blocked off.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_21_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: f117ea60-cce4-4554-a4dd-5e7fec028c87
+    start: 11:02.12
+    end: 11:08.75
+    fields:
+      transcription: |-
+        ファントムと同じ　額の黒い三日月
+        ブラックムーンはファントムの{{c1::末裔}}ってこと
+      meaning: |-
+        The same black moon mark
+        as Phantom on their forehead...
+        Are the Black Moon 
+        descendants of Phantom?
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_21_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 68d17297-9df7-44cf-a619-1405078d10c5
+    start: 11:10.74
+    end: 11:15.28
+    fields:
+      transcription: |-
+        だが　何者であろうと
+        これ以上奴らの好きにさせない
+      meaning: |-
+        But whoever they are,
+        I won't let them do this anymore.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 0723261e-7ef7-4c72-98e4-dda05758835b
+    start: 14:45.714
+    end: 14:55.014
+    fields:
+      transcription: |-
+        未来のネオ・クイーン・セレニティを手に入れた今
+        お前たちに用はない
+        その暗黒の部屋で　{{c2::干からびて}}{{c1::朽ち果てる}}がいい
+      meaning: |-
+        Now that I have the future Neo Queen Serenity,
+        you are no longer needed.
+        You can wither and rot away 
+        in the Chamber of Darkness.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c274f724-f7b6-4105-b557-bed758f4834c
+    start: 18:48.33
+    end: 18:53.64
+    fields:
+      transcription: |-
+        あなたはクイーンと{{c1::瓜二つ}}ですよ
+        きっと美しいレディーになるわ
+      meaning: |-
+        You and the queen are two peas in a pod.
+        I'm sure you'll be a beautiful lady.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_21_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: ca3a4d41-d174-4064-91b2-b3ee333c4267
+    start: 19:10.73
+    end: 19:14.56
+    fields:
+      transcription: |-
+        アブラ　カダブラ
+        楽しくなる　{{c1::おまじない}}ですよ
+      meaning: |-
+        Abracadabra?
+        It is a spell that can 
+        make things more fun.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_21_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 37511ef8-882b-411b-b96d-6444fe55e5b3
+    start: 19:40.12
+    end: 19:43.37
+    fields:
+      transcription: それは{{c1::やがて}}　あなたの役目となるのですよ
+      meaning: That will be your duty one day.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 9bff73a7-3646-4de4-80ef-3f82e50f7a08
+    start: 20:34.91
+    end: 20:38.54
+    fields:
+      transcription: セーラームーンも敵地に{{c1::囚われ}}　事態は{{c2::深刻}}だ
+      meaning: |-
+        Sailor Moon is being held captive the enemy base, too.
+        The situation is grave.
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 9d2a9eda-d66e-4df9-8e4b-b8ba117809c3
+  meaning: 0eb64916-5197-4a34-a62e-86f13d1039c4
+---
+name: "[HorribleSubs] Sailor Moon Crystal - 22 [1080p].mkv"
+format: matroska,webm
+duration: 24:45.403
+id: e2fd4f03-4ca6-4163-8e53-351dc89aa41c
+subtitles:
+  - id: 06185214-2abf-4008-8b6b-c28b1d5f79e0
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 307
+      endCueMs: 1480259
+  - id: 3f2b5861-527d-4636-946d-277c0d6c57d0
+    type: External
+    chunksMetadata: null
+    name: "[HorribleSubs] Sailor Moon Crystal - 22 [1080p].ja.ass"
+clips:
+  - id: c2e49e4b-b487-47ee-b45e-f653c4ed542c
+    start: 02:39.58
+    end: 02:44.27
+    fields:
+      transcription: |-
+        素晴らしい{{c1::書庫}}だわ
+        過去の全ての記録が{{c2::保管}}されているなんて
+      meaning: |-
+        What an amazing library!
+        Records of everything are stored here.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_22_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 7ccfd620-a98d-463a-8fbc-33f05a7ad16a
+    start: 04:15.12
+    end: 04:19.37
+    fields:
+      transcription: この嵐はスモールレディーの消えた方向から{{c1::吹き荒れて}}います
+      meaning: |-
+        The storm is raging from the direction
+        where Small Lady disappeared.
+    tags:
+      &a1
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_22_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 773bef69-4620-4ad1-af97-cda132871d9b
+    start: 06:56.51
+    end: 07:01.82
+    fields:
+      transcription: |-
+        だが　ドロイドはいい
+        計画が{{c1::狂う}}ことも　裏切りもしない
+      meaning: |-
+        But Droids are wonderful,
+        since they won't stray 
+        from plans or betray me.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_22_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 4b05086a-25a7-414d-a1e4-fa77abaf49d7
+    start: 07:19.79
+    end: 07:24.2
+    fields:
+      transcription: ここはネメシスの{{c1::中枢}}　邪黑水晶の反応炉
+      meaning: |-
+        This is the nucleus of Nemesis,
+        the Malefic Black Crystal reactor.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 7517be1d-8da8-4438-a881-348d49a16b18
+    start: 07:55.93
+    end: 08:03.87
+    fields:
+      transcription: |-
+        システムも不明のまま
+        この星の{{c1::融合}}反応を無理矢理促進させ
+        いつ{{c2::暴走}}してもおかしくない状態なんだ
+      meaning: |-
+        Though the system is still unclear,
+        we accelerate the planet's
+        fusion reactions by force.
+        I won't be surprised when 
+        the planet starts to go berserk.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_22_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: c0c8ead5-8039-4168-9512-15ee1e668e1e
+    start: 09:16.46
+    end: 09:25.78
+    fields:
+      transcription: |-
+        あの石だけが　邪黑水晶に{{c1::匹敵}}する力を持つ
+        潰すのだ　この世から抹殺せよ
+      meaning: |-
+        Only that stone has the power
+        to rival the Malefic Black Crystal.
+        Destroy it! Remove it from existence!
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_22_[1080p].mkv"
+    image:
+      type: VideoStill
+  - id: 2e6577fe-f07c-44a4-a143-0faaceb92892
+    start: 10:39.04
+    end: 10:42.09
+    fields:
+      transcription: 僕らにはそんな{{c1::崇高}}な目的があったのに
+      meaning: That was our original lofty purpose.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 2105a5be-998e-497d-8a24-1e5b91b27524
+    start: 10:52.76
+    end: 10:57.44
+    fields:
+      transcription: 幻の銀水晶とお前の存在が全てを{{c1::狂わせる}}んだ
+      meaning: |-
+        The Legendary Silver Crystal
+        and your existence will derail everything!
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 74076197-67bd-4d6b-a6b5-cd10258d4692
+    start: 17:39.47
+    end: 17:46.86
+    fields:
+      transcription: |-
+        幻の銀水晶があるからこそ　迷いや{{c1::憎しみ}}が生まれ
+        その石こそが　災いの{{c2::元凶}}なのだ
+      meaning: |-
+        Uncertainty and hatred were born
+        because of the Legendary Silver Crystal.
+        The Legendary Silver Crystal
+        is the root of all disasters.
+    tags:
+      - "[HorribleSubs]_Sailor_Moon_Crystal_-_22_[1080p].mkv"
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 3f2b5861-527d-4636-946d-277c0d6c57d0
+  meaning: 06185214-2abf-4008-8b6b-c28b1d5f79e0

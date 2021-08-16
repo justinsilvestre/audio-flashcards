@@ -1962,7 +1962,7 @@ clips:
     end: 09:30.09
     fields:
       transcription: こう物騒な事件が続くとはね
-      meaning: Well, it keeps on happening.
+      meaning: To think this many disturbing incidents would happen in a row.
     tags: *a1
     image:
       type: VideoStill
@@ -2929,7 +2929,7 @@ clips:
     end: 06:09.69
     fields:
       transcription: 敵の{{c1::仕業}}としか思えないわ　ルナ
-      meaning: I think it's a trap, Luna.
+      meaning: This must be the doing of our enemies, Luna.
     tags: *a1
     image:
       type: VideoStill
@@ -3031,7 +3031,7 @@ clips:
     fields:
       transcription: |-
         前は活躍してたみたいだけど
-        最近は{{c1::表だって}}現れていないわね
+        最近は{{c1::表立って}}現れていないわね
       meaning: |-
         I used to hear a lot about her before,
         but she hasn't been active for a while.
@@ -3071,7 +3071,7 @@ clips:
     start: 10:59.14
     end: 11:04.63
     fields:
-      transcription: ルナ　敵はテレビ局の{{c1::電波}}を利用して　人間を操っているんかしら
+      transcription: ルナ　敵はテレビ局の{{c1::電波}}を利用して　人間を操っているんじゃないかしら
       meaning: |-
         Luna, it seems that the enemy 
         is sending signals from
@@ -3264,7 +3264,7 @@ clips:
     start: 08:28.41
     end: 08:35.369
     fields:
-      transcription: ならぬ　あの忌まわしい月の王国を{{c1::継ぐ}}者を目覚めさせるのも
+      transcription: ならぬ　あの忌まわしい月の王国を{{c1::継ぐ}}者を目覚めさせるな
       meaning: |-
         No, we can never let them awaken 
         the successors to the Moon Kingdom.
@@ -3984,7 +3984,7 @@ clips:
     start: 09:06.69
     end: 09:12.16
     fields:
-      transcription: あなたはかつて緑や風に憧れて　よく地球に降りたんだ
+      transcription: あなたはかつて緑や風に憧れて　よく地球に降り立った
       meaning: |-
         You used to go to Earth often because 
         you yearned for its greenery and wind.
@@ -4206,10 +4206,12 @@ clips:
     fields:
       transcription: |-
         この{{c1::北極圏}}の当たりにも異常な熱反応がある
+        しかも地中深くよ。
         この数ヶ月で数値は異常に跳ね上がっているわ
       meaning: |-
         There's also unusual thermal 
         reactions around the North Pole.
+        And they're from deep underground.
         The values have been increasing 
         abnormally in the past few months.
     tags:
@@ -4256,7 +4258,7 @@ clips:
       transcription: |-
         エンディミオンに会いに行ったプリンセスを追って
         地球に降りたったあの日
-        あたしたち地球の美しさに見せられ
+        あたしたち地球の美しさに魅せられ
         そして　恋に落ちた
       meaning: |-
         One day, when the Princess 
@@ -4637,11 +4639,11 @@ clips:
     fields:
       transcription: |-
         この女よ　すべての{{c1::元凶}}は
-        地球の人々を洗脳し　月へ{{c2::攻め入り}}
+        地球の人々を扇動し　月へ{{c2::攻め入り}}
         すべてをめちゃくちゃにした女
       meaning: |-
         It's her. She's the one behind all of this.
-        She brainwashed the people on Earth,
+        She incited the people on Earth to rebellion,
         invaded the Moon, and ruined everything!
     tags:
       - "[HorribleSubs]_Sailor_Moon_Crystal_-_12_[1080p].mkv"
@@ -4702,7 +4704,7 @@ clips:
     start: 14:44.82
     end: 14:50.99
     fields:
-      transcription: エンディミオンは我が闇の力で　{{c1::いづれ}}世界を支配する
+      transcription: エンディミオンは我が闇の力で　{{c1::いずれ}}世界を支配する
       meaning: |-
         Endymion will rule the world
         with my dark power eventually.
@@ -4717,7 +4719,7 @@ clips:
         あなたは今までどんな{{c1::試練}}も乗り越えて
         みんなの心を開いてきた
       meaning: |-
-        You have conquered many difficulties
+        You've been through so many trials and tribulations
         and opened up everyone's hearts.
     tags:
       - "[HorribleSubs]_Sailor_Moon_Crystal_-_12_[1080p].mkv"
@@ -4795,7 +4797,7 @@ clips:
         そんな
         ここまで力を{{c1::振り絞って}}も　元に戻らない
       meaning: |-
-        No... I'm putting all my energy into it,
+        No... I'm mustering all my strength,
         but he's still under the control
         of the power of darkness.
     tags: *a1
@@ -4857,9 +4859,9 @@ clips:
     fields:
       transcription: 月の王国のクイーンに{{c2::封じ込め}}られ  地底深く息に{{c1::潜めた}}年月
       meaning: |-
-        I was sealed by the Queen
+        I was sealed up by the Queen
         from the Kingdom of the Moon.
-        She sealed me deep underground for ages.
+        For ages I've waited deep underground with bated breath.
     tags: *a1
     image:
       type: VideoStill
@@ -4907,7 +4909,7 @@ clips:
     start: 19:17.1
     end: 19:21.39
     fields:
-      transcription: そこに　幻の銀水晶の力で{{c1::貫く}}ことができれば
+      transcription: そこを　幻の銀水晶の力で{{c1::貫く}}ことができれば
       meaning: |-
         If we can pierce that with the power
         of the Legendary Silver Crystal...
@@ -7054,7 +7056,7 @@ clips:
     end: 08:55.14
     fields:
       transcription: |-
-        コンセプトは四季おり売りの新鮮な海の幸を
+        コンセプトは四季折々の新鮮な海の幸を
         店主が選んだ　こだわりのお酒でいただけるカフェ
       meaning: |-
         the season's freshest seafood
@@ -7089,7 +7091,7 @@ clips:
         カフェっぽさも入れてよ
       meaning: |-
         There aren't any cafés 
-        with fish tanks.
+        with live fish tanks.
         You need something a café would have.
     tags:
       - "[HorribleSubs]_Polar_Bear_Cafe_-_02_[1080p].mkv"
@@ -7133,9 +7135,6 @@ clips:
     fields:
       transcription: 少し{{c1::塩気}}が足りないね
       meaning: |-
-        Hokkyo kugen
-        Ramen
-        Gyoza
         It needs a bit of salt.
     tags: *a1
     image:
@@ -7453,7 +7452,7 @@ clips:
     fields:
       transcription: |-
         もっと　{{c2::じっく}}り見たり
-        行列つ{{c1::くって}}　感想とか言ってほしいですΣ(　￣д￣　)
+        {{c1::行列つくって}}　感想とか言ってほしいですΣ(　￣д￣　)
       meaning: |-
         I wish people would look longer,
         and form huge lines

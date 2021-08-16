@@ -633,7 +633,7 @@ clips:
     fields:
       transcription: |-
         留守番電話を利用する人が多くなった。留守番電話は確かに便利である。
-        誰も家にいない時に誰から電話があった場合、後で録音テープでその内容を知ることができる。
+        誰も家にいない時に誰かから電話があった場合、後で録音テープでその内容を知ることができる。
       meaning: |-
         A growing number of people are starting to use answering machines. Without a doubt, the answering machine is a handy instrument. 
         If the phone rings when everybody's out of the house, it's now possible to hear the content of the call afterwards on tape. 
@@ -856,7 +856,7 @@ clips:
         そう。
         ピーっていう音を聞いて、急いで録音するんだろう？
         ええ、そうよ。
-        アナウンサー じゃないんだから。
+        アナウンサーじゃないんだから。
       meaning: |-
         Husband: But I can't stand listening to a recording when I'm trying to reach somebody.
         Wife: Oh?
@@ -876,7 +876,7 @@ clips:
     fields:
       transcription: |-
         マイクに向かって話すのは嫌だよ。
-        でも、家が留守番電話にしたら、録音をするのは他の人よ。私たちが 録音するんじゃないのよ。
+        でも、うちが留守番電話にしたら、録音をするのは他の人よ。私たちが録音するんじゃないのよ。
         自分がしたくないことは他の人にもさせたくないよ。
       meaning: |-
         I hate feeling like I'm talking into a microphone.
@@ -1226,7 +1226,7 @@ clips:
       transcription: |-
         地下に都市を作って生活すると言うと、科学小説か世界大戦の時代のようだが、そうではない。
         大手の建設会社は地下に都市を作るための研究をしているそうである。
-        土を掘るための機械の改良もだいぶ 進んでいるという話である。
+        土を掘るための機械の改良もだいぶ進んでいるという話である。
       meaning: |-
         The construction and habitation of underground cities sounds reminiscent of science fiction—or of an era following a massive world War. But Tokyoites are serious.
         Apparently, several leading construction firms have undertaken research ventures with an eye to building cities beneath the earth.
@@ -1253,7 +1253,7 @@ clips:
     start: 01:11.0
     end: 01:22.08
     fields:
-      transcription: 地下生活のために起こる ストレスや不安を和らげるために、クラシック音楽や虫の声などの自然の音を流すことも研究しているそうだ。
+      transcription: 地下生活のために起こるストレスや不安を和らげるために、クラシック音楽や虫の声などの自然の音を流すことも研究しているそうだ。
       meaning: Studies are now under way into the possibilities of piping in classical music—or natural noises such as the chirping of insects—to lessen feelings of stress and anxiety caused by living beneath the earth.
     tags:
       - iij05
@@ -1544,7 +1544,7 @@ clips:
         だから全くの初歩から建築の技術を習うことになる。
       meaning: |-
         At present, 24 students are enrolled in the school. Of this number, only two studied construction in college.
-        The remainder majored in subjects like business, meaning they started learning about construction tech- niques from square one.
+        The remainder majored in subjects like business, meaning they started learning about construction techniques from square one.
     tags:
       - iij06
   - id: 3fcc644f-7d59-47db-9aa7-6c4fecd49873
@@ -2412,7 +2412,7 @@ clips:
     end: 00:17.72
     fields:
       transcription: |-
-        電話をすれば家まで荷物を取りに来て、1日か2日のうちに 全国どこへでも届ける。
+        電話をすれば家まで荷物を取りに来て、1日か2日のうちに全国どこへでも届ける。
         こういう宅配便がこの頃増えている。
       meaning: |-
         With a single phone call, it’s now possible to have a parcel picked up at one's home and delivered a day or two later to a location anywhere in Japan.
@@ -2816,8 +2816,8 @@ clips:
     end: 00:40.728
     fields:
       transcription: |-
-        この頃は電話も大抵 カードですね。
-        ええ、買い物も レストランも、私みんなカードです。
+        この頃は電話も大抵カードですね。
+        ええ、買い物もレストランも、私みんなカードです。
         そうですか。僕は何でも現金です。
         でも、カードの方が安全ですよ 。金は落とすこともあるし。
       meaning: |-
@@ -2904,7 +2904,7 @@ clips:
     end: 00:32.884
     fields:
       transcription: |-
-        僕、もうお金 持ってないよ。さっき君の靴を買ったもの。
+        僕、もうお金持ってないよ。さっき君の靴を買ったもの。
         いいのよ。私、カード持っているから。
         カードはよくないよ。買いすぎるから。
         カードの方が便利よ。それに消費税がつくと、1円玉が多くて面倒ですもの。
@@ -2977,8 +2977,8 @@ clips:
     end: 00:14.76
     fields:
       transcription: |-
-        ゴミの処理は多くの国で問題になっている
-        他の国にゴミを運んで処理を頼む場合もあるそうだ
+        ゴミの処理は多くの国で問題になっている。
+        他の国にゴミを運んで処理を頼む場合もあるそうだ。
       meaning: |-
         The disposal of garbage has become a problem in many countries.
         Some places are even transporting their trash to other countries for disposal.
@@ -2988,7 +2988,7 @@ clips:
     start: 00:15.46
     end: 00:29.2
     fields:
-      transcription: 日本でも最近、関東地方のある県が、遠く東北地方にまでゴミを運んで処理を頼んだが、話し合いがうまくいかなくて、まだ問題は解決していない そうである。
+      transcription: 日本でも最近、関東地方のある県が、遠く東北地方にまでゴミを運んで処理を頼んだが、話し合いがうまくいかなくて、まだ問題は解決していないそうである。
       meaning: A certain prefecture in the Kanto region ofJapan has shipped its garbage to the remote Tohoku area; discussions with officials in the area haven’t gone as expected and the problem remains unresolved.
     tags:
       - iij11
@@ -3264,8 +3264,8 @@ clips:
         でも、あまり捨てると、市役所がゴミ処理に困るだろうな。
         そうね。じゃ、捨てないことにしましょう。
       meaning: |-
-        Husband: Whatever you don't wear now is the same as garbage. If you threw away all of those dresses. we'd have that much more space in the house.
-        Wife: Okay—if you get rid of your toys. I’ll throw away my dresses.
+        Husband: Whatever you don't wear now is the same as garbage. If you threw away all of those dresses, we'd have that much more space in the house.
+        Wife: Okay—if you get rid of your toys, I’ll throw away my dresses.
         Husband: If we threw out all of that, the municipal office would have trouble finding a place to dispose of it.
         Wife: You're right. Let's forget the whole idea.   
     tags: *a1
@@ -3291,7 +3291,7 @@ clips:
       transcription: |-
         コピー食品が出回っている。
         コピー食品というのは、本物ではないが本物によく似ている食品である。
-        例えば、カニの足のように見えるが、実は安い魚で作ったものや、サラダオイルで作った いくらなど、たくさん出ている。
+        例えば、カニの足のように見えるが、実は安い魚で作ったものや、サラダオイルで作ったいくらなど、たくさん出ている。
       meaning: Imitation foods are growing more common. Though fakes, these foods closely resemble the real thing. Two typical examples are crab “legs” made out of cheap varieties of fish, and salmon roe made from salad oil.
     tags:
       - iij12
@@ -3646,7 +3646,7 @@ clips:
     start: 01:23.94
     end: 01:30.58
     fields:
-      transcription: 会社の方、社員があまり来ないのだから、大きな 事務所を持つ必要がない。
+      transcription: 会社の方も、社員があまり来ないのだから、大きな事務所を持つ必要がない。
       meaning: And because employees hardly ever come into work, companies aren’t forced to set up large offices.
     tags:
       - iij13
@@ -4004,6 +4004,8 @@ clips:
         そう言う人のために、ジュースをコップに注いで、ストローを差し込んだり、車椅子のボタンを押したり…
         へえ？
         その人の顔をタオルで拭いたり。
+        大したもんですね。
+        ええ。
       meaning: |-
         A: The monkey pours juice into a glass for them And puts in a straw. And presses the
         buttons on their wheelchairs...
@@ -4228,7 +4230,7 @@ clips:
     fields:
       transcription: |-
         このような人間的な言葉が、生命のない商品について使われるのは、なんだか面白い感じがする。
-        しか、面白がっているだけではいけない。
+        しかし、面白がっているだけではいけない。
       meaning: |-
         It strikes me as somehow amusing that “compatibility,” a word that’s filled with humanity, should be used for lifeless goods.
         Just feeling a sense of amusement isn’t enough.
@@ -4287,7 +4289,7 @@ clips:
         どうしたんでしょう。
         壁のカビを取る洗剤と、風呂を洗う洗剤を一緒に使ったらしいんです。
         一緒に使うといけないんですか。
-        ええ。詳しいことはわかりませんけど、何かの化学反応で、悪い ガスが出るんだそうです。
+        ええ。詳しいことはわかりませんけど、何かの化学反応で、悪いガスが出るんだそうです。
       meaning: |-
         B: : What happened?
         A: She used a cleanser for removing mold from the walls at the same time as a cleanser for
@@ -5367,7 +5369,7 @@ clips:
     start: 00:15.06
     end: 00:43.8
     fields:
-      transcription: 現代の日本人は、野球、サッカー、ゴルフ、スキーなど、色々なスポーツを楽しんでいる。若い人たちだけでなく、子供からお年寄りまでスポーツを楽しみ、そして、種類も、海や山のスポーツ、夏や冬のスポーツ、一人でするスポーツ、チームでするスポーツ、健康のためのスポーツなど、何でもある。
+      transcription: 現代の日本人は、野球、サッカー、ゴルフ、スキーなど、色々なスポーツを楽しんでいる。若い人たちだけでなく、子供からお年寄りまでスポーツを楽しみ、そして、種類も、海や山、夏や冬のスポーツ、一人でするスポーツ、チームでするスポーツ、健康のためのスポーツなど、何でもある。
       meaning: "Present-day Japanese people enjoy many different sports, such as baseball, soccer, golf, and skiing. Not only young people but (people of all ages) from children to the elderly enjoy sports, and there are all types of sports, such as ocean, mountain, summer and winter sports, one-person sports, team sports, and sports for health. "
     tags:
       &a1
@@ -5496,7 +5498,7 @@ clips:
     start: 04:29.64
     end: 04:39.2
     fields:
-      transcription: 試合や練習が終わって彼が一番最初にするのは、使ったバットやグローブやスパイクの手入れ だそうだ。
+      transcription: 試合や練習が終わって彼が一番最初にするのは、使ったバットやグローブやスパイクの手入れだそうだ。
       meaning: He said that after a game or a practice ends the first thing he does is care for the bats, gloves, and spikes that he’s just used.
     tags: *a1
   - id: b23493b4-ea8a-4299-973e-a78d280ec94d
@@ -6733,7 +6735,7 @@ clips:
     start: 04:07.42
     end: 04:34.207
     fields:
-      transcription: 一方、あまり有名でない大学を出た人、あるいは、大学に行っていない人は、どんなに 能力のある人でも、能力のあることをなかなか認めてもらえない。つまり、学歴社会とは、その人がどんな学校を卒業したかによって人生が決まる社会、いい大学に入れば将来、幸せになる可能性も高くなるという社会なのだ。
+      transcription: 一方、あまり有名でない大学を出た人、あるいは、大学に行っていない人は、どんなに能力のある人でも、能力のあることをなかなか認めてもらえない。つまり、学歴社会とは、その人がどんな学校を卒業したかによって人生が決まる社会、いい大学に入れば将来、幸せになる可能性も高くなるという社会なのだ。
       meaning: On the other hand, graduates of universities that are not very famous or those who have not attended a university have a hard time getting their abilities recognized, no matter how competent they are. In other words, an academic background society is a society in which a person’s life is decided based on which school s/he graduated from or a society in which a person’s chances of becoming happy in the future increase if they enter a good university.
     tags:
       - tobira09
@@ -7628,7 +7630,7 @@ clips:
         There are several rules when making haiku, but the main ones are the following three:
         (1) ha = Incorporate the sensation of being unexpectedly moved by something (hat-to suru kando), the joy of discovery, or the delight in imagining.
         (2) i = when (itsu): Using kigo (seasonal words), express the natural phenomena of a season or the feeling of a season.
-        (3) ku = construction (Kumitate): Express (the above) in 17 syllables of 5-7-5,
+        (3) ku = construction (Kumitate): Express (the above) in 17 syllables of 5-7-5.
     tags:
       - tobira13
   - id: 1c0105dd-ff78-4578-9722-cf4cd635f081
@@ -7983,7 +7985,7 @@ clips:
     start: 01:00.004
     end: 01:13.904
     fields:
-      transcription: |
+      transcription: |-
         この課では三つの読み物を通して、今の私たちの周りにある問題を考えながら、自分の国と世界の未来、そして、これからの可能性について考えてみよう。
       meaning: In this lesson, through three readings, we will consider the problems around us while we think about the future of our own countries and of the world, and also think about the possibilities for the future.
     tags: *a1
@@ -7992,7 +7994,7 @@ clips:
     end: 01:29.9
     fields:
       transcription: |
-        世界には６７億人の人がいますが、もしもそれを１００人の村に縮めるとどうなるでしょう。
+        世界には６７億人の人がいますが、もしそれを１００人の村に縮めるとどうなるでしょう。
       meaning: "There are 6.7 billion people in the world, but what would happen if we shrank that down to a village of 100 people? "
     tags: *a1
   - id: d22e7c59-895b-4d39-a9ba-7e7d8158da97
@@ -8137,7 +8139,7 @@ clips:
     fields:
       transcription: |-
         もし、日本が１００人の小さな村だったら、どうなるでしょう？
-        例えば、日本村に１００人住んでいたとしたら、村の外には約４７００人の人達が生活していることになります。韓国村の人口３人、中国村は９８９人、アメリカ村は２１３人…。ほら、ほんのちょっと見方を変えれば、色々なことが、ハッキリと分かってきます。
+        例えば、日本村に１００人住んでいたとしたら、村の外には約４７００人の人達が生活していることになります。韓国村の人口３７人、中国村は９８９人、アメリカ村は２１３人…。ほら、ほんのちょっと見方を変えれば、色々なことが、ハッキリと分かってきます。
       meaning: |-
         If Japan were a small village of 100 people, what would it be like?
         For example, if there were 100 people living in
@@ -8196,7 +8198,7 @@ clips:
     end: 02:56.36
     fields:
       transcription: |
-        「将来のことより、今を楽しむこぬとの方が大切ですか？」この質問に、韓国村と中国村の高校生は３割しか「はい」と答えませんでした。ところが、アメリカ村は６割、日本村は９割が「そうそう、今が楽しければいいんだ」と答えました。
+        「将来のことより、今を楽しむことの方が大切ですか？」この質問に、韓国村と中国村の高校生は３割しか「はい」と答えませんでした。ところが、アメリカ村は６割、日本村は９割が「そうそう、今が楽しければいいんだ」と答えました。
       meaning: To the question “Is enjoying the present more important than (thinking about) the future?” only 30% of high school students in Korea Village and China Village answered “yes.” But, 60% of the high school students in America Village and 90% of the high school students in Japan Village responded, “Yes, yes, it’s fine if the present is enjoyable.”
     tags: *a1
   - id: 99cb9928-f7d9-45e8-9018-d3dda93a2c64
@@ -8234,7 +8236,7 @@ clips:
     fields:
       transcription: |-
         日本村は、とても住みやすい村になったのです。
-        しかし、飢えず、渇かず、戦争で死ぬ危険もない社会では、-うつ病や自殺が増えています。
+        しかし、飢えず、渇かず、戦争で死ぬ危険もない社会では、鬱病や自殺が増えています。
       meaning: "Japan Village has become a very comfortable village to live in.　However, in societies that do not starve or go thirsty and have no danger of perishing in war, depression and suicide are increasing. "
     tags: *a1
   - id: 04e6d67f-01db-40e4-9be2-4488448bec56
@@ -8257,7 +8259,7 @@ clips:
     start: 05:15.52
     end: 05:41.94
     fields:
-      transcription: 現在、世界には６億人近くの人がいて、日本には１億人以上の人が住んでいます。１億人の中で、人間がたった１人で出来ることは、とても小さなことです。しかし、もし日本が１００人の村だったら、どうでしょうか。１人の声でも村人全員に届くはずです。
+      transcription: 現在、世界には６５億人近くの人がいて、日本には１億人以上の人が住んでいます。１億人の中で、人間がたった１人で出来ることは、とても小さなことです。しかし、もし日本が１００人の村だったら、どうでしょうか。１人の声でも村人全員に届くはずです。
       meaning: "Currently, there are nearly 6.5 billion people in the world, and there are over 100 million people living in Japan. What one human out of these 100 million people can do all by him/herself is very small. However, what would happen if Japan were a village of 100 people? One person’s voice should reach all the villagers. "
     tags: *a2
   - id: e98e88be-e348-4b24-a4ea-5de9a756ab64
@@ -8631,7 +8633,7 @@ clips:
     end: 18:04.415
     fields:
       transcription: 北半球では北へ行く{{c1::にしたがって}}気温が下がる。
-      meaning: In the northern hemisphere, as you go north, the temperature drops.
+      meaning: In the northern hemisphere, as you go north, the temperature drops accordingly.
     tags: *a1
     image:
       type: VideoStill
@@ -8899,7 +8901,7 @@ clips:
     end: 28:53.376
     fields:
       transcription: 京都には{{c1::年間を通じて}}、観光客が訪れる。
-      meaning: In Kyoto, tourists visit throughout the year.
+      meaning: In Kyoto, tourists visit throughout the span of the year.
     tags: *a1
     image:
       type: VideoStill
@@ -8908,7 +8910,7 @@ clips:
     end: 29:53.792
     fields:
       transcription: 日本語のレベルが上がる{{c1::とともに}}、勉強が楽しくなってきた。
-      meaning: As my Japanese level went up, studying got more fun.
+      meaning: When my Japanese level went up, studying got more fun at the same time.
     tags: *a1
     image:
       type: VideoStill
@@ -8917,7 +8919,7 @@ clips:
     end: 30:13.76
     fields:
       transcription: 会社の倒産{{c1::に伴って}}、多くの社員が失業した。
-      meaning: With the company's bankruptcy, many employees lost their jobs.
+      meaning: In conjunction with the company's bankruptcy, many employees lost their jobs.
     tags: *a1
     image:
       type: VideoStill
@@ -9044,7 +9046,7 @@ clips:
     end: 36:59.008
     fields:
       transcription: 痩せている{{c1::からといって}}、体が弱いとは限らない。　
-      meaning: They may be thin, but that doesn't mean they're weak.
+      meaning: They may be thin, but that doesn't mean they've got a weak constitution.
     tags: *a1
     image:
       type: VideoStill
@@ -9171,7 +9173,7 @@ clips:
     end: 41:44.448
     fields:
       transcription: 言葉で説明するのが難しいことでも、実際に{{c1::やって見せれば}}すぐにわかる。
-      meaning: It's hard to explain in words, but once you try it out in real life, you'll get it right away.
+      meaning: It's hard to explain in words, but once I demonstrate, you'll get it right away.
     tags:
       - mimi_kara_grammar_n3
     image:
@@ -9181,7 +9183,7 @@ clips:
     end: 42:17.983
     fields:
       transcription: 大学入学{{c1::をきっかけに}}、一人暮らしを始めた。
-      meaning: Starting from when I got into college, I began living on my own.
+      meaning: When I got into college, I took the opportunity to start living on my own.
     tags: *a1
     image:
       type: VideoStill

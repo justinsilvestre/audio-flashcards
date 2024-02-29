@@ -3,8 +3,9 @@
 name: German
 noteType: Simple
 timestamp: 2020-02-02T10:29:40Z
+createdAt: 2020-02-02T10:29:40Z
 id: 64cdc932-fd04-4c6b-8607-a2dbba9b524b
-...
+---
 name: piggeldy-der-mond.mp4
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 03:07.385
@@ -400,7 +401,7 @@ clips:
       meaning: Piggeldy went home with Frederick, and the Moon went with them.
     tags:
       - piggeldy-der-mond
-...
+---
 name: Piggeldy  Frederick - Malen.mp4
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 03:08.732
@@ -681,7 +682,7 @@ clips:
         In cases like this where the literal English translation could be either to  "it... to [verb]" or "...ing", German makes it very clear that the verb is now a noun. So "malen" becomes "das Malen."
     tags:
       - piggeldy-malen
-...
+---
 name: Piggeldy  Frederick - Der Himmel.mp4
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 03:07.825
@@ -905,7 +906,7 @@ clips:
         More on the subjunctive mood: https://coerll.utexas.edu/gg/gr/vsub_02.html
     tags:
       - piggeldy-der-himmel
-...
+---
 name: piggeld-der-vogel.mp4
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 03:05.852
@@ -1100,7 +1101,7 @@ clips:
       notes: This last sentence is nonsense--kind of poking fun at how things get complicated when you talk about "woulds" and "would haves". We can't expect Piggeldy (and others learning the subjunctive in German) to get it right away.
     tags:
       - piggeldy-der-vogel
-...
+---
 name: Peppa Wutz  Zusammenschnitt - 30 Minuten  Peppa Pig Deutsch Neue Folgen  Cartoons für Kinder.mp4
 format: mov,mp4,m4a,3gp,3g2,mj2
 duration: 28:52.627

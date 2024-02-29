@@ -3,7 +3,7 @@
 name: Intermediate Japanese
 noteType: Simple
 createdAt: 2020-02-02T10:29:42Z
-timestamp: 2021-08-01T13:45:26Z
+timestamp: 2024-02-28T19:20:30Z
 id: d7bf05ca-fa1b-4255-a420-47e56a70d3ea
 ---
 name: 01 - Lesson 1 - Main Text.mp3
@@ -304,7 +304,7 @@ clips:
       transcription: |-
         特に足の裏は何も重要な働きはしていないように見える。
         ところが、足の裏の働きについて実験した結果、面白いことがわかったそうだ。
-      meaning: |-2
+      meaning: |2-
          Whats more, the backs of our feet perform scarcely any major function. 
         Or so it had seemed, until a series of experiments on their activity came up with some interesting results. 
     tags:
@@ -432,8 +432,7 @@ clips:
       transcription: 足の裏って、あまり大したことをしないようですけど、実は大切なんだそうです。
       meaning: |
         A: Yeah You'd think that the backs of our feet don't have any important function. But they're tremendously important.
-    tags:
-      &a1
+    tags: &a1
       - iij02
   - id: c8163db2-c41d-4d67-84a7-cf798693c587
     start: 00:37.88
@@ -526,8 +525,7 @@ clips:
       meaning: |-
         A: Where are you headed? For a walk. I'm feeling a little mentally fatigued.
         A: Hmph.
-    tags:
-      &a1
+    tags: &a1
       - iij02
   - id: b2b28810-bf3d-4b60-8e1f-abef9b4221ff
     start: 00:17.744
@@ -1045,8 +1043,7 @@ clips:
         B: Lately, coffee houses have been getting scarce.
         A: Is that because the rent for land has increased?
         B: Yes. It's risen to an unbelievably high level, as of late.
-    tags:
-      &a1
+    tags: &a1
       - iij04
   - id: ca8df80a-f320-40db-8488-ff15c2efc21b
     start: 00:29.184
@@ -1123,8 +1120,7 @@ clips:
          A: Okay. It'll only take a minute. 
         B: Only a minute?! What, are you using instant coffee?
         A: Of course. Why?
-    tags:
-      &a1
+    tags: &a1
       - iij04
   - id: 1000c575-f729-4e18-b164-5e8f287ae5be
     start: 00:23.06
@@ -1334,8 +1330,7 @@ clips:
         B: There are underground parking lots; underground departments in department stores.
         A: Uh-huh. And I've even heard of an office located four stories underground.
       notes: recording seems to say 「今はだって」
-    tags:
-      &a1
+    tags: &a1
       - iij05
   - id: d4724a31-804f-426b-8ff8-2524148927f9
     start: 00:39.2
@@ -1400,8 +1395,7 @@ clips:
         Husband: No, not this restaurant. It's underground.
         Wife: Okay—so how about a restaurant in that building?
         Husband: The one on the 36th floor? No way—it's too high.
-    tags:
-      &a1
+    tags: &a1
       - iij05
   - id: 4549612d-882a-4d49-8111-f316710bad8e
     start: 00:19.496
@@ -1592,8 +1586,7 @@ clips:
         B: No. I left work early. rm on my way home from school.
         A: From school?
         B: Uh-huh. I practice using computers twice a week.
-    tags:
-      &a1
+    tags: &a1
       - iij06
   - id: 162cf851-0577-4fae-a22c-b0257fcca88d
     start: 00:18.944
@@ -1715,8 +1708,7 @@ clips:
         A: Yeah, and travel.
         B: So you haven't been studying at all.
         A: That's not true.
-    tags:
-      &a1
+    tags: &a1
       - iij06
   - id: 0232b2d4-2bd6-4b71-bec2-aee3943ca589
     start: 00:20.452
@@ -1922,8 +1914,7 @@ clips:
         A: Huh? I've never heard of it.
         B: I's still relatively new. Developed 15 or 16 years ago, apparently.
         A: Oh?
-    tags:
-      &a1
+    tags: &a1
       - iij07
   - id: 00494cfc-dee4-442b-bb23-f92f596089fb
     start: 00:23.04
@@ -2014,8 +2005,7 @@ clips:
         B: Grampa? Welcome back.
         A: I'm exhausted.
         B: Something wrong with that nabana?
-    tags:
-      &a1
+    tags: &a1
       - iij07
   - id: 9c8ccacb-11ce-4eda-9de8-13e8117e5c28
     start: 00:19.472
@@ -2230,8 +2220,7 @@ clips:
         A: It looks like Ms. Yamada's child has been staying home from school for a long time.
         B: It seems the child has a phobia about going to school.
         A: I'll bet Ms. Yamada is very concerned. B: I guess so. It must be extremely trying for her. 
-    tags:
-      &a1
+    tags: &a1
       - iij08
   - id: 3fee388f-f183-4332-b1b7-0a26acd55b86
     start: 00:21.8
@@ -2528,8 +2517,7 @@ clips:
         A: That’s really convenient.
         B: Still, the deliverer really has to struggle.
         A: Yeah.
-    tags:
-      &a1
+    tags: &a1
       - iij09
   - id: 0b2fec94-2015-4cac-ae59-d9008ad093bb
     start: 00:23.52
@@ -2614,8 +2602,7 @@ clips:
         Husband: Uh-huh.
         Wife: Apparently they pass a couple of checkpoints on the way. The company uses these to verify their times. With a machine of some sort.
         Husband: Oh.
-    tags:
-      &a1
+    tags: &a1
       - iij09
   - id: 180247ff-44be-44b2-ac03-33fa8bd20988
     start: 00:24.68
@@ -2825,8 +2812,7 @@ clips:
         A: Uh-huh. I use cards when I’m shopping; at restaurants—practically everywhere.
         B: Really? I always pay cash.
         A: Cards are safer. Cash can be dropped.
-    tags:
-      &a1
+    tags: &a1
       - iij10
   - id: 52e9b104-651c-4d00-80d8-e3e8dde51b95
     start: 00:40.988
@@ -2896,8 +2882,7 @@ clips:
         Wife: This is really neat. Let’s buy it.
         Husband: Don’t we have several just like it at home?
         Wife: Not just like it. They’re a little different.
-    tags:
-      &a1
+    tags: &a1
       - iij10
   - id: 146c8ed2-e881-4d19-bbf3-93cc8b067ffb
     start: 00:16.895
@@ -3101,8 +3086,7 @@ clips:
         Woman: Whenever I want?
         Superintendent: Yes—if it's burnable garbage, like food or paper.
         Woman: I see.
-    tags:
-      &a1
+    tags: &a1
       - iij11
   - id: 3439365c-d876-4b47-939f-16b648872ebb
     start: 00:21.74
@@ -3209,8 +3193,7 @@ clips:
         Husband: It's people like you who are responsible for the tremendous increase in garbage.
         Wife: Are you trying to tell me to eat it even if I’m full—just to keep it from turning into garbage?
         Husband: Well. that’s what I always do.
-    tags:
-      &a1
+    tags: &a1
       - iij11
   - id: 62363d65-3ffd-4cdd-9314-9eca18b81592
     start: 00:24.024
@@ -3402,8 +3385,7 @@ clips:
         A: Are you sure?
         B: Yes. I’m not going to eat it anyway. Go ahead.
         A: I will.
-    tags:
-      &a1
+    tags: &a1
       - iij12
   - id: bbe1170b-1c0e-4368-9a13-7cf0bf6b5afe
     start: 00:30.42
@@ -4123,8 +4105,7 @@ clips:
         B: My girlfriend hates taking care of people. Unlike a monkey, I could scarcely start training her otherwise.
         A: But receiving care takes effort, too. Whenever the monkey does something, she’s told “That’s a
         good girl, That‘s a good girl.” And given a sweet or something.
-    tags:
-      &a1
+    tags: &a1
       - iij14
   - id: 3917dad0-cc0a-4ff0-8e3a-9cca8e154986
     start: 00:52.436
@@ -4444,8 +4425,7 @@ clips:
         皆さんは日本の四つの大きな島の名前を知っていますか。
         日本はユーラシア大陸の東にある島国で、国の70%は山です。
       meaning: Do you know the names of Japan’s four large islands? Japan is an island nation located to the east of the Eurasian continent, and 70 percent of the country is mountainous.
-    tags:
-      &a1
+    tags: &a1
       - tobira01
   - id: 0690e34f-ef61-4731-90e6-805c25d46ac2
     start: 00:25.54
@@ -4580,8 +4560,7 @@ clips:
         時々聞きますが 田舎のことですか
         田舎という意味もありますが
         その間に 関東地方とか関西地方のように使うこともありま
-    tags:
-      &a1
+    tags: &a1
       - tobira01
   - id: 6db91d9c-4551-4f7b-af2b-d6a9d02b963c
     start: 01:05.067
@@ -4696,8 +4675,7 @@ clips:
         冬は雪が多くてとても寒いんだ
         でも 夏は涼しくて気持ちがいいよ
         梅雨もないし
-    tags:
-      &a1
+    tags: &a1
       - tobira01
   - id: 12b5448d-f941-4351-be16-c6d4125a52d7
     start: 00:32.8
@@ -4774,8 +4752,7 @@ clips:
     fields:
       transcription: 皆さんはもう敬語は勉強しましたか。家族や友達と話す時に使うカジュアルスピーチ（くだけた話し方）も習いましたか。日本語には色々なスピーチスタイルがあることは知っていますね。
       meaning: "Have you already studied keigo (Japanese honorific language)? Have you learned the casual speech (an informal way of speaking) used when talking with family and friends? You know that Japanese has various speech styles. "
-    tags:
-      &a1
+    tags: &a1
       - tobira02
   - id: 840d4766-4372-44c9-b54c-5fea347d7d5a
     start: 00:31.24
@@ -5144,8 +5121,7 @@ clips:
     fields:
       transcription: 日本はロボットの技術が発達していることで有名だ。
       meaning: "Japan is famous for its advanced robot technology. "
-    tags:
-      &a1
+    tags: &a1
       - tobira03
   - id: 32049792-a0a7-4ffc-9632-0bb3857d06e1
     start: 00:19.173
@@ -5371,8 +5347,7 @@ clips:
     fields:
       transcription: 現代の日本人は、野球、サッカー、ゴルフ、スキーなど、色々なスポーツを楽しんでいる。若い人たちだけでなく、子供からお年寄りまでスポーツを楽しみ、そして、種類も、海や山、夏や冬のスポーツ、一人でするスポーツ、チームでするスポーツ、健康のためのスポーツなど、何でもある。
       meaning: "Present-day Japanese people enjoy many different sports, such as baseball, soccer, golf, and skiing. Not only young people but (people of all ages) from children to the elderly enjoy sports, and there are all types of sports, such as ocean, mountain, summer and winter sports, one-person sports, team sports, and sports for health. "
-    tags:
-      &a1
+    tags: &a1
       - tobira04
   - id: 0aab6132-b370-492a-967e-db0fdb23f772
     start: 00:45.135
@@ -5604,8 +5579,7 @@ clips:
     end: 00:37.717
     fields:
       transcription: 主将の山田さんの帯は黒いですね
-    tags:
-      &a1
+    tags: &a1
       - tobira04
   - id: a7681335-84b3-41a9-932f-ce5ceb88b8da
     start: 00:55.16
@@ -5822,8 +5796,7 @@ clips:
     fields:
       transcription: 日本語には「苦しい時の神頼み」という言葉がある。何か苦しい事や困った事があると「神様、仏様、どうか助けて下さい」と言って一生懸命お願いするけれど、何もない時は、神様や仏様のことはあまり考えていないという意味である。
       meaning: In Japanese, there’s a phrase “Men pray to the gods only when they are in trouble.” It means that when there is an agonizing or troublesome situation, people pray very hard, saying, “Gods, Buddha, please help me,” but they don’t think very much about the gods or the Buddha when they have no problems.
-    tags:
-      &a1
+    tags: &a1
       - tobira06
   - id: 026025f4-7e02-497c-ad67-3bdc4726db04
     start: 00:36.32
@@ -5986,8 +5959,7 @@ clips:
       transcription: |
         日本の神話には、ギリシャ神話のように、人間的な神様がたくさん出てきて活躍する面白い話が多く残っている。その中に天照大神という神様についての有名な話がある。どんな話か読んでみよう。
       meaning: In Japanese mythology, just as in Greek mythology, many interesting stories remain in which many humanlike gods appear and play active roles. Among these, there is a famous story about the goddess called Amaterasu-Ōmikami. Let’s read and see what kind of story it is.
-    tags:
-      &a1
+    tags: &a1
       - tobira06
   - id: 14454624-2ac9-4263-8683-98f954fee6f3
     start: 00:29.48
@@ -6160,8 +6132,7 @@ clips:
         今、世界中で日本の漫画、アニメ、ゲーム、キャラクターグッズ、Jポップなどのポップカルチャー・ファンが増えている。
         海外で「MANGA」といえば、日本マンガのことを「ANIME」といえばディズニーなどのアニメーションではなく日本アニメのことを言う。
       meaning: Currently, throughout the world, fans of Japanese popular culture, such as Japanese manga, anime, games, pop character merchandise, and Japanese pop music, are increasing in number. Overseas, manga refers to Japanese comics, and anime refers not to animation such as Disney’s but to Japanese animation.
-    tags:
-      &a1
+    tags: &a1
       - tobira07
   - id: 92c16087-9f86-49a9-aeef-c42c9b26a097
     start: 00:35.0
@@ -6369,8 +6340,7 @@ clips:
         階段をバタバタ上がり下りするし
         この間一度注意したんですけど
         全然静かにしてくれなくて
-    tags:
-      &a1
+    tags: &a1
       - tobira07
   - id: 6f17f552-12d9-4d62-b1d3-ae87436e0c9b
     start: 01:02.94
@@ -6430,8 +6400,7 @@ clips:
         Ab型は
         個性的で二つの性格を持つ傾向があるって書いてあるよ
         本当かな
-    tags:
-      &a1
+    tags: &a1
       - tobira07
   - id: 92307347-fe34-47ab-8416-9b9491bd8f5e
     start: 01:51.34
@@ -6470,8 +6439,7 @@ clips:
         日本語では、笑いは様々な表現で表されます。
         例えば、大声で笑うときは「ゲラゲラ」笑い、恥ずかしそうに小さい声で笑う時は「クスクス」笑います。他にも「きゃっきゃっ」と笑ったり、「ワハハ」と笑ったりしますが、皆さんはこれらの笑いには不思議な力があることを知っていますか。
       meaning: In Japanese, laughter is expressed using a variety of expressions. For example, when someone laughs loudly, it’s expressed as geragera warau (guffaw), and when someone laughs in a shy, quiet manner, it’s kusukusu warau (giggle). Besides these, people also laugh in ways such as kyakkya or wahaha, That said, do you know that laughter like this has a mysterious power?
-    tags:
-      &a1
+    tags: &a1
       - tobira08
   - id: 4b83cda4-1298-4818-a965-1fe7fe28a599
     start: 00:36.6
@@ -6632,8 +6600,7 @@ clips:
         自分たちが受けてきた教育に満足していますか。
         この課では、教育について考えてみましょう。
       meaning: What kind of system is the education system in your country now? What kinds of good points and problems does it have? Are you satisfied with the education you have received? In this lesson, let’s think about education.
-    tags:
-      &a1
+    tags: &a1
       - tobira09
   - id: 5f532c2f-c28a-4f0b-b4c3-6df49f842bef
     start: 00:34.796
@@ -6933,8 +6900,7 @@ clips:
     fields:
       transcription: 東京の街を歩く。次々と目に入ってくるカラフルなデザインの自動販売機。日本を訪れた外国人は自動販売機が街中にある風景に驚くらしい。
       meaning: You walk through the city of Tokyo. One after another, vending machines with colorful designs come into view. It is said that foreigners who visit Japan are surprised at the vending machine scene in the city.
-    tags:
-      &a1
+    tags: &a1
       - tobira10
   - id: 297932eb-068b-48c4-adc5-741141a014d6
     start: 00:30.42
@@ -7123,8 +7089,7 @@ clips:
     fields:
       transcription: 日本には様々な文化や伝統的な習慣がありますが、それらのすべてが日本で独自に生まれたものなのでしょうか。答えは「いいえ」です。現在、一般的に日本の伝統的習慣や文化と考えられているものの中には、もともとは外国から入って来て日本的に変化したものが少なくありません。
       meaning: "There are many different examples of culture and traditional customs in Japan, but are they all things that originated in Japan? The answer is “no.” Among those things generally thought of today as traditional Japanese customs or culture, there are quite a few that entered Japan originally from other countries and were adapted to become typically Japanese(lit. and changed in a Japanese way). "
-    tags:
-      &a1
+    tags: &a1
       - tobira11
   - id: ce102a70-d51a-44c5-ae5d-771e8450e212
     start: 00:40.44
@@ -7346,8 +7311,7 @@ clips:
     fields:
       transcription: 皆さんは「和紙」という言葉を知っていますか。
       meaning: "Do you know the word washi? "
-    tags:
-      &a1
+    tags: &a1
       - tobira12
   - id: 954e993d-4961-4cf7-a414-b829e1eacab1
     start: 00:17.6
@@ -7498,8 +7462,7 @@ clips:
         「細かく観察して、よく書いています」と、先生はものすごくほめてくれたんです。丸坊主の頭をなでてくれた手は温かった。今でも思い出します。
         勝手なもので、ほめられたことしか覚えていませんね。それで文章を書くことに興味を持った。教室でよく作文を読み上げられ、「それじゃあ、小説家になろう」というのが、僕の夢になった。
       meaning: Miss Kikuchi (lit.teacher) complemented me greatly, saying, “You observed closely and described it well.” The hand that patted my shaved head was warm. | still recall it. Selfishly, | only remember being praised. Because of that, | became interested in writing. My compositions were often read in the classroom, so I began to dream of becoming a novelist (lit. my dream became “In that case, I'll become a novelist.)
-    tags:
-      &a1
+    tags: &a1
       - tobira13
   - id: bb4a175f-f358-45c1-95bb-03ef7042c560
     start: 01:32.9
@@ -7824,8 +7787,7 @@ clips:
     fields:
       transcription: なぜ国際的に知られている日本の政治家は少ないのだろうか。それには、二つの理由が考えられる。一つは、外国では日本の経済状況には関心が持たれるけれど、政治への関心は低いためにメディアが日本の政治についてあまり報道しないということがある。
       meaning: "Why are only a few Japanese politicians known internationally? Two reasons for that come to mind. The first reason is that, although in foreign countries there is interest in Japan’s economic situation, interest in Japan’s politics is low, so the media doesn’t report much about Japanese politics. "
-    tags:
-      &a1
+    tags: &a1
       - tobira14
   - id: a684ff76-1857-42d1-b96b-8e162c5797fb
     start: 01:01.18
@@ -7971,8 +7933,7 @@ clips:
     fields:
       transcription: ２０年後、自分はどこに住んで何をしているだろうか。５０年後、私たちの国はどんなふうになっているだろうか。世界の未来はどうなっているだろうか。誰もが少なくとも一度は、このような疑問を持ったことがあるのではないだろうか。
       meaning: Where will I be living and what will I be doing 20 years from now? 50 years from now, what will our country be like? What will the world be like in the future? Everyone has probably had questions like this at least once.
-    tags:
-      &a1
+    tags: &a1
       - tobira15
   - id: d67e2d01-f5a6-43e3-b9c0-1cd8ccce3a08
     start: 00:39.16
@@ -7985,8 +7946,7 @@ clips:
     start: 01:00.004
     end: 01:13.904
     fields:
-      transcription: |-
-        この課では三つの読み物を通して、今の私たちの周りにある問題を考えながら、自分の国と世界の未来、そして、これからの可能性について考えてみよう。
+      transcription: この課では三つの読み物を通して、今の私たちの周りにある問題を考えながら、自分の国と世界の未来、そして、これからの可能性について考えてみよう。
       meaning: In this lesson, through three readings, we will consider the problems around us while we think about the future of our own countries and of the world, and also think about the possibilities for the future.
     tags: *a1
   - id: a56f9d80-aad2-4bdb-bb83-5e189f827872
@@ -8144,8 +8104,7 @@ clips:
         If Japan were a small village of 100 people, what would it be like?
         For example, if there were 100 people living in
         Japan Village, it would mean that there would be about 4700 people living outside the village. There would be 37 people in South Korea Village, 989 people in China Village, 213 people in America Village... See! If you change your perspective just a little bit, many different things become clear (lit. you begin to understand many different things clearly).
-    tags:
-      &a2
+    tags: &a2
       - tobira15
   - id: bfb5481d-467d-49c2-82a9-733b7b656d5f
     start: 00:43.98
@@ -8155,8 +8114,7 @@ clips:
         
         日本村に住む１００人中、男性は４９人、女性は５１人で、子供は１４人です。
       meaning: "Out of the 100 people who live in Japan Village, 49 are male and 51 are female, and 14 are children. "
-    tags:
-      &a1
+    tags: &a1
       - tobira15
   - id: 91009bde-75d7-4788-87a4-b44c56d5de86
     start: 00:54.56
@@ -8303,8 +8261,7 @@ clips:
       meaning: |-
         Ms. Wangari Maathai is a Kenyan woman who was awarded the first Nobel Peace Prize in the field of environmental protection in 2004. When Ms. Maathai visited Japan in 2005, the word that most moved her was the Japanese word mottainai.
         “The three R's of the environment + Respect = mottainai”
-    tags:
-      &a1
+    tags: &a1
       - tobira15
   - id: d02612c1-0f92-4fd9-b01f-9543ab390dfa
     start: 00:38.96
@@ -8375,7 +8332,7 @@ clips:
     fields:
       transcription: |
         マータイさんは今も世界中を飛び回って「MOTTAINAI」を広める活動に努めています。「MOTTAINAI」という日本語は、いつか世界中の辞書に載るようになるかもしれません。
-      meaning: |-2
+      meaning: |2-
          Ms. Maathai is still traveling around the world and working hard in the movement to spread MOTTAINAI.
         The Japanese word MOTTAINAI may someday appear in dictionaries throughout the world.
     tags: *a1
@@ -8414,8 +8371,7 @@ clips:
     fields:
       transcription: 子供が習いたいと言うので、ピアノを{{c1::習わせる}}ことにした。
       meaning: Since the child said they wanted to learn, we decided to let them learn.
-    tags:
-      &a1
+    tags: &a1
       - mimi_kara_grammar_n3
     image:
       type: VideoStill
@@ -9255,8 +9211,7 @@ clips:
       transcription: |-
         あの先生さ、授業ごとに宿題が出るよね。
         うん、そうだよね。授業のたびにいっぱい 宿題出るよね。大嫌い！
-    tags:
-      &a1
+    tags: &a1
       - nihongonomori_grammar_n3
     image:
       type: VideoStill
@@ -10066,9 +10021,9 @@ clips:
     start: 00:29.696
     end: 00:34.304
     fields:
-      transcription: 朝寝坊の彼{{c1::のことだから}}今日も遅れてくるだろう
-    tags:
-      &a1
+      transcription: 朝寝坊の彼{{c1::のことだから}}今日も遅れてくるだろう。
+      meaning: Well, you know how he is about sleeping in, so he'll be late again today.
+    tags: &a1
       - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
     image:
       type: VideoStill
@@ -10076,7 +10031,8 @@ clips:
     start: 00:46.848
     end: 00:51.712
     fields:
-      transcription: 嬉しい{{c1::ことに}} スピーチ大会の代表に選ばれた
+      transcription: 嬉しい{{c1::ことに}}、スピーチ大会の代表に選ばれた。
+      meaning: To my delight, I was chosen as a representative for the speech contest.
     tags: *a1
     image:
       type: VideoStill
@@ -10084,9 +10040,8 @@ clips:
     start: 01:04.036
     end: 01:10.656
     fields:
-      transcription: |-
-        彼らは試合に勝つために
-        1日も休む{{c1::ことなく}} 練習に励んだ
+      transcription: 彼らは試合に勝つために、１日も休む{{c1::ことなく}}練習に励んだ。
+      meaning: They practiced without a single day off in order to win the game.
     tags:
       - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
     image:
@@ -10095,7 +10050,8 @@ clips:
     start: 01:42.4
     end: 01:46.24
     fields:
-      transcription: 名前を呼ばれたら 返事 ぐらい{{c1::するものだ}}
+      transcription: 名前を呼ばれたら返事ぐらい{{c1::するものだ}}。
+      meaning: When you have your name called, you would (normally) at least answer.
     tags: *a1
     image:
       type: VideoStill
@@ -10103,7 +10059,8 @@ clips:
     start: 01:54.688
     end: 01:58.528
     fields:
-      transcription: 若い頃はよく親に反抗{{c1::したものだ}}
+      transcription: 若い頃はよく親に反抗{{c1::したものだ。}}
+      meaning: When I was young, I used to rebel against my parents.
     tags: *a1
     image:
       type: VideoStill
@@ -10111,9 +10068,8 @@ clips:
     start: 02:06.708
     end: 02:13.632
     fields:
-      transcription: |-
-        日本へ来てもう1年になる
-        時が経つのは本当に{{c1::早いものだ}}
+      transcription: 日本へ来てもう1年になる。時が経つのは本当に{{c1::早いものだ。}}
+      meaning: It's already been a year since I came to Japan. Time really flies.
     tags:
       - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
     image:
@@ -10122,9 +10078,8 @@ clips:
     start: 02:28.856
     end: 02:36.976
     fields:
-      transcription: |-
-        いつも 原田選手に負けている
-        何とかして勝て{{c1::ないものか、}}作戦を考えているところだ
+      transcription: いつも原田選手に負けている。何とかして勝て{{c1::ないものか、}}作戦を考えているところだ。
+      meaning: I'm always losing to Harada. I'm trying to think of a strategy to beat him somehow.
     tags: *a1
     image:
       type: VideoStill
@@ -10132,7 +10087,8 @@ clips:
     start: 02:49.216
     end: 02:55.36
     fields:
-      transcription: この野菜はビタミンが豊富{{c1::なばかりか}} がんを予防する働きもする
+      transcription: この野菜はビタミンが豊富{{c1::なばかりか}}がんを予防する働きもする。
+      meaning: This vegetable is not only rich in vitamins, but also works to prevent cancer.
     tags: *a1
     image:
       type: VideoStill
@@ -10140,7 +10096,8 @@ clips:
     start: 03:07.392
     end: 03:11.744
     fields:
-      transcription: 年を取ると記憶力は{{c1::衰えるばかりだ}}
+      transcription: 年を取ると記憶力は{{c1::衰えるばかりだ。}}
+      meaning: As we get older, our memory only declines.
     tags: *a1
     image:
       type: VideoStill
@@ -10148,7 +10105,8 @@ clips:
     start: 03:43.744
     end: 03:48.352
     fields:
-      transcription: 行くと約束{{c1::した以上}}行かないわけにはいかない
+      transcription: 行くと約束{{c1::した以上}}行かないわけにはいかない。
+      meaning: Now that I've promised to go, I can't not go.
     tags: *a1
     image:
       type: VideoStill
@@ -10156,7 +10114,8 @@ clips:
     start: 04:14.976
     end: 04:18.815
     fields:
-      transcription: 家族と相談{{c1::した上で}}ご返事いたします
+      transcription: 「家族と相談{{c1::した上で}}ご返事いたします」
+      meaning: I will get back to you once I have discussed this with my family.
     tags: *a1
     image:
       type: VideoStill
@@ -10164,7 +10123,8 @@ clips:
     start: 04:26.751
     end: 04:32.127
     fields:
-      transcription: 外国語を勉強{{c1::する上で}} 辞書はなくてはならないものだ
+      transcription: 外国語を勉強{{c1::する上で、}}辞書はなくてはならないものだ。
+      meaning: A dictionary is something you can't do without when you are in the process of learning a foreign language.
     tags: *a1
     image:
       type: VideoStill
@@ -10172,7 +10132,8 @@ clips:
     start: 05:16.159
     end: 05:20.767
     fields:
-      transcription: 多少 無理を{{c1::してでも}} この取引を成功させたい
+      transcription: 多少無理を{{c1::してでも}}この取引を成功させたい。
+      meaning: I want this deal to work, even if it means pushing a little too hard.
     tags: *a1
     image:
       type: VideoStill
@@ -10180,7 +10141,8 @@ clips:
     start: 05:32.799
     end: 05:38.431
     fields:
-      transcription: 子供達は文句を{{c1::言いながらも}} 後片付けを手伝ってくれた
+      transcription: 子供達は文句を{{c1::言いながらも、}}後片付けを手伝ってくれた。
+      meaning: While the kids still complained, they helped me clean up the mess.
     tags: *a1
     image:
       type: VideoStill
@@ -10188,7 +10150,8 @@ clips:
     start: 06:42.943
     end: 06:48.319
     fields:
-      transcription: 本校では学生のレベル{{c1::に応じて}}クラス分けを行います
+      transcription: 本校では学生のレベル{{c1::に応じて}}クラス分けを行います。
+      meaning: The school divides students into classes corresponding to their level.
     tags: *a1
     image:
       type: VideoStill
@@ -10196,9 +10159,8 @@ clips:
     start: 07:02.399
     end: 07:07.519
     fields:
-      transcription: |-
-        受験まであと3ヶ月だ
-        この計画{{c1::に沿って}}勉強しよう
+      transcription: 受験まであと3ヶ月だ。この計画{{c1::に沿って}}勉強しよう。
+      meaning: There are only three months left until the exam. Let's study along the lines of this plan.
     tags:
       - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
     image:
@@ -10207,9 +10169,8 @@ clips:
     start: 07:21.599
     end: 07:28.503
     fields:
-      transcription: |-
-        首相の発言{{c1::をめぐって}}
-        与野党の意見が対立し 審議がストップした
+      transcription: 首相の発言{{c1::をめぐって}}与野党の意見が対立し、審議がストップした。
+      meaning: "The ruling and opposition parties were at odds concerning the prime minister's remarks and deliberations were halted. "
     tags:
       - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
     image:
@@ -10218,7 +10179,8 @@ clips:
     start: 07:40.799
     end: 07:46.943
     fields:
-      transcription: 今年の夏は 青や オレンジ{{c1::といった}} 鮮やかな色が流行している
+      transcription: 今年の夏は青やオレンジ{{c1::といった}}、鮮やかな色が流行している。
+      meaning: This summer, bright colors such as blue and orange are all the rage.
     tags: *a1
     image:
       type: VideoStill
@@ -10226,7 +10188,8 @@ clips:
     start: 08:02.047
     end: 08:05.887
     fields:
-      transcription: 最近寝不足で{{c1::眠くて仕方がない}}
+      transcription: 最近寝不足で{{c1::眠くて仕方がない。}}
+      meaning: Recently, I've been sleep-deprived and I've been so sleepy.
     tags: *a1
     image:
       type: VideoStill
@@ -10234,7 +10197,8 @@ clips:
     start: 08:20.479
     end: 08:23.295
     fields:
-      transcription: 朝食{{c1::抜き}}は体に悪い
+      transcription: 朝食{{c1::抜き}}は体に悪い。
+      meaning: Skipping breakfast is bad for you.
     tags: *a1
     image:
       type: VideoStill
@@ -10242,7 +10206,8 @@ clips:
     start: 08:31.231
     end: 08:35.583
     fields:
-      transcription: 冗談は{{c1::抜きにして}}本当のことを教えてください
+      transcription: 冗談は{{c1::抜きにして}}本当のことを教えてください。。
+      meaning: Please tell me the truth, no jokes.
     tags: *a1
     image:
       type: VideoStill
@@ -10250,9 +10215,8 @@ clips:
     start: 08:49.859
     end: 08:55.807
     fields:
-      transcription: |-
-        これだけの証拠がある以上
-        犯人はあの男{{c1::に相違ない}}と思われる
+      transcription: これだけの証拠がある以上、犯人はあの男{{c1::に相違ない}}と思われる。
+      meaning: With all this evidence, it seems that the culprit could only be that man.
     tags:
       - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
     image:
@@ -10261,7 +10225,8 @@ clips:
     start: 09:07.071
     end: 09:11.423
     fields:
-      transcription: この不況では大手企業の倒産 も{{c1::あり得る}}
+      transcription: この不況では大手企業の倒産も{{c1::あり得る。}}
+      meaning: In this recession, it is not out of the question that major companies may go bankrupt.
     tags: *a1
     image:
       type: VideoStill
@@ -10269,7 +10234,8 @@ clips:
     start: 09:21.663
     end: 09:26.527
     fields:
-      transcription: 熱が39度もあるのでは欠席も{{c1::やむを得ない}}
+      transcription: 熱が39度もあるのでは、欠席も{{c1::やむを得ない。}}
+      meaning: With a fever of 39 degrees Celsius, I had no choice but to be absent.
     tags: *a1
     image:
       type: VideoStill
@@ -10277,7 +10243,8 @@ clips:
     start: 09:38.815
     end: 09:43.935
     fields:
-      transcription: 彼女のような正直な人が嘘をつくとは{{c1::信じがたい}}
+      transcription: 彼女のような正直な人が嘘をつくとは{{c1::信じがたい。}}
+      meaning: It's hard to believe that an honest person like her would lie.
     tags: *a1
     image:
       type: VideoStill
@@ -10285,7 +10252,8 @@ clips:
     start: 09:56.223
     end: 10:03.187
     fields:
-      transcription: あの先生は厳しく指導{{c1::する一方で}} 学生の相談にも良く乗ってくれる
+      transcription: あの先生は厳しく指導{{c1::する一方で}}、学生の相談にも良くのってくれる。
+      meaning: The teacher was strict, but at the same time, he was very helpful in counseling the students.
     tags:
       - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
     image:
@@ -10294,7 +10262,8 @@ clips:
     start: 10:26.175
     end: 10:31.807
     fields:
-      transcription: この図書館では1回{{c1::につき}}5冊まで本が借りられる
+      transcription: この図書館では１回{{c1::につき}}５冊まで本が借りられる。
+      meaning: You can borrow up to five books at a time from this library.
     tags: *a1
     image:
       type: VideoStill
@@ -10302,9 +10271,8 @@ clips:
     start: 10:45.887
     end: 10:53.351
     fields:
-      transcription: |-
-        願書を出すときは 証明書を集める{{c1::やら}}書類に書き込む{{c1::やら}}で
-        大変だった
+      transcription: 願書を出すときは 証明書を集める{{c1::やら}}書類に書き込む{{c1::やら}}で大変だった。
+      meaning: When I applied, I had to gather all the certificates and fill out all the forms and everything. It was a lot of work.
     tags:
       - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
     image:
@@ -10313,9 +10281,8 @@ clips:
     start: 11:08.279
     end: 11:12.899
     fields:
-      transcription: |-
-        子供が帰ってこない
-        どこで何をしている{{c1::のやら}}
+      transcription: 子供が帰ってこない。どこで何をしている{{c1::のやら。}}
+      meaning: The child has not come home. I don't know where they are or what they are doing.
     tags: *a1
     image:
       type: VideoStill
@@ -10323,9 +10290,8 @@ clips:
     start: 11:26.847
     end: 11:34.831
     fields:
-      transcription: |-
-        彼女の話はいつも給料が少ない{{c1::だの}}仕事が忙しすぎる{{c2::だの}}
-        文句ばかりだ
+      transcription: 彼女の話はいつも給料が少ない{{c1::だの}}、仕事が忙しすぎる{{c2::だの}}、文句ばかりだ。
+      meaning: When you talk with her, all she does is complain about how little she's getting paid, how she's too busy working, and things like that.
     tags:
       - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
     image:
@@ -10334,7 +10300,8 @@ clips:
     start: 11:47.583
     end: 11:52.191
     fields:
-      transcription: 選手たちは会場の声援{{c1::に応えて}}手を振った
+      transcription: 選手たちは会場の声援{{c1::に応えて}}手を振った。
+      meaning: The players waved their hands in response to the cheers of the audience.
     tags: *a1
     image:
       type: VideoStill
@@ -10342,7 +10309,8 @@ clips:
     start: 12:04.479
     end: 12:08.063
     fields:
-      transcription: 父は五十歳{{c1::にしては}}若く見える
+      transcription: 父は五十歳{{c1::にしては}}若く見える。
+      meaning: My father looks young for a man of fifty.
     tags: *a1
     image:
       type: VideoStill
@@ -10350,7 +10318,8 @@ clips:
     start: 12:22.143
     end: 12:27.007
     fields:
-      transcription: 晴れた空{{c1::の下で}}運動会が盛大に行われた
+      transcription: 晴れた空{{c1::の下で}}運動会が盛大に行われた。
+      meaning: The field day was held under sunny skies with great fanfare.
     tags: *a1
     image:
       type: VideoStill
@@ -10358,7 +10327,8 @@ clips:
     start: 12:37.247
     end: 12:43.391
     fields:
-      transcription: 開発{{c1::の名のもとに}} 自然破壊が進み 様々な問題が生じている
+      transcription: 開発{{c1::の名のもとに}}、自然破壊が進み、様々な問題が生じている。
+      meaning: In the name of development, nature is being destroyed and various problems are arising.
     tags: *a1
     image:
       type: VideoStill
@@ -10366,7 +10336,8 @@ clips:
     start: 13:00.799
     end: 13:05.663
     fields:
-      transcription: このバッグは色{{c1::はともかく}} デザインが 洒落ている
+      transcription: このバッグは色{{c1::はともかく}}デザインが洒落ている。
+      meaning: This bag has a stylish design, if not color.
     tags: *a1
     image:
       type: VideoStill
@@ -10374,7 +10345,8 @@ clips:
     start: 13:42.271
     end: 13:47.647
     fields:
-      transcription: この一週間 雨が{{c1::降りっぱなしで}}洗濯物が乾かない
+      transcription: この一週間雨が{{c1::降りっぱなしで}}、洗濯物が乾かない。
+      meaning: It's been raining non-stop for the past week and my laundry is not drying.
     tags: *a1
     image:
       type: VideoStill
@@ -10382,7 +10354,8 @@ clips:
     start: 13:55.327
     end: 13:59.679
     fields:
-      transcription: 昨夜は電気もテレビも{{c1::つけっぱなしで}}寝てしまった
+      transcription: 昨夜は電気もテレビも{{c1::つけっぱなしで}}寝てしまった。
+      meaning: Last night I fell asleep with all the lights and TV on.
     tags: *a1
     image:
       type: VideoStill
@@ -10390,7 +10363,8 @@ clips:
     start: 14:11.967
     end: 14:17.599
     fields:
-      transcription: 今日中に漢字を110覚えるなんて無理だ{{c1::出来っこない}}
+      transcription: 今日中に漢字を１００字覚えるなんて無理だ。{{c1::出来っこない。}}
+      meaning: It's impossible to memorize 100 kanji by the end of the day. There's no way I can do it.
     tags: *a1
     image:
       type: VideoStill
@@ -10398,7 +10372,8 @@ clips:
     start: 14:29.631
     end: 14:35.007
     fields:
-      transcription: 母は朝{{c1::出かけたきり}} 夜になっても返ってこない
+      transcription: 母は朝{{c1::出かけたきり}}、夜になっても帰ってこない。
+      meaning: My mother went out in the morning but she still didn't come back in the evening.
     tags: *a1
     image:
       type: VideoStill
@@ -10406,7 +10381,8 @@ clips:
     start: 14:55.999
     end: 14:58.815
     fields:
-      transcription: "{{c1::つきっきり}}で看病する"
+      transcription: "{{c1::つきっきり}}で看病する。"
+      meaning: I'll be there every step of the way to take care of you.
     tags: *a1
     image:
       type: VideoStill
@@ -10414,7 +10390,8 @@ clips:
     start: 15:10.335
     end: 15:15.199
     fields:
-      transcription: 息子は{{c1::得意げ}}に100点を取ったテストを差し出した
+      transcription: 息子は{{c1::得意げ}}に100点を取ったテストを差し出した。
+      meaning: My son held out the test he had scored 100 on with a flourish of pride.
     tags: *a1
     image:
       type: VideoStill
@@ -10422,7 +10399,8 @@ clips:
     start: 15:25.951
     end: 15:30.815
     fields:
-      transcription: "{{c1::何気なく}} 顔を上げると先生と目が合ってしまった"
+      transcription: "{{c1::何気なく}}顔を上げると先生と目が合ってしまった。"
+      meaning: I looked up without thinking and found myself eye to eye with the teacher.
     tags: *a1
     image:
       type: VideoStill
@@ -10430,7 +10408,8 @@ clips:
     start: 16:04.095
     end: 16:10.239
     fields:
-      transcription: 彼女はロシア語ができるといってもちょっとした挨拶ができる{{c1::にすぎない}}
+      transcription: 彼女はロシア語ができるといってもちょっとした挨拶ができる{{c1::にすぎない。}}
+      meaning: Although she could speak Russian, all she could do was a little greeting.
     tags: *a1
     image:
       type: VideoStill
@@ -10438,15 +10417,17 @@ clips:
     start: 16:23.039
     end: 16:27.647
     fields:
-      transcription: いろいろ{{c1::悩んだ挙句}}会社を辞めることにした
+      transcription: いろいろ{{c1::悩んだ挙句}}会社を辞めることにした。
+      meaning: After a great deal of agonizing, I decided to quit the company.
     tags: *a1
     image:
       type: VideoStill
   - id: 80842fe8-f3bf-4db7-9890-122c6706b33c
     start: 17:30.879
-    end: 17:37.023
+    end: 17:37.504
     fields:
-      transcription: ワルシャワ 国籍 性別{{c1::に関わらず}}優秀な人材を求めて
+      transcription: 我が社は国籍、性別{{c1::に関わらず}}優秀な人材を求めている。
+      meaning: Our company is looking for talented people without regard to nationality or gender.
     tags: *a1
     image:
       type: VideoStill
@@ -10454,7 +10435,8 @@ clips:
     start: 17:45.471
     end: 17:51.615
     fields:
-      transcription: この映画は子供から大人まで 年齢{{c1::にかかわりなく}} 楽しめる
+      transcription: この映画は、子供から大人まで、年齢{{c1::にかかわりなく}}楽しめる。
+      meaning: This film can be enjoyed by children and adults regardless of age.
     tags: *a1
     image:
       type: VideoStill
@@ -10462,7 +10444,8 @@ clips:
     start: 18:04.415
     end: 18:09.279
     fields:
-      transcription: 彼は熱が高い {{c1::にもかかわらず}}仕事に行った
+      transcription: 彼は熱が高い{{c1::にもかかわらず、}}仕事に行った。
+      meaning: He went to work despite having a high fever.
     tags: *a1
     image:
       type: VideoStill
@@ -10470,7 +10453,8 @@ clips:
     start: 18:21.823
     end: 18:26.175
     fields:
-      transcription: 母は心配{{c1::のあまり}} 病気になってしまった
+      transcription: 母は心配{{c1::のあまり}}病気になってしまった。
+      meaning: My mother got sick from worrying so much.
     tags: *a1
     image:
       type: VideoStill
@@ -10478,7 +10462,8 @@ clips:
     start: 18:42.559
     end: 18:47.679
     fields:
-      transcription: 新しい仕事を始める{{c1::にあたり}} 叔父に100万円借りた
+      transcription: 新しい仕事を始める{{c1::にあたり}}、叔父に100万円借りた。
+      meaning: In preparation for the start of my new job, I borrowed one million yen from my uncle.
     tags: *a1
     image:
       type: VideoStill
@@ -10486,7 +10471,8 @@ clips:
     start: 19:18.655
     end: 19:24.543
     fields:
-      transcription: いろいろ{{c1::迷った末}} A 大学 と B 大学を受験することにした
+      transcription: いろいろ{{c1::迷った末}}、A大学とB大学を受験することにした。
+      meaning: After hesitating over a number of things, I decided to take the entrance exam for University A and University B.
     tags: *a1
     image:
       type: VideoStill
@@ -10494,7 +10480,8 @@ clips:
     start: 19:39.391
     end: 19:44.767
     fields:
-      transcription: サッカーの親善試合{{c1::を契機に}} 二国間の交流が進んだ
+      transcription: サッカーの親善試合{{c1::を契機に}}、二国間の交流が進んだ。
+      meaning: The two countries took the opportunity of a friendly soccer match to promote exchange between them.
     tags: *a1
     image:
       type: VideoStill
@@ -10502,7 +10489,8 @@ clips:
     start: 19:57.055
     end: 20:02.431
     fields:
-      transcription: 弊社は学歴{{c1::を問わず}} やる気のある人材を求めている
+      transcription: A社は学歴{{c1::を問わず}}、やる気のある人材を求めている。
+      meaning: Company A is looking for motivated people no matter their educational background.
     tags: *a1
     image:
       type: VideoStill
@@ -10510,7 +10498,8 @@ clips:
     start: 20:14.719
     end: 20:20.095
     fields:
-      transcription: 彼の部屋はまるで泥棒に{{c1::入られたかのように}}散らかっていた
+      transcription: 彼の部屋はまるで泥棒に{{c1::入られたかのように}}散らかっていた。
+      meaning: His room was a mess, as if it had been burglarized.
     tags: *a1
     image:
       type: VideoStill
@@ -10518,9 +10507,8 @@ clips:
     start: 20:45.695
     end: 20:53.631
     fields:
-      transcription: |-
-        親{{c1::からすれば}} 門限があれば安心だろうが 子供の立場から言えば
-        それは不自由だ
+      transcription: 親{{c1::からすれば}}門限があれば安心だろうが、子供の立場から言えばそれは不自由だ。
+      meaning: From the parents' point of view, a curfew would be a source of relief, but from the children's point of view, it would be an encumbrance.
     tags:
       - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
     image:
@@ -10529,9 +10517,8 @@ clips:
     start: 21:04.62
     end: 21:13.34
     fields:
-      transcription: |-
-        ストーリーの面白さ という点{{c1::から見ると}}
-        絵の美しさという点{{c1::から見れば}} B の方ですね
+      transcription: ストーリーの面白さという点{{c1::から見るとＡ}}、絵の美しさという点{{c1::から見れば}} B の方ですね。
+      meaning: ストーリーの面白さという点から見るとＡ、絵の美しさという点から見れば B の方ですね。
     tags: *a1
     image:
       type: VideoStill
@@ -10539,7 +10526,8 @@ clips:
     start: 21:21.28
     end: 21:27.168
     fields:
-      transcription: 私の経験{{c1::から言えば}} 旅先では生 水は飲まない方がいいです
+      transcription: 私の経験{{c1::から言えば}}、旅先では生水は飲まない方がいいです。
+      meaning: Going by my experience, it's best not to drink raw water when traveling.
     tags: *a1
     image:
       type: VideoStill
@@ -10547,7 +10535,8 @@ clips:
     start: 21:39.712
     end: 21:44.832
     fields:
-      transcription: 彼女は雨に濡れるの{{c1::も構わず}}彼の後を追いかけた
+      transcription: 彼女は雨に濡れるの{{c1::も構わず}}、彼の後を追いかけた。
+      meaning: She followed him, not caring if she got wet in the rain.
     tags: *a1
     image:
       type: VideoStill
@@ -10555,7 +10544,8 @@ clips:
     start: 21:56.864
     end: 21:59.936
     fields:
-      transcription: 決めたことは最後まで{{c1::やり抜き}}なさい
+      transcription: 決めたことは最後まで{{c1::やり抜き}}なさい。
+      meaning: Once you've made a decision, you have to carry it through to the end.
     tags: *a1
     image:
       type: VideoStill
@@ -10563,7 +10553,8 @@ clips:
     start: 22:11.968
     end: 22:16.832
     fields:
-      transcription: 私が遅刻を{{c1::したばかりに}}皆に迷惑をかけてしまった
+      transcription: 私が遅刻を{{c1::したばかりに}}皆に迷惑をかけてしまった。
+      meaning: Just because I was late, I caused trouble for everyone.
     tags: *a1
     image:
       type: VideoStill
@@ -10571,7 +10562,8 @@ clips:
     start: 22:27.328
     end: 22:32.704
     fields:
-      transcription: 彼女に一目会いたい{{c1::ばかりに}}駅で何時間も彼女を待った
+      transcription: 彼女に一目会いたい{{c1::ばかりに、}}駅で何時間も彼女を待った。
+      meaning: I waited for her at the station for hours just to see her.
     tags: *a1
     image:
       type: VideoStill
@@ -10580,6 +10572,7 @@ clips:
     end: 23:07.264
     fields:
       transcription: 本当の事を{{c1::言ったところで}}誰も信じてくれないだろう
+      meaning: Even if I were to tell the truth, no one would believe me.
     tags: *a1
     image:
       type: VideoStill
@@ -10596,9 +10589,8 @@ clips:
     start: 25:57.988
     end: 26:05.952
     fields:
-      transcription: |-
-        A 先生は時間に厳しい
-        授業に{{c1::遅れようものなら}} 教室にも入れてもらえない
+      transcription: A先生は時間に厳しい。授業に遅{{c1::れようものなら教}}室にも入れてもらえない。
+      meaning: Mr. A is strict about time. If you are late for class, you are not even allowed in the classroom.
     tags:
       - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
     image:
@@ -10607,7 +10599,8 @@ clips:
     start: 26:37.157
     end: 26:42.997
     fields:
-      transcription: 母が手術をすることになり 心配で勉強{{c1::どころではない}}
+      transcription: 母が手術をすることになり、心配で勉強{{c1::どころではない。}}
+      meaning: My mother is going to have an operation and I will be too worried to study.
     tags: *a1
     image:
       type: VideoStill
@@ -10615,7 +10608,8 @@ clips:
     start: 26:55.36
     end: 27:01.248
     fields:
-      transcription: 彼は10年も日本に{{c1::いただけに}} 日本事情に詳しい
+      transcription: 彼は10年も日本に{{c1::いただけに}}、日本事情に詳しい。
+      meaning: He was familiar with Japanese affairs, especially since he had been in Japan for 10 years.
     tags: *a1
     image:
       type: VideoStill
@@ -10624,7 +10618,7 @@ clips:
     end: 27:19.424
     fields:
       transcription: あの店は有名{{c1::なだけあって}} いつもお客さんでいっぱいだ
-      meaning: That shop is famous, so just as you'd expect, it's always full of customers.
+      meaning: Given the fame of that restaurant, it is always full of customers.
     tags: *a1
     image:
       type: VideoStill
@@ -10632,7 +10626,7 @@ clips:
     start: 27:30.176
     end: 27:36.32
     fields:
-      transcription: 優勝できてうれしい1年間頑張って練習しただけのことはあった
+      transcription: 優勝できてうれしい。1年間頑張って練習しただけのことはあった。
       meaning: I'm so happy you won. That's what we get for practicing hard for a year.
     tags: *a1
     image:
@@ -10642,6 +10636,352 @@ clips:
     end: 27:54.752
     fields:
       transcription: 法律{{c1::上}}は男女平等だが実際にはまだ 色々な差別がある
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 98d0e3d5-371f-43c6-b9da-7364e6805572
+    start: 28:07.296
+    end: 28:13.44
+    fields:
+      transcription: 地図{{c1::の上で}}は近そうに見えたが実際に歩いてみると 遠かった
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8146c1f4-6127-491f-b040-21dfabe584f0
+    start: 28:27.52
+    end: 28:32.64
+    fields:
+      transcription: もう甘いものは食べまいと思っても、ついつい食べてしまう。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: a3d4996a-c3c3-46c6-9348-bd0d01df173c
+    start: 28:40.576
+    end: 28:47.609
+    fields:
+      transcription: 彼は昨日とても具合が悪そうだったから、今日のスポーツ大会には来るまい。
+    tags:
+      - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
+    image:
+      type: VideoStill
+  - id: 771bf7ad-be93-4d52-847b-5879ff9629ab
+    start: 29:03.872
+    end: 29:10.016
+    fields:
+      transcription: もう真夜中だったが、心配で電話を{{c1::しないではいられなかった。}}
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8ee48937-0ae7-4290-9488-4f5fc3f8b236
+    start: 29:22.048
+    end: 29:26.144
+    fields:
+      transcription: 65歳以上の方{{c1::に限り}}無料です。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: db42b1a3-f640-4f45-8a4e-07a76d8ca830
+    start: 29:34.08
+    end: 29:39.712
+    fields:
+      transcription: 冬は日本酒もいいが、夏はやっぱりビール{{c1::に限る}}。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 6517c590-9f5e-4317-90d7-be4e6e2fb533
+    start: 29:53.024
+    end: 29:58.656
+    fields:
+      transcription: お申し込みは平日{{c1::に限らず、}}土日でも受け付けております。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ae577ddb-0757-4f4d-9cd2-3d5b20a9538c
+    start: 30:12.992
+    end: 30:21.696
+    fields:
+      transcription: デパートのドアが開くか開かないかのうちに、待っていた客たちはバーゲン会場に殺到した。
+    tags:
+      - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
+    image:
+      type: VideoStill
+  - id: efdb06b2-c0cc-4752-be9b-db6543327dff
+    start: 30:36.8
+    end: 30:43.222
+    fields:
+      transcription: ラッシュ時には、前の電車が行った{{c1::かと思うと}}、もう次の電車が来る。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 97eb8a85-19fc-4732-9bdd-52106e9edb4f
+    start: 30:58.304
+    end: 31:03.168
+    fields:
+      transcription: 選手団の出発{{c1::に先立って}}、激励会が開かれた。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c2b6723d-be37-46cd-80fa-2b946677e855
+    start: 31:15.456
+    end: 31:22.368
+    fields:
+      transcription: カメラが壊れたが修理できた。新しいのを{{c1::買わずに済んで}}良かった。
+    tags:
+      - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
+    image:
+      type: VideoStill
+  - id: 09a5e77c-d8f5-4a3a-8979-4ddb745b0433
+    start: 31:32.352
+    end: 31:36.96
+    fields:
+      transcription: 車とぶつかったが、幸い軽い怪我{{c1::で済んだ。}}
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 934b9e67-c508-4379-9659-5ad1691e8d94
+    start: 31:53.344
+    end: 32:02.304
+    fields:
+      transcription: 髪を茶色に染めることなど、私にしたら何でもないことだが、祖父母にすれば許せないことらしい。
+    tags:
+      - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
+    image:
+      type: VideoStill
+  - id: b2d7fb6c-0390-49bf-acbe-3f6fd84b2b94
+    start: 32:14.08
+    end: 32:19.456
+    fields:
+      transcription: 息子は受験のプレッシャーに耐え{{c1::かねて}}、体調を崩した。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5eb94c78-a2ba-4906-aa0f-01c6be5c2b0c
+    start: 32:31.232
+    end: 32:35.584
+    fields:
+      transcription: この不況では、我が社も赤字になり{{c1::かねない}}。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 5b6b19f7-3db4-47a3-9d47-205ab6f85a3d
+    start: 32:47.872
+    end: 32:51.2
+    fields:
+      transcription: 「向こうに着きしだい、電話してください」
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b9d2cc31-528d-4818-ba1a-7a007a7f6573
+    start: 33:07.84
+    end: 33:12.704
+    fields:
+      transcription: 「検査の結果{{c1::次第で}}、手術するかどうかを決めましょう」
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c3029c84-70b9-4063-b034-626787197eb9
+    start: 33:20.384
+    end: 33:24.736
+    fields:
+      transcription: 「検査の結果{{c1::次第}}では手術もあり得ます」
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: db8e016e-bc7d-4bf6-8b59-199019cbf793
+    start: 33:37.293
+    end: 33:44.719
+    fields:
+      transcription: その件について一応お耳に入れておこうと考え、お手紙を差し上げ{{c1::る次第}}です。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 585037c6-e7e7-4e1e-a1aa-39d4cec1558e
+    start: 34:12.864
+    end: 34:18.752
+    fields:
+      transcription: 私が調べた{{c1::限りで}}は、この虫は関東地方にはいないようだ。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: ef7d9de3-1fc7-4594-9a17-86f6f0acc6bc
+    start: 34:26.688
+    end: 34:28.992
+    fields:
+      transcription: 力{{c1::の限り}}戦う。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: c875a9eb-4350-4f22-9591-a2a6a38b0315
+    start: 34:41.28
+    end: 34:46.144
+    fields:
+      transcription: 宿題をして来なかった日{{c1::に限って}}先生に当てられる。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: cd65203a-fc4f-4c11-8a07-61099d2e49c5
+    start: 34:53.824
+    end: 34:59.712
+    fields:
+      transcription: 「えっ、うちの子が万引き？まさか！うちの子に限って…」
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 891b3c27-d5ce-4d55-bccc-515691c5804e
+    start: 35:12.0
+    end: 35:18.144
+    fields:
+      transcription: 父は機嫌が悪いと見えて、朝から一言も口をきかない。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3fa670bc-ab28-4de7-b925-2a94ec869417
+    start: 35:26.08
+    end: 35:33.261
+    fields:
+      transcription: 一見悩みがないよう{{c1::に見えて}}、実はいろいろな問題を抱えている人も多い。
+    tags:
+      - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
+    image:
+      type: VideoStill
+  - id: 58acedc3-9c73-411b-bc93-585f37ae9e85
+    start: 37:19.232
+    end: 37:24.864
+    fields:
+      transcription: 私は足の速さ{{c1::にかけては}}誰にも負けない自信がある。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 70b6285c-00e4-4dc2-848e-4e6a41359d55
+    start: 37:58.4
+    end: 38:04.288
+    fields:
+      transcription: どれほど忙しかった{{c1::にせよ}}、電話をかけるぐらいの時間はあったはずだ。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 02cf5c1a-e47c-4d51-891f-6028c9e35834
+    start: 38:22.976
+    end: 38:28.608
+    fields:
+      transcription: 「行くにしても行かないにしても、明日中に返事をしてください」
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 933744c0-16b6-4de5-8dc5-37ec76eef841
+    start: 39:21.088
+    end: 39:25.952
+    fields:
+      transcription: 彼女が合格したのは努力の結果{{c1::に他ならない}}。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8fa2bf76-074d-413d-b057-6d0a45209a88
+    start: 39:39.008
+    end: 39:44.896
+    fields:
+      transcription: 未経験者だけで冬山に登るなど、無謀と言{{c1::わざるを得ない}}。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 86affc36-7355-4982-8fe3-73880b2eab6e
+    start: 40:00.206
+    end: 40:05.688
+    fields:
+      transcription: 書{{c1::いては}}消し、書{{c1::いては}}消しで、レポートがなかなか進まない。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 2a18d277-fabe-4a07-beb7-f0bf7ca8d5b2
+    start: 40:19.712
+    end: 40:25.856
+    fields:
+      transcription: 日本へ来た{{c1::矢先に}}バッグを置き忘れ、パスポートをなくしてしまった。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f7017d70-9e6a-4dea-9694-3e3eda09d0d2
+    start: 40:33.536
+    end: 40:37.888
+    fields:
+      transcription: 電話をかけようとした{{c1::矢先に}}向こうからかかってきた。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: bcd1b291-7b96-4d84-b3f8-8fc587643775
+    start: 40:50.176
+    end: 40:56.32
+    fields:
+      transcription: そのアニメは子供や若者{{c1::にとどまらず}}、広く大人にも受け入れられた。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 4acec987-61f4-4186-a06d-35e9b6b1cb2e
+    start: 41:20.128
+    end: 41:27.576
+    fields:
+      transcription: 雨は降る{{c1::には降った}}が、たった3ミリだった。これでは水不足は解消しない。
+    tags:
+      - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
+    image:
+      type: VideoStill
+  - id: 64a001e9-b7d5-42e0-98ed-4c6f0da41595
+    start: 41:39.584
+    end: 41:44.96
+    fields:
+      transcription: 金持ちの彼女は持ち物からして私たちとは違う。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8defd9de-f598-4faf-a5c9-ff67a87aa8d0
+    start: 41:58.527
+    end: 42:07.301
+    fields:
+      transcription: |-
+        彼女は可愛いと言うか、子供っぽいと言うか、とにかくと
+        年寄りは随分若く見える。
+    tags:
+      - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
+    image:
+      type: VideoStill
+  - id: 44d6eda4-d1c1-498d-9822-dec8297888c0
+    start: 42:19.823
+    end: 42:27.199
+    fields:
+      transcription: 家賃は安いに越したことはないが、だからといって、駅から遠いのは困る。
+    tags:
+      - mimi_kara_bunpou_N2_－_耳から覚える_文法_N2.mp4
+    image:
+      type: VideoStill
+  - id: bf5368dd-15b3-4b8a-a302-78aa7d036920
+    start: 42:40.767
+    end: 42:44.351
+    fields:
+      transcription: 歯が痛くて食べようにも食べられない。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 620b5f36-b34c-4998-9531-9b895b392b89
+    start: 42:56.895
+    end: 43:02.271
+    fields:
+      transcription: 「今回の失敗{{c1::を踏まえて}}、次はどうすべきかを考えてみます」
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 439a1303-0cef-440a-a783-5e435c07931c
+    start: 43:15.839
+    end: 43:21.727
+    fields:
+      transcription: 合格できるかどうか{{c1::は}}、これから１ヶ月の頑張り{{c1::にかかっている}}。
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 107039f0-1906-4a10-a48d-0dd5873b75f8
+    start: 43:59.615
+    end: 44:03.711
+    fields:
+      transcription: 目標に向かってお互い頑張ろうじゃないか！
     tags: *a1
     image:
       type: VideoStill

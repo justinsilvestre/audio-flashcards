@@ -3,7 +3,7 @@
 name: Basic Japanese
 noteType: Transliteration
 createdAt: 2020-02-04T17:14:00Z
-timestamp: 2020-12-06T20:41:36Z
+timestamp: 2024-02-29T09:59:54Z
 id: 396cb23e-87fa-491c-a0f2-c7fc5022d80a
 ---
 name: Japanese Listening (N5-N4-N3) - Shadowing lets speak Japanese beginner to intermediate (N5 N4 N3).mp4
@@ -30,6 +30,8 @@ clips:
         After the accented vowel, the pitch goes down. Pitch accent isn't usually marked in Japanese transliteration.
 
         "Ou" is pronounced like "oo"' in most words. When you see two vowels in a row like this, make sure to pronounce each separately.
+    tags:
+      - shad1-1
   - id: 92809685-6016-4401-b46c-cf2e4b09ac36
     start: 00:18.26
     end: 00:22.3
@@ -413,7 +415,7 @@ clips:
     start: 02:09.84
     end: 02:13.02
     fields:
-      transcription: |-2
+      transcription: |2-
          何時にねましたか？
         １１時半ぐらいです。
       pronunciation: |-
@@ -795,7 +797,7 @@ clips:
         今日は暑いですね。
         ええ、本当に。
       pronunciation: |-
-        Kyóu-wa atsui-désu ne.
+        Kyóu-wa atsúi-desu ne.
         Ée, hontou-ni.
       meaning: |-
         It's hot today, isn't it? (polite)
@@ -1249,10 +1251,10 @@ clips:
         カラオケ！カラオケ！どうですか？一時間１５００円です。
         う〜ん。ちょっとね〜。新宿のカラオケの方が安いですね。
       pronunciation: |-
-        Karaoke! Karaoke! Ichi-jí-kan, sén go-hyakú-en-desu.
+        Karaoke! Karaoke! Dóu-desu ka? Ichi-jí-kan, sén go-hyakú-en-desu.
         Un, chótto ne. Shinjuku-no karaoke-no hóu-ga yasúi-desu ne.
       meaning: |-
-        Karaoke! Karaoke! 1500 yen for an hour! (polite)
+        Karaoke! Karaoke! How about it? 1500 yen for an hour! (polite)
         Hm, I don't know. The karaoke in Shinjuku is cheaper, huh? (polite)
       notes: |-
         "Chótto ne" literally means just "[it's] a little bit..." As though you'd rather not say the whole truth of what you think about whatever it is.
@@ -1612,14 +1614,14 @@ clips:
         え、アイス〜？寒くないですか？
         ええ、おいしいですよ。
       pronunciation: |-
-        E, áisu? Samúku nái-desu ka?
+        E, áisu? Sámuku nái-desu ka?
         Ée, oishíi-desu yo.
       meaning: |-
         Huh, ice cream? Isn't it cold out? (polite)
         Yes, it's good! (polite)
       notes: |-
         Samúi. = Samúi-desu. = It's cold out.
-        Samúku nái. = Samúku nái-desu. = It's not cold out.
+        Sámuku nái. = Sámuku nái-desu. = It's not cold out.
     tags:
       - shad1-9
   - id: 54aedb60-b609-4dc0-88bf-311acf843162
@@ -1780,7 +1782,7 @@ clips:
         この店、どうだった？
         う〜ん、料理はいいけど、サービスがちょっとね…。
       pronunciation: |-
-        Kono misé, dóu datta?
+        Kono misé, dóu-datta?
         Un, ryóuri-wa íi kedo, sáabisu-ga chótto ne...
       meaning: |-
         How was this restaurant? (casual)
@@ -1889,7 +1891,7 @@ clips:
         tabéru = eat
         tábe ni iku = go to eat
         tabemásu = eat (polite)
-        tabetai = want to eat
+        tabetái = want to eat
     tags:
       - shad2-1
   - id: a1059913-a654-40f7-b830-770bd6c774ae
@@ -6970,7 +6972,6 @@ clips:
       transcription: 女の子
       pronunciation: Onnanóko
       meaning: Girl
-      notes: TESTNG!!!
     tags:
       - jgr1-1-1
   - id: cd62f0e6-67e7-4cd9-bacf-114b5aa1415a
@@ -7054,7 +7055,7 @@ clips:
         Démo, hitotsu-dake arimasén.
 
         Sore-wa "kotobá".
-      meaning: But just one [thing] isn't there. (polite)
+      meaning: But just one [thing] isn't there. That is, words. (polite)
       notes: '"arimasén" in plain form = "nái" '
     tags:
       - jgr1-1-1
@@ -7755,6 +7756,8 @@ clips:
       pronunciation: Jon-san Nihón-e
       meaning: John [goes] to Japan
       notes: This "-e" meaning "to, towards" is written with the kana for "he".
+    tags:
+      - jgr1-1-3
   - id: 0adb6b3e-e184-4d07-81f3-4bc8097fee3c
     start: 00:09.22
     end: 00:12.9
@@ -7871,6 +7874,8 @@ clips:
       transcription: 「いいえ。四月から、東京で日本語を勉強します」
       pronunciation: Iie. Shi-gatsú-kara Toukyou-de nihongo-o benkyou shimásu.
       meaning: No, I'll be studying Japanese from April. (polite)
+    tags:
+      - jgr1-1-3
   - id: 85150390-b0a7-474d-ac08-5ac6797bee9c
     start: 01:27.22
     end: 01:32.06
@@ -10750,7 +10755,7 @@ clips:
     end: 04:41.568
     fields:
       transcription: 正雄、それはできません。おばあちゃんのうちは、とても遠いところにありますから。
-      pronunciation: Masao, sore-wa dekimasén. O-báa-chan-no uchi-wa, totemo tooi tokoró-ni arimásu-kara.
+      pronunciation: Masao, sore-wa dekimasén. O-báa-chan-no uchi-wa, totemo tooi-tokoró-ni arimásu-kara.
     tags:
       - jgr1-3-1
   - id: ad9a27c7-0e0d-4ffc-b320-6158a0bfa778
@@ -10761,7 +10766,7 @@ clips:
         「え？遠いところ？」
         「そう、遠いところ…」
       pronunciation: |-
-        "E? Tooi tokoró?"
+        "E? Tooi tokoro?"
         "Sóu, tooi tokoro..."
     tags:
       - jgr1-3-1
@@ -11026,6 +11031,7 @@ clips:
     fields:
       transcription: わあ、きれい！いろいろな着物がありますね。
       pronunciation: Waa, kírei! Iroiro-na kimono-ga, arimásu ne.
+      meaning: Wow, beautiful! There are so many different kinds of kimonos.
     tags:
       - jgr1-3-2
   - id: 1e822260-f8b9-4c3e-a6d1-6c78d9a02d30
@@ -11034,6 +11040,7 @@ clips:
     fields:
       transcription: 着物は、いつから？
       pronunciation: Kimono-wa, ítsu-kara?
+      meaning: When did the kimono originate?
     tags:
       - jgr1-3-2
   - id: b20748ee-34ac-4427-a9b8-8cba5e9b2273
@@ -11042,6 +11049,7 @@ clips:
     fields:
       transcription: 日本の着物は、平安時代に生まれました。
       pronunciation: Nihon-no kimono-wa, Heian-jídai-ni umaremáshita.
+      meaning: The Japanese kimono was born in the Heian period (794-1185).
       notes: |-
         umaremáshita = umareta
         umaremásu = umareru
@@ -11053,6 +11061,7 @@ clips:
     fields:
       transcription: この時代、男の人も女の人も、一番下に白い着物を着ました。「小袖」です。
       pronunciation: Kono jidai, otokonohitó-mo onnanohitó-mo, ichí-ban shita-ni shirói kimono-o kimáshita. "Kosode"-désu.
+      meaning: In this period, both men and women wore a white kimono at the very bottom. It is the "kosode".
       notes: |-
         kimáshita = kita
         kimásu = kiru
@@ -11066,6 +11075,7 @@ clips:
     fields:
       transcription: そして、その上に、袴をはきました。
       pronunciation: Soshite, sono ué-ni, hakamá-o hakimáshita.
+      meaning: Then, they wore hakama over the kosode.
       notes: |-
         hakimáshita = haita
         hakimásu = haku
@@ -11075,8 +11085,9 @@ clips:
     start: 00:50.31
     end: 00:55.973
     fields:
-      transcription: 女の人は、小袖の上に、着物をたくさん来ました。
+      transcription: 女の人は、小袖の上に、着物をたくさん着ました。
       pronunciation: Onnanohitó-wa, kosode-no ué-ni, kimono-o takusan kimáshita.
+      meaning: Women wore many kimonos on top of the kosode.
     tags:
       - jgr1-3-2
   - id: 031dcee9-5289-4180-8880-bdf740cddb9b
@@ -11085,6 +11096,7 @@ clips:
     fields:
       transcription: 夏はご枚くらい、冬は二十枚くらい着ました。
       pronunciation: Natsu-wa go-mai-kúrai, fuyú-wa ni-juu-mai-kúrai kimáshita.
+      meaning: In summer, they wore about 5 pieces of kimono, and in winter, about 20 pieces.
     tags:
       - jgr1-3-2
   - id: 1194004d-d516-4fe6-a5c1-53ed77a237c5
@@ -11093,6 +11105,7 @@ clips:
     fields:
       transcription: 一番下の「小袖」が、今の着物の始まりです。
       pronunciation: Ichi-ban-shita-no "kosode"-ga íma-no kimono-no hajimari-désu.
+      meaning: The kosode worn at the very bottom was the beginning of the modern kimono.
     tags:
       - jgr1-3-2
   - id: 36c1f69f-0e00-4175-b612-f9e68b28849a
@@ -11101,6 +11114,7 @@ clips:
     fields:
       transcription: 鎌倉時代や 室町時代には、女の人は、袴をはきませんでした。
       pronunciation: Kamakura-jídai-ya muromachi-jídai-ni-wa, onnanohitó-wa, hakamá-o hakimasén-deshita.
+      meaning: In the Kamakura and Muromachi periods, women did not wear hakama.
     tags:
       - jgr1-3-2
   - id: a47a174d-d23b-4f45-b31e-6acb1e23defa
@@ -11109,6 +11123,7 @@ clips:
     fields:
       transcription: きれいな小袖を、一番上に着ました 。
       pronunciation: Kírei-na kosode-o, ichi-ban ue-ni kimáshita.
+      meaning: They wore a beautiful kosode at the top.
     tags:
       - jgr1-3-2
   - id: bb66ce87-6084-4972-9966-5c327fe5a502
@@ -11117,6 +11132,7 @@ clips:
     fields:
       transcription: そして、小袖に、帯をしました。
       pronunciation: Soshite, kosode-ni, óbi-o shimáshita.
+      meaning: Then, they put an obi sash over the kosode.
     tags:
       - jgr1-3-2
   - id: c59bc0e5-05a7-4296-a9fc-af63dc562eef
@@ -11125,6 +11141,7 @@ clips:
     fields:
       transcription: 安土桃山時代には、小袖の上、にもう一枚小袖を着きました。
       pronunciation: Ázuchi Momoyama-jídai-ni-wa, kosode-no ué-ni, mou ichí-mai, kosode-o kimáshita.
+      meaning: In the Azuchi-Momoyama period, they wore another kosode on top of the kosode.
     tags:
       - jgr1-3-2
   - id: 9a2893e0-f07e-451c-a4be-b65b06c1d5b4
@@ -11133,6 +11150,7 @@ clips:
     fields:
       transcription: 江戸時代は長いですから、着物もいろいろあります。
       pronunciation: Edo-jídai-wa nagái-desu-kara, kimono-mo iroiro arimásu.
+      meaning: The Edo period was a long period, and there were also many different types of kimonos.
     tags:
       - jgr1-3-2
   - id: ee1f733c-c7dc-42f9-83f9-129cbe28c0e5
@@ -11141,6 +11159,7 @@ clips:
     fields:
       transcription: この時代の終わりには、今の着物や帯と同じものもありました。
       pronunciation: Kono jidai-no owari-ní-wa, íma-no kimono-ya óbi-to onaji monó-mo arimáshita.
+      meaning: At the end of this period, some of them were the same as today's kimonos and obis.
     tags:
       - jgr1-3-2
   - id: ea8c96ed-a8a9-4044-9260-ed8c077b53b9
@@ -11149,6 +11168,7 @@ clips:
     fields:
       transcription: 明治時代に、ヨーロッパから、洋服が来ました。
       pronunciation: Meiji-jídai-ni, Yooróppa-kara, youfuku-ga kimáshita.
+      meaning: In the Meiji Era, Western-style clothes came from Europe.
     tags:
       - jgr1-3-2
   - id: a24ed9d5-6bdf-464d-a776-bfe9e6de6e83
@@ -11157,6 +11177,7 @@ clips:
     fields:
       transcription: でも、明治時代、大正時代には、まだ、着物の人人がたくさんいました。
       pronunciation: Démo, Meiji-jídai, Taishou-jídai-ni-wa, máda, kimono-no hitó-ga takusan imáshita.
+      meaning: However, in the Meiji and Taisho periods, there were still many people wearing kimonos.
     tags:
       - jgr1-3-2
   - id: 60a08783-456e-4438-b7c1-8f10c7a3928e
@@ -11165,6 +11186,7 @@ clips:
     fields:
       transcription: 今、日本人は、あまり着物を着ません。洋服を着ます。
       pronunciation: Íma, nihonjín-wa, amari kimono-o kimasén. Youfuku-o kimásu.
+      meaning: Nowadays, Japanese do not wear kimonos very often. They wear western clothes.
     tags:
       - jgr1-3-2
   - id: a60d7092-aaff-4281-a656-b5d0ecda8dd8
@@ -11173,6 +11195,7 @@ clips:
     fields:
       transcription: では、着物は、いつ着ますか？
       pronunciation: Déwa, kimono-wa, ítsu kimásu ka?
+      meaning: So, when do you wear kimono?
     tags:
       - jgr1-3-2
   - id: 90e92f29-f8af-43fb-893a-6d137c4a915c
@@ -11181,6 +11204,7 @@ clips:
     fields:
       transcription: いつ着物を着ますか？
       pronunciation: Ítsu kimono-o kimásu ka?
+      meaning: When do you wear kimono?
     tags:
       - jgr1-3-2
   - id: 090f3af3-c1d1-4963-8f3d-196bd4e2e037
@@ -11189,6 +11213,7 @@ clips:
     fields:
       transcription: お宮参り
       pronunciation: O-miya-máiri
+      meaning: Visit to the shrine
     tags:
       - jgr1-3-2
   - id: 05e204f5-3dc1-42e3-b5a1-3ff65c41485a
@@ -11197,6 +11222,7 @@ clips:
     fields:
       transcription: 1ヶ月の赤ちゃん、おめでとう！
       pronunciation: Ik-ká-getsu-no áka-chan, omedetou!
+      meaning: Congratulations on your one-month-old baby!
     tags:
       - jgr1-3-2
   - id: 794cea20-b999-4803-aa6f-4d55d7d5f9aa
@@ -11205,6 +11231,7 @@ clips:
     fields:
       transcription: お父さんとお母さんと、神社へ行きます。
       pronunciation: O-tóu-san-to o-káa-san-to, jínja-e ikimásu.
+      meaning: You will go to a shrine with your mother and father.
     tags:
       - jgr1-3-2
   - id: 2c8b4c1f-6f22-42e4-99c0-35e4608e2e5f
@@ -11213,6 +11240,7 @@ clips:
     fields:
       transcription: 七五三
       pronunciation: Shichi-go-san
+      meaning: Shichigosan
     tags:
       - jgr1-3-2
   - id: 62daadb1-7649-48ed-9fdd-d37e30f1b280
@@ -11221,6 +11249,7 @@ clips:
     fields:
       transcription: 十一月十五日です。
       pronunciation: Juu-ichi-gatsú júu gó-nichi-desu.
+      meaning: November 15.
     tags:
       - jgr1-3-2
   - id: 7cf912d9-bd55-4d76-85aa-7a7151c5d9d9
@@ -11229,6 +11258,7 @@ clips:
     fields:
       transcription: 三歳の女の子、五歳の男の子、七歳の女の子、おめでとう！
       pronunciation: Sán-sai-no onnanóko, gó-sai-no otokónoko, naná-sai-no onnanóko, omedetou!
+      meaning: Congratulations to the 3-year-old girl, 5-year-old boy, and 7-year-old girl!
     tags:
       - jgr1-3-2
   - id: 323f57c5-1b22-4fda-a21f-9640b490a83b
@@ -11237,6 +11267,7 @@ clips:
     fields:
       transcription: みんな、神社へ行きます。
       pronunciation: Minna, jínja-e ikimásu.
+      meaning: Everyone goes to the shrine.
     tags:
       - jgr1-3-2
   - id: ba97795a-91a9-4141-a546-680f95dc9fa2
@@ -11245,6 +11276,7 @@ clips:
     fields:
       transcription: 成人式
       pronunciation: Sei-jín-shiki
+      meaning: Coming-of-Age Ceremony
     tags:
       - jgr1-3-2
   - id: 49d069b3-5e1f-4e16-8f3f-b25022e58b8e
@@ -11253,6 +11285,7 @@ clips:
     fields:
       transcription: 一月の第二日曜日です。
       pronunciation: Ichi-gatsu-no dai-ni-nichiyóubi-desu.
+      meaning: The second Sunday in January.
     tags:
       - jgr1-3-2
   - id: 0d76ba12-79aa-464e-aab4-21ca5b514bd3
@@ -11261,6 +11294,7 @@ clips:
     fields:
       transcription: 二十歳、おめでとう！
       pronunciation: Hátachi, omedetou!
+      meaning: Congratulations on turning 20!
     tags:
       - jgr1-3-2
   - id: 77e815a8-a834-4118-8a99-93bb444d0277
@@ -11271,6 +11305,7 @@ clips:
         二十歳は、大人です。
         もう、子供じゃありません。
       pronunciation: Hátachi-wa, otona-désu. Móu, kodomo-ja arimasén.
+      meaning: At twenty years old, you are an adult. You are not a child anymore.
     tags:
       - jgr1-3-2
   - id: 5b0df14b-e6bd-4378-877d-ed91eecc0b40
@@ -11279,6 +11314,7 @@ clips:
     fields:
       transcription: お酒もタバコも、いいですよ。
       pronunciation: O-sake-mo tabako-mo íi-desu yo.
+      meaning: Alcohol and cigarettes are okay.
     tags:
       - jgr1-3-2
   - id: f48bcbf8-2b75-41bc-938a-ee047146bf13
@@ -11287,6 +11323,7 @@ clips:
     fields:
       transcription: 大学の卒業式
       pronunciation: Daigaku-no sotsugyóu-shiki.
+      meaning: University Graduation Ceremony
     tags:
       - jgr1-3-2
   - id: ee29f589-ca37-4f31-89d5-3689cc72c908
@@ -11295,6 +11332,7 @@ clips:
     fields:
       transcription: 三月です。
       pronunciation: Sán-gatsu-desu.
+      meaning: March.
     tags:
       - jgr1-3-2
   - id: c0672f3f-f28b-4380-a374-08708155bdd3
@@ -11303,6 +11341,7 @@ clips:
     fields:
       transcription: 卒業おめでとう！
       pronunciation: Sotsugyou omedetou!
+      meaning: Congratulations on your graduation!
     tags:
       - jgr1-3-2
   - id: 1bb7d828-43ec-4494-bab5-306e0b20b4d4
@@ -11311,6 +11350,7 @@ clips:
     fields:
       transcription: 大変な勉強も、楽しいことも、たくさんありました。
       pronunciation: Taihen-na benkyou-mo, tanoshíi kotó-mo, takusan arimáshita.
+      meaning: We had a lot of hard study and a lot of fun.
     tags:
       - jgr1-3-2
   - id: dcbe6c4d-2f68-447e-be65-14a1743e70c4
@@ -11319,6 +11359,7 @@ clips:
     fields:
       transcription: 結婚式
       pronunciation: Kekkón-shiki
+      meaning: Wedding
     tags:
       - jgr1-3-2
   - id: c8d91501-9e97-4eeb-bdab-2f1acbfd665d
@@ -11327,6 +11368,7 @@ clips:
     fields:
       transcription: 結婚、おめでとうございます！
       pronunciation: Kekkon, omedetou gozaimásu!
+      meaning: Congratulations on your marriage!
     tags:
       - jgr1-3-2
   - id: 5a6e34d7-f786-4be9-a566-3633ee472e77
@@ -11335,6 +11377,7 @@ clips:
     fields:
       transcription: 花嫁さんは、打ち掛け。花婿さんは、羽織袴。
       pronunciation: Hanáyome-san-wa, uchikake. Hanámuko-san-wa, haori - hakama.
+      meaning: The bride wears Uchikake. The groom wears haori hakama.
     tags:
       - jgr1-3-2
   - id: ed1b18ee-1cf1-4eb4-9343-21b6f8d0b91d
@@ -11343,6 +11386,7 @@ clips:
     fields:
       transcription: お母さん達は、留袖。
       pronunciation: O-káa-san-tachi-wa, tomesode.
+      meaning: The mothers wore tomesode.
     tags:
       - jgr1-3-2
   - id: 83143d94-cdca-4020-890b-94ecb7c5f0c1
@@ -11351,6 +11395,7 @@ clips:
     fields:
       transcription: お父さん達だけ、洋服です。
       pronunciation: O-tóu-san-tachi-dake, youfuku-désu.
+      meaning: Only the fathers will be dressed in clothes.
     tags:
       - jgr1-3-2
   - id: 2958a047-246b-43bd-9043-32da9a21f542
@@ -11359,6 +11404,7 @@ clips:
     fields:
       transcription: モーニングを着ます。
       pronunciation: Móoningu-o kimásu.
+      meaning: I'm going to wear a morning gown.
     tags:
       - jgr1-3-2
   - id: 5cf9089e-aadc-42a8-85db-8856edb76f63
@@ -11367,6 +11413,7 @@ clips:
     fields:
       transcription: 着物を作ります！
       pronunciation: Kimono-o tsukurimásu!
+      meaning: We will make a kimono!
     tags:
       - jgr1-3-2
   - id: 2dbf673e-3bdf-4c0b-88f1-eb7a95e4d458
@@ -11375,6 +11422,7 @@ clips:
     fields:
       transcription: 着物は、一枚の布から作ります 。
       pronunciation: Kimono-wa ichí-mai-no nuno-kara tsukurimásu.
+      meaning: Kimono is made from a piece of cloth.
       notes: tsukurimásu = tsukúru
     tags:
       - jgr1-3-2
@@ -11384,6 +11432,7 @@ clips:
     fields:
       transcription: ①布を切ります。
       pronunciation: "Ichi: nuno-o kirimásu."
+      meaning: (1) Cut the cloth.
     tags:
       - jgr1-3-2
   - id: 9e8e73da-4f97-407e-a5aa-c4b6f0ebf4f4
@@ -11392,6 +11441,7 @@ clips:
     fields:
       transcription: ②縫います。
       pronunciation: "Ni: nuimásu."
+      meaning: (2) Sew.
       notes: nuimásu = núu
     tags:
       - jgr1-3-2
@@ -11401,6 +11451,7 @@ clips:
     fields:
       transcription: 着物を着ましょう！
       pronunciation: Kimono-o kimashóu!
+      meaning: Let's put on the kimono!
     tags:
       - jgr1-3-2
   - id: a30349da-4442-48fa-a2b2-681d18d3f457
@@ -11411,6 +11462,7 @@ clips:
         女の人
         ①足袋を履きます。
       pronunciation: "Onnanohitó. Ichi: tábi-o hakimásu."
+      meaning: (1) Put on a kimono.
       notes: hakimásu = haku
     tags:
       - jgr1-3-2
@@ -11420,6 +11472,7 @@ clips:
     fields:
       transcription: ②裾除けを着ます。
       pronunciation: "Ni: susoyoke-o kimásu."
+      meaning: (2) Put on the hemming.
     tags:
       - jgr1-3-2
   - id: 36cfd7c8-041a-422b-bb8c-77b9d73a01cb
@@ -11428,6 +11481,7 @@ clips:
     fields:
       transcription: ③肌襦袢を着ます。
       pronunciation: "San: hadajúban-o kimásu."
+      meaning: (3) Put on the underwear.
     tags:
       - jgr1-3-2
   - id: c1834c1e-b456-4298-9f20-2e2257e29de3
@@ -11436,6 +11490,7 @@ clips:
     fields:
       transcription: ④タオルを入れます。
       pronunciation: "Yón: táoru-o iremásu."
+      meaning: (4) Put in a towel.
     tags:
       - jgr1-3-2
   - id: c86b4b94-f3a4-479b-bcb9-d05f78ed0cef
@@ -11444,6 +11499,7 @@ clips:
     fields:
       transcription: ⑤長襦袢を着ます・
       pronunciation: "Go: nagajúban-o kimásu."
+      meaning: (5) Put on the long underwear.
     tags:
       - jgr1-3-2
   - id: b723850d-1bd5-4113-9e40-2d50ecfa6f48
@@ -11452,6 +11508,7 @@ clips:
     fields:
       transcription: ⑥着物を着ます。
       pronunciation: "Rokú: kimono-o kimásu."
+      meaning: (6) Put on the kimono
     tags:
       - jgr1-3-2
   - id: f2cc02e9-6222-467c-a914-5f4231210f7e
@@ -11460,6 +11517,7 @@ clips:
     fields:
       transcription: ⑦帯をします綺麗ですね。
       pronunciation: "Nána: óbi-o shimásu. Kírei-desu ne."
+      meaning: (7) Put on the obi (sash)
     tags:
       - jgr1-3-2
   - id: ec881c31-279e-41a4-be5c-1645303d7ffa
@@ -11470,6 +11528,7 @@ clips:
         男の人
         ①から⑥まで、女の人と同じです。
       pronunciation: Otokonohitó. Ichí-kara rokú-made, onnanohitó-to onaji-désu.
+      meaning: Men. (1) to (6) are the same as for women.
     tags:
       - jgr1-3-2
   - id: 03dc06f5-36f1-4d4a-a76c-15146473c2ef
@@ -11478,6 +11537,7 @@ clips:
     fields:
       transcription: ⑦ 袴をはきます
       pronunciation: "Nána: hakama-o hakimásu."
+      meaning: (7) Put on the hakama.
     tags:
       - jgr1-3-2
   - id: a28a9399-3d04-4c05-abab-9c783f4aade6
@@ -11486,6 +11546,7 @@ clips:
     fields:
       transcription: ⑧ 羽織を着ます。かっこいいですね。
       pronunciation: "Hachi: haori-o kimásu. Kakkoíi-desu ne."
+      meaning: (8) Put on the haori. It looks cool.
     tags:
       - jgr1-3-2
   - id: 3b101072-edd6-41f5-b251-850c03ea04a0
@@ -11494,6 +11555,7 @@ clips:
     fields:
       transcription: いいですか？だめですか？
       pronunciation: Íi-desu ka? Damé-desu ka?
+      meaning: Is it okay? No?
     tags:
       - jgr1-3-2
   - id: c30e9b34-9316-4473-85b3-261da54bb1e6
@@ -11502,6 +11564,7 @@ clips:
     fields:
       transcription: 右前に着ます。
       pronunciation: Migimae-ni kimásu.
+      meaning: Put it on right front.
     tags:
       - jgr1-3-2
   - id: b569f6f4-7387-4243-9fed-a2aec9fc317b
@@ -11510,6 +11573,7 @@ clips:
     fields:
       transcription: 髪を上げます。
       pronunciation: Kamí-o agemásu.
+      meaning: Put your hair up.
     tags:
       - jgr1-3-2
   - id: 186800b0-be39-4b17-bd03-9d88798d5983
@@ -11518,6 +11582,7 @@ clips:
     fields:
       transcription: 腕を出しません。
       pronunciation: Udé-o dashimasén.
+      meaning: Don't stick out your arms.
       notes: |-
         dashimasén = dasánai
         dashimásu = dásu
@@ -11529,6 +11594,7 @@ clips:
     fields:
       transcription: 小さく、静かに歩きます。
       pronunciation: Chíisaku shízuka-ni arukimásu.
+      meaning: Walk small and quietly.
       notes: arukimásu = arúku
     tags:
       - jgr1-3-2
@@ -11538,6 +11604,7 @@ clips:
     fields:
       transcription: 浴衣を着ましょう。
       pronunciation: Yukata-o kimashóu.
+      meaning: Put on a yukata.
     tags:
       - jgr1-3-2
   - id: 31d0759e-75f2-48c7-94cb-a4141aa74f0b
@@ -11546,6 +11613,7 @@ clips:
     fields:
       transcription: 浴衣は、夏の着物です。
       pronunciation: Yukata-wa, natsu-nó kimono-désu.
+      meaning: A yukata is a summer kimono.
     tags:
       - jgr1-3-2
   - id: cc5e6cd5-566c-413c-8e95-e9ac596e83ec
@@ -11554,6 +11622,7 @@ clips:
     fields:
       transcription: さあ、浴衣を着ましょう。
       pronunciation: Sáa, yukata-o kimashóu.
+      meaning: Let's put on a yukata.
     tags:
       - jgr1-3-2
   - id: ca12f8a7-3328-495c-91ae-5782e98a9d9f
@@ -11562,6 +11631,7 @@ clips:
     fields:
       transcription: そして、花火大会に行きましょう。
       pronunciation: Soshite, hanabi-táikai-ni ikimashóu.
+      meaning: And let's go to a fireworks display.
       notes: ikimashóu = ikóu
     tags:
       - jgr1-3-2
@@ -11589,6 +11659,7 @@ clips:
     fields:
       transcription: 何千年も前、エビの体は、まっすぐでした。
       pronunciation: Nan-zen-nen-mo máe, ebi-no karada-wa massúgu-deshita.
+      meaning: Thousands of years ago, the shrimp's body was straight.
     tags:
       - jgr1-3-3
   - id: f40c915d-6bed-4c86-ac67-d64cc5766604
@@ -11597,6 +11668,7 @@ clips:
     fields:
       transcription: でも、ある日、エビの体は曲がりました。
       pronunciation: Démo, áru-hi, ebi-no karada-wa magarimáshita.
+      meaning: But one day, the shrimp's body bent.
       notes: |-
         magarimáshita = magatta
         magarimásu = magaru
@@ -11608,6 +11680,7 @@ clips:
     fields:
       transcription: それは、どうしてでしょう？
       pronunciation: Sore-wa dóu shite deshóu?
+      meaning: Why is that?
     tags:
       - jgr1-3-3
   - id: 9291004e-2ab8-480d-af0a-5929996334f8
@@ -11616,6 +11689,7 @@ clips:
     fields:
       transcription: ある川に、とても大きいエビがいました。
       pronunciation: Áru kawá-ni, totemo ookíi ebi-ga imáshita.
+      meaning: There was a very large shrimp in a river.
       notes: |-
         imáshita = ita
         imásu = iru
@@ -11625,8 +11699,9 @@ clips:
     start: 00:47.297
     end: 00:50.611
     fields:
-      transcription: 川で、一番大きい海老でした。
+      transcription: 川で、一番大きいエビでした。
       pronunciation: Kawá-de, ichi-ban-ookíi ebi-déshita.
+      meaning: It was the biggest shrimp in the river.
     tags:
       - jgr1-3-3
   - id: f5410a82-b4d4-4cdd-906c-cdb5ce244668
@@ -11635,6 +11710,7 @@ clips:
     fields:
       transcription: エビは言いました。「もっと大きいものに会いたい」
       pronunciation: Ebi-wa iimáshita. "Mótto ookíi-mono-ni ai-tái."
+      meaning: The shrimp said, "I want to see something bigger. I want to see something bigger.
       notes: |-
         ai-tái = want to meet, see
         áu = meet, see
@@ -11646,6 +11722,7 @@ clips:
     fields:
       transcription: そうだ、海だ！海がいい。
       pronunciation: Sóu-da, úmi-da! Úmi-ga íi.
+      meaning: Yes, the ocean! The ocean is good.
     tags:
       - jgr1-3-3
   - id: e4e171f9-fb37-4f80-98f1-1e82fd6751d0
@@ -11654,6 +11731,7 @@ clips:
     fields:
       transcription: エビは、海へ行きました。
       pronunciation: Ebi-wa, úmi-e ikimáshita.
+      meaning: The shrimp went to the sea.
     tags:
       - jgr1-3-3
   - id: cfafedbb-19b0-4d2d-ab55-4d6a8f09ec5d
@@ -11662,6 +11740,7 @@ clips:
     fields:
       transcription: " 海の中には 、 海の中には、魚がたくさんいました。"
       pronunciation: Úmi-no náka-ni-wa, sakana-ga takusan imáshita.
+      meaning: In the sea, there were many fish.
     tags:
       - jgr1-3-3
   - id: 22a19125-aef1-4af3-ba31-6103d8ef4158
@@ -11670,6 +11749,7 @@ clips:
     fields:
       transcription: でも、大きい魚は、いませんでした。
       pronunciation: Démo, ookíi sakana-wa imasén-deshita.
+      meaning: But there were no big fish.
       notes: |-
         imasén-deshita = inakatta
         imasén = inai
@@ -11682,6 +11762,7 @@ clips:
     fields:
       transcription: 僕が一番大きい。もっと大きいものに会いたい。
       pronunciation: Bóku-ga ichi-ban-ookíi. Mótto ookíi-mono-ni ai-tái.
+      meaning: I am the biggest. I want to see something bigger.
     tags:
       - jgr1-3-3
   - id: 91edb520-9b6b-41d7-bf08-48156fb8e36e
@@ -11690,6 +11771,7 @@ clips:
     fields:
       transcription: エビは、海の中を歩きました。
       pronunciation: Ebi-wa úmi-no náka-o arukimáshita.
+      meaning: The shrimp walked in the sea.
     tags:
       - jgr1-3-3
   - id: de6a92df-5d0a-4e6f-ab70-9b5f2a688a4f
@@ -11698,6 +11780,7 @@ clips:
     fields:
       transcription: でも、もっと大きいものは、いませんでした。
       pronunciation: Démo, mótto ookíi monó-wa, imasén-deshita.
+      meaning: But there was nothing bigger.
     tags:
       - jgr1-3-3
   - id: e2bd88c7-de00-495c-b4a4-9a2e1dce13bb
@@ -11706,6 +11789,7 @@ clips:
     fields:
       transcription: エビは、また、海の中を歩きました。
       pronunciation: Ebi-wa matá úmi-no náka-o arukimáshita.
+      meaning: The shrimp walked in the sea again.
       notes: |-
         arukimáshita = arúita
         arukimásu = arúku
@@ -11717,6 +11801,7 @@ clips:
     fields:
       transcription: もっと大きいものは、いないなあ。
       pronunciation: Mótto ookíi-mono-wa, inai naa.
+      meaning: There's nothing bigger, huh!
     tags:
       - jgr1-3-3
   - id: 4bf25cce-2eda-42cd-a5cd-c666a9d5819b
@@ -11725,6 +11810,7 @@ clips:
     fields:
       transcription: もう、夜です。
       pronunciation: Móu yóru-desu.
+      meaning: It was already night.
     tags:
       - jgr1-3-3
   - id: 3821a66f-5286-4b36-91dc-d262d783c91b
@@ -11733,6 +11819,7 @@ clips:
     fields:
       transcription: エビは、とても疲れました。
       pronunciation: Ebi-wa, totemo tsukaremáshita.
+      meaning: The shrimp was very tired.
       notes: tsukaremáshita = tsukáreta
     tags:
       - jgr1-3-3
@@ -11742,6 +11829,7 @@ clips:
     fields:
       transcription: ああ、もう寝たいなあ
       pronunciation: Aa, móu ne-tái naa.
+      meaning: Oh, I want to sleep now!
     tags:
       - jgr1-3-3
   - id: f25b5ee7-3cce-45e8-9348-fa5a343f2e4b
@@ -11750,6 +11838,7 @@ clips:
     fields:
       transcription: エビの前に、穴がありました。
       pronunciation: Ebi-no máe-ni aná-ga arimáshita.
+      meaning: There was a hole in front of him.
     tags:
       - jgr1-3-3
   - id: 453b075d-c390-4f5d-8b07-3b68ac7260c2
@@ -11758,6 +11847,7 @@ clips:
     fields:
       transcription: あっ、ここがいい。ここで寝ましょう。
       pronunciation: A, koko-ga íi. Koko-de nemashóu.
+      meaning: Oh, this is a good place. Let's sleep here.
     tags:
       - jgr1-3-3
   - id: 3e650b71-8901-4511-8437-856e92675036
@@ -11766,6 +11856,7 @@ clips:
     fields:
       transcription: エビは、その穴の中で寝ました。
       pronunciation: Ebi-wa, sono ana-nó náka-de nemáshita.
+      meaning: The shrimp slept in the hole.
     tags:
       - jgr1-3-3
   - id: 5d1c511c-655b-439f-a777-4b00e92afb3d
@@ -11774,6 +11865,7 @@ clips:
     fields:
       transcription: 次の日の朝です。
       pronunciation: Tsugí-no hí-no ása-desu.
+      meaning: The next morning.
     tags:
       - jgr1-3-3
   - id: 73d76961-6d7e-4a3d-a4ba-ac3aa4a5ea7c
@@ -11782,6 +11874,7 @@ clips:
     fields:
       transcription: 鯨がいます。
       pronunciation: Kujira-ga imásu.
+      meaning: There is a whale.
     tags:
       - jgr1-3-3
   - id: 63ccf974-89ac-46e2-8405-0b93c58a165e
@@ -11791,7 +11884,9 @@ clips:
       transcription: |-
         ん？鼻が…。あれ？鼻の中が…。
         は、は、はくしょーん！
+        鯨が、くしゃみをしました。
       pronunciation: '"N? Hana-ga... Are? Hana-no náka-ga... Ha, ha, hakkushon!" Kujira-ga, kushamí-o shimáshita.'
+      meaning: Hmm? The nose... Huh? The inside of his nose.... A, a, a-choo!
     tags:
       - jgr1-3-3
   - id: 1396f638-3bc9-4985-9d91-79d744955958
@@ -11800,6 +11895,7 @@ clips:
     fields:
       transcription: 痛い‼︎
       pronunciation: Itái!
+      meaning: Ouch ‼︎
       notes: Literally, "[It]'s painful!"
     tags:
       - jgr1-3-3
@@ -11809,6 +11905,7 @@ clips:
     fields:
       transcription: それから、エビの体は曲がりました。
       pronunciation: Sore-kara, ebi-no karada-wa magarimáshita.
+      meaning: Then the shrimp's body bent.
     tags:
       - jgr1-3-3
 ---
@@ -11823,6 +11920,7 @@ clips:
     fields:
       transcription: どうして猫年がない？
       pronunciation: Dóu shite neko-doshi-ga nái.
+      meaning: Why is there no Year of the Cat?
     tags:
       - jgr1-3-4
   - id: 8649e909-5a1d-4723-b5a9-94f4951c6c67
@@ -11831,6 +11929,7 @@ clips:
     fields:
       transcription: あなたは、何年に生まれましたか？
       pronunciation: Anáta-wa, nán-nen-ni umaremáshita ka?
+      meaning: What year were you born?
       notes: |-
         umaremáshita = umareta
         umaremásu = umareru
@@ -11842,6 +11941,7 @@ clips:
     fields:
       transcription: 1994年です。
       pronunciation: Sén kyúu-haku kyúu-juu yo-nen-desu.
+      meaning: It is 1994.
     tags:
       - jgr1-3-4
   - id: 1db2b74a-b956-48ac-ad38-97d47c4c50d8
@@ -11850,6 +11950,7 @@ clips:
     fields:
       transcription: いぬ年生まれですよ。
       pronunciation: Inu-doshi-úmare-desu yo.
+      meaning: I was born in the Year of the Dog.
     tags:
       - jgr1-3-4
   - id: 05ad5d74-4023-40a5-a2bf-a76e10910be3
@@ -11858,6 +11959,7 @@ clips:
     fields:
       transcription: 私は、1992年に生まれましたから、さる年です
       pronunciation: Watashi-wa, sén kyúu-hyaku kyúu-juu ní-nen-ni umaremáshita-kara, saru-doshi-désu.
+      meaning: I was born in 1992, so I am the Year of the Monkey.
     tags:
       - jgr1-3-4
   - id: 4f6c0f40-12de-4ad3-a1e8-ee0c92ba86de
@@ -11866,6 +11968,7 @@ clips:
     fields:
       transcription: いぬ？さる？年に動物の名前？
       pronunciation: Inú? Sáru? Toshí-ni, doubutsu-no namae?
+      meaning: Dog? Monkey? Animal names for the year?
     tags:
       - jgr1-3-4
   - id: 7e2b2ee2-abc4-4f1b-a802-7f290899e535
@@ -11874,6 +11977,7 @@ clips:
     fields:
       transcription: 日本では、年に動物の名前があります。
       pronunciation: Nihón-de-wa, toshí-ni doubutsu-no namae-ga arimásu.
+      meaning: In Japan, we have animal names for the year.
     tags:
       - jgr1-3-4
   - id: 01f33a73-750f-489c-a7f1-ebb68f70a0ec
@@ -11882,6 +11986,7 @@ clips:
     fields:
       transcription: 皆さんの国でも、ありますか？
       pronunciation: Mina-san-no kuní-de-mo, arimásu ka?
+      meaning: Do you have one in your country, too?
     tags:
       - jgr1-3-4
   - id: 3d0692ef-b863-4a6c-95c0-149930f03950
@@ -11890,6 +11995,7 @@ clips:
     fields:
       transcription: 動物は全部で十二です。
       pronunciation: Doubutsu-wa, zénbu-de juu-ní-desu.
+      meaning: There are 12 animals in total.
     tags:
       - jgr1-3-4
   - id: 9c3eef1a-c4ea-4a4d-a72a-00a637485aaa
@@ -11901,6 +12007,7 @@ clips:
         うし
         とら
       pronunciation: Nezumi, ushi, tora.
+      meaning: Rat, Ox, Tiger.
     tags:
       - jgr1-3-4
   - id: cd35b8d8-3f0d-4621-b55f-0674b62d2c5f
@@ -11912,6 +12019,7 @@ clips:
         たつ
         へび
       pronunciation: Usagi, tatsu, hébi.
+      meaning: Rabbit, Dragon, Snake.
     tags:
       - jgr1-3-4
   - id: cab3db12-96fc-42b0-9436-f66a8fe42330
@@ -11923,6 +12031,7 @@ clips:
         ひつじ
         さる
       pronunciation: Umá, hitsuji, sáru.
+      meaning: Horse, Sheep, Monkey.
     tags:
       - jgr1-3-4
   - id: d3e16c0d-4218-47cf-ba54-5782e901e173
@@ -11934,6 +12043,7 @@ clips:
         いぬ
         いのししです。
       pronunciation: Tori, inú, inoshíshi-desu.
+      meaning: Rooster, Dog, and Boar.
     tags:
       - jgr1-3-4
   - id: 672df7bd-d8e6-44df-83cc-63ed280db970
@@ -11942,6 +12052,7 @@ clips:
     fields:
       transcription: 十二の中に、「ねこ」はいません。
       pronunciation: Juu-ní-no náka-ni, "néko"-wa imasén.
+      meaning: There is no "cat" among the twelve.
     tags:
       - jgr1-3-4
   - id: 3055e19b-c46d-4f56-a8ee-5ab8ee968382
@@ -11950,6 +12061,7 @@ clips:
     fields:
       transcription: それは、どうしてでしょう。
       pronunciation: Sore-wa, dóu shite deshóu?
+      meaning: Why is that?
     tags:
       - jgr1-3-4
   - id: e49a383d-ec81-438e-a705-141783182f9e
@@ -11958,6 +12070,7 @@ clips:
     fields:
       transcription: とても古い話です。
       pronunciation: Totemo furúi hanashí-desu.
+      meaning: It is a very old story.
     tags:
       - jgr1-3-4
   - id: b47a45f8-ad84-4b70-b014-afe739bd0629
@@ -11966,6 +12079,7 @@ clips:
     fields:
       transcription: 一年の終わり、十二月三十一日の朝、神様が、動物たちに言いました。
       pronunciation: Ichí-nen-no owari, juu-ni-gatsú sán-juu ichi-nichí-no ása, kámi-sama-ga doubutsú-tachi-ni iimáshita.
+      meaning: At the end of the year, on the morning of December 31, God said to the animals, "Tomorrow is January 1.
     tags:
       - jgr1-3-4
   - id: cc2e99e2-82ae-440a-a68a-0b0dadbc240d
@@ -11974,6 +12088,7 @@ clips:
     fields:
       transcription: 明日は、一月一日です。
       pronunciation: Ashitá-wa, ichi-gatsú tsuitachí-desu.
+      meaning: Tomorrow is January 1st.
     tags:
       - jgr1-3-4
   - id: 473d9d9d-bc12-4fe2-8f91-47a69e6dda3f
@@ -11982,6 +12097,7 @@ clips:
     fields:
       transcription: 新しい年が始まります。
       pronunciation: Atarashíi toshí-ga hajimarimásu.
+      meaning: A new year is beginning.
       notes: hajimarimásu = hajimaru
     tags:
       - jgr1-3-4
@@ -11991,6 +12107,7 @@ clips:
     fields:
       transcription: 明日の朝、私の家へ皆来なさい。
       pronunciation: Ashita-nó ása, watashi-no ié-e minna ki-nasái.
+      meaning: Tomorrow morning, come to my house.
       notes: ki-nasái = kítte kudasái, with a parental tone
     tags:
       - jgr1-3-4
@@ -12000,6 +12117,7 @@ clips:
     fields:
       transcription: 早く来なさい。
       pronunciation: Háyaku ki-nasái.
+      meaning: Come quickly.
     tags:
       - jgr1-3-4
   - id: b247b43b-a4ea-41ee-b3e2-ba7b4ae7f3bc
@@ -12008,6 +12126,7 @@ clips:
     fields:
       transcription: 一番の動物に、新しい年をあげます。
       pronunciation: Ichí-ban-no doubutsu-ni, atarashíi toshí-o agemásu.
+      meaning: I will give the new year to the first animal.
       notes: agemásu = ageru
     tags:
       - jgr1-3-4
@@ -12017,6 +12136,7 @@ clips:
     fields:
       transcription: 二番の動物に、次の年をあげます。
       pronunciation: Ní-ban-no doubutsu-ni, tsugí-no toshí-o agemásu.
+      meaning: To the second animal I will give the next year.
     tags:
       - jgr1-3-4
   - id: 133ee535-6463-430f-be57-a11736cd7c79
@@ -12025,6 +12145,7 @@ clips:
     fields:
       transcription: 三番の動物に、その次の年をあげます。
       pronunciation: San-ban-no doubutsu-ni, sono tsugí-no toshí-o agemásu.
+      meaning: To the third animal, I will give the next year.
     tags:
       - jgr1-3-4
   - id: ec6a3f12-fa46-4fa2-8707-dc7c9776ccdc
@@ -12033,6 +12154,7 @@ clips:
     fields:
       transcription: 十二番の動物まで、年をあげます。
       pronunciation: Juu-ní-ban-no doubutsu-máde, toshí-o agemásu.
+      meaning: I will give the year to animal number twelve.
     tags:
       - jgr1-3-4
   - id: 90a89410-c31a-4bbd-9550-bcb2b0949532
@@ -12041,6 +12163,7 @@ clips:
     fields:
       transcription: 動物たちは、神様の話を聞きました。
       pronunciation: Doubutsú-tachi-wa, kámi-sama-no hanashí-o kikimáshita.
+      meaning: The animals listened to God's story.
     tags:
       - jgr1-3-4
   - id: 1d0ae478-52de-4bc5-a6b8-aa8dca74d379
@@ -12049,6 +12172,7 @@ clips:
     fields:
       transcription: でも、猫は…。
       pronunciation: Démo, néko-wa...
+      meaning: But as for the cat...
     tags:
       - jgr1-3-4
   - id: 9a3abf11-bbaf-4610-921c-60064fe2f747
@@ -12057,6 +12181,7 @@ clips:
     fields:
       transcription: 神様の話が終わりました。
       pronunciation: Kámi-sama-no hanashí-ga owarimáshita.
+      meaning: God's speech ended.
     tags:
       - jgr1-3-4
   - id: 16ac41e9-d26b-476b-9297-74aa8f1671fd
@@ -12065,6 +12190,7 @@ clips:
     fields:
       transcription: 猫が起きました。
       pronunciation: Néko-ga okimáshita.
+      meaning: The cat woke up.
       notes: |-
         okimáshita = ókita
         okimásu = okíru
@@ -12078,6 +12204,7 @@ clips:
         猫は、ねずみに聞きました。
         「ねずみさん、神様の話は、何でしたか？」
       pronunciation: Néko-wa, nezumi-ni kikimáshita. "Nezumi-san, kámi-sama-no hanashí-wa, nán-deshita ka?"
+      meaning: The cat asked the mouse, "What did God have to say, Mr. Rat?"
     tags:
       - jgr1-3-4
   - id: 474e0808-870d-4e64-ae82-a709496bc7cd
@@ -12090,6 +12217,7 @@ clips:
         「十二？」
         「そうです。十二です」
       pronunciation: Nezumi-wa, kotaemáshita. "Toshi-nó hanashí-deshita. Juu-ní-no doubutsu-ga, toshí-o moraimásu." "Juu-ní?" "Sóu-desu. Juu-ní-desu."
+      meaning: The mouse answered, "It was about years. Twelve animals get a new year." "Twelve?" "That's right. Twelve."
       notes: |-
         kotaemáshita = kotáeta
         kotaemásu = kotáeru
@@ -12101,6 +12229,7 @@ clips:
     fields:
       transcription: 「一月一日に…、あっ、いいえ。一月二日に、みんな、神様の家へ行きます。
       pronunciation: Ichi-gatsú tsuitachí-ni... A', iie. Ichi-gatsú futsu-ka-ni, minna, kámi-sama-no ié-e ikimásu.
+      meaning: On January 1st... On January 2nd, everyone goes God's house.
     tags:
       - jgr1-3-4
   - id: 41c15076-7338-48b1-8854-2f968a0d145e
@@ -12109,6 +12238,7 @@ clips:
     fields:
       transcription: 一番から十二番までの動物が、年をもらいます。
       pronunciation: Ichí-ban-kara juu-ní-ban-made-no doubutsu-ga, toshí-o moraimásu.
+      meaning: The animals from the first to the twelfth get the year.
     tags:
       - jgr1-3-4
   - id: 38d87fe7-c857-49ff-9898-f13abfed7a57
@@ -12117,6 +12247,7 @@ clips:
     fields:
       transcription: そうですか。一月二日ですね。ありがとう。
       pronunciation: Sóu-desu ka. Ichi-gatsú futsu-ka-désu ne. Arígatou.
+      meaning: I see. January 2nd. Thank you.
     tags:
       - jgr1-3-4
   - id: 7f7507ce-6353-4dbe-8761-510c251736fd
@@ -12125,6 +12256,7 @@ clips:
     fields:
       transcription: 十二月三十一日の夜です。
       pronunciation: Juu-ni-gatsú san-júu ichi-nichi-nó yóru-desu.
+      meaning: It is the night of December 31.
     tags:
       - jgr1-3-4
   - id: c1d2dbf0-317b-4195-9123-3899aff56542
@@ -12135,6 +12267,7 @@ clips:
         牛が、言いました。
         「僕は、これから、家を出ます」
       pronunciation: Ushi-ga, iimáshita. "Bóku-wa, kore-kara, ié-o demásu."
+      meaning: The ox said, "I am leaving home now. I'm leaving home now."
       notes: demásu = déru
     tags:
       - jgr1-3-4
@@ -12144,6 +12277,7 @@ clips:
     fields:
       transcription: ゆっくり歩きますから。
       pronunciation: Yukkúri arukimásu-kara.
+      meaning: I will walk slowly.
     tags:
       - jgr1-3-4
   - id: 72169fd2-744e-4eee-9afa-80013bb12599
@@ -12154,6 +12288,7 @@ clips:
         ねずみは、屋根の上で、牛の言葉を聞きました。
         そして、牛に乗りました。
       pronunciation: Nezumi-wa, yáne-no ué-de, ushi-no kotobá-o kikimáshita. Soshite, ushi-ni norimáshita.
+      meaning: The mouse heard the ox's words on the roof. Then, he got on the ox.
       notes: |-
         kikimáshita = kiita
         norimáshita = notta
@@ -12165,6 +12300,7 @@ clips:
     fields:
       transcription: 一月一日の朝です。神様の家の前に、牛がいます。
       pronunciation: Ichi-gatsú tsuitachi-nó ása-desu. Kámi-sama-no ie-nó máe-ni, ushi-ga imásu.
+      meaning: It is the morning of January 1st. There is an ox in front of God's house.
     tags:
       - jgr1-3-4
   - id: 39d402d2-46eb-4783-ad86-d6b87cbc8838
@@ -12173,6 +12309,7 @@ clips:
     fields:
       transcription: 門が開きました。
       pronunciation: Món-ga akimáshita.
+      meaning: The gate has opened.
       notes: |-
         akimáshita = aita
         akimásu = aku
@@ -12184,6 +12321,7 @@ clips:
     fields:
       transcription: ねずみが、牛から降りました。
       pronunciation: Nezumi-ga, ushi-kara orimáshita.
+      meaning: The mouse got off the ox.
       notes: |-
         orimáshita = órita
         orimásu = oríru
@@ -12195,6 +12333,7 @@ clips:
     fields:
       transcription: そして、門の中に入りました。
       pronunciation: Soshite, món-no náka-ni hairimáshita.
+      meaning: And he entered the gate.
       notes: |-
         hairimáshita = háitta
         hairimásu = háiru
@@ -12206,6 +12345,7 @@ clips:
     fields:
       transcription: ねずみが一番です。次が、牛です。三番は虎でした。
       pronunciation: Nezumi-ga ichí-ban-desu. Tsugí-ga, ushi-désu. San-ban-wa, tora-déshita.
+      meaning: The mouse is first. Next was the ox. The third was a tiger.
     tags:
       - jgr1-3-4
   - id: 92c31e3c-1dda-4099-a6b6-b87230531cea
@@ -12224,6 +12364,7 @@ clips:
         犬
         猪が来ました
       pronunciation: Sore-kara, usagi, tatsu, hébi, umá, hitsuji, sáru, tori, inú, inoshíshi-ga kimáshita.
+      meaning: Then came the rabbit, the dragon, the snake, the horse, the sheep, the monkey, the rooster, the dog, and the boar.
       notes: |-
         kimáshita = kíta
         kimásu = kúru
@@ -12237,6 +12378,7 @@ clips:
         神様は、言いました。
         「あなた達に、年をあげます」
       pronunciation: Kámi-sama-wa iimáshita."Anáta-tachi-ni, toshí-o agemásu."
+      meaning: God said, "I will give you a new year. I give you the year.
     tags:
       - jgr1-3-4
   - id: 67e10a24-9902-402e-877d-d120f1869b81
@@ -12245,6 +12387,7 @@ clips:
     fields:
       transcription: 次の日、一月二日の朝早く、猫が来ました。
       pronunciation: Tsugí-no hi, ichi-gatsú futsu-ka-no ása háyaku, néko-ga kimáshita.
+      meaning: The next day, January 2nd, the cat came early in the morning.
     tags:
       - jgr1-3-4
   - id: 888b35a7-83a0-4ef4-99fa-048e2a7adf82
@@ -12255,6 +12398,7 @@ clips:
         猫は、神様に言いました。
         「神様、私が一番ですね」
       pronunciation: Néko-wa, kámi-sama-ni iimáshita. "Kámi-sama, watashi-ga ichí-ban-desu ne."
+      meaning: The cat said to God, "God, I am the best. I am the first."
     tags:
       - jgr1-3-4
   - id: bc7bec1a-d50e-4db8-a272-de94351e5669
@@ -12265,6 +12409,7 @@ clips:
         神様は、言いました。
         「いいえ。一番は、ねずみですよ」
       pronunciation: Kámi-sama-wa iimáshita. "Iie, ichí-ban-wa nezumi-désu yo."
+      meaning: God said. God said, "No, the first was the mouse."
     tags:
       - jgr1-3-4
   - id: c8e6ce2f-eef0-4ffe-b6d9-3e4deca8cd33
@@ -12273,6 +12418,7 @@ clips:
     fields:
       transcription: 今年は、ねずみの年です。
       pronunciation: Kotoshi-wa, nezumi-no toshí-desu.
+      meaning: This year is the year of the mouse.
     tags:
       - jgr1-3-4
   - id: 7352cb18-aff4-441a-8d6c-71de10008ad5
@@ -12283,6 +12429,7 @@ clips:
         猫は、言いました。
         「じゃ、私は、二番ですね」
       pronunciation: Néko-wa iimáshita. "Ja, watashi-wa, ní-ban-desu ne."
+      meaning: The cat said, "Well then, I am number two."
     tags:
       - jgr1-3-4
   - id: 70fae07b-de52-4062-8d79-1543775172f7
@@ -12291,6 +12438,7 @@ clips:
     fields:
       transcription: いいえ。みんな、昨日来ましたよ。あなたは、来ませんでしたね。
       pronunciation: Iie, minna, kinou kimáshita yo. Anáta-wa kimasén-deshita ne.
+      meaning: No. They all came yesterday. You didn't come, did you?
     tags:
       - jgr1-3-4
   - id: 57ab8faf-062e-4a1f-87cb-4c6031ccbb7c
@@ -12303,6 +12451,7 @@ clips:
         「こらっ、ねずみ‼︎」
         「わあーっ、猫だ‼︎」
       pronunciation: "\"E? Kinou-désu-ka?\" Néko-wa, súgu-ni, nezumi-mo ié-e ikimáshita. \"Kora', nezumi!!\" \"Waa', néko-da!\""
+      meaning: "\"Huh? Yesterday?\" The cat immediately went to the mouse's house. \"Hey, rat!\" \"Ah, it's the cat !\""
     tags:
       - jgr1-3-4
   - id: 36556ca6-0146-4f46-ad10-00e0a4d173af
@@ -12311,6 +12460,7 @@ clips:
     fields:
       transcription: ですから、猫の年は、ありません。
       pronunciation: Désu-kara, néko-no toshí-wa, arimasén.
+      meaning: That's why there is no year of the cat.
     tags:
       - jgr1-3-4
   - id: 07c4cee7-4be8-4308-866f-373e2d322624
@@ -12319,6 +12469,7 @@ clips:
     fields:
       transcription: そして、今も、猫は、ねずみが嫌いです。
       pronunciation: Soshite, íma-mo, néko-wa, nezumi-ga kirai-désu.
+      meaning: And even now, the cat hates the rat.
     tags:
       - jgr1-3-4
 ---
@@ -12333,8 +12484,8 @@ clips:
     fields:
       transcription: 舌切り雀
       pronunciation: Shita-kiri-súzume
-    tags:
-      &a1
+      meaning: Tongue-Cut Sparrow
+    tags: &a1
       - jgr1-3-5
   - id: 70410584-ed42-414e-8161-9e788821202d
     start: 00:10.3
@@ -12342,6 +12493,7 @@ clips:
     fields:
       transcription: これは、日本の古い話です。
       pronunciation: Kore-wa Nihon-nó furúi hanashí-desu.
+      meaning: This is an old Japanese story.
     tags:
       - jgr1-3-5
   - id: ea484c46-b526-4fdb-b856-ef7b67aa6b48
@@ -12350,6 +12502,7 @@ clips:
     fields:
       transcription: あるところに、おじいさんとおばあさんがいました。
       pronunciation: Áru tokoró-ni, o-jíi-san-to o-báa-san-ga imáshita.
+      meaning: In a certain place, there was an old man and an old woman.
     tags:
       - jgr1-3-5
   - id: d97f73e0-63d8-4e5f-8898-ea9a2a900a71
@@ -12358,6 +12511,7 @@ clips:
     fields:
       transcription: おじいさんは、毎日、山へ行きます。
       pronunciation: O-jíi-san-wa, máinichi, máinichi, yamá-e ikimásu.
+      meaning: The grandfather went to the mountain every day.
     tags:
       - jgr1-3-5
   - id: c7570610-a044-4e8c-8979-f50b951ef055
@@ -12366,6 +12520,7 @@ clips:
     fields:
       transcription: 山には、雀がたくさんいます。
       pronunciation: Yamá-ni-wa, suzume-ga takusan imásu.
+      meaning: There were many sparrows in the mountain.
     tags:
       - jgr1-3-5
   - id: 98bae8f6-f319-4f8c-b229-f180416846d0
@@ -12374,6 +12529,7 @@ clips:
     fields:
       transcription: 一羽の雀が、おじいさんの近くへ来ました。
       pronunciation: Ichí-wa-no suzume-ga, ojíi-san-no chíkaku-e kimáshita.
+      meaning: One sparrow came near the grandfather.
     tags:
       - jgr1-3-5
   - id: 5358462c-6c06-4152-8734-5d36ac411342
@@ -12382,6 +12538,7 @@ clips:
     fields:
       transcription: チュン、チュン
       pronunciation: Chun, chun
+      meaning: Cheep, cheep!
     tags: *a1
   - id: bfdf844a-2833-4910-ab0e-98387cf92945
     start: 00:45.701
@@ -12391,6 +12548,7 @@ clips:
       pronunciation: |-
         O-jíi-san-wa iimáshita.
         Kawaíi suzume-da.
+      meaning: The old man said, "What a cute sparrow."
     tags:
       - jgr1-3-5
   - id: a68d8eeb-a377-4571-b05e-7a54cefd2986
@@ -12399,6 +12557,7 @@ clips:
     fields:
       transcription: おじいさんは、雀と家へ帰りました。
       pronunciation: O-jíi-san-wa suzume-to ié-e kaerimáshita.
+      meaning: The old man went home with the sparrow.
     tags:
       - jgr1-3-5
   - id: 6f57385f-b801-4835-8a05-96561b5e5c6b
@@ -12407,6 +12566,7 @@ clips:
     fields:
       transcription: おじいさんは、毎日、雀と遊びます。
       pronunciation: O-jíi-san-wa máinichi suzume-to asobimásu.
+      meaning: The old man played with the sparrow every day.
     tags:
       - jgr1-3-5
   - id: c0ae4f85-8c75-4b8e-a6eb-88c2e6425586
@@ -12415,6 +12575,7 @@ clips:
     fields:
       transcription: でも、おばあさんは、雀が嫌いでした。
       pronunciation: Démo, o-báa-san-wa, suzume-ga kirai-déshita.
+      meaning: But the old woman didn't like sparrows.
     tags:
       - jgr1-3-5
   - id: 6eb7219b-e80e-4abc-921b-0a656bebbe3f
@@ -12423,6 +12584,7 @@ clips:
     fields:
       transcription: おじいさんは、今日も、山へ行きます。
       pronunciation: O-jíi-san-wa, kyóu-mo, yamá-e ikimásu.
+      meaning: The old man went to the mountain again today.
     tags:
       - jgr1-3-5
   - id: 447f205e-4bf2-4ffd-b2d7-d22dae6ce5f4
@@ -12431,6 +12593,7 @@ clips:
     fields:
       transcription: おばあさんは、洗濯をします。
       pronunciation: O-báa-san-wa, sentaku-o shimásu.
+      meaning: The old woman does the laundry.
     tags:
       - jgr1-3-5
   - id: 750a2820-e43c-4880-bb2e-cd8795682819
@@ -12439,6 +12602,7 @@ clips:
     fields:
       transcription: おばあさんは、ご飯で、洗濯のりを作りました。
       pronunciation: O-báa-san-wa, góhan-de, sentaku-nóri-o tsukurimáshita.
+      meaning: The old lady made laundry glue from rice.
     tags:
       - jgr1-3-5
   - id: 72a85dc4-dacb-4b50-9cc5-654773c5a4bd
@@ -12447,6 +12611,7 @@ clips:
     fields:
       transcription: そして、洗濯のりを、着物につけました。
       pronunciation: Soshite, sentaku-nóri-o, kimono-ni tsukemáshita.
+      meaning: Then she put the laundry starch on her kimono.
     tags:
       - jgr1-3-5
   - id: 5c80e864-78ff-49db-aca0-8c49f0e4a2b2
@@ -12455,6 +12620,7 @@ clips:
     fields:
       transcription: チュン、チュン
       pronunciation: Chun, chun
+      meaning: Cheep, cheep
     tags:
       - jgr1-3-5
   - id: b8933291-55cf-4b87-a43d-815d15d22aee
@@ -12463,6 +12629,7 @@ clips:
     fields:
       transcription: 雀は、家の近くで遊びます。
       pronunciation: Suzume-wa, ie-nó chíkaku-de asobimásu.
+      meaning: The sparrow plays near the house.
     tags:
       - jgr1-3-5
   - id: 9f2dc711-776a-44b1-9066-ec2d92abb6bb
@@ -12471,6 +12638,7 @@ clips:
     fields:
       transcription: 雀は、おばあさんの洗濯のりを見ました。
       pronunciation: Suzume-wa, o-báa-san-no sentaku-nóri-o mimáshita.
+      meaning: The sparrow looks at the old woman's laundry glue.
     tags:
       - jgr1-3-5
   - id: 4fd1456b-2d5c-409f-a471-b958fa0922e4
@@ -12479,6 +12647,7 @@ clips:
     fields:
       transcription: あ、いいものがありますね。
       pronunciation: A, íi-mono-ga arimásu-ne.
+      meaning: Oh, there is something nice.
     tags:
       - jgr1-3-5
   - id: 0cf61267-305b-404f-9383-437a9223ed3b
@@ -12487,6 +12656,7 @@ clips:
     fields:
       transcription: 雀は、洗濯のりを少し食べました。
       pronunciation: Suzume-wa, sentaku-nóri-o sukóshi tabemáshita.
+      meaning: Sparrow eats some of the laundry glue.
     tags:
       - jgr1-3-5
   - id: 151c5696-ae84-4144-960b-15f3ad409dfd
@@ -12495,6 +12665,7 @@ clips:
     fields:
       transcription: おいしい！
       pronunciation: Oishii!
+      meaning: It was delicious!
     tags:
       - jgr1-3-5
   - id: 6155e39e-2911-47a5-90f7-cf3442afffdf
@@ -12503,6 +12674,7 @@ clips:
     fields:
       transcription: 雀は、洗濯のりを、もっと食べました。
       pronunciation: Suzume-wa, sentaku-nóri-o, mótto tabemáshita.
+      meaning: Sparrow eats some more laundry glue.
     tags:
       - jgr1-3-5
   - id: fbf49242-f2e4-4ec7-9efc-a550b0a9c6e9
@@ -12511,6 +12683,7 @@ clips:
     fields:
       transcription: おいしい、おいしい。
       pronunciation: Oishii, oishii
+      meaning: Yummy, yummy, yummy.
     tags:
       - jgr1-3-5
   - id: a5db389c-7422-4a8f-bb6c-c94f766aab65
@@ -12519,6 +12692,7 @@ clips:
     fields:
       transcription: おばあさんが、後ろを見ました。
       pronunciation: O-báa-san-ga, ushiro-o mimáshita.
+      meaning: The grandmother looked behind her.
     tags:
       - jgr1-3-5
   - id: 52ab904c-ac8f-4761-8a83-ebac01a021f2
@@ -12527,6 +12701,7 @@ clips:
     fields:
       transcription: 雀がいます。
       pronunciation: Suzume-ga imásu.
+      meaning: There is a sparrow.
     tags:
       - jgr1-3-5
   - id: 2bfaf44f-f747-47ad-bb7d-1c023d7ab016
@@ -12535,6 +12710,7 @@ clips:
     fields:
       transcription: こらっ！私の洗濯のりを食べましたね。悪い雀だ！
       pronunciation: Kora'! Watashi-no sentaku-nóri-o tabemáshita-ne. Warúi suzume-da!
+      meaning: Hey! You ate my laundry starch. Bad sparrow!
     tags:
       - jgr1-3-5
   - id: 8c1ed587-adb3-46f3-b41a-aa6a15bab298
@@ -12543,6 +12719,7 @@ clips:
     fields:
       transcription: おばあさんは、雀の舌を切りました。
       pronunciation: O-báa-san-wa, suzume-no shitá-o kirimáshita.
+      meaning: She cut the sparrow's tongue out.
     tags:
       - jgr1-3-5
   - id: a0d25377-acb4-4b25-bb65-480af87bc3c1
@@ -12551,6 +12728,7 @@ clips:
     fields:
       transcription: 痛い、痛い。
       pronunciation: Itái, itái
+      meaning: Ouch, ouch.
     tags:
       - jgr1-3-5
   - id: dda78f55-5a2f-48aa-9e3e-7bb686a24075
@@ -12559,6 +12737,7 @@ clips:
     fields:
       transcription: 雀は、山へ帰りました。
       pronunciation: Suzume-wa, yamá-e kaerimáshita.
+      meaning: The sparrow went back to the mountain.
     tags:
       - jgr1-3-5
   - id: d85c700c-a976-43a3-b48c-726bd10f17bf
@@ -12567,6 +12746,7 @@ clips:
     fields:
       transcription: おじいさんが、山から帰りました。
       pronunciation: O-jíi-san-ga, yamá-kara kaerimáshita.
+      meaning: Grandpa came back from the mountain.
     tags:
       - jgr1-3-5
   - id: 87a49fb6-d379-4121-99da-3b146c6848cb
@@ -12575,6 +12755,7 @@ clips:
     fields:
       transcription: 雀がいません。
       pronunciation: Suzume-ga, imasén.
+      meaning: The sparrow was gone.
     tags:
       - jgr1-3-5
   - id: cc540ab2-5941-4e91-8b1c-177ca0013962
@@ -12583,6 +12764,7 @@ clips:
     fields:
       transcription: おじいさんは、おばあさんに聞きました。
       pronunciation: O-jíi-san-wa, o-báa-san-ni kikimáshita.
+      meaning: The grandfather asked the grandmother, "Where is the sparrow?
     tags:
       - jgr1-3-5
   - id: ad14b51a-1962-4a8a-b963-5662116c8f5a
@@ -12591,6 +12773,7 @@ clips:
     fields:
       transcription: 雀はどこですか？
       pronunciation: Suzume-wa dóko-desu-ka?
+      meaning: Where is the sparrow?
     tags:
       - jgr1-3-5
   - id: 66b3459a-a942-4a0f-810c-b31f5f1de00f
@@ -12599,6 +12782,7 @@ clips:
     fields:
       transcription: おばあさんは言いました 。
       pronunciation: O-báa-san-wa iimáshita.
+      meaning: The grandmother said,
     tags:
       - jgr1-3-5
   - id: f86955a0-8708-438b-a0f4-8f80ddef5004
@@ -12607,6 +12791,7 @@ clips:
     fields:
       transcription: 雀は、もういませんよ。あの雀は、悪い雀です
       pronunciation: Suzume-wa, móu imasén-yo. Ano suzume-wa, warúi suzume-désu.
+      meaning: The sparrow is gone. That sparrow is a bad sparrow.
     tags:
       - jgr1-3-5
   - id: a8e208df-4d9a-4b1f-8e36-6bfd9778599d
@@ -12615,6 +12800,7 @@ clips:
     fields:
       transcription: 私の洗濯のりを食べました。
       pronunciation: Watashi-no sentaku-nóri-o tabemáshita.
+      meaning: He ate my laundry starch.
     tags:
       - jgr1-3-5
   - id: 1e688f79-7d3e-46b6-bc3c-d686fd9d1dba
@@ -12623,6 +12809,7 @@ clips:
     fields:
       transcription: だから、舌を切りました。
       pronunciation: Dá-kara, shitá-o kirimáshita.
+      meaning: That's why I cut out his tongue.
     tags:
       - jgr1-3-5
   - id: 4e53d90c-59d0-4d67-a132-a8d9baa6b262
@@ -12631,6 +12818,7 @@ clips:
     fields:
       transcription: えっ‼︎
       pronunciation: E'!!
+      meaning: Huh?!
     tags:
       - jgr1-3-5
   - id: f602ec95-a1f6-4d2e-ad63-464158ff1bf4
@@ -12639,6 +12827,7 @@ clips:
     fields:
       transcription: おじいさんは、大きい声を出しました。
       pronunciation: O-jíi-san-wa, ookíi kóe-o dashimáshita.
+      meaning: Grandpa let out a loud voice.
     tags:
       - jgr1-3-5
   - id: fa4991ea-3697-4c84-a9dc-1eea0854a8c8
@@ -12647,6 +12836,7 @@ clips:
     fields:
       transcription: おじいさんは、山へ行きました。
       pronunciation: O-jíi-san-wa, yamá-e ikimáshita.
+      meaning: Grandpa went to the mountain.
     tags:
       - jgr1-3-5
   - id: 3da68258-8ca3-437a-89df-1146848029bc
@@ -12655,6 +12845,7 @@ clips:
     fields:
       transcription: 雀さん、雀さん。どこにいますか？
       pronunciation: Suzume-san, suzume-san. Dóko-ni imásu-ka?
+      meaning: Sparrow, sparrow. Where are you?
     tags:
       - jgr1-3-5
   - id: 24154c71-fd07-44af-adcd-e774e2088deb
@@ -12663,6 +12854,7 @@ clips:
     fields:
       transcription: 雀はいません。
       pronunciation: Suzume-wa imasén.
+      meaning: There are no sparrows.
     tags:
       - jgr1-3-5
   - id: 5f4a3094-b581-4afc-81a2-b5a50ea78fff
@@ -12671,6 +12863,7 @@ clips:
     fields:
       transcription: おじいさんは、また言いました。
       pronunciation: O-jíi-san-wa, mata iimáshita.
+      meaning: Grandpa said again, "Sparrow, sparrow.
     tags:
       - jgr1-3-5
   - id: c9be1ae6-07b6-4e00-b24b-7bfaa6b77a3f
@@ -12679,6 +12872,7 @@ clips:
     fields:
       transcription: 雀さん、雀さん。どこにいますか？
       pronunciation: Suzume-san, suzumeーsan. Dóko-ni imásu ka?
+      meaning: Sparrow, sparrow. Where are you?
     tags:
       - jgr1-3-5
   - id: a2406453-e7be-42c8-bcec-9041461dadef
@@ -12687,6 +12881,7 @@ clips:
     fields:
       transcription: おじいさん、ここです。ここです。
       pronunciation: O-jíi-san, koko-désu. Koko-désu.
+      meaning: Grandpa, here. Here it is.
     tags:
       - jgr1-3-5
   - id: 82f14346-43b0-4f72-99fa-7d676633060a
@@ -12695,6 +12890,7 @@ clips:
     fields:
       transcription: 雀が来ました。
       pronunciation: Suzume-ga kimáshita.
+      meaning: A sparrow has come.
     tags:
       - jgr1-3-5
   - id: 9d91aea5-fb32-4453-b03a-d34e3acf1c34
@@ -12703,6 +12899,7 @@ clips:
     fields:
       transcription: あの雀です。
       pronunciation: Ano suzume-désu.
+      meaning: It's that sparrow.
     tags:
       - jgr1-3-5
   - id: 9ed0d82c-0d12-4a82-bdb9-4c6997a96692
@@ -12711,6 +12908,7 @@ clips:
     fields:
       transcription: おじいさんは、言いました。
       pronunciation: O-jíi-san-wa, iimáshita.
+      meaning: Grandpa said, "Sparrow, are you all right?
     tags:
       - jgr1-3-5
   - id: 6fac77e6-88f4-41bf-b088-ec0d8f7f4c75
@@ -12719,6 +12917,7 @@ clips:
     fields:
       transcription: 雀さん、大丈夫ですか？
       pronunciation: Suzume-san, daijóubu-desu ka?
+      meaning: Sparrow, are you all right?
     tags:
       - jgr1-3-5
   - id: 6155a5ca-7956-44a1-a3e6-119e615862c6
@@ -12727,6 +12926,7 @@ clips:
     fields:
       transcription: 雀は言いました。
       pronunciation: Suzume-wa, iimáshita.
+      meaning: The sparrow said,
     tags:
       - jgr1-3-5
   - id: 72068a3b-8a44-4015-86b6-df75de0c111c
@@ -12735,6 +12935,7 @@ clips:
     fields:
       transcription: はい、もう大丈夫です。ありがとうございます。
       pronunciation: Hái, móu daijóubu-desu. Arigátou gozaimásu.
+      meaning: Yes, I am fine now. Thank you very much.
     tags:
       - jgr1-3-5
   - id: 9216e422-f9bb-453f-afa5-12e62a732251
@@ -12743,6 +12944,7 @@ clips:
     fields:
       transcription: おじいちゃん、私の家へどうぞ。
       pronunciation: O-jíi-san, watashi-no ié-e dóuzo.
+      meaning: Grandpa, please come to my house.
     tags:
       - jgr1-3-5
   - id: 0d21890f-6706-45c5-826f-5638be47fecd
@@ -12751,6 +12953,7 @@ clips:
     fields:
       transcription: おじいさんは、雀の家へ行きました。
       pronunciation: O-jíi-san-wa, suzume-no ié-e ikimáshita.
+      meaning: Grandpa went to Sparrow's house.
     tags:
       - jgr1-3-5
   - id: 8abe0ad6-61b5-41c1-9ffd-b6ee3bc0c912
@@ -12759,6 +12962,7 @@ clips:
     fields:
       transcription: おじいさん、お茶をどうぞ。
       pronunciation: O-jíi-san, ocha-o dóuzo.
+      meaning: Grandpa, please have some tea.
     tags:
       - jgr1-3-5
   - id: 5ddaec2d-4ee5-4771-9081-8af5d29d0d46
@@ -12767,6 +12971,7 @@ clips:
     fields:
       transcription: お菓子もどうぞ。
       pronunciation: Okáshi-mo dóuzo.
+      meaning: Please have some snacks.
     tags:
       - jgr1-3-5
   - id: 689454ed-13f8-4602-9b4c-444ed9323048
@@ -12775,6 +12980,7 @@ clips:
     fields:
       transcription: おじいさんは、お茶を飲みました。
       pronunciation: O-jíi-san-wa, ocha-o nomimáshita.
+      meaning: Grandpa drank the tea.
     tags:
       - jgr1-3-5
   - id: fc30f71d-9a18-4656-9a92-0fa2bb7460d6
@@ -12783,6 +12989,7 @@ clips:
     fields:
       transcription: お菓子も食べました。
       pronunciation: Okáshi-mo tabemáshita.
+      meaning: He also ate some sweets.
     tags:
       - jgr1-3-5
   - id: aaad11ec-b398-4d76-bfe5-0d8a2f2f18e2
@@ -12791,6 +12998,7 @@ clips:
     fields:
       transcription: ああ、おいしい。
       pronunciation: Áa, oishii.
+      meaning: Oh, it's delicious.
     tags:
       - jgr1-3-5
   - id: 218f372b-5e58-4c39-b953-5e25bf0788e7
@@ -12799,6 +13007,7 @@ clips:
     fields:
       transcription: 家の中には、雀がたくさんいます。
       pronunciation: Ie-nó náka-ni-wa, suzume-ga takusan imásu.
+      meaning: There are many sparrows in the house.
     tags:
       - jgr1-3-5
   - id: 06edb199-1a3a-4faa-b9c9-32c2f8791931
@@ -12807,6 +13016,7 @@ clips:
     fields:
       transcription: 雀たちは、歌を歌います。
       pronunciation: Suzumé-tachi-wa, utá-o utaimásu.
+      meaning: The sparrows sang a song.
     tags:
       - jgr1-3-5
   - id: 0ff2efa6-323e-4697-a70b-edb6040d2725
@@ -12815,6 +13025,7 @@ clips:
     fields:
       transcription: 踊りを踊ります。
       pronunciation: Odori-o odorimásu.
+      meaning: They dance.
     tags:
       - jgr1-3-5
   - id: 38bd0e86-086b-48b1-bfef-9b220cf94df4
@@ -12823,6 +13034,7 @@ clips:
     fields:
       transcription: おじいさんは、言いました。
       pronunciation: O-jíi-san-wa, iimáshita.
+      meaning: The grandfather said,
     tags:
       - jgr1-3-5
   - id: dd26d1fa-9ea9-4563-9a37-e99e217c5a13
@@ -12831,6 +13043,7 @@ clips:
     fields:
       transcription: ああ、楽しかった。ありがとう。
       pronunciation: Aa, tanóshikatta. Arigátou.
+      meaning: Ah, I had so much fun. Thank you.
     tags:
       - jgr1-3-5
   - id: 89b1e631-87f8-4296-a018-2a90f20bb3eb
@@ -12839,6 +13052,7 @@ clips:
     fields:
       transcription: もう夕方ですね 。
       pronunciation: Móu yuugata-désu-ne.
+      meaning: It's already evening.
     tags:
       - jgr1-3-5
   - id: d845b41b-d470-4caf-be05-886fff3e6098
@@ -12847,6 +13061,7 @@ clips:
     fields:
       transcription: 私は家へ帰ります。
       pronunciation: Watashi-wa ié-e kaerimásu.
+      meaning: I am going home.
     tags:
       - jgr1-3-5
   - id: 77f51b11-c879-4e58-9551-730af64a6b1d
@@ -12855,6 +13070,7 @@ clips:
     fields:
       transcription: 雀がおじいさんの前へ来ました。
       pronunciation: Suzume-ga o-jíi-san-no máe-e kimáshita.
+      meaning: A sparrow came to face Grandpa.
     tags:
       - jgr1-3-5
   - id: 87cfa304-3db1-409c-8cdf-d97b8a057ea4
@@ -12863,6 +13079,7 @@ clips:
     fields:
       transcription: あの雀です。
       pronunciation: Ano suzume-désu.
+      meaning: It's that sparrow.
     tags:
       - jgr1-3-5
   - id: 40d9b3cf-cfa4-4471-8e9c-5e91ae5b489d
@@ -12871,6 +13088,7 @@ clips:
     fields:
       transcription: 雀は言いました。
       pronunciation: Suzume-wa iimáshita.
+      meaning: The sparrow said, "Here, Grandpa.
     tags:
       - jgr1-3-5
   - id: 5fa899db-338a-4bf2-b65d-1ce58f731c83
@@ -12879,6 +13097,7 @@ clips:
     fields:
       transcription: おじいさん、これをどうぞ。
       pronunciation: O-jíi-san, kore-o dóuzo.
+      meaning: Here, Grandpa, take these.
     tags:
       - jgr1-3-5
   - id: d4e8db87-e12d-4e18-8682-a6d45aac5ca9
@@ -12887,6 +13106,7 @@ clips:
     fields:
       transcription: ここに箱が二つあります。
       pronunciation: Koko-ni, hako-ga futatsú arimásu.
+      meaning: Here are two boxes.
     tags:
       - jgr1-3-5
   - id: 207d1d6d-5c8d-4cd7-9442-bae03a21de64
@@ -12895,10 +13115,11 @@ clips:
     fields:
       transcription: |-
         大きい箱がいいですか？
-        小さい箱がいいですか？0
+        小さい箱がいいですか？
       pronunciation: |-
         Ookíi hako-ga íi-desu-ka?
         Chiisái hako-ga íi-desu-ka?
+      meaning: Do you want the big box? Or do you want the small box?
     tags:
       - jgr1-3-5
   - id: 68a139a2-9501-4078-96ba-357addcacec7
@@ -12911,6 +13132,7 @@ clips:
       pronunciation: |-
         Chiisái hako-ga íi-desu.
         Ookíi hako-wa, omoí-desu-kara.
+      meaning: I want the small box. The big box is heavy.
     tags:
       - jgr1-3-5
   - id: 7322349e-74bf-4608-b430-c029548e38f7
@@ -12919,6 +13141,7 @@ clips:
     fields:
       transcription: おじいさんは、小さい箱をもらいました。
       pronunciation: O-jíi-san-wa, chiisái hako-o moraimáshita.
+      meaning: The grandfather got the small box.
     tags:
       - jgr1-3-5
   - id: 47d6860a-3eb0-425c-ade6-6773d6acf8b0
@@ -12927,6 +13150,7 @@ clips:
     fields:
       transcription: おじいさんは、家へ 帰りました。
       pronunciation: O-jíi-san-wa, ié-e kaerimáshita.
+      meaning: The grandfather went home.
     tags:
       - jgr1-3-5
   - id: bca46437-7a17-404d-a806-5619b2197562
@@ -12935,6 +13159,7 @@ clips:
     fields:
       transcription: そして、箱を開けました。
       pronunciation: Soshite, hako-o akemáshita.
+      meaning: He opened the box.
     tags:
       - jgr1-3-5
   - id: a2a718e6-db2c-40fe-a347-cf8872aa6991
@@ -12943,6 +13168,7 @@ clips:
     fields:
       transcription: 中には、お金やきれいな着物がたくさんありました。
       pronunciation: Náka-ni-wa, okane-ya kírei-na kimono-ga takusan arimáshita.
+      meaning: Inside, there was a lot of money and beautiful kimonos.
     tags:
       - jgr1-3-5
   - id: ed311bef-0672-43c4-bd0b-eaa211692a36
@@ -12951,6 +13177,7 @@ clips:
     fields:
       transcription: おばあさんは、それを見ました。
       pronunciation: O-báa-san-wa, sore-o mimáshita.
+      meaning: Grandma looked at them.
     tags:
       - jgr1-3-5
   - id: 3642506b-fc1f-4351-8524-a73779e027ac
@@ -12959,6 +13186,7 @@ clips:
     fields:
       transcription: まあ、おじいさん、どこで、これを？
       pronunciation: Máa, o-jíi-san, dóko-de, kore-o?
+      meaning: Grandpa, where did you get this?
     tags:
       - jgr1-3-5
   - id: dce7481a-c472-43b3-9372-81645754a0d3
@@ -12967,6 +13195,7 @@ clips:
     fields:
       transcription: おじいさんは、雀の話をしました。
       pronunciation: O-jíisan-wa, suzume-no hanashí-o shimáshita.
+      meaning: Grandpa told her about the sparrows.
     tags:
       - jgr1-3-5
   - id: 0924cba8-3128-4a33-ad5c-511bde8b4839
@@ -12975,6 +13204,7 @@ clips:
     fields:
       transcription: じゃあ、私も雀の家行きます。
       pronunciation: Jáa, watashi-mo suzume-no ié-e ikimásu.
+      meaning: Then I'll go to the sparrow's house, too.
     tags:
       - jgr1-3-5
   - id: 4d7954ae-caa6-42e3-9b54-f3546ab0f8cd
@@ -12987,6 +13217,7 @@ clips:
       pronunciation: |-
         O-báa-san wa, yamá-e ikimáshita.
         "Suzume-san, suzume-san. Dóko-ni imásu-ka?"
+      meaning: Grandma went to the mountain. Sparrow, sparrow, where are you? Where are you?
     tags:
       - jgr1-3-5
   - id: 76afa86b-8300-4c0d-bf83-fd4ad6d50560
@@ -12995,6 +13226,7 @@ clips:
     fields:
       transcription: 雀はいません。
       pronunciation: Suzume-wa imasén.
+      meaning: There is no sparrow.
     tags:
       - jgr1-3-5
   - id: d13d406c-5509-4e05-a8d1-34a7d0feb11d
@@ -13003,6 +13235,7 @@ clips:
     fields:
       transcription: おばあさんは、また言いました。「雀さん、雀さん。どこにいますか？」
       pronunciation: O-báa-san-wa, mata iimáshita. "Suzume-san, suzume-san. Dóko-ni imásu-ka?"
+      meaning: She said again, "Sparrow, sparrow. "Sparrow, sparrow, where are you? Where are you?
     tags:
       - jgr1-3-5
   - id: 06ae9d12-3894-4498-9deb-a262f113cc91
@@ -13011,6 +13244,7 @@ clips:
     fields:
       transcription: おばあさん、ここです。ここです。
       pronunciation: O-báa-san, koko-désu. Koko-désu.
+      meaning: Granny, here. Here it is.
     tags:
       - jgr1-3-5
   - id: 107e3aa3-e504-4693-80b5-e81c5b741cf9
@@ -13019,6 +13253,7 @@ clips:
     fields:
       transcription: 雀が来ました。
       pronunciation: Suzume-ga kimáshita.
+      meaning: Here comes the sparrow.
     tags:
       - jgr1-3-5
   - id: ba76ba72-7873-43b7-a7de-1096a2a65534
@@ -13027,6 +13262,7 @@ clips:
     fields:
       transcription: あの雀です。
       pronunciation: Ano suzume-désu.
+      meaning: It's that sparrow.
     tags:
       - jgr1-3-5
   - id: 133cf74a-1a4b-40eb-b2ba-c7e91650f7ce
@@ -13035,6 +13271,7 @@ clips:
     fields:
       transcription: 雀はおばあさんに言いました。
       pronunciation: Suzume-wa o-báa-san-ni iimáshita.
+      meaning: The sparrow said to Granny, "Granny, come to my house.
     tags:
       - jgr1-3-5
   - id: 6c8b0c10-e719-4787-8293-2210bb48c0e4
@@ -13043,6 +13280,7 @@ clips:
     fields:
       transcription: おばあさん、私の家へどうぞ。
       pronunciation: O-báa-san, watashi-no ié-e dóuzo.
+      meaning: Grandmother, please come to my house.
     tags:
       - jgr1-3-5
   - id: e06d0840-5507-465a-84b0-8923b58830fe
@@ -13051,6 +13289,7 @@ clips:
     fields:
       transcription: おばあさんは、雀の家へ行きました。
       pronunciation: O-báa-san-wa, suzume-no ié-e ikimáshita.
+      meaning: She went to the sparrow's house.
     tags:
       - jgr1-3-5
   - id: fa423913-94ee-43a4-9c6f-33a25d2b41c8
@@ -13059,6 +13298,7 @@ clips:
     fields:
       transcription: おばあさん、お茶どうぞ。お菓子もどうぞ。
       pronunciation: O-báa-san, ocha-o dóuzo. Okáshi mo douzo.
+      meaning: Grandmother, please have some tea. And some sweets, too.
     tags:
       - jgr1-3-5
   - id: 34f2541f-5fac-444d-be3c-a47ccb58bc32
@@ -13067,6 +13307,7 @@ clips:
     fields:
       transcription: 私はお茶もお菓子も欲しくないです。
       pronunciation: Watashi-wa ocha-mo okáshi-mo hóshiku naí-desu.
+      meaning: I don't want tea and I don't want sweets.
     tags:
       - jgr1-3-5
   - id: fd50412d-588f-4552-8302-dbe7aa12c20a
@@ -13075,6 +13316,7 @@ clips:
     fields:
       transcription: 箱が欲しいです。早く箱をください。
       pronunciation: Hako-ga hoshíi-desu. Háyaku hako-o kudasái.
+      meaning: I want the box. Please give me the box quickly.
     tags:
       - jgr1-3-5
   - id: 1d624b17-0ae7-4d62-a3a1-4d3c9f888f18
@@ -13083,6 +13325,7 @@ clips:
     fields:
       transcription: わかりました。おばあさん、大きい箱がいいですか？小さい箱がいいですか？
       pronunciation: Wakarimáshita. O-báa-san, ookíi hako-ga íi-desu-ka? Chiisái hako-ga íi-desu ka?
+      meaning: Yes, I will. Granny, do you want a big box? Do you want a small box?
     tags:
       - jgr1-3-5
   - id: 83549e39-9810-4d32-891c-77149613a66b
@@ -13091,6 +13334,7 @@ clips:
     fields:
       transcription: 大きい箱がいいです。大きい箱をください。
       pronunciation: Ookíi hako-ga íi-desu. Ookíi hako-o kudasái.
+      meaning: I want a big box. Please give me a big box.
     tags:
       - jgr1-3-5
   - id: 43039b69-0130-4d72-ae54-20cba0395d79
@@ -13099,6 +13343,7 @@ clips:
     fields:
       transcription: おばあさんは、大きい箱をもらいました。
       pronunciation: O-báa-san-wa, ookíi hako-o moraimashita.
+      meaning: Granny got the big box.
     tags:
       - jgr1-3-5
   - id: 6bb462e7-1f87-4120-a1c8-d92911e5371c
@@ -13107,6 +13352,7 @@ clips:
     fields:
       transcription: うーん、重い！
       pronunciation: Uun, omoi!
+      meaning: Hmmm, it's heavy! It's heavy, it's heavy.
     tags:
       - jgr1-3-5
   - id: d4dd8f54-420a-489a-9751-27027103e20a
@@ -13119,6 +13365,7 @@ clips:
       pronunciation: |-
         Ookíi hako-wa, totemo omoí-desu.
         Omoi, omoi. Móu, damé-da.
+      meaning: The big box is very heavy. I can't take it anymore!
     tags:
       - jgr1-3-5
   - id: e8632035-00f1-40d0-8572-4369342ad08b
@@ -13127,6 +13374,7 @@ clips:
     fields:
       transcription: おばあさんは、山の中で箱を開けました。
       pronunciation: O-báa-san-wa, yama-nó náka-de hako-o akemáshita.
+      meaning: Granny opened the box in the mountain.
     tags:
       - jgr1-3-5
   - id: 0c05c5ba-9005-48d5-93c6-f2b8183854ba
@@ -13143,6 +13391,7 @@ clips:
     fields:
       transcription: 箱の中には、お化けがたくさんいました。
       pronunciation: Hako-no náka-ni-wa, obáke-ga takusan imáshita.
+      meaning: Inside the box were many ghosts.
     tags:
       - jgr1-3-5
 ---
@@ -13173,8 +13422,7 @@ clips:
     fields:
       transcription: 今日は、八月五日です。
       pronunciation: Kyóu-wa, hachi-gatsú itsuka-désu.
-    tags:
-      &a1
+    tags: &a1
       - jgr1-3-6
   - id: cac368a8-f994-4701-ba80-dbc8d36d36f1
     start: 00:29.952
@@ -14085,8 +14333,7 @@ clips:
     end: 00:42.24
     fields:
       transcription: お風呂が好きな日本人
-    tags:
-      &a1
+    tags: &a1
       - JGR_2-3-1_nihon_no_ofuro.mp3
   - id: ed65ce83-fdda-4efe-9606-0ef1a2ef4406
     start: 00:44.515
@@ -14668,8 +14915,7 @@ clips:
     end: 00:19.448
     fields:
       transcription: これは中国の古い話です
-    tags:
-      &a1
+    tags: &a1
       - jgr2-3-2
   - id: e9e7b4c2-53b3-47ed-9e39-b2747a6813f7
     start: 00:21.664
@@ -15388,8 +15634,7 @@ clips:
     end: 00:22.08
     fields:
       transcription: ごんは子供の狐です
-    tags:
-      &a1
+    tags: &a1
       - JGR_2-3-3_gonkitsune.mp3
   - id: 6ab89adc-f011-4d35-a823-3439b527bea5
     start: 00:23.18
@@ -16233,8 +16478,7 @@ clips:
       transcription: |-
         ここは、
         ニューヨークです。
-    tags:
-      &a1
+    tags: &a1
       - JGR_2-3-4_soopii_no_fuyu_no_ie.mp3
   - id: 27ed615d-91cc-4693-972e-3890f3704373
     start: 00:18.46
@@ -17150,8 +17394,7 @@ clips:
       transcription: |-
         一休さんは、子供の時、
         安国寺というお寺で勉強していました。
-    tags:
-      &a1
+    tags: &a1
       - JGR_2-3-5_ikkyuusan_sono_ni_1_rousoku.mp3
   - id: 5ccb26e0-b4f8-4312-bc2d-18d3176b3731
     start: 00:22.86
@@ -17395,8 +17638,7 @@ clips:
       transcription: |-
         一休さんは、
         とても頭がいい子供です。
-    tags:
-      &a1
+    tags: &a1
       - JGR_2-3-5_ikkyuusan_sono_ni_2_hashi.mp3
   - id: f562b29c-c2d2-41db-af1d-84892fcfb4a9
     start: 00:07.32
@@ -17641,8 +17883,7 @@ clips:
       transcription: |-
         一休さんは、
         安国寺で一生懸命勉強しました。
-    tags:
-      &a1
+    tags: &a1
       - JGR_2-3-5_ikkyuusan_sono_ni_3_obousan_no_kimono.mp3
   - id: 47f615cd-6cca-4b6c-ab4b-96707c5917be
     start: 00:09.84
@@ -18047,8 +18288,7 @@ clips:
     fields:
       transcription: 北風と太陽
       meaning: The North Wind and the Sun
-    tags:
-      &a1
+    tags: &a1
       - WGR_1_kitakaze_to_taiyou.mp3
   - id: 4abd0a2c-866f-4281-8042-9405d7722d39
     start: 00:04.864
@@ -18494,8 +18734,7 @@ clips:
     fields:
       transcription: ジャックと豆の木
       meaning: Jack and the Beanstalk
-    tags:
-      &a1
+    tags: &a1
       - WGR_2_jakku_to_mame_no_ki.mp3
   - id: a3675742-94e4-400d-8463-f81af66ad412
     start: 00:04.352
@@ -19043,28 +19282,29 @@ clips:
     end: 00:02.816
     fields:
       transcription: 鶴の恩返し
-      pronunciation: The Crane's Repayment
-    tags:
-      &a1
+      meaning: The Crane's Repayment
+    tags: &a1
       - WGR_3_tsuru_no_ongaeshi.mp3
   - id: dbf4cb62-a8fa-433a-9281-2a25da92449e
     start: 00:04.608
     end: 00:10.24
     fields:
       transcription: むかしむかし、若い男が一人で山に住んでいました。
-      meaning: Once upon a time, a young man lived in a mountain alone. The man didn’t have money, so he lived on selling trees in the mountain. One day in winter, when he was going home, a strange sound was heard. “What is this sound?” The man slowly headed toward the place making the sound. Then, he found a crane taking a rest on the snow. The strange sound was the voice the crane sang. She looked tired and unable to move. The man looked at it and then went home in a hurry. And, he took his dinner and headed toward the place where she was. “Eat this,” the man said and put the meal beside her. While the crane was eating the meal, the man quietly went home.
+      meaning: Once upon a time, a young man lived in a mountain alone.
     tags: *a1
   - id: e635ea07-609d-41ca-b7fe-ecaa5e893a6b
     start: 00:11.52
     end: 00:17.664
     fields:
       transcription: 男はお金がないので、山の木を売って生活しています。
+      meaning: The man didn’t have money, so he lived on selling trees in the mountain.
     tags: *a1
   - id: de05941f-905c-4ed5-a0b0-4414c4930fa7
     start: 00:18.944
     end: 00:25.96
     fields:
       transcription: ある冬の日、男が家に帰っていると、変な音が聞こえました。
+      meaning: One day in winter, when he was going home, a strange sound was heard.
     tags:
       - WGR_3_tsuru_no_ongaeshi.mp3
   - id: 0e530cd8-34e3-4a40-b9cb-1809d23e7998
@@ -19072,67 +19312,73 @@ clips:
     end: 00:29.44
     fields:
       transcription: 「これは何の音だ？」
+      meaning: “What is this sound?”
     tags: *a1
   - id: 7d581dd8-f97e-4035-8a4a-239ef6b4c3aa
     start: 00:30.72
     end: 00:35.328
     fields:
       transcription: 男は音がする場所にゆっくりと向かいました。
+      meaning: The man slowly headed toward the place making the sound.
     tags: *a1
   - id: 7254dc74-d9ea-4d6c-8192-afbc62aa633d
     start: 00:36.608
     end: 00:41.472
     fields:
       transcription: すると、雪の上で休んでいるツルを見つけました。
+      meaning: Then, he found a crane taking a rest on the snow.
     tags: *a1
   - id: 9ded361a-4e5e-4233-baec-3f1f9b4ee213
     start: 00:42.752
     end: 00:46.848
     fields:
       transcription: 変な音はツルが鳴いた声だったのです。
+      meaning: The strange sound was the voice the crane sang.
     tags: *a1
   - id: 9e9c7cdc-db1a-46e1-906a-fcd9da7ef2e3
     start: 00:48.128
     end: 00:51.456
     fields:
       transcription: ツルは疲れて動けないようでした。
+      meaning: She looked tired and unable to move.
     tags: *a1
   - id: 40cf03e6-b1a2-4dac-9a8f-1b621dc90179
     start: 00:52.736
     end: 00:57.6
     fields:
       transcription: 男はそれを見ると、急いで家に帰りました。
+      meaning: The man looked at it and then went home in a hurry.
     tags: *a1
   - id: 9f798cc8-35ff-4aa5-8a55-47740c9670ce
     start: 00:58.88
     end: 01:05.024
     fields:
       transcription: そして、自分の夜ごはんを持って、ツルがいるところに向かいました。
-    tags: *a1
-  - id: 5610d57c-34cc-4a72-a1b2-5f1ca8611513
-    start: 01:06.816
-    end: 01:08.096
-    fields:
-      transcription: 「これを食べて。」
+      meaning: And, he took his dinner and headed toward the place where she was.
     tags: *a1
   - id: b7e7ed95-2059-46a2-b9b1-91e123bac448
-    start: 01:09.376
+    start: 01:06.816
     end: 01:14.24
     fields:
-      transcription: 男はそう言って、ツルの横にごはんを置きました。
-    tags: *a1
+      transcription: |-
+        「これを食べて。」
+        男はそう言って、ツルの横にごはんを置きました。
+      meaning: “Eat this,” the man said and put the meal beside her.
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: 1f067260-9412-4703-bcea-ef6e0739ed75
     start: 01:15.52
     end: 01:21.664
     fields:
       transcription: ツルがごはんを食べている間に、男は静かに家に帰りました。
+      meaning: While the crane was eating the meal, the man quietly went home.
     tags: *a1
   - id: 955df61f-b163-4880-b79d-25b9898154fc
     start: 01:23.968
     end: 01:31.388
     fields:
       transcription: 次の日の夜、男の家に、若くて美しい女がたずねてきました。
-      meaning: The next night, a young beautiful woman visited his house. It was a night when it snowed a lot and was very cold. The woman wore white clothes. The white snow was on her beautiful black hair. The man was surprised by her beauty. The woman asked the man, “I have lost my way. May I stay here this night?” The man replied quickly, “Sure.” The man decided to let her use the next room. The next morning, when the man got up, the woman was making breakfast. She prepared it for the man. The man had become very happy. And, he thought that he wanted to get married to such a beautiful and kind person. “Please marry me.” “Yes.” They decided to marry.
+      meaning: The next night, a young beautiful woman visited his house.
     tags:
       - WGR_3_tsuru_no_ongaeshi.mp3
   - id: 2658b8a2-5276-4e7a-a262-fa07c5067227
@@ -19140,242 +19386,219 @@ clips:
     end: 01:37.024
     fields:
       transcription: 雪がたくさん降っていて、とても寒い夜でした。
+      meaning: It was a night when it snowed a lot and was very cold.
     tags: *a1
   - id: 877af913-cf5a-4c48-b15b-b032eb8ced95
     start: 01:38.304
     end: 01:41.376
     fields:
       transcription: 女は白い服を着ています。
+      meaning: The woman wore white clothes.
     tags: *a1
   - id: 7ea2d0c1-c40f-445a-8d3e-6c4ca86d0d2d
     start: 01:42.656
     end: 01:47.264
     fields:
       transcription: 白い雪がきれいな黒い髪についていました。
+      meaning: The white snow was on her beautiful black hair.
     tags: *a1
   - id: e60f3cc5-e0ea-4857-832f-a81597e7524c
     start: 01:48.544
     end: 01:52.896
     fields:
       transcription: 男は女の美しさにおどろきました。
-    tags: *a1
-  - id: 8bc22d47-c475-49ca-b8f7-4437b70a0256
-    start: 01:54.176
-    end: 01:56.736
-    fields:
-      transcription: 女は男に聞きました。
-    tags: *a1
-  - id: c711f97b-14e8-480f-8ef7-42cd3739eeba
-    start: 01:58.016
-    end: 02:00.576
-    fields:
-      transcription: 「道が分からなくなりました。
+      meaning: The man was surprised by her beauty.
     tags: *a1
   - id: 7d215649-e0c0-4173-b8e0-04ab7066b135
-    start: 02:01.856
+    start: 01:54.176
     end: 02:05.44
     fields:
-      transcription: 今日の夜、ここに泊まってもいいですか？」
-    tags: *a1
-  - id: efa51bd6-fa7a-4785-bb92-20a5588969f3
-    start: 02:06.72
-    end: 02:09.536
-    fields:
-      transcription: 男はすぐに答えました。
-    tags: *a1
+      transcription: |-
+        女は男に聞きました。
+        「道が分からなくなりました。
+        今日の夜、ここに泊まってもいいですか？」
+      meaning: The woman asked the man, “I have lost my way. May I stay here this night?”
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: d424643d-ad1b-431f-bcc6-592c315a53e7
-    start: 02:10.816
+    start: 02:06.72
     end: 02:11.84
     fields:
-      transcription: 「いいですよ。」
-    tags: *a1
+      transcription: |-
+        男はすぐに答えました。
+        「いいですよ。」
+      meaning: "The man replied quickly, “Sure.” "
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: 6af71478-3f17-4181-9cd2-880694da843a
     start: 02:13.12
     end: 02:18.496
     fields:
       transcription: 男は女にとなりの部屋を使わせることにしました。
+      meaning: "The man decided to let her use the next room. "
     tags: *a1
   - id: f81178e3-bd4e-404c-91c4-ce8cd889f4d1
     start: 02:19.776
     end: 02:25.92
     fields:
       transcription: 朝、男が起きると、女は朝ごはんを作っていました。
+      meaning: "The next morning, when the man got up, the woman was making breakfast. "
     tags: *a1
   - id: 4384768f-7bd0-41b5-afbb-17cf7332cf8c
     start: 02:27.456
     end: 02:30.784
     fields:
       transcription: 男のために用意していたのです。
+      meaning: "She prepared it for the man. "
     tags: *a1
   - id: 5e257b45-0a47-4d33-bd15-20a44fb83743
     start: 02:32.064
     end: 02:35.392
     fields:
       transcription: 男はとてもうれしくなりました。
+      meaning: "The man had become very happy. "
     tags: *a1
   - id: 93036d6c-1695-445a-b0cf-ea1c264b045a
     start: 02:36.672
     end: 02:42.816
     fields:
       transcription: そして、こんなにきれいでやさしい人と結婚したいと思いました。
-    tags: *a1
-  - id: d3473e3c-70ed-4838-a47a-7eea701738f2
-    start: 02:44.096
-    end: 02:46.144
-    fields:
-      transcription: 「結婚してください。」
-    tags: *a1
-  - id: fa51a8db-854f-4b00-9401-5961d9db25f0
-    start: 02:47.424
-    end: 02:47.936
-    fields:
-      transcription: 「はい。」
+      meaning: And, he thought that he wanted to get married to such a beautiful and kind person.
     tags: *a1
   - id: 14404b28-c893-49c1-afa6-f7d48ec7fd8e
-    start: 02:49.472
+    start: 02:44.096
     end: 02:52.544
     fields:
-      transcription: 二人は結婚することにしました。
-    tags: *a1
+      transcription: |-
+        「結婚してください。」
+        「はい。」
+        二人は結婚することにしました。
+      meaning: " “Please marry me.” “Yes.” They decided to marry."
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: ebe343bb-a9ab-4c4a-8459-246b4abd5603
     start: 02:54.592
     end: 02:57.152
     fields:
       transcription: 二人はとても幸せでした。
-      meaning: They were very happy. However, the man didn’t have money. Once in a while, there were days when they could not eat meals. Then, the woman said, “I can make beautiful cloth. How about selling the cloth in a town?” When the woman made the cloth, the man was surprised because it was the most beautiful cloth that he had ever seen. The man went to the town quickly. When the man arrived at the town, he asked a person in a shop, “How much can I sell this cloth for?” Then, the person in the shop was also surprised, “I have never seen such beautiful cloth. Well, I will pay one million yen for this.” The man was surprised again because he usually sold a tree for 10.000 yen.
+      meaning: They were very happy.
     tags: *a1
   - id: fa096d24-c0b6-44d8-ab33-76ef18bec669
     start: 02:58.944
     end: 03:02.784
     fields:
       transcription: しかし、男はお金を持っていません。
+      meaning: "However, the man didn’t have money. "
     tags: *a1
   - id: 0826ab99-4744-4396-bbb6-f01f925ee830
     start: 03:04.064
     end: 03:07.648
     fields:
       transcription: ごはんを食べられない日がたまにありました。
-    tags: *a1
-  - id: 3b161f8d-fc35-4b66-90a7-85e1e5b1253d
-    start: 03:09.44
-    end: 03:12.0
-    fields:
-      transcription: すると、女は言いました。
-    tags: *a1
-  - id: d8e4bce1-1b00-4cff-903c-f0dd9a1271a8
-    start: 03:13.536
-    end: 03:17.376
-    fields:
-      transcription: 「私はきれいな布を作ることができます。
+      meaning: "Once in a while, there were days when they could not eat meals. "
     tags: *a1
   - id: 89064cc6-5a27-4154-9a29-2f9df59fda04
-    start: 03:18.656
+    start: 03:09.44
     end: 03:21.984
     fields:
-      transcription: その布を街で売ったらどうですか？」
-    tags: *a1
-  - id: 484c2c24-b47a-47b6-8207-829c169d6950
-    start: 03:23.264
-    end: 03:27.872
-    fields:
-      transcription: 女が布を作ると、男はおどろきました。
-    tags: *a1
+      transcription: |-
+        すると、女は言いました。
+        「私はきれいな布を作ることができます。
+        その布を街で売ったらどうですか？」
+      meaning: "Then, the woman said, “I can make beautiful cloth. How about selling the cloth in a town?” "
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: 5f42df50-d5f6-492b-a551-353ec6880ed8
-    start: 03:29.152
+    start: 03:23.264
     end: 03:34.528
     fields:
-      transcription: 今までに見たことがない、とてもきれいな布だったのです。
-    tags: *a1
+      transcription: |-
+        女が布を作ると、男はおどろきました。
+        今までに見たことがない、とてもきれいな布だったのです。
+      meaning: "When the woman made the cloth, the man was surprised because it was the most beautiful cloth that he had ever seen. "
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: 2bb72be5-674f-4373-b0af-066139df32f7
     start: 03:35.808
     end: 03:38.88
     fields:
       transcription: 男はすぐ街に行きました。
-    tags: *a1
-  - id: 7bc266b8-1b4b-4afa-8edb-4f3872312e60
-    start: 03:40.16
-    end: 03:45.024
-    fields:
-      transcription: 街に着くと、男は店の人に聞きました。
+      meaning: "The man went to the town quickly. "
     tags: *a1
   - id: 268d08b5-2a37-4746-b779-a31987b326c5
-    start: 03:46.304
+    start: 03:40.16
     end: 03:49.12
     fields:
-      transcription: 「この布はいくらで売れますか？」
-    tags: *a1
-  - id: cc3b650f-4e91-411f-ab1d-4f1ecf45c061
-    start: 03:50.4
-    end: 03:53.728
-    fields:
-      transcription: すると、店の人もおどろきました。
-    tags: *a1
+      transcription: |-
+        街に着くと、男は店の人に聞きました。
+        「この布はいくらで売れますか？」
+      meaning: |
+        When the man arrived at the town, he asked a person in a shop, “How much can I sell this cloth for?” 
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: e9dc517d-8de5-4d28-a402-62b677923a1d
-    start: 03:55.008
+    start: 03:50.4
     end: 03:58.336
     fields:
-      transcription: 「こんなきれいな布は見たことがない。
-    tags: *a1
+      transcription: |-
+        すると、店の人もおどろきました。
+        「こんなきれいな布は見たことがない。
+      meaning: "Then, the person in the shop was also surprised, “I have never seen such beautiful cloth. "
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: 0cc6aa5b-8fe1-4f64-ab87-0ecb7cea6cc7
     start: 03:59.616
     end: 04:03.2
     fields:
       transcription: よし、１００万円はらいましょう。」
-    tags: *a1
-  - id: 730642d3-d835-474b-8a9a-c6d69821cb32
-    start: 04:04.48
-    end: 04:07.296
-    fields:
-      transcription: 男はまたおどろきました。
+      meaning: "Well, I will pay one million yen for this.” "
     tags: *a1
   - id: 75dba401-f5b8-4ee7-9d89-6e6c284b97a1
-    start: 04:08.576
+    start: 04:04.48
     end: 04:13.696
     fields:
-      transcription: 男はいつも木を１万円で売っていたからです。
-    tags: *a1
-  - id: 368de83a-0dcd-4b42-a0f0-33bdc40ab4d8
-    start: 04:15.488
-    end: 04:20.351
-    fields:
-      transcription: 男は家に帰ると、女にたのみました。
-      meaning: When the man came back home, he asked her, “Make a lot more cloth.” The woman replied, “Sure.” After that, she said with a serious face, “But, I have a request. Please don’t look at the inside of the room while I’m making cloth.” “Alright. I promise.” The woman made cloth every day. Once the woman made a piece of cloth, the man went to the town right away and sold it. Since the woman worked every day, she was losing her energy gradually. The cloth was popular from among a lot of people, and he could always sell it at a high price. One day, a person in the town said, “This cloth is really beautiful. I will pay ten million yen, so could you tell me how to make the cloth?” The man thought that he would try to memorize how to make it by looking at the inside of the room while she is making the cloth.
-    tags: *a1
+      transcription: |-
+        男はまたおどろきました。
+        男はいつも木を１万円で売っていたからです。
+      meaning: The man was surprised again because he usually sold a tree for 10.000 yen.
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: ead720ed-6c0f-4c41-8ba0-28d5f2eab621
-    start: 04:21.631
+    start: 04:15.488
     end: 04:24.703
     fields:
-      transcription: 「もっとたくさん布を作ってくれ。」
-    tags: *a1
-  - id: aca302b0-dc46-49ed-b7e0-9f57f98f52e5
-    start: 04:25.983
-    end: 04:27.775
-    fields:
-      transcription: 女は答えました。
-    tags: *a1
+      transcription: |-
+        男は家に帰ると、女にたのみました。
+        「もっとたくさん布を作ってくれ。」
+      meaning: "When the man came back home, he asked her, “Make a lot more cloth.” "
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: 7f39561a-6b4d-4708-805e-da5b5f9053a3
-    start: 04:29.055
+    start: 04:25.983
     end: 04:30.335
     fields:
-      transcription: 「いいですよ。」
-    tags: *a1
-  - id: 8cc0abb7-280c-4715-ad82-8237d2579c53
-    start: 04:31.103
-    end: 04:35.967
-    fields:
-      transcription: そのあと、女は真面目な顔をして言いました。
-    tags: *a1
+      transcription: |-
+        女は答えました。
+        「いいですよ。」
+      meaning: "The woman replied, “Sure.” "
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: daf53e6a-ce49-4d54-ab3b-7a6deb22c2c4
-    start: 04:37.247
+    start: 04:31.103
     end: 04:40.575
     fields:
-      transcription: 「でも、一つお願いがあります。
-    tags: *a1
+      transcription: |-
+        そのあと、女は真面目な顔をして言いました。
+        「でも、一つお願いがあります。
+      meaning: "After that, she said with a serious face, “But, I have a request. "
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: 169cce10-66f7-4aad-a829-87bb85e14d36
     start: 04:41.855
     end: 04:48.767
     fields:
       transcription: 私が布を作っている間、決して部屋の中を見ないでください。」
+      meaning: "Please don’t look at the inside of the room while I’m making cloth.” "
     tags:
       - WGR_3_tsuru_no_ongaeshi.mp3
   - id: c1ee5642-fa8a-41c5-883c-45731d873717
@@ -19383,18 +19606,21 @@ clips:
     end: 04:52.607
     fields:
       transcription: 「わかった。約束するよ。」
+      meaning: “Alright. I promise.”
     tags: *a1
   - id: 605cb30d-e11e-46ee-840e-cd37235d85e1
     start: 04:54.143
     end: 04:57.727
     fields:
       transcription: 女は毎日布を作りました。
+      meaning: "The woman made cloth every day. "
     tags: *a1
   - id: b446acc8-c988-4102-9b1f-d421f5d552f1
     start: 04:59.007
     end: 05:06.178
     fields:
       transcription: 女が布を１枚作ると、男はすぐ街に行って、それを売ります。
+      meaning: "Once the woman made a piece of cloth, the man went to the town right away and sold it. "
     tags:
       - WGR_3_tsuru_no_ongaeshi.mp3
   - id: 970c5ac9-a7c8-466a-907e-f277614f04a3
@@ -19402,6 +19628,7 @@ clips:
     end: 05:14.367
     fields:
       transcription: 女は毎日働いたので、だんだんと元気がなくなっていきました。
+      meaning: "Since the woman worked every day, she was losing her energy gradually. "
     tags:
       - WGR_3_tsuru_no_ongaeshi.mp3
   - id: 3f041a67-206d-49ee-99ac-2f9f5621ecc8
@@ -19409,118 +19636,109 @@ clips:
     end: 05:21.535
     fields:
       transcription: 布はたくさんの人から人気があって、いつも高く売れました。
-    tags: *a1
-  - id: 71b5d3ea-2408-4ec7-9882-38b6c52a378f
-    start: 05:22.815
-    end: 05:25.887
-    fields:
-      transcription: ある日、街の人が言いました。
-    tags: *a1
-  - id: 95804d33-27f4-49e1-9dd7-a94e357ccc1a
-    start: 05:27.167
-    end: 05:29.727
-    fields:
-      transcription: 「この布は本当にきれいだ。
+      meaning: "The cloth was popular from among a lot of people, and he could always sell it at a high price. "
     tags: *a1
   - id: 90071bf2-c136-46c6-b6f1-2e936a44897b
-    start: 05:31.007
+    start: 05:22.815
     end: 05:36.895
     fields:
-      transcription: １０００万円はらうので、布の作り方を教えてくれませんか？」
-    tags: *a1
-  - id: a567221c-cd84-465a-8b7d-c643545edbad
-    start: 05:38.175
-    end: 05:40.479
-    fields:
-      transcription: 男は考ました。
-    tags: *a1
-  - id: 4b0eb169-3b05-42e6-b8df-2d65a9248394
-    start: 05:41.759
-    end: 05:49.29
-    fields:
-      transcription: 女が布を作っているときに、部屋の中を見て、作り方をおぼえてしまおう。
+      transcription: |-
+        ある日、街の人が言いました。
+        「この布は本当にきれいだ。
+        １０００万円はらうので、布の作り方を教えてくれませんか？」
+      meaning: "One day, a person in the town said, “This cloth is really beautiful. I will pay ten million yen, so could you tell me how to make the cloth?” "
     tags:
       - WGR_3_tsuru_no_ongaeshi.mp3
-  - id: 4e9b402f-f5ae-4077-9b63-c1cb9d83b14f
-    start: 05:51.487
-    end: 05:56.607
+  - id: 4b0eb169-3b05-42e6-b8df-2d65a9248394
+    start: 05:38.175
+    end: 05:49.29
     fields:
-      transcription: しかし、男が家に帰ると、女は言いました。
-      meaning: However, when the man came back home, the woman said, “I got sick. I cannot make the cloth anymore.” The man said, “I want you to make one last piece of cloth. Then, rest for a while.” In the night of the day, the woman started making the last piece. “There will be no other chance to look at the inside of the room, but today.” The man went in front of the room and slowly opened the door. However, the beautiful woman was not there. Who was there was a crane who had almost no feathers. The crane made the cloth by her own feather. “Gosh!” the man was surprised and exclaimed. The crane noticed the man, and then changed her appearance to human body and said, “You promised not to look at the inside of the room…”
-    tags: *a1
+      transcription: |-
+        男は考ました。
+        女が布を作っているときに、部屋の中を見て、作り方をおぼえてしまおう。
+      meaning: The man thought that he would try to memorize how to make it by looking at the inside of the room while she is making the cloth.
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: b2783103-6752-40f7-b26f-01270e83e6ef
-    start: 05:57.887
+    start: 05:51.487
     end: 06:03.007
     fields:
-      transcription: 「病気になってしまいました。もう布を作れません。
-    tags: *a1
+      transcription: |-
+        しかし、男が家に帰ると、女は言いました。
+        「病気になってしまいました。もう布を作れません。
+      meaning: "However, when the man came back home, the woman said, “I got sick. I cannot make the cloth anymore.” "
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: 56cf36de-1016-4102-87f5-22f4f29230b9
     start: 06:04.287
-    end: 06:06.079
-    fields:
-      transcription: 男は言いました。
-    tags: *a1
-  - id: b5144a8e-13f0-4134-b1cb-50c0bf46aa4a
-    start: 06:07.359
     end: 06:13.247
     fields:
-      transcription: 「あと１枚作って欲しい。それから、しばらく休みなさい。」
-    tags: *a1
+      transcription: |-
+        男は言いました。
+        「あと１枚作って欲しい。それから、しばらく休みなさい。」
+      meaning: "The man said, “I want you to make one last piece of cloth. Then, rest for a while.” "
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: 59a0cafb-4f5a-4557-a09a-d74559ce3c89
     start: 06:14.527
     end: 06:20.159
     fields:
       transcription: その日の夜、女は最後の１枚を作り始めました。
+      meaning: "In the night of the day, the woman started making the last piece. "
     tags: *a1
   - id: 6ffcb865-fe89-4149-9a06-c5aafb9dfb45
     start: 06:21.439
     end: 06:24.511
     fields:
       transcription: 「部屋の中を見るのは、今日しかない。」
+      meaning: "“There will be no other chance to look at the inside of the room, but today.” "
     tags: *a1
   - id: 4ee6b78e-4f47-4b3f-a77f-e42df8455495
     start: 06:25.791
     end: 06:31.935
     fields:
       transcription: 男は部屋の前に行って、ゆっくりとドアをあけました。
+      meaning: "The man went in front of the room and slowly opened the door. "
     tags: *a1
   - id: a8ea6ab8-510f-49d9-ae9a-a15a7d41cbf9
     start: 06:32.191
     end: 06:37.567
     fields:
       transcription: しかし、部屋の中にあの美しい女はいません。
+      meaning: "However, the beautiful woman was not there. "
     tags: *a1
   - id: 5a85d7f5-e97e-4fb6-9274-464b356a4737
     start: 06:38.847
     end: 06:44.479
     fields:
       transcription: そこにいたのは、羽がほとんどない１羽のツルでした。
+      meaning: "Who was there was a crane who had almost no feathers. "
     tags: *a1
   - id: 0583fff3-9c02-4663-94a5-3bffa0b86106
     start: 06:45.759
     end: 06:50.367
     fields:
       transcription: ツルは自分の羽で布を作っていたのです。
+      meaning: "The crane made the cloth by her own feather. "
     tags: *a1
   - id: 296d3ac2-7af4-4abc-8b05-3e820cf4f529
     start: 06:51.647
     end: 06:58.559
     fields:
       transcription: 「うわぁー！」男はおどろいて大きな声を出しました。
+      meaning: "“Gosh!” the man was surprised and exclaimed. "
     tags:
       - WGR_3_tsuru_no_ongaeshi.mp3
-  - id: c3e69fd7-d2f8-44fe-a15b-e5739384a8bf
-    start: 06:59.839
-    end: 07:05.471
-    fields:
-      transcription: ツルは男に気がつくと、人間の体になって言いました。
-    tags: *a1
   - id: 63e8c753-923d-4ce2-8c95-6a2ee8071789
-    start: 07:06.751
+    start: 06:59.839
     end: 07:10.335
     fields:
-      transcription: 「部屋の中を見ないと約束したのに…。」
-    tags: *a1
+      transcription: |-
+        ツルは男に気がつくと、人間の体になって言いました。
+        「部屋の中を見ないと約束したのに…。」
+      meaning: The crane noticed the man, and then changed her appearance to human body and said, “You promised not to look at the inside of the room…”
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: 9fa5a388-100e-4b8a-b9bf-45228667a5ec
     start: 07:12.383
     end: 07:16.223
@@ -19564,20 +19782,18 @@ clips:
       transcription: そう言うと、女はツルの体に戻って、家を出ていきました。
       meaning: "the woman said, and then she return to the crane body and left the house. "
     tags: *a1
-  - id: 17f9a822-ffa0-431f-b179-3e5a18777c69
-    start: 07:54.111
-    end: 07:56.671
-    fields:
-      transcription: 「待って。待ってくれ。」
-      meaning: "“Wait. Wait,” "
-    tags: *a1
   - id: 563caec8-d5ad-479f-a807-6cca691cdfbf
-    start: 07:57.695
+    start: 07:54.111
     end: 08:03.327
     fields:
-      transcription: 男は女に言いましたが、女は返事をしません。
-      meaning: the man said to the woman, but she didn’t reply.
-    tags: *a1
+      transcription: |-
+        「待って。待ってくれ。」
+        男は女に言いましたが、女は返事をしません。
+      meaning: |-
+        “Wait. Wait,” 
+        the man said to the woman, but she didn’t reply.
+    tags:
+      - WGR_3_tsuru_no_ongaeshi.mp3
   - id: d7d8311f-0cfd-41da-bcb0-30afc79c8793
     start: 08:04.607
     end: 08:12.002
@@ -19614,8 +19830,7 @@ clips:
     fields:
       transcription: 注文の多い料理店
       meaning: The Restaurant That Has Many Orders
-    tags:
-      &a1
+    tags: &a1
       - WGR_4_chuumon_no_ooi_ryouriten.mp3
   - id: 0eb6f284-2b1a-4428-8789-3927efd2ec04
     start: 00:05.12
@@ -20606,8 +20821,7 @@ clips:
     fields:
       transcription: 走れメロス
       pronunciation: Run, Melos!
-    tags:
-      &a1
+    tags: &a1
       - WGR_5_hashire_merosu.mp3
   - id: 113b1d22-a46c-40ca-a87e-f96c1fda85d3
     start: 00:04.096

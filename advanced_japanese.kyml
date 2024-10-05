@@ -3,7 +3,7 @@
 name: Advanced Japanese
 noteType: Simple
 createdAt: 2020-12-15T18:29:15Z
-timestamp: 2024-03-22T22:55:06Z
+timestamp: 2024-10-05T00:00:00Z
 id: 7e0055cb-c97c-4ce0-afe6-082086d027b9
 ---
 name: 01-AudioTrack 01.mp3
@@ -10581,3 +10581,571 @@ clips:
       type: VideoStill
 flashcardFieldsToSubtitlesTracks:
   transcription: 3ef1594a-37ed-40fe-8517-ca087d882ea8
+---
+name: Frieren - Beyond Journey's End - S01E01 - The Journey's End.mkv
+format: matroska,webm
+duration: 25:59.991
+id: a0e95a61-72b5-4d05-a6f8-1903d10b2b99
+subtitles:
+  - id: 78fef95c-5c9f-4ecc-a3fd-87a8c7af390f
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 329
+      endCueMs: 1559933
+  - id: 6429a97c-7aa1-4f6e-b4fe-661fc488779e
+    type: External
+    chunksMetadata:
+      count: 342
+      endCueMs: 1549860
+    name: Frieren - Beyond Journey's End - S01E01 - The Journey's End.ja.srt
+clips:
+  - id: a8f15693-ee25-4136-aa6e-a74155afed7d
+    start: 02:10.499
+    end: 02:15.219
+    fields:
+      transcription: |-
+        私たち勇者一行の凱旋です
+        盛り上がっているでしょうね
+      meaning: |-
+        They're going to celebrate
+        the triumphant return of the heroes.
+        It will be quite the party.
+    tags: &a1
+      - Frieren_-_Beyond_Journey's_End_-_S01E01_-_The_Journey's_End.mkv
+    image:
+      type: VideoStill
+  - id: ba67a4cc-25a5-4995-8f32-51e5213c95de
+    start: 04:07.523
+    end: 04:14.303
+    fields:
+      transcription: |-
+        まあ イケメンであるこの僕を忠実に再現できるかどうかは
+        甚だ疑問だがね
+      meaning: |-
+        That said, I doubt they can recreate
+        my incredibly dashing look.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 2cb00332-804c-4d69-b907-bb11cbe03497
+    start: 04:58.49
+    end: 05:01.86
+    fields:
+      transcription: |-
+        下手したらあそこで冒険 終わってたよね
+        うんうん
+      meaning: Our adventure would have ended right there if we weren't careful.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d763d7b1-e471-4af9-b058-be9b9d8e970f
+    start: 10:26.774
+    end: 10:29.974
+    fields:
+      transcription: 片ときも忘れたことはないよ
+      meaning: |-
+        I never forgot about it
+        for even a moment.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 2a623e9b-34b6-4cb2-a02a-b951e520f80f
+    start: 11:09.82
+    end: 11:12.65
+    fields:
+      transcription: そんな大層なものじゃないんだけどな
+      meaning: It's not that important though.
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 6429a97c-7aa1-4f6e-b4fe-661fc488779e
+  meaning: 78fef95c-5c9f-4ecc-a3fd-87a8c7af390f
+---
+name: Frieren - Beyond Journey's End - S01E02 - It Didn't Have to Be Magic.mkv
+format: matroska,webm
+duration: 26:00.055
+id: 288124b1-b0df-40a7-85ef-de876e954c6b
+subtitles:
+  - id: 483a8b24-97c8-4efe-b47e-978a1c1bbc64
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 314
+      endCueMs: 1560013
+  - id: 312257f5-fb89-45cb-af09-74278f22aa01
+    type: External
+    chunksMetadata:
+      count: 336
+      endCueMs: 1549860
+    name: Frieren - Beyond Journey's End - S01E02 - It Didn't Have to Be Magic.ja.srt
+clips:
+  - id: 23fba1a3-ad9e-4ce0-ae36-2ca0f0aca1c6
+    start: 03:37.32
+    end: 03:44.513
+    fields:
+      transcription: |-
+        常人なら10年かかる道を４年で越えた
+        あの子は打ち込みすぎだ
+        あまり いいことじゃない
+      meaning: |-
+        In four years, she learned what others would normally learn in ten years.
+        She's too driven.
+        It's not a good thing.
+    tags: &a2
+      - Frieren_-_Beyond_Journey's_End_-_S01E02_-_It_Didn't_Have_to_Be_Magic.mkv
+    image:
+      type: VideoStill
+  - id: 20494330-db7e-46a5-8268-d8df261faec7
+    start: 03:51.553
+    end: 03:58.195
+    fields:
+      transcription: |-
+        それでも 一人前になるのはまだ先のことだ
+        魔導書の解読のほうが早く終わるよ
+      meaning: |-
+        Even so, she's still far from
+        being a full-fledged mage.
+        I would finish deciphering
+        this grimoire before that.
+    tags:
+      - Frieren_-_Beyond_Journey's_End_-_S01E02_-_It_Didn't_Have_to_Be_Magic.mkv
+    image:
+      type: VideoStill
+  - id: fbcdd9e1-f942-4ab2-a2b6-cc1ebc44fb7e
+    start: 04:46.1
+    end: 04:48.89
+    fields:
+      transcription: まだ 一番岩を打ち抜けておりません
+      meaning: I haven't shot through the boulder yet.
+    tags: &a1
+      - Frieren_-_Beyond_Journey's_End_-_S01E02_-_It_Didn't_Have_to_Be_Magic.mkv
+    image:
+      type: VideoStill
+  - id: 76dcd92f-d284-4b75-9539-c663532da6e9
+    start: 05:47.12
+    end: 05:56.313
+    fields:
+      transcription: |-
+        私は彼とは違うのでおとなしく余生を過ごそうと思っていたのですが
+        ある時ふと気がついてしまいまして
+      meaning: I'm not him, so I was going to just live the rest of my life quietly, but one day, I realized.
+    tags:
+      - Frieren_-_Beyond_Journey's_End_-_S01E02_-_It_Didn't_Have_to_Be_Magic.mkv
+    image:
+      type: VideoStill
+  - id: 1b7749f9-cb86-4540-92f4-2934b393f22e
+    start: 06:22.65
+    end: 06:26.95
+    fields:
+      transcription: ハイター様はずっと私を置いて死ぬことを危惧しておりました
+      meaning: |-
+        Master Heiter always feared dying
+        and leaving me alone.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 4ab095b2-0669-4e44-a377-252c467b8a3f
+    start: 07:58.37
+    end: 08:02.073
+    fields:
+      transcription: 死者の蘇生も 不死の魔法も書かれていなかったよ
+      meaning: There's nothing in it about resurrection or immortality.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 8e8fbdb8-53cf-406a-877b-40b5a667cab4
+    start: 08:19.69
+    end: 08:25.423
+    fields:
+      transcription: まだ 荒いところはあるけど、一人前といっても遜色のないレベルだよ
+      meaning: |-
+        She still has some rough edges,
+        but she is comparable to
+        a full-fledged mage now.
+    tags:
+      - Frieren_-_Beyond_Journey's_End_-_S01E02_-_It_Didn't_Have_to_Be_Magic.mkv
+    image:
+      type: VideoStill
+  - id: 5f1b39de-94ea-4600-922c-689e4992a6c0
+    start: 08:46.88
+    end: 08:50.048
+    fields:
+      transcription: |-
+        図ったな ハイター
+        （ハイター）ハハハッ…
+      meaning: You tricked me, Heiter.
+    tags:
+      - Frieren_-_Beyond_Journey's_End_-_S01E02_-_It_Didn't_Have_to_Be_Magic.mkv
+    image:
+      type: VideoStill
+  - id: 7fb2e107-fc88-44ea-9ddf-880980c17818
+    start: 08:51.97
+    end: 08:58.773
+    fields:
+      transcription: |-
+        解読の手間賃は机の引き出しに
+        今夜にはここをたってください
+      meaning: Your payment for deciphering the grimoire is in the desk drawer. Please leave this place by tonight.
+    tags:
+      - Frieren_-_Beyond_Journey's_End_-_S01E02_-_It_Didn't_Have_to_Be_Magic.mkv
+    image:
+      type: VideoStill
+  - id: f67f94ca-d2ba-4346-9dc5-857294dcbe48
+    start: 10:59.099
+    end: 11:05.093
+    fields:
+      transcription: |-
+        私は ただ してやられただけだよ
+        この生臭坊主に
+      meaning: |-
+        I was just being tricked
+        by this corrupt priest.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: f03525da-cda5-4af9-af32-1eaaf8bceb4b
+    start: 12:02.28
+    end: 12:10.405
+    fields:
+      transcription: |-
+        （フェルン）この前は銅像の錆を
+        きれいに取る魔法
+        それまた前は 甘いブドウを
+        酸っぱいブドウに変える魔法
+        （フリーレン）どう？
+        （フェルン）酸っぱい…
+      meaning: |-
+        The other day was a spell that
+        removes rust from bronze statues.
+        And before that, a spell that turns
+        sweet grapes into sour grapes.
+    tags:
+      - Frieren_-_Beyond_Journey's_End_-_S01E02_-_It_Didn't_Have_to_Be_Magic.mkv
+    image:
+      type: VideoStill
+  - id: 7c07b77c-d99e-44ad-9935-425615c62e85
+    start: 12:54.878
+    end: 13:03.458
+    fields:
+      transcription: |-
+        （フェルン）
+        勇者 ヒンメル様の像ですか
+        （薬草家）
+        ひどいありさまでしょう
+        年寄り１人ではもう どうしようもなくてね
+      meaning: |-
+        A statue of Himmel the hero?
+        Such a horrible state, isn't it? I can't do anything about it on my own at this age.
+    tags: *a2
+    image:
+      type: VideoStill
+  - id: 921c8a3d-25fc-4d75-a3b0-e88091649fee
+    start: 13:42.536
+    end: 13:51.896
+    fields:
+      transcription: |-
+        自業自得だね
+        目立ちたがり屋のヒンメルが悪い
+        村人が像を建てるって言った時に断っていればよかったんだ
+      meaning: |-
+        This is what he deserves. It's his fault for being
+        an attention seeker.
+        He should've refused when the villagers said they wanted to make a statue of him.
+    tags: *a2
+    image:
+      type: VideoStill
+  - id: 3257ad5c-3ad5-4507-9812-ed848fa23318
+    start: 15:16.535
+    end: 15:21.835
+    fields:
+      transcription: |-
+        昔は あの森の奥にも
+        群生地があったんだけれどもね
+      meaning: |-
+        They used to grow
+        somewhere deep in that forest.
+    tags: *a2
+    image:
+      type: VideoStill
+  - id: 1dcf4cc7-574b-4a53-a989-1cb3ebf122ae
+    start: 15:27.475
+    end: 15:36.975
+    fields:
+      transcription: |-
+        ここら辺には
+        もうないの？
+        絶滅したのよ
+        この大陸での目撃例は
+        もう何十年もないわ
+      meaning: |-
+        Do they no longer exist around here?
+        It went extinct.
+        No one has seen them
+        in this continent for decades.
+    tags: *a2
+    image:
+      type: VideoStill
+  - id: b52457ce-6682-4de3-9466-dc232c4b6b44
+    start: 18:20.24
+    end: 18:25.343
+    fields:
+      transcription: |-
+        ありもしないもののために
+        時間を使うだなんて
+        あってはならないことです
+      meaning: |-
+        She shouldn't waste her time looking
+        for something that might not even exist.
+    tags: *a2
+    image:
+      type: VideoStill
+  - id: 7f36e5de-b293-4d28-8b68-ac840ce775aa
+    start: 19:12.576
+    end: 19:21.456
+    fields:
+      transcription: |-
+        （フェルン）薬効があるため保管されていた⸺近縁種の種だそうです
+        これを代わりにヒンメル様の像の周りに植えるというのは…
+      meaning: |-
+        These are the seed of
+        a closely related species
+        that is kept for its medicinal value.
+        Can we plant these around
+        Master Himmel's statue instead?
+    tags: *a2
+    image:
+      type: VideoStill
+  - id: 4848b555-80f6-4c36-8eee-6b7ab349a9b5
+    start: 19:29.496
+    end: 19:36.856
+    fields:
+      transcription: |-
+        （フリーレン）
+        私１人の時間ってわけでもない
+        潮時だ
+        もう少し探したら 切り上げるよ
+      meaning: |-
+        It's not just my own time anymore.
+        I need to finish it up.
+        We can give up after
+        we look a little bit more.
+    tags: *a2
+    image:
+      type: VideoStill
+  - id: 629791c2-8d94-46be-9fd0-b6acc607ec90
+    start: 20:41.93
+    end: 20:45.773
+    fields:
+      transcription: 前は もっと無気力にだらだらと生きていたんだけどね
+      meaning: I actually used to be more apathetic and lazy before.
+    tags: *a2
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: 312257f5-fb89-45cb-af09-74278f22aa01
+  meaning: 483a8b24-97c8-4efe-b47e-978a1c1bbc64
+---
+name: Frieren - Beyond Journey's End - S01E03 - Killing Magic.mkv
+format: matroska,webm
+duration: 24:30.007
+id: 67bf0533-9d86-4158-adf8-c00121af9fac
+subtitles:
+  - id: df88a52e-0c64-4de0-b5c9-4a2ba9939365
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 323
+      endCueMs: 1470003
+  - id: 923f1aad-8237-453c-879d-eae66d62c175
+    type: External
+    chunksMetadata:
+      count: 321
+      endCueMs: 1459810
+    name: Frieren - Beyond Journey's End - S01E03 - Killing Magic.ja.srt
+flashcardFieldsToSubtitlesTracks:
+  transcription: 923f1aad-8237-453c-879d-eae66d62c175
+  meaning: df88a52e-0c64-4de0-b5c9-4a2ba9939365
+---
+name: Frieren - Beyond Journey's End - S01E04 - The Land Where Souls Rest.mkv
+format: matroska,webm
+duration: 25:59.895
+id: b3402847-55d6-4344-bb41-c7919e994084
+subtitles:
+  - id: bc91e0cc-1518-4606-b9fb-e4ac72eff412
+    streamIndex: 2
+    type: Embedded
+    chunksMetadata:
+      count: 380
+      endCueMs: 1559843
+  - id: d81b8e04-225c-499f-86ea-aef7fb2150e2
+    type: External
+    chunksMetadata:
+      count: 379
+      endCueMs: 1549740
+    name: Frieren - Beyond Journey's End - S01E04 - The Land Where Souls Rest.ja.srt
+clips:
+  - id: e5803b77-6921-4a1e-a1ff-9e4fae6137f9
+    start: 01:37.366
+    end: 01:44.626
+    fields:
+      transcription: |-
+        （村長）ここは 古くからの航行の難所でしてな
+        いろいろなものが流れ着くのです
+      meaning: |-
+        This area has always been hard to sail through since the old days.
+        That's why a lot of things get washed ashore.
+    tags: &a1
+      - Frieren_-_Beyond_Journey's_End_-_S01E04_-_The_Land_Where_Souls_Rest.mkv
+    image:
+      type: VideoStill
+  - id: b613fa15-6dce-4c3d-858b-ff53feb3ee45
+    start: 01:46.006
+    end: 01:57.906
+    fields:
+      transcription: |-
+        昔は村総出で整備していましたが
+        （フリーレン）
+        人手が足りなくなって放置ってわけか
+        （村長）以前は 透き通るようなきれいな海でした
+      meaning: |-
+        In the past, everyone in the village used to maintain the coast together, but...
+        Now they lack the manpower and it became neglected, is it?
+        The sea used to be so beautiful, with crystal-clear water.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3d5e639f-06f0-4c09-8785-92f8ecd9aa5f
+    start: 02:19.43
+    end: 02:23.23
+    fields:
+      transcription: |-
+        （フリーレン）分かった
+        清掃の仕事 引き受けるよ
+      meaning: |-
+        I understand.
+        We will accept your clean-up request.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 081e0762-bdd9-42b5-80f9-4e7c280613e8
+    start: 02:56.82
+    end: 02:59.633
+    fields:
+      transcription: また 長い滞在になりそうですね
+      meaning: |-
+        Seems like we'll be staying
+        for quite a while again.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 3df2c624-85ea-417c-8ee9-823aefbf8384
+    start: 05:26.11
+    end: 05:30.71
+    fields:
+      transcription: |-
+        勇者様たちって寛大なんですね
+        （フリーレン）器が違うよね
+      meaning: |-
+        They must've been very tolerant.
+        They all have a big heart.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: d69c9446-8f9f-42c5-8358-f202e107d0dc
+    start: 10:39.919
+    end: 10:52.639
+    fields:
+      transcription: |-
+        （アイゼン）人は死んだら 無に還(かえ)る
+        天国に行くんですよ
+        （フリーレン）数千年前までは無に還るって考えが主流だったからね
+        ドワーフは伝統を重んじる
+      meaning: |-
+        When people die,
+        they return to nothingness.
+        They go to heaven.
+        Until a few thousand years ago, the common
+        belief was that people return to nothing.
+        Dwarves value their traditions.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: b3d6588a-ccfd-453f-89a2-045c4c82f746
+    start: 12:36.74
+    end: 12:41.073
+    fields:
+      transcription: |-
+        なんで知っているの？
+        （アイゼン）文通をしていたからな
+      meaning: |-
+        How did you know?
+        Because we exchanged letters.
+    tags:
+      - Frieren_-_Beyond_Journey's_End_-_S01E04_-_The_Land_Where_Souls_Rest.mkv
+    image:
+      type: VideoStill
+  - id: a29f3fb9-0b6e-479a-bdd2-16265c1ccff0
+    start: 15:07.478
+    end: 15:12.878
+    fields:
+      transcription: |-
+        西のほうに
+        遺跡をのみ込んだ大樹がありました
+        こちらです
+      meaning: |-
+        I saw a giant tree growing
+        over ruins to the west.
+        It's this way.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 44094881-5ba0-4f86-b54a-38128c68f612
+    start: 15:45.43
+    end: 15:52.85
+    fields:
+      transcription: |-
+        大魔法使い フランメの手記には
+        死者と対話したという記録が
+        残っているとされている
+      meaning: |-
+        It is said that
+        in the great mage Flamme's notes,
+        there is a record of her
+        talking to the dead.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 2a876faa-e19d-4fb1-8b1e-766925f5e828
+    start: 16:59.292
+    end: 17:05.152
+    fields:
+      transcription: |-
+        お前は いつか 大きな過ちを犯し
+        人を知りたいと考えるようになる
+      meaning: |-
+        One day you will make
+        a huge mistake,
+        and will start wanting to
+        know more about people.
+    tags: *a1
+    image:
+      type: VideoStill
+  - id: 41720b6c-93ff-4c50-aaed-980bcd65a312
+    start: 19:50.21
+    end: 19:55.59
+    fields:
+      transcription: |-
+        行きたくないなあ
+        （フェルン）
+        もう めげ始めている…
+      meaning: |-
+        I don't wanna go...
+        She's already getting discouraged.
+    tags: *a1
+    image:
+      type: VideoStill
+flashcardFieldsToSubtitlesTracks:
+  transcription: d81b8e04-225c-499f-86ea-aef7fb2150e2
+  meaning: bc91e0cc-1518-4606-b9fb-e4ac72eff412
